@@ -2,6 +2,7 @@
 library(tidyverse)
 library(rvest)
 library(polite)
+library(here)
 
 # helpers ----------------------------------------------------------------
 html_text_or_na <- function(x, selector) {
@@ -81,6 +82,35 @@ parse_carview <- function(x, base_url) {
   
   output
 }
+
+# transforma columnas a HTML (links, imágenes, lightbox)
+prep_dt_data <- function(data) {
+  data |>
+    select(year, number, car_title, result, result_status, group, entrant,
+           make, model, chassis, grid,
+           thumb_url, photo_url, make_url, model_url, chassis_url) |>
+    mutate(
+      year       = as.character(year),
+      number     = as.character(number),
+      photo_full = if_else(!is.na(photo_url) & !str_ends(photo_url, "/NA"), photo_url, thumb_url),
+      photo = if_else(
+        !is.na(thumb_url),
+        str_glue("<img src='{thumb_url}' data-full='{photo_full}' height='60' class='lightbox-img' style='cursor:zoom-in;border-radius:4px;'/>"),
+        NA_character_
+      ),
+      car_title = if_else(
+        !is.na(photo_url) & !str_ends(photo_url, "/NA"),
+        str_glue('<a href="{photo_url}" target="_blank">{car_title}</a>'),
+        car_title
+      ),
+      make    = if_else(!is.na(make_url),    str_glue('<a href="{make_url}"    target="_blank">{make}</a>'),    make),
+      model   = if_else(!is.na(model_url),   str_glue('<a href="{model_url}"   target="_blank">{model}</a>'),   model),
+      chassis = if_else(!is.na(chassis_url), str_glue('<a href="{chassis_url}" target="_blank">{chassis}</a>'), chassis)
+    ) |>
+    select(year, number, photo, car_title, result, result_status, group,
+           entrant, make, model, chassis, grid)
+}
+
 # data -------------------------------------------------------------------
 le_mans_dates <- c(
   # 2020s
@@ -236,36 +266,6 @@ datalm |>
 # datatable --------------------------------------------------------------
 glimpse(datalm)
 
-# helpers ----------------------------------------------------------------
-
-# transforma columnas a HTML (links, imágenes, lightbox)
-prep_dt_data <- function(data) {
-  data |>
-    select(year, number, car_title, result, result_status, group, entrant,
-           make, model, chassis, grid,
-           thumb_url, photo_url, make_url, model_url, chassis_url) |>
-    mutate(
-      year       = as.character(year),
-      number     = as.character(number),
-      photo_full = if_else(!is.na(photo_url) & !str_ends(photo_url, "/NA"), photo_url, thumb_url),
-      photo = if_else(
-        !is.na(thumb_url),
-        str_glue("<img src='{thumb_url}' data-full='{photo_full}' height='60' class='lightbox-img' style='cursor:zoom-in;border-radius:4px;'/>"),
-        NA_character_
-      ),
-      car_title = if_else(
-        !is.na(photo_url) & !str_ends(photo_url, "/NA"),
-        str_glue('<a href="{photo_url}" target="_blank">{car_title}</a>'),
-        car_title
-      ),
-      make    = if_else(!is.na(make_url),    str_glue('<a href="{make_url}"    target="_blank">{make}</a>'),    make),
-      model   = if_else(!is.na(model_url),   str_glue('<a href="{model_url}"   target="_blank">{model}</a>'),   model),
-      chassis = if_else(!is.na(chassis_url), str_glue('<a href="{chassis_url}" target="_blank">{chassis}</a>'), chassis)
-    ) |>
-    select(year, number, photo, car_title, result, result_status, group,
-           entrant, make, model, chassis, grid)
-}
-
 # construye el DT con estilo, lightbox y filtros
 make_lemans_dt <- function(data, element_id) {
   data |>
@@ -349,7 +349,7 @@ datalm_min <- bind_rows(
     filter(result_status == "not_finished") |>
     slice_head(n = 1, by = c(year, group))
 ) |>
-  arrange(year, result) |>
+  arrange(desc(year), result) |>
   prep_dt_data()
 
 nrow(datalm_full)
@@ -361,9 +361,9 @@ dt_lm_full <- make_lemans_dt(datalm_full, "lemans-full")
 dt_lm_min  <- make_lemans_dt(datalm_min,  "lemans-min")
 
 dt_lm_full  # preview en viewer
+dt_lm_min
 
-# guardar ----------------------------------------------------------------
-
+# save -------------------------------------------------------------------
 fs::dir_create("outputs/html")
 
 htmlwidgets::saveWidget(
@@ -380,5 +380,5 @@ htmlwidgets::saveWidget(
   selfcontained = FALSE
 )
 
-cli::cli_alert_success("Guardado: outputs/html/lemans_results_full.html ({nrow(datalm_full)} filas)"  )
+cli::cli_alert_success("Guardado: outputs/html/lemans_results_full.html ({nrow(datalm_full)} filas)")
 cli::cli_alert_success("Guardado: outputs/html/lemans_results_min.html  ({nrow(datalm_min)} filas)")
