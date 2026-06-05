@@ -24,21 +24,34 @@ first_or_na <- function(x) {
   if (length(x) == 0) NA_character_ else x[[1]]
 }
 
+add_missing_cols <- function(data, cols) {
+  for (col in cols) {
+    if (!col %in% names(data)) data[[col]] <- NA_character_
+  }
+  data
+}
+
 parse_carview <- function(x, base_url) {
   
   site_url <- "https://www.racingsportscars.com/"
-  
+
+  if(str_detect(html_text_or_na(x, ".result"), "^Result: did not arrive|^Result: did not qualify|^Result: did not start"))  return(tibble())
+
   car_links <- x |>
     html_elements(".car.header a")
 
+  if(length(car_links) <= 1)  return(tibble())
+  
   car_links <- tibble(
     text = html_text2(car_links),
     href = html_attr(car_links, "href") |> url_absolute(base = site_url),
     type = str_extract(href, "(?<=racingsportscars\\.com/)[^/]+(?=/photo/)")
   )
   
+  txt <- car_links |> pull(text) |> str_c(collapse = " ")
+  cli::cli_progress_step(txt)
+  
   car_links <- car_links |>
-    filter(!is.na(type)) |>
     summarise(text = str_c(text, collapse = " "), href = str_c(href, collapse = " | "), .by = type) |>
     pivot_wider(names_from = type, values_from = c(text, href), names_glue = "{type}_{.value}") |>
     rename_with(~ str_remove(.x, "_text$"), ends_with("_text")) |>
@@ -63,6 +76,7 @@ parse_carview <- function(x, base_url) {
     photo_url   = html_attr_or_na(x, ".photo input[type='hidden']", "value") |> url_absolute(base = site_url)
   ) |>
     bind_cols(car_links) |>
+    add_missing_cols(c("type", "type_url")) |>
     rename(model = type, model_url = type_url)
   
   output
@@ -108,35 +122,36 @@ le_mans_tbl <- tibble(
   url = str_glue("https://www.racingsportscars.com/photo/Le_Mans-{date}.html?sort=Results")
 )
 
-data <- le_mans_tbl |>
-  pmap(function(date, year, url) {
-    # year <- 1979
-    # url <- "https://www.racingsportscars.com/photo/Le_Mans-1979-06-10.html?sort=Results"
+fs::dir_create("data/lemans/results/")
 
-    cli::cli_progress_step("{year}: {url}")
+pwalk(le_mans_tbl, function(date, year, url) {
+  # year <- 2011
+  # url <- "https://www.racingsportscars.com/photo/Le_Mans-1959-06-21.html?sort=Results"
 
-    session <- bow(
-      url = url,
-      user_agent = "Joshua Kunst jbkunst@gmail.com"
-    )
+  fout <- str_glue("data/lemans/results/{year}.csv")
 
-    page <- scrape(session)
+  cli::cli_progress_step("{year}: {url} -> {fout}")
 
-    cars <- page |>
-      html_elements(".carview") |>
-      map_dfr(parse_carview, base_url = url)
-    
-    cars <- cars |>
-      mutate(across(c(drivers, sponsor, colour, tyre, updated, contributor), ~ str_remove(.x, "^[^:]+:\\s*")))
-    
-    cars <- cars |>
-      relocate(ends_with("_url"), .after = last_col())
-    
-   cars_clean <- cars |>
+  if(file.exists(fout)) return(TRUE)
+
+  session <- bow(
+    url = url,
+    user_agent = "Joshua Kunst jbkunst@gmail.com"
+  )
+
+  page <- scrape(session)
+
+  cars <- page |>
+    html_elements(".carview") |>
+    map_dfr(parse_carview, base_url = url)
+  # x <- page |> html_elements(".carview") |> pluck(25)
+  # parse_carview(x, base_url = url)
+
+  cars_clean <- cars |>
     mutate(
       result_raw = result,
       result_txt = str_remove(result_raw, "^Result:\\s*"),
-
+      
       result_status = case_when(
         str_detect(result_txt, "^(winner|\\d+(st|nd|rd|th)\\b)") ~ "finished",
         str_detect(result_txt, "^did not finish") ~ "not_finished",
@@ -144,39 +159,75 @@ data <- le_mans_tbl |>
         str_detect(result_txt, "^did not arrive") ~ "not_arrived",
         TRUE ~ "other"
       ),
-
+      
       result = case_when(
         str_detect(result_txt, "^winner") ~ 1L,
-        result_status == "finished" ~ str_extract(result_txt, "^\\d+") |>
-          as.integer(),
+        result_status == "finished" ~ str_extract(result_txt, "^\\d+") |> as.integer(),
         TRUE ~ NA_integer_
       ),
-
-      grid = str_extract(result_txt, "(?<=Grid: )\\d+(?=st|nd|rd|th)") |>
-        as.integer(),
-      grid_time = str_match(
-        result_txt,
-        "Grid: \\d+(?:st|nd|rd|th) \\(([^)]+)\\)"
-      )[, 2],
-
-      finish_gap = if_else(
-        result_status == "finished",
-        str_extract(result_txt, "\\([^)]*(behind the winner|kph)[^)]*\\)") |>
-          str_remove_all("^\\(|\\)$"),
-        NA_character_
-      ),
-      dnf_reason = if_else(
-        result_status != "finished",
-        str_extract(result_txt, "\\([^)]*\\)") |> str_remove_all("^\\(|\\)$"),
-        NA_character_
-      ),
-
-      across(
-        c(drivers, sponsor, colour, tyre, updated, contributor),
-        ~ str_remove(.x, "^[^:]+:\\s*")
-      )
+      
+      grid = str_extract(result_txt, "(?<=Grid: )\\d+(?=st|nd|rd|th)") |> as.integer(),
+      grid_time = str_match(result_txt, "Grid: \\d+(?:st|nd|rd|th) \\(([^)]+)\\)")[, 2],
+      
+      finish_gap = if_else(result_status == "finished", str_extract(result_txt, "\\([^)]*(behind the winner|kph)[^)]*\\)") |> str_remove_all("^\\(|\\)$"), NA_character_),
+      dnf_reason = if_else(result_status != "finished", str_extract(result_txt, "\\([^)]*\\)") |> str_remove_all("^\\(|\\)$"), NA_character_),
+      
+      across(c(drivers, sponsor, colour, tyre, updated, contributor), ~ str_remove(.x, "^[^:]+:\\s*")),
+      across(where(is.character), ~ if_else(str_to_lower(str_squish(.x)) == "unknown", NA_character_, .x))
     )
-    
-    cars_clean |> glimpse()
   
-  })
+  cars_clean <- cars_clean |> 
+    mutate(year = year, .before = 1) |> 
+    select(year, number, car_title, result, everything()) |>
+    relocate(ends_with("_url"), .after = last_col())
+
+  write_csv(cars_clean, fout)
+    
+})
+
+datalm <- fs::dir_ls("data/lemans/results/") |>
+  rev() |> 
+  map_df(read_csv, show_col_types = FALSE, col_types = cols(.default = col_guess(), grid_time = col_character()))
+
+datalm <- datalm |>
+  mutate(grid_time = lubridate::ms(grid_time))
+
+datalm
+
+datalm |> 
+  count(make, model, chassis, sort = TRUE) |> 
+  filter(!is.na(chassis))
+
+datalm |> 
+  count(make, model, sort = TRUE) 
+
+datalm |> 
+  count(car_title, sort = TRUE) 
+
+datalm |>
+  filter(!is.na(chassis), chassis != "#") |>
+  count(car_title, sort = TRUE)
+
+datalm |>
+  filter(chassis == "#GTE-003") |>
+  select(year, make, model, chassis, entrant, drivers, result, result_status, colour, sponsor) |>
+  arrange(year)
+
+datalm |>
+  filter(chassis == "#194378S410300") |>
+  select(year, make, model, chassis, entrant, drivers, result, result_status, colour, sponsor) |>
+  arrange(year)
+
+datalm |>
+  filter(!is.na(chassis), chassis != "#") |>
+  group_by(make, model, chassis) |>
+  summarise(
+    n = n(),
+    first_year = min(year, na.rm = TRUE),
+    last_year = max(year, na.rm = TRUE),
+    years = str_c(sort(unique(year)), collapse = ", "),
+    entrants = str_c(sort(unique(entrant)), collapse = " | "),
+    best_result = if_else(all(is.na(result)), NA_integer_, min(result, na.rm = TRUE)),
+    .groups = "drop"
+  ) |>
+  arrange(desc(n), first_year)
