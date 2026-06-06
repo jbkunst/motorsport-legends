@@ -1,0 +1,27 @@
+race,year,number,name,maker_164,status,note,url
+24LM,1970,21,Porsche 917 K #016,Kyosho,own,Gulf/J.W. Automotive; DNF; Rodríguez/Kinnunen,NA
+24LM,1970,23,Porsche 917 K,Spark,own,ganador Le Mans 1970; Salzburg; Attwood/Herrmann,NA
+24LM,1971,22,Porsche 917 K,Tarmac/Ixo/Curitiba?,exists_164_no_own,ganador Le Mans 1971; Martini; Marko/van Lennep,https://www.minidiecast.cl/tarmac-works-curitiba-164-porsche-917-kh-24h-le-mans-1971-winner-22
+24LM,1974,21,Porsche 911 Carrera RSR Turbo #911,Kyosho,own,Martini Racing Team,NA
+24LM,1974,22,Porsche 911 Carrera RSR Turbo #911,Kyosho,own,Martini Racing Team,NA
+24LM,1979,41,Porsche 935 K3 #009 00015,Tarmac,own,ganador Le Mans 1979; Kremer Racing,NA
+24LM,1991,55,Mazda 787B,Kyosho,own,ganador Le Mans 1991,NA
+24LM,1994,36,Dauer 962 LM Porsche,Spark,own,ganador Le Mans 1994; revisar si tu base dice 956/962,NA
+24LM,1994,75,Nissan 300ZX Turbo,Kyosho,own,5º general; 1º IMSA GTS,NA
+24LM,1995,59,McLaren F1 GTR,Kyosho,own,ganador Le Mans 1995,NA
+24LM,1996,25,Porsche 911 GT1,Kyosho,own,2º general; 1º GT1; Stuck/Wollek/Boutsen,NA
+24LM,1997,25,Porsche 911 GT1 Evo #004,Kyosho,own,DNF; Porsche AG; Wollek/Stuck/Boutsen,NA
+24LM,1998,26,Porsche 911 GT1-98,Kyosho,own,ganador Le Mans 1998; McNish/Ortelli/Aiello,NA
+24LM,2009,7,Lola Aston Martin DBR1-2 LMP1,Kyosho,own,Gulf; #007 en miniatura,usar number=7 para cruzar con Racing Sports Cars
+24LM,1999,15,BMW V12 LMR #003/99,Kyosho,own,ganador Le Mans 1999; Martini/Dalmas/Winkelhock,NA
+24LM,1999,17,BMW V12 LMR #002/99,Kyosho,own,asumo que es el segundo BMW blanco; DNF Le Mans 1999; Kristensen/Lehto/Müller,NA
+24LM,1988,2,Jaguar XJR-9 LM #TWR-J12C-488,Kyosho,own,ganador Le Mans 1988; Silk Cut Jaguar; Lammers/Dumfries/Wallace,NA
+24LM,1988,1,Jaguar XJR-9 LM,Kyosho,own,tienes un segundo Jaguar; revisar número en la base: posible #3 #21 o #22,NA
+24LM,1998,32,Nissan R390 GT1,Kyosho,own,3º general Le Mans 1998; Hoshino/Suzuki/Kageyama,NA
+24LM,1997,23,Nissan R390 GT1 #R2,Kyosho,own,12º general Le Mans 1997; Hoshino/Comas/Kageyama,NA
+24LM,1989,61,Sauber-Mercedes C9/88 #88-C9-04,Kyosho,own,2º general Le Mans 1989; el ganador fue el #63,NA
+24LM,1996,39,McLaren F1 GTR #17R,Kyosho,own_check,FINA cola corta; 8º general Le Mans 1996; Cecotto/Sullivan/Piquet,NA
+24LM,1996,33,McLaren F1 GTR #12R,Kyosho,own_check,Gulf cola corta; 9º general Le Mans 1996; Lehto/Weaver/Bellm,NA
+24LM,1997,42,McLaren F1 GTR 97 #24R,Kyosho,exists_164_no_own,FINA cola larga; te falta; DNF Le Mans 1997,NA
+24LM,1997,41,McLaren F1 GTR 97,Kyosho,own_check,Loctite negro cola larga; revisar número exacto en base,NA
+24LM,1976,40,Porsche 935 #002,Minichamps,own,4º general y 1º Grupo 5 Le Mans 1976; Martini; Schurti/Stommelen,NA
