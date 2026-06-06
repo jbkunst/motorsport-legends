@@ -127,12 +127,15 @@ clean_cars <- function(cars, year) {
 }
 
 # scraping + carga -------------------------------------------------------
-
 # descarga y guarda CSVs por año para una carrera RSC (skip si ya existe)
-scrape_race <- function(race_tbl, out_dir, user_agent) {
+scrape_race <- function(race_tbl, out_dir = "data/nurburgring24/results/", user_agent) {
   fs::dir_create(out_dir)
 
   pwalk(race_tbl, function(date, year, url) {
+
+    # year <- 1989
+    # url <- https://www.racingsportscars.com/photo/Nurburgring-1989-06-18.html?sort=Results
+
     fout <- fs::path(out_dir, str_glue("{year}.csv"))
     cli::cli_progress_step("{year}: {url} -> {fout}")
 
@@ -145,6 +148,8 @@ scrape_race <- function(race_tbl, out_dir, user_agent) {
       html_elements(".carview") |>
       map_dfr(parse_carview)
 
+    glimpse(cars)
+
     if (nrow(cars) == 0) {
       cli::cli_warn("Sin autos parseados para {year} — saltando")
       return(invisible(FALSE))
@@ -156,14 +161,18 @@ scrape_race <- function(race_tbl, out_dir, user_agent) {
 }
 
 # carga todos los CSVs de una carrera y parsea grid_time
-load_race_results <- function(out_dir) {
-  fs::dir_ls(out_dir, glob = "*.csv") |>
-    rev() |>
-    map_df(
+load_race_results <- function(out_dir = "data/nurburgring24/results/") {
+  files <- fs::dir_ls(out_dir, glob = "*.csv") |> rev()
+
+  files |>
+    # map(read_csv, show_col_types = FALSE,) |>  map(ncol) |> enframe() |> mutate(value = as.numeric(value)) |>  filter(value == 29)
+    map(
       read_csv,
       show_col_types = FALSE,
-      col_types = cols(.default = col_guess(), grid_time = col_character())
+      col_types = cols(.default = col_guess(), grid_time = col_character(), dnf_reason = col_character())
     ) |>
+    map(add_missing_cols, c("chassis", "chassis_url")) |>
+    bind_rows() |> 
     mutate(grid_time = lubridate::ms(grid_time))
 }
 

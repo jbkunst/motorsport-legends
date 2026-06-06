@@ -42,11 +42,13 @@ le_mans_tbl <- tibble(
   url = str_glue("https://www.racingsportscars.com/photo/Le_Mans-{date}.html?sort=Results")
 )
 
-scrape_race(le_mans_tbl, "data/lemans/results/", user_agent = "Joshua Kunst jbkunst@gmail.com")
+scrape_race(le_mans_tbl, "data/lemans24/results/", user_agent = "Joshua Kunst jbkunst@gmail.com")
 
-datalm <- load_race_results("data/lemans/results/")
+datalm <- load_race_results("data/lemans24/results/")
 
 datalm
+
+glimpse(datalm)
 
 datalm |> 
   count(make, model, chassis, sort = TRUE) |> 
@@ -86,12 +88,7 @@ datalm |>
   ) |>
   arrange(desc(n), first_year)
 
-
-# datatable --------------------------------------------------------------
-glimpse(datalm)
-
 # datos ------------------------------------------------------------------
-
 # _full: todos los registros
 datalm_full <- prep_dt_data(datalm)
 
@@ -110,7 +107,6 @@ nrow(datalm_full)
 nrow(datalm_min)
 
 # datatables -------------------------------------------------------------
-
 dt_lm_full <- make_race_dt(datalm_full, "lemans-full")
 dt_lm_min  <- make_race_dt(datalm_min,  "lemans-min")
 
@@ -122,17 +118,17 @@ fs::dir_create("outputs/html")
 
 htmlwidgets::saveWidget(
   dt_lm_full,
-  file     = here::here("outputs/html/lemans_results_full.html"),
+  file     = here::here("outputs/html/lemans24_results_full.html"),
   libdir   = "lib",
   selfcontained = FALSE
 )
 
 htmlwidgets::saveWidget(
   dt_lm_min,
-  file     = here::here("outputs/html/lemans_results_min.html"),
+  file     = here::here("outputs/html/lemans24_results_min.html"),
   libdir   = "lib",
   selfcontained = FALSE
 )
 
-cli::cli_alert_success("Guardado: outputs/html/lemans_results_full.html ({nrow(datalm_full)} filas)")
-cli::cli_alert_success("Guardado: outputs/html/lemans_results_min.html  ({nrow(datalm_min)} filas)")
+cli::cli_alert_success("Guardado: outputs/html/lemans24_results_full.html ({nrow(datalm_full)} filas)")
+cli::cli_alert_success("Guardado: outputs/html/lemans24_results_min.html  ({nrow(datalm_min)} filas)")

@@ -2,135 +2,115 @@
 source(here::here("R/00-helpers.R"))
 
 # data -------------------------------------------------------------------
-# Nürburgring 24h: desde 1970, sin 1974, 1975 (petróleo) ni 1983 (obras)
-# Fechas = domingo (fin de carrera), que es lo que usa RSC en la URL.
-# (*) = confirmado desde URL de racingsportscars.com
-# (e) = estimado; verificar contra https://www.racingsportscars.com/photo/Nurburgring-{fecha}.html
-
-nurburgring_dates <- c(
+nurburgring24_dates <- c(
   # 2020s
-  "2025-05-25",  # (e) 53ª edición
-  "2024-06-09",  # (e)
-  "2023-05-21",  # (*)
-  "2022-06-05",  # (e)
-  "2021-06-06",  # (e)
-  "2020-09-27",  # (e) COVID: edición de septiembre
-
+  "2025-06-22", "2024-06-02", "2023-05-21", "2022-05-29", "2021-06-06",
+  "2020-09-27",
+  
   # 2010s
-  "2019-06-23",  # (*)
-  "2018-05-13",  # (e)
-  "2017-05-28",  # (*)
-  "2016-05-29",  # (*)
-  "2015-05-17",  # (*)
-  "2014-06-22",  # (e)
-  "2013-05-19",  # (e) Pentecostés 2013
-  "2012-05-20",  # (e)
-  "2011-06-26",  # (*)
-  "2010-05-16",  # (e)
-
+  "2019-06-23", "2018-05-13", "2017-05-28", "2016-05-29", "2015-05-17",
+  "2014-06-22", "2013-05-20", "2012-05-20", "2011-06-26", "2010-05-16",
+  
   # 2000s
-  "2009-05-24",  # (*)
-  "2008-05-25",  # (e)
-  "2007-05-27",  # (e)
-  "2006-06-18",  # (e) Corpus Christi
-  "2005-05-29",  # (e)
-  "2004-06-20",  # (e)
-  "2003-06-01",  # (*) desde URL de resultados RSC
-
+  "2009-05-24", "2008-05-25", "2007-06-10", "2006-06-18", "2005-05-08",
+  "2004-06-13", "2003-06-01", "2002-06-02", "2001-05-27", "2000-06-25",
+  
   # 1990s
-  "2002-06-16",  # (e)
-  "2001-05-20",  # (e)
-  "2000-05-21",  # (e)
-  "1999-05-30",  # (e)
-  "1998-05-24",  # (e)
-  "1997-05-18",  # (e)
-  "1996-06-02",  # (e)
-  "1995-05-28",  # (e)
-  "1994-05-29",  # (e)
-  "1993-05-30",  # (e)
-  "1992-05-24",  # (e)
-  "1991-05-26",  # (e)
-  "1990-05-27",  # (e)
-
-  # 1980s — sin 1983
-  "1989-05-28",  # (e)
-  "1988-05-29",  # (e)
-  "1987-05-24",  # (e)
-  "1986-05-25",  # (e)
-  "1985-05-26",  # (e)
-  "1984-05-27",  # (e)
-  "1982-05-30",  # (e) sin 1983
-  "1981-05-24",  # (e)
-  "1980-05-18",  # (e)
-
-  # 1970s — sin 1974, 1975
-  "1979-05-27",  # (e)
-  "1978-05-28",  # (e)
-  "1977-05-29",  # (e)
-  "1976-05-30",  # (e)
-  "1973-05-27",  # (e)
-  "1972-05-28",  # (e)
-  "1971-05-30",  # (e)
-  "1970-06-28"   # (e) primera edición: 27-28 junio 1970
+  "1999-06-06", "1998-06-14", "1997-06-08", "1996-06-16", "1995-06-18",
+  "1994-06-05", "1993-06-13", "1992-06-21", "1991-06-16", "1990-06-17",
+  
+  # 1980s
+  "1989-06-18", "1988-06-19", "1987-06-21", "1986-06-22", "1985-06-23",
+  "1984-08-26", "1982-10-03", "1981-10-04", "1980-10-05",
+  
+  # 1970s
+  "1979-10-07", "1978-10-08", "1977-10-09", "1976-09-26",
+  "1973-06-24", "1972-06-25", "1971-06-27", "1970-06-28"
 )
 
-nurburgring_tbl <- tibble(
-  date = ymd(nurburgring_dates),
+nurburgring24_tbl <- tibble(
+  date = ymd(nurburgring24_dates),
   year = as.integer(format(date, "%Y")),
-  url  = str_glue("https://www.racingsportscars.com/photo/Nurburgring-{date}.html?sort=Results")
+  url = str_glue("https://www.racingsportscars.com/photo/Nurburgring-{date}.html?sort=Results")
 )
 
-# scrape -----------------------------------------------------------------
-scrape_race(nurburgring_tbl, "data/nurburgring/results/", user_agent = "Joshua Kunst jbkunst@gmail.com")
+scrape_race(nurburgring24_tbl, "data/nurburgring24/results/", user_agent = "Joshua Kunst jbkunst@gmail.com")
 
-# load -------------------------------------------------------------------
-datanur <- load_race_results("data/nurburgring/results/")
+datanbr24 <- load_race_results("data/nurburgring24/results/")
 
-datanur
+datanbr24
 
-# datatable --------------------------------------------------------------
-glimpse(datanur)
+glimpse(datanbr24)
+
+datanbr24 |> 
+  count(make, model, chassis, sort = TRUE) |> 
+  filter(!is.na(chassis))
+
+datanbr24 |> 
+  count(make, model, sort = TRUE) 
+
+datanbr24 |> 
+  count(car_title, sort = TRUE) 
+
+datanbr24 |>
+  filter(!is.na(chassis), chassis != "#") |>
+  count(car_title, sort = TRUE)
+
+datanbr24 |>
+  filter(!is.na(chassis), chassis != "#") |>
+  group_by(make, model, chassis) |>
+  summarise(
+    n = n(),
+    first_year = min(year, na.rm = TRUE),
+    last_year = max(year, na.rm = TRUE),
+    years = str_c(sort(unique(year)), collapse = ", "),
+    entrants = str_c(sort(unique(entrant)), collapse = " | "),
+    best_result = if_else(all(is.na(result)), NA_integer_, min(result, na.rm = TRUE)),
+    .groups = "drop"
+  ) |>
+  arrange(desc(n), first_year)
 
 # datos ------------------------------------------------------------------
-
 # _full: todos los registros
-datanur_full <- prep_dt_data(datanur)
+datanbr24_full <- prep_dt_data(datanbr24)
 
 # _min: todos los finished + el mejor DNF por grupo/año, sin "other"
-datanur_min <- bind_rows(
-  datanur |> filter(result_status == "finished"),
-  datanur |>
+# (los datos vienen ordenados por resultado, entonces slice_head captura el mejor DNF de cada clase)
+datanbr24_min <- bind_rows(
+  datanbr24 |> filter(result_status == "finished"),
+  datanbr24 |>
     filter(result_status == "not_finished") |>
     slice_head(n = 1, by = c(year, group))
 ) |>
   arrange(desc(year), result) |>
   prep_dt_data()
 
-nrow(datanur_full)
-nrow(datanur_min)
+nrow(datanbr24_full)
+nrow(datanbr24_min)
 
 # datatables -------------------------------------------------------------
-dt_nur_full <- make_race_dt(datanur_full, "nurburgring-full")
-dt_nur_min  <- make_race_dt(datanur_min,  "nurburgring-min")
+dt_n24_full <- make_race_dt(datanbr24_full, "nurburgring24-full")
+dt_n24_min  <- make_race_dt(datanbr24_min,  "nurburgring24-min")
 
-dt_nur_full  # preview en viewer
+dt_n24_full  # preview en viewer
+dt_n24_min
 
 # save -------------------------------------------------------------------
 fs::dir_create("outputs/html")
 
 htmlwidgets::saveWidget(
-  dt_nur_full,
-  file          = here::here("outputs/html/nurburgring_results_full.html"),
-  libdir        = "lib",
+  dt_n24_full,
+  file     = here::here("outputs/html/nurburgring24_results_full.html"),
+  libdir   = "lib",
   selfcontained = FALSE
 )
 
 htmlwidgets::saveWidget(
-  dt_nur_min,
-  file          = here::here("outputs/html/nurburgring_results_min.html"),
-  libdir        = "lib",
+  dt_n24_min,
+  file     = here::here("outputs/html/nurburgring24_results_min.html"),
+  libdir   = "lib",
   selfcontained = FALSE
 )
 
-cli::cli_alert_success("Guardado: outputs/html/nurburgring_results_full.html ({nrow(datanur_full)} filas)")
-cli::cli_alert_success("Guardado: outputs/html/nurburgring_results_min.html  ({nrow(datanur_min)} filas)")
+cli::cli_alert_success("Guardado: outputs/html/nurburgring24_results_full.html ({nrow(datanbr24_full)} filas)")
+cli::cli_alert_success("Guardado: outputs/html/nurburgring24_results_min.html  ({nrow(datanbr24_min)} filas)")
