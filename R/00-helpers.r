@@ -187,8 +187,9 @@ prep_dt_data <- function(data) {
       "thumb_url", "photo_url", "make_url", "model_url", "chassis_url"
     ))) |>
     mutate(
-      year       = as.character(year),
-      number     = as.character(number),
+      year           = as.character(year),
+      number         = as.character(number),
+      result_status  = case_when(result == 1 ~ "winner", TRUE ~ result_status), # si bien no viene, es para el dt color dorado
       photo_full = if_else(!is.na(photo_url) & !str_ends(photo_url, "/NA"), photo_url, thumb_url),
       photo = if_else(
         !is.na(thumb_url),
@@ -274,8 +275,8 @@ make_race_dt <- function(data, element_id) {
       "Result status",
       target = "row",
       backgroundColor = DT::styleEqual(
-        c("finished", "not_finished", "not_qualified", "not_arrived", "other"),
-        c("transparent", "#fff3cd", "#f8d7da", "#e2e3e5", "#d1ecf1")
+        c("winner", "finished", "not_finished", "not_qualified", "not_arrived", "other"),
+        c("#EAD27A", "transparent", "#eeeeee", "#f8d7da", "#e2e3e5", "#d1ecf1")
       )
     )
 }
