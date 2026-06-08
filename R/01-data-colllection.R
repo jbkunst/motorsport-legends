@@ -32,6 +32,9 @@ data_collection_join <- fs::dir_ls("data") |>
 
   })
 
+# ordenar por año, carrea y resultado
+data_collection_join <- data_collection_join |> arrange(year, race, result)
+
 dt <- prep_dt_data(data_collection_join)
 
 dt <- bind_cols(
