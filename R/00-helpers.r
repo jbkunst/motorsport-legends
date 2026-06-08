@@ -75,7 +75,10 @@ parse_carview <- function(x) {
     contributor = html_text_or_na(x, ".contributor"),
     
     thumb_url   = html_attr_or_na(x, ".photo img", "src") |> url_absolute(base = site_url),
-    photo_url   = html_attr_or_na(x, ".photo input[type='hidden']", "value") |> url_absolute(base = site_url)
+    photo_url   = coalesce(
+      html_attr_or_na(x, ".photo input[type='hidden']", "value"),
+      html_attr_or_na(x, ".photo a", "href") # cuando no tiene fotos que iterar no existe input, por lo que sacamos el link de la unica foto
+    ) |> url_absolute(base = site_url) 
   ) |>
     bind_cols(car_links) |>
     add_missing_cols(c("type", "type_url")) |>
@@ -134,13 +137,13 @@ scrape_race <- function(race_tbl, out_dir = "data/daytona24/results/", user_agen
 
   pwalk(race_tbl, function(date, year, url) {
 
-    # year <- 2024
-    # url <- "https://www.racingsportscars.com/photo/Daytona-2024-01-27.html?sort=Results"
+    # year <- 1974 
+    # url <- "https://www.racingsportscars.com/photo/Le_Mans-1974-06-16.html?sort=Results"
 
     fout <- fs::path(out_dir, str_glue("{year}.csv"))
     cli::cli_progress_step("{year}: {url} -> {fout}")
 
-    if (file.exists(fout)) return(invisible(TRUE))
+    # if (file.exists(fout)) return(invisible(TRUE))
 
     session <- bow(url = url, user_agent = user_agent)
     page    <- scrape(session)
