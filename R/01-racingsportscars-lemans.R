@@ -2,47 +2,44 @@
 source(here::here("R/00-helpers.R"))
 
 # data -------------------------------------------------------------------
-le_mans_dates <- c(
-  # 2020s
-  "2025-06-15", "2024-06-16", "2023-06-11", "2022-06-12", "2021-08-22",
-  "2020-09-20",
-  
-  # 2010s
-  "2019-06-16", "2018-06-17", "2017-06-18", "2016-06-19", "2015-06-14",
-  "2014-06-15", "2013-06-23", "2012-06-17", "2011-06-12", "2010-06-13",
-  
-  # 2000s
-  "2009-06-14", "2008-06-15", "2007-06-17", "2006-06-18", "2005-06-19",
-  "2004-06-13", "2003-06-15", "2002-06-16", "2001-06-17", "2000-06-18",
-  
-  # 1990s
-  "1999-06-13", "1998-06-07", "1997-06-15", "1996-06-16", "1995-06-18",
-  "1994-06-19", "1993-06-20", "1992-06-21", "1991-06-23", "1990-06-17",
-  
-  # 1980s
-  "1989-06-11", "1988-06-12", "1987-06-14", "1986-06-01", "1985-06-16",
-  "1984-06-17", "1983-06-19", "1982-06-20", "1981-06-14", "1980-06-15",
-  
-  # 1970s
-  "1979-06-10", "1978-06-11", "1977-06-12", "1976-06-13", "1975-06-15",
-  "1974-06-16", "1973-06-10", "1972-06-11", "1971-06-13", "1970-06-14",
-  
-  # 1960s
-  "1969-06-15", "1968-09-29", "1967-06-11", "1966-06-19", "1965-06-20",
-  "1964-06-21", "1963-06-16", "1962-06-24", "1961-06-11", "1960-06-26",
-  
-  # 1950s
-  "1959-06-21", "1958-06-22", "1957-06-23", "1956-07-29", "1955-06-12",
-  "1954-06-13", "1953-06-14", "1952-06-15", "1951-06-23", "1950-06-25"
-)
+le_mans_archive_url <- "https://www.racingsportscars.com/photo_lemans.html"
 
-le_mans_tbl <- tibble(
-  date = ymd(le_mans_dates),
-  year = as.integer(format(date, "%Y")),
-  url = str_glue("https://www.racingsportscars.com/photo/Le_Mans-{date}.html?sort=Results")
-)
+page <- request(le_mans_archive_url) |>
+  req_user_agent("Joshua Kunst jbkunst@gmail.com") |>
+  req_perform() |>
+  resp_body_html()
 
-scrape_race(le_mans_tbl, "data/lemans24/results/", user_agent = "Joshua Kunst jbkunst@gmail.com")
+dlinks <- page |>
+  html_elements("a")
+
+dlinks <- tibble(
+  text = html_text2(dlinks),
+  href = html_attr(dlinks, "href")
+) |>
+  mutate(url = url_absolute(href, le_mans_archive_url))
+
+lemans24_tbl <- dlinks |>
+  filter(
+    str_detect(href, "/photo/Le_Mans-\\d{4}-\\d{2}-\\d{2}\\.html$")
+  ) |>
+  mutate(
+    date = ymd(str_extract(href, "\\d{4}-\\d{2}-\\d{2}")),
+    year = lubridate::year(date),
+    url = str_glue("{url}?sort=Results")
+  ) |>
+  filter(
+    year >= 1950,
+    text == "Le Mans 24 Hours"
+  ) |>
+  distinct(year, date, .keep_all = TRUE) |>
+  arrange(desc(year)) |>
+  select(date, year, url)
+
+lemans24_tbl |>
+  count(year) |>
+  filter(n > 1)
+
+scrape_race(lemans24_tbl, "data/lemans24/results/", user_agent = "Joshua Kunst jbkunst@gmail.com")
 
 datalm <- load_race_results("data/lemans24/results/")
 

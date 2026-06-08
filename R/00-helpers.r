@@ -1,6 +1,7 @@
 # packages ---------------------------------------------------------------
 library(tidyverse)
 library(rvest)
+library(httr2)
 library(polite)
 library(here)
 
@@ -128,13 +129,13 @@ clean_cars <- function(cars, year) {
 
 # scraping + carga -------------------------------------------------------
 # descarga y guarda CSVs por año para una carrera RSC (skip si ya existe)
-scrape_race <- function(race_tbl, out_dir = "data/nurburgring24/results/", user_agent) {
+scrape_race <- function(race_tbl, out_dir = "data/daytona24/results/", user_agent = "Joshua Kunst jbkunst@gmail.com") {
   fs::dir_create(out_dir)
 
   pwalk(race_tbl, function(date, year, url) {
 
-    # year <- 1989
-    # url <- https://www.racingsportscars.com/photo/Nurburgring-1989-06-18.html?sort=Results
+    # year <- 2024
+    # url <- "https://www.racingsportscars.com/photo/Daytona-2024-01-27.html?sort=Results"
 
     fout <- fs::path(out_dir, str_glue("{year}.csv"))
     cli::cli_progress_step("{year}: {url} -> {fout}")
@@ -147,8 +148,6 @@ scrape_race <- function(race_tbl, out_dir = "data/nurburgring24/results/", user_
     cars <- page |>
       html_elements(".carview") |>
       map_dfr(parse_carview)
-
-    glimpse(cars)
 
     if (nrow(cars) == 0) {
       cli::cli_warn("Sin autos parseados para {year} — saltando")
@@ -193,7 +192,7 @@ prep_dt_data <- function(data) {
       photo_full = if_else(!is.na(photo_url) & !str_ends(photo_url, "/NA"), photo_url, thumb_url),
       photo = if_else(
         !is.na(thumb_url),
-        str_glue("<img src='{thumb_url}' data-full='{photo_full}' height='60' class='lightbox-img' style='cursor:zoom-in;border-radius:4px;'/>"),
+        str_glue("<img src='{thumb_url}' data-full='{photo_full}' height='80' class='lightbox-img' style='cursor:zoom-in;border-radius:4px;'/>"),
         NA_character_
       ),
       car_title = if_else(
