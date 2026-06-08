@@ -143,7 +143,7 @@ scrape_race <- function(race_tbl, out_dir = "data/daytona24/results/", user_agen
     fout <- fs::path(out_dir, str_glue("{year}.csv"))
     cli::cli_progress_step("{year}: {url} -> {fout}")
 
-    # if (file.exists(fout)) return(invisible(TRUE))
+    if (file.exists(fout)) return(invisible(TRUE))
 
     session <- bow(url = url, user_agent = user_agent)
     page    <- scrape(session)
