@@ -40,7 +40,12 @@ nurburgring24_tbl |>
 
 datanbr24 <- load_race_results("data/nurburgring/results/")
 
-datanbr24
+# Hay results que no son 24h, por eso filtramos por fechas
+datanbr24 |> filter_out(date %in% nurburgring24_tbl$date)
+datanbr24 |> filter_out(date %in% nurburgring24_tbl$date) |> count(date)
+
+datanbr24 <- datanbr24 |> 
+  filter(date %in% nurburgring24_tbl$date)
 
 glimpse(datanbr24)
 

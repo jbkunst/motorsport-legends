@@ -4,11 +4,13 @@ url <- "https://docs.google.com/spreadsheets/d/e/2PACX-1vRcqf4DB1woa-C1O9BE11MrG
 
 data_collection <- read_csv(url)
 
-data_collection
+data_collection <- data_collection |> 
+  # avoid extra colun due incorrect pasting
+  select(track, year, number, name, make, maker_164, status, note)
 
 glimpse(data_collection)
 
-data_collection_join <- fs::dir_ls("data") |> 
+data_collection_join <- fs::dir_ls("data") |>  
   map_df(function(folder = "data/le_mans"){
 
     cli::cli_inform(folder)
@@ -19,7 +21,7 @@ data_collection_join <- fs::dir_ls("data") |>
     dc <- filter(data_collection, track == basename(folder))
     
     # right para que queden registros de la colleccion, pero primero columnas de results descargados
-    dout <- right_join(rr, dc, by = join_by(track, year, number, make))
+    dout <- inner_join(rr, dc, by = join_by(track, year, number, make))
     dout <- arrange(dout, year, result, number)
 
     dout |>
@@ -34,6 +36,9 @@ data_collection_join <- fs::dir_ls("data") |>
 
 # ordenar por año, carrea y resultado
 data_collection_join <- arrange(data_collection_join, year, track, result)
+
+# anti_join para hacer check de que NO se cruzó o que falta descargar
+anti_join(data_collection, data_collection_join, by = join_by(track, year, number, make))
 
 dt <- prep_dt_data(data_collection_join)
 
