@@ -195,24 +195,51 @@ load_race_results <- function(dir = "data/nurburgring/results/") {
 
 # transforma columnas a HTML (links, imágenes, lightbox); tolera columnas opcionales
 prep_dt_data <- function(data) {
-  
   optional_cols <- c("make_url", "model_url", "chassis_url")
-  
+
+  # Cambia thumb_url a watermark
+  data <- data |>
+    mutate(
+      thumb_url = data |>
+        select(thumb_url, contributor) |>
+        pmap_chr(make_wm_url)
+    )
+
   data |>
     add_missing_cols(optional_cols) |>
     select(any_of(c(
-      "track", "date", "number", "car_title", "result", "result_status", "group", "entrant",
-      "make", "model", "chassis", "grid",
-      "thumb_url", "photo_url", "make_url", "model_url", "chassis_url"
+      "track",
+      "date",
+      "number",
+      "car_title",
+      "result",
+      "result_status",
+      "group",
+      "entrant",
+      "make",
+      "model",
+      "chassis",
+      "grid",
+      "thumb_url",
+      "photo_url",
+      "make_url",
+      "model_url",
+      "chassis_url"
     ))) |>
     mutate(
-      year           = as.character(year(date)),
-      number         = as.character(number),
-      result_status  = case_when(result == 1 ~ "winner", TRUE ~ result_status), # si bien no viene, es para el dt color dorado
-      photo_full = if_else(!is.na(photo_url) & !str_ends(photo_url, "/NA"), photo_url, thumb_url),
+      year = as.character(year(date)),
+      number = as.character(number),
+      result_status = case_when(result == 1 ~ "winner", TRUE ~ result_status), # si bien no viene, es para el dt color dorado
+      photo_full = if_else(
+        !is.na(photo_url) & !str_ends(photo_url, "/NA"),
+        photo_url,
+        thumb_url
+      ),
       photo = if_else(
         !is.na(thumb_url),
-        str_glue("<img src='{thumb_url}' data-full='{photo_full}' height='80' class='lightbox-img' style='cursor:zoom-in;border-radius:4px;'/>"),
+        str_glue(
+          "<img src='{thumb_url}' data-full='{photo_full}' height='80' class='lightbox-img' style='cursor:zoom-in;border-radius:4px;'/>"
+        ),
         NA_character_
       ),
       car_title = if_else(
@@ -220,13 +247,37 @@ prep_dt_data <- function(data) {
         str_glue('<a href="{photo_url}" target="_blank">{car_title}</a>'),
         car_title
       ),
-      make    = if_else(!is.na(make_url),    str_glue('<a href="{make_url}"    target="_blank">{make}</a>'),    make),
-      model   = if_else(!is.na(model_url),   str_glue('<a href="{model_url}"   target="_blank">{model}</a>'),   model),
-      chassis = if_else(!is.na(chassis_url), str_glue('<a href="{chassis_url}" target="_blank">{chassis}</a>'), chassis)
+      make = if_else(
+        !is.na(make_url),
+        str_glue('<a href="{make_url}"    target="_blank">{make}</a>'),
+        make
+      ),
+      model = if_else(
+        !is.na(model_url),
+        str_glue('<a href="{model_url}"   target="_blank">{model}</a>'),
+        model
+      ),
+      chassis = if_else(
+        !is.na(chassis_url),
+        str_glue('<a href="{chassis_url}" target="_blank">{chassis}</a>'),
+        chassis
+      )
     ) |>
     select(any_of(c(
-      "track", "date", "year", "number", "photo", "car_title", "result", "result_status", "group",
-      "entrant", "make", "model", "chassis", "grid"
+      "track",
+      "date",
+      "year",
+      "number",
+      "photo",
+      "car_title",
+      "result",
+      "result_status",
+      "group",
+      "entrant",
+      "make",
+      "model",
+      "chassis",
+      "grid"
     )))
 }
 
@@ -298,4 +349,22 @@ make_race_dt <- function(data, element_id) {
         c("#EAD27A", "transparent", "#eeeeee", "#f8d7da", "#e2e3e5", "#d1ecf1")
       )
     )
+}
+
+# Convierte la URL thumbnail de RSC (/tn/photo/TN_*) a la versión con watermark (/wm/photo/WM_*).
+make_wm_url <- function(thumb_url, contributor = "") {
+  no_photo <- "https://www.racingsportscars.com/images/car_no_photo.png"
+  
+  if (is.na(thumb_url) || thumb_url == no_photo) {
+    return(thumb_url)
+  }
+  
+  img  <- basename(thumb_url) |> str_remove("^TN_")
+  year <- str_extract(thumb_url, "(?<=/photo/)\\d{4}")
+  txt  <- URLencode(contributor, reserved = TRUE)
+  
+  str_glue(
+    "https://www.racingsportscars.com/wm/photo/{year}/WM_{img}",
+    "?dir=photo/{year}&img={img}&txt={txt}&wi=&mode=Null"
+  )
 }

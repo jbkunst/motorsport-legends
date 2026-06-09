@@ -1,5 +1,7 @@
+# setup ------------------------------------------------------------------
 source("R/00-helpers.R")
 
+# data collection and join with results ----------------------------------
 url <- "https://docs.google.com/spreadsheets/d/e/2PACX-1vRcqf4DB1woa-C1O9BE11MrGvItXgMajPozXTcNU_oCvj0B9cmfwXYv2xg2b9snWiw7UehW6bLnXTCT/pub?gid=891576802&single=true&output=csv"
 
 data_collection <- read_csv(url)
@@ -46,6 +48,7 @@ data_collection_join <- arrange(data_collection_join, year, track, result)
 # anti_join para hacer check de que NO se cruzó o que falta descargar
 anti_join(data_collection, data_collection_join, by = join_by(track, year, number, make))
 
+# datatable html output --------------------------------------------------
 dt <- prep_dt_data(data_collection_join)
 
 dt <- bind_cols(
