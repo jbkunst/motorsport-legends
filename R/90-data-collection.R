@@ -4,22 +4,29 @@ url <- "https://docs.google.com/spreadsheets/d/e/2PACX-1vRcqf4DB1woa-C1O9BE11MrG
 
 data_collection <- read_csv(url)
 
+tail(data_collection)
+
 data_collection <- data_collection |> 
   # avoid extra colun due incorrect pasting
   select(track, year, number, name, make, maker_164, status, note)
 
 glimpse(data_collection)
 
-data_collection_join <- fs::dir_ls("data") |>  
-  map_df(function(folder = "data/le_mans"){
-
+data_collection_join <- fs::dir_ls("data") |>
+  map_df(function(folder = "data/nurburgring") {
     cli::cli_inform(folder)
 
-    rr <- load_race_results(str_c(folder, "/results")) |> 
+    rr <- load_race_results(str_c(folder, "/results")) |>
       mutate(track = basename(folder), year = year(date), .after = 1)
-    
+
+    rr <- rr |>
+      arrange(date, group, result) |>
+      group_by(date, group) |>
+      mutate(result_group = if_else(is.na(result), NA_integer_, cumsum(!is.na(result)))) |>
+      ungroup()
+
     dc <- filter(data_collection, track == basename(folder))
-    
+
     # right para que queden registros de la colleccion, pero primero columnas de results descargados
     dout <- inner_join(rr, dc, by = join_by(track, year, number, make))
     dout <- arrange(dout, year, result, number)
@@ -31,7 +38,6 @@ data_collection_join <- fs::dir_ls("data") |>
       {\(x) stopifnot("Hay duplicados por race/year/number" = x == 0)}()
 
     dout
-
   })
 
 # ordenar por año, carrea y resultado
@@ -45,9 +51,10 @@ dt <- prep_dt_data(data_collection_join)
 dt <- bind_cols(
   dt,
   data_collection_join |> 
-   select(maker_164, status)
+   select(maker_164, status, result_group)
 ) |> 
   relocate(track, .before = 1) |> 
+  relocate(result_group, .after = result) |> 
   select(-date)
 
 dt <- make_race_dt(dt, "collection")

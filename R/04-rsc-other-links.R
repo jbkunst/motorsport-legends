@@ -3,6 +3,13 @@ source(here::here("R/00-helpers.R"))
 
 # data -------------------------------------------------------------------
 urls <- c(
+
+  # Nürburgring 1000 Kilometres 1960: Maserati tipo 61 #5 winner
+  "https://www.racingsportscars.com/photo/Nurburgring-1960-06-22.html?sort=Results",
+
+  # Grand Prix Riverside 200 Miles 1960: Maserati tipo 61 #98 driver Carroll Shelby
+  "https://www.racingsportscars.com/photo/Riverside-1960-10-16.html?sort=Results",
+  
   # Porsche 930/78 Moby Dick Momo 8th
   "https://www.racingsportscars.com/photo/Laguna_Seca-1981-05-03.html?sort=Results",
 

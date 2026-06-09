@@ -33,6 +33,11 @@ add_missing_cols <- function(data, cols) {
   data
 }
 
+remove_na_cols <- function(data) {
+  data |>
+    select(-any_of(c("NA", "NA_url")))
+}
+
 parse_carview <- function(x) {
 
   site_url <- "https://www.racingsportscars.com/"
@@ -83,7 +88,7 @@ parse_carview <- function(x) {
     bind_cols(car_links) |>
     add_missing_cols(c("type", "type_url")) |>
     rename(model = type, model_url = type_url)
-  
+
   output
 }
 
@@ -126,12 +131,13 @@ clean_cars <- function(cars) {
       across(where(is.character), ~ if_else(str_to_lower(str_squish(.x)) == "unknown", NA_character_, .x))
     ) |>
     select(number, car_title, result, everything()) |>
-    relocate(ends_with("_url"), .after = last_col())
+    relocate(ends_with("_url"), .after = last_col()) |> 
+    remove_na_cols()
 }
 
 # scraping + carga -------------------------------------------------------
 # descarga y guarda CSVs por año para una carrera RSC (skip si ya existe)
-scrape_race <- function(url = "https://www.racingsportscars.com/photo/Daytona-2026-01-25-47504.html?sort=Results", user_agent = "Joshua Kunst jbkunst@gmail.com") {
+scrape_race <- function(url = "https://www.racingsportscars.com/photo/Nurburgring-2003-06-01.html?sort=Results", user_agent = "Joshua Kunst jbkunst@gmail.com") {
 
   trck <- str_extract(url, "(?<=/photo/).+?(?=-\\d{4}-\\d{2}-\\d{2})") |> str_to_lower()
   date <- str_extract(url, "\\d{4}-\\d{2}-\\d{2}")
@@ -145,6 +151,7 @@ scrape_race <- function(url = "https://www.racingsportscars.com/photo/Daytona-20
   session <- bow(url = url, user_agent = user_agent)
   page    <- scrape(session)
 
+  # x <- page |> html_elements(".carview") |> (function(x){x[[2]]})() 
   cars <- page |>
     html_elements(".carview") |>
     map_dfr(parse_carview)
@@ -167,17 +174,21 @@ scrape_race <- function(url = "https://www.racingsportscars.com/photo/Daytona-20
 }
 
 # carga todos los CSVs de una carrera y parsea grid_time
-load_race_results <- function(dir = "data/le_mans/results/") {
+load_race_results <- function(dir = "data/nurburgring/results/") {
   
   files <- fs::dir_ls(dir, glob = "*.csv") |> rev()
 
-  files |>
+  datas <- files |>
     map(
       read_csv,
       show_col_types = FALSE,
       col_types = cols(.default = col_guess(), grid_time = col_character(), dnf_reason = col_character())
     ) |>
-    map(add_missing_cols, c("chassis", "chassis_url")) |>
+    map(add_missing_cols, c("chassis", "chassis_url"))
+
+  # datas |> map(ncol) |> enframe() |> mutate(value = as.integer(value)) |> filter(value == 34)
+  
+  datas |>
     bind_rows() |> 
     mutate(grid_time = lubridate::ms(grid_time))
 }
