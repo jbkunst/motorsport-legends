@@ -88,7 +88,7 @@ parse_carview <- function(x) {
 }
 
 # limpia y reordena el raw scrape de una carrera RSC
-clean_cars <- function(cars, year) {
+clean_cars <- function(cars) {
   cars |>
     mutate(
       result_raw = result,
@@ -125,49 +125,53 @@ clean_cars <- function(cars, year) {
       across(c(drivers, sponsor, colour, tyre, updated, contributor), ~ str_remove(.x, "^[^:]+:\\s*")),
       across(where(is.character), ~ if_else(str_to_lower(str_squish(.x)) == "unknown", NA_character_, .x))
     ) |>
-    mutate(year = year, .before = 1) |>
-    select(year, number, car_title, result, everything()) |>
+    select(number, car_title, result, everything()) |>
     relocate(ends_with("_url"), .after = last_col())
 }
 
 # scraping + carga -------------------------------------------------------
 # descarga y guarda CSVs por año para una carrera RSC (skip si ya existe)
-scrape_race <- function(race_tbl, out_dir = "data/daytona24/results/", user_agent = "Joshua Kunst jbkunst@gmail.com") {
-  fs::dir_create(out_dir)
+scrape_race <- function(url = "https://www.racingsportscars.com/photo/Daytona-2026-01-25-47504.html?sort=Results", user_agent = "Joshua Kunst jbkunst@gmail.com") {
 
-  pwalk(race_tbl, function(date, year, url) {
+  trck <- str_extract(url, "(?<=/photo/).+?(?=-\\d{4}-\\d{2}-\\d{2})") |> str_to_lower()
+  date <- str_extract(url, "\\d{4}-\\d{2}-\\d{2}")
+  fout <- str_glue("data/{trck}/results/{date}.csv")
+  
+  fs::dir_create(dirname(fout))
+  cli::cli_progress_step("{url} -> {fout}")
 
-    # year <- 1974 
-    # url <- "https://www.racingsportscars.com/photo/Le_Mans-1974-06-16.html?sort=Results"
+  if (file.exists(fout)) return(invisible(TRUE))
 
-    fout <- fs::path(out_dir, str_glue("{year}.csv"))
-    cli::cli_progress_step("{year}: {url} -> {fout}")
+  session <- bow(url = url, user_agent = user_agent)
+  page    <- scrape(session)
 
-    if (file.exists(fout)) return(invisible(TRUE))
+  cars <- page |>
+    html_elements(".carview") |>
+    map_dfr(parse_carview)
 
-    session <- bow(url = url, user_agent = user_agent)
-    page    <- scrape(session)
+  if (nrow(cars) == 0) {
+    cli::cli_warn("Sin autos parseados para {url} — saltando")
+    return(invisible(FALSE))
+  }
 
-    cars <- page |>
-      html_elements(".carview") |>
-      map_dfr(parse_carview)
+  cars <- clean_cars(cars)
+  
+  cars <- mutate(cars, track = trck, date = date, .before = 1)
+ 
+  # glimpse(cars)
 
-    if (nrow(cars) == 0) {
-      cli::cli_warn("Sin autos parseados para {year} — saltando")
-      return(invisible(FALSE))
-    }
+  write_csv(cars, fout)
+  
+  invisible(TRUE)
 
-    clean_cars(cars, year) |> write_csv(fout)
-    invisible(TRUE)
-  })
 }
 
 # carga todos los CSVs de una carrera y parsea grid_time
-load_race_results <- function(out_dir = "data/nurburgring24/results/") {
-  files <- fs::dir_ls(out_dir, glob = "*.csv") |> rev()
+load_race_results <- function(dir = "data/le_mans/results/") {
+  
+  files <- fs::dir_ls(dir, glob = "*.csv") |> rev()
 
   files |>
-    # map(read_csv, show_col_types = FALSE,) |>  map(ncol) |> enframe() |> mutate(value = as.numeric(value)) |>  filter(value == 29)
     map(
       read_csv,
       show_col_types = FALSE,
@@ -180,16 +184,18 @@ load_race_results <- function(out_dir = "data/nurburgring24/results/") {
 
 # transforma columnas a HTML (links, imágenes, lightbox); tolera columnas opcionales
 prep_dt_data <- function(data) {
+  
   optional_cols <- c("make_url", "model_url", "chassis_url")
+  
   data |>
     add_missing_cols(optional_cols) |>
     select(any_of(c(
-      "year", "number", "car_title", "result", "result_status", "group", "entrant",
+      "track", "date", "number", "car_title", "result", "result_status", "group", "entrant",
       "make", "model", "chassis", "grid",
       "thumb_url", "photo_url", "make_url", "model_url", "chassis_url"
     ))) |>
     mutate(
-      year           = as.character(year),
+      year           = as.character(year(date)),
       number         = as.character(number),
       result_status  = case_when(result == 1 ~ "winner", TRUE ~ result_status), # si bien no viene, es para el dt color dorado
       photo_full = if_else(!is.na(photo_url) & !str_ends(photo_url, "/NA"), photo_url, thumb_url),
@@ -208,7 +214,7 @@ prep_dt_data <- function(data) {
       chassis = if_else(!is.na(chassis_url), str_glue('<a href="{chassis_url}" target="_blank">{chassis}</a>'), chassis)
     ) |>
     select(any_of(c(
-      "year", "number", "photo", "car_title", "result", "result_status", "group",
+      "track", "date", "year", "number", "photo", "car_title", "result", "result_status", "group",
       "entrant", "make", "model", "chassis", "grid"
     )))
 }

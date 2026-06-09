@@ -30,18 +30,22 @@ nurburgring24_dates <- c(
 
 nurburgring24_tbl <- tibble(
   date = ymd(nurburgring24_dates),
-  year = as.integer(format(date, "%Y")),
+  # year = as.integer(format(date, "%Y")),
   url = str_glue("https://www.racingsportscars.com/photo/Nurburgring-{date}.html?sort=Results")
 )
 
-scrape_race(nurburgring24_tbl, "data/nurburgring24/results/", user_agent = "Joshua Kunst jbkunst@gmail.com")
+nurburgring24_tbl |> 
+  pull(url) |> 
+  walk(scrape_race)
 
-datanbr24 <- load_race_results("data/nurburgring24/results/")
+datanbr24 <- load_race_results("data/nurburgring/results/")
 
 datanbr24
 
 glimpse(datanbr24)
 
+
+# extras -----------------------------------------------------------------
 datanbr24 |> 
   count(make, model, chassis, sort = TRUE) |> 
   filter(!is.na(chassis))
@@ -57,6 +61,7 @@ datanbr24 |>
   count(car_title, sort = TRUE)
 
 datanbr24 |>
+  mutate(year = year(date)) |> 
   filter(!is.na(chassis), chassis != "#") |>
   group_by(make, model, chassis) |>
   summarise(
@@ -70,7 +75,8 @@ datanbr24 |>
   ) |>
   arrange(desc(n), first_year)
 
-# datos ------------------------------------------------------------------
+
+# prep_dt_data -----------------------------------------------------------
 # _full: todos los registros
 datanbr24_full <- prep_dt_data(datanbr24)
 
@@ -80,17 +86,22 @@ datanbr24_min <- bind_rows(
   datanbr24 |> filter(result_status == "finished"),
   datanbr24 |>
     filter(result_status == "not_finished") |>
-    slice_head(n = 1, by = c(year, group))
+    slice_head(n = 1, by = c(date, group))
 ) |>
-  arrange(desc(year), result) |>
+  arrange(desc(date), result) |>
   prep_dt_data()
 
 nrow(datanbr24_full)
 nrow(datanbr24_min)
 
 # datatables -------------------------------------------------------------
-dt_n24_full <- make_race_dt(datanbr24_full, "nurburgring24-full")
-dt_n24_min  <- make_race_dt(datanbr24_min,  "nurburgring24-min")
+dt_n24_full <- datanbr24_full |>
+  select(-track, -date) |> 
+  make_race_dt("nurburgring24-full")
+
+dt_n24_min  <- datanbr24_min |> 
+  select(-track, -date) |> 
+  make_race_dt("nurburgring24-min")
 
 dt_n24_full  # preview en viewer
 dt_n24_min

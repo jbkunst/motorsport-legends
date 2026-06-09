@@ -15,38 +15,34 @@ dlinks <- page |>
 dlinks <- tibble(
   text = html_text2(dlinks),
   href = html_attr(dlinks, "href")
-) |>
-  mutate(url = url_absolute(href, le_mans_archive_url))
-
+)
+  
 lemans24_tbl <- dlinks |>
-  filter(
-    str_detect(href, "/photo/Le_Mans-\\d{4}-\\d{2}-\\d{2}\\.html$")
-  ) |>
-  mutate(
-    date = ymd(str_extract(href, "\\d{4}-\\d{2}-\\d{2}")),
-    year = lubridate::year(date),
-    url = str_glue("{url}?sort=Results")
-  ) |>
-  filter(
-    year >= 1950,
-    text == "Le Mans 24 Hours"
-  ) |>
-  distinct(year, date, .keep_all = TRUE) |>
-  arrange(desc(year)) |>
-  select(date, year, url)
+  mutate(url = url_absolute(href, le_mans_archive_url)) |> 
+  filter(str_detect(href, "/photo/Le_Mans-\\d{4}-\\d{2}-\\d{2}\\.html$")) |>
+  filter(text == "Le Mans 24 Hours") |> 
+  mutate(date = ymd(str_extract(href, "\\d{4}-\\d{2}-\\d{2}")), url = str_glue("{url}?sort=Results")) |>
+  filter(year(date) >= 1950) |>
+  distinct(date, .keep_all = TRUE) |>
+  arrange(desc(date)) 
 
 lemans24_tbl |>
-  count(year) |>
+  count(year(date)) |>
   filter(n > 1)
 
-scrape_race(lemans24_tbl, "data/lemans24/results/", user_agent = "Joshua Kunst jbkunst@gmail.com")
+lemans24_tbl |> 
+  pull(url) |> 
+  walk(scrape_race)
 
-datalm <- load_race_results("data/lemans24/results/")
+# scrape_race(lemans24_tbl, "data/lemans24/results/", user_agent = "Joshua Kunst jbkunst@gmail.com")
+
+datalm <- load_race_results("data/le_mans/results/")
 
 datalm
 
 glimpse(datalm)
 
+# extras -----------------------------------------------------------------
 datalm |> 
   count(make, model, chassis, sort = TRUE) |> 
   filter(!is.na(chassis))
@@ -63,15 +59,16 @@ datalm |>
 
 datalm |>
   filter(chassis == "#GTE-003") |>
-  select(year, make, model, chassis, entrant, drivers, result, result_status, colour, sponsor) |>
-  arrange(year)
+  select(date, make, model, chassis, entrant, drivers, result, result_status, colour, sponsor) |>
+  arrange(date)
 
 datalm |>
   filter(chassis == "#194378S410300") |>
-  select(year, make, model, chassis, entrant, drivers, result, result_status, colour, sponsor) |>
-  arrange(year)
+  select(date, make, model, chassis, entrant, drivers, result, result_status, colour, sponsor) |>
+  arrange(date)
 
 datalm |>
+  mutate(year = year(date)) |> 
   filter(!is.na(chassis), chassis != "#") |>
   group_by(make, model, chassis) |>
   summarise(
@@ -85,7 +82,8 @@ datalm |>
   ) |>
   arrange(desc(n), first_year)
 
-# datos ------------------------------------------------------------------
+
+# prep_dt_data -----------------------------------------------------------
 # _full: todos los registros
 datalm_full <- prep_dt_data(datalm)
 
@@ -95,17 +93,22 @@ datalm_min <- bind_rows(
   datalm |> filter(result_status == "finished"),
   datalm |>
     filter(result_status == "not_finished") |>
-    slice_head(n = 1, by = c(year, group))
+    slice_head(n = 1, by = c(date, group))
 ) |>
-  arrange(desc(year), result) |>
+  arrange(desc(year(date)), result) |>
   prep_dt_data()
 
 nrow(datalm_full)
 nrow(datalm_min)
 
 # datatables -------------------------------------------------------------
-dt_lm_full <- make_race_dt(datalm_full, "lemans-full")
-dt_lm_min  <- make_race_dt(datalm_min,  "lemans-min")
+dt_lm_full <- datalm_full |> 
+  select(-track, -date) |> 
+  make_race_dt("lemans-full")
+
+dt_lm_min  <- datalm_min |> 
+  select(-track, -date) |> 
+  make_race_dt("lemans-min")
 
 dt_lm_full  # preview en viewer
 dt_lm_min

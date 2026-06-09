@@ -9,21 +9,21 @@ data_collection
 glimpse(data_collection)
 
 data_collection_join <- fs::dir_ls("data") |> 
-  map_df(function(folder = "data/lemans24"){
+  map_df(function(folder = "data/le_mans"){
 
     cli::cli_inform(folder)
 
     rr <- load_race_results(str_c(folder, "/results")) |> 
-      mutate(race = basename(folder), .after = 1)
+      mutate(track = basename(folder), year = year(date), .after = 1)
     
-    dc <- data_collection |> filter(race == basename(folder))
+    dc <- filter(data_collection, track == basename(folder))
     
     # right para que queden registros de la colleccion, pero primero columnas de results descargados
-    dout <- right_join(rr, dc, by = join_by(race, year, number, make))
-    dout <- dout |> arrange(year, result, number)
+    dout <- right_join(rr, dc, by = join_by(track, year, number, make))
+    dout <- arrange(dout, year, result, number)
 
     dout |>
-      count(race, year, number, sort = TRUE) |>
+      count(track, year, number, sort = TRUE) |>
       filter(n > 1) |>
       nrow() |>
       {\(x) stopifnot("Hay duplicados por race/year/number" = x == 0)}()
@@ -33,16 +33,17 @@ data_collection_join <- fs::dir_ls("data") |>
   })
 
 # ordenar por año, carrea y resultado
-data_collection_join <- data_collection_join |> arrange(year, race, result)
+data_collection_join <- arrange(data_collection_join, year, track, result)
 
 dt <- prep_dt_data(data_collection_join)
 
 dt <- bind_cols(
   dt,
   data_collection_join |> 
-   select(race, maker_164, status)
+   select(maker_164, status)
 ) |> 
-  relocate(race, .before = 1)
+  relocate(track, .before = 1) |> 
+  select(-date)
 
 dt <- make_race_dt(dt, "collection")
 

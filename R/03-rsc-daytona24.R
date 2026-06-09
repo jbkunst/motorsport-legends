@@ -15,37 +15,24 @@ links <- page |>
 links <- tibble(
     text = html_text2(links),
     href = html_attr(links, "href")
-  ) |>
-  mutate(
-    url = url_absolute(href, daytona_archive_url)
   )
 
 daytona24_tbl <- links |>
   filter(text == "Daytona 24 Hours") |>
   mutate(
-    date_txt = str_extract(url, "\\d{4}-\\d{2}-\\d{2}"),
-    date = ymd(date_txt),
-    year = year(date),
-    result_url = str_replace(url, "/race/", "/results/"),
-    photo_url = str_replace(url, "/race/", "/photo/")
-  ) |>
-  distinct(year, date, .keep_all = TRUE) |>
-  arrange(desc(year)) |>
-  transmute(
-    date,
-    year,
+    url = url_absolute(href, daytona_archive_url),
+    date = ymd(str_extract(url, "\\d{4}-\\d{2}-\\d{2}")),
+    photo_url = str_replace(url, "/race/", "/photo/"),
     url = str_glue("{photo_url}?sort=Results")
-  )
+  ) |>
+  distinct(date, .keep_all = TRUE) |>
+  arrange(desc(date))
 
-# daytona24_tbl <- tibble(
-#   date = ymd(daytona24_dates),
-#   year = as.integer(format(date, "%Y")),
-#   url = str_glue("https://www.racingsportscars.com/photo/Daytona-{date}.html?sort=Results")
-# )
+daytona24_tbl |> 
+  pull(url) |> 
+  walk(scrape_race)
 
-scrape_race(daytona24_tbl, "data/daytona24/results/", user_agent = "Joshua Kunst jbkunst@gmail.com")
-
-datadaytona24 <- load_race_results("data/daytona24/results/")
+datadaytona24 <- load_race_results("data/daytona/results/")
 
 datadaytona24
 
@@ -58,17 +45,22 @@ datadaytona24_min <- bind_rows(
   datadaytona24 |> filter(result_status == "finished"),
   datadaytona24 |>
     filter(result_status == "not_finished") |>
-    slice_head(n = 1, by = c(year, group))
+    slice_head(n = 1, by = c(date, group))
 ) |>
-  arrange(desc(year), result) |>
+  arrange(desc(date), result) |>
   prep_dt_data()
 
 nrow(datadaytona24_full)
 nrow(datadaytona24_min)
 
 # datatables -------------------------------------------------------------
-dt_daytona24_full <- make_race_dt(datadaytona24_full, "daytona24-full")
-dt_daytona24_min  <- make_race_dt(datadaytona24_min,  "daytona24-min")
+dt_daytona24_full <- datadaytona24_full |> 
+  select(-track, -date) |> 
+  make_race_dt("daytona24-full")
+
+dt_daytona24_min  <- datadaytona24_min |>
+  select(-track, -date) |> 
+  make_race_dt("daytona24-min")
 
 dt_daytona24_full
 dt_daytona24_min
