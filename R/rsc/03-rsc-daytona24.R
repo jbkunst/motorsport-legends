@@ -1,5 +1,5 @@
 # setup ------------------------------------------------------------------
-source(here::here("R/00-helpers.R"))
+source(here::here("R/rsc/00-rsc-helpers.R"))
 
 # data -------------------------------------------------------------------
 daytona_archive_url <- "https://www.racingsportscars.com/track/archive/daytona.html"
