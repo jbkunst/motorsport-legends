@@ -38,7 +38,7 @@ nurburgring24_tbl |>
   pull(url) |> 
   walk(scrape_race)
 
-datanbr24 <- load_race_results("data/nurburgring/results/")
+datanbr24 <- load_race_results("data/races/nurburgring/results/")
 
 # Hay results que no son 24h, por eso filtramos por fechas
 datanbr24 |> filter_out(date %in% nurburgring24_tbl$date)

@@ -32,7 +32,7 @@ daytona24_tbl |>
   pull(url) |> 
   walk(scrape_race)
 
-datadaytona24 <- load_race_results("data/daytona/results/")
+datadaytona24 <- load_race_results("data/races/daytona/results/")
 
 datadaytona24
 

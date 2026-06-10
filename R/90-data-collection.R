@@ -2,20 +2,19 @@
 source("R/00-helpers.R")
 
 # data collection and join with results ----------------------------------
-url <- "https://docs.google.com/spreadsheets/d/e/2PACX-1vRcqf4DB1woa-C1O9BE11MrGvItXgMajPozXTcNU_oCvj0B9cmfwXYv2xg2b9snWiw7UehW6bLnXTCT/pub?gid=891576802&single=true&output=csv"
+url <- "https://docs.google.com/spreadsheets/d/e/2PACX-1vQxCLyOJ3I5tnjgwTlxiMVZagQ19DiZpoc_3xBOTdmnoo8gbai5MepFqCY2vAE27guGTAxjKlWti0SD/pub?gid=132013729&single=true&output=csv"
 
 data_collection <- read_csv(url)
 
-tail(data_collection)
-
 data_collection <- data_collection |> 
   # avoid extra colun due incorrect pasting
-  select(track, year, number, name, make, maker_164, status, note)
+  # select(track, year, number, name, make, maker_164, status, note)
+  select(everything())
 
 glimpse(data_collection)
 
-data_collection_join <- fs::dir_ls("data") |>
-  map_df(function(folder = "data/nurburgring") {
+data_collection_join <- fs::dir_ls("data/races/") |>
+  map_df(function(folder = "data/races/nurburgring") {
     cli::cli_inform(folder)
 
     rr <- load_race_results(str_c(folder, "/results")) |>
@@ -54,7 +53,7 @@ dt <- prep_dt_data(data_collection_join)
 dt <- bind_cols(
   dt,
   data_collection_join |> 
-   select(maker_164, status, result_group)
+   select(scale64_maker, scale64_status, result_group)
 ) |> 
   relocate(track, .before = 1) |> 
   relocate(result_group, .after = result) |> 

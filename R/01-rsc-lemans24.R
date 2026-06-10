@@ -34,9 +34,7 @@ lemans24_tbl |>
   pull(url) |> 
   walk(scrape_race)
 
-# scrape_race(lemans24_tbl, "data/lemans24/results/", user_agent = "Joshua Kunst jbkunst@gmail.com")
-
-datalm <- load_race_results("data/le_mans/results/")
+datalm <- load_race_results("data/races/le_mans/results/")
 
 datalm
 
