@@ -20,5 +20,48 @@ races_other <- tribble(
   "nurburgring",   1976, "Nürburgring 300 Kilometres",       "Porsche 934 #53 Jägermeister Kyosho",        "https://www.racingsportscars.com/photo/Nurburgring-1976-04-04.html?sort=Results"
 )
 
+races_other_extra <- tribble(
+  ~track,          ~year, ~event,                         ~reason,                                      ~url,
+  "fuji",          1985, "Fuji 1000 Kilometres",           "Group C Japan reference",                    "https://www.racingsportscars.com/photo/Fuji-1985-10-06.html?sort=Results",
+  "suzuka",        1995, "Suzuka 1000 Kilometres",         "Japanese GT reference",                      "https://www.racingsportscars.com/photo/Suzuka-1995-08-27.html?sort=Results",
+  "spa",           1970, "Spa 1000 Kilometres",            "Porsche 917 vs Ferrari 512 era",             "https://www.racingsportscars.com/photo/Spa-1970-05-17.html?sort=Results",
+  "monza",         1971, "Monza 1000 Kilometres",          "Classic Ferrari, Porsche and Alfa prototypes","https://www.racingsportscars.com/photo/Monza-1971-04-25.html?sort=Results",
+  "spa",           1982, "Spa 1000 Kilometres",            "Early Group C reference",                    "https://www.racingsportscars.com/photo/Spa-1982-09-05.html?sort=Results",
+  "fuji",          1985, "Fuji 1000 Kilometres",           "All Japan local Group C context",            "https://www.racingsportscars.com/photo/Fuji-1985-05-05.html?sort=Results",
+  "brands_hatch",  1985, "Brands Hatch 1000 Kilometres",   "Group C reference",                          "https://www.racingsportscars.com/photo/Brands_Hatch-1985-09-22.html?sort=Results",
+  "nurburgring",   1971, "Nürburgring 500 Kilometres",     "GT and touring context",                     "https://www.racingsportscars.com/photo/Nurburgring-1971-09-05.html?sort=Results"
+)
+
+races_other <- bind_rows(races_other, races_other_extra)
 # scrape -----------------------------------------------------------------
 walk(races_other$url, scrape_race)
+
+
+races_other <- races_other |>
+  mutate(
+    date = str_extract(url, "\\d{4}-\\d{2}-\\d{2}"),
+    track = str_match(url, "/photo/([^/-]+)-\\d{4}-\\d{2}-\\d{2}")[, 2] |>
+      str_to_lower() |>
+      str_replace_all("-", "_"),
+    file = here::here("data/races", track, "results", paste0(date, ".csv"))
+  ) 
+
+dt <- races_other |>
+  pull(file) |>
+  map(
+    read_csv,
+    show_col_types = FALSE,
+    col_types = cols(
+      .default = col_guess(),
+      grid_time = col_character(),
+      dnf_reason = col_character()
+    )
+  ) |>
+  map(add_missing_cols, c("chassis", "chassis_url")) |>
+  map2(races_other$event, function(x, y) { x |> mutate(track = y, .before = 1) }) |>
+  bind_rows() |>
+  mutate(grid_time = suppressWarnings(lubridate::ms(grid_time))) |> 
+  prep_dt_data() |> 
+  make_race_dt("other")
+
+dt
