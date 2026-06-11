@@ -48,7 +48,7 @@ scrape_ferrari_section <- function(section) {
         html_attr("src") |>
         stringr::str_replace("width=\\d+", "width=800") |>
         stringr::str_replace("height=\\d+", "height=540") |>
-        image_url_to_data_uri()
+        image_url_to_data_uri(),
       description = img_node |> html_attr("alt"),
       url = url_absolute(html_attr(card, "href"), "https://www.ferrari.com/en-EN/auto/")
     )
