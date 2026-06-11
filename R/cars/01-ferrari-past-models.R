@@ -304,39 +304,165 @@ ferrari_specs_core <- ferrari_specs_main |>
     top_speed_kmh   = round(top_speed_kmh)
   )
 
-ferrari_specs_core
-
-rm(ferrari_specs_completeness, ferrari_specs_main)
-
-ferrari_models_enriched <- ferrari_models |>
-  dplyr::left_join(ferrari_specs_core, by = "url") |>
-  dplyr::mutate(
+ferrari_specs_core <- ferrari_specs_core |> 
+ dplyr::mutate(
     dplyr::across(
       c(displacement_cc, max_power_cv, rpm_max_power, top_speed_kmh),
       ~ as.integer(round(.x))
     )
-  )|>
-  relocate(contains("url"), contains("image"), .after = last_col())
+  )
+
+rm(ferrari_specs_completeness, ferrari_specs_main)
+
+
+# cleaning ferrari specs long --------------------------------------------
+# ferrari_specs_long <- ferrari_specs |>
+  purrr::map(purrr::pluck, "long") |>
+  dplyr::bind_rows()
+
+# limpio
+ferrari_specs_long_clean <- ferrari_specs_long |>
+  dplyr::mutate(
+    section_group = section_clean |>
+      stringr::str_remove("_\\d+$")
+  ) |>
+  dplyr::filter(!is.na(value), value != "", value != "-") |>
+  dplyr::select(
+    url,
+    section_group,
+    spec_clean,
+    value
+  )
+
+# ver cuales pasar a wide
+ferrari_specs_long_clean |>
+  count(section_group, spec_clean, sort = TRUE) |> 
+  print(n = 30)
+
+ferrari_specs_long_wide <- ferrari_specs_long_clean |>
+  filter(
+    section_group == "engine" & spec_clean %in% c("type", "compression_ratio", "bore_stroke", "power_per_litre") |
+      section_group == "bodywork" & spec_clean %in% c("wheelbase", "weight", "length", "width", "height") |
+      section_group == "performance" & spec_clean %in% c("top_speed")
+  ) |>
+  mutate(
+    spec_key = case_when(
+      section_group == "engine" & spec_clean == "type" ~ "engine_type_long",
+      section_group == "engine" ~ spec_clean,
+      section_group == "bodywork" ~ spec_clean,
+      section_group == "performance" ~ spec_clean,
+      TRUE ~ spec_clean
+    )
+  ) |>
+  select(url, spec_key, value) |>
+  distinct(url, spec_key, .keep_all = TRUE) |>
+  pivot_wider(names_from = spec_key, values_from = value)
+
+ferrari_specs_long_wide |> 
+  sample_n(40) |>
+  select(-url) |> 
+  print(n = Inf)
+
+is_inches <- function(x) {
+  # Detecta medidas en pulgadas reales, evitando falsos positivos como "berlinetta".
+  
+  stringr::str_detect(x, stringr::regex("\\d+[\\.,]?\\d*\\s*in\\b", ignore_case = TRUE))
+}
+
+ferrari_specs_extra_clean <- ferrari_specs_long_wide |>
+  mutate(
+    bore_stroke_num = stringr::str_match(bore_stroke, "^\\s*(\\d+[\\.,]?\\d*)\\s*x\\s*(\\d+[\\.,]?\\d*)"),
+    bore_raw        = bore_stroke_num[, 2] |> stringr::str_replace(",", ".") |> as.numeric(),
+    stroke_raw      = bore_stroke_num[, 3] |> stringr::str_replace(",", ".") |> as.numeric(),
+    
+    engine_position    = stringr::str_extract(engine_type_long, stringr::regex("\\b(front|rear|mid)\\b", ignore_case = TRUE)) |> stringr::str_to_lower(),
+    engine_orientation = stringr::str_extract(engine_type_long, stringr::regex("\\b(longitudinal|transverse)\\b", ignore_case = TRUE)) |> stringr::str_to_lower(),
+    engine_angle_deg   = stringr::str_extract(engine_type_long, "\\d+\\s*[°˚]") |> readr::parse_number(),
+    
+    bore_mm   = dplyr::if_else(is_inches(bore_stroke), bore_raw * 25.4, bore_raw),
+    stroke_mm = dplyr::if_else(is_inches(bore_stroke), stroke_raw * 25.4, stroke_raw),
+    
+    compression_ratio = compression_ratio |>
+      stringr::str_replace(",", ".") |>
+      stringr::str_extract("\\d+[\\.]?\\d*") |>
+      as.numeric(),
+    
+    weight_kg = dplyr::case_when(
+      stringr::str_detect(weight, stringr::regex("\\blb\\b", ignore_case = TRUE)) ~ readr::parse_number(weight) * 0.45359237,
+      TRUE ~ readr::parse_number(weight)
+    ),
+    wheelbase_mm = dplyr::case_when(
+      is_inches(wheelbase) ~ readr::parse_number(wheelbase) * 25.4,
+      TRUE ~ readr::parse_number(wheelbase)
+    ),
+    length_mm = dplyr::case_when(
+      is_inches(length) ~ readr::parse_number(length) * 25.4,
+      TRUE ~ readr::parse_number(length)
+    ),
+    width_mm = dplyr::case_when(
+      is_inches(width) ~ readr::parse_number(width) * 25.4,
+      TRUE ~ readr::parse_number(width)
+    ),
+    height_mm = dplyr::case_when(
+      is_inches(height) ~ readr::parse_number(height) * 25.4,
+      TRUE ~ readr::parse_number(height)
+    )
+  ) |>
+  transmute(
+    url,
+    engine_position,
+    engine_orientation,
+    engine_angle_deg,
+    compression_ratio,
+    bore_mm      = round(bore_mm),
+    stroke_mm    = round(stroke_mm),
+    weight_kg    = round(weight_kg),
+    wheelbase_mm = round(wheelbase_mm),
+    length_mm    = round(length_mm),
+    width_mm     = round(width_mm),
+    height_mm    = round(height_mm)
+  )
+
+ferrari_specs_extra_clean
+
+# join models + main specs -----------------------------------------------
+ferrari_models_enriched <- ferrari_models |>
+  dplyr::left_join(ferrari_specs_core, by = "url") |>
+  dplyr::left_join(ferrari_specs_extra_clean, by = "url") |>
+  dplyr::mutate(
+    dplyr::across(
+      dplyr::any_of(c(
+        "displacement_cc", "max_power_cv", "rpm_max_power", "top_speed_kmh",
+        "bore_mm", "stroke_mm", "weight_kg", "wheelbase_mm",
+        "length_mm", "width_mm", "height_mm"
+      )),
+      ~ as.integer(round(.x))
+    )
+  ) |>
+  dplyr::select(model, year, everything()) |>
+  dplyr::relocate(dplyr::contains("url"), dplyr::contains("image"), .after = dplyr::last_col()) |>
+  dplyr::relocate(description, .after = dplyr::last_col())
 
 ferrari_models_enriched
 
+glimpse(ferrari_models_enriched)
+
 # datatable --------------------------------------------------------------
 ferrari_models_dt <- ferrari_models_enriched |> 
-  mutate(
-    model = glue::glue("<a href='{url}' target='_blank'>{model}</a>"),
-    photo = glue::glue("<img src='{image_data_uri}' width='100' />")
-  ) |> 
-  select(year, model, everything()) |>
-  dplyr::relocate(photo, .after = model) |> 
-  dplyr::relocate(description, .after = dplyr::last_col()) |> 
-  select(-image_data_uri, -url)
-  
-ferrari_models_dt
+  dplyr::mutate(
+    model = dplyr::if_else(is.na(url) | url == "", model, glue::glue("<a href='{url}' target='_blank'>{model}</a>")),
+    photo = dplyr::if_else(is.na(image_data_uri) | image_data_uri == "", "", glue::glue("<img src='{image_data_uri}' width='100' />"))
+  ) |>  
+  dplyr::relocate(photo, .after = model) |>
+  dplyr::select(-image_data_uri, -url)
 
 ferrari_models_dt <- make_dt(ferrari_models_dt)
 
 ferrari_models_dt
+
 # export -----------------------------------------------------------------
 readr::write_csv(ferrari_models_enriched, out_csv)
+
+readr::write_csv(ferrari_specs_long_clean, out_specs_csv)
 
 htmlwidgets::saveWidget(ferrari_models_dt, file = out_html, libdir = "lib", selfcontained = FALSE)
