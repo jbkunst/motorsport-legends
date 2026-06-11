@@ -3,13 +3,14 @@ library(tidyverse)
 library(rvest)
 library(here)
 
-source("R/00-helpers.R")
+source(here::here("R/00-helpers.R"))
 
 # params -----------------------------------------------------------------
 url <- "https://www.stuttcars.com/porsche-model-research/"
 
-out_csv  <- here("data/cars/porsche_stuttcars_model_research.csv")
-out_html <- here("outputs/html/porsche_stuttcars_model_research.html")
+out_csv        <- here("data/cars/porsche_stuttcars_model_research.csv")
+out_specs_csv  <- here("data/cars/porsche_stuttcars_model_specs.csv")
+out_html       <- here("outputs/html/porsche_stuttcars_model_research.html")
 
 fs::dir_create(fs::path_dir(out_csv))
 fs::dir_create(fs::path_dir(out_html))
@@ -44,7 +45,7 @@ scrape_porsche_info_card <- function(card, base_url = url) {
   )
 }
 
-scrape_porsche_specs <- function(url = "https://www.stuttcars.com/porsche-935-strasenversion/") {
+scrape_porsche_specs <- function(url = "https://www.stuttcars.com/porsche-919-hybrid-2014/") {
   
   cli::cli_progress_step("Scraping Porsche specs from {url}")
   
@@ -109,14 +110,16 @@ scrape_porsche_specs <- function(url = "https://www.stuttcars.com/porsche-935-st
     html_elements("table")
   
   tables_raw <- if (length(table_nodes) == 0) {
-    tibble(url = character(), table_id = integer())
+    tibble::tibble(url = character(), table_id = integer())
   } else {
     table_nodes |>
-      map2_dfr(seq_along(table_nodes), function(table, table_id) {
+      purrr::map2_dfr(seq_along(table_nodes), function(table, table_id) {
         table |>
-          html_table(fill = TRUE) |>
-          as_tibble(.name_repair = "minimal") |>
-          mutate(url = url, table_id = table_id, .before = 1)
+          rvest::html_table(fill = TRUE) |>
+          tibble::as_tibble(.name_repair = "unique") |>
+          janitor::clean_names() |>
+          dplyr::mutate(dplyr::across(dplyr::everything(), as.character)) |>
+          dplyr::mutate(url = url, table_id = table_id, .before = 1)
       })
   }
   

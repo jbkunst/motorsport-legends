@@ -43,27 +43,17 @@ get_page_html <- function(session, url, wait = 5, n_scroll = 10, scroll_wait = 8
   session$Runtime$evaluate("document.documentElement.outerHTML", timeout_ = timeout)$result$value
 }
 
-make_dt <- function(
-  data,
-  element_id = NULL,
-  photo_height = 96,
-  filter = "none",
-  buttons = FALSE,
-  show_info = TRUE,
-  show_global_search = TRUE,
-  center_all = FALSE,
-  ...
-) {
+make_dt <- function(data, element_id = NULL, photo_height = 96, search = "global") {
   # Crea una tabla DT responsive, con HTML seguro, fotos con lightbox,
-  # filtros/botones opcionales, conteo de registros y sin scroll horizontal.
+  # búsqueda simple y conteo visible de registros.
   #
   # Usos típicos:
-  # make_dt(data)                                                # tabla limpia
-  # make_dt(data, filter = "top")                                # filtros por columna
-  # make_dt(data, filter = "top", show_global_search = FALSE)    # filtros por columna sin buscador general
-  # make_dt(data, filter = "top", buttons = TRUE)                # filtros + selector de columnas
-  # make_dt(data, photo_height = 72)                              # tabla densa con imágenes más chicas
-  # make_dt(data, center_all = TRUE)                              # centra título y contenido de todas las columnas
+  # make_dt(data)                          # tabla limpia con buscador general
+  # make_dt(data, search = "columns")      # filtros por columna, sin buscador general
+  # make_dt(data, search = "none")         # sin búsqueda
+  # make_dt(data, photo_height = 72)       # tabla densa con imágenes más chicas
+  
+  search <- rlang::arg_match(search, c("global", "columns", "none"))
   
   clean_name <- function(x) {
     stringr::str_replace_all(x, "_", " ") |>
@@ -123,12 +113,6 @@ make_dt <- function(
     list(responsivePriority = 100, targets = "_all")
   ))
   
-  center_defs <- if (center_all) {
-    list(list(className = "dt-center", targets = "_all"))
-  } else {
-    list()
-  }
-  
   lightbox_js <- if (has_img) {
     c(
       glue::glue(
@@ -173,8 +157,8 @@ make_dt <- function(
   DT::datatable(
     data_dt,
     elementId = element_id,
-    extensions = c("FixedHeader", "Responsive", if (buttons) "Buttons"),
-    filter = filter,
+    extensions = c("FixedHeader", "Responsive"),
+    filter = if (search == "columns") "top" else "none",
     class = "hover",
     escape = escape_cols,
     rownames = FALSE,
@@ -185,28 +169,20 @@ make_dt <- function(
       scrollX = FALSE,
       paging = FALSE,
       dom = paste0(
-        if (buttons) "B" else "",
-        if (show_global_search) "f" else "",
-        "rt",
-        if (show_info) "i" else ""
+        if (search == "global") "f" else "",
+        "rti"
       ),
-      buttons = if (buttons) {
-        list(list(extend = "colvis", text = "Columnas"))
-      } else {
-        NULL
-      },
       scrollY = dplyr::case_when(
-        buttons & filter != "none" ~ "calc(100vh - 220px)",
-        buttons ~ "calc(100vh - 200px)",
-        filter != "none" ~ "calc(100vh - 175px)",
-        TRUE ~ "calc(100vh - 140px)"
+        search == "columns" ~ "calc(100vh - 185px)",
+        search == "global" ~ "calc(100vh - 165px)",
+        TRUE ~ "calc(100vh - 135px)"
       ),
       scrollCollapse = TRUE,
-      columnDefs = c(responsive_defs, center_defs),
+      columnDefs = responsive_defs,
       language = list(
         info = "_TOTAL_ entries",
         infoEmpty = "0 entries",
-        infoFiltered = "(_MAX_ total)"
+        infoFiltered = "filtered from _MAX_ total"
       ),
       initComplete = DT::JS(
         c(
@@ -219,6 +195,7 @@ make_dt <- function(
           "  var container = $(api.table().container());",
           "  container.css({'font-family': 'Inter, system-ui, sans-serif', 'font-size': '13px'});",
           "  container.find('thead th').css({'font-weight': '600', 'font-size': '11px', 'text-transform': 'uppercase', 'letter-spacing': '0.06em', 'color': '#555'});",
+          "  container.find('.dataTables_info').css({'padding-top': '8px', 'font-size': '12px', 'color': '#555'});",
           "  container.find('td').css({'vertical-align': 'top', 'max-width': '260px', 'white-space': 'normal', 'line-height': '1.35'});",
           "  container.find('thead input, thead select').css({'width': '100%', 'min-width': '0', 'box-sizing': 'border-box', 'font-size': '11px'});",
           "  var syncResponsiveFilters = function(columns) {",
@@ -243,7 +220,6 @@ make_dt <- function(
           "}"
         )
       )
-    ),
-    ...
+    )
   )
 }

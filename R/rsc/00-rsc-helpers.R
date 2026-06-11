@@ -294,3 +294,21 @@ style_result_status <- function(dt, status_col = "Result status") {
       )
     )
 }
+
+make_wm_url <- function(thumb_url, contributor = "") {
+  # Convierte la URL thumbnail de RSC (/tn/photo/TN_*) a la versión con watermark (/wm/photo/WM_*).
+  no_photo <- "https://www.racingsportscars.com/images/car_no_photo.png"
+  
+  if (is.na(thumb_url) || thumb_url == no_photo) {
+    return(thumb_url)
+  }
+  
+  img  <- basename(thumb_url) |> str_remove("^TN_")
+  year <- str_extract(thumb_url, "(?<=/photo/)\\d{4}")
+  txt  <- URLencode(contributor, reserved = TRUE)
+  
+  str_glue(
+    "https://www.racingsportscars.com/wm/photo/{year}/WM_{img}",
+    "?dir=photo/{year}&img={img}&txt={txt}&wi=&mode=Null"
+  )
+}

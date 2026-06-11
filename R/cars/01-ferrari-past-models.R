@@ -4,7 +4,7 @@ library(chromote)
 library(rvest)
 library(here)
 
-source("R/00-helpers.R")
+source(here::here("R/00-helpers.R"))
 
 # params -----------------------------------------------------------------
 url <- "https://www.ferrari.com/en-EN/auto/past-model"
@@ -455,7 +455,7 @@ ferrari_models_dt <- ferrari_models_enriched |>
   ) |>  
   dplyr::relocate(photo, .after = model) |>
   dplyr::select(-image_data_uri, -url) |> 
-  make_dt(center_all = TRUE)
+  make_dt()
 
 ferrari_models_dt
 

@@ -56,7 +56,7 @@ dt <- bind_cols(dt, data_collection_join |> select(scale64_maker, scale64_status
   relocate(result_group, .after = result) |> 
   select(-date) |>
   glimpse() |> 
-  make_dt("collection", center_all = TRUE) |>
+  make_dt("collection", search = "none") |>
   style_result_status()
 
 dt
