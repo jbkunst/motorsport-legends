@@ -454,9 +454,8 @@ ferrari_models_dt <- ferrari_models_enriched |>
     photo = dplyr::if_else(is.na(image_data_uri) | image_data_uri == "", "", glue::glue("<img src='{image_data_uri}' width='100' />"))
   ) |>  
   dplyr::relocate(photo, .after = model) |>
-  dplyr::select(-image_data_uri, -url)
-
-ferrari_models_dt <- make_dt(ferrari_models_dt)
+  dplyr::select(-image_data_uri, -url) |> 
+  make_dt(center_all = TRUE)
 
 ferrari_models_dt
 

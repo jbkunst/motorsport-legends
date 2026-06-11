@@ -43,13 +43,35 @@ get_page_html <- function(session, url, wait = 5, n_scroll = 10, scroll_wait = 8
   session$Runtime$evaluate("document.documentElement.outerHTML", timeout_ = timeout)$result$value
 }
 
-make_dt <- function(data, element_id = NULL, photo_height = 72) {
+make_dt <- function(
+  data,
+  element_id = NULL,
+  photo_height = 96,
+  filter = "none",
+  buttons = FALSE,
+  show_info = TRUE,
+  show_global_search = TRUE,
+  center_all = FALSE,
+  ...
+) {
+  # Crea una tabla DT responsive, con HTML seguro, fotos con lightbox,
+  # filtros/botones opcionales, conteo de registros y sin scroll horizontal.
+  #
+  # Usos típicos:
+  # make_dt(data)                                                # tabla limpia
+  # make_dt(data, filter = "top")                                # filtros por columna
+  # make_dt(data, filter = "top", show_global_search = FALSE)    # filtros por columna sin buscador general
+  # make_dt(data, filter = "top", buttons = TRUE)                # filtros + selector de columnas
+  # make_dt(data, photo_height = 72)                              # tabla densa con imágenes más chicas
+  # make_dt(data, center_all = TRUE)                              # centra título y contenido de todas las columnas
+  
+  clean_name <- function(x) {
+    stringr::str_replace_all(x, "_", " ") |>
+      stringr::str_to_sentence()
+  }
   
   data_dt <- data |>
-    dplyr::rename_with(
-      ~ stringr::str_replace_all(.x, "_", " ") |>
-        stringr::str_to_sentence()
-    )
+    dplyr::rename_with(clean_name)
   
   html_cols <- data_dt |>
     dplyr::summarise(
@@ -74,15 +96,37 @@ make_dt <- function(data, element_id = NULL, photo_height = 72) {
     setdiff(names(data_dt), html_cols)
   }
   
-  has_img <- if (length(html_cols) == 0) {
-    FALSE
-  } else {
-    any(
-      purrr::map_lgl(
-        data_dt[html_cols],
-        ~ any(stringr::str_detect(.x, "<\\s*img\\b"), na.rm = TRUE)
-      )
+  img_cols <- names(data_dt)[
+    purrr::map_lgl(
+      data_dt,
+      ~ is.character(.x) && any(stringr::str_detect(.x, "<\\s*img\\b"), na.rm = TRUE)
     )
+  ]
+  
+  has_img <- length(img_cols) > 0
+  
+  priority_1_targets <- unique(c(0, match(img_cols, names(data_dt)) - 1))
+  priority_1_targets <- priority_1_targets[!is.na(priority_1_targets)]
+  
+  priority_2_targets <- setdiff(
+    seq_len(min(4, ncol(data_dt))) - 1,
+    priority_1_targets
+  )
+  
+  responsive_defs <- purrr::compact(list(
+    if (length(priority_1_targets) > 0) {
+      list(responsivePriority = 1, targets = priority_1_targets)
+    },
+    if (length(priority_2_targets) > 0) {
+      list(responsivePriority = 2, targets = priority_2_targets)
+    },
+    list(responsivePriority = 100, targets = "_all")
+  ))
+  
+  center_defs <- if (center_all) {
+    list(list(className = "dt-center", targets = "_all"))
+  } else {
+    list()
   }
   
   lightbox_js <- if (has_img) {
@@ -129,16 +173,41 @@ make_dt <- function(data, element_id = NULL, photo_height = 72) {
   DT::datatable(
     data_dt,
     elementId = element_id,
-    extensions = "FixedHeader",
+    extensions = c("FixedHeader", "Responsive", if (buttons) "Buttons"),
+    filter = filter,
     class = "hover",
     escape = escape_cols,
     rownames = FALSE,
     options = list(
       fixedHeader = TRUE,
+      responsive = TRUE,
+      autoWidth = FALSE,
+      scrollX = FALSE,
       paging = FALSE,
-       dom = "frt",
-      scrollY = "calc(100vh - 200px)",
+      dom = paste0(
+        if (buttons) "B" else "",
+        if (show_global_search) "f" else "",
+        "rt",
+        if (show_info) "i" else ""
+      ),
+      buttons = if (buttons) {
+        list(list(extend = "colvis", text = "Columnas"))
+      } else {
+        NULL
+      },
+      scrollY = dplyr::case_when(
+        buttons & filter != "none" ~ "calc(100vh - 220px)",
+        buttons ~ "calc(100vh - 200px)",
+        filter != "none" ~ "calc(100vh - 175px)",
+        TRUE ~ "calc(100vh - 140px)"
+      ),
       scrollCollapse = TRUE,
+      columnDefs = c(responsive_defs, center_defs),
+      language = list(
+        info = "_TOTAL_ entries",
+        infoEmpty = "0 entries",
+        infoFiltered = "(_MAX_ total)"
+      ),
       initComplete = DT::JS(
         c(
           "function(settings, json) {",
@@ -146,22 +215,35 @@ make_dt <- function(data, element_id = NULL, photo_height = 72) {
           "  link.rel = 'stylesheet';",
           "  link.href = 'https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap';",
           "  document.head.appendChild(link);",
-          
-          "  var container = $(this.api().table().container());",
+          "  var api = this.api();",
+          "  var container = $(api.table().container());",
           "  container.css({'font-family': 'Inter, system-ui, sans-serif', 'font-size': '13px'});",
           "  container.find('thead th').css({'font-weight': '600', 'font-size': '11px', 'text-transform': 'uppercase', 'letter-spacing': '0.06em', 'color': '#555'});",
           "  container.find('td').css({'vertical-align': 'top', 'max-width': '260px', 'white-space': 'normal', 'line-height': '1.35'});",
+          "  container.find('thead input, thead select').css({'width': '100%', 'min-width': '0', 'box-sizing': 'border-box', 'font-size': '11px'});",
+          "  var syncResponsiveFilters = function(columns) {",
+          "    var filterRows = container.find('thead tr').filter(function() { return $(this).find('input, select').length > 0; });",
+          "    if (!columns) {",
+          "      columns = [];",
+          "      api.columns().every(function(i) { columns[i] = $(api.column(i).header()).is(':visible'); });",
+          "    }",
+          "    filterRows.each(function() {",
+          "      $(this).children('th, td').each(function(i) { $(this).toggle(columns[i] !== false); });",
+          "    });",
+          "  };",
+          "  api.on('responsive-resize', function(e, datatable, columns) { syncResponsiveFilters(columns); });",
+          "  api.on('draw', function() { syncResponsiveFilters(); });",
+          "  setTimeout(function() { syncResponsiveFilters(); }, 100);",
           "  container.find('td').each(function() {",
           "    if ($(this).text().length > 120) {",
           "      $(this).css({'font-size': '11px', 'color': '#555'});",
           "    }",
           "  });",
-          
           lightbox_js,
-          
           "}"
         )
       )
-    )
+    ),
+    ...
   )
 }

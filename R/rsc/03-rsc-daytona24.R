@@ -39,7 +39,7 @@ datadaytona24
 glimpse(datadaytona24)
 
 # datos ------------------------------------------------------------------
-datadaytona24_full <- prep_dt_data(datadaytona24)
+datadaytona24_full <- prep_rsc_dt_data(datadaytona24)
 
 datadaytona24_min <- bind_rows(
   datadaytona24 |> filter(result_status == "finished"),
@@ -48,7 +48,7 @@ datadaytona24_min <- bind_rows(
     slice_head(n = 1, by = c(date, group))
 ) |>
   arrange(desc(date), result) |>
-  prep_dt_data()
+  prep_rsc_dt_data()
 
 nrow(datadaytona24_full)
 nrow(datadaytona24_min)
@@ -56,11 +56,13 @@ nrow(datadaytona24_min)
 # datatables -------------------------------------------------------------
 dt_daytona24_full <- datadaytona24_full |> 
   select(-track, -date) |> 
-  make_race_dt("daytona24-full")
+  make_dt(element_id = "daytona24-full", filter = "top", show_global_search = FALSE) |>
+  style_result_status()
 
 dt_daytona24_min  <- datadaytona24_min |>
   select(-track, -date) |> 
-  make_race_dt("daytona24-min")
+  make_dt(element_id = "daytona24-min", filter = "top", show_global_search = FALSE) |>
+  style_result_status()
 
 dt_daytona24_full
 dt_daytona24_min

@@ -81,9 +81,9 @@ datanbr24 |>
   arrange(desc(n), first_year)
 
 
-# prep_dt_data -----------------------------------------------------------
+# prep_rsc_dt_data -------------------------------------------------------
 # _full: todos los registros
-datanbr24_full <- prep_dt_data(datanbr24)
+datanbr24_full <- prep_rsc_dt_data(datanbr24)
 
 # _min: todos los finished + el mejor DNF por grupo/año, sin "other"
 # (los datos vienen ordenados por resultado, entonces slice_head captura el mejor DNF de cada clase)
@@ -94,7 +94,7 @@ datanbr24_min <- bind_rows(
     slice_head(n = 1, by = c(date, group))
 ) |>
   arrange(desc(date), result) |>
-  prep_dt_data()
+  prep_rsc_dt_data()
 
 nrow(datanbr24_full)
 nrow(datanbr24_min)
@@ -102,11 +102,13 @@ nrow(datanbr24_min)
 # datatables -------------------------------------------------------------
 dt_n24_full <- datanbr24_full |>
   select(-track, -date) |> 
-  make_race_dt("nurburgring24-full")
+  make_dt(element_id = "nurburgring24-full", filter = "top", show_global_search = FALSE) |>
+  style_result_status()
 
 dt_n24_min  <- datanbr24_min |> 
   select(-track, -date) |> 
-  make_race_dt("nurburgring24-min")
+  make_dt(element_id = "nurburgring24-min", filter = "top", show_global_search = FALSE) |>
+  style_result_status()
 
 dt_n24_full  # preview en viewer
 dt_n24_min

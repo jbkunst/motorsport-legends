@@ -80,10 +80,9 @@ datalm |>
   ) |>
   arrange(desc(n), first_year)
 
-
-# prep_dt_data -----------------------------------------------------------
+# prep_rsc_dt_data -------------------------------------------------------
 # _full: todos los registros
-datalm_full <- prep_dt_data(datalm)
+datalm_full <- prep_rsc_dt_data(datalm)
 
 # _min: todos los finished + el mejor DNF por grupo/año, sin "other"
 # (los datos vienen ordenados por resultado, entonces slice_head captura el mejor DNF de cada clase)
@@ -94,19 +93,21 @@ datalm_min <- bind_rows(
     slice_head(n = 1, by = c(date, group))
 ) |>
   arrange(desc(year(date)), result) |>
-  prep_dt_data()
+  prep_rsc_dt_data()
 
 nrow(datalm_full)
 nrow(datalm_min)
 
 # datatables -------------------------------------------------------------
-dt_lm_full <- datalm_full |> 
-  select(-track, -date) |> 
-  make_race_dt("lemans-full")
+dt_lm_full <- datalm_full |>
+  dplyr::select(-track, -date) |>
+  make_dt(element_id = "lemans-full", filter = "top", show_global_search = FALSE) |>
+  style_result_status()
 
 dt_lm_min  <- datalm_min |> 
   select(-track, -date) |> 
-  make_race_dt("lemans-min")
+  make_dt(element_id = "lemans-min", filter = "top", show_global_search = FALSE) |>
+  style_result_status()
 
 dt_lm_full  # preview en viewer
 dt_lm_min

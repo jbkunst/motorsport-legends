@@ -194,7 +194,7 @@ load_race_results <- function(dir = "data/races/nurburgring/results/") {
 }
 
 # transforma columnas a HTML (links, imágenes, lightbox); tolera columnas opcionales
-prep_dt_data <- function(data) {
+prep_rsc_dt_data <- function(data) {
   optional_cols <- c("make_url", "model_url", "chassis_url")
 
   # Cambia thumb_url a watermark
@@ -281,90 +281,16 @@ prep_dt_data <- function(data) {
     )))
 }
 
-# construye un DT con estilo, lightbox y filtros (genérico para cualquier carrera RSC)
-make_race_dt <- function(data, element_id) {
-  data |>
-    rename_with(~ str_replace_all(.x, "_", " ") |> str_to_sentence()) |>
-    DT::datatable(
-      elementId = element_id,
-      extensions = c("FixedHeader", "Buttons"),
-      filter = "top",
-      class = "hover",
-      options = list(
-        fixedHeader = TRUE,
-        paging = FALSE,
-        dom = "Bfrtip",
-        buttons = list(list(extend = "colvis", text = "Columnas")),
-        scrollY = "calc(100vh - 200px)",
-        scrollCollapse = TRUE,
-        initComplete = DT::JS(
-          "function(settings, json) {",
-          "  var link = document.createElement('link');",
-          "  link.rel = 'stylesheet';",
-          "  link.href = 'https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap';",
-          "  document.head.appendChild(link);",
-          "  var container = $(this.api().table().container());",
-          "  container.css({'font-family': 'Inter, system-ui, sans-serif', 'font-size': '13px'});",
-          "  container.find('thead th').css({'font-weight': '600', 'font-size': '11px', 'text-transform': 'uppercase', 'letter-spacing': '0.06em', 'color': '#555'});",
-          "  if (!document.getElementById('lb-overlay')) {",
-          "    var overlay = document.createElement('div');",
-          "    overlay.id = 'lb-overlay';",
-          "    overlay.style.cssText = 'display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.85);z-index:9999;justify-content:center;align-items:center;cursor:zoom-out;';",
-          "    var lbImg = document.createElement('img');",
-          "    lbImg.id = 'lb-img';",
-          "    lbImg.style.cssText = 'max-width:90vw;max-height:90vh;border-radius:6px;box-shadow:0 8px 32px rgba(0,0,0,0.6);';",
-          "    overlay.appendChild(lbImg);",
-          "    document.body.appendChild(overlay);",
-          "    overlay.addEventListener('click', function() { overlay.style.display = 'none'; });",
-          "    document.addEventListener('keydown', function(e) { if(e.key === 'Escape') overlay.style.display = 'none'; });",
-          "  }",
-          "  var overlay = document.getElementById('lb-overlay');",
-          "  var lbImg   = document.getElementById('lb-img');",
-          "  $(document).on('click', 'img.lightbox-img', function() {",
-          "    var thumbSrc = this.src;",
-          "    var fullSrc  = this.dataset.full || thumbSrc;",
-          "    lbImg.style.width  = '';",
-          "    lbImg.style.height = '';",
-          "    lbImg.onerror = function() { lbImg.onerror = null; lbImg.src = thumbSrc; };",
-          "    var tmp = new Image();",
-          "    tmp.onload = function() {",
-          "      lbImg.style.width  = Math.min(tmp.naturalWidth  * 1.5, window.innerWidth  * 0.9) + 'px';",
-          "      lbImg.style.height = Math.min(tmp.naturalHeight * 1.5, window.innerHeight * 0.9) + 'px';",
-          "    };",
-          "    tmp.src = fullSrc;",
-          "    lbImg.src = fullSrc;",
-          "    overlay.style.display = 'flex';",
-          "  });",
-          "}"
-        )
-      ),
-      escape = FALSE,
-      rownames = FALSE
-    ) |>
+style_result_status <- function(dt, status_col = "Result status") {
+  # Aplica color de fondo por estado de resultado en tablas de carreras.
+  
+  dt |>
     DT::formatStyle(
-      "Result status",
+      status_col,
       target = "row",
       backgroundColor = DT::styleEqual(
         c("winner", "finished", "not_finished", "not_qualified", "not_arrived", "other"),
-        c("#EAD27A", "transparent", "#eeeeee", "#f8d7da", "#e2e3e5", "#d1ecf1")
+        c("#F6E7B2", "transparent", "#eeeeee", "#f8d7da", "#e2e3e5", "#d1ecf1")
       )
     )
-}
-
-# Convierte la URL thumbnail de RSC (/tn/photo/TN_*) a la versión con watermark (/wm/photo/WM_*).
-make_wm_url <- function(thumb_url, contributor = "") {
-  no_photo <- "https://www.racingsportscars.com/images/car_no_photo.png"
-  
-  if (is.na(thumb_url) || thumb_url == no_photo) {
-    return(thumb_url)
-  }
-  
-  img  <- basename(thumb_url) |> str_remove("^TN_")
-  year <- str_extract(thumb_url, "(?<=/photo/)\\d{4}")
-  txt  <- URLencode(contributor, reserved = TRUE)
-  
-  str_glue(
-    "https://www.racingsportscars.com/wm/photo/{year}/WM_{img}",
-    "?dir=photo/{year}&img={img}&txt={txt}&wi=&mode=Null"
-  )
 }

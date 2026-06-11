@@ -61,7 +61,7 @@ dt <- races_other |>
   map2(races_other$event, function(x, y) { x |> mutate(track = y, .before = 1) }) |>
   bind_rows() |>
   mutate(grid_time = suppressWarnings(lubridate::ms(grid_time))) |> 
-  prep_dt_data() |> 
+  prep_rsc_dt_data() |> 
   make_race_dt("other")
 
 dt
