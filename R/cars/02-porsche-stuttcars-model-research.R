@@ -179,4 +179,39 @@ porsche_specs <- porsche_models |>
   unique() |>
   map(scrape_porsche_specs)
 
-saveRDS(porsche_specs, "data/cars/porsche_specs_TEMP.rds")
+# saveRDS(porsche_specs, "data/cars/porsche_specs_TEMP.rds")
+# porsche_specs <- readRDS("data/cars/porsche_specs_TEMP.rds")
+
+
+# porsche main specs -----------------------------------------------------
+porsche_specs_info_up <- porsche_specs |>
+  map_dfr("info_up")
+
+porsche_specs_info_up
+
+porsche_specs_info_up_completeness <- porsche_specs_info_up |>
+  dplyr::summarise(
+    dplyr::across(
+      dplyr::everything(),
+      list(
+        n_non_na   = ~ sum(!is.na(.x) & .x != ""),
+        pct_non_na = ~ mean(!is.na(.x) & .x != "")
+      ),
+      .names = "{.col}__{.fn}"
+    )
+  ) |>
+  tidyr::pivot_longer(
+    dplyr::everything(),
+    names_to = c("column", ".value"),
+    names_sep = "__"
+  ) |>
+  dplyr::mutate(
+    pct_non_na = round(100 * pct_non_na, 1)
+  ) |>
+  dplyr::arrange(dplyr::desc(n_non_na), column)
+
+porsche_specs_info_up_completeness |> print(n = Inf)
+
+porsche_specs_info_up |> filter(is.na(model)) |> 
+  select(1:5) |>
+  print(n = Inf)
