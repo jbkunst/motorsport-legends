@@ -394,9 +394,8 @@ porsche_models_specs <- porsche_models |>
     acceleration_0_100_kmh_s = round(acceleration_0_100_kmh_s, 1), production_qty = as.integer(round(production_qty))
   ) |>
   dplyr::select(
-    model = model_clean, 
+    model = model_clean,
     model_full,
-    model_card,
     model_family,
     model_code = model_code_main,
     year,
@@ -423,19 +422,8 @@ porsche_models_specs <- porsche_models |>
 
 # checks -----------------------------------------------------------------
 porsche_models_specs |>
-  dplyr::filter(is.na(year)) |>
-  dplyr::select(model, model_full, model_card, year, year_end, url)
-
-porsche_models_specs |>
-  dplyr::summarise(dplyr::across(dplyr::everything(), ~ mean(!is.na(.x) & if (is.character(.x)) .x != "" else TRUE))) |>
-  tidyr::pivot_longer(dplyr::everything(), names_to = "column", values_to = "pct_non_na") |>
-  dplyr::mutate(pct_non_na = round(100 * pct_non_na, 1)) |>
-  dplyr::arrange(dplyr::desc(pct_non_na)) |>
-  print(n = Inf)
-
-porsche_models_specs |>
-  dplyr::filter(is.na(year)) |>
-  dplyr::select(model, model_full, year, year_end, url)
+  dplyr::slice_sample(prop = 1) |>
+  dplyr::glimpse()
 
 porsche_models_specs |>
   dplyr::summarise(
@@ -454,8 +442,21 @@ porsche_models_specs |>
   print(n = Inf)
 
 porsche_models_specs |>
+  dplyr::filter(is.na(year)) |>
+  dplyr::select(model, model_full, year, year_end, url)
+
+porsche_models_specs |>
   dplyr::count(model_code, sort = TRUE) |>
   print(n = Inf)
+
+porsche_models_specs |>
+  dplyr::count(model_family, sort = TRUE) |>
+  print(n = Inf)
+
+porsche_models_specs |>
+  dplyr::filter(is.na(model_family)) |>
+  dplyr::select(model, model_code, generation, year, category, engine, url) |>
+  dplyr::slice_sample(prop = 1)
 
 porsche_models_specs |>
   dplyr::summarise(
@@ -466,53 +467,29 @@ porsche_models_specs |>
 porsche_models_specs |>
   dplyr::filter(is.na(engine_position)) |>
   dplyr::select(model, year, category, section, engine, url) |>
-  dplyr::sample_frac(1)
+  dplyr::slice_sample(prop = 1)
 
-porsche_models_specs |>
-  dplyr::count(model_code, sort = TRUE) |>
-  print()
 
-porsche_models_specs |>
-  dplyr::filter(is.na(model_family)) |>
-  dplyr::select(model, model_code, generation, year, category, engine, url) |>
-  dplyr::sample_frac(1) |>
-  print(n = 40, width = Inf)
-
-porsche_models_specs |>
-  dplyr::count(model_family, sort = TRUE) |>
-  print(n = Inf)
-
-porsche_models_specs |>
-  dplyr::filter(is.na(model_family)) |>
-  dplyr::select(model, model_code, generation, year, category, engine, url) |>
-  dplyr::sample_frac(1) |>
-  print(n = 40, width = Inf)
-
-porsche_models_specs |>
-  dplyr::summarise(
-    dplyr::across(
-      dplyr::everything(),
-      ~ mean(!is.na(.x) & if (is.character(.x)) .x != "" else TRUE)
-    )
+# auditoria diferencias entre titulos ------------------------------------
+porsche_model_title_diffs <- porsche_models |>
+  dplyr::transmute(
+    url,
+    model_card = title
   ) |>
-  tidyr::pivot_longer(
-    dplyr::everything(),
-    names_to = "column",
-    values_to = "pct_non_na"
+  dplyr::left_join(porsche_specs_titles, by = "url") |>
+  dplyr::mutate(
+    model_full = dplyr::coalesce(page_title_year, model_card),
+    model = model_full |>
+      stringr::str_remove("\\s*\\(([^\\)]*(19|20)\\d{2}[^\\)]*)\\)") |>
+      stringr::str_remove("\\s*\\((930|964|993|996(?:\\.2)?|997(?:\\.2)?|991(?:\\.[12])?|992(?:\\.[12])?|986|987|981|982|718)\\)") |>
+      stringr::str_squish()
   ) |>
-  dplyr::mutate(pct_non_na = round(100 * pct_non_na, 1)) |>
-  dplyr::arrange(dplyr::desc(pct_non_na)) |>
-  print(n = Inf)
+  dplyr::filter(model_full != model_card) |>
+  dplyr::select(model, model_full, model_card, url)
 
-porsche_models_specs |>
-  sample_frac(1) |> 
-  dplyr::glimpse()
-
-porsche_models_specs |> 
-  filter(is.na(year)) |> 
-  select(model, year, year_end)
+porsche_model_title_diffs
 
 # datatable --------------------------------------------------------------
 
 # export -----------------------------------------------------------------
-readr::write_csv(porsche_models_specs, out_csv)
+readr::write_csv( , out_csv)
