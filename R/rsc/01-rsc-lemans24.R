@@ -1,5 +1,6 @@
 # setup ------------------------------------------------------------------
 source(here::here("R/rsc/00-rsc-helpers.R"))
+source(here::here("R/00-helpers.R"))
 
 # data -------------------------------------------------------------------
 le_mans_archive_url <- "https://www.racingsportscars.com/photo_lemans.html"
@@ -101,12 +102,12 @@ nrow(datalm_min)
 # datatables -------------------------------------------------------------
 dt_lm_full <- datalm_full |>
   dplyr::select(-track, -date) |>
-  make_dt(element_id = "lemans-full", filter = "top", show_global_search = FALSE) |>
+  make_dt(element_id = "lemans-full", search = "columns") |>
   style_result_status()
 
 dt_lm_min  <- datalm_min |> 
   select(-track, -date) |> 
-  make_dt(element_id = "lemans-min", filter = "top", show_global_search = FALSE) |>
+  make_dt(element_id = "lemans-min", search = "columns") |>
   style_result_status()
 
 dt_lm_full  # preview en viewer
@@ -119,14 +120,16 @@ htmlwidgets::saveWidget(
   dt_lm_full,
   file     = here::here("outputs/html/lemans24_results_full.html"),
   libdir   = "lib",
-  selfcontained = FALSE
+  selfcontained = FALSE,
+  title = "Le Mans 24 Hours - All Results"
 )
 
 htmlwidgets::saveWidget(
   dt_lm_min,
   file     = here::here("outputs/html/lemans24_results_min.html"),
   libdir   = "lib",
-  selfcontained = FALSE
+  selfcontained = FALSE,
+  title = "Le Mans 24 Hours - Finished + Best DNF Results"
 )
 
 cli::cli_alert_success("Guardado: outputs/html/lemans24_results_full.html ({nrow(datalm_full)} filas)")

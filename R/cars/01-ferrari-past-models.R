@@ -464,4 +464,4 @@ readr::write_csv(ferrari_models_enriched, out_csv)
 
 readr::write_csv(ferrari_specs_long_clean, out_specs_csv)
 
-htmlwidgets::saveWidget(ferrari_models_dt, file = out_html, libdir = "lib", selfcontained = FALSE)
+htmlwidgets::saveWidget(ferrari_models_dt, file = out_html, libdir = "lib", selfcontained = FALSE, title = "Ferrari Past Models")

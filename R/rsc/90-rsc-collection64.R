@@ -65,5 +65,6 @@ htmlwidgets::saveWidget(
   dt,
   file     = here::here("outputs/html/collection164.html"),
   libdir   = "lib",
-  selfcontained = FALSE
+  selfcontained = FALSE,
+  title = "RSC Collection 1:64 - Results and Status"
 )

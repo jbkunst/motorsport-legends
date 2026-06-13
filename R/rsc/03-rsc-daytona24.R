@@ -1,5 +1,6 @@
 # setup ------------------------------------------------------------------
 source(here::here("R/rsc/00-rsc-helpers.R"))
+source(here::here("R/00-helpers.R"))
 
 # data -------------------------------------------------------------------
 daytona_archive_url <- "https://www.racingsportscars.com/track/archive/daytona.html"
@@ -56,12 +57,12 @@ nrow(datadaytona24_min)
 # datatables -------------------------------------------------------------
 dt_daytona24_full <- datadaytona24_full |> 
   select(-track, -date) |> 
-  make_dt(element_id = "daytona24-full", filter = "top", show_global_search = FALSE) |>
+  make_dt(element_id = "daytona24-full", search = "columns") |>
   style_result_status()
 
 dt_daytona24_min  <- datadaytona24_min |>
   select(-track, -date) |> 
-  make_dt(element_id = "daytona24-min", filter = "top", show_global_search = FALSE) |>
+  make_dt(element_id = "daytona24-min", search = "columns") |>
   style_result_status()
 
 dt_daytona24_full
@@ -74,14 +75,16 @@ htmlwidgets::saveWidget(
   dt_daytona24_full,
   file = here::here("outputs/html/daytona24_results_full.html"),
   libdir = "lib",
-  selfcontained = FALSE
+  selfcontained = FALSE,
+  title = "Daytona 24 Hours - All Results"
 )
 
 htmlwidgets::saveWidget(
   dt_daytona24_min,
   file = here::here("outputs/html/daytona24_results_min.html"),
   libdir = "lib",
-  selfcontained = FALSE
+  selfcontained = FALSE,
+  title = 
 )
 
 cli::cli_alert_success("Guardado: outputs/html/daytona24_results_full.html ({nrow(datadaytona24_full)} filas)")

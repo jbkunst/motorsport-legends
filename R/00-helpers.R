@@ -168,6 +168,7 @@ make_dt <- function(data, element_id = NULL, photo_height = 96, search = "global
       autoWidth = FALSE,
       scrollX = FALSE,
       paging = FALSE,
+      search = list(regex = TRUE, smart = FALSE),
       dom = paste0(
         if (search == "global") "f" else "",
         "rti"

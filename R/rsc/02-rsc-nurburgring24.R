@@ -1,5 +1,6 @@
 # setup ------------------------------------------------------------------
 source(here::here("R/rsc/00-rsc-helpers.R"))
+source(here::here("R/00-helpers.R"))
 
 # data -------------------------------------------------------------------
 nurburgring24_dates <- c(
@@ -102,12 +103,12 @@ nrow(datanbr24_min)
 # datatables -------------------------------------------------------------
 dt_n24_full <- datanbr24_full |>
   select(-track, -date) |> 
-  make_dt(element_id = "nurburgring24-full", filter = "top", show_global_search = FALSE) |>
+  make_dt(element_id = "nurburgring24-full", search = "columns") |>
   style_result_status()
 
 dt_n24_min  <- datanbr24_min |> 
   select(-track, -date) |> 
-  make_dt(element_id = "nurburgring24-min", filter = "top", show_global_search = FALSE) |>
+  make_dt(element_id = "nurburgring24-min", search = "columns") |>
   style_result_status()
 
 dt_n24_full  # preview en viewer
@@ -120,14 +121,16 @@ htmlwidgets::saveWidget(
   dt_n24_full,
   file     = here::here("outputs/html/nurburgring24_results_full.html"),
   libdir   = "lib",
-  selfcontained = FALSE
+  selfcontained = FALSE,
+  title = "Nurburgring 24 Hours - All Results"
 )
 
 htmlwidgets::saveWidget(
   dt_n24_min,
   file     = here::here("outputs/html/nurburgring24_results_min.html"),
   libdir   = "lib",
-  selfcontained = FALSE
+  selfcontained = FALSE,
+  title = 
 )
 
 cli::cli_alert_success("Guardado: outputs/html/nurburgring24_results_full.html ({nrow(datanbr24_full)} filas)")
