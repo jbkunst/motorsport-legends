@@ -1,3 +1,19 @@
+clean_txt <- function(x) {
+  # Limpia texto extraído desde HTML.
+  
+  x |>
+    stringr::str_replace_all("\\u00a0", " ") |>
+    stringr::str_squish()
+}
+
+parse_num <- function(x) {
+  x <- x |> as.character() |> str_remove_all(",") |> str_squish()
+  out <- rep(NA_real_, length(x))
+  ok <- !is.na(x) & str_detect(x, "\\d")
+  out[ok] <- readr::parse_number(x[ok])
+  out
+}
+
 image_url_to_data_uri <- function(url) {
   if (is.na(url) || url == "") return(NA_character_)
 
