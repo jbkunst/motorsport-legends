@@ -84,7 +84,7 @@ htmlwidgets::saveWidget(
   file = here::here("outputs/html/daytona24_results_min.html"),
   libdir = "lib",
   selfcontained = FALSE,
-  title = 
+  title = "Daytona 24 Hours - Finished + Best DNF Results"
 )
 
 cli::cli_alert_success("Guardado: outputs/html/daytona24_results_full.html ({nrow(datadaytona24_full)} filas)")

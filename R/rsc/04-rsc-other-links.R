@@ -11,6 +11,7 @@ races_other <- tribble(
   ~track,          ~year, ~event,                            ~reason,                                      ~url,
   "nurburgring",   1960, "Nürburgring 1000 Kilometres",      "Maserati Tipo 61 #5 winner",                 "https://www.racingsportscars.com/photo/Nurburgring-1960-06-22.html?sort=Results",
   "riverside",     1960, "Grand Prix Riverside 200 Miles",   "Maserati Tipo 61 #98 Carroll Shelby",        "https://www.racingsportscars.com/photo/Riverside-1960-10-16.html?sort=Results",
+  "laguna_seca",   1963, "Laguna Seca 200 Miles",            "Shelby Cobra #96 Allen Grant GreenLight; incluye fotos del evento Laguna Seca 1963", "https://www.racingsportscars.com/photo/Laguna_Seca-1963-10-20.html?sort=Results",
   "laguna_seca",   1981, "Laguna Seca",                      "Porsche 935/78 Moby Dick MOMO",              "https://www.racingsportscars.com/photo/Laguna_Seca-1981-05-03.html?sort=Results",
   "sebring",       1971, "Sebring 12 Hours",                 "Porsche 917 K winner",                       "https://www.racingsportscars.com/photo/Sebring-1971-03-20.html?sort=Results",
   "sebring",       1973, "Sebring 12 Hours",                 "Porsche 911 Carrera RSR winner",             "https://www.racingsportscars.com/photo/Sebring-1973-03-24.html?sort=Results",
@@ -38,7 +39,6 @@ races_other <- bind_rows(races_other, races_other_extra)
 # scrape -----------------------------------------------------------------
 walk(races_other$url, scrape_race)
 
-
 races_other <- races_other |>
   mutate(
     date = str_extract(url, "\\d{4}-\\d{2}-\\d{2}"),
@@ -64,6 +64,7 @@ dt <- races_other |>
   bind_rows() |>
   mutate(grid_time = suppressWarnings(lubridate::ms(grid_time))) |> 
   prep_rsc_dt_data() |> 
-  make_race_dt("other")
+  make_dt(element_id = "other-races", search = "columns") |>
+  style_result_status()
 
 dt

@@ -130,7 +130,7 @@ htmlwidgets::saveWidget(
   file     = here::here("outputs/html/nurburgring24_results_min.html"),
   libdir   = "lib",
   selfcontained = FALSE,
-  title = 
+  title = "Nurburgring 24 Hours - Finished + Best DNF Results"
 )
 
 cli::cli_alert_success("Guardado: outputs/html/nurburgring24_results_full.html ({nrow(datanbr24_full)} filas)")
