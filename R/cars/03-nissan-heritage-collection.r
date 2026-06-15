@@ -69,9 +69,27 @@ parse_nissan_specs <- function(page) {
   lwh <- str_split_fixed(length_width_height, "/", 3)
   
   engine_raw <- get_col(specs_wide, "engine")
-  engine_displacement_raw <- get_col(specs_wide, "engine_displacement")
-  power_raw <- get_col(specs_wide, "engine_max_power")
-  torque_raw <- get_col(specs_wide, "engine_max_torque")
+
+  engine_displacement_raw <- coalesce(
+  get_col(specs_wide, "engine_displacement"),
+  get_col(specs_wide, "engine_displacement_max_power")
+  )
+
+  power_raw <- coalesce(
+    get_col(specs_wide, "engine_max_power"),
+    get_col(specs_wide, "enginemax_power"),
+    get_col(specs_wide, "max_power_net"),
+    get_col(specs_wide, "max_power"),
+    get_col(specs_wide, "engine_max_powerc"),
+    get_col(specs_wide, "engine_displacement_max_power")
+  )
+
+  torque_raw <- coalesce(
+    get_col(specs_wide, "engine_max_torque"),
+    get_col(specs_wide, "enginemax_torque"),
+    get_col(specs_wide, "max_torque_net"),
+    get_col(specs_wide, "engine_max_torquec")
+  )
   
   tibble(
     length_mm = coalesce(parse_num(get_col(specs_wide, "overall_length")), parse_num(lwh[, 1])),
@@ -83,14 +101,19 @@ parse_nissan_specs <- function(page) {
     curb_weight_kg = parse_num(get_col(specs_wide, "curb_weight")),
     
     engine_code = engine_raw |> str_extract("^[^\\(,]+") |> str_squish(),
+
     engine = case_when(
-      str_detect(engine_raw, regex("6-cyl\\.?\\s*in line|inline[- ]?6", ignore_case = TRUE)) ~ "inline-6",
-      str_detect(engine_raw, regex("4-cyl\\.?\\s*in line|inline[- ]?4", ignore_case = TRUE)) ~ "inline-4",
-      str_detect(engine_raw, regex("3-cyl\\.?\\s*in line|inline[- ]?3", ignore_case = TRUE)) ~ "inline-3",
-      str_detect(engine_raw, regex("\\bV6\\b", ignore_case = TRUE)) ~ "V6",
+      str_detect(engine_raw, regex("permanent-magnet|electric|motor", ignore_case = TRUE)) ~ "electric",
+      str_detect(engine_raw, regex("\\bV12\\b", ignore_case = TRUE)) ~ "V12",
+      str_detect(engine_raw, regex("\\bV10\\b", ignore_case = TRUE)) ~ "V10",
       str_detect(engine_raw, regex("\\bV8\\b", ignore_case = TRUE)) ~ "V8",
+      str_detect(engine_raw, regex("\\bV6\\b", ignore_case = TRUE)) ~ "V6",
+      str_detect(engine_raw, regex("6-cyl\\.?\\s*(in[- ]?line|inline)|inline.*6|6 cylinders", ignore_case = TRUE)) ~ "inline-6",
+      str_detect(engine_raw, regex("4-cyl\\.?\\s*(in[- ]?line|inline)|inline.*4|4 cylinders", ignore_case = TRUE)) ~ "inline-4",
+      str_detect(engine_raw, regex("3-cyl\\.?\\s*(in[- ]?line|inline)|inline.*3|3 cylinders", ignore_case = TRUE)) ~ "inline-3",
+      str_detect(engine_raw, regex("2-cycle single cylinder|single cylinder", ignore_case = TRUE)) ~ "single-cylinder",
       TRUE ~ NA_character_
-    ),
+    ) ,  
     
     displacement_cc = coalesce(
       parse_num(engine_displacement_raw),
@@ -398,7 +421,7 @@ nissan_category_links <- page |>
   map_dfr(\(x) {
     tibble(
       category = x |> html_text2() |> clean_txt(),
-      url = x |> html_attr("href") |> url_absolute(base_url)
+      url = x |> html_attr("href") |> url_absolute(url)
     )
   }) |>
   filter(
@@ -413,7 +436,7 @@ nissan_category_links <- page |>
 
 nissan_year_links <- tibble(
   decade = seq(1920, 2020, by = 10),
-  url = paste0(base_url, decade, ".html")
+  url = paste0(url, decade, ".html")
 )
 
 # checks: links
@@ -422,18 +445,10 @@ nissan_category_links |> slice_sample(prop = 1)
 
 # scrape by category
 nissan_models_specs <- nissan_category_links |>
-  pull(url) |> 
+  pull(url)|> 
   map_dfr(scrape_nissan_index_page)
 
 nissan_models_specs
-
-nissan_models_specs |>
-  summarise(
-    image_url = sum(!is.na(image_url)),
-    image_data_uri = sum(!is.na(image_data_uri)),
-    description = sum(!is.na(description))
-  )
-
 # fix
 nissan_models_specs <- nissan_models_specs |>
   mutate(
@@ -441,10 +456,80 @@ nissan_models_specs <- nissan_models_specs |>
   )
 
 nissan_models_specs |>
-  filter(has_detail, is.na(description)) |>
-  select(category, no, title, year, url) |>
+  summarise(
+    engine_code = sum(!is.na(engine_code)),
+    engine = sum(!is.na(engine)),
+    max_power_cv = sum(!is.na(max_power_cv)),
+    torque_nm = sum(!is.na(torque_nm)),
+    displacement_cc = sum(!is.na(displacement_cc))
+  )
+
+# check specs long -------------------------------------------------------
+# This is to see what specs are available and how they look before trying to parse them into structured data.
+nissan_specs_long <- nissan_models_specs |>
+  filter(has_detail) |>
+  distinct(category, no, title, year, url) |>
+  mutate(specs = map(url, \(u) {
+    cli::cli_inform("Scraping specs long {u}")
+    Sys.sleep(0.3)
+    
+    read_nissan_detail_html(u) |>
+      parse_nissan_specs_long()
+  })) |>
+  unnest(specs)
+
+nissan_specs_long |>
+  count(spec, sort = TRUE) |>
   print(n = Inf)
 
+nissan_specs_long |>
+  filter(spec == "other") |>
+  count(value, sort = TRUE) |>
+  print(n = Inf)
+
+nissan_specs_long |>
+  filter(str_detect(spec, "power|torque|displacement")) |>
+  count(spec, value, sort = TRUE) |>
+  print(n = Inf)
+
+nissan_specs_long |>
+  filter(spec %in% c(
+    "enginemax_power",
+    "enginemax_torque",
+    "max_power_net",
+    "max_torque_net",
+    "max_power",
+    "engine_max_powerc",
+    "engine_max_torquec",
+    "engine_displacement_max_power"
+  )) |>
+  count(spec, sort = TRUE) |>
+  print(n = Inf)
+
+nissan_test <- scrape_nissan_index_page("https://www.nissan-global.com/EN/HERITAGE_COLLECTION/fairlady.html")
+
+nissan_test |>
+  summarise(
+    max_power_cv = sum(!is.na(max_power_cv)),
+    torque_nm = sum(!is.na(torque_nm)),
+    displacement_cc = sum(!is.na(displacement_cc))
+  )
+
+nissan_models_specs |>
+  filter(category == "Fairlady") |>
+  summarise(
+    max_power_cv = sum(!is.na(max_power_cv)),
+    torque_nm = sum(!is.na(torque_nm)),
+    displacement_cc = sum(!is.na(displacement_cc))
+  )
+
+nissan_test <- scrape_nissan_index_page("https://www.nissan-global.com/EN/HERITAGE_COLLECTION/skyline.html")
+
+nissan_test |>
+  summarise(
+    engine_code = sum(!is.na(engine_code)),
+    engine = sum(!is.na(engine))
+  )
 
 # checks: category --------------------------------------------------------
 nissan_models_by_category |>

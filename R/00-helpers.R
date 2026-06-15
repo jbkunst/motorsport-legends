@@ -14,6 +14,10 @@ parse_num <- function(x) {
   out
 }
 
+get_col <- function(data, col) {
+  if (col %in% names(data)) data[[col]] else NA_character_
+}
+
 image_url_to_data_uri <- function(url) {
   if (is.na(url) || url == "") return(NA_character_)
 
