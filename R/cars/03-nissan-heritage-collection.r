@@ -193,9 +193,10 @@ scrape_nissan_index_page <- function(url = "https://www.nissan-global.com/EN/HER
       str_extract("\\b(19|20)\\d{2}\\b") |>
       as.integer()
 
-    year_title <- title |>
-      str_match("\\([^)]*\\b((?:19|20)\\d{2})\\b\\s*(?::|\\))") |>
-      pluck(, 2) |>
+    year_title <- str_match(
+      title,
+      "\\([^)]*\\b((?:19|20)\\d{2})\\b\\s*(?::|\\))"
+    )[, 2] |>
       as.integer()
 
     year <- coalesce(year_card, year_title)
@@ -216,24 +217,26 @@ scrape_nissan_index_page <- function(url = "https://www.nissan-global.com/EN/HER
     detail_a <- card |>
       html_element(".thumbnail_block_btn a")
     
-    detail_href <- detail_a |>
-      html_attr("href")
-    
-    detail_class <- detail_a |>
-      html_attr("class")
-    
-    detail_disabled <- !is.na(detail_class) && str_detect(detail_class, "\\bdisable\\b")
-    
-    detail_url <- if (
-      !detail_disabled &&
-      !is.na(detail_href) &&
-      detail_href != "" &&
-      detail_href != "#" &&
-      !str_ends(detail_href, "#")
-    ) {
+    detail_a <- card |> html_element(".thumbnail_block_btn a")
+    detail_href <- detail_a |> html_attr("href") |> coalesce("")
+    detail_class <- detail_a |> html_attr("class") |> coalesce("")
+
+    detail_disabled <- str_detect(detail_class, "\\bdisable\\b")
+    detail_is_anchor <- detail_href == "" ||
+      detail_href == "#" ||
+      str_detect(detail_href, "#no-") ||
+      str_detect(detail_href, "^#")
+
+    detail_url <- if (!detail_disabled && !detail_is_anchor) {
       url_absolute(detail_href, url)
     } else {
       NA_character_
+    }
+
+    card_url <- if (is.na(detail_url)) {
+      str_c(url, "#no-", no)
+    } else {
+      detail_url
     }
     
     card_base <- tibble(
@@ -249,7 +252,7 @@ scrape_nissan_index_page <- function(url = "https://www.nissan-global.com/EN/HER
       thumb_data_uri = tryCatch(if (!is.na(thumb_url) && thumb_url != "") image_url_to_data_uri(thumb_url) else NA_character_, error = \(e) NA_character_),
       description = NA_character_,
       raw_text = raw_text,
-      url = if (!is.na(detail_url)) detail_url else paste0(url, "#no-", no),
+      url = card_url,
       has_detail = !is.na(detail_url)
     )
     
@@ -279,9 +282,7 @@ scrape_nissan_index_page <- function(url = "https://www.nissan-global.com/EN/HER
       clean_txt() |>
       na_if("")
     
-    detail_year <- detail_title |>
-      str_match("\\([^)]*\\b((?:19|20)\\d{2})\\b\\s*(?::|\\))") |>
-      pluck(, 2) |>
+    detail_year <- str_match(detail_title, "\\([^)]*\\b((?:19|20)\\d{2})\\b\\s*(?::|\\))")[, 2] |>
       as.integer()
     
     link_nodes <- detail_page |>
@@ -451,7 +452,6 @@ nissan_year_links <- tibble(
 nissan_year_links
 nissan_category_links |> slice_sample(prop = 1)
 
-
 nissan_models_specs <- nissan_category_links |>
   pull(url) |>
   map_dfr(scrape_nissan_index_page) |>
@@ -468,20 +468,84 @@ nissan_models_specs_v2 <- nissan_year_links |>
     engine = case_when(engine_code == "LZ14" ~ "inline-4", TRUE ~ engine)
   )
 
-bind_rows(
+# bind specs all ---------------------------------------------------------
+nissan_models_specs_raw <- bind_rows(
   nissan_models_specs |> mutate(source_scrape = "category"),
   nissan_models_specs_v2 |> mutate(source_scrape = "year")
-) |>
+)
+
+nissan_models_specs_all <- nissan_models_specs_raw |>
   mutate(
-    year_from_title = title |>
-      str_match("\\([^)]*\\b((?:19|20)\\d{2})\\b\\s*(?::|\\))") |>
-      pluck(, 2) |>
-      as.integer()
+    image_url = if_else(has_detail & !is.na(image_url) & is.na(image_data_uri), NA_character_, image_url),
+    engine = case_when(
+      engine_code == "LZ14" ~ "inline-4",
+      TRUE ~ engine
+    ),
+    quality_score =
+      as.integer(has_detail) +
+      as.integer(!is.na(image_url)) +
+      as.integer(!is.na(image_data_uri)) +
+      as.integer(!is.na(description)) +
+      as.integer(!is.na(length_mm)) +
+      as.integer(!is.na(engine)) +
+      as.integer(!is.na(displacement_cc)) +
+      as.integer(!is.na(max_power_cv)) +
+      as.integer(!is.na(torque_nm))
   ) |>
-  filter(!is.na(year_from_title), year != year_from_title) |>
-  select(source_scrape, category, no, title, year, year_from_title, url) |>
-  arrange(year, no) |>
-  print(n = Inf)
+  arrange(no, year, desc(quality_score), source_scrape) |>
+  distinct(no, year, .keep_all = TRUE)
+
+nissan_final_cols <- c(
+  "brand", "no",
+  "model", "model_full", "model_family", "model_code",
+  "year", "category",
+  "heritage_category", "heritage_decade", "vehicle_type",
+  "engine", "engine_code", "displacement_cc",
+  "max_power_cv", "rpm_max_power",
+  "torque_nm", "rpm_max_torque",
+  "top_speed_kmh",
+  "weight_kg", "wheelbase_mm",
+  "length_mm", "width_mm", "height_mm",
+  "url", "image_url", "image_data_uri",
+  "thumb_url", "thumb_data_uri",
+  "description"
+)
+
+nissan_models_specs_final <- nissan_models_specs_all |>
+  mutate(
+    brand = "Nissan",
+    source_category = category,
+    heritage_category = if_else(source_scrape == "category", source_category, NA_character_),
+    heritage_decade = if_else(source_scrape == "year", source_category, NA_character_),
+    vehicle_type = type,
+    
+    model_full = title,
+    model = title |>
+      str_remove("\\s*\\([^)]*\\)\\s*$") |>
+      str_squish(),
+    
+    model_family = heritage_category,
+    
+    model_code = title |>
+      str_extract("\\((?:19|20)\\d{2}\\s*:\\s*[^\\)]+\\)") |>
+      str_remove("^\\((?:19|20)\\d{2}\\s*:\\s*") |>
+      str_remove("\\)$") |>
+      str_squish() |>
+      na_if("-"),
+    
+    weight_kg = curb_weight_kg,
+    
+    category = case_when(
+      str_detect(
+        paste(title, type, source_category, description, raw_text),
+        regex("rally|race|racing|silhouette|super silhouette|calsonic|nismo|jgtc|super gt|lemans|le mans|gr\\. c|group c|competition", ignore_case = TRUE)
+      ) ~ "Competition",
+      TRUE ~ "Road"
+    )
+  ) |>
+  select(all_of(nissan_final_cols))
+
+nissan_models_specs_final
 
 # check specs long -------------------------------------------------------
 # This is to see what specs are available and how they look before trying to parse them into structured data.
@@ -524,31 +588,6 @@ nissan_specs_long |>
   )) |>
   count(spec, sort = TRUE) |>
   print(n = Inf)
-
-nissan_test <- scrape_nissan_index_page("https://www.nissan-global.com/EN/HERITAGE_COLLECTION/fairlady.html")
-
-nissan_test |>
-  summarise(
-    max_power_cv = sum(!is.na(max_power_cv)),
-    torque_nm = sum(!is.na(torque_nm)),
-    displacement_cc = sum(!is.na(displacement_cc))
-  )
-
-nissan_models_specs |>
-  filter(category == "Fairlady") |>
-  summarise(
-    max_power_cv = sum(!is.na(max_power_cv)),
-    torque_nm = sum(!is.na(torque_nm)),
-    displacement_cc = sum(!is.na(displacement_cc))
-  )
-
-nissan_test <- scrape_nissan_index_page("https://www.nissan-global.com/EN/HERITAGE_COLLECTION/skyline.html")
-
-nissan_test |>
-  summarise(
-    engine_code = sum(!is.na(engine_code)),
-    engine = sum(!is.na(engine))
-  )
 
 # save -------------------------------------------------------------------
 readr::write_csv(nissan_models_index, out_csv)
