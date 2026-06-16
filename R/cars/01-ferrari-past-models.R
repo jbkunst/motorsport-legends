@@ -44,10 +44,11 @@ scrape_ferrari_section <- function(section) {
       model = text_spans[1],
       year = year,
       category = text_spans[2],
-      image_data_uri = img_node |>
+      image_url = img_node |>
         html_attr("src") |>
         stringr::str_replace("width=\\d+", "width=800") |>
-        stringr::str_replace("height=\\d+", "height=540") |>
+        stringr::str_replace("height=\\d+", "height=540"),
+      image_data_uri = image_url |>
         image_url_to_data_uri(),
       description = img_node |> html_attr("alt"),
       url = url_absolute(html_attr(card, "href"), "https://www.ferrari.com/en-EN/auto/")
@@ -316,8 +317,8 @@ rm(ferrari_specs_completeness, ferrari_specs_main)
 
 
 # cleaning ferrari specs long --------------------------------------------
-# ferrari_specs_long <- ferrari_specs |>
-  purrr::map(purrr::pluck, "long") |>
+ferrari_specs_long <- ferrari_specs |>
+  purrr::map("long") |>
   dplyr::bind_rows()
 
 # limpio
@@ -454,7 +455,7 @@ ferrari_models_dt <- ferrari_models_enriched |>
     photo = dplyr::if_else(is.na(image_data_uri) | image_data_uri == "", "", glue::glue("<img src='{image_data_uri}' width='100' />"))
   ) |>  
   dplyr::relocate(photo, .after = model) |>
-  dplyr::select(-image_data_uri, -url) |> 
+  dplyr::select(-starts_with("image"), -url) |> 
   make_dt()
 
 ferrari_models_dt

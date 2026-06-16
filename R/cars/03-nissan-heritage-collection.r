@@ -8,8 +8,9 @@ source(here::here("R/00-helpers.R"))
 # params -----------------------------------------------------------------
 url <- "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/"
 
-out_csv  <- here("data/cars/nissan_heritage_collection.csv")
-out_html <- here("outputs/html/nissan_heritage_collection.html")
+out_csv        <- here("data/cars/nissan_heritage_collection.csv")
+out_specs_csv  <- here("data/cars/nissan_heritage_collection_specs.csv")
+out_html       <- here("outputs/html/nissan_heritage_collection.html")
 
 fs::dir_create(fs::path_dir(out_csv))
 fs::dir_create(fs::path_dir(out_html))
@@ -496,7 +497,7 @@ nissan_models_specs_all <- nissan_models_specs_raw |>
   distinct(no, year, .keep_all = TRUE)
 
 nissan_final_cols <- c(
-  "brand", "no",
+  "no",
   "model", "model_full", "model_family", "model_code",
   "year", "category",
   "heritage_category", "heritage_decade", "vehicle_type",
@@ -513,7 +514,6 @@ nissan_final_cols <- c(
 
 nissan_models_specs_final <- nissan_models_specs_all |>
   mutate(
-    brand = "Nissan",
     source_category = category,
     heritage_category = if_else(source_scrape == "category", source_category, NA_character_),
     heritage_decade = if_else(source_scrape == "year", source_category, NA_character_),
@@ -589,9 +589,43 @@ nissan_specs_long |>
   count(spec, sort = TRUE) |>
   print(n = Inf)
 
-# save -------------------------------------------------------------------
-readr::write_csv(nissan_models_index, out_csv)
 
-nissan_models_index |>
-  make_dt(search = "columns") |>
-  htmlwidgets::saveWidget(out_html, selfcontained = TRUE)
+# removing intermediate tables -------------------------------------------
+rm(nissan_models_specs_raw, nissan_models_specs_all, nissan_final_cols, page, session)
+
+# datatable --------------------------------------------------------------
+nissan_models_dt <- nissan_models_specs_final |>
+  dplyr::mutate(
+    model = dplyr::if_else(
+      is.na(url) | url == "",
+      model,
+      glue::glue("<a href='{url}' target='_blank'>{model}</a>")
+    ),
+    photo = {
+      src <- dplyr::coalesce(
+        dplyr::na_if(image_data_uri, ""),
+        dplyr::na_if(thumb_data_uri, ""),
+        dplyr::na_if(thumb_url, ""),
+        ""
+      )
+
+      dplyr::if_else(
+        src == "",
+        "",
+        glue::glue("<img src='{src}' width='100' />")
+      )
+    }
+  ) |>
+  dplyr::relocate(photo, .after = model) |>
+  dplyr::select(-url, -contains("_url"), -contains("_uri")) |>
+  glimpse() |>
+  make_dt(search = "columns")
+
+nissan_models_dt
+
+# save -------------------------------------------------------------------
+readr::write_csv(nissan_models_specs_final, out_csv)
+
+readr::write_csv(nissan_specs_long, out_specs_csv)
+
+htmlwidgets::saveWidget(nissan_models_dt, file = out_html, libdir = "lib", selfcontained = FALSE, title = "Nissan Heritage Collection")
