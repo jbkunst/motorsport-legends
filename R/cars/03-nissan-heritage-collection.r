@@ -16,14 +16,6 @@ fs::dir_create(fs::path_dir(out_csv))
 fs::dir_create(fs::path_dir(out_html))
 
 # helpers ----------------------------------------------------------------
-spec_name <- function(x) {
-  x |>
-    stringr::str_to_lower() |>
-    stringr::str_replace_all("&", "and") |>
-    stringr::str_replace_all("[^a-z0-9]+", "_") |>
-    stringr::str_remove_all("^_|_$")
-}
-
 read_nissan_detail_html <- function(url) {
   page <- read_html(url)
   
@@ -43,7 +35,7 @@ parse_nissan_specs_long <- function(page) {
     html_elements("dt") |>
     map_dfr(\(dt) {
       tibble(
-        spec = dt |> html_text2() |> clean_txt() |> spec_name(),
+        spec = dt |> html_text2() |> clean_txt() |> janitor::make_clean_names(),
         value = dt |>
           xml2::xml_parent() |>
           html_element("dd") |>
@@ -147,11 +139,7 @@ parse_nissan_specs <- function(page) {
 }
 
 scrape_nissan_index_page <- function(url = "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/bluebird.html") {
-  category <- url |>
-    basename() |>
-    str_remove("\\.html$") |>
-    str_replace_all("_", " ") |>
-    str_to_title()
+  category <- url |> basename() |> str_remove("\\.html$") |> str_replace_all("_", " ") |> str_to_title()
   
   cli::cli_inform("Scraping category {url}")
   
@@ -162,83 +150,32 @@ scrape_nissan_index_page <- function(url = "https://www.nissan-global.com/EN/HER
     keep(\(x) length(html_elements(x, ".thumbnail_block_list li")) > 0)
   
   map_dfr(cards, \(card) {
-    card_lines <- card |>
-      html_elements(".thumbnail_block_list li") |>
-      html_text2() |>
-      clean_txt()
+    card_lines <- card |> html_elements(".thumbnail_block_list li") |> html_text2() |> clean_txt()
     
     raw_text <- card_lines |> paste(collapse = " | ")
     cli::cli_inform("Scraping card with lines: {raw_text}")
     
-    no <- card_lines |>
-      str_subset("^No\\.") |>
-      first(default = NA_character_) |>
-      str_remove("^No\\.\\s*") |>
-      na_if("")
-    
-    title <- card |>
-      html_element(".thumbnail_block_list li em") |>
-      html_text2() |>
-      clean_txt() |>
-      na_if("")
-    
-    type <- card_lines |>
-      str_subset("^Type:") |>
-      first(default = NA_character_) |>
-      str_remove("^Type:\\s*") |>
-      na_if("")
-    
-    year_card <- card_lines |>
-      str_subset("^Year:") |>
-      first(default = NA_character_) |>
-      str_extract("\\b(19|20)\\d{2}\\b") |>
-      as.integer()
-
-    year_title <- str_match(
-      title,
-      "\\([^)]*\\b((?:19|20)\\d{2})\\b\\s*(?::|\\))"
-    )[, 2] |>
-      as.integer()
-
+    no <- card_lines |> str_subset("^No\\.") |> first(default = NA_character_) |> str_remove("^No\\.\\s*") |> na_if("")
+    title <- card |> html_element(".thumbnail_block_list li em") |> html_text2() |> clean_txt() |> na_if("")
+    type <- card_lines |> str_subset("^Type:") |> first(default = NA_character_) |> str_remove("^Type:\\s*") |> na_if("")
+    year_card <- card_lines |> str_subset("^Year:") |> first(default = NA_character_) |> str_extract("\\b(19|20)\\d{2}\\b") |> as.integer()
+    year_title <- str_match(title, "\\([^)]*\\b((?:19|20)\\d{2})\\b\\s*(?::|\\))")[, 2] |> as.integer()
     year <- coalesce(year_card, year_title)
     
-    color <- card_lines[
-      !str_detect(card_lines, "^No\\.|^Type:|^Year:") &
-        card_lines != title
-    ] |>
-      first(default = NA_character_) |>
-      na_if("")
+    color <- card_lines[!str_detect(card_lines, "^No\\.|^Type:|^Year:") & card_lines != title] |> first(default = NA_character_) |> na_if("")
     
-    thumb_src <- card |>
-      html_element(".thumbnail_block_figure img") |>
-      html_attr("src")
-    
+    thumb_src <- card |> html_element(".thumbnail_block_figure img") |> html_attr("src")
     thumb_url <- if (!is.na(thumb_src) && thumb_src != "") url_absolute(thumb_src, url) else NA_character_
-    
-    detail_a <- card |>
-      html_element(".thumbnail_block_btn a")
     
     detail_a <- card |> html_element(".thumbnail_block_btn a")
     detail_href <- detail_a |> html_attr("href") |> coalesce("")
     detail_class <- detail_a |> html_attr("class") |> coalesce("")
-
+    
     detail_disabled <- str_detect(detail_class, "\\bdisable\\b")
-    detail_is_anchor <- detail_href == "" ||
-      detail_href == "#" ||
-      str_detect(detail_href, "#no-") ||
-      str_detect(detail_href, "^#")
-
-    detail_url <- if (!detail_disabled && !detail_is_anchor) {
-      url_absolute(detail_href, url)
-    } else {
-      NA_character_
-    }
-
-    card_url <- if (is.na(detail_url)) {
-      str_c(url, "#no-", no)
-    } else {
-      detail_url
-    }
+    detail_is_anchor <- detail_href == "" || detail_href == "#" || str_detect(detail_href, "#no-") || str_detect(detail_href, "^#")
+    
+    detail_url <- if (!detail_disabled && !detail_is_anchor) url_absolute(detail_href, url) else NA_character_
+    card_url <- if (is.na(detail_url)) str_c(url, "#no-", no) else detail_url
     
     card_base <- tibble(
       category = category,
@@ -264,30 +201,12 @@ scrape_nissan_index_page <- function(url = "https://www.nissan-global.com/EN/HER
     
     detail_page <- read_nissan_detail_html(detail_url)
     
-    detail_no <- detail_page |>
-      html_element("#collection_neme_area .note_list_A01 li") |>
-      html_text2() |>
-      clean_txt() |>
-      str_remove("^No\\.\\s*") |>
-      na_if("")
+    detail_no <- detail_page |> html_element("#collection_neme_area .note_list_A01 li") |> html_text2() |> clean_txt() |> str_remove("^No\\.\\s*") |> na_if("")
+    detail_title <- detail_page |> html_element("#collection_neme_area h1") |> html_text2() |> clean_txt() |> na_if("")
+    detail_type <- detail_page |> html_element("#collection_neme_area .lead_text_A01 p") |> html_text2() |> clean_txt() |> na_if("")
+    detail_year <- str_match(detail_title, "\\([^)]*\\b((?:19|20)\\d{2})\\b\\s*(?::|\\))")[, 2] |> as.integer()
     
-    detail_title <- detail_page |>
-      html_element("#collection_neme_area h1") |>
-      html_text2() |>
-      clean_txt() |>
-      na_if("")
-    
-    detail_type <- detail_page |>
-      html_element("#collection_neme_area .lead_text_A01 p") |>
-      html_text2() |>
-      clean_txt() |>
-      na_if("")
-    
-    detail_year <- str_match(detail_title, "\\([^)]*\\b((?:19|20)\\d{2})\\b\\s*(?::|\\))")[, 2] |>
-      as.integer()
-    
-    link_nodes <- detail_page |>
-      html_elements("a")
+    link_nodes <- detail_page |> html_elements("a")
     
     detail_links <- if (length(link_nodes) == 0) {
       tibble(text = character(), href = character())
@@ -301,33 +220,13 @@ scrape_nissan_index_page <- function(url = "https://www.nissan-global.com/EN/HER
         })
     }
     
-    image_href <- detail_links |>
-      filter(
-        !is.na(href),
-        href != "",
-        str_detect(href, regex("\\.(jpg|jpeg|png)(\\?|$)", ignore_case = TRUE)),
-        str_detect(text, regex("Low resolution image|High resolution image", ignore_case = TRUE)) |
-          str_detect(href, regex("modelDetail|uploader|Web", ignore_case = TRUE))
-      ) |>
-      mutate(priority = case_when(
-        str_detect(text, regex("Low resolution image", ignore_case = TRUE)) ~ 1,
-        str_detect(text, regex("High resolution image", ignore_case = TRUE)) ~ 2,
-        TRUE ~ 3
-      )) |>
-      arrange(priority) |>
-      pull(href) |>
-      first(default = NA_character_)
+    image_href_thumb <- detail_links |> dplyr::filter(!is.na(href), href != "", str_detect(href, regex("\\.(jpg|jpeg|png)(\\?|$)", ignore_case = TRUE)), str_detect(text, regex("Low resolution image", ignore_case = TRUE))) |> dplyr::pull(href) |> dplyr::first(default = NA_character_)
+    image_href_large <- detail_links |> dplyr::filter(!is.na(href), href != "", str_detect(href, regex("\\.(jpg|jpeg|png)(\\?|$)", ignore_case = TRUE)), str_detect(text, regex("High resolution image", ignore_case = TRUE))) |> dplyr::pull(href) |> dplyr::first(default = NA_character_)
+    fallback_img <- detail_page |> html_element("#heritage_mainarea img, #heritage_rightbar img, .figure_A01 img") |> html_attr("src")
     
-    fallback_img <- detail_page |>
-      html_element("#heritage_mainarea img, #heritage_rightbar img, .figure_A01 img") |>
-      html_attr("src")
+    image_url_thumb <- dplyr::case_when(!is.na(image_href_thumb) && image_href_thumb != "" ~ url_absolute(image_href_thumb, detail_url), !is.na(fallback_img) && fallback_img != "" ~ url_absolute(fallback_img, detail_url), TRUE ~ NA_character_)
+    image_url_large <- dplyr::case_when(!is.na(image_href_large) && image_href_large != "" ~ url_absolute(image_href_large, detail_url), !is.na(image_href_thumb) && image_href_thumb != "" ~ url_absolute(image_href_thumb, detail_url), !is.na(fallback_img) && fallback_img != "" ~ url_absolute(fallback_img, detail_url), TRUE ~ NA_character_)
     
-    image_url <- case_when(
-      !is.na(image_href) && image_href != "" ~ url_absolute(image_href, detail_url),
-      !is.na(fallback_img) && fallback_img != "" ~ url_absolute(fallback_img, detail_url),
-      TRUE ~ NA_character_
-    )
-        
     description <- detail_page |>
       html_elements("p, .text_A01, #heritage_mainarea, #heritage_rightbar") |>
       html_text2() |>
@@ -350,8 +249,8 @@ scrape_nissan_index_page <- function(url = "https://www.nissan-global.com/EN/HER
         title = coalesce(detail_title, title),
         type = coalesce(detail_type, type),
         year = coalesce(detail_year, year),
-        image_url = .env$image_url,
-        image_data_uri = tryCatch(if (!is.na(.env$image_url) && .env$image_url != "") image_url_to_data_uri(.env$image_url) else NA_character_, error = \(e) NA_character_),
+        image_url = .env$image_url_large,
+        image_data_uri = tryCatch(if (!is.na(.env$image_url_thumb) && .env$image_url_thumb != "") image_url_to_data_uri(.env$image_url_thumb) else NA_character_, error = \(e) NA_character_),
         description = .env$description,
         url = detail_url
       ) |>

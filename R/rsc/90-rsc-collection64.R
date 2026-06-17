@@ -61,6 +61,8 @@ dt <- bind_cols(dt, data_collection_join |> select(scale64_maker, scale64_status
 
 dt
 
+
+# save -------------------------------------------------------------------
 htmlwidgets::saveWidget(
   dt,
   file     = here::here("outputs/html/collection164.html"),

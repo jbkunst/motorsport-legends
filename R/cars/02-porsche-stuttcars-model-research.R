@@ -9,7 +9,7 @@ source(here::here("R/00-helpers.R"))
 url <- "https://www.stuttcars.com/porsche-model-research/"
 
 out_csv        <- here("data/cars/porsche_stuttcars_model_research.csv")
-out_specs_csv  <- here("data/cars/porsche_stuttcars_model_specs.csv")
+out_specs_csv  <- here("data/cars/porsche_stuttcars_model_research_specs.csv")
 out_html       <- here("outputs/html/porsche_stuttcars_model_research.html")
 
 fs::dir_create(fs::path_dir(out_csv))
@@ -18,30 +18,59 @@ fs::dir_create(fs::path_dir(out_html))
 # helpers ----------------------------------------------------------------
 scrape_porsche_info_card <- function(card, base_url = url) {
   
-  section_node <- card |> html_element(xpath = "preceding::h2[1]")
-  title_node   <- card |> html_element(".title a")
-  img_nodes    <- card |> html_elements("a.mask-img img")
+  title_node <- card |> 
+    rvest::html_element(".title a")
   
-  title     <- title_node |> html_text2() |> str_squish()
-
+  img_nodes <- card |> 
+    rvest::html_elements("a.mask-img img")
+  
+  title <- title_node |>
+    rvest::html_text2() |>
+    stringr::str_squish()
+  
   cli::cli_progress_step("Scraping info card from {title}")
-
-  link      <- title_node |> html_attr("href") |> url_absolute(base_url)
-
+  
+  link <- title_node |>
+    rvest::html_attr("href") |>
+    rvest::url_absolute(base_url)
+  
   image_url <- img_nodes |>
-    html_attr("src") |>
-    discard(~ is.na(.x) || .x == "" || str_detect(.x, "\\.svg($|\\?)|data:image/svg")) |>
-    first(default = NA_character_)
-
-  image_url
+    rvest::html_attr("data-lazy-src")
   
-  if (is.na(image_url)) image_url <- img_node |> html_attr("data-src")
+  image_url <- image_url[!is.na(image_url) & image_url != ""][1]
   
-  tibble(
-    title          = title,
-    image_url      = url_absolute(image_url, base_url),
-    image_data_uri = image_url_to_data_uri(image_url),
-    url            = link
+  if (is.na(image_url) || image_url == "") {
+    image_url <- img_nodes |>
+      rvest::html_attr("src")
+    
+    image_url <- image_url[
+      !is.na(image_url) &
+        image_url != "" &
+        !stringr::str_detect(image_url, "data:image/svg|\\.svg($|\\?)")
+    ][1]
+  }
+  
+  image_url <- if (is.na(image_url) || image_url == "") {
+    NA_character_
+  } else if (stringr::str_detect(image_url, "^https?://")) {
+    image_url
+  } else {
+    rvest::url_absolute(image_url, base_url)
+  }
+  
+  image_data_uri <- if (is.na(image_url) || image_url == "") {
+    NA_character_
+  } else {
+    image_url_to_data_uri(image_url)
+  }
+  
+  image_url <- stringr::str_replace(image_url, stringr::regex("-\\d+x\\d+(?=\\.(jpe?g|png|webp)$)", ignore_case = TRUE), "")
+  
+  tibble::tibble(
+    title = title,
+    image_url = image_url,
+    image_data_uri = image_data_uri,
+    url = link
   )
 }
 
@@ -61,9 +90,27 @@ scrape_porsche_specs <- function(url = "https://www.stuttcars.com/porsche-919-hy
     dplyr::first(default = NA_character_)
   
   subtitle <- page |>
-    html_element("p.subtitle.flipboard-subtitle") |>
-    html_text2() |>
-    str_squish()
+    rvest::html_element("p.subtitle.flipboard-subtitle") |>
+    rvest::html_text2() |>
+    stringr::str_squish()
+
+  description_meta <- page |>
+    rvest::html_element("meta[name='description']") |>
+    rvest::html_attr("content") |>
+    stringr::str_squish()
+
+  description_first_p <- page |>
+    rvest::html_elements("article p, .entry-content p, .post-content p") |>
+    rvest::html_text2() |>
+    stringr::str_squish() |>
+    purrr::discard(~ is.na(.x) || .x == "" || stringr::str_length(.x) < 80) |>
+    dplyr::first(default = NA_character_)
+
+  subtitle <- dplyr::coalesce(
+    subtitle,
+    description_meta,
+    description_first_p
+  )
   
   info_nodes <- page |>
     html_elements(".lets-info-up-block.lets-info-up-meta-block")
@@ -143,8 +190,15 @@ scrape_porsche_specs <- function(url = "https://www.stuttcars.com/porsche-919-hy
 # scrape -----------------------------------------------------------------
 session <- chromote::ChromoteSession$new()
 
-page <- get_page_html(session, url, wait = 5, n_scroll = 20, scroll_wait = 800, timeout = 60) |>
-  read_html()
+page <- get_page_html(
+  session,
+  url,
+  wait = 12,
+  n_scroll = 35,
+  scroll_wait = 1500,
+  timeout = 120
+) |>
+  rvest::read_html()
 
 session$close()
 
@@ -228,10 +282,12 @@ porsche_specs_info_up |>
   select(1:5) |>
   print(n = Inf)
 
-
 # join models and specs --------------------------------------------------
 porsche_specs_titles <- porsche_specs |>
-  purrr::map_dfr(~ tibble::tibble(url = .x$url, page_title_year = .x$page_title_year))
+  purrr::map_dfr(~ tibble::tibble(
+    url = .x$url,
+    page_title_year = .x$page_title_year
+  ))
 
 porsche_911_codes   <- c("901", "911", "912", "930", "934", "935", "959", "961", "964", "965", "969", "993", "996", "997", "991", "992")
 porsche_rear_codes  <- c("356", porsche_911_codes)
@@ -239,14 +295,31 @@ porsche_mid_codes   <- c("550", "904", "906", "907", "908", "909", "910", "914",
 porsche_front_codes <- c("597", "924", "928", "942", "944", "953", "968", "989")
 
 porsche_models_specs <- porsche_models |>
-  dplyr::transmute(url, model = title, category = section_group, section, image_data_uri) |>
+  dplyr::transmute(
+    url,
+    model = title,
+    category = section_group,
+    section,
+    image_url,
+    image_data_uri
+  ) |>
   dplyr::left_join(
     porsche_specs_info_up |>
       dplyr::select(
-        url, engine_raw = engine, power_raw = power, torque_raw = torque,
-        top_speed_raw = top_speed, x0_60_mph_raw = x0_60_mph,
-        production_raw = production, model_years, years, year_raw = year,
-        description = subtitle, image_profile_data_uri
+        url,
+        engine_raw = engine,
+        power_raw = power,
+        torque_raw = torque,
+        top_speed_raw = top_speed,
+        x0_60_mph_raw = x0_60_mph,
+        production_raw = production,
+        model_years,
+        years,
+        racing_seasons,
+        year_raw = year,
+        description = subtitle,
+        image_profile_url,
+        image_profile_data_uri
       ),
     by = "url"
   ) |>
@@ -269,6 +342,7 @@ porsche_models_specs <- porsche_models |>
     years_raw = dplyr::coalesce(
       model_years,
       years,
+      racing_seasons,
       year_raw,
       years_from_page_title,
       years_from_model,
@@ -279,30 +353,48 @@ porsche_models_specs <- porsche_models |>
       stringr::str_extract("\\b(19|20)\\d{2}\\b") |>
       as.integer(),
     
-    # Año inferido por regla histórica para modelos sin rango declarado en HTML/título/URL.
     year = dplyr::case_when(
       is.na(year) & stringr::str_detect(model, stringr::regex("British Legends Edition", ignore_case = TRUE)) ~ 2017L,
       is.na(year) & stringr::str_detect(model, stringr::regex("WSC-95|LMP1-98", ignore_case = TRUE)) ~ 1996L,
+      is.na(year) & stringr::str_detect(model, stringr::regex("975 RSE", ignore_case = TRUE)) ~ 2026L,
       TRUE ~ year
     ),
     
     year_end = purrr::map_int(years_raw, \(x) {
-      yy <- x |> stringr::str_extract_all("\\b(19|20)\\d{2}\\b") |> purrr::pluck(1) |> as.integer()
+      yy <- x |> 
+        stringr::str_extract_all("\\b(19|20)\\d{2}\\b") |> 
+        purrr::pluck(1) |> 
+        as.integer()
+      
       yy <- yy[!is.na(yy)]
+      
       if (length(yy) == 0) NA_integer_ else max(yy)
     }),
-    year_end = dplyr::if_else(stringr::str_detect(years_raw, stringr::regex("present", ignore_case = TRUE)), NA_integer_, year_end),
+    
+    year_end = dplyr::if_else(
+      stringr::str_detect(years_raw, stringr::regex("present", ignore_case = TRUE)),
+      NA_integer_,
+      year_end
+    ),
     
     generation = model |>
       stringr::str_extract_all("\\([^\\)]*\\)") |>
       purrr::map_chr(\(x) {
-        x <- x |> stringr::str_remove_all("^\\(|\\)$") |> stringr::str_squish()
+        x <- x |> 
+          stringr::str_remove_all("^\\(|\\)$") |> 
+          stringr::str_squish()
+        
         x <- x[!stringr::str_detect(x, "\\b(19|20)\\d{2}\\b")]
-        g <- x |> stringr::str_extract("\\b(930|964|993|996(?:\\.2)?|997(?:\\.2)?|991(?:\\.[12])?|992(?:\\.[12])?|986|987|981|982|718)\\b") |> stats::na.omit()
+        
+        g <- x |> 
+          stringr::str_extract("\\b(930|964|993|996(?:\\.2)?|997(?:\\.2)?|991(?:\\.[12])?|992(?:\\.[12])?|986|987|981|982|718)\\b") |> 
+          stats::na.omit()
+        
         if (length(g) == 0) NA_character_ else g[1]
       }),
     
-    model_code_main = stringr::str_match(model, "\\b(\\d{3})(?:\\.\\d|[A-Z]|\\b)") |> (\(x) x[, 2])(),
+    model_code_main = stringr::str_match(model, "\\b(\\d{3})(?:\\.\\d|[A-Z]|\\b)") |> 
+      (\(x) x[, 2])(),
     
     model_family = dplyr::case_when(
       model_code_main %in% porsche_911_codes ~ "911",
@@ -318,6 +410,7 @@ porsche_models_specs <- porsche_models |>
       stringr::str_detect(model, stringr::regex("\\bCarrera GT\\b", ignore_case = TRUE)) ~ "Carrera GT",
       stringr::str_detect(model, stringr::regex("\\bRS Spyder\\b", ignore_case = TRUE)) ~ "RS Spyder",
       stringr::str_detect(model, stringr::regex("\\b99X Electric\\b", ignore_case = TRUE)) ~ "99X Electric",
+      stringr::str_detect(model, stringr::regex("\\b975 RSE\\b", ignore_case = TRUE)) ~ "975 RSE",
       stringr::str_detect(model, stringr::regex("\\bMission\\b", ignore_case = TRUE)) ~ "Mission",
       stringr::str_detect(model, stringr::regex("\\bType 64\\b", ignore_case = TRUE)) ~ "Type 64",
       stringr::str_detect(model, stringr::regex("\\b9R3|LMP 2000\\b", ignore_case = TRUE)) ~ "9R3",
@@ -337,8 +430,6 @@ porsche_models_specs <- porsche_models |>
       TRUE ~ NA_character_
     ),
     
-    # Posición de motor inferida por regla histórica de familia/modelo Porsche.
-    # Se mantiene NA en eléctricos y conceptos donde "engine position" no aplica claramente.
     engine_position = dplyr::case_when(
       model_code_main %in% porsche_rear_codes ~ "rear",
       model_code_main %in% porsche_mid_codes ~ "mid",
@@ -346,6 +437,9 @@ porsche_models_specs <- porsche_models |>
       stringr::str_detect(model, stringr::regex("\\b(Boxster|Cayman|718|Bergspyder|Tapiro|RS Spyder|Carrera GT|Mission X)\\b", ignore_case = TRUE)) ~ "mid",
       stringr::str_detect(model, stringr::regex("\\b(Cayenne|Macan|Panamera|C88)\\b", ignore_case = TRUE)) ~ "front",
       stringr::str_detect(model, stringr::regex("\\bPanamericana\\b", ignore_case = TRUE)) ~ "rear",
+      stringr::str_detect(model, stringr::regex("\\bType 64\\b", ignore_case = TRUE)) ~ "rear",
+      stringr::str_detect(model, stringr::regex("\\b(787 F1|804 F1|2708 Indy)\\b", ignore_case = TRUE)) ~ "mid",
+      stringr::str_detect(model, stringr::regex("\\b(9R3|LMP 2000|WSC-95|LMP1-98)\\b", ignore_case = TRUE)) ~ "mid",
       TRUE ~ NA_character_
     ),
     
@@ -354,9 +448,17 @@ porsche_models_specs <- porsche_models |>
       stringr::str_remove("\\s*\\((930|964|993|996(?:\\.2)?|997(?:\\.2)?|991(?:\\.[12])?|992(?:\\.[12])?|986|987|981|982|718)\\)") |>
       stringr::str_squish(),
     
-    displacement_raw_l = engine_raw |> stringr::str_extract(stringr::regex("\\d+[\\.,]?\\d*\\s*l\\b", ignore_case = TRUE)),
-    displacement_raw_cc = engine_raw |> stringr::str_extract(stringr::regex("\\d+[\\.,]?\\d*\\s*cc\\b", ignore_case = TRUE)),
-    displacement_cc = dplyr::case_when(!is.na(displacement_raw_l) ~ readr::parse_number(stringr::str_replace(displacement_raw_l, ",", ".")) * 1000, !is.na(displacement_raw_cc) ~ readr::parse_number(displacement_raw_cc), TRUE ~ NA_real_),
+    displacement_raw_l = engine_raw |> 
+      stringr::str_extract(stringr::regex("\\d+[\\.,]?\\d*\\s*l\\b", ignore_case = TRUE)),
+    
+    displacement_raw_cc = engine_raw |> 
+      stringr::str_extract(stringr::regex("\\d+[\\.,]?\\d*\\s*cc\\b", ignore_case = TRUE)),
+    
+    displacement_cc = dplyr::case_when(
+      !is.na(displacement_raw_l) ~ readr::parse_number(stringr::str_replace(displacement_raw_l, ",", ".")) * 1000,
+      !is.na(displacement_raw_cc) ~ readr::parse_number(displacement_raw_cc),
+      TRUE ~ NA_real_
+    ),
     
     engine = dplyr::case_when(
       stringr::str_detect(engine_raw, stringr::regex("flat[- ]?12|boxer[- ]?12", ignore_case = TRUE)) ~ "flat-12",
@@ -371,27 +473,85 @@ porsche_models_specs <- porsche_models |>
       TRUE ~ engine_raw
     ),
     
-    max_power_value = power_raw |> stringr::str_extract("\\d{1,3}(,\\d{3})+|\\d+[\\.]?\\d*") |> stringr::str_remove_all(",") |> as.numeric(),
-    max_power_unit = power_raw |> stringr::str_extract(stringr::regex("\\b(bhp|hp|ps|cv|kw)\\b", ignore_case = TRUE)) |> stringr::str_to_lower(),
-    max_power_cv = dplyr::case_when(max_power_unit %in% c("ps", "cv") ~ max_power_value, max_power_unit %in% c("hp", "bhp") ~ max_power_value * 1.01387, max_power_unit == "kw" ~ max_power_value / 0.73549875, TRUE ~ NA_real_),
-    rpm_max_power = power_raw |> stringr::str_extract("\\d+[\\.,]?\\d*\\s*rpm") |> stringr::str_remove_all("[\\.,]") |> readr::parse_number(),
+    max_power_value = power_raw |> 
+      stringr::str_extract("\\d{1,3}(,\\d{3})+|\\d+[\\.]?\\d*") |> 
+      stringr::str_remove_all(",") |> 
+      as.numeric(),
     
-    torque_value = torque_raw |> stringr::str_extract("\\d{1,3}(,\\d{3})+|\\d+[\\.]?\\d*") |> stringr::str_remove_all(",") |> as.numeric(),
-    torque_nm = dplyr::case_when(stringr::str_detect(torque_raw, stringr::regex("lb-ft|ft lbs|ft-lbs|ftlb|ft lb", ignore_case = TRUE)) ~ torque_value * 1.35582, stringr::str_detect(torque_raw, stringr::regex("\\bnm\\b", ignore_case = TRUE)) ~ torque_value, TRUE ~ NA_real_),
-    rpm_max_torque = torque_raw |> stringr::str_extract("\\d+[\\.,]?\\d*\\s*rpm") |> stringr::str_remove_all("[\\.,]") |> readr::parse_number(),
+    max_power_unit = power_raw |> 
+      stringr::str_extract(stringr::regex("\\b(bhp|hp|ps|cv|kw)\\b", ignore_case = TRUE)) |> 
+      stringr::str_to_lower(),
     
-    top_speed_value = top_speed_raw |> stringr::str_extract("\\d{1,3}(,\\d{3})+|\\d+[\\.]?\\d*") |> stringr::str_remove_all(",") |> as.numeric(),
-    top_speed_kmh = dplyr::case_when(stringr::str_detect(top_speed_raw, stringr::regex("mph", ignore_case = TRUE)) ~ top_speed_value * 1.60934, stringr::str_detect(top_speed_raw, stringr::regex("km/h|kph", ignore_case = TRUE)) ~ top_speed_value, TRUE ~ NA_real_),
-    acceleration_0_100_kmh_s = x0_60_mph_raw |> stringr::str_replace(",", ".") |> stringr::str_extract("\\d+[\\.]?\\d*") |> as.numeric() * (100 / 96.56064),
+    max_power_cv = dplyr::case_when(
+      max_power_unit %in% c("ps", "cv") ~ max_power_value,
+      max_power_unit %in% c("hp", "bhp") ~ max_power_value * 1.01387,
+      max_power_unit == "kw" ~ max_power_value / 0.73549875,
+      TRUE ~ NA_real_
+    ),
     
-    production_is_ongoing = dplyr::if_else(stringr::str_detect(years_raw, stringr::regex("present", ignore_case = TRUE)) | stringr::str_detect(production_raw, stringr::regex("still in production|present", ignore_case = TRUE)), TRUE, FALSE, missing = FALSE),
-    production_qty = dplyr::case_when(production_is_ongoing ~ NA_real_, stringr::str_detect(production_raw, stringr::regex("\\d+\\s*(units|cars|examples|built|produced)", ignore_case = TRUE)) ~ production_raw |> stringr::str_extract("\\d{1,3}(,\\d{3})+|\\d+") |> stringr::str_remove_all(",") |> as.numeric(), TRUE ~ NA_real_)
+    rpm_max_power = power_raw |> 
+      stringr::str_extract("\\d+[\\.,]?\\d*\\s*rpm") |> 
+      stringr::str_remove_all("[\\.,]") |> 
+      readr::parse_number(),
+    
+    torque_value = torque_raw |> 
+      stringr::str_extract("\\d{1,3}(,\\d{3})+|\\d+[\\.]?\\d*") |> 
+      stringr::str_remove_all(",") |> 
+      as.numeric(),
+    
+    torque_nm = dplyr::case_when(
+      stringr::str_detect(torque_raw, stringr::regex("lb-ft|ft lbs|ft-lbs|ftlb|ft lb", ignore_case = TRUE)) ~ torque_value * 1.35582,
+      stringr::str_detect(torque_raw, stringr::regex("\\bnm\\b", ignore_case = TRUE)) ~ torque_value,
+      TRUE ~ NA_real_
+    ),
+    
+    rpm_max_torque = torque_raw |> 
+      stringr::str_extract("\\d+[\\.,]?\\d*\\s*rpm") |> 
+      stringr::str_remove_all("[\\.,]") |> 
+      readr::parse_number(),
+    
+    top_speed_value = top_speed_raw |> 
+      stringr::str_extract("\\d{1,3}(,\\d{3})+|\\d+[\\.]?\\d*") |> 
+      stringr::str_remove_all(",") |> 
+      as.numeric(),
+    
+    top_speed_kmh = dplyr::case_when(
+      stringr::str_detect(top_speed_raw, stringr::regex("mph", ignore_case = TRUE)) ~ top_speed_value * 1.60934,
+      stringr::str_detect(top_speed_raw, stringr::regex("km/h|kph", ignore_case = TRUE)) ~ top_speed_value,
+      TRUE ~ NA_real_
+    ),
+    
+    acceleration_0_100_kmh_s = x0_60_mph_raw |> 
+      stringr::str_replace(",", ".") |> 
+      stringr::str_extract("\\d+[\\.]?\\d*") |> 
+      as.numeric() * (100 / 96.56064),
+    
+    production_is_ongoing = dplyr::if_else(
+      stringr::str_detect(years_raw, stringr::regex("present", ignore_case = TRUE)) |
+        stringr::str_detect(production_raw, stringr::regex("still in production|present", ignore_case = TRUE)),
+      TRUE,
+      FALSE,
+      missing = FALSE
+    ),
+    
+    production_qty = dplyr::case_when(
+      production_is_ongoing ~ NA_real_,
+      stringr::str_detect(production_raw, stringr::regex("\\d+\\s*(units|cars|examples|built|produced)", ignore_case = TRUE)) ~ production_raw |> 
+        stringr::str_extract("\\d{1,3}(,\\d{3})+|\\d+") |> 
+        stringr::str_remove_all(",") |> 
+        as.numeric(),
+      TRUE ~ NA_real_
+    )
   ) |>
   dplyr::mutate(
-    displacement_cc = as.integer(round(displacement_cc)), max_power_cv = as.integer(round(max_power_cv)),
-    rpm_max_power = as.integer(round(rpm_max_power)), torque_nm = as.integer(round(torque_nm)),
-    rpm_max_torque = as.integer(round(rpm_max_torque)), top_speed_kmh = as.integer(round(top_speed_kmh)),
-    acceleration_0_100_kmh_s = round(acceleration_0_100_kmh_s, 1), production_qty = as.integer(round(production_qty))
+    displacement_cc = as.integer(round(displacement_cc)),
+    max_power_cv = as.integer(round(max_power_cv)),
+    rpm_max_power = as.integer(round(rpm_max_power)),
+    torque_nm = as.integer(round(torque_nm)),
+    rpm_max_torque = as.integer(round(rpm_max_torque)),
+    top_speed_kmh = as.integer(round(top_speed_kmh)),
+    acceleration_0_100_kmh_s = round(acceleration_0_100_kmh_s, 1),
+    production_qty = as.integer(round(production_qty))
   ) |>
   dplyr::select(
     model = model_clean,
@@ -415,17 +575,33 @@ porsche_models_specs <- porsche_models |>
     production_qty,
     production_is_ongoing,
     url,
+    image_url,
     image_data_uri,
+    image_profile_url,
     image_profile_data_uri,
     description
   )
 
-# checks -----------------------------------------------------------------
-porsche_models_specs |>
-  dplyr::slice_sample(prop = 1) |>
-  dplyr::glimpse()
+porsche_models_specs_all <- porsche_models_specs
 
-porsche_models_specs |>
+porsche_models_specs_final <- porsche_models_specs_all |>
+  dplyr::filter(
+    url != "https://www.stuttcars.com/porsche-718-boxster-cayman-style-edition-2024-present/"
+  )
+
+# checks -----------------------------------------------------------------
+porsche_models_specs_final |>
+  dplyr::summarise(
+    n_rows = dplyr::n(),
+    n_image_main = sum(!is.na(image_data_uri) & image_data_uri != ""),
+    n_image_profile = sum(!is.na(image_profile_data_uri) & image_profile_data_uri != ""),
+    n_description = sum(!is.na(description) & description != ""),
+    pct_image_main = round(100 * n_image_main / n_rows, 1),
+    pct_image_profile = round(100 * n_image_profile / n_rows, 1),
+    pct_description = round(100 * n_description / n_rows, 1)
+  )
+
+porsche_models_specs_final |>
   dplyr::summarise(
     dplyr::across(
       dplyr::everything(),
@@ -440,35 +616,6 @@ porsche_models_specs |>
   dplyr::mutate(pct_non_na = round(100 * pct_non_na, 1)) |>
   dplyr::arrange(dplyr::desc(pct_non_na)) |>
   print(n = Inf)
-
-porsche_models_specs |>
-  dplyr::filter(is.na(year)) |>
-  dplyr::select(model, model_full, year, year_end, url)
-
-porsche_models_specs |>
-  dplyr::count(model_code, sort = TRUE) |>
-  print(n = Inf)
-
-porsche_models_specs |>
-  dplyr::count(model_family, sort = TRUE) |>
-  print(n = Inf)
-
-porsche_models_specs |>
-  dplyr::filter(is.na(model_family)) |>
-  dplyr::select(model, model_code, generation, year, category, engine, url) |>
-  dplyr::slice_sample(prop = 1)
-
-porsche_models_specs |>
-  dplyr::summarise(
-    pct_engine_position = round(100 * mean(!is.na(engine_position)), 1),
-    n_missing = sum(is.na(engine_position))
-  )
-
-porsche_models_specs |>
-  dplyr::filter(is.na(engine_position)) |>
-  dplyr::select(model, year, category, section, engine, url) |>
-  dplyr::slice_sample(prop = 1)
-
 
 # auditoria diferencias entre titulos ------------------------------------
 porsche_model_title_diffs <- porsche_models |>
@@ -489,7 +636,56 @@ porsche_model_title_diffs <- porsche_models |>
 
 porsche_model_title_diffs
 
-# datatable --------------------------------------------------------------
 
-# export -----------------------------------------------------------------
-readr::write_csv( , out_csv)
+# specs long -------------------------------------------------------------
+porsche_specs_tables_long <- porsche_specs |>
+  purrr::map_dfr("tables_raw") |>
+  dplyr::mutate(
+    field = stringr::str_squish(stringr::str_to_lower(x1)),
+    value = stringr::str_squish(x2),
+    field = dplyr::na_if(field, ""),
+    value = dplyr::na_if(value, "")
+  ) |>
+  dplyr::filter(!is.na(field), !is.na(value)) |>
+  dplyr::select(url, table_id, field, value)
+
+porsche_specs_tables_long |>
+  dplyr::summarise(
+    n_rows = dplyr::n(),
+    n_url = dplyr::n_distinct(url),
+    n_fields = dplyr::n_distinct(field)
+  ) |>
+  print(n = Inf)
+
+porsche_specs_tables_long |>
+  dplyr::count(field, sort = TRUE)
+
+porsche_specs_tables_long
+
+
+# datatable --------------------------------------------------------------
+porsche_models_specs_final |> 
+  glimpse()
+
+porsche_models_dt <- porsche_models_specs_final |> 
+  dplyr::mutate(
+    photo   = dplyr::if_else(is.na(image_data_uri) | image_data_uri == "", "", glue::glue("<img src='{image_data_uri}' width='100' />")),
+    profile = dplyr::if_else(is.na(image_profile_data_uri) | image_profile_data_uri == "" | image_profile_data_uri == image_data_uri, "", glue::glue("<img src='{image_profile_data_uri}' width='100' />")),
+    model   = dplyr::if_else(is.na(url) | url == "", model, glue::glue("<a href='{url}' target='_blank'>{model}</a>"))
+  ) |>  
+  dplyr::select(model, photo, profile, section, category, dplyr::everything()) |> 
+  dplyr::select(-dplyr::ends_with("img"), -dplyr::ends_with("data_uri"), -dplyr::ends_with("url"), -model_full)
+
+porsche_models_dt |>
+  glimpse()
+
+porsche_models_dt <- make_dt(porsche_models_dt, search = "columns")
+
+porsche_models_dt
+
+# save -------------------------------------------------------------------
+readr::write_csv(porsche_models_specs_final, out_csv)
+
+readr::write_csv(porsche_specs_tables_long, out_specs_csv)
+
+htmlwidgets::saveWidget(porsche_models_dt, file = out_html, libdir = "lib", selfcontained = FALSE, title = "Porsche Stuttcars")

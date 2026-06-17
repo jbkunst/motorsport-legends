@@ -25,11 +25,9 @@ scrape_ferrari_section <- function(section) {
     as.integer()
   
   cli::cli_progress_step("Getting {year} models")
-
+  
   model_nodes <- section |>
     html_elements("a.garage-thumb")
-
-  # card <- model_nodes |> purrr::pluck(1)
   
   map_dfr(model_nodes, function(card) {
     
@@ -40,27 +38,19 @@ scrape_ferrari_section <- function(section) {
     img_node <- card |>
       html_element("img")
     
+    image_url_thumb <- img_node |> html_attr("src") |> stringr::str_replace("width=\\d+", "width=800") |> stringr::str_replace("height=\\d+", "height=540")
+    image_url_large <- img_node |> html_attr("src") |> stringr::str_replace("width=\\d+", "width=1600") |> stringr::str_replace("height=\\d+", "height=1080")
+    
     tibble(
       model = text_spans[1],
       year = year,
       category = text_spans[2],
-      image_url = img_node |>
-        html_attr("src") |>
-        stringr::str_replace("width=\\d+", "width=800") |>
-        stringr::str_replace("height=\\d+", "height=540"),
-      image_data_uri = image_url |>
-        image_url_to_data_uri(),
+      image_url = image_url_large,
+      image_data_uri = image_url_thumb |> image_url_to_data_uri(),
       description = img_node |> html_attr("alt"),
       url = url_absolute(html_attr(card, "href"), "https://www.ferrari.com/en-EN/auto/")
     )
   })
-}
-
-clean_spec_name <- function(x) {
-  x |>
-    stringr::str_to_lower() |>
-    stringr::str_replace_all("[^a-z0-9]+", "_") |>
-    stringr::str_replace_all("^_|_$", "")
 }
 
 scrape_ferrari_specs <- function(url = "https://www.ferrari.com/en-EN/auto/f8-tributo", session) {
@@ -460,7 +450,8 @@ ferrari_models_dt <- ferrari_models_enriched |>
 
 ferrari_models_dt
 
-# export -----------------------------------------------------------------
+
+# save -------------------------------------------------------------------
 readr::write_csv(ferrari_models_enriched, out_csv)
 
 readr::write_csv(ferrari_specs_long_clean, out_specs_csv)
