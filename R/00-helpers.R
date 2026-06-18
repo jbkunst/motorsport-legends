@@ -7,11 +7,15 @@ clean_txt <- function(x) {
 }
 
 parse_num <- function(x) {
-  x <- x |> as.character() |> str_remove_all(",") |> str_squish()
-  out <- rep(NA_real_, length(x))
-  ok <- !is.na(x) & str_detect(x, "\\d")
-  out[ok] <- readr::parse_number(x[ok])
-  out
+  x <- x |> stringr::str_squish()
+  
+  dplyr::case_when(
+    is.na(x) ~ NA_real_,
+    !stringr::str_detect(x, "\\d") ~ NA_real_,
+    stringr::str_detect(x, "\\d{1,3}(,\\d{3})+(\\.\\d+)?") ~ readr::parse_number(x, locale = readr::locale(grouping_mark = ",")),
+    stringr::str_detect(x, "\\d{1,3}(\\.\\d{3})+(,\\d+)?") ~ readr::parse_number(x, locale = readr::locale(grouping_mark = ".", decimal_mark = ",")),
+    TRUE ~ readr::parse_number(x)
+  )
 }
 
 get_col <- function(data, col) {
@@ -65,75 +69,66 @@ get_page_html <- function(session, url, wait = 5, n_scroll = 10, scroll_wait = 8
 
 make_dt <- function(data, element_id = NULL, photo_height = 96, search = "global") {
   # Crea una tabla DT responsive, con HTML seguro, fotos con lightbox,
-  # búsqueda simple y conteo visible de registros.
-  #
-  # Usos típicos:
-  # make_dt(data)                          # tabla limpia con buscador general
-  # make_dt(data, search = "columns")      # filtros por columna, sin buscador general
-  # make_dt(data, search = "none")         # sin búsqueda
-  # make_dt(data, photo_height = 72)       # tabla densa con imágenes más chicas
+  # tooltips opcionales, búsqueda simple y conteo visible de registros.
   
   search <- rlang::arg_match(search, c("global", "columns", "none"))
   
-  clean_name <- function(x) {
+  clean_dt_name <- function(x) {
     stringr::str_replace_all(x, "_", " ") |>
       stringr::str_to_sentence()
   }
   
-  data_dt <- data |>
-    dplyr::rename_with(clean_name)
-  
-  html_cols <- data_dt |>
-    dplyr::summarise(
-      dplyr::across(
-        where(is.character),
-        ~ any(
-          stringr::str_detect(
-            .x,
-            "<\\s*(img|a|span|div|br|strong|em)\\b|data:image/"
-          ),
-          na.rm = TRUE
-        )
+  detect_html_cols <- function(data) {
+    html_pattern <- "<\\s*(img|a|span|div|br|strong|em|svg|circle|line|path)\\b|data:image/"
+    
+    names(data)[
+      purrr::map_lgl(
+        data,
+        ~ is.character(.x) && any(stringr::str_detect(.x, html_pattern), na.rm = TRUE)
       )
-    ) |>
-    tidyr::pivot_longer(dplyr::everything()) |>
-    dplyr::filter(value) |>
-    dplyr::pull(name)
-  
-  escape_cols <- if (length(html_cols) == 0) {
-    TRUE
-  } else {
-    setdiff(names(data_dt), html_cols)
+    ]
   }
   
-  img_cols <- names(data_dt)[
-    purrr::map_lgl(
-      data_dt,
-      ~ is.character(.x) && any(stringr::str_detect(.x, "<\\s*img\\b"), na.rm = TRUE)
+  detect_img_cols <- function(data) {
+    names(data)[
+      purrr::map_lgl(
+        data,
+        ~ is.character(.x) && any(stringr::str_detect(.x, "<\\s*img\\b"), na.rm = TRUE)
+      )
+    ]
+  }
+  
+  detect_tooltips <- function(data) {
+    data |>
+      dplyr::select(where(is.character)) |>
+      unlist(use.names = FALSE) |>
+      stringr::str_detect("dt-tooltip") |>
+      any(na.rm = TRUE)
+  }
+  
+  build_responsive_defs <- function(data, img_cols) {
+    priority_1_targets <- unique(c(0, match(img_cols, names(data)) - 1))
+    priority_1_targets <- priority_1_targets[!is.na(priority_1_targets)]
+    
+    priority_2_targets <- setdiff(
+      seq_len(min(4, ncol(data))) - 1,
+      priority_1_targets
     )
-  ]
+    
+    purrr::compact(list(
+      if (length(priority_1_targets) > 0) {
+        list(responsivePriority = 1, targets = priority_1_targets)
+      },
+      if (length(priority_2_targets) > 0) {
+        list(responsivePriority = 2, targets = priority_2_targets)
+      },
+      list(responsivePriority = 100, targets = "_all")
+    ))
+  }
   
-  has_img <- length(img_cols) > 0
-  
-  priority_1_targets <- unique(c(0, match(img_cols, names(data_dt)) - 1))
-  priority_1_targets <- priority_1_targets[!is.na(priority_1_targets)]
-  
-  priority_2_targets <- setdiff(
-    seq_len(min(4, ncol(data_dt))) - 1,
-    priority_1_targets
-  )
-  
-  responsive_defs <- purrr::compact(list(
-    if (length(priority_1_targets) > 0) {
-      list(responsivePriority = 1, targets = priority_1_targets)
-    },
-    if (length(priority_2_targets) > 0) {
-      list(responsivePriority = 2, targets = priority_2_targets)
-    },
-    list(responsivePriority = 100, targets = "_all")
-  ))
-  
-  lightbox_js <- if (has_img) {
+  build_lightbox_js <- function(has_img, photo_height) {
+    if (!has_img) return(character())
+    
     c(
       glue::glue(
         "  container.find('td img').each(function() {{
@@ -142,7 +137,7 @@ make_dt <- function(data, element_id = NULL, photo_height = 96, search = "global
              img.css({{
                'height': '{photo_height}px',
                'width': 'auto',
-               'border-radius': '6px',
+               'border-radius': '8px',
                'cursor': 'zoom-in'
              }});
              if (!img.attr('data-full')) img.attr('data-full', img.attr('src'));
@@ -151,10 +146,10 @@ make_dt <- function(data, element_id = NULL, photo_height = 96, search = "global
       "  if (!document.getElementById('lb-overlay')) {",
       "    var overlay = document.createElement('div');",
       "    overlay.id = 'lb-overlay';",
-      "    overlay.style.cssText = 'display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.85);z-index:9999;justify-content:center;align-items:center;cursor:zoom-out;';",
+      "    overlay.style.cssText = 'display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.86);z-index:9999;justify-content:center;align-items:center;cursor:zoom-out;backdrop-filter:blur(3px);';",
       "    var lbImg = document.createElement('img');",
       "    lbImg.id = 'lb-img';",
-      "    lbImg.style.cssText = 'max-width:90vw;max-height:90vh;border-radius:6px;box-shadow:0 8px 32px rgba(0,0,0,0.6);object-fit:contain;';",
+      "    lbImg.style.cssText = 'max-width:92vw;max-height:92vh;border-radius:10px;box-shadow:0 18px 60px rgba(0,0,0,0.65);object-fit:contain;';",
       "    overlay.appendChild(lbImg);",
       "    document.body.appendChild(overlay);",
       "    overlay.addEventListener('click', function() { overlay.style.display = 'none'; });",
@@ -162,7 +157,7 @@ make_dt <- function(data, element_id = NULL, photo_height = 96, search = "global
       "  }",
       "  var overlay = document.getElementById('lb-overlay');",
       "  var lbImg = document.getElementById('lb-img');",
-      "  $(document).on('click', 'td img.lightbox-img', function() {",
+      "  $(document).off('click.dtLightbox', 'td img.lightbox-img').on('click.dtLightbox', 'td img.lightbox-img', function() {",
       "    var thumbSrc = this.src;",
       "    var fullSrc = this.dataset.full || thumbSrc;",
       "    lbImg.onerror = function() { lbImg.onerror = null; lbImg.src = thumbSrc; };",
@@ -170,11 +165,92 @@ make_dt <- function(data, element_id = NULL, photo_height = 96, search = "global
       "    overlay.style.display = 'flex';",
       "  });"
     )
-  } else {
-    character()
   }
   
-  DT::datatable(
+  build_tooltip_css <- function() {
+    htmltools::tags$style(htmltools::HTML("
+      .dt-tooltip {
+        position: relative;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        margin-left: 6px;
+        vertical-align: middle;
+        cursor: help;
+      }
+
+      .dt-tooltip-icon {
+        width: 18px;
+        height: 18px;
+        fill: none;
+        stroke: #6c757d;
+        stroke-width: 2;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        transition: all .15s ease;
+      }
+
+      .dt-tooltip:hover .dt-tooltip-icon {
+        stroke: #111827;
+        transform: scale(1.08);
+      }
+
+      .dt-tooltip:hover::after {
+        content: attr(data-tip);
+        position: absolute;
+        z-index: 9999;
+        left: 50%;
+        top: calc(100% + 10px);
+        transform: translateX(-50%);
+        width: 420px;
+        max-width: 70vw;
+        padding: 14px 16px;
+        border: 1px solid rgba(0, 0, 0, 0.08);
+        border-radius: 14px;
+        background: rgba(255, 255, 255, 0.98);
+        color: #212529;
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 1.45;
+        white-space: normal;
+        box-shadow: 0 14px 40px rgba(0, 0, 0, 0.18);
+        backdrop-filter: blur(8px);
+      }
+
+      .dt-tooltip:hover::before {
+        content: '';
+        position: absolute;
+        z-index: 10000;
+        left: 50%;
+        top: calc(100% + 4px);
+        transform: translateX(-50%) rotate(45deg);
+        width: 12px;
+        height: 12px;
+        background: rgba(255, 255, 255, 0.98);
+        border-left: 1px solid rgba(0, 0, 0, 0.08);
+        border-top: 1px solid rgba(0, 0, 0, 0.08);
+      }
+    "))
+  }
+  
+  data_dt <- data |>
+    dplyr::rename_with(clean_dt_name)
+  
+  html_cols <- detect_html_cols(data_dt)
+  img_cols <- detect_img_cols(data_dt)
+  has_img <- length(img_cols) > 0
+  has_tooltip <- detect_tooltips(data_dt)
+  
+  escape_cols <- if (length(html_cols) == 0) {
+    TRUE
+  } else {
+    setdiff(names(data_dt), html_cols)
+  }
+  
+  responsive_defs <- build_responsive_defs(data_dt, img_cols)
+  lightbox_js <- build_lightbox_js(has_img, photo_height)
+  
+  dt <- DT::datatable(
     data_dt,
     elementId = element_id,
     extensions = c("FixedHeader", "Responsive"),
@@ -189,10 +265,7 @@ make_dt <- function(data, element_id = NULL, photo_height = 96, search = "global
       scrollX = FALSE,
       paging = FALSE,
       search = list(regex = TRUE, smart = FALSE),
-      dom = paste0(
-        if (search == "global") "f" else "",
-        "rti"
-      ),
+      dom = paste0(if (search == "global") "f" else "", "rti"),
       scrollY = dplyr::case_when(
         search == "columns" ~ "calc(100vh - 185px)",
         search == "global" ~ "calc(100vh - 165px)",
@@ -243,4 +316,11 @@ make_dt <- function(data, element_id = NULL, photo_height = 96, search = "global
       )
     )
   )
+  
+  if (has_tooltip) {
+    dt <- dt |>
+      htmlwidgets::prependContent(build_tooltip_css())
+  }
+  
+  dt
 }

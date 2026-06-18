@@ -17,6 +17,20 @@ fs::dir_create(fs::path_dir(out_csv))
 fs::dir_create(fs::path_dir(out_html))
 
 # helpers ----------------------------------------------------------------
+parse_ferrari_displacement <- function(x) {
+  x_clean <- x |> stringr::str_to_lower() |> stringr::str_squish()
+  value_raw <- x_clean |> stringr::str_extract("\\d+[\\.,]?\\d*")
+  value <- value_raw |> stringr::str_replace(",", ".") |> as.numeric()
+  
+  dplyr::case_when(
+    is.na(value) ~ NA_real_,
+    stringr::str_detect(x_clean, "cu\\s*in|cuin") ~ value * 16.387064,
+    stringr::str_detect(x_clean, "cm3|cm³|cc") & value < 20 & stringr::str_detect(value_raw, "\\.") ~ value * 1000,
+    stringr::str_detect(x_clean, "cm3|cm³|cc") ~ value,
+    TRUE ~ value
+  )
+}
+
 scrape_ferrari_section <- function(section) {
   
   year <- section |>
@@ -261,7 +275,7 @@ ferrari_specs_completeness |> arrange(pct_non_na) |> print(n = Inf)
 ferrari_specs_core <- ferrari_specs_main |>
   mutate(
     engine = coalesce(engine_raw, type_raw),
-    displacement_cc = readr::parse_number(total_displacement_raw),
+    displacement_cc = parse_ferrari_displacement(total_displacement_raw),
     max_power_value = maximum_power_raw |>
       str_extract("\\d+[\\.,]?\\d*") |>
       str_replace(",", ".") |>

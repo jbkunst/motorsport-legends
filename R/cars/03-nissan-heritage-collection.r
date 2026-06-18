@@ -16,6 +16,88 @@ fs::dir_create(fs::path_dir(out_csv))
 fs::dir_create(fs::path_dir(out_html))
 
 # helpers ----------------------------------------------------------------
+parse_nissan_dimensions <- function(x) {
+  dims <- x |>
+    stringr::str_extract_all("\\d+[,.]?\\d*") |>
+    purrr::pluck(1) |>
+    purrr::map_dbl(parse_num)
+  
+  if (length(dims) < 3) {
+    dims <- c(dims, rep(NA_real_, 3 - length(dims)))
+  }
+  
+  length_mm <- dims[1]
+  width_mm <- dims[2]
+  height_mm <- dims[3]
+  
+  if (!is.na(length_mm) && length_mm > 20000 && !is.na(width_mm) && width_mm < 3000) {
+    length_mm <- length_mm / 10
+  }
+  
+  tibble::tibble(
+    length_mm = length_mm,
+    width_mm = width_mm,
+    height_mm = height_mm
+  )
+}
+
+parse_nissan_engine <- function(engine_raw) {
+  engine_base <- engine_raw |>
+    stringr::str_remove("\\d+[,.]?\\d*\\s*cc.*$") |>
+    stringr::str_squish() |>
+    dplyr::na_if("")
+  
+  engine_code <- dplyr::case_when(
+    is.na(engine_base) ~ NA_character_,
+    stringr::str_detect(engine_base, "\\(") ~ engine_base |> stringr::str_remove("\\s*\\(.*$") |> stringr::str_squish(),
+    TRUE ~ NA_character_
+  )
+  
+  engine <- dplyr::case_when(
+    is.na(engine_base) ~ NA_character_,
+    stringr::str_detect(engine_base, "\\(") ~ engine_base |> stringr::str_remove("^.*?\\(") |> clean_nissan_engine_text(),
+    TRUE ~ engine_base |> clean_nissan_engine_text()
+  )
+  
+  engine_code <- engine_code |>
+    stringr::str_squish() |>
+    dplyr::na_if("")
+  
+  tibble::tibble(
+    engine = engine,
+    engine_code = engine_code
+  )
+}
+
+clean_nissan_engine_text <- function(x) {
+  x |>
+    stringr::str_replace_all(stringr::regex("\\bin line\\b", ignore_case = TRUE), "inline") |>
+    stringr::str_remove("^\\s*\\(+\\s*") |>
+    stringr::str_remove("\\s*\\)+\\s*,?\\s*$") |>
+    stringr::str_remove("\\s*,\\s*$") |>
+    stringr::str_squish() |>
+    dplyr::na_if("")
+}
+
+clean_nissan_engine_raw <- function(x) {
+  x |>
+    stringr::str_remove("\\d+[,.]?\\d*\\s*cc.*$") |>
+    stringr::str_replace_all(stringr::regex("\\bin line\\b", ignore_case = TRUE), "inline") |>
+    stringr::str_remove("^\\s*\\(+\\s*") |>
+    stringr::str_remove("\\s*\\)+\\s*,?\\s*$") |>
+    stringr::str_remove("\\s*,\\s*$") |>
+    stringr::str_squish()
+}
+
+clean_nissan_engine_desc <- function(x) {
+  x |>
+    stringr::str_replace_all(stringr::regex("\\bin line\\b", ignore_case = TRUE), "inline") |>
+    stringr::str_remove("^\\s*\\(+\\s*") |>
+    stringr::str_remove("\\s*\\)+\\s*,?\\s*$") |>
+    stringr::str_remove("\\s*,\\s*$") |>
+    stringr::str_squish()
+}
+
 read_nissan_detail_html <- function(url) {
   page <- read_html(url)
   
@@ -50,91 +132,55 @@ parse_nissan_specs_long <- function(page) {
     )
 }
 
-parse_nissan_specs <- function(page) {
-  specs_long <- parse_nissan_specs_long(page)
+parse_nissan_specs <- function(x) {
+  specs_long <- if (inherits(x, c("xml_document", "xml_node"))) {
+    parse_nissan_specs_long(x)
+  } else {
+    x
+  }
   
-  if (nrow(specs_long) == 0) return(tibble())
+  specs <- specs_long |>
+    dplyr::select(spec, value) |>
+    dplyr::filter(!is.na(spec), spec != "", !is.na(value), value != "") |>
+    dplyr::group_by(spec) |>
+    dplyr::summarise(value = dplyr::first(value), .groups = "drop") |>
+    tidyr::pivot_wider(names_from = spec, values_from = value)
   
-  specs_wide <- specs_long |>
-    pivot_wider(names_from = spec, values_from = value, values_fn = first)
+  get_spec <- function(x) {
+    if (x %in% names(specs)) specs[[x]][1] else NA_character_
+  }
   
-  length_width_height <- get_col(specs_wide, "overall_length_width_height")
-  lwh <- str_split_fixed(length_width_height, "/", 3)
+  engine_raw <- get_spec("engine")
+  power_raw <- get_spec("engine_max_power")
+  torque_raw <- get_spec("engine_max_torque")
+  dimensions_raw <- get_spec("overall_length_width_height")
+  wheelbase_raw <- get_spec("wheelbase")
+  weight_raw <- get_spec("curb_weight")
+  top_speed_raw <- get_spec("top_speed")
   
-  engine_raw <- get_col(specs_wide, "engine")
-
-  engine_displacement_raw <- coalesce(
-  get_col(specs_wide, "engine_displacement"),
-  get_col(specs_wide, "engine_displacement_max_power")
-  )
-
-  power_raw <- coalesce(
-    get_col(specs_wide, "engine_max_power"),
-    get_col(specs_wide, "enginemax_power"),
-    get_col(specs_wide, "max_power_net"),
-    get_col(specs_wide, "max_power"),
-    get_col(specs_wide, "engine_max_powerc"),
-    get_col(specs_wide, "engine_displacement_max_power")
-  )
-
-  torque_raw <- coalesce(
-    get_col(specs_wide, "engine_max_torque"),
-    get_col(specs_wide, "enginemax_torque"),
-    get_col(specs_wide, "max_torque_net"),
-    get_col(specs_wide, "engine_max_torquec")
-  )
+  dimensions <- parse_nissan_dimensions(dimensions_raw)
+  engine_parsed <- parse_nissan_engine(engine_raw)
   
-  tibble(
-    length_mm = coalesce(parse_num(get_col(specs_wide, "overall_length")), parse_num(lwh[, 1])),
-    width_mm = coalesce(parse_num(get_col(specs_wide, "overall_width")), parse_num(lwh[, 2])),
-    height_mm = coalesce(parse_num(get_col(specs_wide, "overall_height")), parse_num(lwh[, 3])),
-    wheelbase_mm = parse_num(get_col(specs_wide, "wheelbase")),
-    tread_front_mm = parse_num(str_split_fixed(get_col(specs_wide, "tread_front_rear"), "/", 2)[, 1]),
-    tread_rear_mm = parse_num(str_split_fixed(get_col(specs_wide, "tread_front_rear"), "/", 2)[, 2]),
-    curb_weight_kg = parse_num(get_col(specs_wide, "curb_weight")),
-    
-    engine_code = engine_raw |> str_extract("^[^\\(,]+") |> str_squish(),
-
-    engine = case_when(
-      str_detect(engine_raw, regex("permanent-magnet|electric|motor", ignore_case = TRUE)) ~ "electric",
-      str_detect(engine_raw, regex("\\bV12\\b", ignore_case = TRUE)) ~ "V12",
-      str_detect(engine_raw, regex("\\bV10\\b", ignore_case = TRUE)) ~ "V10",
-      str_detect(engine_raw, regex("\\bV8\\b", ignore_case = TRUE)) ~ "V8",
-      str_detect(engine_raw, regex("\\bV6\\b", ignore_case = TRUE)) ~ "V6",
-      str_detect(engine_raw, regex("6-cyl\\.?\\s*(in[- ]?line|inline)|inline.*6|6 cylinders", ignore_case = TRUE)) ~ "inline-6",
-      str_detect(engine_raw, regex("4-cyl\\.?\\s*(in[- ]?line|inline)|inline.*4|4 cylinders", ignore_case = TRUE)) ~ "inline-4",
-      str_detect(engine_raw, regex("3-cyl\\.?\\s*(in[- ]?line|inline)|inline.*3|3 cylinders", ignore_case = TRUE)) ~ "inline-3",
-      str_detect(engine_raw, regex("2-cycle single cylinder|single cylinder", ignore_case = TRUE)) ~ "single-cylinder",
-      TRUE ~ NA_character_
-    ) ,  
-    
-    displacement_cc = coalesce(
-      parse_num(engine_displacement_raw),
-      engine_raw |> str_extract("\\d{1,3}(,\\d{3})+|\\d+\\s*cc") |> parse_num()
-    ),
-    
-    max_power_kw = power_raw |> str_extract("\\d+[\\.,]?\\d*\\s*kW") |> parse_num(),
-    max_power_cv = coalesce(
-      power_raw |> str_extract("(?<=\\()\\d+[\\.,]?\\d*\\s*PS") |> parse_num(),
-      (power_raw |> str_extract("\\d+[\\.,]?\\d*\\s*kW") |> parse_num()) / 0.73549875
-    ),
-    rpm_max_power = power_raw |> str_extract("\\d{1,2},?\\d{3}\\s*rpm") |> parse_num(),
-    
-    torque_nm = torque_raw |> str_extract("\\d+[\\.,]?\\d*\\s*N[·\\.]?m") |> parse_num(),
-    rpm_max_torque = torque_raw |> str_extract("\\d{1,2},?\\d{3}\\s*rpm") |> parse_num(),
-    
-    top_speed_kmh = parse_num(get_col(specs_wide, "top_speed")),
-    charger = get_col(specs_wide, "charger"),
-    transmission = get_col(specs_wide, "transmission"),
-    
-    suspension = coalesce(
-      get_col(specs_wide, "suspension"),
-      paste(na.omit(c(get_col(specs_wide, "suspension_front"), get_col(specs_wide, "suspension_rear"))), collapse = " / ") |> na_if("")
-    ),
-    
-    brakes = coalesce(get_col(specs_wide, "brakes"), get_col(specs_wide, "brakes_front_rear")),
-    tires = coalesce(get_col(specs_wide, "tires_wheels"), get_col(specs_wide, "tires"), get_col(specs_wide, "tires_falken")),
-    seating_capacity = parse_num(get_col(specs_wide, "seating_capacity"))
+  displacement_cc <- engine_raw |> stringr::str_extract("\\d+[,.]?\\d*\\s*cc") |> parse_num()
+  max_power_cv <- power_raw |> stringr::str_extract("\\d+[,.]?\\d*\\s*ps") |> parse_num()
+  rpm_max_power <- power_raw |> stringr::str_extract("\\d+[,.]?\\d*\\s*rpm") |> parse_num()
+  torque_nm <- torque_raw |> stringr::str_extract("\\d+[,.]?\\d*\\s*N\\s*·?\\s*m") |> parse_num()
+  rpm_max_torque <- torque_raw |> stringr::str_extract("\\d+[,.]?\\d*\\s*rpm") |> parse_num()
+  
+  tibble::tibble(
+    engine = engine_parsed$engine,
+    engine_code = engine_parsed$engine_code,
+    displacement_cc = displacement_cc,
+    max_power_cv = max_power_cv,
+    rpm_max_power = rpm_max_power,
+    torque_nm = torque_nm,
+    rpm_max_torque = rpm_max_torque,
+    top_speed_kmh = parse_num(top_speed_raw),
+    weight_kg = parse_num(weight_raw),
+    wheelbase_mm = parse_num(wheelbase_raw),
+    length_mm = dimensions$length_mm,
+    width_mm = dimensions$width_mm,
+    height_mm = dimensions$height_mm
   )
 }
 
@@ -232,17 +278,20 @@ scrape_nissan_index_page <- function(url = "https://www.nissan-global.com/EN/HER
       html_text2() |>
       clean_txt() |>
       discard(\(x) is.na(x) || x == "") |>
-      str_squish() |>
-      unique() |>
-      keep(\(x) str_length(x) > 120) |>
+      str_remove_all(regex("JavaScript is disabled.*?browser\\.?|Some functions.*?disabled.*?browser\\.?|Please enable JavaScript.*?$", ignore_case = TRUE)) |>
       str_remove("\\s*View\\s+(19|20)\\d0's.*$") |>
       str_remove("\\s*Nissan Heritage Collection Home\\s*$") |>
+      str_remove("\\s*Heritage Collection\\s*$") |>
       str_squish() |>
+      discard(\(x) is.na(x) || x == "") |>
+      unique() |>
+      keep(\(x) str_length(x) > 120) |>
+      discard(\(x) str_detect(x, regex("JavaScript is disabled|Please enable JavaScript|Some functions.*disabled", ignore_case = TRUE))) |>
       first(default = NA_character_) |>
       na_if("")
     
     specs <- parse_nissan_specs(detail_page)
-    
+  
     card_base |>
       mutate(
         no = coalesce(detail_no, no),
@@ -431,8 +480,6 @@ nissan_models_specs_final <- nissan_models_specs_all |>
       str_remove("\\)$") |>
       str_squish() |>
       na_if("-"),
-    
-    weight_kg = curb_weight_kg,
     
     category = case_when(
       str_detect(
