@@ -15,7 +15,7 @@ data_collection <- data_collection |>
 glimpse(data_collection)
 
 data_collection_join <- fs::dir_ls("data/races/") |>
-  map_df(function(folder = "data/races/nurburgring") {
+  map_df(function(folder = "data/races/spa") {
     cli::cli_inform(folder)
 
     rr <- load_race_results(str_c(folder, "/results")) |>
@@ -49,18 +49,30 @@ data_collection_join <- arrange(data_collection_join, year, track, result)
 anti_join(data_collection, data_collection_join, by = join_by(track, year, number, make))
 
 # datatable html output --------------------------------------------------
+info_icon <- "
+<svg class='dt-tooltip-icon' viewBox='0 0 24 24' aria-hidden='true'>
+  <circle cx='12' cy='12' r='9'></circle>
+  <line x1='12' y1='10' x2='12' y2='17'></line>
+  <circle cx='12' cy='7' r='1'></circle>
+</svg>
+"
+
 dt <- prep_rsc_dt_data(data_collection_join)
 
-dt <- bind_cols(dt, data_collection_join |> select(scale64_maker, scale64_status, result_group)) |> 
+dt <- dt |> 
+  bind_cols(data_collection_join |> select(scale64_maker, scale64_status, result_group, note)) |>
+  mutate(
+    note = dplyr::if_else(is.na(note) | note == "", "", glue::glue("<span class='dt-tooltip' data-tip=\"{htmltools::htmlEscape(note, attribute = TRUE)}\">{info_icon}</span>")),
+    car_title = stringr::str_squish(paste(car_title , note)),
+  ) |>    
   relocate(track, .before = 1) |> 
   relocate(result_group, .after = result) |> 
-  select(-date) |>
+  select(-date, -note, -grid) |>
   glimpse() |> 
-  make_dt("collection", search = "none") |>
+  make_dt("collection", search = "columns") |>
   style_result_status()
 
 dt
-
 
 # save -------------------------------------------------------------------
 htmlwidgets::saveWidget(

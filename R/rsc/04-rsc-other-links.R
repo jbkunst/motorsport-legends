@@ -13,6 +13,7 @@ races_other <- tribble(
   "riverside",     1960, "Grand Prix Riverside 200 Miles",   "Maserati Tipo 61 #98 Carroll Shelby",        "https://www.racingsportscars.com/photo/Riverside-1960-10-16.html?sort=Results",
   "laguna_seca",   1963, "Laguna Seca 200 Miles",            "Shelby Cobra #96 Allen Grant GreenLight; incluye fotos del evento Laguna Seca 1963", "https://www.racingsportscars.com/photo/Laguna_Seca-1963-10-20.html?sort=Results",
   "laguna_seca",   1981, "Laguna Seca",                      "Porsche 935/78 Moby Dick MOMO",              "https://www.racingsportscars.com/photo/Laguna_Seca-1981-05-03.html?sort=Results",
+  "spa",           1971, "Spa 24 Hours",                     "Mercedes-Benz 300 SEL 6.8 AMG #35 Ghost Player", "https://www.racingsportscars.com/etcc/photo/Spa-1971-07-25.html?sort=Results",
   "sebring",       1971, "Sebring 12 Hours",                 "Porsche 917 K winner",                       "https://www.racingsportscars.com/photo/Sebring-1971-03-20.html?sort=Results",
   "sebring",       1973, "Sebring 12 Hours",                 "Porsche 911 Carrera RSR winner",             "https://www.racingsportscars.com/photo/Sebring-1973-03-24.html?sort=Results",
   "watkins_glen",  1981, "Watkins Glen 6 Hours",             "Lancia Beta Montecarlo Turbo CM's 1:64",     "https://www.racingsportscars.com/photo/Watkins_Glen-1981-07-12.html?sort=Results",
