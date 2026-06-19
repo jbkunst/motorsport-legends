@@ -45,9 +45,10 @@ data_collection_join <- fs::dir_ls("data/races/") |>
 # ordenar por año, carrea y resultado
 data_collection_join <- arrange(data_collection_join, year, track, result)
 
+# check ------------------------------------------------------------------
 # anti_join para hacer check de que NO se cruzó o que falta descargar
-anti_join(data_collection, data_collection_join, by = join_by(track, year, number, make))
-
+checks <- anti_join(data_collection, data_collection_join, by = join_by(track, year, number, make))
+stopifnot(nrow(checks) == 0)
 # datatable html output --------------------------------------------------
 info_icon <- "
 <svg class='dt-tooltip-icon' viewBox='0 0 24 24' aria-hidden='true'>
@@ -65,6 +66,7 @@ dt <- dt |>
     note = dplyr::if_else(is.na(note) | note == "", "", glue::glue("<span class='dt-tooltip' data-tip=\"{htmltools::htmlEscape(note, attribute = TRUE)}\">{info_icon}</span>")),
     car_title = stringr::str_squish(paste(car_title , note)),
   ) |>    
+  mutate(across(c(track, result_status, scale64_maker, scale64_status), as.factor)) |> 
   relocate(track, .before = 1) |> 
   relocate(result_group, .after = result) |> 
   select(-date, -note, -grid) |>
