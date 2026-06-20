@@ -165,14 +165,6 @@ cars_models_validation |>
   print(n = Inf)
 
 # datatable --------------------------------------------------------------
-info_icon <- "
-<svg class='dt-tooltip-icon' viewBox='0 0 24 24' aria-hidden='true'>
-  <circle cx='12' cy='12' r='9'></circle>
-  <line x1='12' y1='10' x2='12' y2='17'></line>
-  <circle cx='12' cy='7' r='1'></circle>
-</svg>
-"
-
 cars_models_min <- cars_models |>
   dplyr::mutate(
     info = dplyr::if_else(is.na(description) | description == "", "", glue::glue("<span class='dt-tooltip' data-tip=\"{htmltools::htmlEscape(description, attribute = TRUE)}\">{info_icon}</span>")),

@@ -50,14 +50,6 @@ data_collection_join <- arrange(data_collection_join, year, track, result)
 checks <- anti_join(data_collection, data_collection_join, by = join_by(track, year, number, make))
 stopifnot(nrow(checks) == 0)
 # datatable html output --------------------------------------------------
-info_icon <- "
-<svg class='dt-tooltip-icon' viewBox='0 0 24 24' aria-hidden='true'>
-  <circle cx='12' cy='12' r='9'></circle>
-  <line x1='12' y1='10' x2='12' y2='17'></line>
-  <circle cx='12' cy='7' r='1'></circle>
-</svg>
-"
-
 dt <- prep_rsc_dt_data(data_collection_join)
 
 dt <- dt |> 
