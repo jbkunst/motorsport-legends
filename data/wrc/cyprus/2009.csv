@@ -1,0 +1,33 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Loeb, Sebastien",Citroen C4 WRC,FR,A8,"4h 50m 34,7s",NA,NA,NA
+2,3,"Hirvonen, Mikko",Ford Focus RS WRC 08,FI,A8,"+27,2s",NA,NA,NA
+3,11,"Solberg, Petter",Citroen Xsara WRC,NO,A8,"+1m 49,4s",NA,NA,NA
+4,2,"Sordo Castillo, Daniel",Citroen C4 WRC,ES,A8,"+2m 26,3s",NA,NA,NA
+5,5,"Wilson, Matthew",Ford Focus RS WRC 08,GB,A8,"+6m 41,0s",NA,NA,NA
+6,8,"Rautenbach, Conrad",Citroen C4 WRC,ZW,A8,"+11m 11,9s",NA,NA,NA
+7,9,"Villagra, Federico",Ford Focus RS WRC 08,AR,A8,"+13m 18,5s",NA,NA,NA
+8,14,"al-Qassimi, Khalid",Ford Focus RS WRC 08,AE,A8,"+13m 44,1s",NA,NA,NA
+9,146,"Sandell, Patrik",Skoda Fabia Super 2000,SE,N4,"+19m 36,6s",NA,NA,NA
+10,147,"Araujo, Armindo",Mitsubishi Lancer Evo IX,PT,N4,"+19m 54,9s",NA,NA,NA
+11,144,"al-Attiyah, Nasser",Subaru Impreza,QA,N4,"+20m 35,4s",NA,NA,NA
+12,4,"Latvala, Jari-Matti",Ford Focus RS WRC 08,FI,A8,"+22m 34,4s",0:10,NA,NA
+13,133,"Arai, Toshihiro",Subaru Impreza,JP,N4,"+28m 10,7s",NA,NA,NA
+14,38,"Prokop, Martin",Citroen C2 S1600,CZ,A6,"+30m 19,3s",NA,NA,NA
+15,140,"Neiksans, Andis",Mitsubishi Lancer Evo IX,LV,N4,"+31m 11,9s",2:20,NA,NA
+16,160,"Timotheou, Charalambos",Mitsubishi Lancer Evo IX,CY,N4,"+31m 27,0s",NA,NA,NA
+17,32,"Kosciuszko, Michal",Suzuki Swift S1600,PL,A6,"+31m 56,1s",NA,NA,NA
+18,6,"Solberg, Henning",Ford Focus RS WRC 08,NO,A8,"+33m 04,1s",NA,NA,NA
+19,137,"Sauvan, Frederic",Mitsubishi Lancer Evo IX,FR,N4,"+48m 35,5s",NA,NA,NA
+20,31,"Burkart, Aaron Nicolai",Suzuki Swift S1600,DE,A6,"+50m 08,2s",NA,NA,NA
+21,138,"Mayer, Gabor",Subaru Impreza,HU,N4,"+51m 52,7s",NA,NA,NA
+22,64,"Velissariou, Eraklis",Subaru Impreza,CY,N4,"+56m 28,7s",5:00,NA,NA
+23,134,"Linari, Gianluca",Subaru Impreza,IT,N4,"+1h 07m 37,6s",NA,NA,NA
+24,136,"Valdes Lopez, Egoi Eder",Subaru Impreza WRX,ES,N4,"+1h 14m 44,0s",NA,NA,NA
+NA,7,"Novikov, Evgeny",Citroen C4 WRC,RU,A8,NA,NA,SS12,off road
+NA,12,"Ogier, Sebastien",Citroen C4 WRC,FR,A8,NA,NA,SS14,off road
+NA,62,"Pamboukka, Pantelis",Subaru Impreza,CY,N4,NA,NA,SS13,mechanical
+NA,63,"Chartoupalos, Yiotis",Subaru Impreza WRX,CY,N4,NA,NA,SS13,mechanical
+NA,135,"Semerad, Martin",Mitsubishi Lancer Evo IX,CZ,N4,NA,NA,SS12,mechanical
+NA,139,"Campedelli, Simone",Mitsubishi Lancer Evo IX,IT,N4,NA,NA,SS14,mechanical
+NA,148,"Gill, Gaurav Singh",Subaru Impreza,IN,N4,NA,NA,TC14A,mechanical
+NA,159,"Thomas, Nicos",Mitsubishi Lancer Evo IX,CY,N4,NA,NA,SS9,mechanical

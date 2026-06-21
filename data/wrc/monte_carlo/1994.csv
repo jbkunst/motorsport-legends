@@ -1,0 +1,77 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,6,"Delecour, Francois",Ford Escort RS Cosworth,FR,A8,6h 12m 20s,NA,NA,NA
+2,1,"Kankkunen, Juha",Toyota Celica Turbo 4WD (ST185),FI,A,+1m 05s,NA,NA,NA
+3,2,"Sainz, Carlos",Subaru Impreza 555,ES,A,+1m 47s,NA,NA,NA
+4,4,"Biasion, Massimo",Ford Escort RS Cosworth,IT,A,+4m 36s,NA,NA,NA
+5,9,"Eriksson, Kenneth",Mitsubishi Lancer Evo I,SE,A,+6m 57s,NA,NA,NA
+6,8,"Thiry, Bruno",Ford Escort RS Cosworth,BE,A,+6m 58s,NA,NA,NA
+7,5,"Schwarz, Armin",Mitsubishi Lancer Evo I,DE,A,+16m 59s,NA,NA,NA
+8,19,"Jenot, Pierre-Manuel",Ford Escort RS Cosworth,FR,N,+36m 56s,NA,NA,NA
+9,23,"Puras, Jesus",Ford Escort RS Cosworth,ES,N,+41m 29s,NA,NA,NA
+10,7,"McRae, Colin",Subaru Impreza 555,GB,A,+49m 10s,NA,NA,NA
+11,17,"Verini, Maurizio",Lancia Delta Integrale,IT,A8,+49m 33s,NA,NA,NA
+12,26,"Phillips, Franck",Ford Escort RS Cosworth,MC,N4,+50m 35s,NA,NA,NA
+13,10,"Ragnotti, Jean",Renault Clio Williams,FR,A,+55m 26s,NA,NA,NA
+14,20,"Gregis, Michele",Lancia Delta Integrale,IT,A8,+59m 32s,NA,NA,NA
+15,15,"Holderied, Isolde",Mitsubishi Lancer Evo I,DE,N,+1h 03m 31s,NA,NA,NA
+16,28,"Burkart, Nikolai",Opel Astra,DE,A7,+1h 06m 38s,NA,NA,NA
+17,157,"Mercier, Eddie",Renault Clio Williams,FR,N3,+1h 08m 32s,NA,NA,NA
+18,30,"Errani, Riccardo",Lancia Delta HF Integrale,IT,A8,+1h 11m 17s,NA,NA,NA
+19,39,"Farnaud, Michel",Renault 5 GT Turbo,FR,N4,+1h 14m 24s,NA,NA,NA
+20,12,"Sibera, Pavel",Skoda Favorit 136L,CZ,A,+1h 14m 29s,NA,NA,NA
+21,141,"Persico, Paolo",Ford Sierra Cosworth,IT,N4,+1h 16m 28s,NA,NA,NA
+22,22,"Turiani, Auguste",Ford Escort RS Cosworth,MC,N4,+1h 18m 45s,NA,NA,NA
+23,68,"Pellerey, Alain",Citroen ZX,FR,N3,+1h 19m 19s,NA,NA,NA
+24,159,"Billion-Rey, Michel",Renault Clio,FR,N3,+1h 21m 34s,NA,NA,NA
+25,73,"Gunther, Klaus",Lancia Delta Integrale,DE,A8,+1h 23m 53s,NA,NA,NA
+26,41,"Dongues, Bernard",Renault Clio,FR,A6,+1h 24m 11s,NA,NA,NA
+27,60,"Bonfils, Michel",Lancia Delta Integrale,FR,A8,+1h 26m 59s,NA,NA,NA
+28,48,"Guiramand, Serge",Renault 5 GT Turbo,FR,N4,+1h 28m 41s,NA,NA,NA
+29,13,"Berger, Vladimir",Skoda Favorit 136L,CZ,A,+1h 29m 16s,NA,NA,NA
+30,125,"Baldi, Maurizio",Ford Escort RS Cosworth,IT,N4,+1h 30m 06s,NA,NA,NA
+31,51,"Grimaud, Roger",Honda Civic,FR,N2,+1h 30m 28s,NA,NA,NA
+32,182,"Quinonero, Julien",Peugeot 106,FR,N2,+1h 30m 55s,NA,NA,NA
+33,33,"Frau, Richard",Renault Clio Williams,FR,N3,+1h 31m 17s,NA,NA,NA
+34,148,"Tosello, Remi",Renault 5 GT Turbo,FR,N4,+1h 32m 37s,NA,NA,NA
+35,47,"Jaussaud, Bernard",Renault Clio,FR,N3,+1h 32m 55s,NA,NA,NA
+36,55,"Poizot, Bruno",Peugeot 205 GTI,FR,A6,+1h 33m 33s,NA,NA,NA
+37,140,"Fores, Daniel",Seat Ibiza,FR,N3,+1h 36m 32s,NA,NA,NA
+38,106,"Duconget, Gilbert",Renault Clio,FR,A6,+1h 38m 53s,NA,NA,NA
+39,167,"Dubois, Lucien",Peugeot 309 GTI,FR,N3,+1h 40m 10s,NA,NA,NA
+40,76,"Mallen, Eric",Mitsubishi Galant,FR,N4,+1h 40m 39s,NA,NA,NA
+41,54,"Nougier, Gilbert",Renault Clio,FR,N3,+1h 44m 25s,NA,NA,NA
+42,131,"Morthier, Jean-Pierre",Mazda 323 4WD,CH,N4,+1h 46m 44s,NA,NA,NA
+43,176,"Autran, Patrick",Peugeot 205 GTI,FR,N2,+1h 46m 47s,NA,NA,NA
+44,138,"Rotter, Horst",Opel Astra,DE,A6,+1h 46m 52s,NA,NA,NA
+45,144,"Hupfert, Jean-Michel",Volkswagen Golf Rallye G60,FR,N4,+1h 47m 31s,NA,NA,NA
+46,162,"Christensen, Vidar",Opel Astra,NO,N3,+1h 47m 59s,NA,NA,NA
+47,115,"Fournier, Jean-Jacques",Citroen AX,FR,A5,+1h 48m 45s,NA,NA,NA
+48,72,"Masse, Jean-Marc",Citroen AX,FR,N1,+1h 49m 25s,NA,NA,NA
+49,160,"Nygard, Ole",Opel Astra,NO,N3,+1h 49m 52s,NA,NA,NA
+50,49,"du Castel, Xavier",BMW M3,FR,A8,+1h 50m 36s,NA,NA,NA
+51,179,"Isselin, Gerard",Honda Civic,FR,N2,+1h 51m 09s,NA,NA,NA
+52,32,"Gambino, Didier",Lancia Delta Integrale,FR,N4,+1h 51m 21s,NA,NA,NA
+53,190,"Vanhaesebrouck, Philippe",Peugeot 205 Rallye,FR,N1,+1h 53m 39s,NA,NA,NA
+54,81,"Bartolini, Richard",Fiat Cinquecento,FR,A5,+1h 54m 36s,NA,NA,NA
+55,84,"Pianezzola, Sergio",Fiat Cinquecento,IT,A5,+1h 54m 40s,NA,NA,NA
+56,145,"Lienard, Jean-Claude",Seat Ibiza,FR,N3,+1h 55m 03s,NA,NA,NA
+57,142,"Roche, Stephen",Seat Ibiza,IE,N3,+1h 55m 36s,NA,NA,NA
+58,25,"Postillon, Patrick",Ford Sierra Cosworth 4x4,FR,A8,+1h 55m 46s,NA,NA,NA
+59,87,"Fillet, Jacques",Peugeot 309 GTI,FR,A6,+1h 55m 53s,NA,NA,NA
+60,63,"Bourcier, Richard",Peugeot 106,FR,A6,+1h 56m 09s,NA,NA,NA
+61,186,"Thiollier, Alain",Peugeot 205 GTI,FR,N2,+1h 56m 49s,NA,NA,NA
+62,121,"Fidanza, Raffaello",Ford Escort RS Cosworth,IT,N4,+1h 56m 50s,NA,NA,NA
+63,94,"Ussai, Walter",Fiat Cinquecento,IT,A5,+1h 57m 28s,NA,NA,NA
+64,143,"Soureillat, Christian",Citroen AX,FR,N1,+1h 58m 38s,NA,NA,NA
+91,107,"Ficon, Mariusz",Fiat Cinquecento,PL,A5,+2h 36m 10s,NA,NA,NA
+NA,3,"Auriol, Didier",Toyota Celica Turbo 4WD (ST185),FR,A,NA,NA,SS4,accident
+NA,11,"Oreille, Alain",Renault Clio Williams,FR,A,NA,NA,SS14,accident
+NA,14,"Hellman, Juha",Mitsubishi Galant,FI,N4,NA,NA,SS2,accident
+NA,16,"Spiliotis, Christophe",Lancia Delta Integrale,MC,N4,NA,NA,SS4,accident
+NA,18,"Jordan, Serge",Renault Clio Williams,FR,N3,NA,NA,SS2,clutch
+NA,21,"Dorche, Christian",Ford Escort RS Cosworth,FR,N4,NA,NA,SS10,suspension
+NA,37,"Hopkirk, Paddy",Rover Mini Cooper,IE,A5,NA,NA,Leg 4,unknown
+NA,40,"Camandona, Philippe",Rover Mini Cooper,CH,A5,NA,NA,Leg 4,unknown
+NA,101,"Makinen, Timo",Rover Mini Cooper,FI,A5,NA,NA,SS2,engine
+NA,108,"Cesbron, Jaccky",Renault Clio,FR,A5,NA,NA,Leg 4,unknown
+NA,161,"Vold-Johanssen, Leif",Volkswagen Golf GTI 16V,NO,N3,NA,NA,Leg 4,unknown

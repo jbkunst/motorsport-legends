@@ -1,0 +1,23 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,4,"Sainz, Carlos",Ford Escort RS Cosworth,ES,A8,5h 30m 00s,NA,NA,NA
+2,3,"Liatti, Piero",Subaru Impreza 555,IT,A8,+23s,NA,NA,NA
+3,10,"Kankkunen, Juha",Toyota Celica GT-Four (ST205),FI,A8,+1m 02s,NA,NA,NA
+4,11,"Fujimoto, Yoshio",Toyota Celica Turbo 4WD (ST185),JP,A8,+19m 44s,NA,NA,NA
+5,27,"Pribadli, Reza",Toyota Celica GT-Four (ST205),ID,A8,+35m 17s,NA,NA,NA
+6,16,"Lieu, Michael",Subaru Impreza WRX,HK,N4,+37m 22s,NA,NA,NA
+7,20,"Konishi, Shigeyuki",Subaru Impreza WRX,JP,N4,+45m 08s,NA,NA,NA
+8,22,"Gading, Irvan",Subaru Impreza 555,ID,A8,+45m 55s,NA,NA,NA
+9,32,"Alim, Chandra",Mitsubishi Lancer Evo III,ID,N4,+51m 41s,NA,NA,NA
+10,21,"Hartono, Bambang",Mitsubishi Lancer Evo III,ID,N4,+52m 10s,NA,NA,NA
+12,19,"Bell, Wayne",Hyundai Lantra,AU,A7,+58m 05s,NA,NA,NA
+13,17,"Tajima, Nobuhiro",Suzuki Swift GTI,JP,A5,+1h 11m 03s,NA,NA,NA
+NA,1,"McRae, Colin",Subaru Impreza 555,GB,A8,NA,NA,SS19,accident
+NA,2,"Eriksson, Kenneth",Subaru Impreza 555,SE,A8,NA,NA,SS7,accident
+NA,5,"Evans, Gwyndaf",Ford Escort RS Cosworth,GB,A8,NA,NA,TC8B,illegal refuel
+NA,6,"Rukmana, Dandy",Ford Escort RS Cosworth,ID,A8,NA,NA,SS8,engine stoppage
+NA,7,"Makinen, Tommi",Mitsubishi Lancer Evo III,FI,A8,NA,NA,SS11,engine
+NA,8,"Burns, Richard",Mitsubishi Lancer Evo III,GB,A8,NA,NA,SS3,engine
+NA,9,"Kataoka, Yoshihiro",Mitsubishi Lancer Evo III,JP,N4,NA,NA,SS19,engine
+NA,12,"Trelles, Gustavo",Mitsubishi Lancer Evo III,UY,N4,NA,NA,SS9,suspension
+NA,15,"Singh, Karamjit",Proton Wira 4WD,MY,N4,NA,NA,post-event,no lamps in lamp pods
+NA,31,"Carr, Greg",Hyundai Accent,AU,A6,NA,NA,SS12,suspension

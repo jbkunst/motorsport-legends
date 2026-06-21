@@ -1,0 +1,85 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"Gronholm, Marcus",Ford Focus RS WRC 06,FI,A8,"3h 56m 26,8s",NA,NA,NA
+2,1,"Loeb, Sebastien",Citroen Xsara WRC,FR,A8,"+2m 26,8s",NA,NA,NA
+3,4,"Hirvonen, Mikko",Ford Focus RS WRC 06,FI,A8,"+3m 43,8s",NA,NA,NA
+4,16,"Gardemeister, Toni",Citroen Xsara WRC,FI,A8,"+4m 20,8s",NA,NA,NA
+5,8,"Solberg, Henning",Peugeot 307WRC Evo2,NO,A8,"+4m 55,6s",0:20,NA,NA
+6,14,"Sordo Castillo, Daniel",Citroen Xsara WRC,ES,A8,"+4m 56,4s",NA,NA,NA
+7,5,"Solberg, Petter",Subaru Impreza WRC2006,NO,A8,"+5m 34,4s",NA,NA,NA
+8,2,"Pons, Xavier",Citroen Xsara WRC,ES,A8,"+8m 19,0s",NA,NA,NA
+9,20,"Valimaki, Jussi",Mitsubishi Lancer WRC05,FI,A8,"+11m 28,7s",NA,NA,NA
+10,9,"Wilson, Matthew",Ford Focus RS WRC 04,GB,A8,"+13m 30,8s",NA,NA,NA
+11,6,"Atkinson, Christopher",Subaru Impreza WRC2006,AU,A8,"+14m 01,8s",NA,NA,NA
+12,11,"Rovanpera, Harri",Skoda Fabia WRC,FI,A8,"+14m 35,6s",0:10,NA,NA
+13,18,"Duval, Francois",Skoda Fabia WRC,BE,A8,"+18m 04,4s",NA,NA,NA
+14,12,"Aigner, Andreas",Skoda Fabia WRC,AT,A8,"+20m 50,9s",NA,NA,NA
+15,19,"Vovos, Armodios",Subaru Impreza,GR,A8,"+26m 50,3s",NA,NA,NA
+16,17,"Kopecky, Jan",Skoda Fabia WRC,CZ,A8,"+28m 18,8s",NA,NA,NA
+17,39,"al-Attiyah, Nasser",Subaru Impreza,QA,N4,"+32m 16,5s",5:00,NA,NA
+18,35,"Pozzo, Gabriel",Mitsubishi Lancer Evo IX,AR,N4,"+32m 28,5s",1:00,NA,NA
+19,45,"Teiskonen, Aki",Subaru Impreza WRX,FI,N4,"+32m 46,9s",NA,NA,NA
+20,36,"Baldacci, Mirco",Mitsubishi Lancer Evo IX,SM,N4,"+36m 10,6s",5:10,NA,NA
+21,31,"Arai, Toshihiro",Subaru Impreza,JP,N4,"+37m 10,9s",NA,NA,NA
+22,37,"Latvala, Jari-Matti",Subaru Impreza WRX,FI,N4,"+39m 44,4s",2:20,NA,NA
+23,65,"al-Qassimi, Khalid",Subaru Impreza WRX,AE,N4,"+41m 11,9s",NA,NA,NA
+24,32,"Ligato, Marcos",Mitsubishi Lancer Evo IX,AR,N4,"+45m 21,4s",NA,NA,NA
+25,73,"Pitsos, Konstantinos",Mitsubishi Lancer Evo VIII,GR,N4,"+45m 58,1s",NA,NA,NA
+26,10,"Katajamaki, Kosti",Ford Focus RS WRC 04,FI,A8,"+47m 36,4s",NA,NA,NA
+27,40,"Marrini, Stefano",Mitsubishi Lancer Evo VII,IT,N4,"+48m 31,5s",NA,NA,NA
+28,69,"Kosciuszko, Michal",Suzuki Ignis S1600,PL,A6,"+52m 20,4s",NA,NA,NA
+29,42,"Uspenski, Sergey",Subaru Impreza WRX,RU,N4,"+53m 09,0s",NA,NA,NA
+30,34,"Beltran, Sebastian",Mitsubishi Lancer Evo IX,AR,N4,"+55m 35,7s",1:00,NA,NA
+31,61,"Nioras, Grigoris",Subaru Impreza,GR,N4,"+58m 42,3s",NA,NA,NA
+32,46,"Heath, Nigel",Subaru Impreza,GB,N4,"+1h 01m 40,2s",NA,NA,NA
+33,41,"Kamada, Takuma",Subaru Impreza,JP,N4,"+1h 06m 44,4s",0:20,NA,NA
+34,81,"Rautenbach, Conrad",Subaru Impreza,ZW,N4,"+1h 08m 49,3s",0:10,NA,NA
+35,77,"Palaiologos, Alexandros",Mitsubishi Lancer Evo VIII,GR,N4,"+1h 13m 22,0s",0:20,NA,NA
+36,95,"Klouvatos, George",Mitsubishi Lancer Evo VIII,GR,N4,"+1h 13m 35,4s",NA,NA,NA
+37,43,"Jereb, Andrej",Mitsubishi Lancer Evo VIII,SI,N4,"+1h 13m 41,8s",1:10,NA,NA
+38,82,"Kaltsounis, Haris",Opel Corsa S1600,GR,A6,"+1h 14m 22,4s",1:20,NA,NA
+39,88,"Krattiger, Andreas",Mitsubishi Lancer Evo VIII,CH,N4,"+1h 15m 03,3s",0:10,NA,NA
+40,80,"Moshoutis, Pavlos",Mitsubishi Lancer Evo IX,GR,N4,"+1h 15m 09,3s",NA,NA,NA
+41,86,"Stratelis, Stergios",Subaru Impreza,GR,N4,"+1h 21m 00,3s",0:20,NA,NA
+42,87,"Baldacci, Loris",Subaru Impreza,SM,N4,"+1h 21m 34,0s",0:30,NA,NA
+43,63,"Psyllos, Dimitris",Mitsubishi Lancer Evo VIII,GR,N4,"+1h 23m 28,8s",NA,NA,NA
+44,60,"Nassoulas, Dimitris",Mitsubishi Lancer Evo VII,GR,N4,"+1h 25m 23,3s",NA,NA,NA
+45,89,"Trevisin, Francesco",Subaru Impreza,IT,N4,"+1h 37m 42,0s",0:40,NA,NA
+46,90,"Spanos, Dionnissis",Subaru Impreza,GR,N4,"+1h 38m 14,9s",0:10,NA,NA
+47,97,"Margaronis, Ioannis",Hyundai Accent,GR,A6,"+1h 40m 10,1s",0:20,NA,NA
+48,103,"Honda, Michael",Citroen Saxo,CZ,A6,"+1h 40m 42,9s",0:20,NA,NA
+49,96,"Gazetas, Dionissis",Mitsubishi Lancer Evo VII,GR,A8,"+1h 42m 12,1s",NA,NA,NA
+50,92,"Tsilis, Athanassios",Mitsubishi Lancer Evo VI,GR,N4,"+1h 47m 14,5s",NA,NA,NA
+51,101,"Arvanitis, Dimitris",Honda Civic,GR,A6,"+1h 51m 21,6s",0:10,NA,NA
+52,99,"Ekonomou, Christos",Citroen C2,GR,A6,"+1h 51m 49,1s",0:20,NA,NA
+53,94,"Zissis, Panayiotis",Mitsubishi Lancer Evo VIII,GR,N4,"+1h 55m 29,6s",0:10,NA,NA
+54,93,"Stavrianoudakis, Stelios",Subaru Impreza 555,GR,N4,"+1h 55m 59,8s",0:30,NA,NA
+55,78,"Kirkos, Dimitris",Mitsubishi Lancer Evo VIII,GR,N4,"+1h 58m 56,3s",0:10,NA,NA
+56,85,"Gazetas, Haralambos",Toyota Yaris,GR,A5,"+1h 59m 08,5s",1:30,NA,NA
+57,91,"Furibondi, Marcello",Subaru Impreza,IT,N4,"+2h 09m 10,7s",0:20,NA,NA
+58,114,"Nicolaou, Andreas",Suzuki Ignis,CY,N2,"+2h 13m 14,8s",NA,NA,NA
+59,104,"Labouras, Konstantinos",Toyota Corolla,GR,A6,"+2h 13m 17,6s",0:10,NA,NA
+60,70,"Maniatopoulos, Alexandros",Renault Clio S1600,GR,A6,"+2h 16m 45,7s",0:20,NA,NA
+61,106,"Vassilis, Dimitris",Peugeot 206,GR,A6,"+2h 17m 41,2s",3:40,NA,NA
+62,108,"Zounis, Ioannis",MG ZR,GR,A5,"+2h 17m 49,5s",NA,NA,NA
+63,112,"Katsabekis, Themistoklis",Volkswagen Polo,GR,A5,"+2h 18m 24,9s",NA,NA,NA
+64,105,"Stathaki, Christina Myrto",Peugeot 206,GR,A6,"+2h 21m 22,0s",0:10,NA,NA
+65,100,"Mavrodis, Dionissis",Nissan Micra,GR,A5,"+2h 26m 49,3s",0:20,NA,NA
+66,113,'Iraklis',Nissan Almera,GR,A7,"+2h 47m 33,9s",0:30,NA,NA
+67,109,"Kapnias, Dimitris",Toyota Yaris,GR,A5,"+2h 54m 41,0s",NA,NA,NA
+68,111,"Angeletos, Dimitris",Toyota Yaris,GR,A5,"+2h 55m 18,4s",1:00,NA,NA
+69,107,"Paraperas, Nikolaos",MG ZR,GR,A7,"+3h 08m 24,7s",7:10,NA,NA
+NA,7,"Stohl, Manfred",Peugeot 307WRC Evo2,AT,A8,NA,NA,SS18,accident
+NA,38,"Kuzaj, Leszek",Subaru Impreza,PL,N4,NA,NA,SS4,mechanical
+NA,59,"Hatzitsopanis, Panagiotis",Mitsubishi Lancer Evo VIII,GR,N4,NA,NA,end of Leg 3,unknown
+NA,62,"Halkias, Efthimios",Mitsubishi Lancer Evo VIII,GR,N4,NA,NA,TC9A,mechanical
+NA,66,"Apostolou, Konstantinos",Mitsubishi Lancer Evo VI,GR,A8,NA,NA,TC7D,did not restart
+NA,67,"Stefanis, Emmanuel",Ford Focus WRC,GR,A8,NA,NA,SS11,mechanical
+NA,68,"Paradissis, Konstantinos",Peugeot 206 S1600,GR,A6,NA,NA,TC13D,did not restart
+NA,74,"Platis, Christos",Subaru Impreza WRX,GR,N4,NA,NA,SS9,mechanical
+NA,76,"Kontellis, Ioannis",Mitsubishi Lancer Evo VII,GR,N4,NA,NA,TC13D,did not restart
+NA,79,"Kantzavelos, George",Mitsubishi Lancer Evo VII,GR,A8,NA,NA,TC4A,mechanical
+NA,83,"Plagos, Ioannis",Nissan Micra,GR,A5,NA,NA,TC13D,did not restart
+NA,84,"Chatzirigas, George",MG ZR,GR,A5,NA,NA,TC13D,did not restart
+NA,98,"Ladogiannis, Grigoris",Fiat Seicento,GR,A5,NA,NA,TC13D,did not restart
+NA,102,"Iglessis, Aris",Peugeot 206,GR,A6,NA,NA,TC4A,mechanical
+NA,110,"Papadimitropoulos, Konstantinos",Toyota Yaris,GR,A5,NA,NA,TC7D,did not restart

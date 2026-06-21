@@ -1,0 +1,58 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Loeb, Sebastien",Citroen Xsara WRC,FR,A8,"3h 27m 13,2s",NA,NA,NA
+2,2,"Duval, Francois",Citroen Xsara WRC,BE,A8,"+37,4s",NA,NA,NA
+3,7,"Gronholm, Marcus",Peugeot 307WRC Evo2,FI,A8,"+2m 04,8s",NA,NA,NA
+4,8,"Martin, Markko",Peugeot 307WRC Evo2,EE,A8,"+4m 09,4s",NA,NA,NA
+5,10,"Galli, Gianluigi",Mitsubishi Lancer WRC05,IT,A8,"+5m 03,6s",NA,NA,NA
+6,4,"Kresta, Roman",Ford Focus RS WRC 04,CZ,A8,"+5m 12,3s",NA,NA,NA
+7,5,"Solberg, Petter",Subaru Impreza WRC2005,NO,A8,"+7m 48,1s",1:30,NA,NA
+8,6,"Sarrazin, Stephane",Subaru Impreza WRC2005,FR,A8,"+8m 34,1s",NA,NA,NA
+9,19,"Pons, Xavier",Citroen Xsara WRC,ES,A8,"+9m 09,2s",NA,NA,NA
+10,9,"Rovanpera, Harri",Mitsubishi Lancer WRC05,FI,A8,"+9m 11,6s",NA,NA,NA
+11,15,"Atkinson, Christopher",Subaru Impreza WRC2005,AU,A8,"+10m 33,0s",NA,NA,NA
+12,14,"Sola, Daniel",Ford Focus RS WRC 04,ES,A8,"+16m 43,1s",0:10,NA,NA
+13,41,"Sordo Castillo, Daniel",Citroen C2 S1600,ES,A6,"+19m 46,1s",NA,NA,NA
+14,35,"Meeke, Kris",Citroen C2 S1600,GB,A6,"+21m 11,0s",NA,NA,NA
+15,32,"Wilks, Guy",Suzuki Swift S1600,GB,A6,"+23m 40,7s",NA,NA,NA
+16,31,"Andersson, Per-Gunnar",Suzuki Swift S1600,SE,A6,"+24m 30,9s",NA,NA,NA
+17,3,"Gardemeister, Toni",Ford Focus RS WRC 04,FI,A8,"+25m 37,0s",0:20,NA,NA
+18,67,"Gassner, Hermann",Mitsubishi Lancer Evo VIII,DE,N4,"+25m 53,7s",NA,NA,NA
+19,33,"Katajamaki, Kosti",Suzuki Ignis S1600 5d,FI,A6,"+25m 54,5s",NA,NA,NA
+20,38,"Betti, Luca",Renault Clio S1600,IT,A6,"+30m 07,1s",NA,NA,NA
+21,69,"Latvala, Jari-Matti",Subaru Impreza WRX,FI,N4,"+31m 08,5s",2:40,NA,NA
+22,34,"Baldacci, Mirco",Fiat Punto S1600,SM,A6,"+31m 50,6s",NA,NA,NA
+23,42,"Valousek, Pavel",Suzuki Ignis S1600,CZ,A6,"+33m 28,6s",1:00,NA,NA
+24,39,"Cecchettini, Luca",Fiat Punto S1600,IT,A6,"+34m 51,6s",NA,NA,NA
+25,61,"Kakuszi, Zsolt",Volkswagen Polo S1600,HU,A6,"+40m 21,4s",NA,NA,NA
+26,80,"Garcia, Enrique",Peugeot 206,ES,N3,"+42m 07,4s",NA,NA,NA
+27,21,"Vojtech, Stepan",Peugeot 206 WRC,CZ,A8,"+42m 31,9s",NA,NA,NA
+28,78,"Martinez, Rafael",Subaru Impreza WRX,ES,N4,"+43m 01,7s",NA,NA,NA
+29,72,"Steudten, Maik",Mitsubishi Lancer Evo VIII,DE,N4,"+51m 37,2s",NA,NA,NA
+30,82,"Penzes, Zsolt",Renault Clio,HU,N3,"+59m 42,0s",0:20,NA,NA
+31,73,"Muller, Quirin",Mitsubishi Lancer Evo VIII,DE,N4,"+59m 52,9s",NA,NA,NA
+32,76,"Wolff, Toto",Mitsubishi Lancer Evo VIII,AT,N4,"+1h 03m 41,9s",0:10,NA,NA
+33,70,"van den Heuvel, Jasper",Mitsubishi Lancer Evo VII,NL,N4,"+1h 11m 08,9s",1:50,NA,NA
+34,77,"Vossen, Henk",Mitsubishi Lancer Evo VIII,NL,N4,"+1h 13m 21,6s",2:10,NA,NA
+35,83,"Larsen, Glenn",Peugeot 306,NO,N3,"+1h 16m 06,2s",0:20,NA,NA
+36,81,"Mysliwietz, Lars",Honda Civic Type-R,DE,N3,"+1h 18m 37,1s",NA,NA,NA
+37,85,"di Noto, Gianni",Suzuki Ignis,DE,N2,"+1h 34m 36,4s",NA,NA,NA
+38,86,"Bezlapowicz, Adam",Suzuki Ignis,PL,N2,"+1h 53m 05,1s",NA,NA,NA
+NA,11,"Schwarz, Armin",Skoda Fabia WRC 05,DE,A8,NA,NA,TC8C,mechanical
+NA,12,"Bengue, Alexandre",Skoda Fabia WRC 05,FR,A8,NA,NA,SS3,mechanical
+NA,16,"Kopecky, Jan",Skoda Fabia WRC 05,CZ,A8,NA,NA,SS16,mechanical
+NA,18,"Stohl, Manfred",Citroen Xsara WRC,AT,A8,NA,NA,SS11,mechanical
+NA,20,"Bernardi, Nicolas",Peugeot 206 WRC,FR,A8,NA,NA,SS11,mechanical
+NA,36,"Aava, Urmo",Suzuki Ignis S1600 5d,EE,A6,NA,NA,TC6C,mechanical
+NA,37,"Scorcioni, Alan",Fiat Punto S1600,IT,A6,NA,NA,TC1,mechanical
+NA,40,"Rautenbach, Conrad",Citroen C2 S1600,ZW,A6,NA,NA,SS8,mechanical
+NA,43,"Prokop, Martin",Suzuki Ignis S1600,CZ,A6,NA,NA,TC11,mechanical
+NA,62,"Olle, Sasa",Suzuki Ignis S1600,HU,A6,NA,NA,SS14,mechanical
+NA,63,"Casier, Bernd",Peugeot 206 S1600,BE,A6,NA,NA,TC8,mechanical
+NA,65,"Burkart, Aaron Nicolai",Citroen Saxo S1600,DE,A6,NA,NA,SS14,mechanical
+NA,66,"Fahrner, Markus",Opel Corsa S1600,DE,A6,NA,NA,TC16C,mechanical
+NA,71,"Aigner, Andreas",Mitsubishi Lancer Evo VIII,AT,N4,NA,NA,SS14,accident
+NA,74,"Amm, Ronny",Mitsubishi Lancer Evo VI,DE,N4,NA,NA,SS5,mechanical
+NA,75,"Harrach, Beppo",Mitsubishi Lancer Evo VIII,AT,N4,NA,NA,TC16C,mechanical
+NA,79,"Semerad, Josef",Mitsubishi Lancer Evo VII,CZ,N4,NA,NA,SS8,mechanical
+NA,84,"Schneppenheim, Stefan",Suzuki Ignis,DE,N2,NA,NA,SS11,accident
+NA,88,"Hohlheimer, Jurgen",Fiat Seicento Sporting,DE,A5,NA,NA,SS13,mechanical

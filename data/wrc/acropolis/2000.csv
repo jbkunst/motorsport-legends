@@ -1,0 +1,118 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,5,"McRae, Colin",Ford Focus WRC 00,GB,A8,"4h 56m 54,8s",NA,NA,NA
+2,6,"Sainz, Carlos",Ford Focus WRC 00,ES,A8,"+23,1s",NA,NA,NA
+3,4,"Kankkunen, Juha",Subaru Impreza WRC2000,FI,A8,"+6m 38,3s",0:30,NA,NA
+4,23,"Arai, Toshihiro",Subaru Impreza,JP,A8,"+7m 40,8s",0:20,NA,NA
+5,11,"Schwarz, Armin",Skoda Octavia WRC,DE,A8,"+9m 11,0s",0:30,NA,NA
+6,25,"Bakhashab, Abdullah",Toyota Corolla WRC,SA,A8,"+12m 54,9s",NA,NA,NA
+7,22,"Richelmi, Jean-Pierre",Subaru Impreza,MC,A8,"+13m 33,3s",NA,NA,NA
+8,26,"Dor, Frederic",Subaru Impreza,FR,A8,"+13m 59,8s",NA,NA,NA
+9,9,"Delecour, Francois",Peugeot 206WRC (2000),FR,A8,"+15m 12,3s",NA,NA,NA
+10,18,"Papadimitriou, Ioannis",Subaru Impreza,GR,A8,"+16m 21,6s",NA,NA,NA
+11,35,"Pozzo, Gabriel",Mitsubishi Lancer Evo VI,AR,N4,"+21m 57,0s",NA,NA,NA
+12,28,"Trelles, Gustavo",Mitsubishi Carisma GT Evo6,UY,N4,"+23m 09,8s",0:10,NA,NA
+13,29,"Stohl, Manfred",Mitsubishi Lancer Evo VI,AT,N4,"+23m 52,9s",1:00,NA,NA
+14,32,"Ferreyros, Ramon",Mitsubishi Lancer Evo VI,PE,N4,"+26m 22,3s",1:00,NA,NA
+15,27,"Yazici, Serkan",Toyota Corolla WRC,TU,A8,"+29m 52,5s",1:00,NA,NA
+16,38,"Bugalski, Philippe",Citroen Saxo,FR,A6,"+40m 00,5s",0:30,NA,NA
+17,57,"Recordati, Giovanni",Toyota Celica GT-Four (ST205),IT,A8,"+48m 20,1s",0:30,NA,NA
+18,43,"Hatzitsopanis, Sotiris",Ford Escort RS Cosworth,GR,A8,"+50m 46,1s",NA,NA,NA
+19,36,"Guest, Michael",Hyundai Coupe Kit Car Evo2,AU,A7,"+54m 01,9s",1:10,NA,NA
+20,42,"Maniatopoulos, Alexandros",Renault Megane,GR,A7,"+58m 23,6s",0:40,NA,NA
+21,66,"Colsoul, Bob",Mitsubishi Lancer Evo,BE,N4,"+1h 00m 15,7s",0:50,NA,NA
+22,45,"Moshoutis, Pavlos",Mitsubishi Lancer Evo III,GR,N4,"+1h 00m 50,5s",NA,NA,NA
+23,48,"Nassoulas, Dimitris",Mitsubishi Lancer Evo V,GR,N4,"+1h 02m 38,4s",0:50,NA,NA
+24,52,"Panagiotounis, Lazaros",Mitsubishi Lancer Evo VI,GR,N4,"+1h 06m 47,3s",NA,NA,NA
+25,74,"Skaltsas, Sotiris",Nissan Micra,GR,A5,"+1h 06m 50,9s",0:10,NA,NA
+26,50,"Petalidis, Theodoros",Subaru Impreza WRX,GR,N4,"+1h 10m 01,0s",1:10,NA,NA
+27,70,"Marty, Olivier",Peugeot 106,FR,A6,"+1h 10m 08,9s",0:20,NA,NA
+28,75,"Vazakas, Dimitris",Nissan Micra,GR,A5,"+1h 10m 10,2s",1:20,NA,NA
+29,76,"Halkias, Efthimios",Nissan Micra,GR,A5,"+1h 21m 00,9s",NA,NA,NA
+30,85,"Moshous, Pavlos",Nissan Micra,GR,A5,"+1h 24m 22,3s",0:10,NA,NA
+31,80,"Vomvilas, George",Hyundai Accent,GR,A6,"+1h 31m 27,4s",NA,NA,NA
+32,77,"Kotzias, Dimitris",Opel Corsa GSi,GR,A6,"+1h 43m 26,6s",12:20,NA,NA
+33,86,"Goussetis, Anastasios",Toyota Starlet,GR,A5,"+1h 44m 06,9s",NA,NA,NA
+34,90,"Lakafossis, Kostas",Toyota Starlet,GR,A5,"+1h 50m 08,4s",0:20,NA,NA
+35,96,"Georgakopoulos, Panagiotis",Seat Ibiza GTi 16V,GR,A7,"+1h 58m 49,5s",0:10,NA,NA
+36,93,"Loukas, George",Nissan Micra,GR,A5,"+2h 00m 14,0s",NA,NA,NA
+37,97,"Saradinakis, Alexander",Toyota Corolla,GR,A6,"+2h 01m 32,2s",3:30,NA,NA
+38,111,"Kounelis, Dimitris",Fiat Cinquecento,GR,A5,"+2h 06m 47,2s",1:00,NA,NA
+39,109,"Tringas, Spiros",Toyota Starlet,GR,A5,"+2h 12m 13,3s",0:40,NA,NA
+40,105,"Kounavis Stratis, Nikos",Toyota Starlet,GR,A5,"+2h 19m 11,9s",NA,NA,NA
+41,107,"Kehagias, Pashalis",Nissan Micra,GR,A5,"+2h 20m 04,4s",0:10,NA,NA
+42,112,"Kamoudis, Emmanouel",Toyota Starlet,GR,A5,"+2h 29m 46,2s",0:50,NA,NA
+43,114,"Papadimitriou, Dimitris",Nissan Micra,GR,A5,"+2h 37m 09,0s",1:00,NA,NA
+44,106,"Katsibaros, Mihalis",Nissan Micra,GR,A5,"+2h 44m 39,9s",2:50,NA,NA
+45,117,"Klikizos, Kosmas",Nissan Micra,GR,A5,"+3h 17m 25,5s",2:30,NA,NA
+46,100,'Iraklis',Nissan Sunny,GR,A7,"+3h 28m 28,1s",11:30,NA,NA
+47,101,"Moussourelis, Theodoros",Toyota Corolla,GR,A6,"+3h 31m 42,1s",3:10,NA,NA
+48,121,"Pinto dos Santos, Antonio",Renault 4 GTL,PT,N1,"+4h 16m 09,7s",3:00,NA,NA
+NA,1,"Makinen, Tommi",Mitsubishi Lancer Evo VI,FI,A8,NA,NA,SS5,hub shaft
+NA,2,"Loix, Freddy",Mitsubishi Carisma GT,BE,A8,NA,NA,TC2,rear suspension
+NA,3,"Burns, Richard",Subaru Impreza WRC2000,GB,A8,NA,NA,SS14,turbo
+NA,7,"Auriol, Didier",Seat Cordoba WRC Evo2,FR,A8,NA,NA,SS7,mechanical
+NA,8,"Gardemeister, Toni",Seat Cordoba WRC Evo2,FI,A8,NA,NA,SS10,steering arm
+NA,10,"Gronholm, Marcus",Peugeot 206WRC (2000),FI,A8,NA,NA,SS9,engine
+NA,12,"Climent, Luis",Skoda Octavia WRC,ES,A8,NA,NA,SS3,lost wheel
+NA,14,"Eriksson, Kenneth",Hyundai Accent WRC,SE,A8,NA,NA,SS3,engine
+NA,15,"McRae, Alister",Hyundai Accent WRC,GB,A8,NA,NA,TC5C,would have been OTL
+NA,16,"Solberg, Petter",Ford Focus WRC 00,NO,A8,NA,NA,TC19C,front differential
+NA,17,"Martin, Markko",Toyota Corolla WRC,EE,A8,NA,NA,SS3,mechanical
+NA,19,"Kirkos, Leonidas",Ford Escort WRC,GR,A8,NA,NA,SS10,power steering
+NA,20,"Holowczyc, Krzysztof",Subaru Impreza,PL,A8,NA,NA,SS3,off road
+NA,21,"Vovos, Armodios",Toyota Corolla WRC,GR,A8,NA,NA,SS12,oil sump
+NA,24,"al-Wahaibi, Hamed",Subaru Impreza,OM,A8,NA,NA,SS5,mechanical
+NA,30,"Nittel, Uwe",Mitsubishi Carisma GT Evo6,DE,N4,NA,NA,SS19,mechanical
+NA,31,"Colard, Pierre",Subaru Impreza,FR,A8,NA,NA,SS7,mechanical
+NA,33,"Mendez, Gabriel",Mitsubishi Lancer Evo VI,UY,N4,NA,NA,SS12,mechanical
+NA,34,"Menzi, Claudio Marcelo",Mitsubishi Lancer Evo VI,AR,N4,NA,NA,SS12,front suspension
+NA,37,"Princen, Kris",Renault Megane,BE,A7,NA,NA,SS11,wheel hub
+NA,39,"Finlay, Stephen",Ford Focus WRC,GB,A8,NA,NA,SS7,power steering
+NA,40,"Fisher, Mark",Peugeot 206 WRC,GB,A8,NA,NA,SS3,mechanical
+NA,41,"Hatzitsopanis, Panagiotis",Fiat Punto,GR,A6,NA,NA,SS5,off road
+NA,44,"Caldani, Nicola",Mitsubishi Lancer Evo VI,IT,N4,NA,NA,SS3,mechanical
+NA,46,"Nioras, Grigoris",Subaru Impreza,GR,N4,NA,NA,SS5,suspension
+NA,47,"Aliferis, Theodoros",Mitsubishi Lancer Evo III,GR,N4,NA,NA,SS3,mechanical
+NA,49,"Drivakos, Dimitris",Mitsubishi Lancer Evo V,GR,N4,NA,NA,SS14,mechanical
+NA,51,"Markouizos, Aris",Mitsubishi Lancer Evo VI,GR,N4,NA,NA,SS1,did not start stage
+NA,53,"Cavenagh, Alastair",Mitsubishi Lancer Evo VI,KE,N4,NA,NA,SS5,mechanical
+NA,54,"Kaltsounis, Haris",Opel Astra,GR,A7,NA,NA,SS11,mechanical
+NA,55,"Papaelias, Mihalis",Ford Escort WRC,GR,A8,NA,NA,SS2,mechanical
+NA,58,"Thergiakis, Thomas",Mitsubishi Carisma GT Evo5,GR,N4,NA,NA,SS3,electrical
+NA,59,"Quirola, Alfonso",Mitsubishi Carisma GT Evo6,EC,N4,NA,NA,SS2,mechanical
+NA,60,"Huisman, Marinus",Subaru Impreza,NL,N4,NA,NA,SS4,mechanical
+NA,61,"Lloyd, John",Subaru Impreza,GB,N4,NA,NA,SS5,mechanical
+NA,62,"Shiohatovich, Rami",Mitsubishi Lancer Evo,IL,N4,NA,NA,SS2,mechanical
+NA,64,"Spanos, Dionnissis",Lancia Delta Integrale,GR,N4,NA,NA,SS3,mechanical
+NA,65,"Theodorakopoulos, Andreas",Ford Escort RS Cosworth,GR,N4,NA,NA,SS5,mechanical
+NA,67,"Angelidis, George",Mercedes Benz 190,GR,A8,NA,NA,SS11,mechanical
+NA,68,"Zivas, Angelos",Toyota Corolla,GR,A6,NA,NA,SS7,transmission
+NA,69,"Panagiotopoulos, Emmanuel",Toyota Corolla,GR,A6,NA,NA,SS5,gearbox
+NA,71,"Tsadaris, Nikos",Peugeot 106,GR,A6,NA,NA,SS13,unknown
+NA,72,"Palaiologos, Alexandros",Toyota Corolla,GR,A6,NA,NA,SS8,transmission
+NA,73,"Morel, Fabrice",Peugeot 106,FR,A6,NA,NA,SS5,mechanical
+NA,78,"Maniadakis, Eleftherios",Toyota Corolla,GR,A6,NA,NA,SS8,transmission
+NA,79,"Reitsperger, Georg",Volkswagen Golf GTI 16V,AT,A7,NA,NA,SS9,mechanical
+NA,81,"Gallo, Evangelos",Peugeot 106,GR,A6,NA,NA,SS3,mechanical
+NA,82,"Margaronis, John",Hyundai Accent,GR,A6,NA,NA,SS13,mechanical
+NA,83,"Giagnissis, Panagiotis",Hyundai Accent,GR,A6,NA,NA,SS3,mechanical
+NA,84,"Psyllos, Dimitris",Toyota Starlet,GR,A5,NA,NA,SS5,mechanical
+NA,87,"Kourtessis, Haralambos",Nissan Micra,GR,A5,NA,NA,SS5,mechanical
+NA,88,"Dotsikas, Odysseas",Toyota Corolla,GR,A6,NA,NA,SS9,mechanical
+NA,89,"Klimatsakis, Minas",Toyota Starlet,GR,A5,NA,NA,SS7,mechanical
+NA,91,"Chrissafis, Nikos",Toyota Starlet,GR,A5,NA,NA,SS3,mechanical
+NA,92,"Kotzavassiloglou, Vassilis",Nissan Micra,GR,A5,NA,NA,SS3,mechanical
+NA,94,"Ganos, Antonios",Nissan Micra,GR,A5,NA,NA,SS6,mechanical
+NA,95,"Latsoudas, Spiros",Toyota Starlet,GR,A5,NA,NA,SS8,mechanical
+NA,98,"Karavangelis, Grigoris",Toyota Corolla,GR,A6,NA,NA,SS7,mechanical
+NA,99,"Gazetas, Dionissis",Toyota Corolla,GR,A6,NA,NA,SS2,engine
+NA,102,"Papakostas, George",Toyota Corolla,GR,A6,NA,NA,SS7,mechanical
+NA,103,"Vassilis, Dimitris",Toyota Corolla,GR,A6,NA,NA,SS8,mechanical
+NA,104,"Ladogiannis, Grigoris",Fiat Seicento Sporting,GR,A5,NA,NA,SS3,mechanical
+NA,108,"Tsiontzios, Antonis",Toyota Starlet,GR,A5,NA,NA,SS5,mechanical
+NA,110,"Koutsoupas, John",Lada Samara,GR,A6,NA,NA,SS16,mechanical
+NA,113,"Tsamakos, Apostolos",Lada Samara,GR,A6,NA,NA,SS7,mechanical
+NA,115,"Kotselis, George",Toyota Starlet,GR,A5,NA,NA,SS14,suspension
+NA,116,'Sacom',Nissan Micra,GR,A5,NA,NA,SS12,mechanical
+NA,118,"Stathaki, Christina Myrto",Toyota Starlet,GR,A5,NA,NA,SS5,mechanical
+NA,120,"Katsabekis, Themistoklis",Volkswagen Polo,GR,N1,NA,NA,SS13,unknown

@@ -1,0 +1,32 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,17,"Ogier, Sebastien",Toyota GR Yaris Rally1,FR,Rally1,"3h 16m 09,4s",NA,NA,NA
+2,11,"Neuville, Thierry",Hyundai i20 N Rally1,BE,Rally1,"+27,5s",NA,NA,NA
+3,33,"Evans, Elfyn",Toyota GR Yaris Rally1,GB,Rally1,"+27,9s",NA,NA,NA
+4,69,"Rovanpera, Kalle",Toyota GR Yaris Rally1,FI,Rally1,"+1m 55,3s",NA,NA,NA
+5,6,"Sordo Castillo, Daniel",Hyundai i20 N Rally1,ES,Rally1,"+2m 58,8s",NA,NA,NA
+6,20,"Greensmith, Fergus",Skoda Fabia,GB,Rally2,"+12m 31,5s",NA,NA,NA
+7,24,"Lindholm, Emil",Skoda Fabia,FI,Rally2,"+13m 04,4s",NA,NA,NA
+8,21,"Solberg, Oliver",Skoda Fabia,SE,Rally2,"+13m 37,7s",NA,NA,NA
+9,8,"Tanak, Ott",Ford Puma Rally1,EE,Rally1,"+15m 19,6s",NA,NA,NA
+10,25,"Kajetanowicz, Kajetan",Skoda Fabia,PL,Rally2,"+15m 56,6s",NA,NA,NA
+11,26,"Prokop, Martin",Ford Fiesta,CZ,Rally2,"+18m 56,1s",NA,NA,NA
+12,34,"Salas Valdez, Carlos",Skoda Fabia,MX,Rally2,"+24m 03,0s",0:10,NA,NA
+13,31,"Cordero de Avila, Ricardo",Citroen C3,MX,Rally2,"+27m 08,2s",2:00,NA,NA
+14,29,"Martinez, Jorge",Skoda Fabia,CL,Rally2,"+28m 06,9s",NA,NA,NA
+15,30,"Dominguez Jr., Diego",Ford Fiesta,PY,Rally3,"+30m 24,8s",NA,NA,NA
+16,22,"Fourmaux, Adrien",Ford Fiesta,FR,Rally2,"+30m 53,1s",0:10,NA,NA
+17,36,"Mauro Sanchez, Alejandro",Skoda Fabia,MX,Rally2,"+36m 10,9s",NA,NA,NA
+18,27,"Chwist, Daniel",Skoda Fabia,PL,Rally2,"+36m 17,7s",NA,NA,NA
+19,38,"Spitalier, Patrice",Renault Clio,MX,Rally5,"+46m 46,4s",NA,NA,NA
+20,37,"Bailey, Jason",Ford Fiesta,CA,Rally3,"+49m 50,5s",2:00,NA,NA
+21,28,"Castro, Eduardo",Skoda Fabia,PE,Rally2,"+53m 29,5s",NA,NA,NA
+22,42,"Retama, Emiliano",Renault Clio,MX,Rally5,"+54m 27,1s",0:10,NA,NA
+23,18,"Katsuta, Takamoto",Toyota GR Yaris Rally1,JP,Rally1,"+1h 04m 34,5s",NA,NA,NA
+24,35,"Coyne, John",Ford Fiesta,IE,Rally2,"+1h 14m 46,8s",4:10,NA,NA
+25,9,"Serderidis, Jourdan",Ford Puma Rally1,GR,Rally1,"+1h 34m 55,6s",NA,NA,NA
+26,7,"Loubet, Pierre-Louis",Ford Puma Rally1,FR,Rally1,"+1h 54m 02,0s",NA,NA,NA
+27,39,"Uriostegui, Gustavo-Alberto",Renault Clio,MX,Rally5,"+1h 57m 25,7s",1:10,NA,NA
+28,32,"Granados Cervera, Miguel-Antonio",Skoda Fabia,MX,Rally2,"+2h 01m 18,7s",NA,NA,NA
+NA,4,"Lappi, Esapekka",Hyundai i20 N Rally1,FI,Rally1,NA,NA,SS11,accident
+NA,23,"Gryazin, Nikolay",Skoda Fabia,RU,Rally2,NA,NA,SS4,accident
+NA,41,"Maggio, Rafael",Renault Clio,MX,Rally5,NA,NA,SS21,unknown

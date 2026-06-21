@@ -1,0 +1,34 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,5,"Neuville, Thierry",Hyundai i20 Coupe WRC,BE,RC1,"2h 35m 44,0s",NA,NA,NA
+2,2,"Tanak, Ott",Ford Fiesta RS WRC 2017,EE,RC1,"+22,5s",NA,NA,NA
+3,4,"Paddon, Hayden",Hyundai i20 Coupe WRC,NZ,RC1,"+59,1s",NA,NA,NA
+4,1,"Ogier, Sebastien",Ford Fiesta RS WRC 2017,FR,RC1,"+2m 27,7s",1:00,NA,NA
+5,3,"Evans, Elfyn",Ford Fiesta RS WRC 2017,GB,RC1,"+3m 05,6s",NA,NA,NA
+6,11,"Lappi, Esapekka",Toyota Yaris WRC,FI,RC1,"+3m 49,5s",NA,NA,NA
+7,9,"Meeke, Kris",Citroen C3 WRC,GB,RC1,"+22m 58,4s",NA,NA,NA
+8,61,"Dalton, Richie",Skoda Fabia,IE,RC2,"+24m 39,6s",NA,NA,NA
+9,68,"Quinn, Nathan",Mitsubishi Lancer Evo IX,AU,ASN,"+25m 03,4s",NA,NA,NA
+10,71,"Herridge, Dean",Subaru Impreza WRX,AU,ASN,"+29m 52,3s",NA,NA,NA
+11,21,"Serderidis, Jourdan",Citroen DS3 WRC,GR,RC1,"+32m 25,4s",NA,NA,NA
+12,31,"Rovanpera, Kalle",Ford Fiesta,FI,RC2,"+33m 16,3s",0:30,NA,NA
+13,6,"Mikkelsen, Andreas",Hyundai i20 Coupe WRC,NO,RC1,"+37m 39,7s",NA,NA,NA
+14,75,"Clarke, Tom",Mitsubishi Lancer Evo IX,AU,ASN,"+38m 20,4s",NA,NA,NA
+15,79,"Frisiero, Fabio",Peugeot 208,IT,ASN,"+39m 16,6s",NA,NA,NA
+16,77,"O'Dowd, John",Subaru Impreza WRX,AU,ASN,"+44m 46,8s",NA,NA,NA
+17,62,"Young, Mike",Citroen DS3,NZ,RC3,"+46m 14,8s",NA,NA,NA
+18,80,"Dunn, Peter",Subaru Impreza WRX,AU,ASN,"+51m 15,4s",NA,NA,NA
+19,72,"Brooks, Craig",Subaru Impreza WRX,AU,ASN,"+54m 00,7s",0:10,NA,NA
+20,78,"Bates, Lewis",Toyota Corolla S2000,AU,ASN,"+1h 06m 33,9s",2:50,NA,NA
+21,66,"Pinter, Rhys",Ford Fiesta,AU,RC4,"+1h 07m 54,8s",NA,NA,NA
+22,74,"Morton, Wayne",Toyota Corolla S2000,AU,ASN,"+1h 09m 58,1s",2:00,NA,NA
+23,81,"Beard, Mark",Subaru Impreza,AU,ASN,"+1h 11m 59,6s",NA,NA,NA
+24,69,"Evans, Eli",Mini Cooper,AU,ASN,"+1h 13m 03,7s",NA,NA,NA
+25,76,"Penny, Andrew",Subaru Impreza WRX,AU,ASN,"+1h 36m 45,5s",2:20,NA,NA
+NA,7,"Lefebvre, Stephane",Citroen C3 WRC,FR,RC1,NA,NA,TC18,mechanical
+NA,8,"Breen, Craig",Citroen C3 WRC,IE,RC1,NA,NA,SS18,mechanical
+NA,10,"Latvala, Jari-Matti",Toyota Yaris WRC,FI,RC1,NA,NA,SS21,mechanical
+NA,63,"Masumura, Atsushi",Mitsubishi Lancer Evo X,JP,RC2,NA,NA,TC8D,unknown
+NA,64,"Ito, Satoru",Mitsubishi Lancer Evo X,JP,RC2,NA,NA,TC8D,unknown
+NA,67,"Reeves, Brendan",Mazda 2,AU,ASN,NA,NA,SS9,mechanical
+NA,70,"Bates, Harry",Toyota Yaris,AU,ASN,NA,NA,TC8D,unknown
+NA,73,"Hatton, Justin",Mitsubishi Lancer Evo IX,AU,ASN,NA,NA,TC19A,mechanical

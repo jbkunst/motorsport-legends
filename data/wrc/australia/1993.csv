@@ -1,0 +1,19 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,6,"Kankkunen, Juha",Toyota Celica Turbo 4WD (ST185),FI,A8,5h 19m 58s,NA,NA,NA
+2,4,"Vatanen, Ari",Subaru Legacy RS,FI,A,+5m 52s,NA,NA,NA
+3,5,"Delecour, Francois",Ford Escort RS Cosworth,FR,A,+23m 44s,NA,NA,NA
+4,8,"Dunkerton, Ross",Mitsubishi Lancer Evo I,AU,A,+26m 20s,NA,NA,NA
+5,12,"Haider, Josef",Audi Coupe S2,AT,A,+29m 10s,NA,NA,NA
+6,7,"McRae, Colin",Subaru Legacy RS,GB,A,+36m 35s,NA,NA,NA
+7,13,"Ordynski, Ed",Mitsubishi Lancer Evo I,AU,N,+38m 44s,NA,NA,NA
+8,18,"Bates, Neal",Toyota Celica Turbo 4WD (ST185),AU,A,+44m 52s,NA,NA,NA
+9,21,"Inoue, Kiyoshi",Mitsubishi Lancer Evo I,JP,N,+49m 06s,NA,NA,NA
+10,22,"Officer, David",Mitsubishi Lancer Evo I,AU,N,+51m 45s,NA,NA,NA
+14,36,"Dines, Jacquiline",Mitsubishi Galant VR-4,AU,N,+1h 01m 15s,NA,NA,NA
+27,53,"Middleton, Brett",Daihatsu Charade 1.3i,AU,A,+1h 33m 25s,NA,NA,NA
+NA,1,"Sainz, Carlos",Lancia Delta HF Integrale,ES,A,NA,NA,SS2,accident
+NA,2,"Biasion, Massimo",Ford Escort RS Cosworth,IT,A,NA,NA,SS32,electrics
+NA,3,"Auriol, Didier",Toyota Celica Turbo 4WD (ST185),FR,A,NA,NA,SS6,engine
+NA,9,"Bourne, Peter",Subaru Legacy RS,NZ,A,NA,NA,SS2,fatal accident
+NA,11,"Recalde, Jorge",Lancia Delta HF Integrale,AR,N,NA,NA,SS2,accident
+NA,25,"Tajima, Nobuhiro",Suzuki Swift GTI,JP,A5,NA,NA,NA,engine

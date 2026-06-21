@@ -1,0 +1,119 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Loeb, Sebastien",Citroen DS3 WRC,FR,A0,"2h 39m 27,0s",0:10,NA,NA
+2,4,"Latvala, Jari-Matti",Ford Fiesta RS WRC,FI,A0,"+8,1s",NA,NA,NA
+3,2,"Ogier, Sebastien",Citroen DS3 WRC,FR,A0,"+12,8s",NA,NA,NA
+4,3,"Hirvonen, Mikko",Ford Fiesta RS WRC,FI,A0,"+1m 09,1s",NA,NA,NA
+5,11,"Solberg, Petter",Citroen DS3 WRC,NO,A0,"+1m 16,2s",NA,NA,NA
+6,6,"Ostberg, Mads",Ford Fiesta RS WRC,NO,A0,"+1m 27,8s",NA,NA,NA
+7,15,"Solberg, Henning",Ford Fiesta RS WRC,NO,A0,"+3m 25,5s",NA,NA,NA
+8,5,"Wilson, Matthew",Ford Fiesta RS WRC,GB,A0,"+3m 53,2s",NA,NA,NA
+9,8,"Raikkonen, Kimi",Citroen DS3 WRC,FI,A0,"+3m 59,8s",NA,NA,NA
+10,25,"Hanninen, Juho",Skoda Fabia Super 2000,FI,A2,"+5m 13,7s",NA,NA,NA
+11,9,"Kuipers, Dennis",Ford Fiesta RS WRC,NL,A0,"+7m 41,3s",NA,NA,NA
+12,21,"Prokop, Martin",Ford Fiesta S2000,CZ,A2,"+7m 51,4s",NA,NA,NA
+13,22,"Tanak, Ott",Ford Fiesta S2000,EE,A2,"+8m 52,0s",NA,NA,NA
+14,10,"al-Qassimi, Khalid",Ford Fiesta RS WRC,AE,A0,"+9m 47,8s",NA,NA,NA
+15,55,"Andersson, Per-Gunnar",Subaru Impreza,SE,A2,"+9m 54,7s",NA,NA,NA
+16,27,"Gassner jr, Hermann",Skoda Fabia Super 2000,DE,A2,"+11m 06,3s",NA,NA,NA
+17,29,"Turan, Frigyes",Ford Fiesta S2000,HU,A2,"+11m 24,9s",NA,NA,NA
+18,60,"Neiksans, Andis",Mitsubishi Lancer Evo X,LV,A3,"+12m 00,9s",NA,NA,NA
+19,138,"Paddon, Hayden",Subaru Impreza WRX,NZ,A3,"+12m 20,2s",NA,NA,NA
+20,17,"Araujo, Armindo",Mini John Cooper Works,PT,A0,"+12m 53,0s",NA,NA,NA
+21,124,"Nikara, Jarkko",Mitsubishi Lancer Evo IX,FI,A3,"+13m 00,4s",NA,NA,NA
+22,121,"Flodin, Patrik",Subaru Impreza WRX,SE,A3,"+13m 27,9s",NA,NA,NA
+23,125,"Ketomaki, Jukka",Mitsubishi Lancer Evo X,FI,A3,"+13m 33,4s",NA,NA,NA
+24,24,"Sousa, Bernardo",Ford Fiesta S2000,PT,A2,"+13m 53,1s",NA,NA,NA
+25,122,"Kosciuszko, Michal",Mitsubishi Lancer Evo X,PL,A3,"+14m 32,8s",NA,NA,NA
+26,150,"Pajunen, Mikko",Renault Clio,FI,A5,"+15m 10,9s",0:10,NA,NA
+27,26,"Kruuda, Karl",Skoda Fabia Super 2000,EE,A2,"+16m 43,8s",0:50,NA,NA
+28,57,"Eskelinen, Mikko",Mitsubishi Lancer Evo X,FI,A3,"+17m 24,1s",NA,NA,NA
+29,56,"Lehessaari, Mikko",Subaru Impreza WRX,FI,A3,"+17m 25,1s",NA,NA,NA
+30,61,"Parn, Sander",Subaru Impreza WRX,EE,A3,"+18m 12,4s",NA,NA,NA
+31,58,"Laivola, Ari",Peugeot 207 S2000,FI,A2,"+18m 51,6s",NA,NA,NA
+32,71,"Lappi, Esapekka",Citroen C2,FI,A6,"+19m 01,4s",NA,NA,NA
+33,64,"Lehtovirta, Petri",Mitsubishi Lancer Evo IX,FI,A3,"+19m 25,4s",NA,NA,NA
+34,73,"Korhonen, Jukka",Ford Fiesta,FI,A6,"+19m 39,8s",NA,NA,NA
+35,49,"Salo, Juha",Mitsubishi Lancer Evo X,FI,A2,"+22m 49,8s",NA,NA,NA
+36,93,"Villanueva, Alexander",Mitsubishi Lancer Evo X,ES,A3,"+23m 41,5s",0:10,NA,NA
+37,66,"Hamalainen, Kari",Ford Fiesta S2000,FI,A2,"+23m 57,6s",NA,NA,NA
+38,63,"Turkki, Mika",Mitsubishi Lancer Evo IX,FI,A3,"+24m 18,9s",NA,NA,NA
+39,65,"Burger, Kees",Subaru Impreza WRX,NL,A3,"+24m 32,5s",NA,NA,NA
+40,132,"Gorban, Valeriy",Mitsubishi Lancer Evo IX,UA,A3,"+25m 29,0s",1:00,NA,NA
+41,72,"Pinomaki, Kalle",Renault Twingo,FI,A6,"+25m 49,2s",1:00,NA,NA
+42,88,"Pasanen, Juha",Subaru Impreza WRX,FI,A3,"+27m 15,0s",0:10,NA,NA
+43,83,"Yritys, Kristian",Citroen C2,FI,A6,"+29m 17,6s",NA,NA,NA
+44,69,"Shaymiev, Radik",Peugeot 207 S2000,RU,A2,"+30m 27,3s",0:20,NA,NA
+45,94,"Pakarinen, Joni",Mitsubishi Lancer Evo IX,FI,A3,"+30m 28,2s",NA,NA,NA
+46,80,"Virtanen, Jouni",Subaru Impreza WRX,FI,A3,"+30m 54,6s",NA,NA,NA
+47,85,"Kiviniemi, Kristian",Honda Civic Type-R,FI,A8,"+31m 52,8s",0:30,NA,NA
+48,96,"Hytonen, Kari",Ford Fiesta,FI,A6,"+32m 12,6s",0:40,NA,NA
+49,12,"Oliveira, Daniel Rolim",Mini John Cooper Works,BR,A0,"+34m 01,6s",NA,NA,NA
+50,152,"Jokinen, Santeri",Honda Civic Type-R,FI,A8,"+34m 04,6s",NA,NA,NA
+51,131,"Kikireshko, Oleksii",Mitsubishi Lancer Evo IX,UA,A3,"+34m 26,0s",NA,NA,NA
+52,133,"Tagirov, Dmitry",Subaru Impreza WRX,RU,A3,"+34m 54,4s",NA,NA,NA
+53,153,"Berg, Janne",Ford Fiesta,FI,A6,"+35m 26,1s",NA,NA,NA
+54,76,"Nieminen, Niko-Pekka",Ford Fiesta,FI,A6,"+36m 00,4s",NA,NA,NA
+55,91,"Zivian, Andrea",Mitsubishi Lancer Evo IX,IT,A3,"+36m 43,1s",NA,NA,NA
+56,95,"Kirvesmaki, Ari",Mitsubishi Lancer Evo IX,FI,A3,"+37m 26,2s",NA,NA,NA
+57,75,"Tukiainen, Tomi",Citroen C2,FI,A6,"+39m 27,5s",NA,NA,NA
+58,98,"Kariste, Ilkka",Ford Fiesta ST,FI,A8,"+42m 14,9s",NA,NA,NA
+59,100,"Valme, Sami",Citroen C2,FI,A6,"+47m 07,5s",2:40,NA,NA
+60,156,"de Sanctis, Fabrizio",Mitsubishi Lancer Evo IX,IT,A3,"+50m 03,7s",NA,NA,NA
+61,86,"Veikkanen, Niko",Renault Clio,FI,A5,"+53m 18,7s",0:20,NA,NA
+62,51,"Therman, Mattias",Mini John Cooper Works,FI,A0,"+1h 03m 05,2s",2:30,NA,NA
+63,162,"Siikonen, Janne",Skoda Felicia,FI,A9,"+1h 05m 48,1s",0:20,NA,NA
+64,158,"Pyhala, Sami",Skoda Felicia,FI,A7,"+1h 05m 58,6s",NA,NA,NA
+65,89,"Ortfeldt, Oscar",Subaru Impreza WRX,SE,A3,"+1h 16m 08,3s",2:20,NA,NA
+66,77,"Plangi, Siim",Honda Civic Type-R,EE,A5,"+1h 22m 53,5s",4:00,NA,NA
+NA,16,"Novikov, Evgeny",Ford Fiesta RS WRC,RU,A0,NA,NA,TC16A,mechanical
+NA,18,"Rantanen, Matti",Mini John Cooper Works,FI,A0,NA,NA,SS2,mechanical
+NA,19,"Ketomaa, Jari",Ford Fiesta RS WRC,FI,A0,NA,NA,SS8,mechanical
+NA,28,"Brynildsen, Eyvind",Skoda Fabia Super 2000,NO,A2,NA,NA,SS4,mechanical
+NA,30,"Llovera, Albert",Fiat Grande Punto Abarth S2000,AD,A2,NA,NA,TC3A,mechanical
+NA,37,"Sordo Castillo, Daniel",Mini John Cooper Works,ES,A0,NA,NA,TC21A,mechanical
+NA,50,"Lindroos, Joonas",Skoda Fabia Super 2000,FI,A2,NA,NA,SS8,mechanical
+NA,52,"Meeke, Kris",Mini John Cooper Works,GB,A0,NA,NA,TC20,mechanical
+NA,53,"Kuipers, Rene",Ford Fiesta RS WRC,NL,A0,NA,NA,SS17,off road
+NA,54,"Mikkelsen, Andreas",Skoda Fabia Super 2000,NO,A2,NA,NA,TC18,mechanical
+NA,59,"Salomaa, Jani",Mitsubishi Lancer Evo IX,FI,A3,NA,NA,TC14,mechanical
+NA,67,"Cherkasov, Evgeny",Subaru Impreza WRX,RU,A3,NA,NA,SS2,mechanical
+NA,68,"Pulkkinen, Timo",Subaru Impreza WRX,FI,A3,NA,NA,TC18,mechanical
+NA,74,"Evans, Elfyn",Ford Fiesta,GB,A6,NA,NA,TC20,mechanical
+NA,78,"Kangur, Martin",Honda Civic Type-R,EE,A5,NA,NA,SS14,off road
+NA,81,"Nobre, Paulo",Mitsubishi Lancer Evo X,BR,A2,NA,NA,SS19,off road
+NA,82,"Komsi, Jarmo",Mitsubishi Lancer Evo IX,FI,A3,NA,NA,SS18,mechanical
+NA,84,"Larsen, Frank Tore",Ford Fiesta,NO,A6,NA,NA,SS2,mechanical
+NA,87,"Dahlstrom, Christoffer",Ford Fiesta,FI,A6,NA,NA,SS7,mechanical
+NA,90,"Szabo, Zoltan",Mitsubishi Lancer Evo IX,HU,A3,NA,NA,SS14,mechanical
+NA,97,"Weurlander, Tomi",Citroen C2,FI,A6,NA,NA,TC3C,mechanical
+NA,99,"Itkonen, Petri",Citroen C2,FI,A6,NA,NA,SS12,mechanical
+NA,101,"Fisher, Alastair",Ford Fiesta,GB,A6,NA,NA,TC8,mechanical
+NA,102,"Suarez Miranda, Jose Antonio",Ford Fiesta,ES,A6,NA,NA,end of Day 2,WRC Academy
+NA,103,"Crugnola, Andrea",Ford Fiesta,IT,A6,NA,NA,SS12,off road
+NA,104,"Cerny, Jan",Ford Fiesta,CZ,A6,NA,NA,end of Day 2,WRC Academy
+NA,105,"Niinemae, Miko-Ove",Ford Fiesta,EE,A6,NA,NA,end of Day 2,WRC Academy
+NA,106,"Reeves, Brendan",Ford Fiesta,AU,A6,NA,NA,end of Day 2,WRC Academy
+NA,108,"Kaur, Egon",Ford Fiesta,EE,A6,NA,NA,end of Day 2,WRC Academy
+NA,109,"Breen, Craig",Ford Fiesta,IE,A6,NA,NA,end of Day 2,WRC Academy
+NA,110,"Lemes Macias, Yeray",Ford Fiesta,ES,A6,NA,NA,end of Day 2,WRC Academy
+NA,111,"Henriksson, Victor",Ford Fiesta,SE,A6,NA,NA,SS6,mechanical
+NA,112,"Karyakin, Sergey",Ford Fiesta,RU,A6,NA,NA,end of Day 2,WRC Academy
+NA,113,"Baldoni, Miguel-Angel",Ford Fiesta,AR,A6,NA,NA,TC14,mechanical
+NA,114,"Ahlin, Fredrik",Ford Fiesta,SE,A6,NA,NA,SS7,mechanical
+NA,115,"Taylor, Molly",Ford Fiesta,AU,A6,NA,NA,end of Day 2,WRC Academy
+NA,116,"Riedemann, Christian",Ford Fiesta,DE,A6,NA,NA,end of Day 2,WRC Academy
+NA,118,"van der Marel, Jan Timo",Ford Fiesta,NL,A6,NA,NA,end of Day 2,WRC Academy
+NA,126,"Semerad, Martin",Mitsubishi Lancer Evo IX,CZ,A3,NA,NA,SS4,mechanical
+NA,127,"Hunt, Harry",Citroen DS3,GB,A5,NA,NA,TC11D,mechanical
+NA,128,"al-Shamsi, Majed",Subaru Impreza WRX,AE,A3,NA,NA,SS17,off road
+NA,129,"al-Jabri, Bader",Subaru Impreza WRX,AE,A3,NA,NA,SS1,mechanical
+NA,130,"Saliuk, Oleksandr",Mitsubishi Lancer Evo IX,UA,A3,NA,NA,SS4,off road
+NA,135,"Fuchs Sierlecki, Nicolas",Mitsubishi Lancer Evo X,PE,A3,NA,NA,SS14,mechanical
+NA,139,"Guerra Latapi, Benito",Mitsubishi Lancer Evo X,MX,A3,NA,NA,SS17,mechanical
+NA,149,"Tahko, Riku",Mitsubishi Lancer Evo X,FI,A3,NA,NA,SS4,mechanical
+NA,151,"Covi, Carlo",Subaru Impreza WRX,IT,A3,NA,NA,TC11D,mechanical
+NA,154,"Pastila, Ilkka",Citroen Saxo,FI,A9,NA,NA,SS12,off road
+NA,155,"Kaisanlahti, Raimo",Ford Fiesta,FI,A6,NA,NA,SS1,mechanical
+NA,159,"Kortelainen, Matti",Suzuki Swift,FI,A9,NA,NA,SS22,mechanical
+NA,160,"Koskelainen, Kari",Skoda Felicia,FI,A7,NA,NA,SS5,mechanical
+NA,161,"Vuorio, Pekka",Skoda Fabia,FI,A7,NA,NA,SS1,mechanical

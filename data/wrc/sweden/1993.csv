@@ -1,0 +1,18 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Jonsson, Mats",Toyota Celica Turbo 4WD (ST185),SE,A8,4h 49m 05s,NA,NA,NA
+2,3,"Kankkunen, Juha",Toyota Celica Turbo 4WD (ST185),FI,A,+13s,NA,NA,NA
+3,2,"McRae, Colin",Subaru Legacy RS,GB,A,+28s,NA,NA,NA
+4,9,"Makinen, Tommi",Lancia Delta HF Integrale,FI,A,+3m 46s,NA,NA,NA
+5,17,"Johansson, Bjorn",Mazda 323 GT-R,SE,A,+8m 30s,NA,NA,NA
+6,10,"Eklund, Per",Subaru Legacy RS,SE,A,+9m 30s,NA,NA,NA
+7,12,"Haider, Josef",Audi Coupe S2,AT,A,+16m 41s,NA,NA,NA
+8,21,"Backlund, Kenneth",Mitsubishi Galant VR-4,SE,N,+18m 25s,NA,NA,NA
+9,13,"Kytolehto, Jarmo",Mitsubishi Galant VR-4,FI,N,+19m 19s,NA,NA,NA
+10,28,"Svan, Per",Opel Astra,SE,A,+23m 00s,NA,NA,NA
+NA,4,"Blomqvist, Stig",Opel Calibra Turbo 4x4,SE,A,NA,NA,SS21,engine
+NA,5,"Mikkola, Hannu",Subaru Legacy RS,FI,A,NA,NA,SS23,engine
+NA,6,"Auriol, Didier",Toyota Celica Turbo 4WD (ST185),FR,A,NA,NA,SS26,oil leak and illegal service
+NA,7,"Ericsson, Mikael",Ford Escort RS Cosworth,SE,A,NA,NA,SS4,clutch
+NA,8,"Lindholm, Sebastian",Ford Escort RS Cosworth,FI,A,NA,NA,SS17,engine
+NA,11,"Wilson, Malcolm",Ford Escort RS Cosworth,GB,A,NA,NA,SS2,accident
+NA,16,"Jansson, Tomas",Toyota Celica GT-4 (ST165),SE,A,NA,NA,SS4,engine

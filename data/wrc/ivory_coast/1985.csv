@@ -1,0 +1,12 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"Kankkunen, Juha",Toyota Celica Twincam Turbo,FI,B,4h 46m,NA,NA,NA
+2,1,"Waldegard, Bjorn",Toyota Celica Twincam Turbo,SE,B,+0m,NA,NA,NA
+3,5,"Ambrosino, Alain",Nissan 240 RS,FR,B,+1h 33m,NA,NA,NA
+4,4,"Kirkland, Mike",Nissan 240 RS,KE,B,+3h 50m,NA,NA,NA
+5,9,"Salim, Eugene",Mitsubishi Lancer 2000 Turbo,CI,B,+11h 50m,NA,NA,NA
+6,20,"Molino, Alessandro",Subaru Leone 4WD,IT,A,+15h 07m,NA,NA,NA
+7,49,"Petit de Granville, Gilles",Toyota Celica,CI,A,+17h 48m,NA,NA,NA
+8,33,"Dieval, Doic",Mitsubishi Lancer,CI,A,+20h 38m,NA,NA,NA
+NA,2,"Mouton, Michele",Audi quattro Sport,FR,B,NA,NA,TC62,mystery
+NA,6,"Tauziac, Patrick",Mitsubishi Colt,FR,A,NA,NA,TC37,rear suspension
+NA,7,"Assef, Samir",Opel Manta 400,CI,B,NA,NA,TC9,OTL

@@ -1,0 +1,61 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"Hirvonen, Mikko",Ford Focus RS WRC 07,FI,A8,"4h 42m 07,1s",NA,NA,NA
+2,4,"Latvala, Jari-Matti",Ford Focus RS WRC 07,FI,A8,"+7,9s",NA,NA,NA
+3,1,"Loeb, Sebastien",Citroen C4 WRC,FR,A8,"+25,7s",NA,NA,NA
+4,2,"Sordo Castillo, Daniel",Citroen C4 WRC,ES,A8,"+2m 25,6s",NA,NA,NA
+5,8,"Solberg, Henning",Ford Focus RS WRC 07,NO,A8,"+2m 33,7s",NA,NA,NA
+6,5,"Solberg, Petter",Subaru Impreza WRC2008,NO,A8,"+2m 48,2s",NA,NA,NA
+7,16,"Wilson, Matthew",Ford Focus RS WRC 07,GB,A8,"+4m 23,2s",NA,NA,NA
+8,14,"Rautenbach, Conrad",Citroen C4 WRC,ZW,A8,"+7m 46,7s",NA,NA,NA
+9,9,"Villagra, Federico",Ford Focus RS WRC 07,AR,A8,"+9m 34,1s",0:10,NA,NA
+10,10,"Clark, Barry",Ford Focus RS WRC 07,GB,A8,"+14m 48,8s",NA,NA,NA
+11,41,"Aigner, Andreas",Mitsubishi Lancer Evo IX,AT,N4,"+20m 14,5s",NA,NA,NA
+12,55,"Sandell, Patrik",Peugeot 207 S2000,SE,N4,"+21m 03,2s",0:10,NA,NA
+13,6,"Atkinson, Christopher",Subaru Impreza WRC2008,AU,A8,"+22m 36,5s",2:40,NA,NA
+14,32,"Baldacci, Mirco",Mitsubishi Lancer Evo IX,SM,N4,"+23m 15,5s",2:10,NA,NA
+15,57,"Rauam, Martin",Mitsubishi Lancer Evo IX,EE,N4,"+25m 45,5s",0:50,NA,NA
+16,50,"Araujo, Armindo",Mitsubishi Lancer Evo IX,PT,N4,"+26m 38,1s",0:20,NA,NA
+17,43,"Vertunov, Evgeny",Subaru Impreza,RU,N4,"+27m 07,5s",NA,NA,NA
+18,49,"Campedelli, Simone",Mitsubishi Lancer Evo IX,IT,N4,"+32m 33,6s",NA,NA,NA
+19,15,"Mikkelsen, Andreas",Ford Focus RS WRC 06,NO,A8,"+33m 13,5s",1:30,NA,NA
+20,47,"Bacco, Giorgio",Subaru Impreza,IT,N4,"+43m 07,2s",NA,NA,NA
+21,34,"Linari, Gianluca",Subaru Impreza,IT,N4,"+43m 45,6s",1:00,NA,NA
+22,65,"Unal, Hamdi",Fiat Punto S1600,TU,A6,"+48m 34,7s",NA,NA,NA
+23,39,"al-Attiyah, Nasser",Subaru Impreza,QA,N4,"+54m 21,3s",NA,NA,NA
+24,42,"Sousa, Bernardo",Mitsubishi Lancer Evo IX,PT,N4,"+58m 43,6s",NA,NA,NA
+25,76,"Cetinkaya Bonnet, Burcu",Ford Fiesta ST,TU,N3,"+1h 03m 18,2s",NA,NA,NA
+26,70,"Yurdakul, Emre",Ford Fiesta ST,TU,N3,"+1h 03m 49,9s",NA,NA,NA
+27,40,"Errani, Riccardo",Mitsubishi Lancer Evo IX,IT,N4,"+1h 10m 19,4s",NA,NA,NA
+28,71,"Soylemez, Mustafa",Mitsubishi Lancer Evo IX,TU,N4,"+1h 10m 25,5s",2:00,NA,NA
+29,85,"Senbahar, Unal",Ford Fiesta ST,TU,N3,"+1h 23m 31,3s",NA,NA,NA
+30,79,"Savkay, Berkay",Ford Fiesta ST,TU,N3,"+1h 35m 37,3s",0:40,NA,NA
+31,95,"Onkok, Ali",Fiat Palio,TU,N2,"+1h 38m 07,9s",0:30,NA,NA
+32,75,"Oktem, Tarik",Ford Fiesta ST,TU,N3,"+1h 55m 45,4s",0:30,NA,NA
+33,94,"Derici, Suleyman",Fiat Palio,TU,N2,"+1h 57m 51,4s",1:20,NA,NA
+34,69,"Ozer, Ozen",Opel Corsa S1600,TU,A6,"+2h 07m 38,2s",4:40,NA,NA
+35,80,"Aksoy, Berna",Ford Fiesta ST,TU,N3,"+2h 09m 06,9s",2:00,NA,NA
+36,86,"Bostanci, Murat",Ford Ka,TU,A5,"+2h 19m 19,2s",0:30,NA,NA
+37,83,"Vatankhah, Zohreh",Ford Fiesta ST,IR,A7,"+2h 45m 41,2s",NA,NA,NA
+NA,7,"Galli, Gianluigi",Ford Focus RS WRC 07,IT,A8,NA,NA,TC16D,medical
+NA,11,"Gardemeister, Toni",Suzuki SX4 WRC,FI,A8,NA,NA,SS15,unknown
+NA,12,"Andersson, Per-Gunnar",Suzuki SX4 WRC,SE,A8,NA,NA,SS15,unknown
+NA,17,"Aava, Urmo",Citroen C4 WRC,EE,A8,NA,NA,TC19C,unknown
+NA,31,"Arai, Toshihiro",Subaru Impreza,JP,N4,NA,NA,TC16D,unknown
+NA,33,"Prokop, Martin",Mitsubishi Lancer Evo IX,CZ,N4,NA,NA,TC11A,service infringement
+NA,35,"Novikov, Evgeny",Mitsubishi Lancer Evo IX,RU,N4,NA,NA,TC9C,unknown
+NA,36,"Brynildsen, Eyvind",Mitsubishi Lancer Evo IX,NO,N4,NA,NA,SS15,unknown
+NA,38,"Farrah, Amjad",Mitsubishi Lancer Evo IX,JO,N4,NA,NA,TC9D,unknown
+NA,45,"Trevisin, Francesco",Subaru Impreza,IT,N4,NA,NA,TC9D,unknown
+NA,48,"Aksakov, Evgeni",Mitsubishi Lancer Evo IX,RU,N4,NA,NA,TC9C,unknown
+NA,53,"Nittel, Uwe",Mitsubishi Lancer Evo IX,DE,N4,NA,NA,SS17,unknown
+NA,58,"Kumar, Naren",Subaru Impreza,IN,N4,NA,NA,SS15,unknown
+NA,64,"Cenedese, Moreno",Mitsubishi Lancer Evo IX,IT,N4,NA,NA,TC9D,unknown
+NA,67,"Erdem, Omer",Mitsubishi Lancer Evo VIII,TU,N4,NA,NA,TC9D,unknown
+NA,72,"Baranauskas, Vytautas",Ford Fiesta ST,LT,N3,NA,NA,SS18,unknown
+NA,73,"Kucuksari, Adil",Ford Fiesta ST,TU,A7,NA,NA,SS19,unknown
+NA,74,"Muratoglu, Koray",Ford Fiesta ST,TU,N3,NA,NA,TC9D,unknown
+NA,77,"Grodetskiy, Denis",Ford Fiesta ST,RU,N3,NA,NA,TC17A,unknown
+NA,78,"Muller-Wende, Joachim",Ford Fiesta ST,DE,N3,NA,NA,SS19,unknown
+NA,84,"Okur, Menderes",Ford Fiesta ST,TU,N3,NA,NA,SS18,unknown
+NA,87,"Diker, Mitat",Fiat Palio,TU,N2,NA,NA,SS19,unknown
+NA,92,"Kaya, Selay",Ford Fiesta ST,TU,N3,NA,NA,TC9D,unknown

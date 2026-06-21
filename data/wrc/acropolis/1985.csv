@@ -1,0 +1,18 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,5,"Salonen, Timo",Peugeot 205 Turbo 16,FI,B,10h 20m 19s,NA,NA,NA
+2,1,"Blomqvist, Stig",Audi quattro Sport,SE,B,+4m 15s,NA,NA,NA
+3,9,"Carlsson, Ingvar",Mazda RX7,SE,B,+48m 06s,NA,NA,NA
+4,4,"Mehta, Shekhar",Nissan 240 RS,KE,B,+50m 27s,NA,NA,NA
+5,12,"al-Hajri, Saeed",Porsche 911SC RS,QA,B,+1h 01m 31s,NA,NA,NA
+6,14,"Warmbold, Achim",Mazda RX7,DE,B,+1h 04m 57s,NA,NA,NA
+7,6,"Kirkland, Mike",Nissan 240 RS,KE,B,+1h 07m 32s,NA,NA,NA
+8,8,"Moschous, George",Nissan 240 RS,GR,B,+1h 25m 33s,NA,NA,NA
+9,17,"Wittman, Franz",Volkswagen Golf GTi,AT,A,+1h 46m 16s,NA,NA,NA
+10,11,"Hatzipanayiotou, Stratis",Nissan 240 RS,GR,B,+1h 55m 34s,NA,NA,NA
+42,102,"Klein, Ewald",Toyota Corolla,DE,N,+4h 34m 49s,NA,NA,NA
+NA,2,"Vatanen, Ari",Peugeot 205 Turbo 16,FI,B,NA,NA,SS1,steering
+NA,3,"Rohrl, Walter",Audi quattro Sport,DE,B,NA,NA,SS1,brakes
+NA,7,"Zanussi, Andrea",Lancia Rally 037,IT,B,NA,NA,SS30,accelerator cable
+NA,10,"Pregliasco, Mauro",Lancia Rally 037,IT,B,NA,NA,SS37,brakes
+NA,20,"Kleint, Jochi",Volkswagen Golf GTi,DE,A,NA,NA,SS15,driveshaft
+NA,117,"Cygan, Wieslaw",Polski-Fiat 126p,PL,G2,NA,NA,NA,OTL

@@ -1,0 +1,41 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,14,"Kallstrom, Harry",Datsun Violet,SE,G4,8h 43m 14s,NA,NA,NA
+2,4,"Livieratos, Tassos",Renault-Alpine A110,GR,G4,+5m 24s,NA,NA,NA
+3,5,"Mehta, Shekhar",Datsun Violet,KE,G4,+26m 39s,NA,NA,NA
+4,15,"Moschous, George",Alfa Romeo Alfetta GT,GR,G4,+49m 09s,NA,NA,NA
+5,47,"Russling, Klaus",Opel Ascona,AT,G2,+1h 09m 04s,NA,NA,NA
+6,117,"Brundza, Stasis",Lada 1500,SU,G2,+1h 11m 02s,NA,NA,NA
+7,38,"Papadamandiou, Joannis",BMW 2002,GR,G2,+1h 58m 43s,NA,NA,NA
+8,134,"Schirnhofer, Leo",Volkswagen 1303S,AT,G1,+1h 59m 36s,NA,NA,NA
+9,100,"Rausch, Horst",BMW 2002,DE,G1,+2h 03m 05s,NA,NA,NA
+10,86,"Niebergall, Horst",Wartburg 353,DD,G2,+2h 14m 30s,NA,NA,NA
+11,52,"Trautmann, Henri",Peugeot 504,FR,G2,+2h 15m 20s,NA,NA,NA
+12,107,"Kerc, Alain",Peugeot 504,FR,NA,+2h 15m 40s,NA,NA,NA
+13,109,"Pagani, Pierre",Peugeot 504,FR,NA,+2h 19m 06s,NA,NA,NA
+14,120,"Lekkas, J.",Audi 80,GR,NA,+2h 21m 28s,NA,NA,NA
+15,102,"Ripper, Karl",Opel Kadett GT/E,AT,NA,+2h 22m 27s,NA,NA,NA
+16,143,"Culmbacher, Egon",Wartburg 353,DE,NA,+2h 24m 41s,NA,NA,NA
+17,101,"Moschous, Michael",Alfa Romeo Alfetta,GR,NA,+2h 41m 06s,NA,NA,NA
+18,48,"Spanos, D.",BMW 2002Tii,GR,NA,+2h 41m 39s,NA,NA,NA
+19,139,"Lapie, Patrick",Citroen CX2200,FR,G1,+2h 41m 59s,NA,NA,NA
+20,60,"Kyprianou, Kypros",Hillman Avenger,CY,NA,+2h 42m 27s,NA,NA,NA
+21,106,"Mexis, Costas",? Unknown Make ? ? Unknown Model ?,GR,NA,+2h 42m 41s,NA,NA,NA
+22,50,"Hetzer, Heidi",? Unknown Make ? ? Unknown Model ?,DE,NA,+2h 48m 38s,NA,NA,NA
+23,70,"Papatriantafilou, Andreas",? Unknown Make ? ? Unknown Model ?,GR,NA,+2h 57m 16s,NA,NA,NA
+24,126,"Corres, Evripides",? Unknown Make ? ? Unknown Model ?,NA,NA,+2h 58m 15s,NA,NA,NA
+25,144,"Seltmann, Ehrenfried",? Unknown Make ? ? Unknown Model ?,DD,NA,+3h 13m 23s,NA,NA,NA
+26,68,"Koulentianos, Antonis",? Unknown Make ? ? Unknown Model ?,GR,NA,+3h 16m 09s,NA,NA,NA
+27,49,"Virbilis, B.",? Unknown Make ? ? Unknown Model ?,NA,NA,+3h 32m 16s,NA,NA,NA
+28,43,'Pavlos',? Unknown Make ? ? Unknown Model ?,GR,NA,+3h 35m 01s,NA,NA,NA
+29,80,"Kissandrakis, M.",? Unknown Make ? ? Unknown Model ?,GR,NA,+3h 36m 42s,NA,NA,NA
+30,62,"Halivelakis, Emmanouil",? Unknown Make ? ? Unknown Model ?,GR,NA,+3h 44m 21s,NA,NA,NA
+31,89,"Agelopoulos, G.",? Unknown Make ? ? Unknown Model ?,NA,NA,+4h 03m 19s,NA,NA,NA
+32,29,"Dulcy, Bernard",Porsche 911,FR,G3,+4h 12m 26s,NA,NA,NA
+33,91,"Gatsios, A.",? Unknown Make ? ? Unknown Model ?,NA,NA,+4h 16m 30s,NA,NA,NA
+34,133,"Mousorelis, Theodoros",? Unknown Make ? ? Unknown Model ?,GR,NA,+4h 28m 28s,NA,NA,NA
+NA,2,"Andersson, Ove",Toyota Celica,SE,G4,NA,NA,NA,halfshaft
+NA,3,"Waldegard, Bjorn",Lancia Stratos HF,SE,G4,NA,NA,NA,oil pipe
+NA,6,"Mikkola, Hannu",Toyota Corolla,FI,G4,NA,NA,NA,injector pump
+NA,7,"Pinto, Raffaele",Lancia Stratos HF,IT,G4,NA,NA,NA,driveshaft
+NA,11,"Pregliasco, Mauro",Lancia Stratos HF,IT,G4,NA,NA,NA,clutch
+NA,16,"Ragnotti, Jean",Renault-Alpine A310,FR,G4,NA,NA,NA,rear suspension

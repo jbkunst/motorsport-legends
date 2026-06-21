@@ -1,0 +1,101 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Bacchelli, Fulvio",Fiat 131 Abarth,IT,G4,24h 29m 55s,NA,NA,NA
+2,2,"Vatanen, Ari",Ford Escort RS1800,FI,G4,+1m 34s,NA,NA,NA
+3,3,"Alen, Markku",Fiat 131 Abarth,FI,G4,+21m 59s,NA,NA,NA
+4,5,"Lampinen, Simo",Fiat 131 Abarth,FI,G4,+25m 52s,NA,NA,NA
+5,6,"Millen, Rod",Mazda RX3,NZ,G4,+1h 18m 04s,NA,NA,NA
+6,14,"Woolf, John",Mazda RX3,NZ,G4,+1h 39m 44s,NA,NA,NA
+7,34,"Sergel, John",Ford Escort RS1800,NZ,G4,+3h 42m 53s,NA,NA,NA
+8,39,"Tippett, Richard",Ford Escort RS2000,NZ,G2,+3h 51m 50s,NA,NA,NA
+9,46,"Chandler, Morrie",Mitsubishi Colt Lancer,NZ,G4,+3h 56m 46s,NA,NA,NA
+10,22,"Brough, Alan",Toyota Trueno,NZ,G2,+4h 15m 18s,NA,NA,NA
+11,66,"McKenzie, Bruce",Ford Escort RS1600,NZ,G2,+4h 24m 08s,NA,NA,NA
+12,36,"Brown, Robert",Mazda RX3,NZ,G1,+4h 25m 25s,NA,NA,NA
+13,37,"Morris, Dave",Vauxhall Firenza,NZ,G2,+4h 30m 56s,NA,NA,NA
+14,21,"Baker, Tony",Datsun 120Y,NZ,NA,+4h 39m 41s,NA,NA,NA
+15,19,"Kuttel, George",Ford Escort RS1800,NZ,G2,+4h 44m 12s,NA,NA,NA
+16,42,"Parkes, David",Ford Escort,NZ,NA,+4h 58m 15s,NA,NA,NA
+17,30,"Rawstrong, Brent",Toyota,NZ,G2,+5h 10m 45s,NA,NA,NA
+18,91,"Russ, Steve",Mazda RX3,NZ,G2,+5h 11m 58s,NA,NA,NA
+19,31,"Johns, Neil",Mazda RX3,NZ,G4,+5h 29m 10s,NA,NA,NA
+20,49,"Andrews, Bryan",Ford Escort RS2000,NZ,NA,+5h 34m 26s,NA,NA,NA
+21,44,"Goldsbury, Alfred",Mazda RX3,NZ,G4,+5h 36m 41s,NA,NA,NA
+22,82,"McKenzie, Stewart",Datsun 1200,NZ,NA,+5h 43m 01s,NA,NA,NA
+23,86,"Bell, Terry",Ford Escort,NZ,NA,+5h 53m 13s,NA,NA,NA
+24,64,"Donohue, Steve",Mazda RX3,NZ,G2,+6h 07m 21s,NA,NA,NA
+25,69,"Scott, Bill",Ford Escort,NZ,NA,+6h 07m 35s,NA,NA,NA
+26,76,"Powell, Bruce",Mazda RX3,NZ,G4,+6h 10m 12s,NA,NA,NA
+27,72,"Broad, Max",Hillman Avenger,NZ,NA,+6h 13m 27s,NA,NA,NA
+28,38,"Goss, Roger",Mazda,NZ,G2,+6h 21m 18s,NA,NA,NA
+29,45,"Gordon, Ross",Ford Escort RS1600,NZ,NA,+6h 22m 19s,NA,NA,NA
+30,94,"Barker, Trevor",Ford Escort,NZ,NA,+6h 31m 46s,NA,NA,NA
+31,80,"Elliot, Don",Mazda 808,NZ,NA,+6h 58m 12s,NA,NA,NA
+32,78,"Wilson, Bevan",Mazda RX3,NZ,G1,+7h 07m 22s,NA,NA,NA
+33,83,"Short, John",Ford Escort,NZ,G4,+8h 17m 19s,NA,NA,NA
+34,102,"Prouse, Richard",Hillman Avenger,NZ,NA,+8h 25m 46s,NA,NA,NA
+35,87,"Watson, Dick",Toyota Corolla,NZ,NA,+9h 15m 47s,NA,NA,NA
+NA,4,"Marshall, Mike",Ford Escort RS1800,NZ,G4,NA,NA,NA,engine
+NA,7,"Silverio, Dante",Toyota Corolla,PH,G2,NA,NA,NA,unknown
+NA,8,"Robson, Blair",Ford Escort RS1800,NZ,G4,NA,NA,NA,engine
+NA,9,"Taylor, Colin",Ford Escort RS1800,NZ,G4,NA,NA,NA,unknown
+NA,10,"Adams, Paul",Ford Escort RS1800,NZ,G2,NA,NA,NA,unknown
+NA,11,"Smith, Clive",Ford Escort RS1800,NZ,G4,NA,NA,NA,unknown
+NA,12,"Carter, Alan",Ford Escort RS1800,NZ,G4,NA,NA,NA,unknown
+NA,13,"Mitchell, Alan",Ford Escort RS1800,NZ,G4,NA,NA,NA,unknown
+NA,15,"Davidson, Paddy",Datsun 710,NZ,G4,NA,NA,NA,unknown
+NA,16,"Green, Brian",Ford Escort,NZ,NA,NA,NA,NA,unknown
+NA,17,"Cooney, David",Ford Escort RS1800,NZ,G4,NA,NA,NA,unknown
+NA,18,"Gibbes, Tim",Ford Escort RS,NZ,G4,NA,NA,NA,unknown
+NA,20,"Couch, Bob",Ford Escort RS1800,NZ,G4,NA,NA,NA,unknown
+NA,23,"Kirk-Burnnand, Chris",Datsun 510,NZ,G2,NA,NA,NA,unknown
+NA,24,"Young, Gavin",Toyota Corolla,NZ,G2,NA,NA,NA,unknown
+NA,25,"Armstrong, Hugh",Holden Torana,NZ,NA,NA,NA,NA,unknown
+NA,26,"Civil, David",Ford Escort RS1800,NZ,G2,NA,NA,NA,unknown
+NA,27,"Robb, Bob",Datsun 710,NZ,G2,NA,NA,NA,unknown
+NA,28,"Street, Tony",Ford Escort RS2000,NZ,G2,NA,NA,NA,unknown
+NA,29,"Gladhill, John",Ford Escort RS2000,NZ,NA,NA,NA,NA,unknown
+NA,32,"Begg, Ian",Mazda RX3,NZ,G4,NA,NA,NA,unknown
+NA,33,"Daily, Dave",Ford Escort RS1600,NZ,G4,NA,NA,NA,unknown
+NA,35,"Cribb, Rocky",Ford Escort,NZ,G4,NA,NA,NA,unknown
+NA,40,"Phillips, Quentin",Mazda RX3,NZ,NA,NA,NA,NA,unknown
+NA,41,"Adamson, Ken",Toyota Corolla,NZ,G2,NA,NA,NA,unknown
+NA,43,"Zacho-Kristensen, Trevor",Mazda RX3,NZ,G4,NA,NA,NA,unknown
+NA,47,"Mayhead, Hec",Mazda RX3,NZ,G4,NA,NA,NA,unknown
+NA,50,"Murphy, John",Ford Escort,NZ,NA,NA,NA,NA,unknown
+NA,51,"Hood, Roger",Toyota Corolla,NZ,NA,NA,NA,NA,unknown
+NA,52,"Johnson, James",Lancia Beta,NZ,NA,NA,NA,NA,unknown
+NA,53,"Cliff, Garry",Ford Escort RS2000,NZ,G4,NA,NA,NA,unknown
+NA,54,"Winter, Dave",Datsun 1200,NZ,NA,NA,NA,NA,unknown
+NA,56,"Smith, Kevin",Datsun 1200,NZ,NA,NA,NA,NA,unknown
+NA,57,"Peet, Vallis",Toyota Corolla,NZ,G2,NA,NA,NA,unknown
+NA,58,"Nicholl, Barry",Mitsubishi Lancer,NZ,G2,NA,NA,NA,unknown
+NA,59,"Wells, John",Mazda RX3,NZ,G1,NA,NA,NA,unknown
+NA,60,"Jennings, Mark",Ford Escort RS2000,NZ,G4,NA,NA,NA,unknown
+NA,61,"Stewart, Malcolm",Ford Escort RS1600,NZ,G2,NA,NA,NA,clutch
+NA,62,"Lloyd, Norm",Datsun 160J,NZ,NA,NA,NA,NA,unknown
+NA,63,"Rattenbury, Rex",Ford Escort,NZ,NA,NA,NA,NA,unknown
+NA,65,"Haszard, John",Mazda RX3,NZ,G4,NA,NA,NA,unknown
+NA,67,"Murtagh, Russell",Toyota Corolla,NZ,NA,NA,NA,NA,unknown
+NA,68,"Chamberlain, John",Datsun 1600SSS,NZ,NA,NA,NA,NA,unknown
+NA,70,"Morice, Bill",Ford Escort RS2000,NZ,NA,NA,NA,NA,unknown
+NA,71,"Roach, Mark",Ford Escort,NZ,G4,NA,NA,NA,unknown
+NA,73,"Bradley, Des",BMW 2002,NZ,G4,NA,NA,NA,unknown
+NA,74,"Nicholls, Graeme",Datsun 1200,NZ,NA,NA,NA,NA,unknown
+NA,75,"Bruce, Errol",Ford Escort,NZ,G4,NA,NA,NA,unknown
+NA,77,"Taylor, Cam",Mazda RX3,NZ,G4,NA,NA,NA,unknown
+NA,79,"Comer, Ollie",Skoda 110,NZ,NA,NA,NA,NA,unknown
+NA,81,"Hughes, Peter",Ford Escort RS2000,NZ,G4,NA,NA,NA,unknown
+NA,84,"Allen, John",Toyota Celica,NZ,G2,NA,NA,NA,unknown
+NA,85,"Cameron, Mike",Mitsubishi Lancer,NZ,NA,NA,NA,NA,unknown
+NA,88,"Lynch, Chris",Skoda 110,NZ,NA,NA,NA,NA,unknown
+NA,89,"Sefton, John",Skoda 110,NZ,NA,NA,NA,NA,unknown
+NA,90,"Timpany, Larry",Skoda 110,NZ,NA,NA,NA,NA,unknown
+NA,92,"Fuge, Euan",Mazda RX3,NZ,G4,NA,NA,NA,unknown
+NA,93,"Crompton-Smith, Christopher",Mitsubishi Galant,NZ,NA,NA,NA,NA,unknown
+NA,95,"Sendall, Wayne",Ford Escort,NZ,G4,NA,NA,NA,unknown
+NA,96,"Johnston, Hugh",Toyota Corolla,NZ,NA,NA,NA,NA,unknown
+NA,97,"Bird, Craig",Datsun 1200,NZ,NA,NA,NA,NA,unknown
+NA,98,"Martin, Robert",Ford Escort RS2000,NZ,G4,NA,NA,NA,unknown
+NA,99,"Hogg, Murray",Mazda RX3,NZ,G4,NA,NA,NA,unknown
+NA,100,"King, Mike",Ford Escort,NZ,NA,NA,NA,NA,unknown
+NA,101,"Johnstone, Richard",Datsun 1600SSS,NZ,NA,NA,NA,NA,unknown

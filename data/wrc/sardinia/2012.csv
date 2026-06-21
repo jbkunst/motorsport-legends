@@ -1,0 +1,42 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,2,"Hirvonen, Mikko",Citroen DS3 WRC,FI,A0,"3h 23m 54,9s",NA,NA,NA
+2,6,"Novikov, Evgeny",Ford Fiesta RS WRC,RU,A0,"+1m 20,6s",NA,NA,NA
+3,5,"Tanak, Ott",Ford Fiesta RS WRC,EE,A0,"+2m 21,1s",NA,NA,NA
+4,10,"Ostberg, Mads",Ford Fiesta RS WRC,NO,A0,"+3m 42,9s",NA,NA,NA
+5,22,"Ogier, Sebastien",Skoda Fabia Super 2000,FR,A2,"+4m 27,5s",NA,NA,NA
+6,12,"Atkinson, Christopher",Mini John Cooper Works,AU,A0,"+5m 22,2s",NA,NA,NA
+7,23,"Mikkelsen, Andreas",Skoda Fabia Super 2000,NO,A2,"+6m 12,5s",NA,NA,NA
+8,21,"Prokop, Martin",Ford Fiesta RS WRC,CZ,A0,"+9m 29,3s",1:20,NA,NA
+9,4,"Solberg, Petter",Ford Fiesta RS WRC,NO,A0,"+9m 52,3s",NA,NA,NA
+10,24,"Pedersoli, Luca",Citroen DS3 WRC,IT,A0,"+20m 35,6s",NA,NA,NA
+11,52,"Dettori, Giuseppe",Skoda Fabia Super 2000,IT,A2,"+23m 19,7s",NA,NA,NA
+12,3,"Latvala, Jari-Matti",Ford Fiesta RS WRC,FI,A0,"+24m 16,7s",NA,NA,NA
+13,62,"Protasov, Yuriy",Subaru Impreza,UA,A3,"+24m 51,6s",0:10,NA,NA
+14,32,"Fuchs Sierlecki, Nicolas",Subaru Impreza WRX,PE,A3,"+25m 30,8s",NA,NA,NA
+15,33,"Ligato, Marcos",Subaru Impreza WRX,AR,A3,"+26m 01,2s",NA,NA,NA
+16,39,"Gorban, Valeriy",Mitsubishi Lancer Evo X,UA,A3,"+26m 12,9s",NA,NA,NA
+17,45,"Aksa, Subhan",Mitsubishi Lancer Evo X,ID,A3,"+28m 32,0s",NA,NA,NA
+18,7,"Neuville, Thierry",Citroen DS3 WRC,BE,A0,"+31m 36,8s",NA,NA,NA
+19,14,"Nobre, Paulo",Mini John Cooper Works,BR,A0,"+32m 06,4s",NA,NA,NA
+20,41,"Kikireshko, Oleksii",Mitsubishi Lancer Evo X,UA,A3,"+32m 33,5s",NA,NA,NA
+21,31,"Kosciuszko, Michal",Mitsubishi Lancer Evo X,PL,A3,"+32m 44,0s",NA,NA,NA
+22,42,"Trivino Bujalil, Ricardo",Subaru Impreza,MX,A3,"+33m 49,1s",0:10,NA,NA
+23,65,"Manfrinato, Giovanni",Mitsubishi Lancer Evo IX,IT,A3,"+35m 04,3s",NA,NA,NA
+24,38,"Guerra Latapi, Benito",Mitsubishi Lancer Evo X,MX,A3,"+36m 17,8s",NA,NA,NA
+25,40,"Linari, Gianluca",Subaru Impreza,IT,A3,"+39m 40,9s",0:10,NA,NA
+26,53,"Costenaro, Giacomo",Peugeot 207 S2000,IT,A2,"+40m 24,4s",NA,NA,NA
+27,64,"Sungkar, Rifat",Subaru Impreza,ID,A3,"+42m 31,3s",NA,NA,NA
+28,66,"Marrone, Francesco",Mitsubishi Lancer Evo IX,IT,A3,"+43m 14,6s",0:20,NA,NA
+29,71,"Catania, Davide",Citroen DS3,IT,A5,"+48m 33,2s",NA,NA,NA
+30,36,"Cook, Louise",Ford Fiesta ST,GB,A8,"+1h 18m 53,6s",NA,NA,NA
+31,73,"Carta, Andrea",Peugeot 207,IT,A5,"+1h 28m 10,5s",5:00,NA,NA
+32,75,"Donadio, Raffaele",Fiat 500 Sport,IT,A5,"+1h 46m 30,8s",0:30,NA,NA
+NA,1,"Loeb, Sebastien",Citroen DS3 WRC,FR,A0,NA,NA,SS3,mechanical
+NA,34,"Bertelli, Lorenzo",Subaru Impreza,IT,A3,NA,NA,TC2D,mechanical
+NA,51,"Kruuda, Karl",Ford Fiesta S2000,EE,A2,NA,NA,TC14C,mechanical
+NA,54,"Spagolla, Mauro",Peugeot 207 S2000,IT,A2,NA,NA,TC8D,mechanical
+NA,61,"Angrisani, Maurizio",Mitsubishi Lancer Evo X,IT,A3,NA,NA,SS3,off road
+NA,63,"Nicolas, Jose Alberto",Subaru Impreza WRX,AR,A3,NA,NA,SS15,mechanical
+NA,67,"Landa, Daniel",Subaru Impreza,CZ,A3,NA,NA,TC16B,mechanical
+NA,68,"Covi, Carlo",Subaru Impreza,IT,A3,NA,NA,TC14D,mechanical
+NA,74,"Pusceddu, Maurizio",Citroen C2 R2,IT,A6,NA,NA,TC14D,mechanical

@@ -1,0 +1,79 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,2,"Rohrl, Walter",Fiat 131 Abarth,DE,G4,12h 48m 36s,NA,NA,NA
+2,3,"Mikkola, Hannu",Mercedes Benz 500 SLC,FI,G2,+15m 59s,NA,NA,NA
+3,7,"Reutemann, Carlos",Fiat 131 Abarth,AR,G4,+46m 50s,NA,NA,NA
+4,1,"Mehta, Shekhar",Datsun 160J,KE,G2,+1h 09m 13s,NA,NA,NA
+5,12,"Lefebvre, Jean-Claude",Peugeot 504 V6 Coupe,FR,G4,+1h 44m 55s,NA,NA,NA
+6,19,"de Vitta, Domingo",Ford Escort 1600,UY,G2,+2h 11m 49s,NA,NA,NA
+7,49,"Alcuaz, Francisco",Peugeot 504,AR,G2,+2h 24m 27s,NA,NA,NA
+8,34,"Veiga, Nestor Garcia",Peugeot 504,AR,G2,+2h 49m 28s,NA,NA,NA
+9,25,"West, Federico",Ford Escort 1600,UY,G2,+3h 09m 28s,NA,NA,NA
+10,37,"Maggi, Jorge",Peugeot 504,AR,G2,+3h 30m 23s,NA,NA,NA
+11,45,"Albertengo, Ricardo",Peugeot 504,AR,G2,+3h 35m 49s,NA,NA,NA
+12,NA,"Celsi, Jose",Peugeot 504,CL,NA,+3h 42m 18s,NA,NA,NA
+13,79,"Bianchi, Hugo",Toyota Celica,AR,G1,+4h 03m 25s,NA,NA,NA
+14,15,"Silguero, Santiago",Toyota Celica,PY,G1,+4h 16m 05s,NA,NA,NA
+15,63,"Cammarota, Fernando",Ford Escort 1600,AR,G2,+4h 19m00s,NA,NA,NA
+16,26,"Berges, Julio",Fiat 128,UY,G2,+5h 55m 46s,NA,NA,NA
+17,22,Ciapessoni,Fiat 125,UY,G2,+5h 56m 47s,NA,NA,NA
+18,46,Piazza,Fiat 128,AR,G2,+6h 49m 54s,NA,NA,NA
+19,86,Acosta,Renault 12,AR,G1,+7h 17m 49s,NA,NA,NA
+20,87,Dechecchi,Fiat 128,AR,G1,+7h 23m 48s,NA,NA,NA
+21,61,Solmi,Citroen GS,AR,G1,+8h 32m 06s,NA,NA,NA
+22,62,Clement,Citroen GS,AR,G1,+9h 13m 55s,NA,NA,NA
+23,67,Atkinson,Fiat 128,AR,G2,+10h 56m 19s,NA,NA,NA
+NA,4,"Alen, Markku",Fiat 131 Abarth,FI,G4,NA,NA,SS8,broken sump
+NA,5,"Kallstrom, Harry",Datsun 160J,SE,G2,NA,NA,SS5,gearbox
+NA,6,"Cowan, Andrew",Mercedes Benz 280,GB,G2,NA,NA,SS6,head gasket
+NA,8,"Waldegard, Bjorn",Mercedes Benz 500 SLC,SE,G2,NA,NA,SS5,driveshaft
+NA,9,"Bettega, Attilio",Fiat 131 Abarth,IT,G4,NA,NA,SS7,broken sump
+NA,10,"Garro, Carlos",Peugeot 504 V6 Coupe,AR,G4,NA,NA,SS6,engine valve
+NA,14,"Recalde, Jorge",Mercedes Benz 500 SLC,AR,G2,NA,NA,SS6,driveshaft
+NA,16,"Makinen, Timo",Peugeot 504 V6 Coupe,FI,G4,NA,NA,SS5,lost wheel
+NA,17,Levalle,Fiat 125,PY,G2,NA,NA,NA,unknown
+NA,20,"Etchegoyen, Luis",Ford Escort 1600,UY,G2,NA,NA,NA,unknown
+NA,21,"Smith, Alejandro",Renault 12,AR,G2,NA,NA,NA,unknown
+NA,23,Behety,Subaru,AR,G1,NA,NA,post-event,scrutineering irregularities
+NA,24,Pavone,Peugeot 504,CL,G2,NA,NA,NA,unknown
+NA,29,"Mayorga, Francisco",Fiat 131 Abarth,AR,G4,NA,NA,Leg 1,front suspension
+NA,30,Piazza,Peugeot 504,AR,G2,NA,NA,NA,unknown
+NA,35,Harrington,Renault 12,AR,G2,NA,NA,NA,unknown
+NA,39,Cano,Peugeot 504,AR,G1,NA,NA,NA,unknown
+NA,40,Ratto,Fiat 128,AR,G2,NA,NA,NA,unknown
+NA,41,Gonzalez,Fiat 128,AR,G2,NA,NA,NA,unknown
+NA,42,Morga,Toyota Celica,PY,G1,NA,NA,NA,unknown
+NA,43,Salaberry,Fiat 128,AR,G2,NA,NA,NA,unknown
+NA,47,"Ullmann, Jorge",Volkswagen Passat,BR,G1,NA,NA,NA,unknown
+NA,48,"Buigas, Antonio",Renault 12,AR,G2,NA,NA,NA,unknown
+NA,50,"Soto, Ernesto",Renault 12,AR,G1,NA,NA,NA,unknown
+NA,51,"Tubal, Miguel",Fiat 128,AR,G2,NA,NA,NA,unknown
+NA,52,"Raies, Gabriel",Subaru,AR,G1,NA,NA,NA,unknown
+NA,53,"Maglione, Horacio",Peugeot 504,AR,G1,NA,NA,NA,unknown
+NA,54,"del Campo, Gerardo",Renault 12,AR,G4,NA,NA,NA,unknown
+NA,55,Elichirigoity,Renault 12,AR,G1,NA,NA,NA,unknown
+NA,56,Jauregui,Fiat 128,AR,G2,NA,NA,NA,unknown
+NA,58,Gayol,Peugeot 504,AR,G2,NA,NA,NA,unknown
+NA,60,Bertran,Peugeot 504,AR,G2,NA,NA,NA,unknown
+NA,65,Abella Nazar,Citroen CX2400,AR,G1,NA,NA,NA,unknown
+NA,66,Breard,Alfa Romeo 2000 GTV,AR,G2,NA,NA,NA,unknown
+NA,69,Gaud,Fiat 128,AR,G2,NA,NA,NA,unknown
+NA,71,"Nathan, Jurgen",Mercedes Benz 280,DE,G1,NA,NA,NA,unknown
+NA,72,Sauze,Subaru,PY,G1,NA,NA,NA,unknown
+NA,73,Navarro,Renault 12,AR,G2,NA,NA,NA,unknown
+NA,74,Galdos,Renault 12,PY,G4,NA,NA,NA,unknown
+NA,76,Schneiter Plini,Peugeot 504,AR,G2,NA,NA,NA,unknown
+NA,77,"Campra, Antonio",Renault 12,AR,G2,NA,NA,NA,unknown
+NA,78,Belliti,Fiat 128,AR,G2,NA,NA,NA,unknown
+NA,82,Fernandez,Fiat 125,AR,G1,NA,NA,NA,unknown
+NA,83,Rodriguez,Renault 12,AR,G1,NA,NA,NA,unknown
+NA,84,Atencio,Citroen GS,AR,G1,NA,NA,NA,unknown
+NA,85,Hume,Subaru,AR,G2,NA,NA,NA,unknown
+NA,90,Oliveira,Peugeot 504,AR,G1,NA,NA,NA,unknown
+NA,91,Francis,Citroen CX2400,AR,G1,NA,NA,NA,unknown
+NA,92,Santillana,Renault 12,AR,G1,NA,NA,NA,unknown
+NA,93,Guerrero,Honda Accord,AR,G1,NA,NA,NA,unknown
+NA,94,Mediavilla,Renault 12,AR,G1,NA,NA,NA,unknown
+NA,95,Reyna,Citroen,AR,G1,NA,NA,NA,unknown
+NA,96,Garcia Dietze,Renault 12,AR,G4,NA,NA,NA,unknown
+NA,97,Maglione Caseres,Renault 12,AR,G4,NA,NA,NA,unknown
+NA,NA,Campina,Peugeot 504,NA,NA,NA,NA,NA,unknown

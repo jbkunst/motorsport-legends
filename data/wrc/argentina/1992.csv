@@ -1,0 +1,16 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"Auriol, Didier",Lancia Delta HF Integrale,FR,A8,4h 47m 26s,NA,NA,NA
+2,1,"Sainz, Carlos",Toyota Celica Turbo 4WD (ST185),ES,A,+2m 18s,NA,NA,NA
+3,8,"Trelles, Gustavo",Lancia Delta HF Integrale,UY,A,+14m 11s,NA,NA,NA
+4,4,"Fiorio, Alessandro",Lancia Delta HF Integrale,IT,A,+27m 53s,NA,NA,NA
+5,5,"Stohl, Rudolf",Audi 90 quattro,AT,A,+47m 07s,NA,NA,NA
+6,9,"Menem Jr., Carlos",Lancia Delta HF Integrale,AR,N,+47m 13s,NA,NA,NA
+7,10,"Raies, Gabriel",Renault 18 GTX,AR,A,+54m 58s,NA,NA,NA
+8,16,"Torras, Miguel",Renault 18 GTX,AR,A,+55m 56s,NA,NA,NA
+9,20,"Nishiyama, Hiroshi",Nissan Sunny GTI-R,JP,N,+1h 09m 06s,NA,NA,NA
+10,24,"d'Agostini, Walter",Renault 18 GTX,AR,A,+1h 10m 09s,NA,NA,NA
+NA,2,"Recalde, Jorge",Lancia Delta HF Integrale,AR,A,NA,NA,SS16,oil cooler
+NA,7,"Capdevila, Fernando",Ford Sierra Cosworth 4x4,ES,N,NA,NA,after start,broke leg in recce
+NA,12,"Rosso, Hugo",Fiat Regata,AR,A,NA,NA,SS26,engine
+NA,14,"Raies, Juan Pablo",Renault 18 GTX,AR,A,NA,NA,SS3,engine
+NA,17,"Bescham, Jorge",Fiat Regata,AR,A,NA,NA,SS1,engine

@@ -1,0 +1,68 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,5,"Salonen, Timo",Peugeot 205 Turbo 16,FI,B,8h 29m 16s,NA,NA,NA
+2,2,"Vatanen, Ari",Peugeot 205 Turbo 16,FI,B,+1m 17s,NA,NA,NA
+3,3,"Rohrl, Walter",Audi quattro Sport,DE,B,+2m 26s,NA,NA,NA
+4,1,"Blomqvist, Stig",Audi quattro Sport,SE,B,+6m 06s,NA,NA,NA
+5,11,"Stewart, Malcolm",Audi quattro A2,NZ,B,+59m 48s,NA,NA,NA
+6,10,"Cook, Reg",Nissan 240 RS,NZ,B,+1h 17m 37s,NA,NA,NA
+7,14,"Tulloch, Ian",Ford Escort RS,NZ,B,+1h 19m 52s,NA,NA,NA
+8,18,"Bourne, Peter",Subaru RX Turbo,NZ,A,+1h 22m 45s,NA,NA,NA
+9,16,"Donald, Jim",Nissan 240 RS,NZ,B,+1h 32m 19s,NA,NA,NA
+10,25,"Teesdale, Tony",Subaru RX Turbo,NZ,A,+1h 32m 38s,NA,NA,NA
+11,17,"Montgomery, Michael",Mazda RX7,NZ,B,+1h 33m 28s,NA,NA,NA
+12,8,"Kirkland, Mike",Subaru RX Turbo,KE,A,+1h 34m 19s,NA,NA,NA
+13,34,"Tundo, Frank",Subaru Leone 4WD,KE,A,+1h 57m 20s,NA,NA,NA
+14,51,"Ray, Geoff",Toyota Corolla,NZ,A,+2h 01m 52s,NA,NA,NA
+15,39,"Rabbidge, Carl",Nissan Bluebird Turbo,NZ,A,+2h 03m 53s,NA,NA,NA
+16,29,"Wilson, Ray",Toyota Starlet,NZ,A,+2h 05m 59s,NA,NA,NA
+17,49,"de Pina, Graeme",Daihatsu Charade Turbo,NZ,B,+2h 13m 57s,NA,NA,NA
+18,15,"Stokes, Brian",Ford Escort RS,NZ,B,+2h 17m 54s,NA,NA,NA
+19,50,"Ornstien, Tony",Subaru Leone 4WD,NZ,A,+2h 35m 25s,NA,NA,NA
+20,41,"Muldoon, Rex",Toyota Corolla,AU,A,+2h 37m 19s,NA,NA,NA
+21,42,"Crawford, Graham",Toyota Corolla,NZ,A,+2h 42m 13s,NA,NA,NA
+22,38,"Bagard, Michel",Ford Escort RS,FR,A,+3h 03m 56s,NA,NA,NA
+23,67,"Shapley, Ron",Subaru MP-1 Ute,NZ,B,+3h 05m 18s,NA,NA,NA
+24,55,"Dodunski, Jim",Toyota Starlet,NZ,A,+3h 05m 26s,NA,NA,NA
+25,NA,"Goile, Grant",Toyota Starlet,NZ,A,+3h 08m 26s,NA,NA,NA
+26,59,"Young, Ross",Subaru Leone 4WD,NZ,A,+3h 08m 43s,NA,NA,NA
+27,64,"Ornstien, Phil",Chrysler Avenger,NZ,A,+3h 09m 21s,NA,NA,NA
+28,47,"Sano, Tetsuo",Toyota Starlet,JP,A,+3h 18m 43s,NA,NA,NA
+29,46,"Takahashi, Yasuo",Subaru Justy,JP,A,+3h 19m 19s,NA,NA,NA
+30,60,"Waller, John",Toyota Starlet,NZ,A,+3h 21m 44s,NA,NA,NA
+31,54,"Walker, Andy",MG B,NZ,B,+3h 51m 11s,NA,NA,NA
+32,57,"Schuler, Ian",Toyota Corolla,NZ,A,+3h 56m 45s,NA,NA,NA
+33,58,"Carroll, Ian",Mitsubishi Lancer,NZ,A,+3h 58m 25s,NA,NA,NA
+34,44,"McIntyre, Glenn",Daihatsu Charade Turbo,NZ,B,+4h 07m 09s,NA,NA,NA
+35,53,"Cullen, Peter",Ford Escort,NZ,B,+4h 10m 17s,NA,NA,NA
+36,63,"O'Neill, Rick",Toyota Starlet,NZ,A,+4h 12m 44s,NA,NA,NA
+37,NA,"Kell, Brendan",Mazda RX7,NZ,NA,+4h 18m 47s,NA,NA,NA
+38,62,"Hill, Brett",Toyota Starlet,NZ,A,+4h 44m 28s,NA,NA,NA
+39,69,"Stewart, Jim",Ford Escort,NZ,A,+4h 49m 10s,NA,NA,NA
+NA,4,"Waldegard, Bjorn",Toyota Celica Twincam Turbo,SE,B,NA,NA,end of Leg 1,too far behind
+NA,6,"Kankkunen, Juha",Toyota Celica Twincam Turbo,FI,B,NA,NA,SS39,electrical
+NA,7,"Mehta, Shekhar",Nissan 240 RS,KE,B,NA,NA,SS23,too far behind
+NA,12,"Allport, Neil",Mazda RX7,NZ,B,NA,NA,SS34,accident
+NA,19,"Adams, Paul",Toyota Corolla GT,NZ,A,NA,NA,NA,engine
+NA,20,"Barns, Chris",Renault 5 Turbo,NZ,B,NA,NA,NA,unknown
+NA,21,"Davidson, Paddy",Ford Escort RS1800,NZ,B,NA,NA,NA,unknown
+NA,22,"Smith, Gary",Ford Escort RS1800,NZ,B,NA,NA,NA,unknown
+NA,23,"Mulligan, Edward",Subaru Leone 4WD,AU,A,NA,NA,NA,unknown
+NA,24,"Eyre, Stuart",Mazda RX7,NZ,B,NA,NA,NA,unknown
+NA,27,"Menestrier, Denis",Renault 5 Turbo,FR,B,NA,NA,NA,unknown
+NA,28,"Brundza, Stasis",Lada 2105,SU,B,NA,NA,SS20,transmission
+NA,30,"Vittuli, Carlo",Subaru Leone 4WD,KE,A,NA,NA,NA,unknown
+NA,31,"Ogilvie, Keith",Ford Escort RS1800,NZ,B,NA,NA,NA,unknown
+NA,32,"Kawahari, Masaaki",Nissan 300ZX,JP,B,NA,NA,NA,unknown
+NA,33,"Jennings, Mark",Subaru RX Turbo,NZ,A,NA,NA,NA,unknown
+NA,35,"Rublev, Alexandr",Lada 2105,SU,B,NA,NA,SS6,accident
+NA,36,"Goss, Roger",Mazda RX7,NZ,A,NA,NA,NA,unknown
+NA,40,"Fouchard, Michel",Renault 5 Turbo,FR,B,NA,NA,NA,unknown
+NA,43,"Berteil, Richard",Ford Escort RS2000,FR,B,NA,NA,NA,unknown
+NA,45,"Matsunami, Noboru",Toyota Corolla,JP,A,NA,NA,NA,unknown
+NA,48,"Orr, Will",Ford Escort,NZ,B,NA,NA,NA,unknown
+NA,52,"Nunn, Ken",Mazda 323,NZ,A,NA,NA,NA,unknown
+NA,56,"Lesicki, Andrzej",Lada 2105,NZ,B,NA,NA,NA,unknown
+NA,65,"Coker, John",Mitsubishi Lancer,NZ,A,NA,NA,NA,unknown
+NA,66,"Morris, Stephen",Toyota Corolla,NZ,A,NA,NA,NA,unknown
+NA,68,"Lewis, Alan",Ford Escort,NZ,A,NA,NA,NA,unknown
+NA,70,"Landon-Lane, Adrian",Fiat 131,NZ,A,NA,NA,NA,unknown

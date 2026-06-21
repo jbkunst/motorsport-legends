@@ -1,0 +1,18 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,7,"Shinozuka, Kenjiro",Mitsubishi Galant VR-4,JP,A8,3h 30m 16s,NA,NA,NA
+2,1,"Tauziac, Patrick",Mitsubishi Galant VR-4,FR,A,+2h 08m 48s,NA,NA,NA
+3,2,"Stohl, Rudolf",Audi 90 quattro,AT,A,+4h 37m 45s,NA,NA,NA
+4,4,"Servant, Patrice",Audi 90 quattro,FR,A,+5h 59m 03s,NA,NA,NA
+5,5,"Choteau, Adolphe",Toyota Corolla,CI,A,+6h 17m 10s,NA,NA,NA
+6,37,"Doue, Philippe",Renault Clio,FR,N,+6h 38m 19s,NA,NA,NA
+7,15,"Chaballe, Damien",Suzuki Cultus (Swift),BE,A,+8h 24m 41s,NA,NA,NA
+8,41,"Min, Nicolas",Mazda 323,BE,N,+9h 04m 38s,NA,NA,NA
+9,22,"Dupuis, Jean-Claude",Toyota Corolla,CH,A,+9h 39m 34s,NA,NA,NA
+NA,8,"Evina, Viviane",Toyota Corolla,CM,N,NA,NA,TC32,accident
+NA,9,"Assef, Samir",Toyota Celica GT-4 (ST165),CI,A,NA,NA,TC21,engine
+NA,14,"Copetti, Patrick",Audi 90 quattro,FR,A,NA,NA,TC8,engine
+NA,16,"Van de Wauwer, Jean-Pierre",Toyota Corolla,BE,N,NA,NA,TC27,accident
+NA,30,"Bos, Pierre",Audi 90 quattro,FR,A,NA,NA,TC67,front suspension
+NA,36,"Bedini, Piergiorgio",Volkswagen Golf GTi,IT,N,NA,NA,TC59,shock absorbers
+NA,39,"Nishiyama, Hiroshi",Nissan Sunny GTI-R,JP,N,NA,NA,TC72,transmission
+NA,NA,"Stohl, Manfred",Audi 90 quattro,AT,A,NA,NA,NA,accident

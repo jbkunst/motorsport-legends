@@ -1,0 +1,58 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,33,"Evans, Elfyn",Toyota GR Yaris Rally1,GB,Rally1,"2h 35m 53,1s",NA,NA,NA
+2,18,"Katsuta, Takamoto",Toyota GR Yaris Rally1,JP,Rally1,"+14,3s",NA,NA,NA
+3,5,"Pajari, Sami",Toyota GR Yaris Rally1,FI,Rally1,"+46,0s",NA,NA,NA
+4,99,"Solberg, Oliver",Toyota GR Yaris Rally1,SE,Rally1,"+1m 11,6s",NA,NA,NA
+5,16,"Fourmaux, Adrien",Hyundai i20 N Rally1,FR,Rally1,"+1m 50,3s",NA,NA,NA
+6,4,"Lappi, Esapekka",Hyundai i20 N Rally1,FI,Rally1,"+1m 53,2s",NA,NA,NA
+7,11,"Neuville, Thierry",Hyundai i20 N Rally1,BE,Rally1,"+3m 45,9s",NA,NA,NA
+8,95,"Armstrong, Jon",Ford Puma Rally1,GB,Rally1,"+4m 05,5s",NA,NA,NA
+9,55,"McErlean, Joshua",Ford Puma Rally1,IE,Rally1,"+6m 05,4s",NA,NA,NA
+10,20,"Korhonen, Roope",Toyota Yaris,FI,Rally2,"+10m 36,2s",NA,NA,NA
+11,24,"Suninen, Teemu",Toyota Yaris,FI,Rally2,"+10m 46,4s",NA,NA,NA
+12,23,"Joona, Lauri",Skoda Fabia,FI,Rally2,"+11m 34,6s",NA,NA,NA
+13,29,"Gill, Taylor",Toyota Yaris,AU,Rally2,"+13m 10,4s",NA,NA,NA
+14,25,"Reiersen, Isak",Skoda Fabia,SE,Rally2,"+13m 33,1s",NA,NA,NA
+15,37,"Bertelli, Lorenzo",Toyota GR Yaris Rally1,IT,Rally1,"+17m 40,5s",0:20,NA,NA
+16,53,"Fontana, Matteo",FAW-Volkswagen Jetta,IT,Rally3,"+18m 37,4s",NA,NA,NA
+17,62,"Carlberg, Calle",Ford Fiesta,SE,Rally3,"+19m 05,0s",NA,NA,NA
+18,44,"Solowow, Michal",Toyota Yaris,PL,Rally2,"+19m 31,0s",NA,NA,NA
+19,38,"Jylha, Tommi",Toyota Yaris,FI,Rally2,"+20m 46,8s",0:20,NA,NA
+20,64,"Lassila, Leevi",Ford Fiesta,FI,Rally3,"+20m 57,5s",NA,NA,NA
+21,54,"Abramowski, Tymek",Ford Fiesta,PL,Rally3,"+21m 28,7s",NA,NA,NA
+22,39,"Trentin, Giovanni",Skoda Fabia,IT,Rally2,"+23m 01,9s",NA,NA,NA
+23,65,"Hernandez, Raul",Ford Fiesta,ES,Rally3,"+23m 07,3s",NA,NA,NA
+24,45,"Viitanen, Marko",Toyota Yaris,FI,Rally2,"+27m 59,5s",NA,NA,NA
+25,31,"Chatillon, Matteo",Skoda Fabia,FR,Rally2,"+30m 30,4s",NA,NA,NA
+26,66,"Membrado, Gil",Ford Fiesta,ES,Rally3,"+31m 12,7s",NA,NA,NA
+27,47,"Baumgart, Cristian",Skoda Fabia,BR,Rally2,"+33m 27,4s",NA,NA,NA
+28,51,"Granados Cervera, Miguel-Antonio",Skoda Fabia,MX,Rally2,"+33m 27,7s",NA,NA,NA
+29,48,"Wartique, John",Skoda Fabia,BE,Rally2,"+34m 42,4s",0:40,NA,NA
+30,56,"Martinez Merizalde Zavala, Andre",Ford Fiesta,PE,Rally3,"+38m 07,5s",0:10,NA,NA
+31,70,"Duffy, Pauric",Hyundai i20,IE,Rally2,"+44m 08,3s",NA,NA,NA
+32,57,"Royere, Eric",Ford Fiesta,FR,Rally3,"+44m 48,8s",NA,NA,NA
+33,58,"Vasilakis, Georgios",Ford Fiesta,GR,Rally3,"+45m 23,8s",NA,NA,NA
+34,69,"Martinez, Jorge",Hyundai i20,PE,Rally2,"+48m 47,6s",NA,NA,NA
+35,22,"Sesks, Martins",Ford Puma Rally1,LV,Rally1,"+51m 21,5s",NA,NA,NA
+36,27,"Jurgenson, Romet",Ford Fiesta,EE,Rally2,"+53m 09,6s",NA,NA,NA
+37,30,"Cachon Rodriguez, Alejandro",Toyota Yaris,ES,Rally2,"+54m 54,2s",NA,NA,NA
+38,41,"Ten Brinke, Bernhard",Toyota Yaris,NL,Rally2,"+55m 32,5s",NA,NA,NA
+39,52,"Cobbe, Luciano",Skoda Fabia,IT,Rally2,"+55m 58,2s",NA,NA,NA
+40,50,"Soylu, Ugur",Skoda Fabia,TU,Rally2,"+57m 40,5s",1:20,NA,NA
+41,34,"Delecour, Eliott",Toyota Yaris,FR,Rally2,"+58m 24,3s",NA,NA,NA
+42,60,"Turkkan, Ali",Ford Fiesta,TU,Rally3,"+59m 34,7s",0:10,NA,NA
+43,63,"Kazaz, Kerem",Ford Fiesta,TU,Rally3,"+1h 01m 06,5s",NA,NA,NA
+44,49,"Kolcak, Robert",Hyundai i20,SK,Rally2,"+1h 12m 23,0s",NA,NA,NA
+45,43,"Koltun, Jaroslaw",Skoda Fabia,PL,Rally2,"+1h 17m 34,6s",NA,NA,NA
+46,42,"Mauro Sanchez, Alejandro",Skoda Fabia,MX,Rally2,"+1h 46m 50,4s",NA,NA,NA
+47,68,"McCormack, Enda",Hyundai i20,US,Rally2,"+2h 03m 57,0s",NA,NA,NA
+48,71,"Ribaudo, Tony",Renault Clio,FR,Rally3,"+2h 12m 39,6s",NA,NA,NA
+NA,21,"Heikkila, Mikko",Skoda Fabia,FI,Rally2,NA,NA,TC8C,personal reasons
+NA,26,"Johansson, Mille",Ford Fiesta,SE,Rally2,NA,NA,TC8B,mechanical
+NA,28,"Kauppinen, Tuukka",Toyota Yaris,FI,Rally2,NA,NA,SS16,mechanical
+NA,32,"Grahn, Adam",Skoda Fabia,SE,Rally2,NA,NA,SS1,off road
+NA,40,"Schwarz, Fabio",Toyota Yaris,DE,Rally2,NA,NA,SS1,mechanical
+NA,46,"Villanueva, Alexander",Toyota Yaris,ES,Rally2,NA,NA,SS6,off road
+NA,59,"Boehringer, Nicolas Otto",Ford Fiesta,ES,Rally3,NA,NA,SS13,off road
+NA,61,"Rahill, Craig",Ford Fiesta,IE,Rally3,NA,NA,SS17,off road
+NA,67,"Breittmayer, Emile",Citroen C3,BE,Rally2,NA,NA,SS16,off road

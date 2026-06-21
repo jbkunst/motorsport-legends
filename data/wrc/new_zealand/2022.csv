@@ -1,0 +1,29 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,69,"Rovanpera, Kalle",Toyota GR Yaris Rally1,FI,Rally1,"2h 47m 56,4s",0:05,NA,NA
+2,1,"Ogier, Sebastien",Toyota GR Yaris Rally1,FR,Rally1,"+34,6s",0:10,NA,NA
+3,8,"Tanak, Ott",Hyundai i20 N Rally1,EE,Rally1,"+48,5s",0:15,NA,NA
+4,11,"Neuville, Thierry",Hyundai i20 N Rally1,BE,Rally1,"+1m 58,8s",0:15,NA,NA
+5,2,"Solberg, Oliver",Hyundai i20 N Rally1,SE,Rally1,"+3m 55,3s",0:10,NA,NA
+6,20,"Paddon, Hayden",Hyundai i20,NZ,Rally2,"+10m 03,7s",NA,NA,NA
+7,37,"Bertelli, Lorenzo",Ford Puma Rally1,IT,Rally1,"+10m 39,0s",NA,NA,NA
+8,21,"Kajetanowicz, Kajetan",Skoda Fabia,PL,Rally2,"+12m 36,8s",NA,NA,NA
+9,23,"van Gisbergen, Shane",Skoda Fabia,NZ,Rally2,"+13m 28,8s",NA,NA,NA
+10,24,"Bates, Harry",Skoda Fabia,AU,Rally2,"+16m 51,6s",NA,NA,NA
+11,34,"Summerfield, Matt",Mitsubishi Mirage,NZ,ASN,"+19m 19,7s",NA,NA,NA
+12,28,"Kremer, Armin",Citroen C3,DE,Rally2,"+21m 01,8s",0:10,NA,NA
+13,26,"Bawden, Todd",Ford Fiesta,NZ,Rally2,"+22m 09,3s",0:10,NA,NA
+14,29,"Anear, Luke",Ford Fiesta,AU,Rally2,"+24m 38,3s",NA,NA,NA
+15,39,"Mackenzie, Haydn",Toyota Yaris,NZ,ASN,"+24m 40,4s",NA,NA,NA
+16,36,"Hawkeswood, Jack",Toyota Yaris,NZ,ASN,"+25m 34,7s",NA,NA,NA
+17,22,"Hunt, Ben",Skoda Fabia,NZ,Rally2,"+26m 25,0s",0:10,NA,NA
+18,30,"Martin, Andy",Volkswagen Polo,NZ,Rally2,"+31m 27,3s",0:10,NA,NA
+19,42,"Breen, Craig",Ford Puma Rally1,IE,Rally1,"+38m 59,4s",NA,NA,NA
+20,31,"Diaz-Aboitiz, Miguel",Skoda Fabia,ES,Rally2,"+42m 14,7s",NA,NA,NA
+21,38,"Inkster, Glenn",Mazda 2,NZ,ASN,"+1h 23m 44,3s",1:00,NA,NA
+NA,18,"Katsuta, Takamoto",Toyota GR Yaris Rally1,JP,Rally1,NA,NA,SS12,off road
+NA,25,"Horan, Raana",Skoda Fabia,NZ,Rally2,NA,NA,SS2,mechanical
+NA,27,"Jones, Kingsley",Skoda Fabia,NZ,Rally2,NA,NA,SS12,off road
+NA,32,"Stokes, Robbie",Ford Fiesta,NZ,ASN,NA,NA,SS12,off road
+NA,33,"Evans, Elfyn",Toyota GR Yaris Rally1,GB,Rally1,NA,NA,TC10B,mechanical
+NA,35,"Turner, Dylan",Audi,NZ,ASN,NA,NA,TC4,mechanical
+NA,44,"Greensmith, Fergus",Ford Puma Rally1,GB,Rally1,NA,NA,SS10,off road

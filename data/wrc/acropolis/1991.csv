@@ -1,0 +1,19 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,7,"Kankkunen, Juha",Lancia Delta HF Integrale 16v,FI,A8,7h 20m 05s,NA,NA,NA
+2,1,"Sainz, Carlos",Toyota Celica GT-4 (ST165),ES,A,+1m 01s,NA,NA,NA
+3,2,"Biasion, Massimo",Lancia Delta HF Integrale 16v,IT,A,+3m 30s,NA,NA,NA
+4,6,"Auriol, Didier",Lancia Delta HF Integrale 16v,FR,A,+4m 42s,NA,NA,NA
+5,14,"Schwarz, Armin",Toyota Celica GT-4 (ST165),DE,A,+5m 35s,NA,NA,NA
+6,8,"Ericsson, Mikael",Toyota Celica GT-4 (ST165),SE,A,+9m 55s,NA,NA,NA
+7,4,"Eriksson, Kenneth",Mitsubishi Galant VR-4,SE,A,+16m 00s,NA,NA,NA
+8,11,"Mikkola, Hannu",Mazda 323 GT-X,FI,A,+16m 49s,NA,NA,NA
+9,18,"Llewellin, David",Nissan Sunny GTI-R,GB,A,+30m 40s,NA,NA,NA
+10,17,"Vardinogiannis, Giannis",Lancia Delta HF Integrale 16v,GR,A,+55m 43s,NA,NA,NA
+11,27,"Hatzipanayiotou, Stratis",Nissan Sunny GTI-R,GR,N,+1h 13m 21s,NA,NA,NA
+NA,3,"Alen, Markku",Subaru Legacy RS,FI,A,NA,NA,SS43,accident
+NA,5,"Delecour, Francois",Ford Sierra Cosworth 4x4,FR,A,NA,NA,SS20,front differential
+NA,9,"Blomqvist, Stig",Nissan Sunny GTI-R,SE,A,NA,NA,SS37,engine
+NA,10,"Fiorio, Alessandro",Ford Sierra Cosworth 4x4,IT,A,NA,NA,SS30,lost wheel
+NA,12,"Recalde, Jorge",Lancia Delta HF Integrale 16v,AR,A,NA,NA,SS1,electrics
+NA,15,"Salonen, Timo",Mitsubishi Galant VR-4,FI,A,NA,NA,SS23,steering
+NA,16,"Wilson, Malcolm",Ford Sierra Cosworth 4x4,GB,A,NA,NA,SS25,driveshaft

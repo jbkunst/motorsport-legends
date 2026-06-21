@@ -1,0 +1,30 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,46,"Singh, Joginder",Mitsubishi Colt Lancer,KE,G2,11h 18m,NA,NA,NA
+2,19,"Waldegard, Bjorn",Porsche 911,SE,G4,+28m,NA,NA,NA
+3,10,"Munari, Sandro",Lancia Fulvia HF,IT,G4,+1h 04m,NA,NA,NA
+4,14,"Kallstrom, Harry",Datsun 260Z,SE,G4,+1h 43m,NA,NA,NA
+5,35,"Remtulla, Zully",Datsun 260Z,TZ,G4,+2h 11m,NA,NA,NA
+6,16,"Aaltonen, Rauno",Datsun 1800SSS,FI,G2,+2h 28m,NA,NA,NA
+7,50,"Shankland, Bert",Peugeot 504,TZ,G2,+2h 44m,NA,NA,NA
+8,21,"Huth, Peter",Peugeot 504,KE,G2,+3h 23m,NA,NA,NA
+9,18,"Preston Jr, Vic",Ford Escort RS1600,KE,G2,+3h 38m,NA,NA,NA
+10,38,"Ulyate, Robin",Fiat 124 Abarth Spider,KE,G4,+3h 55m,NA,NA,NA
+11,7,"Mehta, Shekhar",Lancia Fulvia HF,KE,G4,+4h 57m,NA,NA,NA
+12,26,"Singh, Davinder",Mitsubishi Galant,KE,G2,+8h 35m,NA,NA,NA
+13,33,"Noon, Jim",Mitsubishi Galant,KE,G2,+8h 48m,NA,NA,NA
+14,42,"van Leeve, Ernest",Mitsubishi Galant,KE,G2,+14h 01m,NA,NA,NA
+15,68,"Choda, Prem",Mitsubishi Galant,KE,G2,+16h 33m,NA,NA,NA
+16,31,"Smith, Rosemary",Datsun 1800SSS,IE,G2,+17h 39m,NA,NA,NA
+NA,1,"Mikkola, Hannu",Peugeot 504,FI,G2,NA,NA,NA,engine
+NA,2,"Darniche, Bernard",Renault-Alpine A110,FR,G4,NA,NA,NA,engine/suspension
+NA,3,"Barbasio, Sergio",Fiat 124 Abarth Spider,IT,G4,NA,NA,NA,clutch
+NA,4,"Andersson, Ove",Peugeot 504,SE,G2,NA,NA,NA,engine
+NA,5,"Makinen, Timo",Peugeot 504,FI,G2,NA,NA,NA,engine
+NA,9,"Piot, Jean-Francois",Renault 17 Gordini,FR,G4,NA,NA,NA,engine
+NA,15,"Therier, Jean-Luc",Renault-Alpine A110,FR,G4,NA,NA,NA,suspension
+NA,17,"Nicolas, Jean-Pierre",Renault 17 Gordini,FR,G4,NA,NA,NA,engine
+NA,20,"Paganelli, Alcide",Fiat 124 Abarth Spider,IT,G4,NA,NA,NA,overheating
+NA,23,"Jaroszewicz, Andrzej",Polski-Fiat 125p,PL,G2,NA,NA,NA,OTL
+NA,28,"Mucha, Robert",Polski-Fiat 125p,PL,G2,NA,NA,NA,driveshaft
+NA,36,"Fritschy, Bill",Porsche 911,GB,G4,NA,NA,NA,engine
+NA,51,"Varisella, Marek",Polski-Fiat 125p,PL,G2,NA,NA,NA,unknown

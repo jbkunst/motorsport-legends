@@ -1,0 +1,26 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,7,"Makinen, Tommi",Mitsubishi Lancer Evo III,FI,A8,4h 37m 10s,NA,NA,NA
+2,4,"Sainz, Carlos",Ford Escort RS Cosworth,ES,A8,+23s,NA,NA,NA
+3,1,"McRae, Colin",Subaru Impreza 555,GB,A8,+1m 05s,NA,NA,NA
+4,12,"Kankkunen, Juha",Toyota Celica GT-Four (ST205),FI,A8,+1m 28s,NA,NA,NA
+5,2,"Eriksson, Kenneth",Subaru Impreza 555,SE,A8,+2m 26s,NA,NA,NA
+6,11,"Radstrom, Thomas",Toyota Celica GT-Four (ST205),SE,A8,+2m 50s,NA,NA,NA
+7,17,"Gronholm, Marcus",Toyota Celica Turbo 4WD (ST185),FI,A8,+4m 48s,NA,NA,NA
+8,6,"Blomqvist, Stig",Ford Escort RS Cosworth,SE,A8,+5m 46s,NA,NA,NA
+9,15,"Jansson, Tomas",Toyota Celica GT-Four (ST205),SE,A8,+6m 44s,NA,NA,NA
+10,3,"Auriol, Didier",Subaru Impreza 555,FR,A8,+6m 46s,NA,NA,NA
+11,5,"Delecour, Francois",Ford Escort RS Cosworth,FR,A8,+8m 33s,NA,NA,NA
+12,10,"Liatti, Piero",Subaru Impreza 555,IT,A8,+10m 20s,NA,NA,NA
+14,8,"Backlund, Kenneth",Mitsubishi Lancer Evo III,SE,N4,+14m 05s,NA,NA,NA
+16,9,"Nittel, Uwe",Mitsubishi Lancer Evo III,DE,A8,+18m 18s,NA,NA,NA
+17,27,"Eklund, Per",Subaru Legacy RS,SE,A,NA,NA,NA,NA
+20,21,"Holowczyc, Krzysztof",Toyota Celica Turbo 4WD (ST185),PL,A8,+28m 08s,NA,NA,NA
+23,31,"Andersson, Joakim",Volkswagen Golf GTI 16V,SE,A7,+30m 36s,NA,NA,NA
+NA,14,"Vatanen, Ari",Ford Escort RS Cosworth,FI,A8,NA,NA,SS24,accident
+NA,16,"Lindholm, Sebastian",Ford Escort RS Cosworth,FI,A8,NA,NA,SS14,accident
+NA,19,"Gundersen, Birger",Ford Escort RS Cosworth,NO,A8,NA,NA,SS3,engine
+NA,22,"Trelles, Gustavo",Subaru Impreza WRX,UY,N4,NA,NA,SS12,electrics
+NA,24,"Bedini, Piergiorgio",Ford Escort RS Cosworth,IT,N4,NA,NA,SS4,engine
+NA,32,"Jonsson, Mats",Opel Astra,SE,A7,NA,NA,SS3,accident
+NA,34,"Joki, Harry",Volkswagen Golf GTI 16V,SE,A7,NA,NA,SS6,accident
+NA,35,"Korhonen, Mika",Mitsubishi Lancer Evo,FI,N4,NA,NA,SS6,unknown

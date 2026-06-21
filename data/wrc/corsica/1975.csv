@@ -1,0 +1,80 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,6,"Darniche, Bernard",Lancia Stratos HF,FR,G4,4h 58m 26s,NA,NA,NA
+2,7,"Nicolas, Jean-Pierre",Renault-Alpine A110 1800,FR,G4,+32s,NA,NA,NA
+3,3,"Andruet, Jean-Claude",Alfa Romeo Alfetta GT,FR,G2,+11m 25s,NA,NA,NA
+4,12,"Manzagol, Jean-Pierre",Renault-Alpine A110 1800,FR,G4,+17m 16s,NA,NA,NA
+5,11,"Henry, Jacques",Renault-Alpine A110 1800,FR,G4,+21m 15s,NA,NA,NA
+6,9,"Vincent, Francis",Renault-Alpine A110,FR,G4,+24m 00s,NA,NA,NA
+7,20,"Mouton, Michele",Renault-Alpine A110,FR,G3,+35m 23s,NA,NA,NA
+8,34,"Soriano, Jean-Marie",Renault-Alpine A110,FR,G4,+54m 19s,NA,NA,NA
+9,40,"Picone, Bernard",Renault-Alpine A110,FR,G3,+54m 20s,NA,NA,NA
+10,16,"Greder, Henri",Opel Kadett GT/E,FR,G4,+59m 55s,NA,NA,NA
+11,45,Alberti,Renault-Alpine A110,NA,G3,NA,NA,NA,NA
+12,43,Marchisio,Renault-Alpine A110,IT,G3,NA,NA,NA,NA
+13,41,Reggioni,Porsche 911,NA,G3,NA,NA,NA,NA
+14,24,Casanova,Renault-Alpine A110,NA,G3,NA,NA,NA,NA
+15,48,"Swaton, Gerard",Renault-Alpine A110 1800,FR,G3,+1h 25m 50s,NA,NA,NA
+16,63,"Turiani, Auguste",Opel Commodore,MC,G1,+1h 29m 59s,NA,NA,NA
+17,46,Pallanca,Renault-Alpine A110,NA,G3,NA,NA,NA,NA
+18,77,Mari,Toyota Celica,NA,G1,NA,NA,NA,NA
+19,74,Murati,Audi 80,NA,G1,NA,NA,NA,NA
+20,33,Fantino,Renault-Alpine A110,NA,NA,NA,NA,NA,NA
+21,86,Clugnac,Simca Rallye 2,NA,G1,NA,NA,NA,NA
+22,50,Alerini,Renault-Alpine A110,NA,G3,NA,NA,NA,NA
+NA,1,"Munari, Sandro",Lancia Stratos HF,IT,G4,NA,NA,NA,accident
+NA,2,"Therier, Jean-Luc",Renault-Alpine A110,FR,G4,NA,NA,NA,accident
+NA,4,"Pinto, Raffaele",Lancia Stratos HF,IT,G4,NA,NA,NA,rear suspension
+NA,5,"Larrousse, Gerard",Renault-Alpine A110,FR,G4,NA,NA,NA,accident
+NA,8,"Chasseuil, Guy",Opel Ascona,FR,G2,NA,NA,NA,engine
+NA,10,"Rouget, Jean-Pierre",Porsche 911,FR,G3,NA,NA,NA,unknown
+NA,14,"Serpaggi, Francis",Renault-Alpine A110,FR,G4,NA,NA,NA,accident
+NA,15,"Clarr, Jean-Louis",Opel Ascona,FR,G2,NA,NA,NA,accident
+NA,17,"Pironi, Didier",Renault 12 Gordini,FR,G2,NA,NA,NA,unknown
+NA,18,Mas,Porsche,NA,G3,NA,NA,NA,unknown
+NA,19,Lagniez,Porsche 911,NA,G3,NA,NA,NA,unknown
+NA,26,Gardavot,Porsche 911,NA,G3,NA,NA,NA,unknown
+NA,28,Venturini,Renault-Alpine A110,NA,G4,NA,NA,NA,unknown
+NA,29,"Rognoni, Daniel",Renault-Alpine A110,FR,G4,NA,NA,NA,unknown
+NA,30,Paoli,Renault-Alpine A110,NA,G4,NA,NA,NA,unknown
+NA,31,Brotel,Renault-Alpine A110,NA,NA,NA,NA,NA,unknown
+NA,32,Paoli,Renault-Alpine A110,NA,NA,NA,NA,NA,unknown
+NA,35,Schooneman,Renault-Alpine A110,NA,G3,NA,NA,NA,unknown
+NA,42,Cordesse,Renault-Alpine A110,NA,G3,NA,NA,NA,unknown
+NA,44,Bonavita,Renault-Alpine A110,NA,G3,NA,NA,NA,unknown
+NA,47,Branca,Renault-Alpine A110,NA,G3,NA,NA,NA,unknown
+NA,49,Pessey,Renault-Alpine A110,NA,G3,NA,NA,NA,unknown
+NA,51,Bassoul,Renault-Alpine A110,NA,G3,NA,NA,NA,unknown
+NA,52,Pantalacci,Simca Rallye 2,NA,G2,NA,NA,NA,unknown
+NA,53,Olmetta,NSU 1300,NA,G2,NA,NA,NA,unknown
+NA,54,Touquet,Toyota Celica,NA,G2,NA,NA,NA,unknown
+NA,55,Blain,Opel Ascona,NA,G2,NA,NA,NA,unknown
+NA,56,Colombani,Simca Rallye 2,NA,G2,NA,NA,NA,unknown
+NA,57,Braida,Simca Rallye 2,NA,G2,NA,NA,NA,unknown
+NA,58,Balsalo,Opel Ascona,NA,G2,NA,NA,NA,unknown
+NA,59,"Antonetti, J.A.",NSU 1300,NA,G2,NA,NA,NA,unknown
+NA,60,Miniconi,Renault 12,NA,G2,NA,NA,NA,unknown
+NA,61,Galgani,Toyota Celica,NA,G2,NA,NA,NA,unknown
+NA,62,Gordon,Toyota,FR,G1,NA,NA,NA,unknown
+NA,64,Mercier,Audi 80,FR,G1,NA,NA,NA,unknown
+NA,65,la Caille,Simca Rallye 2,NA,G1,NA,NA,NA,unknown
+NA,66,Guglielmi,Opel Ascona,NA,G1,NA,NA,NA,unknown
+NA,67,Antona,Simca Rallye 2,NA,G1,NA,NA,NA,unknown
+NA,68,Dorel,Simca Rallye 2,NA,G1,NA,NA,NA,unknown
+NA,69,"Sehnaoui, Maurice",Audi 80,LB,G1,NA,NA,NA,unknown
+NA,70,Torre,Simca Rallye 2,NA,G1,NA,NA,NA,unknown
+NA,71,Arrighi,Toyota,NA,G1,NA,NA,NA,unknown
+NA,72,"Bondrille, Jean",Alfa Romeo,FR,G1,NA,NA,NA,unknown
+NA,73,Fabregues,Simca Rallye 2,NA,G1,NA,NA,NA,unknown
+NA,75,Rousseau,Triumph Dolomite Sprint,FR,G1,NA,NA,NA,unknown
+NA,76,Sanna,Opel Ascona,NA,G1,NA,NA,NA,unknown
+NA,78,Moretti,Triumph Dolomite Sprint,IT,G1,NA,NA,NA,unknown
+NA,79,Gatau,Autobianchi A112,NA,G1,NA,NA,NA,unknown
+NA,80,Bastid,Triumph Dolomite Sprint,NA,G1,NA,NA,NA,unknown
+NA,81,Giffon,Simca Rallye 2,NA,G1,NA,NA,NA,unknown
+NA,82,"Bernardini, Patrick",Simca Rallye 2,FR,G1,NA,NA,NA,unknown
+NA,83,Putzolu,Simca Rallye,NA,G1,NA,NA,NA,unknown
+NA,84,Farrucci,Audi 80,NA,G1,NA,NA,NA,unknown
+NA,85,Bartoli,Opel Commodore,NA,G1,NA,NA,NA,unknown
+NA,87,Cau,Alfa Romeo,NA,G1,NA,NA,NA,unknown
+NA,88,Gusciani,Triumph Dolomite Sprint,NA,G1,NA,NA,NA,unknown
+NA,89,Ettori,Alfa Romeo,NA,G1,NA,NA,NA,unknown

@@ -1,0 +1,18 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,4,"Salonen, Timo",Datsun Violet,FI,G4,52h 37m,NA,NA,NA
+2,1,"Eklund, Per",Toyota Celica,SE,G4,+1h 12m,NA,NA,NA
+3,6,"Mehta, Shekhar",Datsun Violet,KE,G4,+1h 25m,NA,NA,NA
+4,8,"Mitri, Michel",Datsun 160J,FR,G2,+2h 32m,NA,NA,NA
+5,2,"Frequelin, Guy",Peugeot 504 V6 Coupe,FR,G4,+3h 18m,NA,NA,NA
+6,5,"Ambrosino, Alain",Peugeot 504 V6 Coupe,FR,G4,+3h 19m,NA,NA,NA
+7,9,"Assef, Samir",Toyota Celica,CI,G4,+6h 43m,NA,NA,NA
+8,14,"Durieu, Jacques",Peugeot 504 V6 Coupe,CI,G4,+14h 56m,NA,NA,NA
+9,7,"Vatanen, Ari",Ford Escort RS,FI,G4,+22h 15m,NA,NA,NA
+NA,3,"Waldegard, Bjorn",Toyota Celica,SE,G4,NA,NA,TC13,engine
+NA,10,"Moreau, Pierre-Louis",Datsun 160J,FR,G2,NA,NA,TC42,broken spring
+NA,12,"Hoepfner, Marianne",Porsche 924GTS,FR,G4,NA,NA,TC6,distributor
+NA,15,"Taylor, John",Ford Escort RS,GB,G2,NA,NA,TC0,transmission
+NA,16,"Neyret, Robert",Renault-Alpine A310,FR,G4,NA,NA,TC9,engine
+NA,18,"Choteau, Adolphe",Audi quattro,CI,G4,NA,NA,TC34,fuel starvation
+NA,20,"Chauche, Francois",Peugeot 104,FR,G2,NA,NA,TC3,engine
+NA,23,"Laurent, Claude",Peugeot 505 Diesel Turbo,FR,G2,NA,NA,TC41,turbine oil leak

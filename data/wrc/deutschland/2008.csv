@@ -1,0 +1,82 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Loeb, Sebastien",Citroen C4 WRC,FR,A8,"3h 26m 19,7s",NA,NA,NA
+2,2,"Sordo Castillo, Daniel",Citroen C4 WRC,ES,A8,"+47,7s",NA,NA,NA
+3,8,"Duval, Francois",Ford Focus RS WRC 07,BE,A8,"+1m 20,0s",NA,NA,NA
+4,3,"Hirvonen, Mikko",Ford Focus RS WRC 08,FI,A8,"+1m 30,1s",NA,NA,NA
+5,5,"Solberg, Petter",Subaru Impreza WRC2008,NO,A8,"+2m 35,3s",NA,NA,NA
+6,6,"Atkinson, Christopher",Subaru Impreza WRC2008,AU,A8,"+4m 45,9s",NA,NA,NA
+7,15,"Solberg, Henning",Ford Focus RS WRC 07,NO,A8,"+5m 36,2s",NA,NA,NA
+8,18,"Aava, Urmo",Citroen C4 WRC,EE,A8,"+5m 37,8s",NA,NA,NA
+9,4,"Latvala, Jari-Matti",Ford Focus RS WRC 08,FI,A8,"+6m 17,2s",0:30,NA,NA
+10,11,"Gardemeister, Toni",Suzuki SX4 WRC,FI,A8,"+7m 16,8s",NA,NA,NA
+11,19,"Mikkelsen, Andreas",Ford Focus RS WRC 07,NO,A8,"+8m 30,8s",NA,NA,NA
+12,16,"Wilson, Matthew",Ford Focus RS WRC 07,GB,A8,"+8m 48,0s",NA,NA,NA
+13,17,"Rautenbach, Conrad",Citroen C4 WRC,ZW,A8,"+9m 24,7s",NA,NA,NA
+14,21,"al-Qassimi, Khalid",Ford Focus RS WRC 07,AE,A8,"+13m 46,0s",NA,NA,NA
+15,12,"Andersson, Per-Gunnar",Suzuki SX4 WRC,SE,A8,"+14m 18,2s",1:50,NA,NA
+16,25,"Jones, Gareth",Subaru Impreza WRC2007,GB,A8,"+17m 19,9s",NA,NA,NA
+17,63,"van Merksteijn jr, Peter",Ford Focus RS WRC 06,NL,A8,"+17m 34,8s",NA,NA,NA
+18,64,"Kuipers, Dennis",Ford Focus RS WRC 06,NL,A8,"+21m 15,7s",NA,NA,NA
+19,42,"Ogier, Sebastien",Citroen C2 S1600,FR,A6,"+21m 16,3s",NA,NA,NA
+20,62,"Kleinjan, Harry",Skoda Fabia WRC 05,NL,A8,"+21m 29,2s",NA,NA,NA
+21,24,"van Merksteijn, Peter",Ford Focus RS WRC 07,NL,A8,"+23m 54,6s",NA,NA,NA
+22,33,"Burkart, Aaron Nicolai",Citroen C2 S1600,DE,A6,"+24m 50,5s",NA,NA,NA
+23,22,"van Eldik, Mark",Subaru Impreza WRC2007,NL,A8,"+25m 45,6s",1:00,NA,NA
+24,67,"Meeke, Kris",Renault Clio S1600,GB,A6,"+26m 14,2s",NA,NA,NA
+25,48,"Bettega, Alessandro",Renault Clio,IT,A7,"+26m 30,7s",NA,NA,NA
+26,46,"Gallagher, Shaun",Citroen C2 S1600,IE,A6,"+26m 57,2s",NA,NA,NA
+27,72,"Gassner jr, Hermann",Mitsubishi Lancer Evo IX,DE,N4,"+30m 21,6s",NA,NA,NA
+28,23,"Wevers, Erik",Ford Focus RS WRC 06,NL,A8,"+31m 07,8s",2:50,NA,NA
+29,70,"Johansen, Martin",Suzuki Swift S1600,DK,A6,"+31m 33,0s",NA,NA,NA
+30,37,"Bertolotti, Simone",Renault Clio,IT,A7,"+32m 32,0s",NA,NA,NA
+31,73,"Vossen, Henk",Mitsubishi Lancer Evo IX,NL,N4,"+35m 51,6s",NA,NA,NA
+32,86,"Liska, Milan",Mitsubishi Lancer Evo IX,CZ,N4,"+36m 42,5s",NA,NA,NA
+33,71,"Hot, Jean-Nicolas",Subaru Impreza WRX,FR,N4,"+38m 09,2s",NA,NA,NA
+34,45,"Abbring, Kevin",Renault Clio,NL,A7,"+43m 38,2s",NA,NA,NA
+35,68,"Mercier, Eddie",Renault Clio,FR,A7,"+44m 34,3s",NA,NA,NA
+36,34,"Cortinovis, Andrea",Renault Clio S1600,IT,A6,"+44m 35,8s",NA,NA,NA
+37,90,"van Iersel, Martin",Mitsubishi Lancer Evo IX,NL,N4,"+45m 30,7s",0:10,NA,NA
+38,43,"Niegel, Florian",Suzuki Swift S1600,DE,A6,"+46m 16,2s",0:20,NA,NA
+39,89,"van den Heuvel, Gert",Mitsubishi Lancer Evo IX,NL,N4,"+47m 05,9s",0:10,NA,NA
+40,77,"O'Mahoney, Brian",Renault Clio S1600,IE,A6,"+50m 40,8s",0:30,NA,NA
+41,75,"Bodilsen, Klaus",Mitsubishi Lancer Evo VII,DK,N4,"+50m 41,6s",0:50,NA,NA
+42,108,"van der Marel, Jan Timo",Renault Clio,NL,N3,"+51m 28,5s",NA,NA,NA
+43,38,"Fanari, Francesco",Citroen C2 R2,IT,A6,"+54m 02,6s",NA,NA,NA
+44,97,"Yurdakul, Emre",Ford Fiesta ST,TU,N3,"+54m 38,7s",NA,NA,NA
+45,85,"Kuhlmann, Thorsten",Mitsubishi Lancer Evo VII,DE,N4,"+55m 59,7s",NA,NA,NA
+46,103,"Muller-Wende, Joachim",Ford Fiesta ST,DE,N3,"+56m 23,5s",NA,NA,NA
+47,39,"Albertini, Stefano",Renault Clio,IT,A7,"+57m 23,1s",NA,NA,NA
+48,111,"Hohlheimer, Jurgen",Fiat Seicento Sporting,DE,A5,"+1h 00m 00,7s",NA,NA,NA
+49,98,"Cetinkaya Bonnet, Burcu",Ford Fiesta ST,TU,N3,"+1h 00m 59,2s",NA,NA,NA
+50,88,"Hoendervangers, Han",Mitsubishi Lancer Evo VII,NL,N4,"+1h 03m 19,8s",0:30,NA,NA
+51,91,"Anglade, Patrick",Opel Astra,DE,N4,"+1h 05m 25,7s",NA,NA,NA
+52,105,"Moore, Richard",Ford Fiesta ST,GB,N3,"+1h 09m 23,4s",NA,NA,NA
+53,113,"Werner, Andreas",Opel Corsa,DE,N2,"+1h 09m 49,7s",NA,NA,NA
+54,104,"Maertens, Philippe",Ford Fiesta ST,BE,N3,"+1h 10m 11,9s",NA,NA,NA
+55,78,"Pletka, Tomas",Citroen C2 R2,CZ,A6,"+1h 16m 17,5s",4:30,NA,NA
+56,109,"Schroder, Frank",Opel Astra,BE,N3,"+1h 20m 21,7s",NA,NA,NA
+57,112,"Jones, Tim",Ford Ka,GB,A5,"+1h 20m 26,9s",NA,NA,NA
+NA,7,"Galli, Gianluigi",Ford Focus RS WRC 07,IT,A8,NA,NA,SS5,accident
+NA,31,"Prokop, Martin",Citroen C2 S1600,CZ,A6,NA,NA,SS9,mechanical
+NA,44,"Weijs jr, Hans",Citroen C2 R2,NL,A6,NA,NA,SS16,mechanical
+NA,47,"Schammel, Gilles",Renault Clio,LU,A7,NA,NA,SS11,mechanical
+NA,61,"Kuipers, Rene",Ford Focus RS WRC 06,NL,A8,NA,NA,SS18,mechanical
+NA,65,"van den Heuvel, Jasper",Mitsubishi Lancer Evo IX,NL,N4,NA,NA,SS8,mechanical
+NA,66,"Gassner, Hermann",Mitsubishi Lancer Evo IX,DE,N4,NA,NA,TC19C,unknown
+NA,69,"Beck, Karl Friedrich",Renault Clio,DE,A7,NA,NA,SS14,mechanical
+NA,74,"Arazim, Vaclav",Mitsubishi Lancer Evo VIII,CZ,N4,NA,NA,SS2,mechanical
+NA,76,"Otto, Ludvik",Subaru Impreza WRX,CZ,N4,NA,NA,SS4,mechanical
+NA,79,"Abendroth, Michael",Honda Civic Type-R,DE,N3,NA,NA,SS15,mechanical
+NA,83,"Moree, Erik",Mitsubishi Lancer Evo VIII,NL,N4,NA,NA,TC6A,unknown
+NA,84,"Konrath, Andreas",Subaru Impreza,DE,N4,NA,NA,SS2,mechanical
+NA,87,"Tomastik, Jaromir",Subaru Impreza WRX,CZ,N4,NA,NA,SS16,mechanical
+NA,92,"Holz, Armin",Volkswagen Golf TDI,DE,N4,NA,NA,SS9,mechanical
+NA,93,"Wecker, Josef",Opel Astra,DE,N4,NA,NA,SS15,mechanical
+NA,95,"Lauer, Frank",Citroen Saxo,DE,A6,NA,NA,SS19,mechanical
+NA,96,"Baranauskas, Vytautas",Ford Fiesta ST,LT,N3,NA,NA,TC19C,unknown
+NA,99,"Muratoglu, Koray",Ford Fiesta ST,TU,N3,NA,NA,SS7,unknown
+NA,100,"Martin, Anthony",Ford Fiesta ST,BE,N3,NA,NA,SS15,mechanical
+NA,101,"van Parijs, Timothy",Ford Fiesta ST,BE,N3,NA,NA,SS18,mechanical
+NA,106,"Hastir, Charles-Antoine",Ford Fiesta ST,BE,N3,NA,NA,SS12,mechanical
+NA,107,"Schwinn, Sebastian",Peugeot 206,DE,N3,NA,NA,SS15,mechanical
+NA,110,"Arellano, Hugo",Suzuki Swift,LU,N2,NA,NA,SS16,mechanical

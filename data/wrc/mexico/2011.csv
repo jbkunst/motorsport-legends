@@ -1,0 +1,25 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Loeb, Sebastien",Citroen DS3 WRC,FR,A0,"3h 53m 17,0s",NA,NA,NA
+2,3,"Hirvonen, Mikko",Ford Fiesta RS WRC,FI,A0,"+1m 38,4s",NA,NA,NA
+3,4,"Latvala, Jari-Matti",Ford Fiesta RS WRC,FI,A0,"+2m 23,9s",NA,NA,NA
+4,11,"Solberg, Petter",Citroen DS3 WRC,NO,A0,"+7m 38,4s",0:50,NA,NA
+5,6,"Ostberg, Mads",Ford Fiesta RS WRC,NO,A0,"+8m 43,5s",NA,NA,NA
+6,5,"Solberg, Henning",Ford Fiesta RS WRC,NO,A0,"+11m 10,0s",1:20,NA,NA
+7,21,"Prokop, Martin",Ford Fiesta S2000,CZ,A2,"+13m 35,0s",NA,NA,NA
+8,25,"Hanninen, Juho",Skoda Fabia Super 2000,FI,A2,"+14m 48,7s",NA,NA,NA
+9,7,"Villagra, Federico",Ford Fiesta RS WRC,AR,A0,"+48m 17,2s",0:20,NA,NA
+10,22,"Tanak, Ott",Ford Fiesta S2000,EE,A2,"+53m 42,8s",NA,NA,NA
+11,52,"Guerra Latapi, Benito",Mitsubishi Lancer Evo X,MX,A3,"+1h 01m 57,6s",NA,NA,NA
+12,43,"Block, Ken",Ford Fiesta RS WRC,US,A0,"+1h 04m 04,7s",0:40,NA,NA
+13,54,"Name Guzzy Jr, Francisco",Mitsubishi Lancer Evo IX,MX,A3,"+1h 06m 21,2s",NA,NA,NA
+14,55,"Jourdain, Michel",Mitsubishi Lancer Evo IX,MX,A3,"+1h 07m 54,7s",NA,NA,NA
+15,26,"Kruuda, Karl",Skoda Fabia Super 2000,EE,A2,"+1h 13m 00,4s",NA,NA,NA
+16,56,"Sarmiento, Juan Carlos",Peugeot 206,MX,A6,"+1h 48m 07,7s",3:00,NA,NA
+17,57,"Orduna, Luis",Peugeot,MX,A6,"+2h 06m 24,9s",3:50,NA,NA
+NA,2,"Ogier, Sebastien",Citroen DS3 WRC,FR,A0,NA,NA,SS20,suspension
+NA,9,"Kuipers, Dennis",Ford Fiesta RS WRC,NL,A0,NA,NA,SS11,off road
+NA,15,"Wilson, Matthew",Ford Fiesta RS WRC,GB,A0,NA,NA,SS11,mechanical
+NA,23,"al-Attiyah, Nasser",Ford Fiesta S2000,QA,A2,NA,NA,post-rally,technical infringement
+NA,51,"Novikov, Evgeny",Ford Fiesta RS WRC,RU,A0,NA,NA,SS13,unknown
+NA,53,"Salgado, Rodrigo",Mitsubishi Lancer Evo IX,MX,A3,NA,NA,SS20,unknown
+NA,58,"Fonseca, Guillermo",Peugeot 206,MX,A6,NA,NA,SS6,unknown

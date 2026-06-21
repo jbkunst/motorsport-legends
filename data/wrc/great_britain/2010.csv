@@ -1,0 +1,62 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Loeb, Sebastien",Citroen C4 WRC,FR,A8,"3h 14m 54,0s",NA,NA,NA
+2,11,"Solberg, Petter",Citroen C4 WRC,NO,A8,"+19,1s",NA,NA,NA
+3,4,"Latvala, Jari-Matti",Ford Focus RS WRC 09,FI,A8,"+1m 35,3s",NA,NA,NA
+4,3,"Hirvonen, Mikko",Ford Focus RS WRC 09,FI,A8,"+1m 53,3s",NA,NA,NA
+5,7,"Sordo Castillo, Daniel",Citroen C4 WRC,ES,A8,"+2m 12,2s",NA,NA,NA
+6,6,"Solberg, Henning",Ford Focus RS WRC 08,NO,A8,"+6m 26,5s",NA,NA,NA
+7,5,"Wilson, Matthew",Ford Focus RS WRC 08,GB,A8,"+8m 37,8s",NA,NA,NA
+8,8,"Raikkonen, Kimi",Citroen C4 WRC,FI,A8,"+10m 27,9s",NA,NA,NA
+9,14,"Ostberg, Mads",Subaru Impreza,NO,A8,"+12m 13,7s",NA,NA,NA
+10,21,"Mikkelsen, Andreas",Ford Fiesta S2000,NO,N4,"+14m 01,2s",NA,NA,NA
+11,12,"al-Qassimi, Khalid",Ford Focus RS WRC 08,AE,A8,"+16m 08,8s",NA,NA,NA
+12,22,"Breen, Craig",Ford Fiesta S2000,IE,N4,"+20m 03,9s",NA,NA,NA
+13,28,"Pons, Xavier",Ford Fiesta S2000,ES,N4,"+20m 16,7s",NA,NA,NA
+14,24,"Sandell, Patrik",Skoda Fabia Super 2000,SE,N4,"+20m 21,9s",NA,NA,NA
+15,23,"Kosciuszko, Michal",Skoda Fabia Super 2000,PL,N4,"+22m 20,1s",NA,NA,NA
+16,61,"Kuipers, Dennis",Ford Fiesta S2000,NL,N4,"+23m 14,8s",NA,NA,NA
+17,40,"Tanak, Ott",Mitsubishi Lancer Evo X,EE,N4,"+23m 37,0s",NA,NA,NA
+18,31,"Araujo, Armindo",Mitsubishi Lancer Evo X,PT,N4,"+26m 52,8s",0:20,NA,NA
+19,38,"Paddon, Hayden",Mitsubishi Lancer Evo X,NZ,N4,"+28m 04,9s",NA,NA,NA
+20,50,"Pritchard, Jason",Subaru Impreza,GB,N4,"+30m 41,4s",NA,NA,NA
+21,43,"Block, Ken",Ford Focus RS WRC 08,US,A8,"+31m 45,8s",NA,NA,NA
+22,48,"Flodin, Patrik",Subaru Impreza,SE,N4,"+31m 57,9s",NA,NA,NA
+23,69,"Erdi Jr., Tibor",Mitsubishi Lancer Evo IX,HU,N4,"+35m 50,4s",NA,NA,NA
+24,63,"Kuipers, Rene",Ford Focus RS WRC 06,NL,A8,"+36m 38,5s",NA,NA,NA
+25,49,"Weston Jr, Dave",Subaru Impreza,GB,N4,"+38m 24,4s",NA,NA,NA
+26,54,"Jourdain, Michel",Mitsubishi Lancer Evo X,MX,N4,"+39m 35,1s",NA,NA,NA
+27,65,"Boland, Eamonn",Mitsubishi Lancer Evo X,IE,N4,"+40m 18,5s",NA,NA,NA
+28,39,"Raschi, Alex",Mitsubishi Lancer Evo X,SM,N4,"+40m 57,4s",NA,NA,NA
+29,70,"Dettori, Giuseppe",Ford Fiesta S2000,IT,N4,"+41m 44,8s",NA,NA,NA
+30,32,"Arai, Toshihiro",Subaru Impreza,JP,N4,"+44m 01,1s",1:10,NA,NA
+31,64,"Gassner jr, Hermann",Mitsubishi Lancer Evo IX,DE,N4,"+44m 48,7s",NA,NA,NA
+32,55,"Muhonen, Reijo",Mitsubishi Lancer Evo X,FI,N4,"+50m 14,5s",NA,NA,NA
+33,36,"Georgiou, Nicholai",Mitsubishi Lancer Evo X,LB,N4,"+50m 57,6s",NA,NA,NA
+34,73,"Hunt, Harry",Ford Fiesta,GB,A6,"+58m 16,5s",1:00,NA,NA
+35,77,"Pryce, Osian",Ford Fiesta ST,GB,N3,"+1h 02m 23,9s",NA,NA,NA
+36,75,"Perrin, Pierre-Alexander",Ford Fiesta,FR,A6,"+1h 03m 00,8s",0:30,NA,NA
+37,67,"Prinzie, Stefaan",Subaru Impreza,BE,N4,"+1h 03m 54,7s",0:20,NA,NA
+38,37,"Horsey, Peter",Mitsubishi Lancer Evo X,KE,N4,"+1h 04m 48,8s",NA,NA,NA
+39,46,"Grondal, Anders",Subaru Impreza,NO,N4,"+1h 08m 49,0s",NA,NA,NA
+40,74,"al-Shamsi, Majed",Ford Fiesta,AE,A6,"+1h 18m 47,8s",2:40,NA,NA
+41,44,"Nobre, Paulo",Mitsubishi Lancer Evo X,BR,N4,"+1h 21m 22,0s",0:10,NA,NA
+42,78,"Leigh, Kit",Ford Fiesta ST,GB,N3,"+1h 24m 39,0s",NA,NA,NA
+43,80,"Ashmore, Paul",Suzuki Swift,GB,N2,"+1h 35m 04,4s",NA,NA,NA
+44,76,"West, Nick",Ford Fiesta,GB,N3,"+1h 49m 54,3s",0:10,NA,NA
+45,81,"Jones, Darren",Skoda Felicia,GB,A5,"+1h 55m 03,0s",3:20,NA,NA
+NA,2,"Ogier, Sebastien",Citroen C4 WRC,FR,A8,NA,NA,SS8,off road
+NA,15,"Liu, Cao Dong",Ford Focus RS WRC 08,CN,A8,NA,NA,TC18A,fire
+NA,25,"Brynildsen, Eyvind",Skoda Fabia Super 2000,NO,N4,NA,NA,SS9,off road
+NA,26,"Sousa, Bernardo",Ford Fiesta S2000,PT,N4,NA,NA,SS2,mechanical
+NA,29,"Ketomaa, Jari",Ford Fiesta S2000,FI,N4,NA,NA,SS17,off road
+NA,33,"Linari, Gianluca",Subaru Impreza,IT,N4,NA,NA,SS17,rolled
+NA,34,"Semerad, Martin",Mitsubishi Lancer Evo X,CZ,N4,NA,NA,SS18,accident
+NA,45,"Wang, Rui",Subaru Impreza,CN,N4,NA,NA,TC1B,mechanical
+NA,47,"Lancaster, Steve",Subaru Impreza,GB,N4,NA,NA,SS1,personal
+NA,62,"Therman, Mattias",Mitsubishi Lancer Evo X,FI,N4,NA,NA,SS8,unknown
+NA,66,"Stephenson, Peter",Ford Focus WRC,GB,A8,NA,NA,TC16D,unknown
+NA,68,"Cave, Thomas",Proton Satria,GB,N4,NA,NA,SS10,unknown
+NA,71,"Yong, Tan Zhuo",Mitsubishi Lancer Evo X,CN,N4,NA,NA,TC16D,unknown
+NA,72,"Kondrakhin, Nikita",Mitsubishi Lancer Evo IX,RU,N4,NA,NA,TC18C,unknown
+NA,79,"Clark, Tom",Suzuki Swift,GB,N1,NA,NA,TC16D,unknown
+NA,82,"Kruuda, Karl",Suzuki Swift S1600,EE,A6,NA,NA,SS20,unknown

@@ -1,0 +1,58 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Ogier, Sebastien",Ford Fiesta RS WRC 2017,FR,RC1,"3h 06m 12,5s",NA,NA,NA
+2,7,"Latvala, Jari-Matti",Toyota Yaris WRC,FI,RC1,"+10,6s",NA,NA,NA
+3,9,"Lappi, Esapekka",Toyota Yaris WRC,FI,RC1,"+35,1s",NA,NA,NA
+4,11,"Breen, Craig",Citroen C3 WRC,IE,RC1,"+1m 10,4s",NA,NA,NA
+5,5,"Neuville, Thierry",Hyundai i20 Coupe WRC,BE,RC1,"+1m 14,4s",NA,NA,NA
+6,4,"Mikkelsen, Andreas",Hyundai i20 Coupe WRC,NO,RC1,"+1m 15,9s",NA,NA,NA
+7,6,"Paddon, Hayden",Hyundai i20 Coupe WRC,NZ,RC1,"+1m 18,4s",NA,NA,NA
+8,10,"Ostberg, Mads",Citroen C3 WRC,NO,RC1,"+1m 21,6s",NA,NA,NA
+9,36,"Rovanpera, Kalle",Skoda Fabia,FI,RC2,"+9m 14,7s",NA,NA,NA
+10,31,"Tidemand, Pontus",Skoda Fabia,SE,RC2,"+10m 48,9s",NA,NA,NA
+11,32,"Greensmith, Fergus",Ford Fiesta,GB,RC2,"+11m 28,3s",NA,NA,NA
+12,37,"Huttunen, Jari",Hyundai i20,FI,RC2,"+12m 11,5s",NA,NA,NA
+13,40,"Lefebvre, Stephane",Citroen C3,FR,RC2,"+13m 50,1s",NA,NA,NA
+14,33,"Pieniazek, Lukasz",Skoda Fabia,PL,RC2,"+15m 34,8s",NA,NA,NA
+15,42,"Tempestini, Simone",Citroen C3,IT,RC2,"+18m 04,4s",NA,NA,NA
+16,34,"Andolfi, Fabio",Skoda Fabia,IT,RC2,"+18m 21,8s",NA,NA,NA
+17,81,"Edwards, Matt",Ford Fiesta,GB,RC2,"+19m 29,5s",NA,NA,NA
+18,41,"Bulacia Wilkinson, Marco",Skoda Fabia,BO,RC2,"+19m 59,7s",NA,NA,NA
+19,8,"Tanak, Ott",Toyota Yaris WRC,EE,RC1,"+20m 38,9s",NA,NA,NA
+20,2,"Evans, Elfyn",Ford Fiesta RS WRC 2017,GB,RC1,"+21m 28,0s",NA,NA,NA
+21,86,"Laffey, Alex",Ford Fiesta,GB,RC2,"+25m 32,2s",NA,NA,NA
+22,85,"Gill, Gaurav Singh",Ford Fiesta,IN,RC2,"+27m 14,9s",NA,NA,NA
+23,89,"Nobre, Paulo",Skoda Fabia,BR,RC2,"+28m 26,7s",NA,NA,NA
+24,43,"Camilli, Eric",Ford Fiesta,FR,RC2,"+36m 36,2s",NA,NA,NA
+25,87,"Boland, Eamonn",Ford Fiesta,IE,RC2,"+36m 49,9s",NA,NA,NA
+26,35,"Veiby, Ole Christian",Skoda Fabia,NO,RC2,"+42m 15,8s",NA,NA,NA
+27,92,"Rokland, Steve",Peugeot 208,NO,RC4,"+42m 38,7s",NA,NA,NA
+28,64,"Williams, Tom",Ford Fiesta,GB,RC4,"+43m 32,4s",NA,NA,NA
+29,91,"Franceschi, Jean-Baptiste",Ford Fiesta,FR,RC4,"+44m 15,3s",0:10,NA,NA
+30,93,"Williams, James",Opel Adam,GB,RC4,"+47m 40,4s",1:20,NA,NA
+31,62,"Brazzoli, Enrico",Peugeot 208,IT,RC4,"+48m 10,9s",NA,NA,NA
+32,61,"Lario, Taisko",Peugeot 208,FI,RC4,"+50m 27,5s",0:30,NA,NA
+33,95,"Jardine, Tony",Mitsubishi Lancer Evo IX,GB,ASN,"+51m 30,0s",0:30,NA,NA
+34,44,"Ingram, Christopher",Skoda Fabia,GB,RC2,"+54m 33,4s",NA,NA,NA
+35,97,"Morrison, John",Mitsubishi Lancer Evo IX,GB,ASN,"+55m 31,8s",2:00,NA,NA
+36,104,"Waterman, Alex",Ford Fiesta,GB,RC4,"+1h 00m 22,3s",NA,NA,NA
+37,102,"Wilkinson, Spencer",Subaru Impreza WRX,GB,RC2,"+1h 01m 11,4s",NA,NA,NA
+38,63,"Cook, Louise",Ford Fiesta,GB,RC4,"+1h 02m 56,2s",NA,NA,NA
+39,108,"Mulholland, Jonathan",Ford Fiesta,GB,RC4,"+1h 06m 10,8s",NA,NA,NA
+40,100,"Reynolds, Jordan",Ford Fiesta,GB,ASN,"+1h 13m 42,4s",NA,NA,NA
+41,101,"Retson, Finlay",Ford Fiesta,GB,ASN,"+1h 21m 09,3s",NA,NA,NA
+42,39,"Solans Baldo, Nil",Ford Fiesta,ES,RC2,"+1h 22m 01,6s",NA,NA,NA
+43,107,"Tejpar, Nabila",Peugeot 208,GB,RC4,"+1h 26m 12,7s",NA,NA,NA
+44,106,"Hijazi, Saleh",MG ZR,GB,ASN,"+1h 27m 08,5s",0:20,NA,NA
+45,111,"Andrew, Neil",Subaru Impreza,GB,ASN,"+1h 36m 13,6s",NA,NA,NA
+46,109,"Southall, Stephen",Ford Escort,GB,ASN,"+1h 37m 12,0s",0:30,NA,NA
+47,96,"Horgan, Kevin",Skoda Fabia,IE,RC4,"+1h 37m 40,9s",0:10,NA,NA
+48,105,"Lang, Bart",Ford Fiesta,GB,ASN,"+1h 42m 23,1s",0:30,NA,NA
+NA,3,"Suninen, Teemu",Ford Fiesta RS WRC 2017,FI,RC1,NA,NA,TC9E,accident
+NA,38,"Loubet, Pierre-Louis",Hyundai i20,FR,RC2,NA,NA,SS21,mechanical
+NA,82,"Bogie, David",Skoda Fabia,GB,RC2,NA,NA,SS20,mechanical
+NA,83,"Yates, Rhys",Skoda Fabia,GB,RC2,NA,NA,SS15,unknown
+NA,84,"Cave, Thomas",Hyundai i20,GB,RC2,NA,NA,TC21,mechanical
+NA,88,"Kakad, Sacha",Ford Fiesta,GB,RC2,NA,NA,SS11,unknown
+NA,94,"Creighton, William",Peugeot 208,GB,RC4,NA,NA,SS3,unknown
+NA,99,"Partridge, Scott",Subaru Impreza,GB,ASN,NA,NA,TC18E,unknown
+NA,110,"Evans, Iwan",Subaru Impreza,GB,ASN,NA,NA,SS8,unknown

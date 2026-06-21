@@ -1,0 +1,21 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,2,"Biasion, Massimo",Lancia Delta Integrale,IT,A8,6h 55m 27s,NA,NA,NA
+2,7,"Kirkland, Mike",Nissan 200SX,KE,A,+1h 20m 44s,NA,NA,NA
+3,6,"Blomqvist, Stig",Volkswagen Golf GTi,SE,A,+2h 22m 12s,NA,NA,NA
+4,5,"Waldegard, Bjorn",Toyota Supra Turbo,SE,A,+2h 50m 56s,NA,NA,NA
+5,10,"Duncan, Ian",Toyota Supra Turbo,KE,A,+3h 02m 01s,NA,NA,NA
+6,25,"Preston Jr, Vic",Nissan 200SX,KE,A,+3h 39m 54s,NA,NA,NA
+7,12,"Bourne, Peter",Subaru RX Turbo,NZ,A,+3h 43m 18s,NA,NA,NA
+8,14,"Weber, Erwin",Volkswagen Golf GTi,DE,A,+4h 08m 43s,NA,NA,NA
+9,19,"Heather-Hayes, Jim",Subaru RX Turbo,KE,A,+4h 12m 40s,NA,NA,NA
+10,4,"Fiorio, Alessandro",Lancia Delta Integrale,IT,A,+5h 30m 45s,NA,NA,NA
+12,22,"Morgan, Lynda",Nissan March Turbo,GB,A,+19h 00m 51s,NA,NA,NA
+NA,1,"Eklund, Per",Nissan 200SX,SE,A,NA,NA,TC44,gearbox
+NA,3,"Recalde, Jorge",Lancia Delta Integrale,AR,A,NA,NA,TC63,engine
+NA,8,"Rai, Sarbi",Volkswagen Golf GTi,KE,A,NA,NA,TC12,accident
+NA,9,"Sandhu, Manjit",Volkswagen Golf GTi,TZ,A,NA,NA,TC53,OTL
+NA,11,"Stohl, Rudolf",Audi 90 quattro,AT,A,NA,NA,TC14,suspension
+NA,15,"Singh, Satwant",Volkswagen Golf GTi,ZM,A,NA,NA,TC53,OTL
+NA,16,"Njiru, Patrick",Subaru RX Turbo,KE,A,NA,NA,TC30,co-driver injury
+NA,17,"Rautenbach, Billy",Toyota Supra Turbo,ZW,A,NA,NA,TC6,clutch
+NA,65,"de Mevius, Gregoire",Mazda 323,BE,N,NA,NA,TC71,gearbox

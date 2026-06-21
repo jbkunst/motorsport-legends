@@ -1,0 +1,55 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,10,"Makinen, Tommi",Subaru Impreza WRC2001,FI,A8,"3h 59m 30,7s",NA,NA,NA
+2,21,"Loeb, Sebastien",Citroen Xsara WRC,FR,A8,"+1m 14,1s",2:00,NA,NA
+3,4,"Sainz, Carlos",Ford Focus RS WRC 02,ES,A8,"+1m 15,7s",NA,NA,NA
+4,5,"McRae, Colin",Ford Focus RS WRC 02,GB,A8,"+1m 58,0s",0:10,NA,NA
+5,2,"Gronholm, Marcus",Peugeot 206WRC (2001),FI,A8,"+2m 07,4s",NA,NA,NA
+6,11,"Solberg, Petter",Subaru Impreza WRC2001,NO,A8,"+2m 29,6s",0:20,NA,NA
+7,3,"Panizzi, Gilles",Peugeot 206WRC (2001),FR,A8,"+3m 20,1s",2:10,NA,NA
+8,1,"Burns, Richard",Peugeot 206WRC (2001),GB,A8,"+4m 16,4s",NA,NA,NA
+9,7,"Delecour, Francois",Mitsubishi Lancer WRC,FR,A8,"+5m 35,7s",NA,NA,NA
+10,15,"Gardemeister, Toni",Skoda Octavia WRC Evo2,FI,A8,"+6m 42,4s",NA,NA,NA
+11,26,"Thiry, Bruno",Peugeot 206 WRC,BE,A8,"+7m 24,9s",NA,NA,NA
+12,6,"Martin, Markko",Ford Focus RS WRC 02,EE,A8,"+8m 02,3s",NA,NA,NA
+13,14,"Eriksson, Kenneth",Skoda Octavia WRC Evo2,SE,A8,"+10m 09,8s",NA,NA,NA
+14,8,"McRae, Alister",Mitsubishi Lancer WRC,GB,A8,"+11m 27,6s",NA,NA,NA
+15,27,"Kremer, Armin",Ford Focus RS WRC 01,DE,A8,"+14m 26,0s",NA,NA,NA
+16,29,"Stohl, Manfred",Toyota Corolla WRC,AT,A8,"+15m 05,7s",NA,NA,NA
+17,55,"Duval, Francois",Ford Puma S1600,BE,A6,"+25m 35,5s",NA,NA,NA
+18,60,"Caldani, Nicola",Peugeot 206 S1600,IT,A6,"+29m 50,4s",NA,NA,NA
+19,78,"Feghali, Roger",Ford Puma S1600,LB,A6,"+32m 46,1s",NA,NA,NA
+20,67,"Carlsson, Daniel",Ford Puma S1600,SE,A6,"+32m 59,6s",NA,NA,NA
+21,71,"Doppelreiter, David",Peugeot 206 S1600,AT,A6,"+35m 23,3s",2:30,NA,NA
+22,68,"Schelle, Nikolaus",Suzuki Ignis S1600,DE,A6,"+35m 25,9s",NA,NA,NA
+23,32,"Hein, Richard",Subaru Impreza,MC,A8,"+37m 28,7s",NA,NA,NA
+24,76,"Foss, Alexander",Fiat Punto S1600,NO,A6,"+43m 05,8s",1:00,NA,NA
+25,57,"Galanti, Alejandro",Ford Puma S1600,PY,A6,"+51m 37,3s",0:10,NA,NA
+26,59,"Kangas, Juha",Suzuki Ignis S1600,FI,A6,"+52m 23,5s",NA,NA,NA
+NA,16,"Kresta, Roman",Skoda Octavia WRC Evo2,CZ,A8,NA,NA,SS7,accident
+NA,17,"Schwarz, Armin",Hyundai Accent WRC2,DE,A8,NA,NA,SS4,accident
+NA,18,"Loix, Freddy",Hyundai Accent WRC2,BE,A8,NA,NA,SS3,accident
+NA,20,"Radstrom, Thomas",Citroen Xsara WRC,SE,A8,NA,NA,TC1A,engine
+NA,22,"Bugalski, Philippe",Citroen Xsara WRC,FR,A8,NA,NA,TC1A,engine
+NA,24,"Auriol, Didier",Toyota Corolla WRC,FR,A8,NA,NA,SS1,engine
+NA,25,"Rovanpera, Harri",Peugeot 206 WRC,FI,A8,NA,NA,SS7,steering
+NA,31,"Burri, Olivier",Peugeot 206 WRC,CH,A8,NA,NA,SS4,mechanical
+NA,33,"Errani, Riccardo",Skoda Octavia WRC,IT,A8,NA,NA,SS6,mechanical
+NA,34,"Menegatto, Marco",Toyota Corolla WRC,IT,A8,NA,NA,SS4,mechanical
+NA,35,"Dati, Emanuele",Ford Focus WRC,IT,A8,NA,NA,SS4,mechanical
+NA,51,"Dallavilla, Andrea",Citroen Saxo S1600,IT,A6,NA,NA,SS1,unknown
+NA,52,"McShea, Niall",Opel Corsa S1600,GB,A6,NA,NA,SS1,off road
+NA,53,"Basso, Giandomenico",Fiat Punto S1600,IT,A6,NA,NA,SS4,off road
+NA,54,"Stenshorne, Martin",Peugeot 206 S1600,NO,A6,NA,NA,SS6,mechanical
+NA,56,"Valimaki, Jussi",Citroen Saxo S1600,FI,A6,NA,NA,SS1,off road
+NA,58,"Chemin, Christian",Fiat Punto S1600,IT,A6,NA,NA,SS7,off road
+NA,61,"Evans, Gwyndaf",MG ZR S1600,GB,A6,NA,NA,SS3,off road
+NA,62,"Tuohino, Janne",Citroen Saxo S1600,FI,A6,NA,NA,SS4,mechanical
+NA,63,"Rowe, Martin",Ford Puma S1600,GB,A6,NA,NA,TC10A,mechanical
+NA,65,"Sola, Daniel",Citroen Saxo S1600,ES,A6,NA,NA,SS4,mechanical
+NA,66,"Baldacci, Mirco",Citroen Saxo S1600,SM,A6,NA,NA,SS4,mechanical
+NA,69,"Katajamaki, Kosti",Volkswagen Polo S1600,FI,A6,NA,NA,SS3,mechanical
+NA,70,"Haaf, Sven",Citroen Saxo S1600,DE,A6,NA,NA,SS1,mechanical
+NA,72,"Blazquez, Marc",Ford Puma S1600,ES,A6,NA,NA,SS14,mechanical
+NA,73,"Llovera, Albert",Fiat Punto S1600,AD,A6,NA,NA,TC13A,mechanical
+NA,75,"Niwa, Kazuhiko",Suzuki Swift GTI,JP,A6,NA,NA,SS1,mechanical
+NA,77,"Roig, Paco",Fiat Punto S1600,ES,A6,NA,NA,SS1,unknown

@@ -1,0 +1,31 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Makinen, Tommi",Mitsubishi Lancer Evo IV,FI,A8,4h 25m 38s,NA,NA,NA
+2,3,"McRae, Colin",Subaru Impreza WRC97,GB,A8,+1m 01s,NA,NA,NA
+3,4,"Eriksson, Kenneth",Subaru Impreza WRC97,SE,A8,+4m 28s,NA,NA,NA
+4,8,"Gronholm, Marcus",Toyota Celica GT-Four (ST205),FI,A8,+9m 38s,NA,NA,NA
+5,7,"Auriol, Didier",Toyota Celica GT-Four (ST205),FR,A8,+14m 35s,NA,NA,NA
+6,17,"Trelles, Gustavo",Mitsubishi Lancer Evo III,UY,N4,+24m 00s,NA,NA,NA
+7,10,"Sufan, Raul",Toyota Celica GT-Four (ST205),AR,A8,+24m 13s,NA,NA,NA
+8,11,"Rovanpera, Harri",Seat Ibiza GTi 16V,FI,A7,+29m 43s,NA,NA,NA
+9,12,"Gomez Marco, Oriol",Seat Ibiza GTi 16V,ES,A7,+33m 06s,NA,NA,NA
+10,15,"Sibera, Pavel",Skoda Felicia Kit-Car,CZ,A6,+34m 07s,NA,NA,NA
+11,23,"Sanchez, Roberto",Subaru Impreza,AR,N4,+35m 00s,NA,NA,NA
+12,19,"Stohl, Manfred",Mitsubishi Lancer Evo III,AT,N4,"h:mm:ss,s",NA,NA,NA
+13,20,"Gottlicher, Kurt",Mitsubishi Lancer Evo III,AT,N4,+41m 32s,NA,NA,NA
+14,18,"Recalde, Jorge",Mitsubishi Lancer Evo IV,AR,N4,+56m 14s,NA,NA,NA
+15,32,"Gonzalez, Aurelino",Subaru Impreza,PY,N4,+1h 03m 45s,NA,NA,NA
+16,38,"Chiaramello, Oscar",Renault 18 GTX,AR,A7,+1h 26m 39s,NA,NA,NA
+18,43,"Gavina, Pablo",Renault 18 GTX,AR,A7,+1h 33m 33s,NA,NA,NA
+19,52,"Bissio, Ricardo Atilio",Renault 18 GTX,AR,A7,+1h 33m 40s,NA,NA,NA
+21,58,"Ortiz, Heriberto",Suzuki Swift GTI,AR,N1,+2h 16m 17s,NA,NA,NA
+23,49,"Abella Nazar, Arturo",Renault Clio,AR,N3,+2h 24m 26s,NA,NA,NA
+NA,2,"Burns, Richard",Mitsubishi Carisma GT,GB,A8,NA,NA,SS16,suspension
+NA,5,"Sainz, Carlos",Ford Escort WRC,ES,A8,NA,NA,SS21,engine
+NA,6,"Kankkunen, Juha",Ford Escort WRC,FI,A8,NA,NA,SS16,suspension
+NA,9,"Galanti, Marco",Toyota Celica GT-Four (ST205),PY,A8,NA,NA,SS1,unknown
+NA,14,"Triner, Emil",Skoda Felicia Kit-Car,CZ,A6,NA,NA,NA,unknown
+NA,16,"Raies, Gabriel",Renault Clio Williams,AR,A7,NA,NA,NA,unknown
+NA,21,"Suriani, Walter",Renault Clio Williams,AR,A7,NA,NA,NA,unknown
+NA,22,"Preto, Daniel",Mitsubishi Lancer Evo III,AR,N4,NA,NA,NA,unknown
+NA,31,"Gallusser, Martin",Mitsubishi Lancer Evo III,AR,N4,NA,NA,SS22,unknown
+NA,36,"Torras, Miguel",Honda Civic,AR,A6,NA,NA,NA,unknown

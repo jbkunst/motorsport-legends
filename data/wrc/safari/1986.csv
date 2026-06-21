@@ -1,0 +1,20 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,2,"Waldegard, Bjorn",Toyota Celica Twincam Turbo,SE,B,5h 06m,NA,NA,NA
+2,10,"Torph, Lars-Erik",Toyota Celica Twincam Turbo,SE,B,+28m,NA,NA,NA
+3,3,"Alen, Markku",Lancia Rally 037 evo,FI,B,+1h 06m,NA,NA,NA
+4,8,"Weber, Erwin",Toyota Celica Twincam Turbo,DE,B,+1h 14m,NA,NA,NA
+5,1,"Kankkunen, Juha",Peugeot 205 Turbo 16 E2,FI,B,+2h 06m,NA,NA,NA
+6,5,"Kirkland, Mike",Subaru RX Turbo,KE,A,+2h 31m,NA,NA,NA
+7,19,"Tundo, Frank",Subaru RX Turbo,KE,A,+3h 05m,NA,NA,NA
+8,6,"Mehta, Shekhar",Peugeot 205 Turbo 16 E2,KE,B,+3h 06m,NA,NA,NA
+9,20,"Criticos, Greg",Lancia Rally 037 evo,KE,B,+3h 59m,NA,NA,NA
+10,27,"Hellier, John",Lancia Rally 037 evo,KE,B,+4h 05m,NA,NA,NA
+12,18,"Wittman, Franz",Volkswagen Golf GTi,AT,A,NA,NA,NA,NA
+NA,4,"Biasion, Massimo",Lancia Rally 037 evo,IT,B,NA,NA,TC36,engine
+NA,7,"Shah, Jayant",Nissan 240 RS,KE,B,NA,NA,TC45,accident
+NA,14,"Preston Jr, Vic",Lancia Rally 037 evo,KE,B,NA,NA,TC28,accident
+NA,15,"Bourne, Peter",Subaru RX Turbo,NZ,A,NA,NA,TC34,accident
+NA,16,"Molino, Alessandro",Subaru Leone 4WD,IT,A,NA,NA,TC10,OTL
+NA,17,"Eriksson, Kenneth",Volkswagen Golf GTi,SE,A,NA,NA,TC52,fatal accident
+NA,22,"Stohl, Rudolf",Audi 80 quattro,AT,A,NA,NA,TC26,engine
+NA,23,"Duncan, Ian",Toyota Corolla,KE,A,NA,NA,NA,engine

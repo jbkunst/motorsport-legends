@@ -1,0 +1,22 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,7,"Carlsson, Ingvar",Mazda 323 4WD,SE,A8,4h 58m 15s,NA,NA,NA
+2,4,"Eklund, Per",Lancia Delta Integrale,SE,A,+1m 03s,NA,NA,NA
+3,6,"Eriksson, Kenneth",Toyota Celica GT-4 (ST165),SE,A,+1m 42s,NA,NA,NA
+4,3,"Ericsson, Mikael",Lancia Delta Integrale,SE,A,+3m 43s,NA,NA,NA
+5,1,"Blomqvist, Stig",Audi 200 quattro,SE,A,+4m 37s,NA,NA,NA
+6,23,"Lindholm, Sebastian",Lancia Delta Integrale,FI,A,+4m 45s,NA,NA,NA
+7,18,"Asterhag, Leif",Toyota Celica GT-4 (ST165),SE,A,+5m 02s,NA,NA,NA
+8,20,"Walfridsson, Stig-Olov",Audi 80 quattro,SE,A,+9m 30s,NA,NA,NA
+9,11,"Johansson, Bjorn",Opel Kadett GSi,SE,A,+9m 42s,NA,NA,NA
+10,13,"Eriksson, Hakan",Opel Kadett GSi,SE,A,+11m 16s,NA,NA,NA
+12,21,"Jonsson, Mats",Opel Kadett GSi,SE,A,NA,NA,NA,NA
+14,14,"Nilsson, Soren",Lancia Delta Integrale,SE,N,+15m 52s,NA,NA,NA
+15,55,"McRae, Colin",Ford Sierra XR4x4,GB,A,NA,NA,NA,NA
+22,2,"Salonen, Timo",Mazda 323 4WD,FI,A,+34m 11s,NA,NA,NA
+NA,5,"Torph, Lars-Erik",Audi Coupe,SE,A,NA,NA,SS13,ignition
+NA,8,"Sundstrom, Mikael",Mazda 323 4WD,FI,A,NA,NA,SS5,rear differential
+NA,9,"Edling, Thornbjorn",Mazda 323 4WD,SE,A,NA,NA,SS5,turbo
+NA,10,"Johansson, Erik",Lancia Delta Integrale,SE,A,NA,NA,SS26,accident
+NA,19,"Danielsson, Bror",Mazda 323 4WD,SE,A,NA,NA,SS6,turbo
+NA,25,"Palmqvist, Tomi",Audi Coupe,FI,A,NA,NA,SS4,accident
+NA,28,"Makinen, Tommi",Lancia Delta Integrale,FI,N,NA,NA,NA,transmission

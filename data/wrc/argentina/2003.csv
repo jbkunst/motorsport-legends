@@ -1,0 +1,79 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Gronholm, Marcus",Peugeot 206WRC (2002),FI,A8,"4:14:45,0",NA,NA,NA
+2,19,"Sainz, Carlos",Citroen Xsara WRC,ES,A8,"+26,6",1:00,NA,NA
+3,2,"Burns, Richard",Peugeot 206WRC (2002),GB,A8,"+1:12,8",NA,NA,NA
+4,3,"Rovanpera, Harri",Peugeot 206WRC (2002),FI,A8,"+2:19,3",NA,NA,NA
+5,7,"Solberg, Petter",Subaru Impreza WRC2003,NO,A8,"+3:11,4",NA,NA,NA
+6,14,"Auriol, Didier",Skoda Octavia WRC Evo3,FR,A8,"+7:58,5",NA,NA,NA
+7,15,"Gardemeister, Toni",Skoda Octavia WRC Evo3,FI,A8,"+8:33,7",1:00,NA,NA
+8,5,"Duval, Francois",Ford Focus RS WRC 03,BE,A8,"+11:55,3",0:40,NA,NA
+9,54,"Arai, Toshihiro",Subaru Impreza WRX,JP,N4,"+20:01,7",NA,NA,NA
+10,33,"Raies, Gabriel",Toyota Corolla WRC,AR,A8,"+20:03,4",NA,NA,NA
+11,21,"Warmbold, Antony",Ford Focus RS WRC 02,DE,A8,"+20:51,8",NA,NA,NA
+12,52,"Sola, Daniel",Mitsubishi Lancer Evo VII,ES,N4,"+22:11,3",NA,NA,NA
+13,51,"Singh, Karamjit",Proton Pert,MY,N4,"+23:28,4",NA,NA,NA
+14,57,"Manfrinato, Giovanni",Mitsubishi Lancer Evo VI,IT,N4,"+24:26,9",0:30,NA,NA
+15,102,"Villagra, Federico",Mitsubishi Lancer Evo VI,AR,N4,"+33:31,3",0:50,NA,NA
+16,6,"Hirvonen, Mikko",Ford Focus RS WRC 02,FI,A8,"+36:52,4",1:00,NA,NA
+17,107,"Rosselot, Luis Ignacio",Mitsubishi Lancer Evo V,CL,N4,"+37:31,7",NA,NA,NA
+18,77,"de Dominicis, Alfredo",Mitsubishi Lancer Evo VII,IT,N4,"+45:06,0",NA,NA,NA
+19,100,"Lloyd, John",Mitsubishi Lancer Evo VI,GB,N4,"+46:27,9",NA,NA,NA
+20,109,"Font, Ferran",Mitsubishi Lancer Evo VII,AD,N4,"+50:10,1",1:20,NA,NA
+21,121,"Pardo, Roberto",Subaru Impreza WRX,PE,N4,"+50:59,4",0:10,NA,NA
+22,80,"Trivino Bujalil, Ricardo",Mitsubishi Lancer Evo VII,MX,N4,"+1:01:49,3",0:20,NA,NA
+23,118,"Odriozola, Juan Martin",Mitsubishi Lancer Evo IV,AR,N4,"+1:16:05,0",1:10,NA,NA
+24,70,"Errani, Riccardo",Mitsubishi Lancer Evo VI,IT,N4,"+1:16:27,3",0:20,NA,NA
+25,111,"Kobayashi, Wakujiro",Mitsubishi Lancer Evo VII,JP,N4,"+1:22:38,2",2:00,NA,NA
+26,138,"Angeloni, Jorge Ernesto",Seat Ibiza GTi 16V,AR,N3,"+1:22:53,1",0:10,NA,NA
+27,137,"Kopousshian, Diego",Seat Ibiza GTi 16V,AR,N3,"+1:23:54,4",1:00,NA,NA
+28,140,"Ledesma, Saul",Seat Ibiza GTi 16V,AR,N3,"+1:33:49,0",0:10,NA,NA
+29,143,"Castelli, Roberto",Seat Ibiza GTi 16V,AR,N3,"+1:56:10,7",NA,NA,NA
+30,133,"Aguirre, Eduardo C.",Renault Clio Williams,CL,A7,"+1:58:10,5",0:10,NA,NA
+31,151,"Bottazzini, Guillermo",Honda Civic,AR,N2,"+2:11:35,8",1:20,NA,NA
+32,142,"Dechecchi, Gustavo",Renault Megane,AR,A7,"+2:18:57,6",1:00,NA,NA
+33,139,"Simonetta, Gustavo",Seat Ibiza GTi 16V,AR,N3,"+2:19:09,8",1:00,NA,NA
+NA,4,"Martin, Markko",Ford Focus RS WRC 03,EE,A8,NA,NA,SS21,mechanical
+NA,8,"Makinen, Tommi",Subaru Impreza WRC2003,FI,A8,NA,NA,TC22D,too far behind
+NA,10,"Schwarz, Armin",Hyundai Accent WRC3,DE,A8,NA,NA,SS24,engine
+NA,11,"Loix, Freddy",Hyundai Accent WRC3,BE,A8,NA,NA,TC6B,mechanical
+NA,17,"McRae, Colin",Citroen Xsara WRC,GB,A8,NA,NA,SS9,fire
+NA,18,"Loeb, Sebastien",Citroen Xsara WRC,FR,A8,NA,NA,SS20,mechanical
+NA,32,"Pozzo, Gabriel",Skoda Octavia WRC Evo3,AR,A8,NA,NA,TC0,mechanical
+NA,53,"Ferreyros, Ramon",Mitsubishi Lancer Evo VII,PE,N4,NA,NA,TC6A,mechanical
+NA,58,"Ligato, Marcos",Mitsubishi Lancer Evo VII,AR,N4,NA,NA,SS6,mechanical
+NA,59,"Marrini, Stefano",Mitsubishi Lancer Evo VII,IT,N4,NA,NA,SS8,mechanical
+NA,60,"McShea, Niall",Mitsubishi Lancer Evo VI,GB,N4,NA,NA,SS24,mechanical
+NA,66,"al-Wahaibi, Hamed",Mitsubishi Lancer Evo VII,OM,N4,NA,NA,TC2B,mechanical
+NA,69,"Colsoul, Bob",Mitsubishi Lancer Evo VI,BE,N4,NA,NA,TC2A,mechanical
+NA,71,"Geradzhiev, Georgi",Mitsubishi Lancer Evo VI,BG,N4,NA,NA,SS8,mechanical
+NA,74,"Frisiero, Fabio",Mitsubishi Lancer Evo VII,IT,N4,NA,NA,TC13A,mechanical
+NA,76,"Richard, Patrick",Subaru Impreza WRX,CA,N4,NA,NA,TC9C,mechanical
+NA,101,"Ceccato, Massimo",Mitsubishi Lancer Evo VI,IT,N4,NA,NA,SS9,mechanical
+NA,103,"Sanchez, Roberto",Subaru Impreza WRX,AR,N4,NA,NA,SS9,mechanical
+NA,104,"Beltran, Sebastian",Subaru Impreza WRX,AR,N4,NA,NA,SS11,mechanical
+NA,105,"Perez Companc, Luis",Mitsubishi Lancer Evo VII,AR,N4,NA,NA,SS9,mechanical
+NA,110,"Montalto, Andres",Subaru Impreza WRX,CR,N4,NA,NA,SS10,mechanical
+NA,114,"Tasca, Elder",Mitsubishi Lancer Evo IV,AR,N4,NA,NA,SS18,mechanical
+NA,115,"Concha, Ricardo",Mitsubishi Lancer Evo VI,CL,N4,NA,NA,SS16,mechanical
+NA,117,"Ortiz, Heriberto",Mitsubishi Lancer Evo VI,AR,N4,NA,NA,SS18,mechanical
+NA,119,"Marrocchi, Daniel",Mitsubishi Lancer Evo VI,AR,N4,NA,NA,SS9,mechanical
+NA,120,"Fernandez, Javier",Hyundai Coupe Kit Car Evo2,UY,A7,NA,NA,SS16,mechanical
+NA,123,"Serrano, Javier",Mitsubishi Lancer Evo V,EC,N4,NA,NA,TC2A,mechanical
+NA,124,"Cravero, Alfredo",Subaru Impreza WRX,AR,N4,NA,NA,SS8,mechanical
+NA,126,"Abella Nazar, Arturo",Mitsubishi Lancer Evo VI,AR,N4,NA,NA,SS8,mechanical
+NA,127,"Gallusser, Martin",Mitsubishi Lancer Evo III,AR,A8,NA,NA,SS3,mechanical
+NA,130,"Borgiattino, Gustavo",Subaru Impreza WRX,AR,N4,NA,NA,TC9A,mechanical
+NA,131,"Solis, Juan Manuel",Fiat Palio S1600,AR,A6,NA,NA,TC6A,mechanical
+NA,134,"Biondi, Juan Carlos",Renault Clio Williams,IT,A7,NA,NA,TC6A,mechanical
+NA,135,"Naranjo, Juan Carlos",Seat Ibiza GTi 16V,EC,A7,NA,NA,SS9,mechanical
+NA,136,"Alonso, Juan Carlos",Fiat Palio S1600,AR,A6,NA,NA,SS9,mechanical
+NA,141,"Padin, Daniel",Seat Ibiza GTi 16V,AR,N3,NA,NA,TC22C,mechanical
+NA,144,"Cuevas, Carlos",Seat Ibiza GTi 16V,AR,A7,NA,NA,SS16,mechanical
+NA,145,"Save, Sebastian",Renault Clio,AR,N3,NA,NA,TC22A,mechanical
+NA,146,"Bonaparte, Daniel Ruiz",Fiat Palio S1600,AR,A6,NA,NA,SS3,mechanical
+NA,147,"Grane, Martin",Fiat Palio S1600,AR,A6,NA,NA,TC2C,mechanical
+NA,148,"Diaz, Jorge Antonio",Fiat Palio S1600,AR,A6,NA,NA,TC19A,mechanical
+NA,149,"Alvarez, Benjamin",Seat Ibiza GTi 16V,AR,N3,NA,NA,SS5,mechanical
+NA,150,"Menendez, Alejandro",Renault Clio,AR,N3,NA,NA,SS24,mechanical
+NA,152,"Alenaz, Gonzalo",Opel Vauxhall (?),AR,N2,NA,NA,SS22,mechanical
+NA,153,"Blanco, Fabian",Opel Vauxhall (?),AR,N2,NA,NA,SS9,mechanical

@@ -1,0 +1,22 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,4,"Alen, Markku",Lancia Delta HF 4WD,FI,A8,5h 02m 31s,NA,NA,NA
+2,3,"Blomqvist, Stig",Ford Sierra XR4x4,SE,A,+1m 37s,NA,NA,NA
+3,6,"Torph, Lars-Erik",Audi Coupe,SE,A,+7m 32s,NA,NA,NA
+4,24,"Johansson, Erik",Audi Coupe,SE,A,+9m 56s,NA,NA,NA
+5,36,"Eriksson, Hakan",Opel Kadett GSi,SE,A,+11m 37s,NA,NA,NA
+6,27,"Johansson, Bjorn",Opel Kadett GSi,SE,A,+11m 46s,NA,NA,NA
+7,26,"Danielsson, Bror",Audi Coupe,SE,A,+12m 16s,NA,NA,NA
+8,16,"Wilson, Malcolm",Opel Kadett GSi,GB,A,+13m 47s,NA,NA,NA
+9,15,"Lindholm, Sebastian",Audi Coupe,FI,A,+14m 11s,NA,NA,NA
+10,34,"Jansson, Tomas",Audi 80 quattro,SE,A,+16m 08s,NA,NA,NA
+11,7,"Fiorio, Alessandro",Lancia Delta HF 4WD,IT,A,+17m 49s,NA,NA,NA
+12,45,"Nilsson, Soren",Lancia Delta HF 4WD,SE,N,+19m 01s,NA,NA,NA
+13,10,"Edling, Thornbjorn",Mazda 323 4WD,SE,A,NA,NA,NA,NA
+28,46,"Kullang, Anders",BMW 325i,SE,N,NA,NA,NA,NA
+NA,1,"Salonen, Timo",Mazda 323 4WD,FI,A,NA,NA,SS5,engine
+NA,2,"Ericsson, Mikael",Lancia Delta HF 4WD,SE,A,NA,NA,SS13,overheating
+NA,5,"Mikkola, Hannu",Mazda 323 4WD,FI,A,NA,NA,SS11,engine
+NA,9,"Eklund, Per",Lancia Delta HF 4WD,SE,A,NA,NA,SS9,engine
+NA,11,"Sundstrom, Mikael",Mazda 323 4WD,FI,A,NA,NA,SS12,accident
+NA,12,"Grundel, Karl",Mazda 323 4WD,SE,A,NA,NA,SS16,engine
+NA,13,"Jonsson, Mats",Opel Kadett GSi,SE,A,NA,NA,SS23,driveshaft failure

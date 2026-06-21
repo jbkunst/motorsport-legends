@@ -1,0 +1,42 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,4,"Auriol, Didier",Toyota Corolla WRC,FR,A8,"3h 38m 36,6s",NA,NA,NA
+2,5,"Burns, Richard",Subaru Impreza WRC99,GB,A8,"+55,8s",NA,NA,NA
+3,3,"Sainz, Carlos",Toyota Corolla WRC,ES,A8,"+2m 19,4s",NA,NA,NA
+4,6,"Kankkunen, Juha",Subaru Impreza WRC99,FI,A8,"+5m 18,1s",NA,NA,NA
+5,9,"Rovanpera, Harri",Seat Cordoba WRC Evo2,FI,A8,"+9m 15,4s",NA,NA,NA
+6,11,"Isik, Volkan",Toyota Corolla WRC,TU,A8,"+16m 05,7s",0:20,NA,NA
+7,21,"Arai, Toshihiro",Subaru Impreza WRX,JP,N4,"+19m 55,9s",NA,NA,NA
+8,15,"Trelles, Gustavo",Mitsubishi Lancer Evo V,UY,N4,"+27m 57,0s",NA,NA,NA
+9,22,"Taguchi, Katsuhiko",Mitsubishi Lancer Evo VI,JP,N4,"+31m 10,2s",NA,NA,NA
+10,26,"McRae, Alister",Hyundai Coupe Kit Car Evo2,GB,A7,"+33m 15,1s",NA,NA,NA
+11,24,"Eriksson, Kenneth",Hyundai Coupe Kit Car Evo2,SE,A7,"+34m 19,5s",NA,NA,NA
+12,19,"Guest, Michael",Subaru Impreza,AU,N4,"+45m 23,3s",0:30,NA,NA
+13,32,"Chan, Chi Wah",Mitsubishi Lancer Evo V,CN,N4,"+49m 23,4s",NA,NA,NA
+14,28,"Mazlan, Saladin",Proton Wira 4WD,MY,N4,"+51m 02,8s",NA,NA,NA
+15,29,"Kahlfuss, Michael",Toyota Celica GT-Four (ST205),DE,N4,"+1h 07m 42,1s",NA,NA,NA
+16,33,"Wong, Yau Kwan",Subaru Impreza 555,HK,N4,"+1h 08m 08,9s",NA,NA,NA
+17,42,"Yao, Jindong",Mitsubishi Lancer Evo III,CN,N4,"+1h 29m 03,7s",NA,NA,NA
+18,41,"Huang, Qingguo",Mitsubishi Lancer Evo III,CN,N4,"+1h 30m 18,7s",NA,NA,NA
+19,50,"Wen, Fan",Peugeot 106,CN,N2,"+1h 41m 09,4s",NA,NA,NA
+20,37,"Chan, Yu Ping",Subaru Impreza 555,HK,N4,"+1h 54m 55,0s",NA,NA,NA
+21,58,"Xue, Lei",Peugeot 106,CN,N2,"+2h 06m 43,4s",NA,NA,NA
+22,56,"Yan, Zhongmin",Peugeot 106,CN,N2,"+2h 07m 35,9s",NA,NA,NA
+23,66,"Wang, Da Peng",Peugeot 106,CN,N2,"+2h 09m 44,8s",NA,NA,NA
+24,62,"Tang, Guangren",Peugeot 106,CN,N2,"+2h 25m 10,3s",NA,NA,NA
+25,61,"Shaw, Sabrina",Peugeot 106,GB,N2,"+2h 54m 43,0s",NA,NA,NA
+NA,1,"Makinen, Tommi",Mitsubishi Lancer Evo VI,FI,A8,NA,NA,SS16,suspension
+NA,2,"Loix, Freddy",Mitsubishi Carisma GT,BE,A8,NA,NA,SS7,off road
+NA,7,"McRae, Colin",Ford Focus WRC,GB,A8,NA,NA,SS1,suspension
+NA,8,"Radstrom, Thomas",Ford Focus WRC,SE,A8,NA,NA,SS1,suspension
+NA,10,"Liatti, Piero",Seat Cordoba WRC Evo2,IT,A8,NA,NA,SS8,water in engine
+NA,12,"Bakhashab, Abdullah",Toyota Corolla WRC,SA,A8,NA,NA,SS10,suspension
+NA,13,"Puras, Jesus",Toyota Corolla WRC,ES,A8,NA,NA,SS5,electrics
+NA,16,"al-Wahaibi, Hamed",Mitsubishi Lancer Evo V,OM,N4,NA,NA,SS21,mechanical
+NA,17,"Kataoka, Yoshihiro",Mitsubishi Lancer Evo V,JP,A8,NA,NA,SS7,engine
+NA,18,"Kamada, Takuma",Toyota Corolla WRC,JP,A8,NA,NA,SS4,off road
+NA,23,"Konishi, Shigeyuki",Subaru Impreza 555,JP,N4,NA,NA,SS9,mechanical
+NA,25,"Tajima, Nobuhiro",Suzuki Baleno Kit Car,JP,A7,NA,NA,SS4,accident
+NA,27,"Ferreyros, Ramon",Mitsubishi Lancer Evo VI,PE,N4,NA,NA,SS3,unknown
+NA,30,"Nutahara, Fumio",Mitsubishi Lancer Evo V,JP,N4,NA,NA,SS17,unknown
+NA,34,"Font, Ferran",Seat Ibiza GTi 16V,AD,A7,NA,NA,SS4,road accident
+NA,51,"Higgins, David",FAW-Volkswagen Jetta,GB,N2,NA,NA,SS8,steering

@@ -1,0 +1,93 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"Delecour, Francois",Ford Escort RS Cosworth,FR,A8,6h 14m 41s,NA,NA,NA
+2,1,"Auriol, Didier",Toyota Celica Turbo 4WD (ST185),FR,A,+1m 02s,NA,NA,NA
+3,5,"Chatriot, Francois",Toyota Celica Turbo 4WD (ST185),FR,A,+2m 42s,NA,NA,NA
+4,2,"Sainz, Carlos",Lancia Delta HF Integrale,ES,A,+3m 48s,NA,NA,NA
+5,8,"McRae, Colin",Subaru Legacy RS,GB,A,+9m 03s,NA,NA,NA
+6,15,"Beguin, Bernard",Ford Escort RS Cosworth,FR,A,+16m 31s,NA,NA,NA
+7,7,"Biasion, Massimo",Ford Escort RS Cosworth,IT,A,+18m 58s,NA,NA,NA
+8,17,"Ragnotti, Jean",Renault Clio Williams,FR,A,+21m 30s,NA,NA,NA
+9,16,"Oreille, Alain",Renault Clio Williams,FR,A,+24m 07s,NA,NA,NA
+10,14,"Manfrinato, Giovanni",Ford Escort RS Cosworth,IT,N,+40m 49s,NA,NA,NA
+11,21,"Jordan, Serge",Renault Clio Williams,FR,N,+41m 09s,NA,NA,NA
+12,31,"Fiori, Guy",BMW 325i,FR,N,+46m 52s,NA,NA,NA
+13,42,"Bruzi, Christian",Peugeot 106,FR,A,+47m 56s,NA,NA,NA
+14,18,"Santoni, Jean-Marie",Ford Escort RS Cosworth,FR,N,+49m 27s,NA,NA,NA
+15,37,"Coutinho, Antonio",Ford Escort RS Cosworth,PT,N,+1h 02m 05s,NA,NA,NA
+16,50,"Papini, Antoine",Peugeot 205 Rallye,FR,A,+1h 11m 06s,NA,NA,NA
+17,35,"Puigrenier, Herve",Ford Escort RS Cosworth,FR,N,+1h 14m 09s,NA,NA,NA
+18,61,"Gardere, Paul",Opel Kadett GSi,FR,A,+1h 15m 14s,NA,NA,NA
+19,67,"Patarozzi, Jean-Francois",Peugeot 309 GTI,FR,N,+1h 19m 34s,NA,NA,NA
+20,41,"Malbert, Herve",Ford Sierra RS Cosworth,FR,N,+1h 24m 27s,NA,NA,NA
+21,52,"Antonini, Hercule",Peugeot 205 Rallye,FR,N,+1h 27m 57s,NA,NA,NA
+22,39,"Sechi, Jean-Marc",Renault 5 GT Turbo,FR,N,+1h 30m 13s,NA,NA,NA
+23,69,"Bensimon, Claude",Peugeot 309 GTI,FR,N,+1h 30m 24s,NA,NA,NA
+24,46,"Buresi, Patrick",Mazda 323 GT-R,FR,N,+1h 30m 46s,NA,NA,NA
+25,93,"Mari, Daniel",Peugeot 205 Rallye,FR,N,+1h 33m 58s,NA,NA,NA
+26,83,"Chevite, Pascal",Peugeot 205 Rallye,FR,A,NA,NA,NA,NA
+27,73,"Spano, Sebastien",Peugeot 309 GTI,FR,N,NA,NA,NA,NA
+28,92,Ducreux,Peugeot 205 Rallye,NA,N,NA,NA,NA,NA
+29,82,Paolini,Peugeot 106,NA,A,NA,NA,NA,NA
+30,71,"Leymarie, Francis",Peugeot 309 GTI,FR,N,NA,NA,NA,NA
+31,81,"Cesbron, Jaccky",Renault Clio,FR,A,NA,NA,NA,NA
+32,56,Laissus,Renault 5 GT Turbo,FR,N,NA,NA,NA,NA
+33,75,Noceto,Peugeot 309 GTI,NA,N,NA,NA,NA,NA
+34,79,Raschper,Opel Corsa,NA,A,NA,NA,NA,NA
+35,62,Palitta,Peugeot 205 GTI,NA,A,NA,NA,NA,NA
+36,66,Dalton,MG Maestro,NA,N,NA,NA,NA,NA
+37,88,Sacchi,Peugeot 205 Rallye,NA,N,NA,NA,NA,NA
+38,72,"Malegarie, Alain",Peugeot 309 GTI,FR,N,NA,NA,NA,NA
+39,77,Tomasini,Peugeot 309 GTI,NA,N,NA,NA,NA,NA
+40,80,Wilson,Suzuki Swift,NA,A,NA,NA,NA,NA
+41,89,Giraud,Peugeot 205 Rallye,FR,N,NA,NA,NA,NA
+42,76,"Hense, Horst",Volkswagen Golf Rallye G60,DE,N,NA,NA,NA,NA
+43,95,le Corre,Fiat Cinquecento,FR,A,NA,NA,NA,NA
+44,90,"Maurel, Bernard",Peugeot 205 Rallye,FR,N,NA,NA,NA,NA
+NA,6,"Aghini, Andrea",Lancia Delta HF Integrale,IT,A,NA,NA,SS12,suspension
+NA,9,"Loubet, Yves",Toyota Celica Turbo 4WD (ST185),FR,A,NA,NA,SS11,accident
+NA,11,"Thiry, Bruno",Opel Astra,BE,A,NA,NA,SS6,brakes
+NA,12,"Driano, Christine",Citroen AX,FR,A,NA,NA,SS4,accident
+NA,19,"Dor, Frederic",Subaru Legacy RS,FR,A,NA,NA,NA,OTL
+NA,20,"Magaud, Patrick",Citroen AX,FR,A,NA,NA,NA,unknown
+NA,22,"Panizzi, Gilles",Peugeot 106,FR,A,NA,NA,NA,accident
+NA,23,"Torre, Jean-Claude",BMW M3,FR,A,NA,NA,SS12,accident
+NA,24,Massarotto,BMW M3,NA,A,NA,NA,NA,unknown
+NA,25,"Jean-Joseph, Simon",Ford Escort RS Cosworth,FR,A,NA,NA,SS14,head gasket
+NA,26,"Bondrille, Franck",Ford Escort,FR,A,NA,NA,NA,unknown
+NA,27,"Faggianelli, Francois",Renault 11 Turbo,FR,A,NA,NA,NA,unknown
+NA,28,"Benazzi, Pierre",BMW M3,FR,N,NA,NA,SS9,gearbox
+NA,29,"Serpaggi, Jean-Baptiste",Ford Escort RS Cosworth,FR,N,NA,NA,NA,unknown
+NA,30,"Colonna d'Istria, Philippe",Nissan Sunny GTI-R,FR,N,NA,NA,NA,OTL
+NA,32,"Ceccaldi, Jean-Jacques",Ford Sierra,FR,N,NA,NA,NA,unknown
+NA,33,"Manzagol, Jean-Pierre",Renault Clio,FR,N,NA,NA,NA,unknown
+NA,34,"Balesi, Claude",Renault Clio Williams,FR,N,NA,NA,SS13,gearbox
+NA,36,"Recordati, Giovanni",Lancia Delta,IT,N,NA,NA,NA,unknown
+NA,38,"Leandri, Francois",Volkswagen Golf GTI 16V,FR,A,NA,NA,NA,unknown
+NA,40,"Padovani, Jacques",Ford Escort,FR,N,NA,NA,NA,unknown
+NA,43,Mariani,Ford Escort,NA,N,NA,NA,NA,unknown
+NA,44,Damiani,Ford Escort,NA,N,NA,NA,NA,unknown
+NA,45,Samani,Mazda 323 GT-R,NA,N,NA,NA,NA,unknown
+NA,47,Kribmer,Mazda 323 GT-R,NA,N,NA,NA,NA,unknown
+NA,48,"Fidiani, Moreno",BMW M3,IT,N,NA,NA,NA,unknown
+NA,49,"Casalta, Christophe",Opel Manta,FR,A,NA,NA,NA,unknown
+NA,51,Ruggeri,Citroen AX,NA,A,NA,NA,NA,unknown
+NA,53,Giovanni,Citroen AX,NA,A,NA,NA,NA,unknown
+NA,54,"Bolzan, Pierre",Renault 5 GT Turbo,FR,N,NA,NA,NA,unknown
+NA,55,Cuenin,Renault 5 GT Turbo,NA,N,NA,NA,NA,unknown
+NA,57,Fayet,Renault 5 GT Turbo,NA,N,NA,NA,NA,unknown
+NA,58,Demynck,Renault 5 GT Turbo,NA,N,NA,NA,NA,unknown
+NA,59,Torre,Renault 5 GT Turbo,NA,N,NA,NA,NA,unknown
+NA,60,Nidiot,Renault Clio,NA,A,NA,NA,NA,unknown
+NA,63,"Barbolosi, Julien",Peugeot 309 GTI,FR,A,NA,NA,NA,unknown
+NA,64,Tranier,Peugeot 309 GTI,FR,A,NA,NA,NA,unknown
+NA,65,Bonaguro,Ford Escort XR3,IT,A,NA,NA,NA,unknown
+NA,68,"Chiocca, Georges",Toyota Celica,FR,N,NA,NA,NA,unknown
+NA,70,Giraud,Peugeot 309 GTI,FR,N,NA,NA,NA,unknown
+NA,74,Facci,Ford Escort RS,NA,N,NA,NA,NA,unknown
+NA,78,Delcroix,Renault Clio,NA,N,NA,NA,NA,unknown
+NA,84,Battaglini,Peugeot 205 Rallye,NA,A,NA,NA,NA,unknown
+NA,85,Rousselot,Peugeot 205 GTI,NA,N,NA,NA,NA,unknown
+NA,86,"Padovani, Gabriel",Peugeot 205 GTI,FR,N,NA,NA,NA,unknown
+NA,87,Deledda,Peugeot 205 GTI,NA,N,NA,NA,NA,unknown
+NA,91,Cesari,Citroen AX,NA,N,NA,NA,NA,unknown
+NA,94,Serra,Peugeot 205 Rallye,IT,N,NA,NA,NA,unknown

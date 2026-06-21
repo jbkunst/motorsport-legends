@@ -1,0 +1,116 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,10,"Panizzi, Gilles",Peugeot 206WRC (2000),FR,A8,"3h 52m 07,3s",NA,NA,NA
+2,9,"Delecour, Francois",Peugeot 206WRC (2000),FR,A8,"+16,8s",NA,NA,NA
+3,1,"Makinen, Tommi",Mitsubishi Lancer Evo VI,FI,A8,"+53,0s",NA,NA,NA
+4,16,"Gronholm, Marcus",Peugeot 206WRC (2000),FI,A8,"+1m 02,3s",NA,NA,NA
+5,6,"Sainz, Carlos",Ford Focus WRC 00,ES,A8,"+1m 11,3s",NA,NA,NA
+6,5,"McRae, Colin",Ford Focus WRC 00,GB,A8,"+1m 40,0s",NA,NA,NA
+7,4,"Jean-Joseph, Simon",Subaru Impreza WRC2000,FR,A8,"+1m 56,7s",NA,NA,NA
+8,2,"Loix, Freddy",Mitsubishi Carisma GT,BE,A8,"+2m 23,0s",NA,NA,NA
+9,19,"Solberg, Petter",Subaru Impreza WRC2000,NO,A8,"+2m 31,7s",NA,NA,NA
+10,43,"Loeb, Sebastien",Toyota Corolla WRC,FR,A8,"+3m 34,4s",NA,NA,NA
+11,41,"Travaglia, Renato",Peugeot 306,IT,A7,"+4m 11,0s",NA,NA,NA
+12,11,"Schwarz, Armin",Skoda Octavia WRC Evo2,DE,A8,"+5m 13,1s",NA,NA,NA
+13,28,"Dallavilla, Andrea",Subaru Impreza,IT,A8,"+6m 43,6s",NA,NA,NA
+14,12,"Climent, Luis",Skoda Octavia WRC Evo2,ES,A8,"+8m 44,0s",NA,NA,NA
+15,25,"Aghini, Andrea",Mitsubishi Carisma GT,IT,A8,"+8m 55,0s",NA,NA,NA
+16,15,"McRae, Alister",Hyundai Accent WRC,GB,A8,"+9m 26,9s",0:20,NA,NA
+17,7,"Auriol, Didier",Seat Cordoba WRC Evo3,FR,A8,"+10m 14,4s",NA,NA,NA
+18,47,"Oldrati, Diego",Subaru Impreza,IT,A8,"+10m 53,0s",NA,NA,NA
+19,51,"Verreydt, Renaud",Seat Cordoba WRC,BE,A8,"+11m 32,7s",NA,NA,NA
+20,35,"Kulig, Janusz",Ford Focus WRC,PL,A8,"+12m 18,1s",NA,NA,NA
+21,29,"Yazici, Serkan",Toyota Corolla WRC,TU,A8,"+14m 35,8s",NA,NA,NA
+22,37,"Galli, Gianluigi",Mitsubishi Lancer Evo,IT,N4,"+17m 37,3s",NA,NA,NA
+23,76,"Fiorio, Alessandro",Mitsubishi Carisma GT,IT,N4,"+18m 14,5s",NA,NA,NA
+24,36,"Trelles, Gustavo",Mitsubishi Lancer Evo,UY,N4,"+19m 20,5s",0:30,NA,NA
+25,33,"Stohl, Manfred",Mitsubishi Lancer Evo,AT,N4,"+19m 23,9s",NA,NA,NA
+26,39,"Ferreyros, Ramon",Mitsubishi Lancer Evo,PE,N4,"+20m 26,4s",NA,NA,NA
+27,52,"de Luca, Michele",Subaru Impreza,IT,A8,"+20m 33,8s",NA,NA,NA
+28,75,"Dati, Emanuele",Mitsubishi Lancer Evo,IT,N4,"+21m 16,9s",NA,NA,NA
+29,49,"Pedersoli, Luca",Fiat Punto,IT,A6,"+21m 53,1s",NA,NA,NA
+30,102,"Tarantino, Pasquale",Renault Clio Williams,IT,A7,"+24m 27,4s",0:20,NA,NA
+31,78,"Cantamessa, Luca",Fiat Punto,IT,A6,"+25m 56,7s",NA,NA,NA
+32,93,"Sciascia, Patrizia",Renault Clio Williams,IT,A7,"+27m 36,1s",0:40,NA,NA
+33,81,"Cortese, Elio",Mitsubishi Lancer Evo,IT,N4,"+27m 45,3s",NA,NA,NA
+34,50,"Sanfilippo, Ignacio",Mitsubishi Carisma GT,ES,N4,"+27m 54,6s",NA,NA,NA
+35,48,"Puras, Jesus",Citroen Saxo,ES,A6,"+28m 32,3s",NA,NA,NA
+36,94,"Pastore, Gualtiero",Renault Clio Williams,IT,A7,"+31m 30,9s",NA,NA,NA
+37,53,"Griazine, Stanislav",Mitsubishi Lancer Evo,RU,N4,"+31m 38,7s",NA,NA,NA
+38,74,"Errani, Riccardo",Ford Escort RS Cosworth,IT,A8,"+32m 37,9s",NA,NA,NA
+39,77,"Bertuzzi, Alessandro",Mitsubishi Lancer Evo,IT,N4,"+33m 16,6s",NA,NA,NA
+40,110,"Mauger, Simon",Ford Puma,GB,A6,"+33m 58,0s",NA,NA,NA
+41,85,"Grossi, Renzo",Subaru Impreza,IT,N4,"+35m 51,5s",NA,NA,NA
+42,80,"Deen, Johan",Mitsubishi Lancer Evo,NL,N4,"+36m 19,6s",NA,NA,NA
+43,108,"Villa, Manuel",Fiat Punto,IT,A6,"+37m 44,5s",NA,NA,NA
+44,31,"Bakhashab, Abdullah",Toyota Corolla WRC,SA,A8,"+38m 46,5s",4:10,NA,NA
+45,14,"Eriksson, Kenneth",Hyundai Accent WRC,SE,A8,"+39m 44,6s",0:10,NA,NA
+46,115,"Lozza, Eugenio",Renault Clio,IT,N3,"+40m 58,1s",NA,NA,NA
+47,114,"Maccagnan, Stefano",Peugeot 106,IT,A6,"+45m 21,9s",NA,NA,NA
+48,86,"Mango, Alessandro",Mitsubishi Lancer Evo,IT,N4,"+45m 54,8s",NA,NA,NA
+49,89,"del Tenno, Maurizio",Mitsubishi Lancer Evo,IT,N4,"+46m 42,5s",0:30,NA,NA
+50,127,"Lanza, Giovanni Marco",Honda Civic,IT,N2,"+47m 12,6s",NA,NA,NA
+51,111,"Gai, Alessandro",Peugeot 106,IT,A6,"+47m 19,5s",NA,NA,NA
+52,134,"Bolla, Ricardo",Peugeot 106,IT,N1,"+48m 41,0s",NA,NA,NA
+53,90,"Lintott, Raymond",Mitsubishi Lancer Evo,AU,N4,"+48m 41,4s",0:10,NA,NA
+54,106,"Macaluso, Massimo",Fiat Punto,IT,A6,"+49m 59,1s",1:10,NA,NA
+55,125,"Terpin, Luigi",Citroen Saxo VTS,IT,N2,"+52m 13,9s",NA,NA,NA
+56,124,"Moretti, Stefano",Peugeot 106,IT,N2,"+53m 45,6s",NA,NA,NA
+57,120,"Diederich, Lothar",Peugeot 306,DE,N3,"+57m 09,2s",NA,NA,NA
+58,126,"Mazzeri, Stefano",Peugeot 106,IT,N2,"+57m 12,5s",NA,NA,NA
+59,122,"Semeraro, Paolo",Renault Clio,IT,N3,"+1h 05m 14,7s",NA,NA,NA
+60,123,"Orengo, Giovanni",Renault Clio,IT,N3,"+1h 08m 52,3s",NA,NA,NA
+61,133,"Sparavier, Fabrizio",Fiat Cinquecento Sporting,IT,N1,"+1h 43m 17,4s",1:50,NA,NA
+62,130,"Vida, Walter",Fiat Cinquecento Sporting,IT,N1,"+1h 52m 59,0s",4:50,NA,NA
+NA,3,"Burns, Richard",Subaru Impreza WRC2000,GB,A8,NA,NA,SS11,mechanical
+NA,8,"Gardemeister, Toni",Seat Cordoba WRC Evo3,FI,A8,NA,NA,SS10,mechanical
+NA,18,"Liatti, Piero",Ford Focus WRC 00,IT,A8,NA,NA,SS12,mechanical
+NA,20,"Guest, Michael",Hyundai Accent WRC,AU,A8,NA,NA,SS2,accident
+NA,21,"Nittel, Uwe",Toyota Corolla WRC,DE,A8,NA,NA,SS11,off road
+NA,22,"Longhi, Piero",Toyota Corolla WRC,IT,A8,NA,NA,SS5,accident
+NA,23,"Cunico, Gianfranco",Subaru Impreza,IT,A8,NA,NA,SS11,mechanical
+NA,24,"Lundgaard, Henrik",Toyota Corolla WRC,DK,A8,NA,NA,SS12,mechanical
+NA,26,"Andreucci, Paolo",Subaru Impreza,IT,A8,NA,NA,SS14,off road
+NA,27,"al-Wahaibi, Hamed",Subaru Impreza,OM,A8,NA,NA,SS1,accident
+NA,30,"Martin, Markko",Toyota Corolla WRC,EE,A8,NA,NA,SS16,accident
+NA,34,"Papadimitriou, Ioannis",Subaru Impreza,GR,A8,NA,NA,SS1,accident
+NA,38,"Pozzo, Gabriel",Mitsubishi Lancer Evo,AR,N4,NA,NA,SS2,mechanical
+NA,40,"Menzi, Claudio Marcelo",Mitsubishi Lancer Evo,AR,N4,NA,NA,SS13,mechanical
+NA,42,"Princen, Kris",Renault Megane,BE,A7,NA,NA,SS4,mechanical
+NA,44,"Morel, Fabrice",Peugeot 206 WRC,FR,A8,NA,NA,SS8,mechanical
+NA,45,"Bugalski, Philippe",Citroen Saxo,FR,A6,NA,NA,SS7,accident
+NA,46,"Magaud, Patrick",Ford Puma,FR,A6,NA,NA,SS12,mechanical
+NA,54,"Pozzi, Francesco",Renault Megane,IT,A7,NA,NA,SS10,accident
+NA,57,"Baita, Ettore",Toyota Corolla WRC,IT,A8,NA,NA,SS12,mechanical
+NA,58,"Maselli, Andrea",Fiat Punto,IT,A6,NA,NA,SS10,unknown
+NA,59,"Kuchar, Tomasz",Toyota Corolla WRC,PL,A8,NA,NA,SS2,accident
+NA,70,"Blair, Andy",Ford Escort WRC,GB,A8,NA,NA,SS4,mechanical
+NA,71,"Baldacci, Mirco",Renault Clio Williams,SM,A7,NA,NA,SS10,off road
+NA,72,"Acerbis, Guido",Mitsubishi Carisma GT,IT,N4,NA,NA,SS8,mechanical
+NA,73,"Vagnini, Jader",Renault Megane,SM,A7,NA,NA,SS6,accident
+NA,82,"Marrini, Stefano",Mitsubishi Lancer Evo,IT,N4,NA,NA,SS10,mechanical
+NA,83,"Moore, Richard",Mitsubishi Lancer Evo,GB,N4,NA,NA,SS2,accident
+NA,84,"de Dominicis, Alfredo",Mitsubishi Lancer Evo,IT,N4,NA,NA,SS16,unknown
+NA,87,"Casotto, Massimo",Mitsubishi Lancer Evo,IT,N4,NA,NA,SS12,mechanical
+NA,88,"Bolderheij, Evert",Mitsubishi Carisma GT,NL,N4,NA,NA,SS1,mechanical
+NA,91,"Morel, Christian",Citroen ZX 16S,FR,A7,NA,NA,SS6,mechanical
+NA,95,"Puzar, Alessandro",Renault Megane,IT,A7,NA,NA,SS10,mechanical
+NA,96,"Grazioli, Silvio",Citroen Saxo,IT,A6,NA,NA,SS4,mechanical
+NA,98,"Munaretto, Enrica",Renault Megane,IT,A7,NA,NA,SS8,mechanical
+NA,99,"Cangani, Norberto",Renault Megane,IT,A7,NA,NA,SS11,mechanical
+NA,100,"Rovegno, Gisella",Renault Clio Williams,IT,A7,NA,NA,SS9,mechanical
+NA,101,"Dessi, Marc",Peugeot 205 GTI,MC,A7,NA,NA,SS6,mechanical
+NA,104,"Macaluso, Stefano",Fiat Punto,IT,A6,NA,NA,SS11,mechanical
+NA,105,"Ameglio, Danilo",Peugeot 106,IT,A6,NA,NA,SS3,mechanical
+NA,107,"Durante, Mauro",Fiat Punto,IT,A6,NA,NA,SS4,mechanical
+NA,109,"Fiore, Giuseppe",Opel Corsa GSi,IT,A6,NA,NA,SS5,mechanical
+NA,113,"Gaiaudo, Franco",Peugeot 106,IT,A6,NA,NA,SS10,mechanical
+NA,116,"Carlsson, Patric",Peugeot 306,SE,N3,NA,NA,SS8,accident
+NA,117,"Exton, Charlie",Honda Integra,GB,N3,NA,NA,SS1,accident
+NA,118,"Tognozzi, Gabriele",Renault Clio,IT,N3,NA,NA,SS12,mechanical
+NA,119,"Rossi, Massimo",Renault Clio,IT,N3,NA,NA,SS2,accident
+NA,121,"Scotto, Mauro",Opel Astra,IT,N3,NA,NA,SS10,mechanical
+NA,128,"Serafini, Federico",Opel Corsa GSI,IT,N2,NA,NA,SS16,unknown
+NA,129,"Radone, Maria Sisak",Honda Civic,HU,N2,NA,NA,SS13,mechanical
+NA,131,"Cha, Vittorio",Fiat Seicento Sporting,IT,A5,NA,NA,SS10,accident
+NA,132,"Nerobutto, Tiziano",Fiat Seicento Sporting,IT,A5,NA,NA,SS14,off road
+NA,135,"Orzini, Mauro",Peugeot 106,IT,A5,NA,NA,SS12,mechanical

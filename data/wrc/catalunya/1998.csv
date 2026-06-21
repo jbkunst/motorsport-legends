@@ -1,0 +1,77 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,9,"Auriol, Didier",Toyota Corolla WRC,FR,A8,"4h 18m 36,9s",NA,NA,NA
+2,6,"Loix, Freddy",Toyota Corolla WRC,BE,A8,"+53,4s",NA,NA,NA
+3,1,"Makinen, Tommi",Mitsubishi Lancer Evo V,FI,A8,"+1m 09,4s",NA,NA,NA
+4,2,"Burns, Richard",Mitsubishi Carisma GT,GB,A8,"+1m 33,5s",NA,NA,NA
+5,17,"Bugalski, Philippe",Citroen Xsara Kit Car,FR,A7,"+1m 51,4s",NA,NA,NA
+6,15,"Panizzi, Gilles",Peugeot 306 Maxi,FR,A7,"+2m 07,1s",NA,NA,NA
+7,5,"Sainz, Carlos",Toyota Corolla WRC,ES,A8,"+2m 28,8s",NA,NA,NA
+8,12,"Delecour, Francois",Peugeot 306 Maxi,FR,A7,"+2m 47,7s",NA,NA,NA
+9,26,"Nittel, Uwe",Mitsubishi Carisma GT,DE,A8,"+4m 08,7s",NA,NA,NA
+10,14,"Madeira, Rui",Toyota Corolla WRC,PT,A8,"+6m 47,6s",NA,NA,NA
+11,38,"Verreydt, Renaud",Subaru Impreza WRC97,BE,A8,"+7m 46,1s",NA,NA,NA
+12,10,"Radstrom, Thomas",Toyota Corolla WRC,SE,A8,"+8m 17,5s",NA,NA,NA
+13,22,"Holowczyc, Krzysztof",Subaru Impreza WRC97,PL,A8,"+8m 25,9s",NA,NA,NA
+14,28,"Lopes, Adruzilo",Peugeot 306 Maxi,PT,A7,"+9m 30,8s",NA,NA,NA
+15,20,"Gomez Marco, Oriol",Seat Ibiza GTi 16V Evo2,ES,A7,"+10m 01,2s",NA,NA,NA
+16,16,"Dallavilla, Andrea",Subaru Impreza WRC97,IT,A8,"+11m 57,7s",NA,NA,NA
+17,39,"Canellas, Salvador",Seat Ibiza GTi 16V,ES,A7,"+13m 15,6s",NA,NA,NA
+18,41,"Azcona, Javier",Citroen Saxo,ES,A6,"+19m 53,7s",NA,NA,NA
+19,29,"McRae, Alister",Hyundai Coupe Kit Car,GB,A7,"+21m 40,6s",NA,NA,NA
+20,30,"Trelles, Gustavo",Mitsubishi Lancer Evo V,UY,N4,"+22m 27,8s",NA,NA,NA
+21,27,"Eriksson, Kenneth",Hyundai Coupe Kit Car,SE,A7,"+25m 51,2s",NA,NA,NA
+22,43,"Vallejo, Sergio",Citroen Saxo,ES,A6,"+28m 30,9s",NA,NA,NA
+23,32,"Stohl, Manfred",Mitsubishi Lancer Evo III,AT,N4,"+31m 27,6s",NA,NA,NA
+24,46,"Mendez, Gabriel",Mitsubishi Lancer Evo IV,UY,N4,"+32m 26,8s",NA,NA,NA
+25,48,"Sanchez, Roberto",Subaru Impreza,AR,N4,"+34m 08,4s",NA,NA,NA
+26,40,"Viita, Jari",Ford Escort RS Cosworth,FI,A8,"+41m 49,3s",NA,NA,NA
+27,83,"Grino, Jordi",Peugeot 106,ES,N2,"+42m 10,4s",NA,NA,NA
+28,62,"Cabo, Manuel",Seat Ibiza GTi 16V,ES,A7,"+44m 13,2s",NA,NA,NA
+29,84,"Saban, Leonardo",Peugeot 106,ES,N2,"+45m 38,9s",NA,NA,NA
+30,89,"de Miguel, Jonathan",Peugeot 106,ES,N2,"+50m 16,5s",NA,NA,NA
+31,82,"Infantes, Albert",Renault Clio,ES,N3,"+51m 06,4s",NA,NA,NA
+32,87,"Molina, Jose",Peugeot 106,ES,N2,"+51m 13,6s",NA,NA,NA
+33,92,"Garcia, Enrique",Peugeot 106,ES,N2,"+52m 05,5s",NA,NA,NA
+34,65,"Porto, Jose Manuel",Seat Ibiza GTi 16V,ES,A7,"+53m 39,0s",NA,NA,NA
+35,54,"Helle, Holger",Ford Escort RS Cosworth,DK,A8,"+53m 54,6s",NA,NA,NA
+36,86,"Roig, Francisco",Peugeot 106,ES,N2,"+54m 14,3s",NA,NA,NA
+37,101,"Soler, Hector",Peugeot 106,ES,N2,"+1h 00m 43,0s",NA,NA,NA
+38,107,"Juaneda, Alex",Peugeot 106,ES,N2,"+1h 07m 23,0s",NA,NA,NA
+39,114,"Cerrato, Fernando",Peugeot 106,ES,N1,"+1h 09m 38,1s",NA,NA,NA
+40,88,"Penalva, Rafael",Peugeot 106,ES,N2,"+1h 11m 02,0s",NA,NA,NA
+41,93,"Henderson, Iain",Rover Metro,GB,N1,"+1h 13m 39,0s",NA,NA,NA
+42,115,"Gerpe, Max",Peugeot 106,ES,N1,"+1h 25m 35,0s",NA,NA,NA
+43,60,"Amador, Juan",Citroen ZX 16S,VE,A7,"+1h 25m 58,0s",NA,NA,NA
+44,116,"Palet, Alex",Peugeot 106,ES,N1,"+1h 28m 25,0s",NA,NA,NA
+45,72,"Rivero, Antonio Joaquin",Seat Ibiza GTi 16V,ES,A7,"+1h 36m 58,0s",NA,NA,NA
+46,75,"Cagnet, Michel",Peugeot 106,FR,A5,"+1h 39m 28,9s",NA,NA,NA
+NA,3,"McRae, Colin",Subaru Impreza WRC98,GB,A8,NA,NA,SS16,differential
+NA,4,"Liatti, Piero",Subaru Impreza WRC98,IT,A8,NA,NA,SS12,engine
+NA,7,"Kankkunen, Juha",Ford Escort WRC,FI,A8,NA,NA,SS17,accident
+NA,8,"Thiry, Bruno",Ford Escort WRC,BE,A8,NA,NA,SS18,engine
+NA,11,"Gronholm, Marcus",Toyota Corolla WRC,FI,A8,NA,NA,SS9,suspension
+NA,18,"Rovanpera, Harri",Seat Ibiza GTi 16V Evo2,FI,A7,NA,NA,SS4,engine
+NA,19,"Puras, Jesus",Citroen Xsara Kit Car,ES,A7,NA,NA,SS8,engine
+NA,21,"Climent, Luis",Renault Megane,ES,A7,NA,NA,SS12,accident
+NA,24,"Snijers, Patrick",Ford Escort WRC,BE,A8,NA,NA,SS8,transmission
+NA,25,"Muniente, Manuel",Peugeot 306 Maxi,ES,A7,NA,NA,SS6,unknown
+NA,31,"Sibera, Pavel",Skoda Octavia KitCar,CZ,A7,NA,NA,SS6,mechanical
+NA,33,"Nikonenko, Aleksandr",Ford Escort WRC,RU,A8,NA,NA,SS11,mechanical
+NA,37,"Sanfilippo, Ignacio",Peugeot 106,ES,A6,NA,NA,SS11,steering
+NA,42,"Guixeras, David",Citroen Saxo,ES,A6,NA,NA,SS2,unknown
+NA,44,"Ventura, Jordi",Seat Ibiza GTi 16V,ES,A7,NA,NA,SS10,mechanical
+NA,50,"Freire, Paulo",Toyota Celica GT-Four (ST205),PT,N4,NA,NA,SS9,unknown
+NA,51,"Blazquez, Marc",Peugeot 106,ES,A6,NA,NA,SS3,gearbox
+NA,52,"Vinyes, Joan",Citroen Saxo,AD,A6,NA,NA,SS13,accident
+NA,53,"Vidal, Toni",Peugeot 106,ES,A5,NA,NA,SS8,did not restart
+NA,55,"de Sanctis, Fabrizio",Mitsubishi Lancer Evo IV,IT,A8,NA,NA,SS1,head gasket
+NA,56,"Alonso, Josep",Ford Escort RS Cosworth,ES,A8,NA,NA,NA,unknown
+NA,59,"Camps, Joaquim",Renault Clio Williams,ES,A7,NA,NA,SS3,unknown
+NA,74,"Kernahan, Martin",Rover Mini Cooper,GB,A5,NA,NA,SS2,unknown
+NA,81,"Escharavil, Luc",Renault Clio,FR,N3,NA,NA,SS2,gearbox
+NA,85,"Zubillaga, Aitor",Peugeot 106,ES,N2,NA,NA,SS12,unknown
+NA,90,"Lopez-Fombona, Sergio",Peugeot 106,ES,N2,NA,NA,SS11,unknown
+NA,91,"Seriola, Antonio",Peugeot 106,ES,N2,NA,NA,SS13,unknown
+NA,94,"Godwin, Trevor",Rover Mini Cooper,GB,N1,NA,NA,SS2,engine
+NA,96,"M. Membrado, Joseph",Peugeot 106,ES,N2,NA,NA,SS8,did not restart
+NA,97,"Sola, Daniel",Peugeot 106,ES,N2,NA,NA,SS8,did not restart

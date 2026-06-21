@@ -1,0 +1,18 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,2,"Vatanen, Ari",Peugeot 205 Turbo 16,FI,B,4h 38m 49s,NA,NA,NA
+2,1,"Blomqvist, Stig",Audi quattro Sport,SE,B,+1m 49s,NA,NA,NA
+3,6,"Salonen, Timo",Peugeot 205 Turbo 16,FI,B,+3m 26s,NA,NA,NA
+4,3,"Mikkola, Hannu",Audi quattro Sport,FI,B,+11m 43s,NA,NA,NA
+5,4,"Eklund, Per",Audi quattro A2,SE,B,+17m 01s,NA,NA,NA
+6,19,"Pettersson, Gunnar",Audi 80 quattro,SE,A,+23m 14s,NA,NA,NA
+7,12,"Ericsson, Mikael",Audi 80 quattro,SE,A,+24m 27s,NA,NA,NA
+8,8,"Carlsson, Ingvar",Mazda RX7,SE,B,+29m 46s,NA,NA,NA
+9,9,"Jonsson, Mats",Opel Ascona 400,SE,B,+30m 18s,NA,NA,NA
+10,23,"Eriksson, Kenneth",Opel Kadett GSi,SE,A,+31m 33s,NA,NA,NA
+21,58,"Kottulinsky, Susanne",Volvo 240 Turbo,SE,A,+47m 05s,NA,NA,NA
+30,96,"Aamodt, John Olav",Volkswagen Golf GTi,NO,N,+1h 30m 56s,NA,NA,NA
+NA,5,"Rohrl, Walter",Audi quattro Sport,DE,B,NA,NA,SS20,engine
+NA,7,"Lampi, Lasse",Audi quattro A2,FI,B,NA,NA,end of Leg 1,too far behind
+NA,10,"Wilson, Malcolm",Audi quattro A1,GB,B,NA,NA,SS18,overheating
+NA,11,"Llewellin, David",Audi quattro A2,GB,B,NA,NA,SS5,accident
+NA,13,"Stromberg, Ola",Opel Kadett GSi,SE,A,NA,NA,SS7,accident

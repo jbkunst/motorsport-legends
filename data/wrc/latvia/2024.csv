@@ -1,0 +1,39 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,69,"Rovanpera, Kalle",Toyota GR Yaris Rally1,FI,Rally1,"2h 31m 47,6s",NA,NA,NA
+2,17,"Ogier, Sebastien",Toyota GR Yaris Rally1,FR,Rally1,"+39,2s",NA,NA,NA
+3,8,"Tanak, Ott",Hyundai i20 N Rally1,EE,Rally1,"+1m 04,5s",NA,NA,NA
+4,16,"Fourmaux, Adrien",Ford Puma Rally1,FR,Rally1,"+1m 31,5s",NA,NA,NA
+5,33,"Evans, Elfyn",Toyota GR Yaris Rally1,GB,Rally1,"+1m 42,7s",NA,NA,NA
+6,18,"Katsuta, Takamoto",Toyota GR Yaris Rally1,JP,Rally1,"+2m 07,0s",NA,NA,NA
+7,22,"Sesks, Martins",Ford Puma Rally1,LV,Rally1,"+2m 45,4s",NA,NA,NA
+8,11,"Neuville, Thierry",Hyundai i20 N Rally1,BE,Rally1,"+2m 46,4s",NA,NA,NA
+9,13,"Munster, Gregoire",Ford Puma Rally1,LU,Rally1,"+5m 23,1s",NA,NA,NA
+10,20,"Solberg, Oliver",Skoda Fabia,SE,Rally2,"+8m 37,9s",NA,NA,NA
+11,27,"Heikkila, Mikko",Toyota Yaris,FI,Rally2,"+9m 15,3s",NA,NA,NA
+12,21,"Pajari, Sami",Toyota Yaris,FI,Rally2,"+9m 22,7s",NA,NA,NA
+13,24,"Greensmith, Fergus",Skoda Fabia,GB,Rally2,"+10m 24,2s",0:10,NA,NA
+14,23,"Gryazin, Nikolay",Citroen C3,RU,Rally2,"+11m 39,4s",1:10,NA,NA
+15,26,"Zaldivar Zuccolillo, Fabrizio",Skoda Fabia,PY,Rally2,"+11m 39,7s",NA,NA,NA
+16,32,"Creighton, William",Ford Fiesta,GB,Rally2,"+13m 05,6s",NA,NA,NA
+17,29,"Dapra, Roberto",Skoda Fabia,IT,Rally2,"+13m 23,2s",NA,NA,NA
+18,48,"Margaillan, Matthieu",Skoda Fabia,FR,Rally2,"+15m 04,9s",0:25,NA,NA
+19,35,"Jeets, Gregor",Toyota Yaris,EE,Rally2,"+18m 00,3s",NA,NA,NA
+20,44,"Nogene, Joosep Ralf",Renault Clio,EE,Rally3,"+20m 04,5s",NA,NA,NA
+21,25,"McErlean, Joshua",Skoda Fabia,IE,Rally2,"+20m 12,8s",NA,NA,NA
+22,31,"Kremer, Armin",Skoda Fabia,DE,Rally2,"+20m 27,0s",NA,NA,NA
+23,37,"al-Rashed, Rakan",Toyota Yaris,SA,Rally2,"+24m 34,8s",NA,NA,NA
+24,50,"Frisiero, Fabio",Ford Fiesta,IT,Rally2,"+29m 05,4s",NA,NA,NA
+25,51,"Fontana, Matteo",Peugeot 208,IT,Rally4,"+29m 56,8s",NA,NA,NA
+26,39,"Mezaks, Matiss",Skoda Fabia,LV,Rally2,"+31m 38,1s",NA,NA,NA
+27,45,"Kazaz, Kerem",Ford Fiesta,TU,Rally3,"+39m 22,8s",0:40,NA,NA
+28,41,"Priednieks, Arturs",Skoda Fabia,LV,Rally2,"+42m 20,8s",2:50,NA,NA
+29,38,"Soylu, Ugur",Skoda Fabia,TU,Rally2,"+52m 13,0s",NA,NA,NA
+30,36,"Zaldivar Jr., Miguel",Skoda Fabia,PY,Rally2,"+1h 03m 38,0s",0:10,NA,NA
+31,49,"Ragues, Pierre",Skoda Fabia,FR,Rally2,"+1h 17m 52,8s",0:10,NA,NA
+32,34,"Suninen, Teemu",Hyundai i20,FI,Rally2,"+1h 19m 46,9s",NA,NA,NA
+NA,4,"Lappi, Esapekka",Hyundai i20 N Rally1,FI,Rally1,NA,NA,TC20B,mechanical
+NA,28,"Lindholm, Emil",Hyundai i20,FI,Rally2,NA,NA,SS14,mechanical
+NA,30,"Miele, Mauro",Skoda Fabia,IT,Rally2,NA,NA,SS12,mechanical
+NA,40,"Semenuk, Brandon",Toyota Yaris,CA,Rally2,NA,NA,SS14,mechanical
+NA,47,"Battistolli, Alberto",Skoda Fabia,IT,Rally2,NA,NA,TC12C,mechanical
+NA,52,"Martens, Thomas",Renault Clio,BE,Rally4,NA,NA,SS17,mechanical

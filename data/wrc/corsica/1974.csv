@@ -1,0 +1,102 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,2,"Andruet, Jean-Claude",Lancia Stratos HF HF,FR,G4,4h 49m 10s,NA,NA,NA
+2,10,"Nicolas, Jean-Pierre",Renault-Alpine A110 1800,FR,G4,+3m 28s,NA,NA,NA
+3,7,"Therier, Jean-Luc",Renault-Alpine A310 1800,FR,G4,+22m 59s,NA,NA,NA
+4,24,"Manzagol, Jean-Pierre",Renault-Alpine A110 1800,FR,G4,+25m 33s,NA,NA,NA
+5,3,"Larrousse, Gerard",Renault-Alpine A110 bis,FR,G4,+27m 37s,NA,NA,NA
+6,5,"Bacchelli, Fulvio",Fiat 124 Abarth Spider,IT,G4,+37m 17s,NA,NA,NA
+7,16,"Clarr, Jean-Louis",Opel Ascona,FR,G2,+24m 47s,NA,NA,NA
+8,12,"Piot, Jean-Francois",Renault 17 Gordini,FR,G4,+47m 35s,NA,NA,NA
+9,37,"Soriano, Jean-Marie",Renault-Alpine A110,FR,G4,+1h 19m 28s,NA,NA,NA
+10,19,"Frequelin, Guy",Alfa Romeo Alfetta GT,FR,G2,+1h 20m 47s,NA,NA,NA
+11,43,"Moreau, Pierre-Louis",Renault-Alpine A110 1800,FR,G4,NA,NA,NA,NA
+12,65,"Mouton, Michele",Renault-Alpine A110,FR,G3,+1h 40m 56s,NA,NA,NA
+13,50,Simonetti,Renault-Alpine A110,NA,G4,NA,NA,NA,NA
+14,58,Collomb,Porsche 911,NA,G3,NA,NA,NA,NA
+15,84,"Sehnaoui, Maurice",NSU 1300,LB,G2,NA,NA,NA,NA
+16,20,"Laurent, Claude",DAF 66,FR,G2,NA,NA,NA,NA
+17,74,"Moreau, Jean-Paul",Simca Rallye 2,FR,G2,NA,NA,NA,NA
+18,118,"Paccini, Antoine",Opel Ascona,FR,G1,+1h 53m 14s,NA,NA,NA
+19,110,Bastid,NSU 1300,NA,G1,NA,NA,NA,NA
+20,69,"Chianea, Raymond",Opel Ascona,FR,G2,NA,NA,NA,NA
+21,64,"Bour, Michel",Renault-Alpine A110,FR,G3,NA,NA,NA,NA
+22,117,Bastelica,Opel Ascona,NA,G1,NA,NA,NA,NA
+23,92,Putzolu,Simca Rallye,NA,G1,NA,NA,NA,NA
+24,78,Galgani,Renault 12 Gordini,NA,G2,NA,NA,NA,NA
+NA,1,"Alen, Markku",Fiat 124 Abarth Spider,FI,G4,NA,NA,post-event,speeding
+NA,4,"Chasseuil, Guy",Porsche 911,FR,G4,NA,NA,SS3,OTL
+NA,6,"Munari, Sandro",Lancia Stratos HF HF,IT,G4,NA,NA,after SS3,engine
+NA,8,"Darniche, Bernard",Fiat 124 Abarth Spider,FR,G4,NA,NA,after SS13,differential
+NA,9,"Ballestrieri, Amilcare",Lancia Stratos HF HF,IT,G4,NA,NA,NA,electrics
+NA,11,"Pinto, Raffaele",Fiat 124 Abarth Spider,IT,G4,NA,NA,SS3,accident
+NA,14,"Serpaggi, Francis",Renault-Alpine A110 1600,FR,G4,NA,NA,SS1,accident
+NA,15,Coetmeur,Renault 12 Gordini,NA,G2,NA,NA,NA,unknown
+NA,17,Archy,Opel Commodore,NA,G2,NA,NA,NA,unknown
+NA,18,'Gedehem',Porsche 911,FR,G3,NA,NA,NA,unknown
+NA,21,"Pianta, Giorgio",Fiat 124 Abarth Spider,IT,G4,NA,NA,SS1,rear suspension
+NA,22,"Beguin, Bernard",Alfa Romeo Alfetta GT,FR,G2,NA,NA,NA,differential
+NA,23,"Pregliasco, Mauro",Lancia Beta,IT,G4,NA,NA,SS2,accident
+NA,25,"Henry, Jacques",Renault-Alpine A110 1800,FR,G4,NA,NA,SS1,engine
+NA,26,"Ballot-Lena, Claude",Alfa Romeo 2000 GTV,FR,G2,NA,NA,SS1,accident
+NA,27,"Greder, Henri",Opel Commodore,FR,G1,NA,NA,SS3,gearbox
+NA,28,"Barailler, Jean-Louis",Opel Commodore,FR,G1,NA,NA,after SS13,clutch
+NA,29,Lagniez,Opel Commodore,NA,G1,NA,NA,NA,unknown
+NA,30,Flotard,Renault-Alpine A110,NA,G4,NA,NA,NA,unknown
+NA,31,"Vincent, Francis",Alfa Romeo Alfetta,FR,G2,NA,NA,NA,accident
+NA,32,Rouget,Opel Commodore,NA,G1,NA,NA,NA,unknown
+NA,33,Laloge,Renault-Alpine A110,NA,G4,NA,NA,NA,unknown
+NA,34,Robini,Opel Commodore,NA,G2,NA,NA,NA,unknown
+NA,35,Mercier,Renault-Alpine A110,FR,G4,NA,NA,NA,unknown
+NA,38,"Corio, Angelo",Fiat 124,IT,G4,NA,NA,NA,unknown
+NA,39,Costa,Renault-Alpine A110,NA,G4,NA,NA,NA,unknown
+NA,40,Alerini,Renault-Alpine A110,NA,G4,NA,NA,NA,unknown
+NA,42,Cachard,Renault-Alpine A110,NA,G4,NA,NA,NA,unknown
+NA,44,"de Libran, Roland",Renault-Alpine A110,FR,G4,NA,NA,NA,unknown
+NA,45,Gelabert,Renault-Alpine A110,NA,G4,NA,NA,NA,unknown
+NA,46,Venturini,Renault-Alpine A110,NA,G4,NA,NA,NA,unknown
+NA,47,Fantino,Renault-Alpine A110,NA,G4,NA,NA,NA,unknown
+NA,48,Farjon,Renault-Alpine A110,NA,G4,NA,NA,NA,unknown
+NA,49,Lepoutre,Alfa Romeo,NA,G1,NA,NA,NA,unknown
+NA,52,Charlotte,Renault-Alpine A110,NA,G1,NA,NA,NA,unknown
+NA,55,de Meyer,Renault-Alpine A110,NA,G3,NA,NA,NA,unknown
+NA,56,"Cordesse, Bernard",Renault-Alpine A110,FR,G3,NA,NA,NA,unknown
+NA,59,Bartoli,Renault-Alpine A110,NA,G3,NA,NA,NA,unknown
+NA,61,"Andre-Poyaud, Christophe",Renault-Alpine A110,FR,G3,NA,NA,NA,unknown
+NA,62,Gusciani,Renault-Alpine A110,NA,G3,NA,NA,NA,unknown
+NA,63,Ettori,Renault-Alpine A110,NA,G3,NA,NA,NA,unknown
+NA,67,Antonetti,NSU TT,NA,G2,NA,NA,NA,unknown
+NA,68,Portier,Opel Ascona,NA,G2,NA,NA,NA,unknown
+NA,70,Branca,Renault 12 Gordini,NA,G2,NA,NA,NA,unknown
+NA,71,"Bernardini, Patrick",Renault 12 Gordini,FR,G2,NA,NA,NA,unknown
+NA,72,Balsamo,Opel Ascona,NA,G2,NA,NA,NA,unknown
+NA,73,Morini,Renault 17 Gordini,NA,G2,NA,NA,NA,unknown
+NA,76,Viano,Simca Rallye 2,NA,G2,NA,NA,NA,unknown
+NA,77,Gordon,BMW 2002Tii,FR,G2,NA,NA,NA,unknown
+NA,79,Casanova,NSU 1300,NA,G2,NA,NA,NA,unknown
+NA,80,"Picone, Bernard",NSU 1300,FR,G2,NA,NA,NA,unknown
+NA,82,Bartoli,BMW 2002Tii,NA,G2,NA,NA,NA,unknown
+NA,85,Touquet,Datsun,NA,G2,NA,NA,NA,unknown
+NA,89,Bornea,Opel Ascona,NA,G2,NA,NA,NA,unknown
+NA,93,Paoletti,Simca Rallye 2,NA,G1,NA,NA,NA,unknown
+NA,93,"Silvani, J-C.",Simca Rallye 2,FR,G1,NA,NA,NA,unknown
+NA,96,Sechi,Simca Rallye 2,NA,G1,NA,NA,NA,unknown
+NA,97,le Tocard,Simca Rallye 2,NA,G1,NA,NA,NA,unknown
+NA,98,Rossi,Opel Ascona,NA,G1,NA,NA,NA,unknown
+NA,99,Allegrini,Simca Rallye 2,NA,G1,NA,NA,NA,unknown
+NA,100,Bondrille,Alfa Romeo,FR,G1,NA,NA,NA,unknown
+NA,101,Lions,Simca,NA,G1,NA,NA,NA,unknown
+NA,103,Grogniet,Simca Rallye 2,NA,G1,NA,NA,NA,unknown
+NA,104,Fabregues,Simca Rallye 2,NA,G1,NA,NA,NA,unknown
+NA,105,Merou,Simca Rallye 2,NA,G1,NA,NA,NA,unknown
+NA,106,Agostini,Opel Ascona,NA,G1,NA,NA,NA,unknown
+NA,108,Mattas,Opel Ascona,NA,G1,NA,NA,NA,unknown
+NA,109,Brancaleoni,Audi 80,IT,G1,NA,NA,NA,unknown
+NA,111,Gatau,Autobianchi A112,NA,G1,NA,NA,NA,unknown
+NA,112,Lucciardi,Simca Rallye 2,NA,G1,NA,NA,NA,unknown
+NA,114,Quilici,Opel Commodore,NA,G1,NA,NA,NA,unknown
+NA,115,Starck,Simca Rallye 2,NA,G1,NA,NA,NA,unknown
+NA,116,Farrucci,Audi 80,NA,G1,NA,NA,NA,unknown
+NA,120,Caravelli,Simca Rallye 2,NA,G1,NA,NA,NA,unknown
+NA,121,"Casanova, Gilbert",Opel Ascona,FR,G1,NA,NA,NA,unknown
+NA,122,Barbagliani,Simca Rallye 2,NA,G1,NA,NA,NA,unknown
+NA,123,Bartoli,Opel Ascona,FR,G1,NA,NA,NA,unknown

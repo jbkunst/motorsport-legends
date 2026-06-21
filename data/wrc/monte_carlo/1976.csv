@@ -1,0 +1,98 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,10,"Munari, Sandro",Lancia Stratos HF,IT,G4,6h 25m 10s,NA,NA,NA
+2,6,"Waldegard, Bjorn",Lancia Stratos HF,SE,G4,+1m 27s,NA,NA,NA
+3,12,"Darniche, Bernard",Lancia Stratos HF,FR,G4,+6m 13s,NA,NA,NA
+4,16,"Rohrl, Walter",Opel Kadett GT/E,DE,G4,+9m 22s,NA,NA,NA
+5,11,"Clark, Roger",Ford Escort RS1800,GB,G4,+11m 57s,NA,NA,NA
+6,7,"Alen, Markku",Fiat 124 Abarth Spider,FI,G4,+17m 21s,NA,NA,NA
+7,23,"Frequelin, Guy",Porsche 911,FR,G3,+19m 09s,NA,NA,NA
+8,5,"Cambiaghi, Roberto",Fiat 124 Abarth Spider,IT,G4,+40m 17s,NA,NA,NA
+9,33,"Koob, Nicolas",Porsche 911,LU,G4,+42m 09s,NA,NA,NA
+10,45,"Beguin, Bernard",Alfa Romeo 2000 GTV,FR,G1,+48m 37s,NA,NA,NA
+11,19,"Mouton, Michele",Renault-Alpine A110 1600,FR,G3,+49m 15s,NA,NA,NA
+12,27,"Zanini, Antonio",Seat 1430/1800,ES,G4,+56m 36s,NA,NA,NA
+13,54,"Dorche, Christian",BMW 2002Tii,FR,G1,+1h 04m 12s,NA,NA,NA
+14,49,"Gardavot, Christian",Porsche 911,FR,G3,+1h 05m 23s,NA,NA,NA
+15,2,"Verini, Maurizio",Fiat 124 Abarth Spider,IT,G4,+1h 06m 52s,NA,NA,NA
+16,67,"Kridel, Aloyse",Ford Escort RS2000,LU,G1,+1h 07m 05s,NA,NA,NA
+17,70,"Turiani, Auguste",Opel Commodore,MC,G1,+1h 07m 11s,NA,NA,NA
+18,149,"Barin, Jean-Paul",Alfa Romeo 2000 GTV,FR,G1,+1h 11m 39s,NA,NA,NA
+19,55,"von der Leyen, freiherr",Renault-Alpine A110 1800,DE,G3,+1h 18m 22s,NA,NA,NA
+20,110,"Chinea, Raymond",Opel Ascona,FR,G2,+1h 19m 29s,NA,NA,NA
+21,135,"Nahon, Christian",Renault 12 Gordini,FR,G2,+1h 20m 52s,NA,NA,NA
+22,50,"Malcher, Jean-Pierre",Autobianchi A112,FR,G1,+1h 23m 09s,NA,NA,NA
+22,61,"Dacremont, Christine",Autobianchi A112,FR,G1,+1h 23m 09s,NA,NA,NA
+24,71,"Pianta, Giorgio",Autobianchi A112,IT,G1,+1h 23m 23s,NA,NA,NA
+25,58,"Hoepfner, Marianne",Autobianchi A112,FR,G1,+1h 25m 15s,NA,NA,NA
+26,29,"Garin, Leo",Lancia Fulvia,IT,G4,+1h 25m 32s,NA,NA,NA
+27,42,"Coppier, Alain",Audi 80,FR,G1,+1h 26m 37s,NA,NA,NA
+28,78,"Bratlie, Tore",Simca Rallye 2,NO,NA,+1h 29m 16s,NA,NA,NA
+29,59,"Ambrogetti, Maurizio",Autobianchi A112,IT,NA,+1h 29m 52s,NA,NA,NA
+30,125,"Fernandez, Benigno",BMW 2002Tii,ES,NA,+1h 30m 50s,NA,NA,NA
+31,118,"Schon, Giorgio",Autobianchi A112,IT,NA,NA,NA,NA,NA
+32,140,"Vallet, Roger",Renault-Alpine,FR,NA,NA,NA,NA,NA
+33,106,"Gerard, Dominiq",Simca Rallye 2,FR,NA,NA,NA,NA,NA
+34,150,"Rumpfkeil, Peter",Porsche Carrera,DE,NA,NA,NA,NA,NA
+35,74,"Springer, Joachim",Volkswagen Golf,DE,NA,NA,NA,NA,NA
+36,47,"Laurent, Claude",Autobianchi A112,FR,NA,NA,NA,NA,NA
+37,165,"Guillaume, Gerard",Simca Rallye 2,FR,NA,NA,NA,NA,NA
+38,87,"Perret, Francois",Opel Ascona,CH,NA,NA,NA,NA,NA
+39,160,"Trautmann, Henri",Fiat 128,FR,NA,NA,NA,NA,NA
+40,72,"Pons, Bernard",Autobianchi A112,FR,NA,NA,NA,NA,NA
+41,37,Surribas-Garcia,Simca Rallye 2,AD,NA,NA,NA,NA,NA
+42,62,Tarnaud-Kopenha,Autobianchi A112,FR,NA,NA,NA,NA,NA
+43,153,"Winther, Jens",BMW 320,DK,NA,NA,NA,NA,NA
+44,123,"Schaer, Philippe",Renault 17 Gordini,CH,NA,NA,NA,NA,NA
+45,142,"Decure, Bernard",Renault-Alpine,FR,NA,NA,NA,NA,NA
+46,88,"Sutton, Didier",Peugeot 504,FR,NA,NA,NA,NA,NA
+47,96,"Fellbaum, Jutta",Volkswagen Golf,DE,NA,NA,NA,NA,NA
+48,113,"Jelsdorf, Hans-Michael",Volkswagen Golf,DK,NA,NA,NA,NA,NA
+49,4,"Nicolas, Jean-Pierre",Renault-Alpine A310,FR,G4,NA,NA,NA,NA
+50,31,"Ragnotti, Jean",Renault-Alpine A110 1800,FR,G4,+7h 36m 33s,NA,NA,NA
+51,53,"Saby, Bruno",Autobianchi A112,FR,G4,NA,NA,NA,NA
+52,46,"Huberty, Norbert",Fiat 128,LU,NA,NA,NA,NA,NA
+53,138,"Richard, Raymond",Alfa Romeo 2000 GTV,FR,NA,NA,NA,NA,NA
+54,143,"Mosconi, Claudio",Autobianchi A112,CH,NA,NA,NA,NA,NA
+55,147,"Dongues, Bernard",Fiat 127,FR,NA,NA,NA,NA,NA
+56,115,"Handjian, Claude",Simca Rallye 2,FR,NA,NA,NA,NA,NA
+57,76,"Boeri, Christian",Simca Rallye 2,FR,NA,NA,NA,NA,NA
+58,154,"Orlandini, Francis",BMW 2002Tii,FR,NA,NA,NA,NA,NA
+59,48,"Altenheimer, Reiner",Porsche 911,DE,G3,NA,NA,NA,NA
+60,104,"Lyding, Wilhelm",Opel Commodore,DE,NA,NA,NA,NA,NA
+61,108,"Pallanca, Jean",Simca Rallye 2,MC,NA,NA,NA,NA,NA
+62,57,"Desvignes, Marie-Odile",Autobianchi A112,FR,A,NA,NA,NA,NA
+63,134,"Weiser, Alain",DAF 66,FR,NA,NA,NA,NA,NA
+64,161,'Giubar',Volkswagen Golf,IT,NA,NA,NA,NA,NA
+65,156,"Bonora, Renato",Opel Ascona,IT,NA,NA,NA,NA,NA
+66,163,'Margo',Simca Rallye 2,FR,NA,NA,NA,NA,NA
+67,158,"Konig, Jean",Simca 1100,FR,NA,NA,NA,NA,NA
+68,83,"Schuller, Hans",Nissan,DE,NA,NA,NA,NA,NA
+69,39,"Lunardon, Gilbert",Renault 17 Gordini,FR,NA,NA,NA,NA,NA
+70,112,"Cirillo, Joseph",Alfa Romeo,MC,NA,NA,NA,NA,NA
+71,99,"Ambrosini, Rene",Alfa Romeo,MC,NA,NA,NA,NA,NA
+72,36,"Canellas (Sr), Salvador",Seat 1430/1800,ES,G4,+14h 13m 45s,NA,NA,NA
+73,157,"Giese, Wolf",Opel Ascona,DE,NA,NA,NA,NA,NA
+74,103,"Swaton, Gerard",Renault-Alpine,FR,NA,NA,NA,NA,NA
+75,32,"Turco, Jean-Pierre",Opel Ascona,FR,NA,NA,NA,NA,NA
+76,93,"Grandsard, Alain",Ford Escort RS,FR,NA,NA,NA,NA,NA
+77,25,"Gernandt, Carl",Opel Ascona,SE,NA,NA,NA,NA,NA
+78,144,"Braida, Albert",Simca Rallye 2,FR,NA,NA,NA,NA,NA
+79,89,"Gellert, Heinz",Toyota Celica,DE,NA,NA,NA,NA,NA
+80,102,"Peyret, Michel",Citroen,MC,NA,NA,NA,NA,NA
+81,137,"Gillet, Christ.",Opel Commodore,FR,NA,NA,NA,NA,NA
+82,167,"Bemelli, Antonio",Opel Ascona,IT,NA,NA,NA,NA,NA
+83,129,"Feustel, Peter",Opel Ascona,DE,NA,NA,NA,NA,NA
+84,15,"Beaumont, Marie-Claude",Renault-Alpine A310 1800,FR,NA,NA,NA,NA,NA
+NA,1,"Andruet, Jean-Claude",Renault-Alpine A310,FR,G4,NA,NA,SS8,accident
+NA,3,"Mikkola, Hannu",Opel Kadett GT/E,FI,G4,NA,NA,SS11,differential
+NA,8,"Pinto, Raffaele",Lancia Stratos HF,IT,G4,NA,NA,NA,engine valve spring
+NA,9,"Therier, Jean-Luc",Renault-Alpine A310,FR,G4,NA,NA,SS6,accident
+NA,14,"Makinen, Timo",Ford Escort RS1800,FI,G4,NA,NA,SS12,gasket
+NA,20,"Paganelli, Alcide",Autobianchi A112,IT,G1,NA,NA,SS1,engine
+NA,21,"Ciecierzynski, Tomasz",Polski-Fiat 125p,PL,G4,NA,NA,start of Leg 4,homologation not valid
+NA,22,"Henry, Jacques",Renault-Alpine A310,FR,NA,NA,NA,SS10,accident
+NA,28,"Kullang, Anders",Opel Kadett GT/E,SE,G4,NA,NA,SS14,oil pump
+NA,35,"Vincent, Francis",Renault-Alpine A310,FR,NA,NA,NA,SS10,accident
+NA,38,"Stawowiak, Maciej",Polski-Fiat 125p,PL,G4,NA,NA,NA,homologation not valid
+NA,43,"Pittoni, Leo",de Tomaso Pantera,IT,NA,NA,NA,NA,unknown
+NA,166,"Landsberg, Jerzy",Renault 5,PL,NA,NA,NA,NA,engine

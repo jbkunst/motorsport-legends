@@ -1,0 +1,85 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,5,"McRae, Colin",Ford Focus RS WRC 02,GB,A8,"4h 27m 43,8s",NA,NA,NA
+2,2,"Gronholm, Marcus",Peugeot 206WRC (2002),FI,A8,"+24,5s",NA,NA,NA
+3,4,"Sainz, Carlos",Ford Focus RS WRC 02,ES,A8,"+1m 45,6s",NA,NA,NA
+4,3,"Rovanpera, Harri",Peugeot 206WRC (2002),FI,A8,"+1m 57,6s",NA,NA,NA
+5,11,"Solberg, Petter",Subaru Impreza WRC2002,NO,A8,"+1m 58,6s",0:10,NA,NA
+6,6,"Martin, Markko",Ford Focus RS WRC 02,EE,A8,"+2m 40,1s",NA,NA,NA
+7,21,"Loeb, Sebastien",Citroen Xsara WRC,FR,A8,"+3m 45,8s",NA,NA,NA
+8,20,"Radstrom, Thomas",Citroen Xsara WRC,SE,A8,"+5m 08,7s",NA,NA,NA
+9,17,"Schwarz, Armin",Hyundai Accent WRC3,DE,A8,"+5m 41,0s",0:20,NA,NA
+10,15,"Gardemeister, Toni",Skoda Octavia WRC Evo2,FI,A8,"+7m 17,4s",NA,NA,NA
+11,7,"Delecour, Francois",Mitsubishi Lancer WRC,FR,A8,"+7m 21,6s",NA,NA,NA
+12,24,"Thiry, Bruno",Peugeot 206 WRC,BE,A8,"+9m 20,1s",NA,NA,NA
+13,12,"Arai, Toshihiro",Subaru Impreza WRC2002,JP,A8,"+10m 46,4s",NA,NA,NA
+14,14,"Eriksson, Kenneth",Skoda Octavia WRC Evo2,SE,A8,"+11m 38,8s",1:20,NA,NA
+15,26,"Papadimitriou, Ioannis",Ford Focus RS WRC 01,GR,A8,"+12m 43,6s",NA,NA,NA
+16,35,"Bakhashab, Abdullah",Toyota Corolla WRC,SA,A8,"+14m 07,9s",0:10,NA,NA
+17,16,"Blomqvist, Stig",Skoda Octavia WRC Evo2,SE,A8,"+19m 41,4s",0:20,NA,NA
+18,105,"Recordati, Giovanni",Toyota Corolla WRC,IT,A8,"+35m 05,1s",0:10,NA,NA
+19,62,"Tuohino, Janne",Citroen Saxo S1600,FI,A6,"+36m 44,0s",NA,NA,NA
+20,51,"Dallavilla, Andrea",Citroen Saxo S1600,IT,A6,"+38m 07,3s",0:30,NA,NA
+21,60,"Caldani, Nicola",Peugeot 206 S1600,IT,A6,"+39m 29,9s",NA,NA,NA
+22,102,"Jean-Joseph, Simon",Renault Clio,FR,A6,"+39m 53,4s",0:20,NA,NA
+23,65,"Sola, Daniel",Citroen Saxo S1600,ES,A6,"+40m 24,7s",NA,NA,NA
+24,63,"Rowe, Martin",Ford Puma S1600,GB,A6,"+42m 07,0s",0:10,NA,NA
+25,109,"Nassoulas, Dimitris",Mitsubishi Lancer Evo VII,GR,N4,"+47m 42,3s",NA,NA,NA
+26,108,"Heath, Nigel",Subaru Impreza,GB,A8,"+51m 13,0s",2:00,NA,NA
+27,113,"Tsolakidis, Socratis",Mitsubishi Lancer Evo VII,GR,N4,"+52m 29,8s",0:20,NA,NA
+28,120,"Tsadaris, Nikos",Citroen Saxo,GR,A6,"+58m 39,7s",NA,NA,NA
+29,114,"Huisman, Marinus",Mitsubishi Lancer Evo VI,NL,N4,"+1h 04m 00,3s",0:20,NA,NA
+30,76,"Foss, Alexander",Ford Puma S1600,NO,A6,"+1h 10m 56,4s",0:40,NA,NA
+31,130,"Margaronis, Ioannis",Hyundai Accent,GR,A6,"+1h 12m 12,6s",NA,NA,NA
+32,126,"Dotsikas, Odysseas",Toyota Corolla,GR,A6,"+1h 18m 41,1s",NA,NA,NA
+33,132,"Gallo, Evangelos",Peugeot 106,GR,A6,"+1h 23m 07,2s",NA,NA,NA
+34,135,"Tsapalos, Spyros",Hyundai Accent,GR,A6,"+1h 48m 07,3s",0:20,NA,NA
+35,136,"Tsamakos, Apostolos",Daewoo Lanos,GR,A6,"+2m 39m 47,7s",0:50,NA,NA
+NA,1,"Burns, Richard",Peugeot 206WRC (2002),GB,A8,NA,NA,SS13,mechanical
+NA,8,"McRae, Alister",Mitsubishi Lancer WRC,GB,A8,NA,NA,SS13,mechanical
+NA,10,"Makinen, Tommi",Subaru Impreza WRC2002,FI,A8,NA,NA,SS6,lost wheel
+NA,18,"Loix, Freddy",Hyundai Accent WRC3,BE,A8,NA,NA,TC15A,mechanical
+NA,19,"Kankkunen, Juha",Hyundai Accent WRC3,FI,A8,NA,NA,TC9A,misfire
+NA,23,"Panizzi, Gilles",Peugeot 206 WRC,FR,A8,NA,NA,SS14,transmission
+NA,25,"Kremer, Armin",Ford Focus WRC,DE,A8,NA,NA,SS6,mechanical
+NA,32,"Pozzo, Gabriel",Skoda Octavia WRC,AR,A8,NA,NA,SS6,unknown
+NA,33,"Vovos, Armodios",Ford Focus WRC,GR,A8,NA,NA,SS14,mechanical
+NA,34,"Kuchar, Tomasz",Toyota Corolla WRC,PL,A8,NA,NA,SS2,unknown
+NA,52,"McShea, Niall",Opel Corsa S1600,GB,A6,NA,NA,SS5,mechanical
+NA,53,"Basso, Giandomenico",Fiat Punto S1600,IT,A6,NA,NA,SS3,unknown
+NA,54,"Stenshorne, Martin",Opel Corsa S1600,NO,A6,NA,NA,SS6,unknown
+NA,55,"Duval, Francois",Ford Puma S1600,BE,A6,NA,NA,SS8,off road
+NA,56,"Valimaki, Jussi",Citroen Saxo S1600,FI,A6,NA,NA,SS13,mechanical
+NA,57,"Galanti, Alejandro",Ford Puma S1600,PY,A6,NA,NA,SS14,mechanical
+NA,58,"Chemin, Christian",Fiat Punto S1600,IT,A6,NA,NA,SS8,mechanical
+NA,59,"Kangas, Juha",Suzuki Ignis S1600,FI,A6,NA,NA,SS2,unknown
+NA,61,"Evans, Gwyndaf",MG ZR S1600,GB,A6,NA,NA,SS7,mechanical
+NA,64,"Galli, Gianluigi",Fiat Punto S1600,IT,A6,NA,NA,SS1,unknown
+NA,66,"Baldacci, Mirco",Citroen Saxo S1600,SM,A6,NA,NA,SS5,unknown
+NA,67,"Carlsson, Daniel",Ford Puma S1600,SE,A6,NA,NA,SS4,unknown
+NA,68,"Schelle, Nikolaus",Suzuki Ignis S1600,DE,A6,NA,NA,SS6,unknown
+NA,69,"Katajamaki, Kosti",Volkswagen Polo S1600,FI,A6,NA,NA,SS7,mechanical
+NA,73,"Llovera, Albert",Fiat Punto S1600,AD,A6,NA,NA,SS5,unknown
+NA,75,"Niwa, Kazuhiko",Suzuki Ignis S1600,JP,A6,NA,NA,SS6,mechanical
+NA,78,"Feghali, Roger",Ford Puma S1600,LB,A6,NA,NA,SS1,mechanical
+NA,101,"Hatzitsopanis, Panagiotis",Renault Megane,GR,A7,NA,NA,SS4,unknown
+NA,103,"Colsoul, Bob",Mitsubishi Lancer Evo VII,BE,N4,NA,NA,SS2,unknown
+NA,106,"Barratt, Natalie",Hyundai Accent WRC,GB,A8,NA,NA,SS7,mechanical
+NA,107,"Errani, Riccardo",Subaru Impreza,IT,A8,NA,NA,SS9,mechanical
+NA,110,"Sterckx, David",Mitsubishi Lancer Evo VI,BE,N4,NA,NA,SS12,mechanical
+NA,111,"Petalidis, Theodoros",Mitsubishi Lancer Evo VII,GR,N4,NA,NA,SS15,unknown
+NA,112,"Nioras, Grigoris",Subaru Impreza WRX,GR,N4,NA,NA,TC4,OTL
+NA,115,"Hatzitsopanis, Sotiris",Subaru Impreza,GR,A8,NA,NA,SS11,unknown
+NA,116,"Panagiotounis, Lazaros",Mitsubishi Lancer Evo VI,GR,N4,NA,NA,SS1,mechanical
+NA,117,"Halkias, Themis",Mitsubishi Lancer Evo VII,GR,N4,NA,NA,SS11,unknown
+NA,118,"Xanthakos, Dimitris",Mitsubishi Lancer Evo V,GR,N4,NA,NA,SS3,unknown
+NA,119,"Kokkinis, Sotiris",Peugeot 106,GR,A6,NA,NA,SS2,mechanical
+NA,121,"Zivas, Angelos",Toyota Corolla,GR,A6,NA,NA,SS4,unknown
+NA,122,"Markouizos, Aris",Peugeot 106,GR,A6,NA,NA,SS12,mechanical
+NA,123,"Constantacatos, Ioannis",Mitsubishi Lancer Evo VI,GR,N4,NA,NA,TC4,OTL
+NA,124,"Drimonas, Stavros",Mitsubishi Lancer Evo VI,GR,N4,NA,NA,SS7,unknown
+NA,125,"Kaltsounis, Haris",Opel Corsa S1600,GR,A6,NA,NA,SS12,OTL
+NA,127,"Skaltsas, Sotiris",Nissan Micra,GR,A5,NA,NA,SS9,mechanical
+NA,128,"Panagiotopoulos, Emmanuel",Toyota Yaris,GR,A5,NA,NA,SS9,OTL
+NA,131,"Vomvilas, George",Hyundai Accent,GR,A6,NA,NA,SS6,unknown
+NA,133,"Kounelis, Dimitris",Toyota Corolla,GR,A6,NA,NA,SS1,unknown
+NA,134,"Stathaki, Christina Myrto",Toyota Corolla,GR,A6,NA,NA,SS14,mechanical

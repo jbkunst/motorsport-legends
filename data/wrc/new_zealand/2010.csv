@@ -1,0 +1,55 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,4,"Latvala, Jari-Matti",Ford Focus RS WRC 09,FI,A8,"4h 04m 09,8s",NA,NA,NA
+2,7,"Ogier, Sebastien",Citroen C4 WRC,FR,A8,"+2,4s",NA,NA,NA
+3,1,"Loeb, Sebastien",Citroen C4 WRC,FR,A8,"+15,2s",NA,NA,NA
+4,3,"Hirvonen, Mikko",Ford Focus RS WRC 09,FI,A8,"+21,3s",NA,NA,NA
+5,2,"Sordo Castillo, Daniel",Citroen C4 WRC,ES,A8,"+25,8s",NA,NA,NA
+6,5,"Wilson, Matthew",Ford Focus RS WRC 08,GB,A8,"+3m 26,0s",NA,NA,NA
+7,6,"Solberg, Henning",Ford Focus RS WRC 08,NO,A8,"+6m 15,3s",NA,NA,NA
+8,29,"Ketomaa, Jari",Ford Fiesta S2000,FI,N4,"+10m 19,3s",NA,NA,NA
+9,9,"Villagra, Federico",Ford Focus RS WRC 08,AR,A8,"+10m 49,8s",NA,NA,NA
+10,28,"Pons, Xavier",Ford Fiesta S2000,ES,N4,"+11m 13,4s",NA,NA,NA
+11,21,"Prokop, Martin",Ford Fiesta S2000,CZ,N4,"+11m 33,3s",NA,NA,NA
+12,24,"Sandell, Patrik",Skoda Fabia Super 2000,SE,N4,"+11m 58,7s",NA,NA,NA
+13,22,"al-Attiyah, Nasser",Skoda Fabia Super 2000,QA,N4,"+12m 34,1s",NA,NA,NA
+14,38,"Paddon, Hayden",Mitsubishi Lancer Evo IX,NZ,N4,"+15m 19,0s",NA,NA,NA
+15,62,"West, Chris",Mitsubishi Lancer Evo IX,NZ,N4,"+17m 55,9s",NA,NA,NA
+16,64,"Sumner, Dean",Mitsubishi Lancer Evo IX,NZ,N4,"+18m 17,9s",NA,NA,NA
+17,50,"Gilmour, Emma",Subaru Impreza WRX,NZ,N4,"+18m 34,4s",NA,NA,NA
+18,66,"Inkster, Glenn",Mitsubishi Lancer Evo IX,NZ,N4,"+21m 45,5s",0:10,NA,NA
+19,70,"Cox, Sloan",Mitsubishi Lancer Evo X,NZ,N4,"+23m 57,3s",0:20,NA,NA
+20,34,"Thompson, Kingsley",Mitsubishi Lancer Evo X,NZ,N4,"+24m 29,0s",NA,NA,NA
+21,65,"Smith, Glenn",Mitsubishi Lancer Evo X,NZ,N4,"+25m 39,3s",NA,NA,NA
+22,80,"Barker, Stephen",Ford Fiesta ST,NZ,N3,"+29m 54,5s",NA,NA,NA
+23,69,"Jansen, Matt",Subaru Impreza WRX,NZ,N4,"+31m 27,3s",NA,NA,NA
+24,75,"Leyraud, Jean-Louis",Subaru Impreza WRX,FR,N4,"+31m 33,3s",NA,NA,NA
+25,71,"Marston, Josh",Mitsubishi Lancer Evo VIII,NZ,N4,"+32m 30,7s",0:10,NA,NA
+26,32,"Arai, Toshihiro",Subaru Impreza WRX,JP,N4,"+33m 29,5s",0:30,NA,NA
+27,33,"Linari, Gianluca",Subaru Impreza WRX,IT,N4,"+34m 44,3s",NA,NA,NA
+28,77,"Unterberger, Dominick",Subaru Impreza WRX,NZ,N4,"+45m 30,5s",NA,NA,NA
+29,68,"Malley, Patrick",Mitsubishi Lancer Evo IX,NZ,N4,"+47m 30,1s",NA,NA,NA
+30,81,"Hunt, Ben",Ford Fiesta ST,NZ,N3,"+47m 59,6s",0:10,NA,NA
+31,84,"Burrowes, Tony",Subaru Impreza WRX,NZ,N4,"+49m 58,0s",NA,NA,NA
+32,85,"Malley, Dermott",Ford Fiesta ST,NZ,N3,"+57m 28,0s",NA,NA,NA
+33,78,"Green, Brian",Mitsubishi Lancer Evo X,NZ,N4,"+1h 00m 37,7s",NA,NA,NA
+34,86,"Taylor, Trevor",Mitsubishi Lancer Evo X,NZ,N4,"+1h 02m 29,9s",NA,NA,NA
+35,44,"Nobre, Paulo",Mitsubishi Lancer Evo X,BR,N4,"+1h 02m 52,5s",NA,NA,NA
+36,72,"Jagger, Ben",Subaru Impreza WRX,NZ,N4,"+1h 03m 50,5s",NA,NA,NA
+37,87,"Campbell, Phil",Ford Fiesta ST,NZ,N3,"+1h 11m 09,0s",NA,NA,NA
+38,79,"Stringer, Lee",Mitsubishi Lancer Evo VII,NZ,N4,"+1h 15m 59,2s",NA,NA,NA
+NA,11,"Solberg, Petter",Citroen C4 WRC,NO,A8,NA,NA,SS21,unknown
+NA,27,"Tuohino, Janne",Ford Fiesta S2000,FI,N4,NA,NA,SS21,unknown
+NA,30,"Llovera, Albert",Fiat Grande Punto Abarth S2000,AD,N4,NA,NA,SS12,unknown
+NA,36,"Georgiou, Nicholai",Mitsubishi Lancer Evo IX,LB,N4,NA,NA,TC9E,unknown
+NA,40,"Mason, Richard",Subaru Impreza WRX,NZ,N4,NA,NA,TC9E,unknown
+NA,42,"Baldoni, Miguel-Angel",Mitsubishi Lancer Evo IX,AR,N4,NA,NA,SS12,unknown
+NA,45,"Wang, Rui",Subaru Impreza WRX,CN,N4,NA,NA,SS19,unknown
+NA,46,"Liu, Cao Dong",Subaru Impreza WRX,CN,N4,NA,NA,SS21,unknown
+NA,54,"Jourdain, Michel",Mitsubishi Lancer Evo IX,MX,N4,NA,NA,SS12,unknown
+NA,61,"Tapper, Mark",Mitsubishi Lancer Evo VII,NZ,A8,NA,NA,SS15,unknown
+NA,63,"Taylor, Stewart",Mitsubishi Lancer Evo X,NZ,N4,NA,NA,SS19,unknown
+NA,67,"Hall, Kieran",Subaru Impreza WRX,NZ,N4,NA,NA,TC17E,unknown
+NA,73,"Strong, Dave",Ford Fiesta S2000,NZ,N4,NA,NA,TC19C,unknown
+NA,74,"Taylor, Brent",Mitsubishi Lancer Evo VIII,NZ,N4,NA,NA,SS19,unknown
+NA,76,"Pigneguy, Piran",Mitsubishi Lancer Evo VIII,NZ,N4,NA,NA,TC0,unknown
+NA,83,"Dalstein, Alain",Mitsubishi Lancer Evo VIII,FR,N4,NA,NA,TC17E,unknown

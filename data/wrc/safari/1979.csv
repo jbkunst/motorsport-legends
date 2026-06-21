@@ -1,0 +1,18 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,9,"Mehta, Shekhar",Datsun 160J,KE,G2,6h 27m,NA,NA,NA
+2,14,"Mikkola, Hannu",Mercedes Benz 450 SLC 5.0,FI,G4,+48m,NA,NA,NA
+3,3,"Alen, Markku",Fiat 131 Abarth,FI,G4,+53m,NA,NA,NA
+4,16,"Cowan, Andrew",Mercedes Benz 280,GB,G2,+1h 09m,NA,NA,NA
+5,1,"Aaltonen, Rauno",Datsun 160J,FI,G2,+1h 39m,NA,NA,NA
+6,10,"Waldegard, Bjorn",Mercedes Benz 450 SLC 5.0,SE,G4,+2h 53m,NA,NA,NA
+7,22,"Kirkland, Mike",Datsun Violet,KE,G2,+3h 07m,NA,NA,NA
+8,11,"Rohrl, Walter",Fiat 131 Abarth,DE,G4,+3h 58m,NA,NA,NA
+9,5,"Kallstrom, Harry",Datsun 160J,SE,G2,+4h 16m,NA,NA,NA
+10,7,"Munari, Sandro",Fiat 131 Abarth,IT,G4,+5h 06m,NA,NA,NA
+11,2,"Singh, Joginder",Mercedes Benz 280,KE,G2,NA,NA,NA,NA
+NA,4,"Lampinen, Simo",Peugeot 504 V6 Coupe,FI,G4,NA,NA,TC29,engine
+NA,6,"Preston Jr, Vic",Mercedes Benz 450 SLC 5.0,KE,G4,NA,NA,TC23,rear axle
+NA,8,"Makinen, Timo",Peugeot 504 V6 Coupe,FI,G4,NA,NA,TC49,engine
+NA,12,"Nicolas, Jean-Pierre",Peugeot 504 V6 Coupe,FR,G4,NA,NA,TC22,engine
+NA,19,"Zasada, Sobieslaw",Mercedes Benz 280,PL,G2,NA,NA,TC52,accident
+NA,20,"Barth, Jurgen",Porsche 924 Turbo,DE,G4,NA,NA,TC70,transmission

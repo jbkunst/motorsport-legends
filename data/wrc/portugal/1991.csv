@@ -1,0 +1,37 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,2,"Sainz, Carlos",Toyota Celica GT-4 (ST165),ES,A8,6h 06m 36s,NA,NA,NA
+2,7,"Auriol, Didier",Lancia Delta HF Integrale 16v,FR,A,+47s,NA,NA,NA
+3,1,"Biasion, Massimo",Lancia Delta HF Integrale 16v,IT,A,+2m 05s,NA,NA,NA
+4,5,"Kankkunen, Juha",Lancia Delta HF Integrale 16v,FI,A,+7m 21s,NA,NA,NA
+5,3,"Alen, Markku",Subaru Legacy RS,FI,A,+27m 36s,NA,NA,NA
+6,10,"Chatriot, Francois",Subaru Legacy RS,FR,A,+28m 58s,NA,NA,NA
+7,16,"Puras, Jesus",Mazda 323 GT-X,ES,A,+43m 41s,NA,NA,NA
+8,22,"de Mevius, Gregoire",Mazda 323,BE,N,+49m 02s,NA,NA,NA
+9,17,"Harrach, Ernst",Lancia Delta HF Integrale 16v,AT,A,+1h 02m 42s,NA,NA,NA
+10,15,"Bica, Carlos",Lancia Delta HF Integrale 16v,PT,A,+1h 04m 08s,NA,NA,NA
+11,47,"Bedini, Piergiorgio",Lancia Delta Integrale,IT,N,+1h 32m 54s,NA,NA,NA
+12,24,"Peres, Fernando",Ford Sierra Cosworth 4x4,PT,N,+1h 37m 54s,NA,NA,NA
+13,37,"Capdevila, Fernando",Ford Sierra Cosworth 4x4,ES,N,+1h 40m 46s,NA,NA,NA
+14,76,"Franco, Horacio",Skoda Favorit 136L,PT,A,+1h 42m 22s,NA,NA,NA
+15,32,"Fernandes, Ramiro",Lancia Delta HF 4WD,PT,N,+1h 49m 26s,NA,NA,NA
+16,38,"Recordati, Giovanni",Lancia Delta Integrale,IT,A,+1h 57m 22s,NA,NA,NA
+17,63,"Azeredo, Pedro",Toyota Corolla,PT,A,+2h 07m 41s,NA,NA,NA
+18,102,"Reininger, Stefan",Opel Kadett GSi,AT,N,+2h 12m 45s,NA,NA,NA
+19,105,"Magri, Stefano",Peugeot 205 GTI,IT,N,+2h 18m 01s,NA,NA,NA
+20,75,"Calisto, Vitor",Citroen AX,PT,A,+2h 35m 18s,NA,NA,NA
+21,64,"Washio, Shunichi",Toyota Corolla,JP,A,+2h 39m 31s,NA,NA,NA
+22,44,"Campos, Vasco",Renault 11 Turbo,PT,N,+2h 47m 51s,NA,NA,NA
+23,52,"Monteiro, Paulo",Lancia Delta Integrale,PT,N,+2h 52m 15s,NA,NA,NA
+24,58,"Veloso Amaral, Manuel",Lancia Delta Integrale,PT,N,+2h 58m 34s,NA,NA,NA
+25,106,"Torres, Jose",Toyota Corolla GT,PT,N,+3h 06m 15s,NA,NA,NA
+26,108,"Klein, Ewald",Subaru Justy,DE,N,+3h 13m 42s,NA,NA,NA
+27,71,"Conceicao, Orlando",Opel Manta,PT,A,+3h 16m 02s,NA,NA,NA
+28,78,"Matias, Miguel",Seat Marbella GL,PT,A,+4h 38m 34s,NA,NA,NA
+NA,4,"Delecour, Francois",Ford Sierra Cosworth 4x4,FR,A,NA,NA,SS10,accident
+NA,6,"Schwarz, Armin",Toyota Celica GT-4 (ST165),DE,A,NA,NA,SS10,accident
+NA,8,"Fiorio, Alessandro",Ford Sierra Cosworth 4x4,IT,A,NA,NA,SS6,accident
+NA,9,"Mikkola, Hannu",Mazda 323 GT-X,FI,A,NA,NA,SS23,alternator
+NA,11,"Makinen, Tommi",Ford Sierra Cosworth 4x4,FI,N,NA,NA,SS33,gearbox
+NA,12,"Duez, Marc",Toyota Celica GT-4 (ST165),BE,A,NA,NA,SS18,electrics
+NA,14,"Wilson, Malcolm",Ford Sierra Cosworth 4x4,GB,A,NA,NA,SS6,accident
+NA,23,"Fassina, Alessandro",Toyota Celica GT-4 (ST165),IT,N,NA,NA,NA,electrical

@@ -1,0 +1,58 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Loeb, Sebastien",Citroen C4 WRC,FR,A8,"3h 57m 17,2s",NA,NA,NA
+2,3,"Hirvonen, Mikko",Ford Focus RS WRC 07,FI,A8,"+10,6s",NA,NA,NA
+3,4,"Latvala, Jari-Matti",Ford Focus RS WRC 07,FI,A8,"+15,3s",NA,NA,NA
+4,7,"Galli, Gianluigi",Ford Focus RS WRC 07,IT,A8,"+1m 42,5s",NA,NA,NA
+5,2,"Sordo Castillo, Daniel",Citroen C4 WRC,ES,A8,"+2m 05,6s",NA,NA,NA
+6,6,"Atkinson, Christopher",Subaru Impreza WRC2007,AU,A8,"+5m 08,6s",NA,NA,NA
+7,10,"Solberg, Henning",Ford Focus RS WRC 07,NO,A8,"+6m 01,0s",NA,NA,NA
+8,16,"Aava, Urmo",Citroen C4 WRC,EE,A8,"+6m 21,3s",NA,NA,NA
+9,12,"Andersson, Per-Gunnar",Suzuki SX4 WRC,SE,A8,"+7m 48,7s",0:10,NA,NA
+10,5,"Solberg, Petter",Subaru Impreza WRC2007,NO,A8,"+9m 41,0s",NA,NA,NA
+11,19,"Ostberg, Mads",Subaru Impreza,NO,A8,"+9m 51,9s",NA,NA,NA
+12,8,"Wilson, Matthew",Ford Focus RS WRC 07,GB,A8,"+10m 07,3s",NA,NA,NA
+13,15,"Rautenbach, Conrad",Citroen C4 WRC,ZW,A8,"+10m 18,6s",NA,NA,NA
+14,9,"Villagra, Federico",Ford Focus RS WRC 07,AR,A8,"+11m 01,3s",NA,NA,NA
+15,35,"Kosciuszko, Michal",Suzuki Swift S1600,PL,A6,"+24m 35,7s",NA,NA,NA
+16,14,"al-Qassimi, Khalid",Ford Focus RS WRC 07,AE,A8,"+28m 49,0s",NA,NA,NA
+17,48,"Bettega, Alessandro",Renault Clio,IT,A7,"+29m 00,6s",NA,NA,NA
+18,76,"Cenedese, Moreno",Mitsubishi Lancer Evo IX,IT,N4,"+33m 30,7s",0:30,NA,NA
+19,77,"Frisiero, Fabio",Mitsubishi Lancer Evo IX,IT,N4,"+34m 21,3s",NA,NA,NA
+20,33,"Burkart, Aaron Nicolai",Citroen C2,DE,A6,"+34m 57,4s",NA,NA,NA
+21,46,"Gallagher, Shaun",Citroen C2,IE,A6,"+35m 23,7s",NA,NA,NA
+22,42,"Ogier, Sebastien",Citroen C2 S1600,FR,A6,"+40m 22,6s",NA,NA,NA
+23,39,"Albertini, Stefano",Renault Clio,IT,A7,"+40m 44,4s",NA,NA,NA
+24,74,"Lovisetto, Adriano",Mitsubishi Lancer Evo IX,IT,N4,"+45m 47,1s",NA,NA,NA
+25,87,"Baranauskas, Vytautas",Ford Fiesta ST,LT,N3,"+49m 38,3s",NA,NA,NA
+26,41,"Sandell, Patrik",Renault Clio S1600,SE,A6,"+50m 12,0s",NA,NA,NA
+27,44,"Weijs jr, Hans",Citroen C2 R2,NL,A6,"+50m 50,5s",1:00,NA,NA
+28,32,"Molder, Jaan",Suzuki Swift S1600,EE,A6,"+51m 18,8s",NA,NA,NA
+29,79,"Marrone, Francesco",Mitsubishi Lancer Evo V,IT,N4,"+51m 59,4s",0:40,NA,NA
+30,31,"Prokop, Martin",Citroen C2 S1600,CZ,A6,"+53m 37,9s",NA,NA,NA
+31,34,"Cortinovis, Andrea",Renault Clio S1600,IT,A6,"+54m 26,2s",0:20,NA,NA
+32,90,"Cetinkaya Bonnet, Burcu",Ford Fiesta ST,TU,N3,"+1h 03m 09,2s",NA,NA,NA
+33,71,"Dettori, Giuseppe",Mitsubishi Lancer Evo IX,IT,N4,"+1h 05m 10,7s",0:10,NA,NA
+34,47,"Schammel, Gilles",Renault Clio,LU,A7,"+1h 11m 51,0s",0:40,NA,NA
+35,38,"Fanari, Francesco",Citroen C2 R2,IT,A6,"+1h 11m 54,4s",NA,NA,NA
+36,89,"Muratoglu, Koray",Ford Fiesta ST,TU,N3,"+1h 25m 12,2s",2:50,NA,NA
+37,85,"Pranzoni, Gerri",Renault Clio,IT,A7,"+1h 26m 42,4s",NA,NA,NA
+38,93,"Donadio, Raffaele",MG Rover 105 ZR,IT,N1,"+2h 27m 13,4s",NA,NA,NA
+NA,11,"Gardemeister, Toni",Suzuki SX4 WRC,FI,A8,NA,NA,SS15,mechanical
+NA,18,"Mikkelsen, Andreas",Ford Focus WRC,NO,A8,NA,NA,TC6C,mechanical
+NA,20,"van Merksteijn, Peter",Ford Focus WRC,NL,A8,NA,NA,TC6C,mechanical
+NA,37,"Bertolotti, Simone",Renault Clio,IT,A7,NA,NA,SS16,mechanical
+NA,40,"Komljenovic, Milos",Renault Clio,RS,A7,NA,NA,SS8,mechanical
+NA,43,"Niegel, Florian",Suzuki Swift S1600,DE,A6,NA,NA,SS7,mechanical
+NA,45,"Abbring, Kevin",Renault Clio,NL,A7,NA,NA,SS16,mechanical
+NA,72,"van Merksteijn jr, Peter",Mitsubishi Lancer Evo IX,NL,N4,NA,NA,TC6C,mechanical
+NA,73,"Linari, Gianluca",Subaru Impreza,IT,N4,NA,NA,TC12C,unknown
+NA,75,"Sauvan, Frederic",Mitsubishi Lancer Evo IX,FR,N4,NA,NA,TC12C,unknown
+NA,78,"Montanari, Fabio",Subaru Impreza,IT,N4,NA,NA,TC9C,mechanical
+NA,80,"Caragliu, Bernardo Antonio",Mitsubishi Lancer Evo VI,IT,N4,NA,NA,SS13,mechanical
+NA,81,"Serra, Gianmaria",Mitsubishi Lancer Evo VI,IT,N4,NA,NA,TC12D,mechanical
+NA,83,"Raschi, Alex",Renault Clio,SM,A7,NA,NA,TC14C,mechanical
+NA,84,"Broccoli, Alessandro",Renault Clio,SM,A7,NA,NA,post-rally,broken seal
+NA,86,"Stanoiev, Bodgan",Citroen C2,RO,A6,NA,NA,TC12D,mechanical
+NA,88,"Yurdakul, Emre",Ford Fiesta ST,TU,N3,NA,NA,SS14,mechanical
+NA,91,"Grodetskiy, Denis",Ford Fiesta ST,RU,N3,NA,NA,SS13,mechanical
+NA,92,"Jeram, Marko",Ford Fiesta ST,SI,N3,NA,NA,SS14,mechanical

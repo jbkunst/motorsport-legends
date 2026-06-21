@@ -1,0 +1,62 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,8,"Tanak, Ott",Toyota Yaris WRC,EE,RC1,"2h 30m 40,3s",NA,NA,NA
+2,4,"Lappi, Esapekka",Citroen C3 WRC,FI,RC1,"+25,6s",NA,NA,NA
+3,10,"Latvala, Jari-Matti",Toyota Yaris WRC,FI,RC1,"+33,2s",NA,NA,NA
+4,89,"Mikkelsen, Andreas",Hyundai i20 Coupe WRC,NO,RC1,"+53,4s",NA,NA,NA
+5,1,"Ogier, Sebastien",Citroen C3 WRC,FR,RC1,"+56,1s",NA,NA,NA
+6,11,"Neuville, Thierry",Hyundai i20 Coupe WRC,BE,RC1,"+1m 32,4s",NA,NA,NA
+7,42,"Breen, Craig",Hyundai i20 Coupe WRC,IE,RC1,"+1m 38,2s",0:20,NA,NA
+8,3,"Suninen, Teemu",Ford Fiesta RS WRC 2017,FI,RC1,"+2m 33,8s",NA,NA,NA
+9,21,"Rovanpera, Kalle",Skoda Fabia,FI,RC2,"+7m 54,1s",NA,NA,NA
+10,44,"Gryazin, Nikolay",Skoda Fabia,RU,RC2,"+10m 28,7s",NA,NA,NA
+11,49,"Huttunen, Jari",Hyundai i20,FI,RC2,"+10m 42,7s",NA,NA,NA
+12,48,"Kristoffersson, Johan",Volkswagen Polo,SE,RC2,"+12m 32,5s",NA,NA,NA
+13,24,"Camilli, Eric",Ford Fiesta,FR,RC2,"+12m 41,1s",NA,NA,NA
+14,41,"Loubet, Pierre-Louis",Skoda Fabia,FR,RC2,"+17m 13,2s",NA,NA,NA
+15,45,"Solberg, Henning",Skoda Fabia,NO,RC2,"+21m 15,5s",0:10,NA,NA
+16,91,"Asunmaa, Teemu",Skoda Fabia,FI,RC2,"+24m 25,9s",0:40,NA,NA
+17,72,"Kristensson, Tom",Ford Fiesta,SE,RC4,"+24m 36,9s",NA,NA,NA
+18,71,"Solans Baldo, Jan",Ford Fiesta,ES,RC4,"+26m 04,9s",NA,NA,NA
+19,18,"Virtanen, Jouni",Ford Fiesta RS WRC 2017,FI,RC1,"+27m 05,0s",NA,NA,NA
+20,98,"Tuuri, Jari",Skoda Fabia,FI,RC2,"+27m 49,1s",NA,NA,NA
+21,106,"Joona, Lauri",Ford Fiesta,FI,RC4,"+30m 47,3s",NA,NA,NA
+22,108,"Lahdeniemi, Arttu",Ford Fiesta,FI,RC4,"+31m 09,9s",NA,NA,NA
+23,105,"Fourmaux, Adrien",Ford Fiesta,FR,RC4,"+31m 21,2s",NA,NA,NA
+24,75,"Poom, Roland",Ford Fiesta,EE,RC4,"+36m 31,7s",NA,NA,NA
+25,103,"Miele, Mauro",Skoda Fabia,IT,RC2,"+36m 44,0s",NA,NA,NA
+26,84,"Royhkio, Aleksi",Ford Fiesta,FI,RC4,"+38m 02,1s",NA,NA,NA
+27,80,"Johnston, Sean",Ford Fiesta,US,RC4,"+38m 19,2s",NA,NA,NA
+28,111,"Ohman, Patric",Ford Fiesta,FI,RC4,"+39m 52,1s",NA,NA,NA
+29,104,"Diaz-Aboitiz, Miguel",Skoda Fabia,ES,RC2,"+42m 54,9s",NA,NA,NA
+30,79,"Oldrati, Enrico",Ford Fiesta,IT,RC4,"+44m 15,3s",NA,NA,NA
+31,46,"Nobre, Paulo",Skoda Fabia,BR,RC2,"+45m 39,7s",NA,NA,NA
+32,97,"Lyytikainen, Pasi",Skoda Fabia,FI,RC2,"+46m 54,6s",NA,NA,NA
+33,112,"Hytonen, Kari",Ford Fiesta,FI,RC4,"+54m 32,2s",NA,NA,NA
+34,99,"Huuhka, Jari",Ford Fiesta,FI,RC2,"+55m 52,2s",NA,NA,NA
+35,95,"Pynnonen, Ville",Skoda Fabia,FI,RC2,"+56m 45,5s",NA,NA,NA
+36,102,"Soininen, Arto",Ford Fiesta,FI,RC2,"+1h 01m 17,9s",1:20,NA,NA
+37,82,"Knacker, Nico",Ford Fiesta,DE,RC4,"+1h 03m 29,5s",NA,NA,NA
+38,109,"France, Julien",Citroen DS3,FR,RC3,"+1h 07m 43,7s",NA,NA,NA
+39,113,"Kaisanlahti, Raimo",Ford Fiesta,FI,RC4,"+1h 08m 28,3s",NA,NA,NA
+40,114,"Takale, Sanjay",Ford Fiesta,IN,RC4,"+1h 11m 10,0s",0:20,NA,NA
+41,81,"Zaldivar Zuccolillo, Fabrizio",Ford Fiesta,PY,RC4,"+1h 18m 16,2s",NA,NA,NA
+42,77,"Sesks, Martins",Ford Fiesta,LV,RC4,"+1h 21m 08,6s",NA,NA,NA
+43,47,"Lindholm, Emil",Volkswagen Polo,FI,RC2,"+1h 23m 03,6s",NA,NA,NA
+44,110,"Manninen, Markus",Ford Fiesta,FI,RC4,"+1h 24m 30,5s",0:10,NA,NA
+45,51,"Munster, Gregoire",Skoda Fabia,LU,RC2,"+1h 36m 14,5s",NA,NA,NA
+46,100,"Becx, Michiel",Ford Fiesta,NL,RC2,"+1h 36m 52,4s",1:00,NA,NA
+47,101,"Amourette, Marc",Citroen DS3,FR,RC2,"+1h 43m 28,9s",1:00,NA,NA
+48,76,"Williams, Tom",Ford Fiesta,GB,RC4,"+1h 44m 39,6s",NA,NA,NA
+49,115,"Washio, Shunichi",Toyota Vitz,JP,RC5,"+2h 17m 18,1s",NA,NA,NA
+NA,5,"Meeke, Kris",Toyota Yaris WRC,GB,RC1,NA,NA,SS22,off road
+NA,23,"Pietarinen, Eerik",Skoda Fabia,FI,RC2,NA,NA,SS2,off road
+NA,33,"Greensmith, Fergus",Ford Fiesta RS WRC 2017,GB,RC1,NA,NA,SS21,off road
+NA,43,"Katsuta, Takamoto",Ford Fiesta,JP,RC2,NA,NA,SS12,off road
+NA,50,"Tukiainen, Tomi",Skoda Fabia,FI,RC2,NA,NA,SS6,off road
+NA,73,"Radstrom, Dennis",Ford Fiesta,SE,RC4,NA,NA,SS21,mechanical
+NA,74,"Tannert, Julius",Ford Fiesta,DE,RC4,NA,NA,TC19D,mechanical
+NA,78,"Badiu, Raul",Ford Fiesta,UY,RC4,NA,NA,SS6,off road
+NA,83,"Pajari, Sami",Ford Fiesta,FI,RC4,NA,NA,TC19D,mechanical
+NA,92,"Flodin, Patrik",Skoda Fabia,SE,RC2,NA,NA,TC21,mechanical
+NA,96,"Burger, Kees",Skoda Fabia,NL,RC2,NA,NA,SS14,mechanical
+NA,107,"Markkanen, Kalle",Peugeot 208,FI,RC4,NA,NA,SS13,off road

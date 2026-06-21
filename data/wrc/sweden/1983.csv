@@ -1,0 +1,22 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"Mikkola, Hannu",Audi quattro A1,FI,B,4h 28m 47s,NA,NA,NA
+2,1,"Blomqvist, Stig",Audi 80 quattro,SE,B,+47s,NA,NA,NA
+3,7,"Lampi, Lasse",Audi quattro A1,FI,B,+4m 04s,NA,NA,NA
+4,4,"Mouton, Michele",Audi quattro A1,FR,B,+5m 09s,NA,NA,NA
+5,11,"Grundel, Karl",Volkswagen Golf GTi,SE,A,+9m 46s,NA,NA,NA
+6,2,"Vatanen, Ari",Opel Ascona 400,FI,B,+11m 51s,NA,NA,NA
+7,24,"Nilsson, Soren",Nissan Bluebird Turbo,SE,A,+13m 01s,NA,NA,NA
+8,32,"Ericsson, Mikael",Audi 80 Coupe,SE,A,+13m 08s,NA,NA,NA
+9,20,"Walfridsson, Lars-Erik",Renault 5 Turbo,SE,B,+15m 29s,NA,NA,NA
+10,23,"Stromberg, Ola",Saab 99 Turbo,SE,A,+16m 25s,NA,NA,NA
+11,26,"Carlsson, Ingvar",BMW 323,SE,G2,+17m 27s,NA,NA,NA
+13,27,"Jonsson, Mats",Opel Ascona,SE,G2,NA,NA,NA,NA
+16,38,"Eriksson, Kenneth",Opel Ascona,SE,A,NA,NA,NA,NA
+57,55,"Briy, Jacques",Audi quattro,FR,G4,+1h 18m 13s,NA,NA,NA
+60,66,"Aitken, Louise",Ford Escort XR3,GB,N,+1h 23m 48s,NA,NA,NA
+999,NA,"Gardere, Paul",Talbot Sunbeam,FR,B,"h:mm:ss,s",NA,NA,NA
+NA,5,"Eklund, Per",Saab 99 Turbo,SE,A,NA,NA,SS3,head gasket
+NA,8,"Sogaard, Jens",Opel Ascona 400,NO,B,NA,NA,SS4,ignition
+NA,12,"Brundza, Stasis",Lada 2105,SU,B,NA,NA,SS4,head gasket
+NA,18,"Hogstrom, Lars",Ford Escort RS,SE,G4,NA,NA,SS3,engine
+NA,19,"Andervang, Stig",Ford Escort RS,SE,G4,NA,NA,SS16,alternator

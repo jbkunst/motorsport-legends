@@ -1,0 +1,31 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Ogier, Sebastien",Volkswagen Polo R WRC,FR,RC1,"4h 19m 13,4s",NA,NA,NA
+2,4,"Ostberg, Mads",Citroen DS3 WRC,NO,RC1,"+1m 18,8s",NA,NA,NA
+3,9,"Mikkelsen, Andreas",Volkswagen Polo R WRC,NO,RC1,"+1m 25,1s",NA,NA,NA
+4,5,"Evans, Elfyn",Ford Fiesta RS WRC,GB,RC1,"+3m 40,2s",NA,NA,NA
+5,8,"Sordo Castillo, Daniel",Hyundai i20 WRC,ES,RC1,"+5m 01,8s",NA,NA,NA
+6,21,"Prokop, Martin",Ford Fiesta RS WRC,CZ,RC1,"+6m 36,1s",NA,NA,NA
+7,39,"al-Attiyah, Nasser",Ford Fiesta,QA,RC2,"+14m 52,7s",NA,NA,NA
+8,7,"Neuville, Thierry",Hyundai i20 WRC,BE,RC1,"+22m 43,3s",NA,NA,NA
+9,41,"Fuchs Sierlecki, Nicolas",Ford Fiesta,PE,RC2,"+22m 49,0s",0:30,NA,NA
+10,40,"Ketomaa, Jari",Ford Fiesta,FI,RC2,"+23m 10,2s",NA,NA,NA
+11,36,"al-Kuwari, Abdulaziz",Ford Fiesta,QA,RC2,"+23m 44,8s",NA,NA,NA
+12,23,"Guerra Latapi, Benito",Ford Fiesta RS WRC,MX,RC1,"+26m 56,3s",NA,NA,NA
+13,38,"Protasov, Yuriy",Ford Fiesta,UA,RC2,"+33m 30,8s",NA,NA,NA
+14,33,"Rendina, Massimiliano",Mitsubishi Lancer Evo X,IT,RC2,"+38m 06,5s",NA,NA,NA
+15,2,"Latvala, Jari-Matti",Volkswagen Polo R WRC,FI,RC1,"+48m 48,6s",NA,NA,NA
+16,3,"Meeke, Kris",Citroen DS3 WRC,GB,RC1,"+51m 50,3s",NA,NA,NA
+17,20,"Paddon, Hayden",Hyundai i20 WRC,NZ,RC1,"+54m 20,5s",NA,NA,NA
+18,24,"Kubica, Robert",Ford Fiesta RS WRC,PL,RC1,"+56m 43,6s",NA,NA,NA
+19,35,"Serderidis, Jourdan",Citroen DS3,GR,RC2,"+58m 08,4s",NA,NA,NA
+20,57,"Gonzalez Hernandez, Jorge",Mitsubishi Lancer Evo IX,MX,RC2,"+1h 20m 20,7s",2:10,NA,NA
+21,55,"Martinez M. R., Jorge Enrique",Subaru Impreza,PE,RC2,"+1h 44m 05,0s",0:10,NA,NA
+22,6,"Tanak, Ott",Ford Fiesta RS WRC,EE,RC1,"+1h 54m 50,0s",0:40,NA,NA
+23,59,"Fonseca, Guillermo",Ford Fiesta ST,MX,RC4,"+2h 11m 19,6s",2:10,NA,NA
+NA,32,"Lefebvre, Stephane",Citroen DS3,FR,RC2,NA,NA,SS16,accident
+NA,37,"Bertelli, Lorenzo",Ford Fiesta RS WRC,IT,RC1,NA,NA,SS19,mechanical
+NA,42,"Gorban, Valeriy",Mini John Cooper Works S2000,UA,RC2,NA,NA,TC18D,unknown
+NA,43,"Shaymiev, Radik",Ford Fiesta,RU,RC2,NA,NA,TC10E,unknown
+NA,51,"Tempestini, Simone",Subaru Impreza,IT,RC2,NA,NA,SS21,accident
+NA,52,"Trivino Bujalil, Ricardo",Mitsubishi Lancer Evo X,MX,RC2,NA,NA,TC18D,unknown
+NA,56,"Sanchez, Guillermo",Mitsubishi Lancer Evo IX,MX,RC2,NA,NA,TC10E,unknown

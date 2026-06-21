@@ -1,0 +1,46 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,5,"Rohrl, Walter",Fiat 131 Abarth,DE,G4,10h 00m 50s,NA,NA,NA
+2,7,"Alen, Markku",Fiat 131 Abarth,FI,G4,+10m 04s,NA,NA,NA
+3,12,"Mehta, Shekhar",Datsun 160J,KE,G2,+22m 46s,NA,NA,NA
+4,4,"Kallstrom, Harry",Datsun 160J,SE,G2,+23m 11s,NA,NA,NA
+5,10,"Warmbold, Achim",Opel Kadett GT/E,DE,G2,+53m 29s,NA,NA,NA
+6,8,"Livieratos, Tassos",Lancia Stratos HF,GR,G4,+1h 03m 27s,NA,NA,NA
+7,16,"Coleman, Billy",Ford Escort RS,IE,G4,+1h 12m 59s,NA,NA,NA
+8,29,"Gallo, Evangelos",Toyota Celica,GR,G2,+1h 35m 42s,NA,NA,NA
+9,32,"Zapadlo, Miloslav",Skoda 130,CS,G2,+1h 40m 33s,NA,NA,NA
+10,20,"Brundza, Stasis",Lada 1600,SU,G2,+1h 43m 59s,NA,NA,NA
+11,42,"Torres, Carlos",Mazda RX3,PT,G1,+1h 55m 31s,NA,NA,NA
+12,NA,"Coppier, Alain",Datsun 710,FR,NA,+2h 01m 04s,NA,NA,NA
+13,NA,"Haugland, John",Skoda 130,NO,NA,+2h 10m 34s,NA,NA,NA
+14,NA,"Markouizos, Anastasios",Ford Escort RS1800,GR,NA,+2h 11m 22s,NA,NA,NA
+15,NA,"Lartigue, Pierre",Peugeot 504,FR,NA,+2h 13m 24s,NA,NA,NA
+16,NA,"Kristiansen, Jens-Ole",Opel Kadett GT/E,DK,NA,+2h 34m 16s,NA,NA,NA
+17,NA,"Halivelakis, Manolis",Toyota Corolla,GR,NA,+3h 06m 36s,NA,NA,NA
+18,NA,"Stohl, Rudolf",Lada 1600,AT,NA,+3h 19m 13s,NA,NA,NA
+19,NA,Bardopoulos,Ford Escort RS2000,NA,NA,+3h 19m 37s,NA,NA,NA
+20,NA,"Ruedin, Hans-Peter",Mitsubishi Colt Lancer,KE,NA,+3h 21m 19s,NA,NA,NA
+21,NA,'Simetra',Ford Escort,NA,NA,+3h 25m 12s,NA,NA,NA
+22,NA,"Heimburger, Dieter",Wartburg 353,DD,NA,+3h 27m 02s,NA,NA,NA
+23,24,"Jaroszewicz, Andrzej",Polski-Fiat 125p,PL,G2,+3h 34m 22s,NA,NA,NA
+24,NA,Moussourelis,Daihatsu,GR,NA,+3h 37m 31s,NA,NA,NA
+25,NA,'Benny',Mazda 323,GR,NA,+3h 38m 40s,NA,NA,NA
+NA,1,"Munari, Sandro",Fiat 131 Abarth,IT,G4,NA,NA,SS17,rear suspension
+NA,2,"Andersson, Ove",Toyota Celica,SE,G2,NA,NA,SS42,engine
+NA,3,"Kullang, Anders",Opel Kadett GT/E,SE,G2,NA,NA,SS15,accident
+NA,6,"Nicolas, Jean-Pierre",Citroen CX2400,FR,G2,NA,NA,SS11,suspension
+NA,9,"Therier, Jean-Luc",Toyota Celica,FR,G2,NA,NA,SS26,engine
+NA,17,"Moschous, George",Datsun Violet,GR,G2,NA,NA,SS13,accident
+NA,18,"Luc, Jean-Paul",Citroen CX2400,FR,G2,NA,NA,SS21,fuel
+NA,21,"Maniatopoulos, Alexandros",Renault 5 Alpine,GR,G2,NA,NA,SS34,transmission
+NA,22,"Toivonen, Henri",Citroen CX2400,FI,G2,NA,NA,SS26,fuel line
+NA,25,"Elizarov, Nikolaj",Lada 1600,SU,G2,NA,NA,SS1,oil filter
+NA,26,"Trautmann, Henri",Citroen CX2400,FR,G1,NA,NA,SS17,accident
+NA,28,"Ciecierzynski, Tomasz",Polski-Fiat 125p,PL,G2,NA,NA,SS17,accident
+NA,30,"Vukovich, Sergej",Lada 1600,SU,G2,NA,NA,SS5,transmission
+NA,33,"Groblewski, Wlodzimierz",Polski-Fiat 125p,PL,G2,NA,NA,SS4,halfshaft
+NA,46,"Jedynak, Janina",Polski-Fiat 125p,PL,G2,NA,NA,NA,unknown
+NA,NA,Deladriere,Alfa Romeo Alfetta GT,NA,NA,NA,NA,NA,electrics
+NA,NA,"Fougerousse, P.",Toyota Celica,FR,NA,NA,NA,NA,off road
+NA,NA,"Hoepfner, Marianne",Toyota Celica,FR,NA,NA,NA,NA,shock absorbers
+NA,NA,"Laurent, Claude",Fiat 127,FR,NA,NA,NA,NA,gearbox
+NA,NA,"Pesmazoglou, Ioannis",Opel Kadett GT/E,GR,NA,NA,NA,NA,clutch

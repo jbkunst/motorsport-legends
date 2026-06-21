@@ -1,0 +1,127 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,4,"Sainz, Carlos",Toyota Celica GT-4 (ST165),ES,A9,4h 40m 55s,NA,NA,NA
+2,6,"Vatanen, Ari",Mitsubishi Galant VR-4,FI,A9,+19s,NA,NA,NA
+3,9,"Eriksson, Kenneth",Mitsubishi Galant VR-4,SE,A9,+4m 58s,NA,NA,NA
+4,3,"Alen, Markku",Subaru Legacy RS,FI,A9,+5m 52s,NA,NA,NA
+5,2,"Kankkunen, Juha",Lancia Delta HF Integrale 16v,FI,A9,+6m 15s,NA,NA,NA
+6,5,"Salonen, Timo",Mazda 323 GT-X,FI,A9,+8m 07s,NA,NA,NA
+7,25,"Lampi, Lasse",Mitsubishi Galant VR-4,FI,A9,+9m 19s,NA,NA,NA
+8,17,"Lindholm, Sebastian",Lancia Delta HF Integrale 16v,FI,A9,+9m 56s,NA,NA,NA
+9,24,"Saarenpaa, Esa",Audi 90 quattro,FI,A9,+23m 31s,NA,NA,NA
+10,29,"Buri, Risto",Audi 200 quattro,FI,A9,+24m 11s,NA,NA,NA
+11,18,"Makinen, Tommi",Mitsubishi Galant VR-4,FI,N4,+25m 51s,NA,NA,NA
+12,35,"Mokkonen, Ari",Audi Coupe,FI,A9,+29m 11s,NA,NA,NA
+13,23,"Walfridsson, Stig-Olov",Audi 90 quattro,SE,A9,+29m 13s,NA,NA,NA
+14,26,"Kumpumaki, Arto",Mitsubishi Galant VR-4,FI,N4,+29m 28s,NA,NA,NA
+15,14,"Trelles, Gustavo",Lancia Delta HF Integrale 16v,UY,N4,+29m 59s,NA,NA,NA
+16,21,"Soto, Ernesto",Lancia Delta HF Integrale 16v,AR,N4,+34m 13s,NA,NA,NA
+17,52,"Kalliomaa, Mikko",Toyota Celica GT-4 (ST165),FI,N4,+35m 42s,NA,NA,NA
+18,32,"Sandsgards, Johnny",Audi Coupe,FI,A9,+38m 37s,NA,NA,NA
+19,43,"Rantakari, Pekka",Toyota Celica GT-4 (ST165),FI,A9,+38m 52s,NA,NA,NA
+20,36,"Juntunen, Olavi",Peugeot 309 GTI,FI,A8,+39m 15s,NA,NA,NA
+21,50,"Tiri, Jouko",Subaru Legacy,FI,N4,+41m 00s,NA,NA,NA
+22,15,"Recalde, Jorge",Lancia Delta HF Integrale 16v,AR,N4,+41m 54s,NA,NA,NA
+23,28,"Evans, Gwyndaf",Ford Sierra Cosworth 4x4,GB,N4,+44m 04s,NA,NA,NA
+24,64,"Aho, Kalevi",Skoda Favorit 136L,FI,A6,+47m 26s,NA,NA,NA
+25,56,"Nystrom, Goran",Mazda 323 4WD,SE,A9,+48m 02s,NA,NA,NA
+26,71,"Vaananen, Harri",Alfa Romeo 33 4x4,FI,A7,+49m 24s,NA,NA,NA
+27,54,"Olofsson, Ove",Ford Sierra Cosworth 4x4,SE,N4,+51m 03s,NA,NA,NA
+28,39,"Paavilainen, Olli",Ford Sierra Cosworth 4x4,FI,N4,+53m 53s,NA,NA,NA
+29,78,"Ahvenlammi, Jouni",Toyota Corolla GT,FI,N2,+54m 36s,NA,NA,NA
+30,67,"Niinimaki, Timo",Toyota Corolla,FI,A7,+54m 53s,NA,NA,NA
+31,110,"Kasi, Jari",Opel Manta,FI,A8,+55m 55s,NA,NA,NA
+32,22,"de Martini, Paola",Audi 90 quattro,IT,A9,+57m 02s,NA,NA,NA
+33,79,"Hirvela, Ismo",Toyota Corolla GT,FI,N2,+58m 11s,NA,NA,NA
+34,48,"Cox, Gavin",Opel Monza,GB,A9,+1h 00m 16s,NA,NA,NA
+35,100,"Sibera, Pavel",Skoda Favorit 136L,CZ,A6,+1h 01m 19s,NA,NA,NA
+36,106,"Kortteisto, Rauno",Audi Coupe,FI,A9,+1h 01m 38s,NA,NA,NA
+37,127,"Saikkonen, Jukka",Toyota Corolla GT,FI,N2,+1h 02m 38s,NA,NA,NA
+38,108,"Jurvanen, Eija",Ford Sierra Cosworth 4x4,FI,N4,+1h 06m 03s,NA,NA,NA
+39,107,"Vuorio, Anne",Toyota Celica GT-4 (ST165),FI,N4,+1h 06m 11s,NA,NA,NA
+40,124,"Heikkila, Reijo",Lada Samara,FI,A7,+1h 06m 23s,NA,NA,NA
+41,144,"Tuominen, Matti",Toyota Corolla GT,FI,N2,+1h 07m 11s,NA,NA,NA
+42,145,"Luoto, Mauri",Toyota Corolla GT,FI,N2,+1h 07m 28s,NA,NA,NA
+43,93,"Kukkasniemi, Seppo",Mazda 323,FI,N4,+1h 07m 56s,NA,NA,NA
+44,131,"Hellman, Juha",Toyota Corolla GT,FI,N2,+1h 08m 31s,NA,NA,NA
+45,146,"Rutanen, Pasi",Toyota Corolla GT,FI,N2,+1h 08m 55s,NA,NA,NA
+46,148,"Hutri, Seppo",Toyota Corolla GT,FI,N2,+1h 09m 28s,NA,NA,NA
+47,132,"Nieminen, Vesa",Opel Kadett GSI,FI,N3,+1h 09m 44s,NA,NA,NA
+48,68,"Kasak, Priit",Lada Samara,SU,A7,+1h 11m 13s,NA,NA,NA
+49,149,"Kuukka, Timo",Toyota Corolla GT,FI,N2,+1h 11m 34s,NA,NA,NA
+50,121,"Klemets, Rabbe",Opel Manta,FI,A8,+1h 11m 40s,NA,NA,NA
+51,162,"Levula, Tapani",Toyota Corolla GT,FI,N2,+1h 12m 48s,NA,NA,NA
+52,150,"Maenpaa, Jukka",Opel Kadett GSI,FI,N3,+1h 14m 08s,NA,NA,NA
+53,101,"Paasikivi, Kimmo",Lancia Delta HF Integrale 16v,FI,N4,+1h 14m 30s,NA,NA,NA
+54,105,"Randelin, Kauko",Mazda 323 4WD,FI,A9,+1h 16m 47s,NA,NA,NA
+55,129,"Pekkanen, Jorma",Toyota Corolla GT,FI,N2,+1h 19m 11s,NA,NA,NA
+56,130,"Kunttu, Jari",Toyota Corolla GT,FI,N2,+1h 21m 30s,NA,NA,NA
+57,61,"Roulot, Jean-Francois",Mazda 323 4WD,FR,A9,+1h 21m 55s,NA,NA,NA
+58,158,"Haavikko, Kimmo",Toyota Corolla GT,FI,N2,+1h 23m 56s,NA,NA,NA
+59,176,"Polkki, Risto M.",Suzuki Cultus (Swift),FI,N1,+1h 25m 09s,NA,NA,NA
+60,135,"Mentula, Esa",Peugeot 205 GTi,FI,N3,+1h 29m 50s,NA,NA,NA
+61,181,"Sundman, Dick",Suzuki Cultus (Swift),SE,N1,+1h 30m 12s,NA,NA,NA
+62,189,"Valimaki, Heikki",Suzuki Swift GTI,FI,N1,+1h 34m 07s,NA,NA,NA
+63,102,"Sahala, Harri",Audi 200 quattro,FI,N4,+1h 35m 23s,NA,NA,NA
+64,99,"Nishiyama, Hiroshi",Mazda 323,JP,N4,+1h 38m 24s,NA,NA,NA
+65,187,"Montonen, Ari",Suzuki Swift GTI,FI,N1,+1h 40m 08s,NA,NA,NA
+66,179,"Virtanen, Seppo",Wartburg 353,FI,N1,+1h 42m 48s,NA,NA,NA
+67,141,"Bracotti, Federico",Peugeot 205 GTI,IT,N2,+1h 47m 14s,NA,NA,NA
+68,172,"Laaksonen, Pekka",Skoda 130L,FI,A6,+1h 50m 10s,NA,NA,NA
+69,171,"Vaatainen, Veijo",Lada 2105,FI,A6,+1h 51m 54s,NA,NA,NA
+70,157,"Mayr, Siegfried",Peugeot 205 GTI,DE,N2,+1h 54m 11s,NA,NA,NA
+71,134,"Moisio, Yrjo",Peugeot 309 GTI,FI,N3,+1h 55m 43s,NA,NA,NA
+72,164,"Giacometti, Ernesto",Peugeot 205 GTI,IT,N2,+1h 58m 11s,NA,NA,NA
+73,177,"Kunnas, Matti",Nissan Micra,FI,A5,+2h 00m 19s,NA,NA,NA
+74,178,"Saastamoinen, Alpo",Wartburg 353,FI,A5,+2h 01m 16s,NA,NA,NA
+75,123,"Tervonen, Kare",Peugeot 205 GTI,FI,A7,+2h 04m 00s,NA,NA,NA
+76,182,"Krugel, Klaus-Dieter",Wartburg 353,DD,N1,+2h 04m 12s,NA,NA,NA
+77,167,"Abraham, Miroslav",Peugeot 205 GTI,CS,N2,+2h 06m 23s,NA,NA,NA
+78,152,"Makela, Kari",Peugeot 205 GTi,FI,N3,+2h 08m 29s,NA,NA,NA
+79,151,"Makela, Ari",Peugeot 309 GTI,FI,N3,+2h 08m 34s,NA,NA,NA
+80,143,"de Sanctis, Fabrizio",Fiat Uno Turbo,IT,A9,+2h 11m 03s,NA,NA,NA
+81,133,"Kukkonen, Pentti",Opel Kadett GSI,FI,N3,+2h 14m 56s,NA,NA,NA
+82,139,"Eloranta, Kari",Subaru 4WD,FI,A6,+2h 15m 00s,NA,NA,NA
+83,185,"Voigt, Jens",Wartburg 353,DD,N1,+2h 18m 25s,NA,NA,NA
+84,119,"Clos, Robert",Opel Manta,FR,A8,+2h 19m 42s,NA,NA,NA
+85,190,"Leymarie, Francis",Peugeot 205 Rallye,FR,N1,+2h 23m 20s,NA,NA,NA
+86,112,"Simons, Georges",Volkswagen Golf GTI 16V,BE,N3,+2h 28m 44s,NA,NA,NA
+87,155,"Billard, Claude",Fiat Ritmo,FR,N3,+2h 31m 01s,NA,NA,NA
+88,170,"Munarin, Ivano",Peugeot 205 GTI,IT,N2,+2h 31m 34s,NA,NA,NA
+89,174,"Dafit, Philippe",Subaru 4WD,FR,A6,+2h 35m 21s,NA,NA,NA
+90,126,"Delhasse, Vincent",Toyota Corolla,BE,A7,+2h 36m 25s,NA,NA,NA
+91,168,"Jonquieres, Jacques",Peugeot 205 GTI,FR,N2,+2h 37m 25s,NA,NA,NA
+92,180,"Grohovskaja, Galina",Lada Samara,SU,A7,+2h 52m 15s,NA,NA,NA
+NA,1,"Ericsson, Mikael",Toyota Celica GT-4 (ST165),SE,A9,NA,NA,SS22,accident
+NA,7,"Auriol, Didier",Lancia Delta HF Integrale 16v,FR,A9,NA,NA,SS28,accident
+NA,8,"Airikkala, Pentti",Ford Sierra Cosworth 4x4,FI,A9,NA,NA,SS4,gearbox
+NA,10,"Fiorio, Alessandro",Lancia Delta HF Integrale 16v,IT,A9,NA,NA,SS33,gearbox
+NA,11,"Mikkola, Hannu",Mazda 323 GT-X,FI,A9,NA,NA,SS22,engine
+NA,12,"Wilson, Malcolm",Ford Sierra Cosworth 4x4,GB,A9,NA,NA,End of Leg 2,service infringement
+NA,13,"Eklund, Per",Lancia Delta Integrale,SE,A9,NA,NA,SS24,turbo
+NA,16,"Sundstrom, Mikael",Mazda 323 GT-X,FI,A9,NA,NA,SS26,turbo
+NA,20,"Cunico, Gianfranco",Ford Sierra Cosworth 4x4,IT,A9,NA,NA,SS21,accident
+NA,27,"Laine, Antero",Mitsubishi Galant VR-4,FI,N4,NA,NA,NA,unknown
+NA,30,"Kytolehto, Jarmo",Opel Kadett GSI,FI,A8,NA,NA,NA,unknown
+NA,31,"Viitala, Petri",Volkswagen Golf GTI 16V,FI,A8,NA,NA,NA,unknown
+NA,33,"Stubbings, Simon",Mitsubishi Galant VR-4,GB,N4,NA,NA,NA,unknown
+NA,34,"Tahko, Teemu",Volkswagen Golf Rallye G60,FI,A9,NA,NA,NA,unknown
+NA,37,"Artero, Jean-Paul",Toyota Celica GT-4 (ST165),FR,A9,NA,NA,NA,unknown
+NA,38,"Ramanen, Harri",Lancia Delta HF Integrale 16v,FI,N4,NA,NA,NA,unknown
+NA,40,"Geitel, Peter",Mazda 323,FI,N4,NA,NA,NA,unknown
+NA,41,"Bolshih, Nikolai",BMW M3,SU,A9,NA,NA,NA,unknown
+NA,42,"Vierimaa, Sakari",Volkswagen Golf Rallye G60,FI,N4,NA,NA,NA,unknown
+NA,44,"Kivenne, Kari",Audi Coupe,FI,A9,NA,NA,NA,unknown
+NA,45,"Westerlund, Heikki",Opel Manta,FI,A8,NA,NA,NA,unknown
+NA,49,"Sillankorva, Minna",Mazda 323 4WD,FI,A9,NA,NA,NA,unknown
+NA,51,"Gronholm, Marcus",Toyota Celica GT-4 (ST165),FI,N4,NA,NA,NA,accident
+NA,57,"O'Neil, Tim",Volkswagen Golf Rallye G60,US,N4,NA,NA,NA,unknown
+NA,58,"Salmen, Heikki",Mercedes Benz 190,FI,A9,NA,NA,NA,unknown
+NA,60,"Zanatta, Adriano",Lancia Delta HF Integrale 16v,IT,A9,NA,NA,NA,unknown
+NA,63,"Poysti, Jouko",Ford Sierra Cosworth 4x4,FI,N4,NA,NA,NA,unknown
+NA,65,"Battut, Laurent",Toyota Celica GT-4 (ST165),FR,N4,NA,NA,NA,unknown
+NA,66,"Rissanen, Jorma",Opel Manta,FI,A8,NA,NA,NA,unknown
+NA,74,"Niemi, Raimo",BMW M3,FI,A9,NA,NA,NA,unknown
+NA,76,"Shtikov, Vjatsheslav",Lada Samara,SU,A7,NA,NA,NA,unknown
+NA,77,"Laakso, Jorma",Volkswagen Golf GTI 16V,FI,N3,NA,NA,NA,unknown
+NA,85,"Ali-Rantala, Kari",Toyota Celica GT-4 (ST165),FI,N4,NA,NA,NA,unknown
+NA,95,"Hopf, Marc",Toyota Celica GT-4 (ST165),CH,N4,NA,NA,NA,unknown

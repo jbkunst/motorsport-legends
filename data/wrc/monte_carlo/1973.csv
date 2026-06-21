@@ -1,0 +1,94 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,18,"Andruet, Jean-Claude",Renault-Alpine A110 1800,FR,G4,5h 42m 04s,NA,NA,NA
+2,15,"Andersson, Ove",Renault-Alpine A110 1800,SE,G4,+26s,NA,NA,NA
+3,21,"Nicolas, Jean-Pierre",Renault-Alpine A110 1800,FR,G4,+1m 35s,NA,NA,NA
+4,20,"Mikkola, Hannu",Ford Escort RS1600,FI,G2,+2m 25s,NA,NA,NA
+5,4,"Therier, Jean-Luc",Renault-Alpine A110 1800,FR,G2,+3m 57s,NA,NA,NA
+6,23,"Piot, Jean-Francois",Renault-Alpine A110,FR,G4,+3m 58s,NA,NA,NA
+7,5,"Pinto, Raffaele",Fiat 124 Abarth Spider,IT,G4,+10m 10s,NA,NA,NA
+8,16,"Kallstrom, Harry",Lancia Fulvia HF,SE,G4,+10m 11s,NA,NA,NA
+9,17,"Fall, Tony",Datsun 240Z,GB,G4,+13m 43s,NA,NA,NA
+10,1,"Darniche, Bernard",Renault-Alpine A110,FR,G4,+15m 04s,NA,NA,NA
+11,3,"Makinen, Timo",Ford Escort RS1600,FI,G2,+15m 47s,NA,NA,NA
+12,30,"Nasenius, Lille-Bror",Opel Ascona,SE,G2,+20m 32s,NA,NA,NA
+13,44,"Kullang, Anders",Opel Ascona,SE,G2,+23m 33s,NA,NA,NA
+14,36,"Wollek, Bob",Renault-Alpine A110,FR,G4,+24m 33s,NA,NA,NA
+15,7,"Ragnotti, Jean",Renault 12 Gordini,FR,G2,+28m 53s,NA,NA,NA
+16,12,"Sclater, Chris",Ford Escort,GB,G2,+29m 16s,NA,NA,NA
+17,46,"Hainbach, Reinhard",BMW 2002,DE,G2,+29m 27s,NA,NA,NA
+18,10,"Aaltonen, Rauno",Datsun 240Z,FI,G4,+32m 39s,NA,NA,NA
+19,24,"Larrousse, Gerard",Alfa Romeo 2000 GTV,FR,G1,+33m 29s,NA,NA,NA
+20,79,"Tambay, Patrick",Renault 12 Gordini,FR,G2,+36m 18s,NA,NA,NA
+21,34,"Fiorentino, Bernard",Simca Rallye 2,FR,G2,+37m 04s,NA,NA,NA
+22,33,"Henry, Jacques",Renault-Alpine A110,FR,G3,+39m 21s,NA,NA,NA
+23,39,"Ballot-Lena, Claude",Renault-Alpine A110,FR,G4,+41m 29s,NA,NA,NA
+24,27,"Chasseuil, Guy",BMW 2002,FR,G1,+47m 13s,NA,NA,NA
+25,31,"Greder, Henri",Opel Ascona,FR,G1,+48m 15s,NA,NA,NA
+26,43,"Lagniez, Jean-Claude",Alfa Romeo 2000 GTV,FR,G1,+50m 27s,NA,NA,NA
+27,211,"Russling, Klaus",Renault-Alpine A110,AT,G4,+50m 36s,NA,NA,NA
+28,52,"Osterberg, Sylvia",Opel Ascona,SE,G2,+52m 22s,NA,NA,NA
+29,83,"Dolk, Bert",Opel Ascona,NL,G2,+1h 05m 14s,NA,NA,NA
+30,32,"Laurent, Claude",DAF 66,FR,G2,+1h 06m 23s,NA,NA,NA
+31,51,"Palikovic, Jovica",Renault 12 Gordini,YU,G2,+1h 15m 32s,NA,NA,NA
+32,49,"Vineis, Alex",Renault-Alpine A110,FR,G3,+1h 16m 54s,NA,NA,NA
+33,54,"Springer, Joachim",Opel Ascona,DE,G2,+1h 23m 55s,NA,NA,NA
+34,69,"Hoepfner, Marianne",Renault-Alpine A110,FR,G3,+1h 25m 38s,NA,NA,NA
+35,41,"Mucha, Robert",Polski-Fiat 125p,PL,G2,+1h 32m 53s,NA,NA,NA
+36,76,"Kridel, Aloyse",BMW 2002Tii,LU,G2,+1h 35m 35s,NA,NA,NA
+37,91,"Sigurdsson, Anders",Saab 96 V4,SE,G2,+1h 35m 56s,NA,NA,NA
+38,25,"Hommel, Peter",Wartburg 353,DD,G2,+1h 42m 51s,NA,NA,NA
+39,53,"Smorawinski, Adam",BMW,PL,G2,+1h 57m 08s,NA,NA,NA
+40,80,"Perazio, Franco",Lancia Fulvia,IT,G2,+1h 59m 02s,NA,NA,NA
+41,81,"Bien, Marian",Polski-Fiat 125p,PL,G2,+2h 35m 34s,NA,NA,NA
+42,63,"Pittoni, Serena",Lancia Fulvia HF,IT,G3,+2h 36m 10s,NA,NA,NA
+43,65,'Depnic',Simca 1100,FR,G1,+3h 16m 50s,NA,NA,NA
+44,74,"Johansson, Bertil",Opel Ascona,SE,G2,+3h 27m 10s,NA,NA,NA
+45,22,"Rohrl, Walter",Opel Commodore,DE,G2,+4h 28m 57s,NA,NA,NA
+46,75,"Gudladt, Manfred",Porsche 911,DE,G3,+4h 48m 55s,NA,NA,NA
+47,29,"Moss-Carlsson, Pat",Renault-Alpine A110,GB,G4,+4h 58m 19s,NA,NA,NA
+48,37,"Walter, Hans-Joachim",Porsche 911,DE,G4,+7h 37m 39s,NA,NA,NA
+49,72,"Tuschy, Friedrich-Karl",Fiat 128,DE,G1,+7h 39m 37s,NA,NA,NA
+50,66,"Pianta, Giorgio",Opel Ascona,IT,G1,+7h 48m 32s,NA,NA,NA
+51,60,"Robini, Michel",Audi 80,MC,G1,+8h 57m 20s,NA,NA,NA
+NA,2,"Waldegard, Bjorn",Fiat 124 Abarth Spider,SE,G4,NA,NA,NA,accident
+NA,6,"Lampinen, Simo",Lancia Fulvia HF,FI,G4,NA,NA,NA,driveshaft
+NA,8,"Paganelli, Alcide",Fiat 124 Abarth Spider,IT,G4,NA,NA,NA,clutch
+NA,11,"Munari, Sandro",Lancia Fulvia HF,IT,G4,NA,NA,NA,accident
+NA,14,"Barbasio, Sergio",Fiat 124 Abarth Spider,IT,G4,NA,NA,NA,gearbox
+NA,19,"Ballestrieri, Amilcare",Lancia Fulvia HF,IT,G4,NA,NA,NA,driveshaft
+NA,28,"Beaumont, Marie-Claude",Opel Ascona,FR,G2,NA,NA,NA,water pump
+NA,40,"Dacremont, Christine",Renault-Alpine A110 1600,FR,G3,NA,NA,NA,engine
+NA,42,"Kern, Dieter",Renault-Alpine A110 1800,DE,G4,NA,NA,SS2,accident
+NA,45,"Fritzinger, Klaus",Ford Capri,DE,G2,NA,NA,NA,accident
+NA,47,"dall'Ava, Orlando",Lancia Fulvia HF,IT,G4,NA,NA,NA,unknown
+NA,48,"Teurlinckx, Chris",Opel Ascona,BE,G2,NA,NA,NA,unknown
+NA,55,"Jullien, Michel",Renault-Alpine A110 1600,FR,G3,NA,NA,NA,unknown
+NA,57,"Sevelinge, Jean-Charles",Renault-Alpine A110 1600,FR,G3,NA,NA,NA,unknown
+NA,59,"Odendaal, Lourens Badenhorst",Ford Escort Mexico,ZA,G1,NA,NA,NA,route blocked
+NA,62,"Sabine, Thierry",Renault-Alpine A110 1600,FR,G3,NA,NA,NA,radiator
+NA,70,"Schuller, Hans",Renault 12 Gordini,DE,G2,NA,NA,NA,unknown
+NA,77,"Jaroszewicz, Andrzej",Polski-Fiat 125p,PL,G2,NA,NA,NA,engine
+NA,78,"Brambilla, Alberto",Opel Ascona,IT,G1,NA,NA,NA,unknown
+NA,82,Arcovito,Renault-Alpine A110 1600,IT,G3,NA,NA,NA,unknown
+NA,84,"Stawowiak, Maciej",Polski-Fiat 125p,PL,G2,NA,NA,after SS4,OTL (stuck in snow)
+NA,94,"Rubbieri, Fulvio",Opel Ascona,IT,G1,NA,NA,NA,unknown
+NA,95,"Pittoni, Leo",Fiat 124,IT,G1,NA,NA,NA,route blocked
+NA,109,"Dorche, Christian",Renault-Alpine A110 1600,FR,G3,NA,NA,NA,route blocked
+NA,127,"Rack, Horst",Porsche 911,DE,G3,NA,NA,NA,unknown
+NA,128,"Hancock, Ronald",Ford Escort,GB,NA,NA,NA,NA,unknown
+NA,147,"Miersch, Klaus",Opel Ascona,DE,G2,NA,NA,NA,route blocked
+NA,149,"Saby, Bruno",Renault 12 Gordini,FR,G2,NA,NA,NA,driver ill
+NA,153,"Taibi, Jean",Peugeot 304,FR,G1,NA,NA,NA,route blocked
+NA,173,"Develay, Georges",Renault-Alpine A110 1800,FR,G4,NA,NA,NA,route blocked
+NA,195,"Dodds, Mike",Morris Mini,GB,NA,NA,NA,NA,unknown
+NA,202,"Clarke, Michael",Ford Escort,GB,NA,NA,NA,NA,OTL
+NA,203,"Schimpf, Eckhard",Ford Capri,DE,G2,NA,NA,NA,route blocked
+NA,212,"Maslen, Tony",Ford Escort,GB,NA,NA,NA,NA,OTL
+NA,215,"Lefebvre, Jean-Claude",Renault-Alpine A110 1600,FR,G4,NA,NA,NA,route blocked
+NA,229,"Servia, Salvador",Seat,ES,G2,NA,NA,NA,route blocked
+NA,230,"Roberts, Clive",Ford Escort,GB,NA,NA,NA,NA,OTL
+NA,255,"Stiller, Wolfgang",BMW 2002,DE,G2,NA,NA,NA,route blocked
+NA,265,"Giese, Wolf",Opel Ascona,DE,NA,NA,NA,NA,unknown
+NA,274,"Gaupp, Friedhelm",Opel Kadett Rallye,DE,G1,NA,NA,NA,route blocked
+NA,277,"Kleint, Jochi",Ford Capri,DE,G2,NA,NA,NA,rear axle
+NA,310,"Lorang, Christian",Renault-Alpine A110 1600,FR,G3,NA,NA,NA,unknown

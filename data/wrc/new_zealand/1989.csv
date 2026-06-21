@@ -1,0 +1,18 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Carlsson, Ingvar",Mazda 323 4WD,SE,A8,6h 59m 55s,NA,NA,NA
+2,6,"Millen, Rod",Mazda 323 4WD,NZ,A,+2m 42s,NA,NA,NA
+3,7,"Wilson, Malcolm",Vauxhall Astra GT/E,GB,A,+3m 29s,NA,NA,NA
+4,18,"Jonsson, Mats",Opel Kadett GSi,SE,A,+4m 11s,NA,NA,NA
+5,19,"McRae, Colin",Ford Sierra RS Cosworth,GB,A,+11m 40s,NA,NA,NA
+6,8,"Shinozuka, Kenjiro",Mitsubishi Galant VR-4,JP,A,+22m 21s,NA,NA,NA
+7,2,"Wilson, Ray",Mazda 323 4WD,NZ,A,+23m 18s,NA,NA,NA
+8,16,"al-Hajri, Saeed",Ford Sierra RS Cosworth,QA,A,+28m 14s,NA,NA,NA
+9,22,"Dunkerton, Ross",Mitsubishi Galant VR-4,AU,A,+30m 13s,NA,NA,NA
+10,35,"Adamson, Ken",Mazda 323,NZ,N,+33m 08s,NA,NA,NA
+14,3,"Stewart, Malcolm",Audi Coupe,NZ,A,+38m 08s,NA,NA,NA
+NA,5,"McRae, Jimmy",Ford Sierra RS Cosworth,GB,A,NA,NA,SS18,accident
+NA,9,"Bourne, Peter",Subaru RX Turbo,NZ,A,NA,NA,SS4,pushing
+NA,12,"Inoue, Kiyoshi",Mitsubishi Galant VR-4,JP,N,NA,NA,SS12,accident
+NA,21,"Skoghag, Fredrik",Lancia Delta Integrale,SE,N,NA,NA,SS23,accident
+NA,23,"Stokes, Brian",Ford Sierra XR4x4,NZ,A,NA,NA,SS21,fuel pump
+NA,NA,"Davies, Simon",Subaru Leone 4WD,NZ,A,NA,NA,NA,gearbox

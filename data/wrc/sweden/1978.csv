@@ -1,0 +1,44 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,2,"Waldegard, Bjorn",Ford Escort RS1800,SE,G4,6h 42m 40s,NA,NA,NA
+2,5,"Mikkola, Hannu",Ford Escort RS,FI,G4,+1m 28s,NA,NA,NA
+3,3,"Alen, Markku",Fiat 131 Abarth,FI,G4,+2m 46s,NA,NA,NA
+4,1,"Blomqvist, Stig",Lancia Stratos HF,SE,G4,+5m 31s,NA,NA,NA
+5,8,"Vatanen, Ari",Ford Escort RS,FI,G4,+7m 21s,NA,NA,NA
+6,6,"Lampinen, Simo",Fiat 131 Abarth,FI,G4,+13m 35s,NA,NA,NA
+7,12,"Danielsson, Bror",Opel Kadett GT/E,SE,G2,+17m 05s,NA,NA,NA
+8,38,"Walfridsson, Lars-Erik",Volvo 142,SE,G2,+34m 31s,NA,NA,NA
+9,17,"Stromberg, Ola",Saab 96 V4,SE,G2,+35m 22s,NA,NA,NA
+10,33,"Melin, Kjell",Volkswagen Golf GTi,SE,G1,+36m 59s,NA,NA,NA
+11,43,"Ahlin, Rune",Opel Kadett GT/E,SE,G2,+42m 12s,NA,NA,NA
+12,90,"Tunemar, Anders",Saab 99EMS,SE,G2,+43m 27s,NA,NA,NA
+13,35,"Olsson, Anders",Ford Escort RS,SE,G1,+45m 10s,NA,NA,NA
+14,25,"Sellholm, Jan",Opel Kadett GT/E,SE,G2,+46m 02s,NA,NA,NA
+15,72,"Sogaard, Jens",Opel Kadett GT/E,NO,G2,+46m 02s,NA,NA,NA
+16,13,"Borjesson, Ruben",Lada 1500,SE,G2,+46m 58s,NA,NA,NA
+17,16,"Ytterbring, Bengt-Ake",Datsun Cherry,SE,G2,+48m 36s,NA,NA,NA
+18,23,"Haugland, John",Skoda 130,NO,G2,+49m 06s,NA,NA,NA
+19,24,"Blomqvist, Gert",Fiat 131,SE,G2,+51m 38s,NA,NA,NA
+20,55,"Olsson, Jan-Olov",Volvo 142,SE,G2,+52m 24s,NA,NA,NA
+21,NA,"Ottosson, Bengt",Datsun Cherry,SE,G2,NA,NA,NA,NA
+22,NA,"Karlsson, Krister",Volvo 142,SE,G2,+53m 38s,NA,NA,NA
+23,NA,"Johansson, Roger",Saab 99EMS,SE,G2,+53m 51s,NA,NA,NA
+24,36,"Nilsson, Soren",Opel Kadett GT/E,SE,G1,+54m 32s,NA,NA,NA
+25,NA,"Sevelius, Hans",Volkswagen Golf,FI,G2,+57m 17s,NA,NA,NA
+26,NA,"Elizarov, Nikolaj",Lada 1600,SU,G2,+1h 00m 37s,NA,NA,NA
+27,NA,"Bergsman, Ricky",Volvo 142,SE,G2,+1h 02m 34s,NA,NA,NA
+28,NA,"Johnson, Berndt",BMW 2002,SE,G2,+1h 02m 48s,NA,NA,NA
+29,NA,"Dahl, Bengt",Toyota Corolla,SE,G2,+1h 03m 36s,NA,NA,NA
+50,114,"Trana, Tom",Peugeot 504,SE,Dsl,+1h 39m 05s,NA,NA,NA
+NA,4,"Airikkala, Pentti",Vauxhall Chevette 2300,FI,G4,NA,NA,SS6,engine
+NA,7,"Kullang, Anders",Opel Kadett GT/E,SE,G2,NA,NA,SS6,engine
+NA,9,"Salonen, Timo",Fiat 131 Abarth,FI,G4,NA,NA,SS23,engine
+NA,10,"Therier, Jean-Luc",Toyota Celica,FR,G2,NA,NA,SS5,alternator
+NA,11,"Eklund, Per",Saab 99EMS,SE,G2,NA,NA,SS10,engine
+NA,14,"Carlsson, Lars",Chrysler Avenger,SE,G2,NA,NA,SS1,engine
+NA,15,"Asterhag, Leif",Toyota Celica,SE,G2,NA,NA,SS12,engine
+NA,18,"Brundza, Stasis",Lada 1600,SU,G2,NA,NA,SS23,engine
+NA,19,"Blomqvist, Bjorn",Opel Kadett GT/E,SE,G1,NA,NA,SS10,accident
+NA,26,"Johansson, Bjorn",Opel Kadett GT/E,SE,G1,NA,NA,NA,unknown
+NA,27,"Temmes, Erkki",Saab 99EMS,SE,G2,NA,NA,NA,unknown
+NA,NA,"Avelin, Hans",Opel Ascona,SE,NA,NA,NA,NA,unknown
+NA,NA,Hellqvist,Toyota Corolla,SE,NA,NA,NA,NA,engine

@@ -1,0 +1,31 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Loeb, Sebastien",Citroen C4 WRC,FR,A8,"3h 42m 41,7s",NA,NA,NA
+2,11,"Solberg, Petter",Citroen C4 WRC,NO,A8,"+24,2s",NA,NA,NA
+3,7,"Ogier, Sebastien",Citroen C4 WRC,FR,A8,"+25,3s",NA,NA,NA
+4,3,"Hirvonen, Mikko",Ford Focus RS WRC 09,FI,A8,"+1m 47,5s",NA,NA,NA
+5,4,"Latvala, Jari-Matti",Ford Focus RS WRC 09,FI,A8,"+2m 15,1s",NA,NA,NA
+6,6,"Solberg, Henning",Ford Focus RS WRC 08,NO,A8,"+2m 48,0s",NA,NA,NA
+7,9,"Villagra, Federico",Ford Focus RS WRC 08,AR,A8,"+10m 13,4s",NA,NA,NA
+8,28,"Pons, Xavier",Ford Fiesta S2000,ES,N4,"+18m 44,4s",NA,NA,NA
+9,21,"Prokop, Martin",Ford Fiesta S2000,CZ,N4,"+19m 02,0s",NA,NA,NA
+10,31,"Araujo, Armindo",Mitsubishi Lancer Evo X,PT,N4,"+21m 32,5s",NA,NA,NA
+11,32,"Arai, Toshihiro",Subaru Impreza,JP,N4,"+24m 49,2s",NA,NA,NA
+12,59,"Fuchs Sierlecki, Nicolas",Mitsubishi Lancer Evo IX,PE,N4,"+27m 39,9s",1:50,NA,NA
+13,42,"Baldoni, Miguel-Angel",Mitsubishi Lancer Evo IX,AR,N4,"+30m 45,5s",0:20,NA,NA
+14,2,"Sordo Castillo, Daniel",Citroen C4 WRC,ES,A8,"+39m 52,4s",NA,NA,NA
+15,49,"Guerra Latapi, Benito",Mitsubishi Lancer Evo X,MX,N4,"+40m 42,1s",1:20,NA,NA
+16,5,"Wilson, Matthew",Ford Focus RS WRC 08,GB,A8,"+43m 17,2s",NA,NA,NA
+17,33,"Linari, Gianluca",Subaru Impreza,IT,N4,"+43m 35,2s",0:30,NA,NA
+18,55,"Block, Ken",Ford Focus RS WRC 08,US,A8,"+46m 50,3s",NA,NA,NA
+19,58,"Jourdain, Michel",Mitsubishi Lancer Evo X,MX,N4,"+48m 45,4s",0:10,NA,NA
+20,23,"Kosciuszko, Michal",Ford Fiesta S2000,PL,N4,"+52m 21,2s",NA,NA,NA
+21,25,"Brynildsen, Eyvind",Skoda Fabia Super 2000,NO,N4,"+52m 44,2s",NA,NA,NA
+22,30,"Llovera, Albert",Fiat Grande Punto Abarth S2000,AD,N4,"+55m 49,9s",1:10,NA,NA
+23,61,"Cortes, Jose",Mitsubishi Lancer Evo IX,MX,N4,"+1h 14m 31,4s",4:00,NA,NA
+24,64,"Orduna, Luis",Peugeot 206,MX,A6,"+2h 15m 48,6s",NA,NA,NA
+25,62,"Ponce, Jose Manuel",Peugeot 206,MX,A6,"+2h 51m 33,6s",7:40,NA,NA
+NA,8,"Raikkonen, Kimi",Citroen C4 WRC,FI,A8,NA,NA,TC9C,off road
+NA,22,"al-Attiyah, Nasser",Skoda Fabia Super 2000,QA,N4,NA,NA,TC18C,unknown
+NA,41,"Bacco, Giorgio",Mitsubishi Lancer Evo IX,IT,N4,NA,NA,SS7,unknown
+NA,50,"Salgado, Rodrigo",Mitsubishi Lancer Evo IX,MX,N4,NA,NA,SS21,unknown
+NA,63,"Zaldivar, Ivan",Renault Clio RS,MX,N3,NA,NA,TC9C,unknown

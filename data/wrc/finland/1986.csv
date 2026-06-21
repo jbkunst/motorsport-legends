@@ -1,0 +1,165 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Salonen, Timo",Peugeot 205 Turbo 16 E2,FI,B,3h 32m 45s,NA,NA,NA
+2,3,"Kankkunen, Juha",Peugeot 205 Turbo 16 E2,FI,B,+24s,NA,NA,NA
+3,2,"Alen, Markku",Lancia Delta S4,FI,B,+1m 45s,NA,NA,NA
+4,5,"Blomqvist, Stig",Peugeot 205 Turbo 16 E2,SE,B,+2m 37s,NA,NA,NA
+5,7,"Ericsson, Mikael",Lancia Delta S4,SE,B,+8m 26s,NA,NA,NA
+6,4,"Grundel, Karl",Lancia Delta S4,SE,B,+9m 50s,NA,NA,NA
+7,8,"Eklund, Per",MG Metro 6R4,SE,B,+10m 58s,NA,NA,NA
+8,17,"Toivonen, Harri",MG Metro 6R4,FI,B,+19m 34s,NA,NA,NA
+9,14,"Lampi, Lasse",Audi Coupe,FI,A,+21m 40s,NA,NA,NA
+10,9,"Wilson, Malcolm",MG Metro 6R4,GB,B,+23m 17s,NA,NA,NA
+11,18,"Heinonen, Timo",Audi quattro A2,FI,B,+23m 30s,NA,NA,NA
+12,12,"Eriksson, Kenneth",Volkswagen Golf GTi,SE,A,+24m 33s,NA,NA,NA
+13,13,"Lindholm, Sebastian",Audi 80 quattro,FI,A,+25m 45s,NA,NA,NA
+14,26,"Ericsson, Martin",Audi 90 quattro,SE,A,+30m 06s,NA,NA,NA
+15,32,"Niemi, Raimo",Audi 80 quattro,FI,A,+34m 37s,NA,NA,NA
+16,25,"Rantakari, Pekka",Audi quattro A1,FI,B,+38m 09s,NA,NA,NA
+17,20,"Buri, Risto",Audi 80 quattro,FI,A,+40m 05s,NA,NA,NA
+18,73,"Bolshih, Nikolai",Lada VFTS,SU,B,+40m 16s,NA,NA,NA
+19,67,"Korhonen, Martti",Opel Ascona 400,FI,B,+40m 35s,NA,NA,NA
+20,43,"Metsamaki, Timo",Opel Manta,FI,A,+41m 02s,NA,NA,NA
+21,36,"Geitel, Peter",Mazda Familia 4WD,FI,N,+41m 11s,NA,NA,NA
+22,35,"Kinnunen, Jouni",Audi 80 quattro,FI,A,+41m 17s,NA,NA,NA
+23,58,"Paanala, Ari",Opel Ascona,FI,A,+42m 09s,NA,NA,NA
+24,70,"Tumalyavichius, Evgenius",Lada VFTS,SU,B,+42m 20s,NA,NA,NA
+25,60,"Jokiniemi, Risto",Talbot Sunbeam,FI,A,+43m 42s,NA,NA,NA
+26,10,"Krecek, Ladislav",Skoda 130LR,CS,B,+43m 44s,NA,NA,NA
+27,51,"Kononen, Ari",Audi 80 quattro,FI,A,+43m 48s,NA,NA,NA
+28,56,"Makynen, Jussi",Opel Manta 400,FI,B,+45m 23s,NA,NA,NA
+29,66,"Johansson, Erik",Opel Ascona,SE,A,+48m 02s,NA,NA,NA
+30,63,"Pentti, Tero",Opel Ascona,FI,A,+50m 07s,NA,NA,NA
+31,52,"Makela, Kauko",Daihatsu Charade Turbo,FI,B,+50m 58s,NA,NA,NA
+32,62,"Soots, Vallo",Lada VFTS,SU,B,+51m 30s,NA,NA,NA
+33,92,"Ahola, Asmo",Opel Ascona,FI,A,+51m 35s,NA,NA,NA
+34,97,"Wallinheimo, Hannu",Lada VFTS,FI,B,+52m 25s,NA,NA,NA
+35,65,"Vasiljev, Stepan",Lada VFTS,SU,B,+53m 01s,NA,NA,NA
+36,152,"Paasonen, Keijo",Opel Ascona,FI,A,+54m 07s,NA,NA,NA
+37,11,"Kvaizar, Svatopluk",Skoda 130LR,CS,B,+54m 27s,NA,NA,NA
+38,68,"Shtikov, Vladislav",Moskvitsh 1600,SU,A,+54m 55s,NA,NA,NA
+39,90,"Sipila, Tero",Opel Ascona,FI,A,+56m 06s,NA,NA,NA
+40,77,"Nieminen, Jaakko",Toyota Starlet,FI,A,+57m 19s,NA,NA,NA
+41,117,"Nyystila, Pekka",Opel Ascona,FI,A,+58m 38s,NA,NA,NA
+42,94,"Jaaskelainen, Kari",Lada VFTS,FI,B,+1h 04m 50s,NA,NA,NA
+43,141,"Autio, Reijo",Talbot Sunbeam,FI,A,+1h 05m 37s,NA,NA,NA
+44,145,"Walti, Jean-Claude",Opel Ascona,CH,A,+1h 07m 23s,NA,NA,NA
+45,86,"Kuosmanen, Tapio",Toyota Starlet,FI,A,+1h 07m 35s,NA,NA,NA
+46,84,"Salmen, Heikki",Toyota Corolla,FI,N,+1h 08m 35s,NA,NA,NA
+47,114,"Sinkkonen, Toni",Volvo 360,FI,A,+1h 11m 53s,NA,NA,NA
+48,71,"Haavikko, Kimmo",Peugeot 205 GTI,FI,N,+1h 12m 12s,NA,NA,NA
+49,115,"Polkki, Risto M.",Daihatsu Charade,FI,A,+1h 12m 40s,NA,NA,NA
+50,124,"Muhonen, Seppo",Fiat Ritmo,FI,N,+1h 14m 05s,NA,NA,NA
+51,120,"Nieminen, Vesa",Peugeot 205 GTI,FI,N,+1h 14m 44s,NA,NA,NA
+52,138,"Vaatainen, Veijo",Ford Escort 1600,FI,A,+1h 14m 46s,NA,NA,NA
+53,110,"Juupajarvi, Petri",Fiat Ritmo,FI,N,+1h 15m 06s,NA,NA,NA
+54,122,"Saarikivi, Jorma",Toyota Corolla,FI,A,+1h 16m 22s,NA,NA,NA
+55,85,"Salonen, Marjo",Citroen Visa,FI,B,+1h 17m 08s,NA,NA,NA
+56,134,"Krugel, Wolfgang",Wartburg 353,DD,A,+1h 18m 03s,NA,NA,NA
+57,112,"Pesonen, Jouni",Fiat Ritmo,FI,N,+1h 18m 18s,NA,NA,NA
+58,75,"Randelin, Kauko",Talbot Sunbeam,FI,B,+1h 18m 24s,NA,NA,NA
+59,119,"Merioksa, Tapani",Talbot Sunbeam,FI,A,+1h 18m 34s,NA,NA,NA
+60,167,"Vuorio, Anne",Ford Escort 1600,FI,A,+1h 18m 42s,NA,NA,NA
+61,109,"Kohtaniemi, Seppo",Fiat Ritmo,FI,N,+1h 21m 01s,NA,NA,NA
+62,146,"Ficker, Frank",Trabant P601,DD,A,+1h 21m 08s,NA,NA,NA
+63,83,"Stoddart, Chris",Peugeot 205 GTI,GB,N,+1h 21m 25s,NA,NA,NA
+64,118,"Edqvist, Jan-Erik",Audi 80 quattro,SE,N,+1h 23m 54s,NA,NA,NA
+65,161,"Valkeinen, Rauno",Ford Escort 1600,FI,A,+1h 24m 59s,NA,NA,NA
+66,99,"Klein, Ewald",Toyota Corolla,DE,N,+1h 26m 12s,NA,NA,NA
+67,147,"Rizzi, Giancarlo",Alfa Romeo Alfetta GTV6,IT,A,+1h 26m 56s,NA,NA,NA
+68,163,"Soininen, Erkki",Austin Mini,FI,A,+1h 27m 50s,NA,NA,NA
+69,144,"Weichsel, Ulrich",Trabant P800RS,DD,A,+1h 29m 39s,NA,NA,NA
+70,126,"Koskinen, Ensio",Peugeot 205 GTI,FI,A,+1h 32m 06s,NA,NA,NA
+71,168,"Vaatainen, Ilpo",FSO Polonez 125p,FI,N,+1h 32m 39s,NA,NA,NA
+72,81,"Phillips, Robert",Mitsubishi Lancer,GB,A,+1h 39m 15s,NA,NA,NA
+73,132,"Hakanen, Eero",Wartburg 353,FI,A,+1h 41m 20s,NA,NA,NA
+74,157,"Sillanpaa, Jouko",Fiat Uno,FI,N,+1h 43m 50s,NA,NA,NA
+75,136,"Rousselot, Jean-Pierre",Volkswagen Golf GTi,FR,N,+1h 49m 36s,NA,NA,NA
+76,153,"Perego, Roberto",Fiat Ritmo,IT,N,+1h 52m 12s,NA,NA,NA
+77,169,"Kortesuo, Hannu",Wartburg 353,FI,A,+1h 54m 47s,NA,NA,NA
+78,123,"Bolla, Marc",Renault 5 GT Turbo,FR,N,+2h 02m 50s,NA,NA,NA
+79,125,"Russo, Jean-Luc",Renault 5 Alpine Turbo,FR,N,+2h 06m 49s,NA,NA,NA
+80,162,"Nyholm, Caj-Ole",Daihatsu Charade,FI,A,+2h 09m 55s,NA,NA,NA
+81,133,"Fougerat, Gerard",Renault 5 GT Turbo,FR,N,+2h 11m 48s,NA,NA,NA
+NA,6,"Carlsson, Ingvar",Mazda Familia 4WD,SE,A,NA,NA,SS3,engine
+NA,15,"Sundstrom, Mikael",Fiat Uno Turbo,FI,A,NA,NA,SS13,shock absorbers
+NA,16,"Pettersson, Gunnar",Audi Coupe,SE,A,NA,NA,SS34,accident
+NA,19,"Arpiainen, Mika",MG Metro 6R4,FI,B,NA,NA,SS16,unknown
+NA,21,"Laine, Antero",Mitsubishi Starion Turbo,FI,A,NA,NA,SS21,unknown
+NA,23,"Sillankorva, Mika",Audi quattro A1,FI,B,NA,NA,SS16,unknown
+NA,24,"Saarenpaa, Esa",Audi 80 quattro,FI,A,NA,NA,SS24,unknown
+NA,27,"Kalliomaa, Sakari",Audi 80 quattro,FI,A,NA,NA,SS35,unknown
+NA,28,"Tahko, Teemu",Volkswagen Golf GTi,FI,A,NA,NA,SS6,unknown
+NA,29,"Vaananen, Harri",Lada VFTS,FI,B,NA,NA,SS21,unknown
+NA,31,"Vierimaa, Sakari",Audi 80 quattro,FI,A,NA,NA,SS6,unknown
+NA,33,"Lallier, Jean",Citroen Visa,FR,B,NA,NA,SS18,unknown
+NA,34,"Poysti, Jouko",Audi 80 quattro,FI,A,NA,NA,SS31,unknown
+NA,37,"Junnila, Sampsa",Peugeot 205 GTI,FI,A,NA,NA,SS5,unknown
+NA,38,"Niemi, Jari",Audi quattro A2,FI,B,NA,NA,SS13,unknown
+NA,39,"Mickelsson, Oiva",Audi quattro A2,FI,B,NA,NA,SS34,unknown
+NA,40,"Vanhalakka, Pertti",Opel Ascona,FI,A,NA,NA,SS1,unknown
+NA,41,"Palmqvist, Tomi",Audi quattro A2,FI,B,NA,NA,SS5,unknown
+NA,42,"Peltonen, Esa",Fiat Ritmo,FI,A,NA,NA,SS12,unknown
+NA,44,"Hamalainen, Kyosti",Ford Sierra XR4x4,FI,N,NA,NA,NA,unknown
+NA,45,"Jokinen, Pekka",Opel Ascona,FI,A,NA,NA,SS32,unknown
+NA,46,"Paakkari, Teijo",Opel Ascona 400,FI,B,NA,NA,SS13,unknown
+NA,47,"Lindstrom, Petteri",Audi 90 quattro,FI,N,NA,NA,SS14,unknown
+NA,48,"Rissanen, Jorma",Opel Ascona,FI,A,NA,NA,SS36,unknown
+NA,49,"Jykyla, Ari",Volvo 240 Turbo,FI,A,NA,NA,SS14,unknown
+NA,50,"Rastas, Matti",Audi quattro A1,FI,B,NA,NA,SS7,unknown
+NA,53,"Uotila, Harri",Opel Ascona,FI,A,NA,NA,SS4,unknown
+NA,54,"Sillankorva, Minna",Mazda RX7,FI,B,NA,NA,SS27,unknown
+NA,55,"Latvala, Jari",Audi 80 quattro,FI,A,NA,NA,SS19,unknown
+NA,57,"Maenpaa, Jari",Audi quattro A1,FI,B,NA,NA,SS39,unknown
+NA,59,"Mustonen, Seppo",Ford Sierra XR4x4,FI,N,NA,NA,SS30,unknown
+NA,64,"Viitala, Petri",Opel Kadett,FI,A,NA,NA,SS9,unknown
+NA,69,"Heinonen, Arvo",Talbot Sunbeam,FI,A,NA,NA,SS23,unknown
+NA,72,"Silvennoinen, Pauli",Daihatsu Charade Turbo,FI,A,NA,NA,SS4,unknown
+NA,76,"Deybach, Guy",Porsche 930 Turbo,FR,B,NA,NA,SS2,unknown
+NA,78,"Poranen, Heikki",Opel Manta,FI,B,NA,NA,SS3,unknown
+NA,79,"Nevalainen, Hannu",Opel Manta,FI,A,NA,NA,SS18,unknown
+NA,80,"Gustafsson, Rainer",Opel Manta,FI,B,NA,NA,SS21,unknown
+NA,82,"Huttunen, Ossi",Opel Ascona,FI,A,NA,NA,SS31,unknown
+NA,88,"Lohtari, Eero",Lada VFTS,FI,B,NA,NA,SS20,unknown
+NA,89,"Opas, Ilari",Opel Ascona,FI,A,NA,NA,SS8,unknown
+NA,91,"Hannukainen, Seppo",Lada VFTS,FI,B,NA,NA,SS21,unknown
+NA,93,"Mejer, Kurt",Volvo 360,DK,A,NA,NA,SS16,unknown
+NA,95,"Nasanen, Raimo",Opel Corsa,FI,A,NA,NA,SS24,unknown
+NA,96,"Jaatvuori, Pekka",Volkswagen Golf GTi,FI,A,NA,NA,SS20,unknown
+NA,98,"Ekroos, Carita",Opel Ascona,FI,A,NA,NA,SS36,unknown
+NA,100,"Paivansalo, Heikki",Toyota Starlet,FI,A,NA,NA,SS25,unknown
+NA,101,"Rouget, Jean-Pierre",Renault 5 GT Turbo,FR,N,NA,NA,SS33,unknown
+NA,102,"Jokinen, Juha",Toyota Starlet,FI,A,NA,NA,SS18,unknown
+NA,103,"Lansikorpi, Juhani",Volkswagen Polo,FI,A,NA,NA,SS2,unknown
+NA,104,"Joki, Harry",Peugeot 205 GTI,SE,A,NA,NA,SS32,unknown
+NA,105,"Strom, Ole",Fiat Panda,FI,A,NA,NA,SS3,unknown
+NA,106,"Virtanen, Seppo",Wartburg 353,FI,A,NA,NA,SS4,unknown
+NA,107,"Rantala, Jukka",Lada VFTS,FI,B,NA,NA,SS5,unknown
+NA,108,"Gursel, Oguz",Alfa Romeo 75,TU,A,NA,NA,SS4,unknown
+NA,111,"Puuronen, Mika",Renault 5 Turbo,FI,B,NA,NA,SS14,unknown
+NA,113,"Tuominen, Matti",Volkswagen Golf GTi,FI,A,NA,NA,SS9,unknown
+NA,116,"Eriksson, Egil",Fiat Ritmo,FI,N,NA,NA,SS5,unknown
+NA,121,"Prud'Homme, Michel",Volkswagen Golf GTi,FR,N,NA,NA,SS7,unknown
+NA,127,"Kuusisto, Risto",Renault 5,FI,A,NA,NA,SS34,unknown
+NA,128,"Aikas, Reijo",Volkswagen Golf GTi,FI,A,NA,NA,SS15,unknown
+NA,129,"Krugel, Klaus-Dieter",Wartburg 353,DD,A,NA,NA,SS20,unknown
+NA,130,"Ala-Passari, Veijo",Lada VFTS,FI,B,NA,NA,SS24,unknown
+NA,131,"Juurinen, Ilkka",Peugeot 205 GTI,FI,N,NA,NA,SS34,unknown
+NA,135,"Palmroos, Henri",Skoda 130L,FI,A,NA,NA,SS1,unknown
+NA,137,"Matikainen, Antti",Volkswagen Golf GTi,FI,A,NA,NA,SS6,unknown
+NA,139,"Reutsalo, Kari",Fiat 127,FI,A,NA,NA,SS18,unknown
+NA,140,"Parkkonen, Reino",Lada 2105,FI,A,NA,NA,SS31,unknown
+NA,142,"Galle, Heinz",Trabant P800RS,DD,A,NA,NA,SS45,unknown
+NA,143,"Kaastinen, Kari",Talbot Sunbeam,SE,A,NA,NA,SS21,unknown
+NA,148,"Karmitsa, Jukka",Talbot Sunbeam,FI,A,NA,NA,SS13,unknown
+NA,149,"Salonen, Jouni",Fiat 127,FI,A,NA,NA,SS1,unknown
+NA,150,"de Sanctis, Fabrizio",Autobianchi A112,IT,A,NA,NA,SS1,unknown
+NA,151,"Westermarck, Joel",Ford Sierra XR4x4,FI,N,NA,NA,SS27,unknown
+NA,154,"Ahvenlammi, Jouni",Toyota Starlet,FI,A,NA,NA,SS39,unknown
+NA,155,"Karkkulainen, Jyrki",Talbot Sunbeam,FI,A,NA,NA,SS9,unknown
+NA,156,"Jura, Franco",Fiat Ritmo,IT,B,NA,NA,SS1,unknown
+NA,158,"Rasanen, Seppo",Opel Corsa,FI,A,NA,NA,SS15,unknown
+NA,159,"Crestani, Elisio",Autobianchi A112,IT,N,NA,NA,SS4,unknown
+NA,160,"Parkkinen, Sinikka",Toyota Starlet,FI,A,NA,NA,SS39,unknown
+NA,164,"Ovaskainen, Pentti",Daihatsu Charade,FI,A,NA,NA,SS7,unknown
+NA,165,"Moisio, Yrjo",Wartburg 353,FI,A,NA,NA,SS9,unknown
+NA,166,"Sipila, Jussi",Toyota Starlet,FI,N,NA,NA,SS16,unknown

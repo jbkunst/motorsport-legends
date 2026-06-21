@@ -1,0 +1,60 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,8,"Tanak, Ott",Hyundai i20 Coupe WRC,EE,RC1,"1h 59m 53,6s",NA,NA,NA
+2,42,"Breen, Craig",Hyundai i20 Coupe WRC,IE,RC1,"+22,2s",NA,NA,NA
+3,17,"Ogier, Sebastien",Toyota Yaris WRC,FR,RC1,"+26,9s",NA,NA,NA
+4,33,"Evans, Elfyn",Toyota Yaris WRC,GB,RC1,"+41,9s",NA,NA,NA
+5,69,"Rovanpera, Kalle",Toyota Yaris WRC,FI,RC1,"+1m 18,7s",1:00,NA,NA
+6,3,"Suninen, Teemu",Ford Fiesta RS WRC 2017,FI,RC1,"+2m 39,6s",NA,NA,NA
+7,4,"Lappi, Esapekka",Ford Fiesta RS WRC 2017,FI,RC1,"+2m 52,0s",NA,NA,NA
+8,44,"Greensmith, Fergus",Ford Fiesta RS WRC 2017,GB,RC1,"+4m 53,8s",NA,NA,NA
+9,35,"Solberg, Oliver",Volkswagen Polo,SE,RC2,"+7m 38,6s",NA,NA,NA
+10,21,"Ostberg, Mads",Citroen C3,NO,RC2,"+8m 17,3s",NA,NA,NA
+11,27,"Huttunen, Jari",Hyundai i20,FI,RC2,"+8m 37,6s",NA,NA,NA
+12,41,"Kaur, Egon",Skoda Fabia,EE,RC2,"+9m 26,4s",NA,NA,NA
+13,25,"Fourmaux, Adrien",Ford Fiesta,FR,RC2,"+9m 45,7s",NA,NA,NA
+14,28,"Bulacia Wilkinson, Marco",Citroen C3,BO,RC2,"+10m 15,2s",NA,NA,NA
+15,23,"Tidemand, Pontus",Skoda Fabia,SE,RC2,"+11m 07,4s",NA,NA,NA
+16,26,"Brynildsen, Eyvind",Skoda Fabia,NO,RC2,"+11m 09,5s",NA,NA,NA
+17,39,"Kruuda, Karl",Volkswagen Polo,EE,RC2,"+11m 43,5s",NA,NA,NA
+18,29,"Ciamin, Nicolas",Citroen C3,FR,RC2,"+11m 51,3s",NA,NA,NA
+19,22,"Gryazin, Nikolay",Hyundai i20,RU,RC2,"+12m 09,9s",NA,NA,NA
+20,40,"Aus, Rainer",Skoda Fabia,EE,RC2,"+12m 13,1s",NA,NA,NA
+21,50,"Johnston, Sean",Citroen C3,US,RC2,"+12m 31,2s",NA,NA,NA
+22,31,"Rossel, Yohan",Citroen C3,FR,RC2,"+12m 42,6s",NA,NA,NA
+23,43,"Koik, Priit",Ford Fiesta,EE,RC2,"+14m 03,3s",NA,NA,NA
+24,36,"Munster, Gregoire",Hyundai i20,LU,RC2,"+14m 22,3s",NA,NA,NA
+25,65,"Kurkela, Kimmo",Ford Fiesta RS WRC,FI,RC1,"+15m 42,1s",NA,NA,NA
+26,47,"Solans Baldo, Jan",Ford Fiesta,ES,RC2,"+16m 09,5s",NA,NA,NA
+27,49,"Koltun, Jaroslaw",Ford Fiesta,PL,RC2,"+21m 12,1s",NA,NA,NA
+28,53,"Sesks, Martins",Ford Fiesta,LV,RC4,"+21m 26,9s",NA,NA,NA
+29,55,"Pajari, Sami",Ford Fiesta,FI,RC4,"+21m 41,6s",NA,NA,NA
+30,63,"Virves, Robert",Ford Fiesta,EE,RC4,"+22m 04,7s",NA,NA,NA
+31,48,"Shaymiev, Radik",Ford Fiesta,RU,RC2,"+24m 15,4s",0:10,NA,NA
+32,72,"Jeets, Gregor",Ford Fiesta,EE,RC4,"+25m 28,3s",NA,NA,NA
+33,58,"Bell, Ruairi",Ford Fiesta,GB,RC4,"+26m 39,6s",NA,NA,NA
+34,38,"Poom, Roland",Ford Fiesta,EE,RC2,"+27m 15,5s",0:20,NA,NA
+35,60,"Pollara, Marco",Ford Fiesta,IT,RC4,"+28m 30,8s",NA,NA,NA
+36,66,"Rzhevkin, Alexander",Skoda Fabia,RU,RC2,"+29m 31,8s",NA,NA,NA
+37,57,"Zaldivar Zuccolillo, Fabrizio",Ford Fiesta,PY,RC4,"+30m 56,7s",NA,NA,NA
+38,62,"Oldrati, Enrico",Ford Fiesta,IT,RC4,"+32m 11,6s",NA,NA,NA
+39,71,"Jurkevicius, Vladas",Ford Fiesta,LT,RC4,"+49m 34,8s",0:10,NA,NA
+40,70,"Kasari, Kaspar",Ford Fiesta,EE,RC4,"+49m 57,3s",NA,NA,NA
+41,45,"Linnamae, Georg",Volkswagen Polo,EE,RC2,"+59m 48,2s",NA,NA,NA
+42,32,"Pietarinen, Eerik",Skoda Fabia,FI,RC2,"+1h 42m 37,0s",NA,NA,NA
+43,51,"al-Rashed, Rakan",Volkswagen Polo,SA,RC2,"+1h 44m 20,2s",NA,NA,NA
+44,56,"Badiu, Raul",Ford Fiesta,UY,RC4,"+1h 46m 12,9s",0:20,NA,NA
+NA,7,"Loubet, Pierre-Louis",Hyundai i20 Coupe WRC,FR,RC1,NA,NA,SS13,mechanical
+NA,11,"Neuville, Thierry",Hyundai i20 Coupe WRC,BE,RC1,NA,NA,TC17A,mechanical
+NA,18,"Katsuta, Takamoto",Toyota Yaris WRC,JP,RC1,NA,NA,SS13,mechanical
+NA,24,"Veiby, Ole Christian",Hyundai i20,NO,RC2,NA,NA,SS16,accident
+NA,30,"Fernandez Piraino, Emilio Andres",Skoda Fabia,CL,RC2,NA,NA,TC13,mechanical
+NA,34,"Kajetanowicz, Kajetan",Skoda Fabia,PL,RC2,NA,NA,SS17,accident
+NA,37,"Jeets, Raul",Skoda Fabia,EE,RC2,NA,NA,SS13,accident
+NA,46,"Kruuda, Gustav",Volkswagen Polo,EE,RC2,NA,NA,SS15,mechanical
+NA,52,"Kristensson, Tom",Ford Fiesta,SE,RC4,NA,NA,SS3,mechanical
+NA,54,"Torn, Ken",Ford Fiesta,EE,RC4,NA,NA,SS13,mechanical
+NA,59,"Lonnstrom, Pontus",Ford Fiesta,SE,RC4,NA,NA,SS15,accident
+NA,61,"Andolfi, Fabio",Ford Fiesta,IT,RC4,NA,NA,TC4,mechanical
+NA,64,"Gross, Georg",Ford Fiesta RS WRC,EE,RC1,NA,NA,SS2,accident
+NA,67,"Karppanen, Mika",Citroen DS3,FI,RC2,NA,NA,TC8,mechanical
+NA,73,"Simaska, Justas",Ford Fiesta,LT,RC4,NA,NA,SS12,accident

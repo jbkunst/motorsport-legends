@@ -1,0 +1,30 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,33,"Evans, Elfyn",Toyota GR Yaris Rally1,GB,Rally1,"4h 20m 03,8s",NA,NA,NA
+2,8,"Tanak, Ott",Hyundai i20 N Rally1,EE,Rally1,"+1m 09,9s",NA,NA,NA
+3,1,"Neuville, Thierry",Hyundai i20 N Rally1,BE,Rally1,"+3m 32,0s",2:00,NA,NA
+4,5,"Pajari, Sami",Toyota GR Yaris Rally1,FI,Rally1,"+7m 18,7s",NA,NA,NA
+5,13,"Munster, Gregoire",Ford Puma Rally1,LU,Rally1,"+11m 35,3s",0:10,NA,NA
+6,22,"Greensmith, Fergus",Skoda Fabia,GB,Rally2,"+14m 11,6s",0:10,NA,NA
+7,23,"Solans Baldo, Jan",Toyota Yaris,ES,Rally2,"+17m 26,6s",NA,NA,NA
+8,9,"Serderidis, Jourdan",Ford Puma Rally1,GR,Rally1,"+28m 45,5s",0:20,NA,NA
+9,21,"Zaldivar Zuccolillo, Fabrizio",Skoda Fabia,PY,Rally2,"+35m 38,8s",NA,NA,NA
+10,55,"McErlean, Joshua",Ford Puma Rally1,IE,Rally1,"+37m 15,8s",NA,NA,NA
+11,27,"Chwist, Daniel",Skoda Fabia,PL,Rally2,"+45m 09,7s",1:30,NA,NA
+12,20,"Solberg, Oliver",Toyota Yaris,SE,Rally2,"+49m 19,9s",NA,NA,NA
+13,24,"Kajetanowicz, Kajetan",Toyota Yaris,PL,Rally2,"+1h 07m 43,2s",3:10,NA,NA
+14,28,"Tundo, Carl",Ford Fiesta,KE,Rally2,"+1h 10m 58,2s",1:10,NA,NA
+15,29,"Wahome, Jeremiah",Skoda Fabia,KE,Rally2,"+1h 29m 29,0s",NA,NA,NA
+16,16,"Fourmaux, Adrien",Hyundai i20 N Rally1,FR,Rally1,"+1h 45m 49,8s",NA,NA,NA
+17,31,"Diaz-Aboitiz, Miguel",Skoda Fabia,ES,Rally2,"+2h 16m 26,7s",NA,NA,NA
+18,40,"Nasser, Yasin",Ford Fiesta,UG,Rally2,"+2h 19m 15,3s",2:00,NA,NA
+19,34,"Singh Vohra, Samman",Skoda Fabia,KE,Rally2,"+2h 33m 56,0s",NA,NA,NA
+20,37,"Sachania, Nikhil",Ford Fiesta,GB,Rally3,"+2h 44m 33,1s",1:00,NA,NA
+21,42,"Rathod, Minesh",Mitsubishi Lancer Evo X,KE,ASN,"+4h 32m 57,1s",NA,NA,NA
+NA,18,"Katsuta, Takamoto",Toyota GR Yaris Rally1,JP,Rally1,NA,NA,after SS21,"rolled on PS, unable to reach service"
+NA,25,"Dominguez Jr., Diego",Toyota Yaris,PY,Rally2,NA,NA,TC13C,engine
+NA,26,"Patel, Karan",Skoda Fabia,KE,Rally2,NA,NA,TC10D,mechanical
+NA,30,"Anwar, Hamza",Ford Fiesta,KE,Rally2,NA,NA,TC2C,OTL
+NA,32,"Vasilakis, Georgios",Ford Fiesta,GR,Rally2,NA,NA,TC16C,medical
+NA,36,"Virani, Aakif",Skoda Fabia,KE,Rally2,NA,NA,TC2C,mechanical
+NA,38,"Pulligilla, Naveen",Ford Fiesta,IN,Rally3,NA,NA,TC6C,mechanical
+NA,69,"Rovanpera, Kalle",Toyota GR Yaris Rally1,FI,Rally1,NA,NA,after SS17,suspension damage

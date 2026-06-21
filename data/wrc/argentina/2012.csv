@@ -1,0 +1,43 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Loeb, Sebastien",Citroen DS3 WRC,FR,A0,"5h 34m 38,8s",NA,NA,NA
+2,2,"Hirvonen, Mikko",Citroen DS3 WRC,FI,A0,"+15,2s",NA,NA,NA
+3,10,"Ostberg, Mads",Ford Fiesta RS WRC,NO,A0,"+3m 10,4s",NA,NA,NA
+4,21,"Prokop, Martin",Ford Fiesta RS WRC,CZ,A0,"+9m 45,3s",NA,NA,NA
+5,8,"Neuville, Thierry",Citroen DS3 WRC,BE,A0,"+11m 17,6s",NA,NA,NA
+6,4,"Solberg, Petter",Ford Fiesta RS WRC,NO,A0,"+12m 02,2s",NA,NA,NA
+7,15,"Ogier, Sebastien",Skoda Fabia Super 2000,FR,A2,"+12m 25,3s",NA,NA,NA
+8,6,"Novikov, Evgeny",Ford Fiesta RS WRC,RU,A0,"+21m 10,2s",NA,NA,NA
+9,7,"al-Attiyah, Nasser",Citroen DS3 WRC,QA,A0,"+28m 22,6s",NA,NA,NA
+10,5,"Tanak, Ott",Ford Fiesta RS WRC,EE,A0,"+37m 19,5s",NA,NA,NA
+11,38,"Guerra Latapi, Benito",Mitsubishi Lancer Evo X,MX,A3,"+37m 21,8s",NA,NA,NA
+12,52,"Salazar, Eliseo",Mini John Cooper Works,CL,A0,"+41m 15,9s",NA,NA,NA
+13,32,"Fuchs Sierlecki, Nicolas",Mitsubishi Lancer Evo X,PE,A3,"+41m 40,9s",1:00,NA,NA
+14,39,"Gorban, Valeriy",Mitsubishi Lancer Evo IX,UA,A3,"+44m 06,4s",1:30,NA,NA
+15,33,"Ligato, Marcos",Subaru Impreza WRX,AR,A3,"+50m 21,2s",0:10,NA,NA
+16,40,"Linari, Gianluca",Subaru Impreza,IT,A3,"+1h 05m 46,0s",2:20,NA,NA
+17,49,"Campos, Ezequiel",Mitsubishi Lancer Evo X,AR,A3,"+1h 12m 48,6s",0:30,NA,NA
+18,45,"Aksa, Subhan",Mitsubishi Lancer Evo X,ID,A3,"+1h 13m 06,1s",NA,NA,NA
+19,63,"San Martin, Juan",Mitsubishi Lancer Evo X,UY,A3,"+1h 18m 09,5s",NA,NA,NA
+20,60,"Ortega Etcheverria, Luis",Mitsubishi Lancer Evo X,PY,A3,"+1h 18m 48,5s",0:10,NA,NA
+21,54,"Kremer, Armin",Subaru Impreza,DE,A3,"+1h 39m 46,4s",NA,NA,NA
+22,61,"Valverde, Luis",Mitsubishi Lancer Evo IX,EC,A3,"+1h 40m 40,6s",3:50,NA,NA
+23,34,"Bertelli, Lorenzo",Mitsubishi Lancer Evo IX,IT,A3,"+2h 00m 27,6s",10:30,NA,NA
+24,66,"Pelaez, Pablo",Peugeot 206,AR,A6,"+2h 41m 48,3s",2:40,NA,NA
+25,69,"Sinito, Pablo M.",Peugeot 206,AR,A6,"+3h 11m 41,9s",1:30,NA,NA
+26,67,"Porcaro, Jorge Luis",Peugeot 206,AR,A6,"+3h 38m 26,3s",2:40,NA,NA
+27,68,"Durante, Miguel Angel",Renault Clio,AR,A5,"+4h 10m 23,0s",2:00,NA,NA
+NA,3,"Sordo Castillo, Daniel",Ford Fiesta RS WRC,ES,A0,NA,NA,SS19,mechanical
+NA,9,"Oliveira, Daniel Rolim",Ford Fiesta RS WRC,BR,A0,NA,NA,TC13D,mechanical
+NA,12,"Araujo, Armindo",Mini John Cooper Works,PT,A0,NA,NA,SS17,mechanical
+NA,14,"Nobre, Paulo",Mini John Cooper Works,BR,A0,NA,NA,SS17,mechanical
+NA,18,"Mikkelsen, Andreas",Skoda Fabia Super 2000,NO,A2,NA,NA,TC16,mechanical
+NA,31,"Kosciuszko, Michal",Mitsubishi Lancer Evo X,PL,A3,NA,NA,SS9,mechanical
+NA,41,"Kikireshko, Oleksii",Mitsubishi Lancer Evo IX,UA,A3,NA,NA,SS9,mechanical
+NA,42,"Trivino Bujalil, Ricardo",Mitsubishi Lancer Evo X,MX,A3,NA,NA,TC16,mechanical
+NA,44,"Karlsson, Ramona",Mitsubishi Lancer Evo X,SE,A3,NA,NA,SS1,mechanical
+NA,53,"Saba Rodriguez, Gustavo",Mitsubishi Lancer Evo X,PY,A2,NA,NA,TC18,mechanical
+NA,56,"de Nora, Michele",Mitsubishi Lancer Evo X,IT,A3,NA,NA,TC13D,mechanical
+NA,58,"Suarez, German",Subaru Impreza,AR,A3,NA,NA,TC13D,mechanical
+NA,59,"Galeano Tomboly, Victor",Mitsubishi Lancer Evo X,PY,A3,NA,NA,SS18,mechanical
+NA,64,"Bottazzini, Guillermo",Subaru Impreza,AR,A3,NA,NA,TC15,mechanical
+NA,65,"Durante, Eduardo",Citroen C4,AR,A5,NA,NA,TC13D,mechanical

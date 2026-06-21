@@ -1,0 +1,16 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,4,"Kankkunen, Juha",Toyota Celica Turbo 4WD (ST185),FI,A8,5h 32m 31s,NA,NA,NA
+2,3,"Biasion, Massimo",Ford Escort RS Cosworth,IT,A,+1m 54s,NA,NA,NA
+3,1,"Auriol, Didier",Toyota Celica Turbo 4WD (ST185),FR,A,+16m 58s,NA,NA,NA
+4,5,"Trelles, Gustavo",Lancia Delta HF Integrale,UY,A,+28m 04s,NA,NA,NA
+5,6,"Menem Jr., Carlos",Ford Escort RS Cosworth,AR,A,+31m 34s,NA,NA,NA
+6,11,"bin Sulayem, Mohammed",Ford Escort RS Cosworth,AE,N,+37m 11s,NA,NA,NA
+7,9,"Stohl, Rudolf",Audi Coupe S2,AT,A,+49m 22s,NA,NA,NA
+8,20,"Coutinho, Antonio",Ford Escort RS Cosworth,PT,N,+58m 22s,NA,NA,NA
+9,10,"Raies, Gabriel",Renault 18 GTX,AR,A,+1h 00m 30s,NA,NA,NA
+10,29,"Ceccheto, Jose",Fiat Regata,AR,A,+1h 11m 06s,NA,NA,NA
+12,NA,"Stohl, Manfred",Audi Coupe S2,AT,A,+1h 14m 16s,NA,NA,NA
+21,8,"Driano, Christine",Citroen AX,FR,A,+2h 01m 56s,NA,NA,NA
+NA,2,"Sainz, Carlos",Lancia Delta HF Integrale,ES,A,NA,NA,SS1,engine
+NA,7,"Recalde, Jorge",Lancia Delta HF Integrale,AR,A,NA,NA,SS6,rear suspension
+NA,14,"Bescham, Jorge",Fiat Regata,AR,A,NA,NA,SS15,engine

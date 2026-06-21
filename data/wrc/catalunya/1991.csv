@@ -1,0 +1,38 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,5,"Schwarz, Armin",Toyota Celica GT-4 (ST165),DE,A8,6h 44m 42s,0:30,NA,NA
+2,2,"Kankkunen, Juha",Lancia Delta HF Integrale 16v,FI,A8,+1m 33s,NA,NA,NA
+3,4,"Delecour, Francois",Ford Sierra Cosworth 4x4,FR,A8,+1m 38s,NA,NA,NA
+4,11,"Bardolet, Jose Maria",Ford Sierra Cosworth 4x4,ES,A8,+5m 40s,NA,NA,NA
+5,3,"Aghini, Andrea",Lancia Delta HF Integrale 16v,IT,A8,+7m 02s,NA,NA,NA
+6,6,"Recalde, Jorge",Lancia Delta HF Integrale 16v,AR,A8,+19m 00s,NA,NA,NA
+7,14,"Monzon, Luis",Lancia Delta HF Integrale 16v,ES,A8,+24m 26s,NA,NA,NA
+8,16,"Capdevila, Fernando",Ford Sierra Cosworth 4x4,ES,N4,+53m 09s,9:00,NA,NA
+9,30,"Casasayas, Joaquim",Peugeot 309 GTI,ES,A7,+1h 05m 42s,3:30,NA,NA
+10,10,"Ponce, Jose-Maria",BMW 325i,ES,N4,+1h 05m 51s,NA,NA,NA
+11,17,"Menem Jr., Carlos",Ford Sierra Cosworth 4x4,AR,N4,+1h 08m 33s,12:00,NA,NA
+12,52,"Azcona, Jaime",Peugeot 205 GTI,ES,N3,+1h 26m 53s,NA,NA,NA
+13,31,"Boronat, Carina",Volkswagen Golf GTi,ES,A7,+1h 30m 00s,NA,NA,NA
+14,41,"Cima, Francisco",Renault Clio,ES,N3,+1h 32m 49s,4:00,NA,NA
+15,70,"Sole, M.",Peugeot 205 Rallye,ES,N1,+1h 33m 53s,NA,NA,NA
+16,61,"Cabanes, V.",Peugeot 309 GTI,ES,N3,+1h 34m 17s,NA,NA,NA
+17,46,"Melani, Natalino",Renault 5 GT Turbo,IT,N4,+1h 36m 07s,6:00,NA,NA
+18,42,"Arche, Gonzalo",Renault Clio,ES,N3,+1h 37m 29s,NA,NA,NA
+19,26,"Alonso, Daniel",Ford Sierra Cosworth,ES,N4,+1h 39m 56s,5:00,NA,NA
+20,33,"Lazaro, E.",Renault 5 GT Turbo,ES,A8,+1h 41m 15s,NA,NA,NA
+21,32,"Saiz, Capi",Peugeot 205 Rallye,ES,A6,+1h 43m 54s,NA,NA,NA
+22,54,"Vila, J.",Renault 5 GT Turbo,ES,N4,+1h 47m 06s,4:00,NA,NA
+23,59,"Ferradas, M.",Peugeot 205 Rallye,ES,A6,+1h 48m 03s,NA,NA,NA
+24,81,"Sans, E.",Peugeot 205 Rallye,ES,N1,+1h 49m 15s,NA,NA,NA
+25,63,"Abadia, A.",Peugeot 309 GTI,ES,N3,+1h 49m 41s,NA,NA,NA
+26,79,"Llunell, F:",Renault 5 GT Turbo,ES,N4,+1h 51m 30s,NA,NA,NA
+27,80,"Sagnard, Richard",Peugeot 205 Rallye,FR,N1,+1h 56m 27s,NA,NA,NA
+28,60,"Julia, F.",Peugeot 205 Rallye,ES,A6,+2h 03m 13s,NA,NA,NA
+29,34,"Tobaruela, J.A.",Peugeot 309 GTI,ES,A7,+2h 03m 23s,5:00,NA,NA
+30,82,"Valdiviejas, D.",Peugeot 205 Rallye,ES,N1,+2h 10m 11s,2:00,NA,NA
+31,73,"Ess, Ludwig",Toyota Corolla GT,DE,N2,+2h 22m 12s,NA,NA,NA
+32,66,"Fullana, J.",Renault Clio,ES,N3,+2h 45m 07s,3:00,NA,NA
+33,68,"Garcia, I.",Renault Clio,ES,N3,+3h 13m 57s,10:00,NA,NA
+NA,1,"Sainz, Carlos",Toyota Celica GT-4 (ST165),ES,A8,NA,NA,SS8,electrical
+NA,7,"Trelles, Gustavo",Lancia Delta HF Integrale 16v,UY,A8,NA,NA,SS31,clutch
+NA,8,"Puras, Jesus",Lancia Delta HF Integrale 16v,ES,A8,NA,NA,SS31,engine
+NA,24,"Sillankorva, Minna",Lancia Delta HF Integrale 16v,FI,A8,NA,NA,SS1,required only to start

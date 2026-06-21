@@ -1,0 +1,28 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Ogier, Sebastien",Volkswagen Polo R WRC,FR,RC1,"2h 53m 18,0s",NA,NA,NA
+2,2,"Latvala, Jari-Matti",Volkswagen Polo R WRC,FI,RC1,"+6,8s",NA,NA,NA
+3,9,"Mikkelsen, Andreas",Volkswagen Polo R WRC,NO,RC1,"+1m 18,0s",NA,NA,NA
+4,3,"Meeke, Kris",Citroen DS3 WRC,GB,RC1,"+1m 44,0s",1:01,NA,NA
+5,5,"Hirvonen, Mikko",Ford Fiesta RS WRC,FI,RC1,"+1m 53,6s",NA,NA,NA
+6,20,"Paddon, Hayden",Hyundai i20 WRC,NZ,RC1,"+2m 56,2s",NA,NA,NA
+7,7,"Neuville, Thierry",Hyundai i20 WRC,BE,RC1,"+4m 28,2s",NA,NA,NA
+8,6,"Evans, Elfyn",Ford Fiesta RS WRC,GB,RC1,"+5m 10,0s",NA,NA,NA
+9,10,"Kubica, Robert",Ford Fiesta RS WRC,PL,RC1,"+6m 39,8s",NA,NA,NA
+10,8,"Atkinson, Christopher",Hyundai i20 WRC,AU,RC1,"+9m 29,4s",NA,NA,NA
+11,36,"al-Attiyah, Nasser",Ford Fiesta,QA,RC2,"+11m 53,1s",NA,NA,NA
+12,35,"Ketomaa, Jari",Ford Fiesta,FI,RC2,"+13m 43,5s",NA,NA,NA
+13,32,"Protasov, Yuriy",Ford Fiesta,UA,RC2,"+14m 30,1s",NA,NA,NA
+14,37,"Bertelli, Lorenzo",Ford Fiesta,IT,RC2,"+14m 56,1s",NA,NA,NA
+15,45,"Aksa, Subhan",Ford Fiesta,ID,RC2,"+18m 33,3s",NA,NA,NA
+16,4,"Ostberg, Mads",Citroen DS3 WRC,NO,RC1,"+19m 34,8s",2:20,NA,NA
+17,69,"van Tuinen, Matt",Subaru Impreza WRX,AU,RC2,"+28m 52,1s",NA,NA,NA
+18,73,"Frisiero, Fabio",Mitsubishi Lancer Evo IX,IT,RC2,"+33m 31,1s",NA,NA,NA
+19,71,"Coppin, Adrian",Citroen DS3,AU,RC3,"+44m 28,9s",NA,NA,NA
+20,70,"Sullens, Tony",Citroen DS3,AU,RC3,"+47m 06,1s",NA,NA,NA
+21,78,"Grigg, Martin",Mitsubishi Lancer Evo X,AU,RC2,"+49m 00,1s",0:30,NA,NA
+22,76,"Blair, Darren",Subaru Impreza WRX,AU,RC2,"+50m 15,4s",NA,NA,NA
+23,33,"Rendina, Massimiliano",Mitsubishi Lancer Evo X,IT,RC2,"+1h 22m 47,9s",NA,NA,NA
+NA,31,"al-Rajhi, Yazeed",Ford Fiesta,SA,RC2,NA,NA,SS16,unknown
+NA,34,"Tanak, Ott",Ford Fiesta,EE,RC2,NA,NA,SS19,unknown
+NA,38,"Serderidis, Jourdan",Ford Fiesta,GR,RC2,NA,NA,TC20A,unknown
+NA,74,"Fullerton, Bruce",Mitsubishi Lancer Evo IX,AU,RC2,NA,NA,SS20,unknown

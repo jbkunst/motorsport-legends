@@ -1,0 +1,16 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"Ambrosino, Alain",Nissan 200SX,FR,A8,3h 34m 51s,NA,NA,NA
+2,8,"Gaban, Pascal",Mazda 323,BE,N,+1h 31m 42s,NA,NA,NA
+3,5,"Tauziac, Patrick",Mitsubishi Starion Turbo,FR,A,+3h 45m 29s,NA,NA,NA
+4,42,"Oudit, Alain",Volkswagen Golf GTi,FR,N,+4h 18m 17s,NA,NA,NA
+5,7,"Choteau, Adolphe",Toyota Corolla,CI,A,+4h 18m 57s,NA,NA,NA
+6,39,"Monin, Didier",Mazda 323,BE,N,+4h 33m 25s,NA,NA,NA
+7,40,"Ambrosoli, Roberto",Mazda 323,IT,N,+6h 14m 11s,NA,NA,NA
+8,34,"Mafall, Soumare",Toyota Corolla,CI,A,+7h 51m 11s,NA,NA,NA
+9,16,"Molinie, Michel",Volkswagen Golf GTi,CI,A,+8h 19m 17s,NA,NA,NA
+10,10,"Assef, Samir",Toyota Corolla,CI,A,+9h 07m 12s,NA,NA,NA
+NA,2,"Stohl, Rudolf",Audi Coupe,AT,A,NA,NA,TC42,accident
+NA,6,"Copetti, Patrick",Toyota Corolla,FR,A,NA,NA,TC49,rear axle
+NA,12,"Salim, Eugene",Mitsubishi Starion Turbo,CI,A,NA,NA,TC72,OTL
+NA,21,"Somaia, Ketan",Volkswagen Golf GTi,KE,A,NA,NA,TC41,flywheel
+NA,24,"Farina, Antonio",Audi 80 quattro,IT,A,NA,NA,TC53,gearbox

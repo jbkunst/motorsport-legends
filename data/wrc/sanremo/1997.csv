@@ -1,0 +1,126 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"McRae, Colin",Subaru Impreza WRC97,GB,A8,4:08:25,NA,NA,NA
+2,4,"Liatti, Piero",Subaru Impreza WRC97,IT,A8,+6s,0:10,NA,NA
+3,1,"Makinen, Tommi",Mitsubishi Lancer Evo IV,FI,A8,+12s,NA,NA,NA
+4,5,"Sainz, Carlos",Ford Escort WRC,ES,A8,+14s,NA,NA,NA
+5,10,"Loix, Freddy",Toyota Corolla WRC,BE,A8,+50s,NA,NA,NA
+6,6,"Kankkunen, Juha",Ford Escort WRC,FI,A8,+53s,NA,NA,NA
+7,11,"Aghini, Andrea",Toyota Celica GT-Four (ST205),IT,A8,+2m 48s,NA,NA,NA
+8,7,"Auriol, Didier",Toyota Corolla WRC,FR,A8,+3m 33s,NA,NA,NA
+9,32,"Oldrati, Diego",Subaru Impreza 555,IT,A8,+9m 19s,NA,NA,NA
+10,25,"Rovanpera, Harri",Seat Ibiza GTi 16V,FI,A7,+13m 32s,NA,NA,NA
+11,42,"Zanchi, Pierlorenzo",Toyota Celica GT-Four (ST205),IT,A8,+15m 56s,NA,NA,NA
+12,26,"Fontana, Corrado",Renault Megane,IT,A7,+17m 32s,NA,NA,NA
+13,41,"de Cecco, Claudio",Ford Escort RS Cosworth,IT,A8,+20m 46s,NA,NA,NA
+14,47,"Stagni, Mario",Mitsubishi Lancer Evo IV,IT,N4,+23m 02s,NA,NA,NA
+15,46,"Baldini, Luca",Mitsubishi Lancer Evo III,IT,N4,+23m 30s,NA,NA,NA
+16,33,"Dor, Frederic",Subaru Impreza 555,FR,A8,+23m 30s,NA,NA,NA
+17,29,"Danti, Fabio",Skoda Felicia Kit-Car,IT,A6,+24m 49s,NA,NA,NA
+18,72,"Sottile, Sandro",Opel Astra,IT,A7,+26m 18s,NA,NA,NA
+19,83,"Popovic, Boris",Mitsubishi Lancer Evo III,SI,N4,+30m 00s,NA,NA,NA
+20,79,"Stohl, Manfred",Mitsubishi Lancer Evo III,AT,N4,+30m 34s,NA,NA,NA
+21,52,"Maselli, Andrea",Opel Corsa GSi,IT,A6,+31m 48s,NA,NA,NA
+22,48,"Gallio, Fabrizio",Mitsubishi Lancer Evo IV,IT,N4,+32m 36s,NA,NA,NA
+23,105,"Wearden, Neil",Honda Civic,GB,A6,+33m 49s,NA,NA,NA
+24,76,"Spallino, Domenico",Lancia Delta Integrale,IT,A8,+36m 38s,NA,NA,NA
+25,59,"de Marco, Marco",Lancia Delta Integrale,IT,A8,+37m 40s,NA,NA,NA
+26,88,"Parodi, Diego",Renault Clio Williams,IT,A7,+38m 48s,NA,NA,NA
+27,81,"Gassner, Hermann",Proton Wira 4WD,DE,N4,+38m 50s,NA,NA,NA
+28,43,"Fidanza, Antonello",Mitsubishi Lancer Evo IV,IT,N4,+39m 35s,NA,NA,NA
+29,78,"Mantoan, M.",Subaru Impreza 555,NA,A8,+40m 37s,NA,NA,NA
+30,54,"Ameglio, Danilo",Peugeot 309 GTI,IT,N3,+41m 13s,NA,NA,NA
+31,56,"Lozza, Eugenio",Opel Astra,IT,N3,+46m 16s,NA,NA,NA
+32,92,"Tamagnini, A.",Renault Clio,IT,N3,+47m 30s,NA,NA,NA
+33,35,"Rummele, M.",Ford Escort RS Cosworth,NA,N4,+48m 22s,NA,NA,NA
+34,55,"Borghi, Nicola",Opel Astra,IT,N3,+49m 52s,NA,NA,NA
+35,87,"Corio, Emilio",Fiat Coupe 2.0,IT,A7,+51m 03s,NA,NA,NA
+36,74,"Ontano, A.",Mazda 323 GT-R,NA,A8,+51m 16s,NA,NA,NA
+37,120,"Mastrazzo, Andrea",Peugeot 205 Rallye,IT,A5,+52m 15s,NA,NA,NA
+38,53,"Rampazzo, Luca",Renault Clio Williams,IT,A7,+52m 16s,NA,NA,NA
+39,93,"Mayer, F.",Peugeot 309 GTI,NA,N3,+52m 26s,NA,NA,NA
+40,98,"Consigli, Umberto",Peugeot 306,IT,N3,+54m 10s,NA,NA,NA
+41,125,"Fioravanti, Ivan",Opel Corsa GSI,IT,N2,+57m 54s,NA,NA,NA
+42,80,"Kahlfuss, Michael",Toyota Celica GT-Four (ST205),DE,N4,+58m 10s,NA,NA,NA
+43,94,"Marenco, Claudio",Renault Clio,IT,N3,+59m 19s,NA,NA,NA
+44,137,"Franceschi, Nicola",Peugeot 205 Rallye,IT,N1,+59m 47s,NA,NA,NA
+45,99,"Platino, Giancarlo",Opel Astra,IT,N3,+1h 00m 12s,NA,NA,NA
+46,129,"Longo, G.",Citroen Saxo,IT,N2,+1h 01m 12s,NA,NA,NA
+47,85,"Alberghino, Agostino",Nissan Sunny,IT,A7,+1h 03m 16s,NA,NA,NA
+48,112,"Amerio, Roberto",Peugeot 106,IT,A5,+1h 03m 36s,NA,NA,NA
+49,84,"Bombardi, Fabio",Fiat Coupe Turbo,IT,N4,+1h 03m 45s,NA,NA,NA
+50,127,"Giordanino, Ugo",Honda Civic,IT,N2,+1h 04m 38s,NA,NA,NA
+51,103,"Rio, Andrea",Peugeot 106,IT,A5,+1h 05m 20s,NA,NA,NA
+52,131,"Pagliero, Paolo",Fiat 500 Sporti,IT,A5,+1h 06m 27s,NA,NA,NA
+53,132,"Peirone, V.",Peugeot 106,IT,N1,+1h 07m 06s,NA,NA,NA
+54,111,"Fausone, Stefano",Peugeot 106,IT,A5,+1h 08m 34s,NA,NA,NA
+55,123,"Cedroni, D.",Opel Corsa GSI,IT,N2,+1h 08m 55s,NA,NA,NA
+56,90,"Bertetto, Sergio",Fiat Uno Turbo,IT,A7,+1h 09m 34s,NA,NA,NA
+57,128,"Botti, Antonio",Opel Corsa GSI,IT,N2,+1h 11m 00s,NA,NA,NA
+58,113,"Cali, A.",Peugeot 205 Rallye,IT,A5,+1h 11m 01s,NA,NA,NA
+59,118,"Gai, Alessandro",Peugeot 106,IT,A5,+1h 18m 45s,NA,NA,NA
+60,117,"Casa, W.",Peugeot 205 Rallye,IT,A5,+1h 20m 46s,NA,NA,NA
+61,82,"Depping, Janina",Ford Escort RS Cosworth,DE,N4,+1h 24m 29s,NA,NA,NA
+62,114,"Durante, Mauro",Ford Ka,IT,A5,+1h 26m 58s,NA,NA,NA
+63,126,"Gesso, A.",Peugeot 106,IT,N2,+1h 28m 59s,NA,NA,NA
+64,116,"Podesta, O.",Peugeot 205 Rallye,IT,A5,+1h 30m 44s,NA,NA,NA
+65,109,"Scordato, Pino",Peugeot 106,IT,A5,+1h 31m 33s,NA,NA,NA
+66,141,"Caccio, Flavio",Fiat 500 Sport,IT,N1,+1h 33m 20s,NA,NA,NA
+67,115,"Renzullo, Antonio",Peugeot 205 Rallye,IT,A5,+1h 50m 38s,NA,NA,NA
+NA,2,"Nittel, Uwe",Mitsubishi Lancer Evo IV,DE,A8,NA,NA,SS16,accident
+NA,8,"Dallavilla, Andrea",Subaru Impreza 555,IT,A8,NA,NA,SS5,gearbox
+NA,9,"Cunico, Gianfranco",Ford Escort WRC,IT,A8,NA,NA,SS14,driveshaft
+NA,12,"Navarra, Andrea",Subaru Impreza 555,IT,A8,NA,NA,SS21,gearbox
+NA,14,"de Mevius, Gregoire",Ford Escort WRC,BE,A8,NA,NA,SS11,unknown
+NA,15,"Ercolani, Massimo",Subaru Impreza 555,SM,A8,NA,NA,SS4,unknown
+NA,16,"Sufan, Raul",Toyota Celica GT-Four (ST205),AR,A8,NA,NA,SS7,accident
+NA,18,"Trelles, Gustavo",Mitsubishi Lancer Evo III,UY,N4,NA,NA,SS16,accident
+NA,19,"Triner, Emil",Skoda Octavia KitCar,CZ,A7,NA,NA,SS10,engine
+NA,20,"Bedini, Piergiorgio",Mitsubishi Lancer Evo III,IT,N4,NA,NA,SS12,unknown
+NA,21,"Andreucci, Paolo",Renault Megane,IT,A7,NA,NA,SS13,driveshaft
+NA,22,"Sibera, Pavel",Skoda Octavia KitCar,CZ,A7,NA,NA,SS3,transmission
+NA,23,"Gomez Marco, Oriol",Seat Ibiza GTi 16V,ES,A7,NA,NA,SS4,electrical
+NA,24,"Sperrer, Raphael",Renault Megane,AT,A7,NA,NA,SS12,unknown
+NA,27,"Stolfa, Jindrich",Skoda Felicia Kit-Car,CZ,A6,NA,NA,SS11,unknown
+NA,28,"Verreydt, Renaud",Seat Ibiza GTi 16V,BE,A7,NA,NA,SS13,unknown
+NA,30,"Travaglia, Renato",Subaru Impreza 555,IT,A8,NA,NA,SS23,unknown
+NA,31,"Mannarino, Eugeonio",Toyota Celica GT-Four (ST205),IT,A8,NA,NA,SS16,unknown
+NA,34,"Zumelli, Luisa",Ford Escort RS Cosworth,IT,A8,NA,NA,SS11,unknown
+NA,36,"Guizzardi, Luciano",Mitsubishi Lancer Evo III,IT,N4,NA,NA,SS15,unknown
+NA,37,"Rosenberger, Kristopher",Mitsubishi Lancer Evo III,AT,N4,NA,NA,SS4,unknown
+NA,38,"Manfrinato, Giovanni",Subaru Impreza,IT,N4,NA,NA,SS21,unknown
+NA,39,"Longhi, Piero",Renault Megane,IT,A7,NA,NA,SS5,unknown
+NA,40,"Sciascia, Patrizia",Ford Escort RS Cosworth,IT,N4,NA,NA,SS9,unknown
+NA,44,"d'Innocenzo, Benedetto",Ford Escort RS Cosworth,IT,N4,NA,NA,SS6,unknown
+NA,45,"Ratiglia, Fabrizio",Mitsubishi Lancer Evo IV,IT,N4,NA,NA,SS4,unknown
+NA,49,"Bandierini, Giovanni",Ford Escort RS Cosworth,IT,N4,NA,NA,SS8,unknown
+NA,50,"Baita, Ettore",Mitsubishi Lancer Evo III,IT,N4,NA,NA,SS7,unknown
+NA,51,"Re, Felice",Renault Clio,IT,A7,NA,NA,SS3,unknown
+NA,58,"Polirpo, Mauro",Mitsubishi Lancer Evo IV,IT,N4,NA,NA,SS20,unknown
+NA,70,"Panizza, Simone",Renault Clio,IT,N3,NA,NA,SS21,unknown
+NA,71,"Benazzo, Roberto",Renault Clio,IT,N3,NA,NA,SS5,unknown
+NA,73,"Ducruet, Daniel",Toyota Celica GT-Four (ST205),FR,A8,NA,NA,SS3,unknown
+NA,77,"Colard, Pierre",Subaru Impreza 555,FR,A8,NA,NA,SS11,unknown
+NA,86,"Ballestin, Artemio",Fiat Bravo HGT,IT,A7,NA,NA,SS13,unknown
+NA,89,"Cavigioli, Marco",Ford Escort RS Cosworth,IT,A7,NA,NA,SS15,unknown
+NA,91,"Orengo, A.",Renault Clio,IT,N3,NA,NA,SS10,unknown
+NA,95,"Villa, A.",Renault Clio,NA,N3,NA,NA,SS16,unknown
+NA,96,"Cortese, Elio",Renault Clio,IT,N3,NA,NA,SS4,unknown
+NA,97,"Toia, Diocleziano",Renault Clio,IT,N3,NA,NA,SS11,unknown
+NA,100,"Ugolini, Stefano",Opel Astra,SM,N3,NA,NA,SS11,unknown
+NA,101,"Boretto, Francesco",Peugeot 309 GTI,IT,N3,NA,NA,SS4,unknown
+NA,102,"Polliotto, Guido",Fiat Uno Turbo,IT,N3,NA,NA,SS6,unknown
+NA,104,"Orengo, Giovanni",Opel Corsa GSi,IT,A6,NA,NA,SS15,unknown
+NA,106,"Dieni, Roberto",Peugeot 106,IT,A6,NA,NA,SS15,unknown
+NA,107,"Turi, F.",Peugeot 106,IT,A6,NA,NA,SS12,unknown
+NA,108,"Puzar, Alessandro",Skoda Felicia Kit-Car,IT,A6,NA,NA,SS13,unknown
+NA,110,"Rossi, Roberta",Peugeot 205 Rallye,IT,A5,NA,NA,SS9,unknown
+NA,119,"Cannizzaro, Stefano",Peugeot 106,IT,A5,NA,NA,SS5,unknown
+NA,121,"Bormida, Gianni",Peugeot 106,IT,A5,NA,NA,SS5,unknown
+NA,122,"Ferrari, Michele",Peugeot 106,IT,A5,NA,NA,SS21,unknown
+NA,124,"Pedone, A.",Opel Corsa GSI,IT,N2,NA,NA,SS5,unknown
+NA,130,"Maggio, R.",Peugeot 106,IT,N2,NA,NA,TC17C,did not start Leg 3
+NA,133,"Boniscontro, Cristian",Peugeot 205 Rallye,IT,N1,NA,NA,SS25,unknown
+NA,134,"Chiozzone, L.",Peugeot 205 Rallye,IT,N1,NA,NA,SS14,unknown
+NA,136,"Beschi, G.",Peugeot 205 Rallye,IT,N1,NA,NA,SS7,unknown
+NA,139,"Cologgi, Alfredo",Peugeot 106,IT,N1,NA,NA,SS8,unknown
+NA,140,"Martini, R.",Peugeot 106,IT,N1,NA,NA,SS13,unknown

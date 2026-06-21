@@ -1,0 +1,60 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,8,"Tanak, Ott",Toyota Yaris WRC,EE,RC1,"3h 20m 22,8s",NA,NA,NA
+2,11,"Neuville, Thierry",Hyundai i20 Coupe WRC,BE,RC1,"+15,9s",NA,NA,NA
+3,1,"Ogier, Sebastien",Citroen C3 WRC,FR,RC1,"+57,1s",NA,NA,NA
+4,3,"Suninen, Teemu",Ford Fiesta RS WRC 2017,FI,RC1,"+2m 41,5s",NA,NA,NA
+5,33,"Evans, Elfyn",Ford Fiesta RS WRC 2017,GB,RC1,"+7m 08,3s",NA,NA,NA
+6,23,"Rovanpera, Kalle",Skoda Fabia,FI,RC2,"+10m 34,2s",NA,NA,NA
+7,10,"Latvala, Jari-Matti",Toyota Yaris WRC,FI,RC1,"+11m 28,2s",NA,NA,NA
+8,24,"Kopecky, Jan",Skoda Fabia,CZ,RC2,"+11m 41,9s",NA,NA,NA
+9,51,"Loubet, Pierre-Louis",Skoda Fabia,FR,RC2,"+12m 46,3s",NA,NA,NA
+10,47,"Bergkvist, Emil",Ford Fiesta,SE,RC2,"+14m 28,4s",NA,NA,NA
+11,49,"Solberg, Henning",Skoda Fabia,NO,RC2,"+14m 54,5s",NA,NA,NA
+12,56,"Pietarinen, Eerik",Skoda Fabia,FI,RC2,"+15m 09,8s",NA,NA,NA
+13,45,"Gryazin, Nikolay",Skoda Fabia,RU,RC2,"+15m 10,6s",NA,NA,NA
+14,41,"Guerra Latapi, Benito",Skoda Fabia,MX,RC2,"+16m 09,1s",0:10,NA,NA
+15,46,"Heller, Alberto",Ford Fiesta,CL,RC2,"+17m 40,7s",NA,NA,NA
+16,55,"Araujo, Armindo",Hyundai i20,PT,RC2,"+18m 37,4s",NA,NA,NA
+17,48,"de Mevius, Guillaume",Citroen C3,BE,RC2,"+19m 27,2s",NA,NA,NA
+18,53,"Tempestini, Simone",Hyundai i20,IT,RC2,"+19m 52,7s",NA,NA,NA
+19,59,"Magalhaes, Bruno",Hyundai i20,PT,RC2,"+20m 49,4s",NA,NA,NA
+20,61,"Almeida, Pedro",Skoda Fabia,PT,RC2,"+26m 21,5s",NA,NA,NA
+21,42,"Katsuta, Takamoto",Ford Fiesta,JP,RC2,"+27m 04,8s",NA,NA,NA
+22,57,"Fontes, Jose Pedro",Citroen C3,PT,RC2,"+27m 23,7s",NA,NA,NA
+23,6,"Sordo Castillo, Daniel",Hyundai i20 Coupe WRC,ES,RC1,"+27m 24,8s",NA,NA,NA
+24,21,"Ostberg, Mads",Citroen C3,NO,RC2,"+29m 42,8s",4:10,NA,NA
+25,64,"Yates, Rhys",Skoda Fabia,GB,RC2,"+31m 06,4s",NA,NA,NA
+26,50,"Pedretti, Massimo",Ford Fiesta,IT,RC2,"+38m 20,5s",0:10,NA,NA
+27,22,"Pieniazek, Lukasz",Ford Fiesta,PL,RC2,"+41m 29,3s",NA,NA,NA
+28,92,"Bell, Ruairi",Peugeot 208,GB,RC4,"+44m 55,8s",NA,NA,NA
+29,75,"Ramos, Joao Fernardo",Ford Fiesta,PT,RC2,"+1h 11m 22,9s",NA,NA,NA
+30,86,"Linnamae, Georg",Peugeot 208,EE,RC4,"+1h 11m 49,6s",NA,NA,NA
+31,91,"Tejpar, Nabila",Peugeot 208,GB,RC4,"+1h 20m 25,2s",NA,NA,NA
+32,73,"Dinkel, Dominik",Hyundai i20,DE,RC2,"+1h 32m 35,3s",1:10,NA,NA
+33,77,"Miranda, Helder Goncalves",Renault Clio,PT,RC3,"+2h 00m 31,9s",NA,NA,NA
+NA,4,"Lappi, Esapekka",Citroen C3 WRC,FI,RC1,NA,NA,TC18,mechanical
+NA,5,"Meeke, Kris",Toyota Yaris WRC,GB,RC1,NA,NA,SS20,hit rock
+NA,19,"Loeb, Sebastien",Hyundai i20 Coupe WRC,FR,RC1,NA,NA,TC20C,mechanical
+NA,43,"Veiby, Ole Christian",Volkswagen Polo,NO,RC2,NA,NA,SS10,mechanical
+NA,44,"Greensmith, Fergus",Ford Fiesta RS WRC 2017,GB,RC1,NA,NA,SS20,mechanical
+NA,52,"Teodosio, Ricardo",Skoda Fabia,PT,RC2,NA,NA,TC10D,mechanical
+NA,54,"Barbosa, Miguel",Skoda Fabia,PT,RC2,NA,NA,SS1,mechanical
+NA,58,"Huttunen, Jari",Hyundai i20,FI,RC2,NA,NA,TC10,mechanical
+NA,60,"Meireles, Pedro",Volkswagen Polo,PT,RC2,NA,NA,SS6,fire
+NA,62,"Dias, Antonio",Skoda Fabia,PT,RC2,NA,NA,TC17,mechanical
+NA,63,"Salvi, Diogo",Skoda Fabia,PT,RC2,NA,NA,SS19,mechanical
+NA,72,"Burger, Kees",Skoda Fabia,NL,RC2,NA,NA,TC7C,mechanical
+NA,76,"Teixeira, Francisco",Skoda Fabia,PT,RC2,NA,NA,TC7C,mechanical
+NA,78,"Merceano, Jose",Mitsubishi Lancer Evo X,PT,ASN,NA,NA,SS3,fire
+NA,79,"Oldrati, Enrico",Ford Fiesta,IT,RC4,NA,NA,TC20A,mechanical
+NA,80,"Berdomas, Daniel",Peugeot 208,ES,RC4,NA,NA,TC7C,mechanical
+NA,81,"Nunes, Daniel",Peugeot 208,PT,RC4,NA,NA,TC10D,mechanical
+NA,82,"Bassas, Josep",Peugeot 208,ES,RC4,NA,NA,TC7C,mechanical
+NA,83,"Antunes, Pedro",Peugeot 208,PT,RC4,NA,NA,TC3B,mechanical
+NA,84,"Gonzales Reyes, Jose Maria",Peugeot 208,ES,RC4,NA,NA,TC7C,mechanical
+NA,85,"Francoli Comellas, Sergi",Peugeot 208,ES,RC4,NA,NA,TC7C,mechanical
+NA,87,"Lopes, Hugo",Peugeot 208,PT,RC4,NA,NA,TC10D,mechanical
+NA,88,"Fernandes, Carlos",Peugeot 208,PT,RC4,NA,NA,TC10E,mechanical
+NA,90,"Sousa, Ricardo",Peugeot 208,PT,RC4,NA,NA,TC7C,mechanical
+NA,93,"Moreira, Paulo",Peugeot 208,PT,RC4,NA,NA,TC7C,mechanical
+NA,94,"Garcia Paz, Santiago",Peugeot 208,ES,RC4,NA,NA,TC7C,mechanical

@@ -1,0 +1,40 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,5,"Waldegard, Bjorn",Toyota Celica Twincam Turbo,SE,B,2h 02m,NA,NA,NA
+2,10,"Aaltonen, Rauno",Opel Manta 400,FI,B,+9m,NA,NA,NA
+3,1,"Mikkola, Hannu",Audi quattro A2,FI,B,+23m,NA,NA,NA
+4,7,"Alen, Markku",Lancia Rally 037 evo,FI,B,+1h 06m,NA,NA,NA
+5,2,"Mehta, Shekhar",Nissan 240 RS,KE,B,+1h 33m,NA,NA,NA
+6,17,"Preston Jr, Vic",Lancia Rally 037 evo,KE,B,+2h 12m,NA,NA,NA
+7,9,"Salonen, Timo",Nissan 240 RS,FI,B,+3h 50m,NA,NA,NA
+8,12,"Wittman, Franz",Audi quattro A2,AT,B,+5h 35m,NA,NA,NA
+9,29,"Iwashita, Yoshio",Nissan 240 RS,JP,B,+5h 54m,NA,NA,NA
+10,28,"Criticos, Basil",Audi 80 quattro,KE,A,+7h 51m,NA,NA,NA
+11,37,"Strahl, Bernd",Opel Ascona 400,KE,B,+8h 56m,NA,NA,NA
+12,34,"Fowkes, Anthony",Subaru 4WD,GB,A,+9h 51m,NA,NA,NA
+13,14,"Chomat, Maurice",Citroen Visa,FR,B,+10h 10m,NA,NA,NA
+14,26,"Tundo, Frank",Subaru 4WD,KE,A,+10h 31m,NA,NA,NA
+15,16,"Hellier, John",Peugeot 504 Pickup,KE,B,+10h 42m,NA,NA,NA
+16,24,"Takaoka, Yoshio",Subaru 4WD,JP,A,+11h 08m,NA,NA,NA
+17,56,"Saimbi, Harbhajan",Opel Ascona 400,KE,B,+12h 43m,NA,NA,NA
+18,19,"Wambergue, Philippe",Citroen Visa,FR,B,+14h 36m,NA,NA,NA
+19,48,"Ashman, Jonathan",Subaru 4WD,GB,A,+15h 25m,NA,NA,NA
+20,40,"Miersch, U.",Toyota Corolla,KE,A,+15h 55m,NA,NA,NA
+21,57,"Morris, P.",Toyota Celica,KE,A,+16h 01m,NA,NA,NA
+22,49,"Hirabayashi, Takeshi",Daihatsu Charade Turbo,JP,A,+17h 41m,NA,NA,NA
+23,82,"Miller, Gerald",Range Rover,KE,A,+17h 45m,NA,NA,NA
+24,32,"Pattni, Ashok",Daihatsu Charade,KE,A,+20h 22m,NA,NA,NA
+25,42,"Yoshida, T.",Subaru 4WD,JP,A,+22h 54m,NA,NA,NA
+NA,3,"Mouton, Michele",Audi quattro A2,FR,B,NA,NA,TC11,turbo
+NA,4,"Eklund, Per",Toyota Celica Twincam Turbo,SE,B,NA,NA,TC12,accident
+NA,6,"Frequelin, Guy",Opel Manta 400,FR,B,NA,NA,TC63,engine
+NA,8,"Blomqvist, Stig",Audi quattro A2,SE,B,NA,NA,TC67,engine
+NA,11,"Kirkland, Mike",Nissan 240 RS,KE,B,NA,NA,TC16,driver injury
+NA,15,"Wurtz, Franz",Audi quattro A1,AT,B,NA,NA,TC3,engine
+NA,18,"Munari, Sandro",Toyota Celica Twincam Turbo,IT,B,NA,NA,TC63,alternator
+NA,20,"Shah, Jayant",Nissan 240 RS,KE,B,NA,NA,TC29,engine
+NA,21,"Rio, Christian",Citroen Visa,FR,B,NA,NA,TC29,suspension
+NA,23,"Stohl, Rudolf",Lada VFTS,AT,B,NA,NA,NA,engine
+NA,31,"Duncan, Ian",Daihatsu Charade,KE,A,NA,NA,NA,engine
+NA,69,"Njiru, Patrick",Subaru RX Turbo,KE,A,NA,NA,NA,unknown
+NA,72,"Herrmann, Edgar",Mitsubishi Starion Turbo,DE,A,NA,NA,NA,unknown
+NA,NA,"Iwase, Yasuhiro",Opel Ascona 400,KE,B,NA,NA,TC37,gearbox

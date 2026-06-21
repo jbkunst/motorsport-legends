@@ -1,0 +1,13 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"Waldegard, Bjorn",Toyota Celica Twincam Turbo,SE,B,5h 18m,NA,NA,NA
+2,1,"Mikkola, Hannu",Audi quattro A2,FI,B,+11m,NA,NA,NA
+3,4,"Eklund, Per",Toyota Celica Twincam Turbo,SE,B,+1h 40m,NA,NA,NA
+4,10,"Assef, Samir",Toyota Celica,CI,G4,+6h 51m,NA,NA,NA
+5,7,"Ambrosino, Alain",Peugeot 505,FR,A,+9h 04m,NA,NA,NA
+6,5,"Salim, Eugene",Mitsubishi Lancer 2000 Turbo,CI,B,+10h 50m,NA,NA,NA
+7,46,"Thibault, Claude",Mitsubishi Colt Lancer,CI,G2,+17h 44m,NA,NA,NA
+8,12,"Molinie, Michel",Datsun 160J,CI,G2,+17h 52m,NA,NA,NA
+NA,2,"Lampi, Lasse",Audi quattro A2,FI,B,NA,NA,TC8,NA
+NA,6,"Kankkunen, Juha",Toyota Celica Twincam Turbo,FI,B,NA,NA,TC8,OTL
+NA,9,"Durieu, Jacques",Toyota Celica,CI,G4,NA,NA,TC19,halfshaft
+NA,11,"Choteau, Adolphe",Audi quattro A2,CI,B,NA,NA,TC48,rear transmission

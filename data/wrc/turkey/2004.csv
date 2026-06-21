@@ -1,0 +1,66 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"Loeb, Sebastien",Citroen Xsara WRC,FR,A8,"4h 44m 21,5s",NA,NA,NA
+2,5,"Gronholm, Marcus",Peugeot 307WRC,FI,A8,"+26,2s",NA,NA,NA
+3,1,"Solberg, Petter",Subaru Impreza WRC2004,NO,A8,"+36,7s",NA,NA,NA
+4,4,"Sainz, Carlos",Citroen Xsara WRC,ES,A8,"+2m 49,3s",NA,NA,NA
+5,8,"Duval, Francois",Ford Focus RS WRC 04,BE,A8,"+4m 26,8s",NA,NA,NA
+6,2,"Hirvonen, Mikko",Subaru Impreza WRC2004,FI,A8,"+6m 01,1s",NA,NA,NA
+7,14,"Tuohino, Janne",Ford Focus RS WRC 02,FI,A8,"+11m 44,9s",NA,NA,NA
+8,12,"Warmbold, Antony",Ford Focus RS WRC 02,DE,A8,"+21m 15,3s",NA,NA,NA
+9,16,"Yazici, Serkan",Ford Focus WRC,TU,A8,"+21m 40,8s",NA,NA,NA
+10,10,"Galli, Gianluigi",Mitsubishi Lancer WRC04,IT,A8,"+32m 08,9s",0:40,NA,NA
+11,45,"Andersson, Per-Gunnar",Suzuki Ignis S1600,SE,A6,"+36m 29,4s",0:10,NA,NA
+12,35,"Katajamaki, Kosti",Suzuki Ignis S1600 5d,FI,A6,"+36m 35,8s",NA,NA,NA
+13,33,"Wilks, Guy",Suzuki Ignis S1600 5d,GB,A6,"+37m 27,0s",2:00,NA,NA
+14,40,"Chicherit, Guerlain",Citroen Saxo S1600,FR,A6,"+39m 28,1s",1:00,NA,NA
+15,70,"Dinc, Hakan",Subaru Impreza,TU,N4,"+39m 34,6s",NA,NA,NA
+16,32,"Aava, Urmo",Suzuki Ignis S1600 5d,EE,A6,"+40m 16,1s",4:30,NA,NA
+17,31,"Baldacci, Mirco",Suzuki Ignis S1600 5d,SM,A6,"+42m 05,1s",NA,NA,NA
+18,65,"Ersin, Ali",Mitsubishi Lancer Evo VI,TU,A8,"+48m 44,0s",0:10,NA,NA
+19,73,"Unal, Hamdi",Fiat Palio S1600,TU,A6,"+48m 52,8s",NA,NA,NA
+20,78,"Cukurova, Burak",Renault Clio S1600,TU,A6,"+48m 53,5s",NA,NA,NA
+21,67,"Isik, Volkan",Fiat Punto S1600,TU,A6,"+49m 37,2s",1:00,NA,NA
+22,48,"Rautenbach, Conrad",Ford Puma S1600,ZW,A6,"+51m 00,2s",NA,NA,NA
+23,76,"Genim, Ethem",Renault Clio S1600,TU,A6,"+53m 40,6s",0:10,NA,NA
+24,7,"Martin, Markko",Ford Focus RS WRC 04,EE,A8,"+56m 31,9s",1:30,NA,NA
+25,89,"Avci, Yagiz",Ford Focus,TU,A7,"+1h 04m 00,1s",NA,NA,NA
+26,87,"Bayraktar, Mustafa",Subaru Impreza,TU,N4,"+1h 09m 19,7s",1:00,NA,NA
+27,86,"Diker, Vedat",Mitsubishi Lancer Evo VI,TU,N4,"+1h 14m 31,4s",0:20,NA,NA
+28,50,"Marshall, Oliver",Renault Clio S1600,GB,A6,"+1h 14m 43,6s",1:30,NA,NA
+29,88,"Kara, Fatih",Citroen Saxo,TU,A6,"+1h 18m 09,9s",NA,NA,NA
+30,72,"Errani, Riccardo",Mitsubishi Lancer Evo VI,IT,N4,"+1h 27m 07,4s",3:10,NA,NA
+31,90,"Yurdakul, Nurkan",Citroen Saxo,TU,A6,"+1h 36m 16,3s",0:20,NA,NA
+32,92,"Diker, Mitat",Fiat Palio,TU,A6,"+1h 42m 13,8s",NA,NA,NA
+NA,6,"Rovanpera, Harri",Peugeot 307WRC,FI,A8,NA,NA,SS13,gearbox
+NA,9,"Panizzi, Gilles",Mitsubishi Lancer WRC04,FR,A8,NA,NA,SS4,mechanical
+NA,11,"Carlsson, Daniel",Peugeot 206 WRC,SE,A8,NA,NA,SS2,off road
+NA,13,"Solberg, Henning",Peugeot 206 WRC,NO,A8,NA,NA,SS16,mechanical
+NA,15,"Ginley, Alistair",Subaru Impreza,GB,A8,NA,NA,TC3C,mechanical
+NA,34,"Broccoli, Alessandro",Fiat Punto S1600,SM,A6,NA,NA,SS9,transmission
+NA,36,"Meeke, Kris",Opel Corsa S1600,GB,A6,NA,NA,SS3,mechanical
+NA,37,"Cecchettini, Luca",Renault Clio S1600,IT,A6,NA,NA,SS9,mechanical
+NA,39,"Bernardi, Nicolas",Renault Clio S1600,FR,A6,NA,NA,TC11C,suspension
+NA,41,"Barratt, Natalie",Renault Clio S1600,GB,A6,NA,NA,TC3A,mechanical
+NA,42,"Biasion, Mathieu",Fiat Punto S1600,FR,A6,NA,NA,SS3,mechanical
+NA,43,"Latvala, Jari-Matti",Ford Puma S1600,FI,A6,NA,NA,SS4,mechanical
+NA,44,"Scorcioni, Alan",Fiat Punto S1600,IT,A6,NA,NA,SS6,mechanical
+NA,46,"Pons, Xavier",Fiat Punto S1600,ES,A6,NA,NA,TC9C,engine
+NA,47,"Tabaton, Luca",Fiat Punto S1600,IT,A6,NA,NA,SS3,off road
+NA,49,"Betti, Luca",Peugeot 206 S1600,IT,A6,NA,NA,SS2,mechanical
+NA,51,"Cols, Larry",Renault Clio S1600,BE,A6,NA,NA,TC3A,engine
+NA,62,"Akdilek, Murat",Hyundai Accent WRC3,TU,A8,NA,NA,SS1,off road
+NA,63,"Sarihan, Adnan",Ford Focus WRC,TU,A8,NA,NA,TC11D,mechanical
+NA,64,"Alkoclar, Ender",Hyundai Accent WRC3,TU,A8,NA,NA,SS5,mechanical
+NA,66,"Foss, Markus",Citroen C2 S1600,NO,A6,NA,NA,SS16,mechanical
+NA,68,"Kazaz, Ercan",Citroen C2 S1600,TU,A6,NA,NA,SS9,mechanical
+NA,69,"al-Qassimi, Khalid",Subaru Impreza,AE,N4,NA,NA,TC11A,mechanical
+NA,74,"Besler, Mehmet",Mitsubishi Lancer Evo VIII,TU,N4,NA,NA,TC1A,mechanical
+NA,77,"Oktem, Tarik",Opel Corsa S1600,TU,A6,NA,NA,SS3,off road
+NA,79,"Okyay, Ibrahim",Citroen Saxo S1600,TU,A6,NA,NA,SS6,off road
+NA,80,"Hasbay, Ahmet",Mitsubishi Lancer Evo VI,TU,N4,NA,NA,SS1,off road
+NA,81,"Gulerhan, Celal",Mitsubishi Lancer Evo VII,TU,N4,NA,NA,TC1B,scrutineering
+NA,82,"Weiss, Edith",Skoda Octavia KitCar,DE,A7,NA,NA,SS3,off road
+NA,83,"Burkay, Ahmet",Mitsubishi Lancer Evo VII,TU,N4,NA,NA,TC1B,scrutineering
+NA,84,"Kuru, Burhan",Subaru Impreza,TU,N4,NA,NA,SS4,mechanical
+NA,85,"Ozseyhan, Hasan",Mitsubishi Lancer Evo VIII,TU,N4,NA,NA,TC1B,scrutineering
+NA,91,"Bacioglu, Selim",Fiat Palio,TU,A6,NA,NA,SS16,mechanical

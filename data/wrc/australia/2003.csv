@@ -1,0 +1,50 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,7,"Solberg, Petter",Subaru Impreza WRC2003,NO,A8,"3:32:07,1",NA,NA,NA
+2,18,"Loeb, Sebastien",Citroen Xsara WRC,FR,A8,"+26,6",NA,NA,NA
+3,2,"Burns, Richard",Peugeot 206WRC (2002),GB,A8,"+1:53,0",NA,NA,NA
+4,17,"McRae, Colin",Citroen Xsara WRC,GB,A8,"+2:30,7",NA,NA,NA
+5,19,"Sainz, Carlos",Citroen Xsara WRC,ES,A8,"+2:37,2",NA,NA,NA
+6,8,"Makinen, Tommi",Subaru Impreza WRC2003,FI,A8,"+3:01,5",NA,NA,NA
+7,3,"Rovanpera, Harri",Peugeot 206WRC (2002),FI,A8,"+4:03,9",NA,NA,NA
+8,11,"Loix, Freddy",Hyundai Accent WRC3,BE,A8,"+7:00,7",NA,NA,NA
+9,6,"Hirvonen, Mikko",Ford Focus RS WRC 02,FI,A8,"+7:10,6",NA,NA,NA
+10,5,"Duval, Francois",Ford Focus RS WRC 03,BE,A8,"+7:46,2",NA,NA,NA
+11,15,"Gardemeister, Toni",Skoda Fabia WRC,FI,A8,"+10:10,2",NA,NA,NA
+12,14,"Auriol, Didier",Skoda Fabia WRC,FR,A8,"+11:08,1",NA,NA,NA
+13,10,"Schwarz, Armin",Hyundai Accent WRC3,DE,A8,"+14:14,4",NA,NA,NA
+14,21,"Warmbold, Antony",Ford Focus RS WRC 02,DE,A8,"+18:30,1",NA,NA,NA
+15,55,"Rowe, Martin",Subaru Impreza WRX,GB,N4,"+22:10,0",NA,NA,NA
+16,105,"Herridge, Dean",Subaru Impreza WRX,AU,N4,"+22:41,2",NA,NA,NA
+17,51,"Singh, Karamjit",Proton Pert,MY,N4,"+24:07,0",NA,NA,NA
+18,60,"McShea, Niall",Mitsubishi Lancer Evo VI,GB,N4,"+24:49,0",NA,NA,NA
+19,65,"Blomqvist, Stig",Subaru Impreza WRX,SE,N4,"+31:48,4",NA,NA,NA
+20,52,"Sola, Daniel",Mitsubishi Carisma GT Evo7,ES,N4,"+32:30,5",3:00,NA,NA
+21,108,"Lintott, Martin",Mitsubishi Lancer Evo VII,AU,N4,"+32:53,6",NA,NA,NA
+22,107,"West, Chris",Subaru Impreza WRX,NZ,N4,"+33:08,2",NA,NA,NA
+23,116,"Markovic, Bradley",Subaru Impreza WRX,AU,N4,"+47:07,7",NA,NA,NA
+24,110,"Thompson, Michael",Subaru Impreza WRX,AU,N4,"+47:27,4",NA,NA,NA
+25,114,"Marden, Jim",Subaru Impreza WRX,AU,N4,"+49:29,2",NA,NA,NA
+26,64,"Roman, Joakim",Mitsubishi Lancer Evo VI,SE,N4,"+49:52,8",0:30,NA,NA
+27,112,"Haybittle, Mark",Mitsubishi Lancer Evo VI,GB,N4,"+53:08,2",4:00,NA,NA
+28,113,"Endo, Michiyasu",Subaru Impreza WRX,JP,N4,"+1:07:06,1",NA,NA,NA
+29,115,"Kobayashi, Wakujiro",Mitsubishi Lancer Evo VII,JP,N4,"+1:15:05,8",NA,NA,NA
+30,111,"Katsuta, Norihiko",Subaru Impreza WRX,JP,N4,"+1:15:22,9",2:40,NA,NA
+31,119,"Takeuchi, Kunio",Subaru Impreza WRX,JP,N4,"+1:25:43,6",0:50,NA,NA
+32,122,"Tenni, Jarrad",Subaru Impreza WRX,AU,N4,"+1:41:47,1",NA,NA,NA
+NA,1,"Gronholm, Marcus",Peugeot 206WRC (2002),FI,A8,NA,NA,TC9B,"Got stuck, then withdrew (too far behind)"
+NA,4,"Martin, Markko",Ford Focus RS WRC 03,EE,A8,NA,NA,TC20B,"Rock found on car, interpreted as illegal ballast"
+NA,23,"Benik, Balazs",Ford Focus WRC 00,HU,A8,NA,NA,SS3,off road
+NA,53,"Ferreyros, Ramon",Mitsubishi Lancer Evo VI,PE,N4,NA,NA,SS4,mechanical
+NA,54,"Arai, Toshihiro",Subaru Impreza WRX,JP,N4,NA,NA,SS14,mechanical
+NA,58,"Ligato, Marcos",Mitsubishi Lancer Evo VII,AR,N4,NA,NA,TC10D,mechanical
+NA,59,"Marrini, Stefano",Mitsubishi Lancer Evo VI,IT,N4,NA,NA,TC10B,unknown
+NA,72,"Aur, Constantin",Mitsubishi Lancer Evo VII,RO,N4,NA,NA,TC7C,mechanical
+NA,101,"Crocker, Cody",Subaru Impreza WRX,AU,N4,NA,NA,SS8,mechanical
+NA,102,"Jean-Joseph, Simon",Subaru Impreza WRX,FR,N4,NA,NA,SS8,mechanical
+NA,103,"Kangas, Juha",Mitsubishi Lancer Evo VII,FI,N4,NA,NA,SS9,off road
+NA,104,"Ordynski, Ed",Mitsubishi Lancer Evo VII,AU,N4,NA,NA,SS19,off road
+NA,106,"Lowndes, Spencer",Mitsubishi Lancer Evo VII,AU,N4,NA,NA,SS7,mechanical
+NA,109,"Challis, Tolley",Mitsubishi Lancer Evo V,AU,A8,NA,NA,SS6,mechanical
+NA,117,"Whyatt, Robert",Mitsubishi Lancer Evo V,AU,N4,NA,NA,SS15,mechanical
+NA,118,"Kendall, David",Mitsubishi Lancer Evo IV,AU,A8,NA,NA,SS6,mechanical
+NA,121,"Seita, Keiji",Honda Civic,JP,N2,NA,NA,SS24,mechanical

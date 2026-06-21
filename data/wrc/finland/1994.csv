@@ -1,0 +1,86 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,7,"Makinen, Tommi",Ford Escort RS Cosworth,FI,A8,4h 33m 44s,NA,NA,NA
+2,4,"Auriol, Didier",Toyota Celica Turbo 4WD (ST185),FR,A,+22s,NA,NA,NA
+3,2,"Sainz, Carlos",Subaru Impreza 555,ES,A,+1m 04s,NA,NA,NA
+4,5,"Delecour, Francois",Ford Escort RS Cosworth,FR,A,+5m 38s,NA,NA,NA
+5,12,"Gronholm, Marcus",Toyota Celica Turbo 4WD (ST185),FI,A,+7m 11s,NA,NA,NA
+6,22,"Lampi, Lasse",Mitsubishi Galant VR-4,FI,A,+12m 03s,NA,NA,NA
+7,25,"Radstrom, Thomas",Toyota Celica Turbo 4WD (ST185),SE,A,+16m 25s,NA,NA,NA
+8,15,"Kytolehto, Jarmo",Mitsubishi Lancer Evo I,FI,N,+18m 11s,NA,NA,NA
+9,1,"Kankkunen, Juha",Toyota Celica Turbo 4WD (ST185),FI,A,+19m 45s,NA,NA,NA
+10,36,"Harkki, Olli",Mitsubishi Lancer Evo I,FI,N,+24m 53s,NA,NA,NA
+11,35,"Hagstrom, Pasi",Toyota Celica Turbo 4WD (ST185),FI,A,+27m 08s,NA,NA,NA
+12,30,"Rovanpera, Harri",Mitsubishi Galant VR-4,FI,N,+30m 00s,NA,NA,NA
+13,29,"Ahvenlammi, Jouni",Toyota Celica Turbo 4WD (ST185),FI,N,+32m 17s,NA,NA,NA
+14,18,"de Mevius, Gregoire",Opel Astra,BE,A,+33m 31s,NA,NA,NA
+15,20,"McRae, Alister",Nissan Sunny,GB,A,+35m 05s,NA,NA,NA
+16,32,"Jurvanen, Eija",Ford Escort RS Cosworth,FI,A,+35m 15s,NA,NA,NA
+17,52,"Utria, Mikael",Toyota Celica Turbo 4WD (ST185),FI,N,+42m 16s,NA,NA,NA
+18,9,"Sibera, Pavel",Skoda Favorit 136L,CZ,A,+44m 10s,NA,NA,NA
+19,10,"Triner, Emil",Skoda Favorit 136L,CZ,A,+45m 27s,NA,NA,NA
+20,47,"Plosila, Panu",Subaru Legacy RS,FI,N,+45m 28s,NA,NA,NA
+21,23,"Loix, Freddy",Opel Astra,BE,A,+48m 14s,NA,NA,NA
+22,43,"Nikonenko, Aleksandr",Lada Samara,RU,A,+52m 50s,NA,NA,NA
+23,50,"Saikkonen, Jukka",Ford Sierra Cosworth 4x4,FI,N,+52m 55s,NA,NA,NA
+24,55,"Laaksomaa, Pasi",Mitsubishi Galant VR-4,FI,N,+53m 02s,NA,NA,NA
+25,60,"Ipatti, Marko",Volkswagen Golf GTi,FI,A,+54m 43s,NA,NA,NA
+26,61,"Laakso, Jorma",Volkswagen Golf GTi,FI,N,+57m 19s,NA,NA,NA
+27,63,"Siukola, Hannu",Skoda Favorit 136L,FI,A,+57m 57s,NA,NA,NA
+28,37,"Viita, Jari",Ford Sierra Cosworth 4x4,FI,A,+59m 04s,NA,NA,NA
+29,33,"Holderied, Isolde",Mitsubishi Lancer Evo I,DE,N,+1h 00m 18s,NA,NA,NA
+30,54,"Muhonen, Seppo",Nissan Sunny GTI-R,FI,N,+1h 01m 37s,NA,NA,NA
+31,48,'Julli Jumissarov',Toyota Celica Turbo 4WD (ST185),FI,N,+1h 02m 22s,NA,NA,NA
+32,66,"Makkonen, Jouko",Opel Kadett GSI,FI,N,+1h 06m 58s,NA,NA,NA
+33,53,"Vitikainen, Pekka",Mitsubishi Galant VR-4,FI,N,+1h 09m 41s,NA,NA,NA
+34,80,"Hakkarainen, Jori",Skoda Favorit 136L,FI,A,+1h 37m 22s,NA,NA,NA
+35,79,"Hakala, Vesa",Volkswagen Golf GTi,FI,N,+1h 38m 22s,NA,NA,NA
+36,88,"Kent, Adam",Peugeot 106,GB,N,+1h 51m 39s,NA,NA,NA
+37,74,"Harper, Iain",Vauxhall Nova,GB,A,+2h 02m 37s,NA,NA,NA
+38,89,"Beavan, Christopher",Skoda Favorit 136L,GB,N,+2h 04m 19s,NA,NA,NA
+39,78,"Hytonen, Kari",Lada 2107,FI,A,+2h 08m 15s,NA,NA,NA
+40,73,"Grokhovskaja, Galina",Lada Samara,RU,A,+2h 23m 03s,NA,NA,NA
+41,86,"Derreumaux, Denys",Peugeot 205 Rallye,FR,N,+2h 39m 59s,NA,NA,NA
+NA,3,"Vatanen, Ari",Ford Escort RS Cosworth,FI,A,NA,NA,SS2,accident
+NA,8,"Thiry, Bruno",Ford Escort RS Cosworth,BE,A,NA,NA,SS18,engine
+NA,11,"Baumschlager, Raimund",Ford Escort RS Cosworth,AT,A,NA,NA,SS2,accident
+NA,13,"Lindholm, Sebastian",Ford Escort RS Cosworth,FI,A,NA,NA,SS4,accident
+NA,14,"Sohlberg, Mika",Ford Escort RS Cosworth,FI,A,NA,NA,SS17,steering
+NA,16,"Recalde, Jorge",Mitsubishi Lancer Evo I,AR,N,NA,NA,SS1,accident
+NA,17,"Jansson, Tomas",Toyota Celica GT-Four (ST205),SE,N,NA,NA,SS32,accident
+NA,19,"Costas, Apostolou",Renault Clio,GR,N,NA,NA,SS3,accident
+NA,21,"Puhakka, Jouko",Mitsubishi Lancer Evo,FI,N,NA,NA,SS17,accident
+NA,24,"Mokkonen, Ari",Nissan Sunny,FI,A,NA,NA,SS5,gearbox
+NA,26,"Vierimaa, Sakari",Ford Sierra Cosworth 4x4,FI,A,NA,NA,SS2/3,mechanical
+NA,27,"Saarenpaa, Esa",Audi Coupe S2,FI,A,NA,NA,SS28,sump
+NA,28,"Laukkanen, Tapio",Mitsubishi Lancer Evo,FI,N,NA,NA,SS24,mechanical
+NA,31,"Korhonen, Mika",Mitsubishi Galant VR-4,FI,N,NA,NA,TC28B,engine mountings
+NA,34,"Blomqvist, Gert",Nissan Sunny GTI-R,SE,N,NA,NA,SS1/2,engine
+NA,38,"Isolehto, Kari",Renault Clio Williams,FI,A,NA,NA,SS5,engine
+NA,39,"Liflander, Jukka",Peugeot 309 GTI,FI,A,NA,NA,TC15C,mechanical
+NA,40,"Ramanen, Harri",Opel Kadett GSi,FI,A,NA,NA,SS1,cambelt
+NA,41,"Aliasov, Sergei",Lada Samara,RU,A,NA,NA,SS13,unknown
+NA,42,"Simpanen, Seppo",Audi Coupe S2,FI,A,NA,NA,SS28,unknown
+NA,44,"Palmgren, Jorma",Ford Sierra Cosworth 4x4,FI,A,NA,NA,SS4/5,engine
+NA,46,"Miettinen, Juha",Mitsubishi Galant VR-4,FI,N,NA,NA,SS2,engine
+NA,51,"Niemi, Kim",Mazda 323,FI,N,NA,NA,SS7,gearbox
+NA,56,"Capre, Gerard",Nissan Sunny GTI-R,CH,N,NA,NA,TC15B,gearbox
+NA,57,"Tourov, Vladimir",Lancia Delta HF Integrale,RU,N,NA,NA,SS4,accident
+NA,58,"Sundell, Sami",Opel Corsa GSi,FI,A,NA,NA,SS21/22,brakes
+NA,59,"Saastamoinen, Kari",Opel Kadett GSI,FI,A,NA,NA,SS16/17,gearbox
+NA,62,"Ramanen, Marko",Opel Kadett GSI,FI,N,NA,NA,SS18,accident
+NA,64,"Lahti, Teijo",Peugeot 205 GTI,FI,A,NA,NA,SS18,accident
+NA,65,"Tuominen, Matti",Opel Kadett GSI,FI,N,NA,NA,SS4,gearbox
+NA,67,"Niiles, Ari",Opel Kadett GSI,FI,N,NA,NA,SS20,fire
+NA,68,"Korhonen, Hannu",Volkswagen Golf GTi,FI,N,NA,NA,SS28,sump
+NA,69,"Laine, Marko",Alfa Romeo 33 4x4,FI,A,NA,NA,SS5,camshaft
+NA,70,"Deledda, Santo",Peugeot 309 GTI,IT,A,NA,NA,TC7C,mechanical
+NA,71,"Mayr, Siegfried",Opel Kadett GSI,DE,N,NA,NA,SS16/17,gearbox
+NA,72,"Curti, Maurizio",Fiat Uno Turbo,IT,A,NA,NA,TC15C,electrics
+NA,75,"Koskinen, Ensio",Peugeot 205 GTI,FI,A,NA,NA,SS5,unknown
+NA,76,"Bigler, Serge",Mazda 323,CH,N,NA,NA,SS28,accident
+NA,77,"Pollet, Patrick",Skoda Favorit 136L,FR,A,NA,NA,SS2,engine
+NA,81,"Nyman, Pekka",Skoda Favorit 136L,FI,A,NA,NA,SS9,engine
+NA,82,"Kahlfuss, Michael",Trabant P601,DE,A,NA,NA,SS19,accident
+NA,83,"Victor, Armand",Opel Kadett GSI,LU,N,NA,NA,SS28,engine
+NA,84,"Sagnard, Richard",Peugeot 205 Rallye,FR,N,NA,NA,SS31,engine
+NA,85,"Lansikorpi, Juhani",Suzuki Swift GTI,FI,N,NA,NA,SS7,engine

@@ -1,0 +1,31 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,4,"Auriol, Didier",Lancia Delta HF Integrale,FR,A8,6h 54m 20s,NA,NA,NA
+2,2,"Sainz, Carlos",Toyota Celica Turbo 4WD (ST185),ES,A,+2m 05s,NA,NA,NA
+3,1,"Kankkunen, Juha",Lancia Delta HF Integrale,FI,A,+2m 57s,NA,NA,NA
+4,7,"Delecour, Francois",Ford Sierra Cosworth 4x4,FR,A,+4m 42s,NA,NA,NA
+5,11,"Bugalski, Philippe",Lancia Delta HF Integrale,FR,A,+10m 12s,NA,NA,NA
+6,9,"Salonen, Timo",Mitsubishi Galant VR-4,FI,A,+11m 01s,NA,NA,NA
+7,8,"Chatriot, Francois",Nissan Sunny GTI-R,FR,A,+16m 27s,NA,NA,NA
+8,3,"Biasion, Massimo",Ford Sierra Cosworth 4x4,IT,A,+16m 58s,NA,NA,NA
+9,12,"Makinen, Tommi",Nissan Sunny GTI-R,FI,A,+18m 38s,NA,NA,NA
+10,19,"Spiliotis, Christophe",Ford Sierra Cosworth 4x4,MC,N,+48m 21s,NA,NA,NA
+11,63,"Colbrelli, Lorenzo",Ford Sierra Cosworth 4x4,IT,N,+50m 00s,NA,NA,NA
+12,26,"Ayme, Jean-Paul",Ford Sierra Cosworth 4x4,FR,N,+54m 50s,NA,NA,NA
+13,27,"Bos, Pierre",Ford Sierra Cosworth 4x4,FR,A,+56m 08s,NA,NA,NA
+14,32,"Beuzelin, Jean-Manuel",Peugeot 309 GTI,FR,A,+59m 55s,NA,NA,NA
+15,17,"Bedini, Piergiorgio",Lancia Delta HF Integrale,IT,N,+1h 02m 00s,NA,NA,NA
+16,33,"Venturi, Jean-Michel",Lancia Delta HF Integrale 16v,FR,N,+1h 08m 26s,NA,NA,NA
+17,36,"Turiani, Auguste",Ford Sierra Cosworth 4x4,MC,N,+1h 14m 10s,NA,NA,NA
+18,20,"Sibera, Pavel",Skoda Favorit 136L,CZ,A,+1h 18m 12s,NA,NA,NA
+19,56,"Holderied, Isolde",Mitsubishi Galant VR-4,DE,N,+1h 22m 45s,NA,NA,NA
+20,42,"Postillon, Patrick",Ford Sierra Cosworth 4x4,FR,N,+1h 23m 06s,NA,NA,NA
+30,70,"Pellerey, Alain",Citroen AX,FR,N,NA,NA,NA,NA
+36,37,"Vossen, Henk",Ford Sierra Cosworth 4x4,NL,N,NA,NA,NA,NA
+76,96,"de Fresquet, Elizabeth",Trabant P601,FR,A,NA,NA,NA,NA
+NA,5,"Eriksson, Kenneth",Mitsubishi Galant VR-4,SE,A,NA,NA,SS3,steering
+NA,6,"Schwarz, Armin",Toyota Celica Turbo 4WD (ST185),DE,A,NA,NA,SS17,accident
+NA,10,"Alen, Markku",Toyota Celica Turbo 4WD (ST185),FI,A,NA,NA,SS3,accident
+NA,21,"Manfrinato, Giovanni",Ford Sierra Cosworth 4x4,IT,N,NA,NA,SS17,engine
+NA,23,"Magaud, Patrick",Renault Clio,FR,A,NA,NA,SS9,engine
+NA,24,"Balas, Bertrand",Lancia Delta HF Integrale,FR,N,NA,NA,SS6,electrics
+NA,28,"Depping, Dieter",Ford Sierra Cosworth 4x4,DE,N,NA,NA,SS16,accident

@@ -1,0 +1,38 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"Blomqvist, Stig",Saab 99 Turbo,SE,G4,6h 34m 49s,NA,NA,NA
+2,1,"Waldegard, Bjorn",Ford Escort RS,SE,G4,+1m 20s,NA,NA,NA
+3,5,"Airikkala, Pentti",Vauxhall Chevette 2300,FI,G4,+4m 42s,NA,NA,NA
+4,2,"Alen, Markku",Fiat 131 Abarth,FI,G4,+5m 53s,NA,NA,NA
+5,4,"Mikkola, Hannu",Ford Escort RS,FI,G4,+10m 30s,NA,NA,NA
+6,14,"Johansson, Bjorn",Opel Kadett Rallye,SE,G2,+21m 18s,NA,NA,NA
+7,15,"Stromberg, Ola",Saab 99EMS,SE,G2,+31m 06s,NA,NA,NA
+8,37,"Carlsson, Lars",Ford Escort RS,SE,G1,+35m 38s,NA,NA,NA
+9,12,"Haugland, John",Datsun 160J,NO,G2,+36m 36s,NA,NA,NA
+10,19,"Neby, Sven-Inge",Volvo 142,SE,G2,+37m 48s,NA,NA,NA
+11,NA,"Sjunning, Bjorn",Opel Kadett,SE,G2,+46m 14s,NA,NA,NA
+12,NA,"Nilsson, Bengt",Lada 1500,SE,G1,+48m 18s,NA,NA,NA
+13,NA,"Johansson, Stig",Opel Kadett,SE,G2,+49m 42s,NA,NA,NA
+14,NA,"Melin, Kjell",Volkswagen Golf GTi,SE,G1,+53m 13s,NA,NA,NA
+15,NA,"Moller, Thord",Opel Kadett,SE,G1,+54m 46s,NA,NA,NA
+16,NA,"Jonsson, Mats",Volvo 142,SE,G2,+56m 33s,NA,NA,NA
+17,NA,"Olsson, Lars-Ove",Volvo 142,SE,G2,+57m 22s,NA,NA,NA
+18,NA,"Borjesson, Ruben",Lada 1500,SE,G1,+58m 05s,NA,NA,NA
+19,NA,"Olsson, Jan-Olov",Volvo 142,SE,G2,+1h 00m 04s,NA,NA,NA
+20,NA,"Brundza, Stasis",Lada 2103,SU,G2,+1h 01m 37s,NA,NA,NA
+21,NA,"Sonegard, Jan",BMW 2002,SE,NA,+1h 09m 06s,NA,NA,NA
+22,NA,"Elizarov, Nikolaj",Lada 2103,SU,G2,+1h 17m 57s,NA,NA,NA
+23,NA,"Eriksson, Anders",Volkswagen Golf GTi,SE,NA,+1h 31m 19s,NA,NA,NA
+24,NA,"Johansson, Knut",Saab 96 V4,SE,NA,+1h 37m 50s,NA,NA,NA
+25,NA,"Andersson, Bengt",Simca 1100,SE,NA,+1h 38m 24s,NA,NA,NA
+28,NA,"Trana, Tom",Peugeot 504,SE,Dsl,+1h 52m 00s,NA,NA,NA
+NA,6,"Vatanen, Ari",Ford Escort RS,FI,G4,NA,NA,SS15,gead gasket
+NA,7,"Kullang, Anders",Opel Kadett GT/E,SE,G2,NA,NA,SS23,engine
+NA,8,"Eklund, Per",Saab 99 Turbo,SE,G2,NA,NA,SS23,engine
+NA,9,"Kallstrom, Harry",Datsun 160J,SE,G2,NA,NA,SS1,engine
+NA,10,"Danielsson, Bror",Opel Kadett GT/E,SE,G2,NA,NA,SS36,wheel studs
+NA,11,"Asterhag, Leif",Toyota Celica,SE,G2,NA,NA,SS10,head gasket
+NA,13,"Therier, Jean-Luc",Toyota Celica,FR,G2,NA,NA,SS11,accident
+NA,NA,"Aaby, Erik",Volvo 142,NO,NA,NA,NA,NA,engine
+NA,NA,"Carlsson, Ingvar",BMW 320,SE,NA,NA,NA,NA,transmission
+NA,NA,"Nilsson, Soren",Opel Kadett GT/E,SE,NA,NA,NA,NA,cooling
+NA,NA,Wallinder,Opel Kadett GT/E,NA,NA,NA,NA,NA,engine

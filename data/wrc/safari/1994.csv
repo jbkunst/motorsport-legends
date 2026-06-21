@@ -1,0 +1,16 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"Duncan, Ian",Toyota Celica Turbo 4WD (ST185),KE,A8,20h 49m,NA,NA,NA
+2,4,"Shinozuka, Kenjiro",Mitsubishi Lancer Evo I,JP,A,+25m,NA,NA,NA
+3,2,"Auriol, Didier",Toyota Celica Turbo 4WD (ST185),FR,A,+1h 10m,NA,NA,NA
+4,5,"Njiru, Patrick",Subaru Impreza WRX,KE,N,+2h 41m,NA,NA,NA
+5,7,"Burns, Richard",Subaru Impreza WRX,GB,N,+2h 51m,NA,NA,NA
+6,11,"Stohl, Rudolf",Audi Coupe S2,AT,A,+5h 41m,NA,NA,NA
+7,25,"Hirji, Karim",Toyota Celica GT-4 (ST165),UG,A,+5h 47m,NA,NA,NA
+8,17,"Aslam, Sammy",Volkswagen Golf GTi,KE,A,+6h 14m,NA,NA,NA
+9,21,"Hellier, Rob",Mitsubishi Galant VR-4,KE,A,+7h 15m,NA,NA,NA
+10,15,"Anwar, Azar",Subaru Legacy Estate,KE,A,+9h 05m,NA,NA,NA
+NA,1,"Kankkunen, Juha",Toyota Celica Turbo 4WD (ST185),FI,A,NA,NA,TC24,accident
+NA,6,"Fujimoto, Yoshio",Toyota Celica Turbo 4WD (ST185),JP,A,NA,NA,TC15,codriver injury
+NA,8,"Toroitich, Jonathan",Toyota Celica Turbo 4WD (ST185),KE,A,NA,NA,TC45,steering arm
+NA,9,"Singh, Satwant",Toyota Celica Turbo 4WD (ST185),ZM,A,NA,NA,TC18,cambelt
+NA,10,"Iwase, Yasuhiro",Toyota Celica Turbo 4WD (ST185),KE,N,NA,NA,TC2,fuel pump

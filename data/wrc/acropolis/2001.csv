@@ -1,0 +1,111 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,4,"McRae, Colin",Ford Focus RS WRC 01,GB,A8,"4h 19m 01,9s",NA,NA,NA
+2,6,"Solberg, Petter",Subaru Impreza WRC2001,NO,A8,"+49,0s",NA,NA,NA
+3,16,"Rovanpera, Harri",Peugeot 206WRC (2001),FI,A8,"+1m 35,7s",NA,NA,NA
+4,7,"Makinen, Tommi",Mitsubishi Lancer Evo 6.5,FI,A8,"+2m 15,3s",0:10,NA,NA
+5,17,"Delecour, Francois",Ford Focus RS WRC 01,FR,A8,"+2m 35,4s",NA,NA,NA
+6,14,"Bugalski, Philippe",Citroen Xsara WRC,FR,A8,"+4m 00,2s",NA,NA,NA
+7,11,"Schwarz, Armin",Skoda Octavia WRC Evo2,DE,A8,"+5m 56,7s",NA,NA,NA
+8,30,"Jean-Joseph, Simon",Peugeot 206 WRC,FR,A8,"+7m 27,1s",NA,NA,NA
+9,8,"Loix, Freddy",Mitsubishi Carisma GT,BE,A8,"+8m 00,9s",2:10,NA,NA
+10,12,"Thiry, Bruno",Skoda Octavia WRC Evo2,BE,A8,"+8m 35,7s",NA,NA,NA
+11,24,"Lundgaard, Henrik",Toyota Corolla WRC,DK,A8,"+15m 26,4s",NA,NA,NA
+12,31,"Bakhashab, Abdullah",Toyota Corolla WRC,SA,A8,"+15m 37,5s",NA,NA,NA
+13,32,"Pozzo, Gabriel",Mitsubishi Lancer Evo VI,AR,N4,"+21m 16,0s",NA,NA,NA
+14,33,"Trelles, Gustavo",Mitsubishi Lancer Evo VI,UY,N4,"+22m 12,7s",NA,NA,NA
+15,10,"McRae, Alister",Hyundai Accent WRC2,GB,A8,"+25m 18,8s",0:50,NA,NA
+16,35,"Ligato, Marcos",Mitsubishi Lancer Evo VI,AR,N4,"+29m 47,9s",NA,NA,NA
+17,36,"Baldacci, Mirco",Mitsubishi Lancer Evo VI,SM,N4,"+35m 50,3s",1:20,NA,NA
+18,82,"Hatzitsopanis, Panagiotis",Subaru Impreza WRX,GR,N4,"+36m 09,0s",3:00,NA,NA
+19,53,"Loeb, Sebastien",Citroen Saxo S1600,FR,A6,"+41m 50,0s",3:20,NA,NA
+20,52,"Dallavilla, Andrea",Fiat Punto S1600,IT,A6,"+44m 25,9s",0:50,NA,NA
+21,88,"Drivakos, Dimitris",Mitsubishi Lancer Evo V,GR,N4,"+46m 31,1s",0:10,NA,NA
+22,22,"Papadimitriou, Ioannis",Peugeot 206 WRC,GR,A8,"+47m 36,5s",7:00,NA,NA
+23,83,"Maniatopoulos, Alexandros",Renault Megane,GR,A7,"+49m 13,5s",0:20,NA,NA
+24,63,"Stenshorne, Martin",Ford Puma S1600,NO,A6,"+52m 20,7s",NA,NA,NA
+25,90,"Panagiotounis, Lazaros",Mitsubishi Lancer Evo VI,GR,N4,"+54m 06,4s",0:40,NA,NA
+26,57,"Robert, Cedric",Peugeot 206 S1600,FR,A6,"+56m 20,1s",0:40,NA,NA
+27,79,"Cavenagh, Alastair",Subaru Impreza,KE,A8,"+56m 39,7s",1:40,NA,NA
+28,51,"Magaud, Patrick",Ford Puma S1600,FR,A6,"+56m 39,8s",0:10,NA,NA
+29,85,"Moschoutis, Pavlos",Mitsubishi Lancer Evo,GR,N4,"+59m 33,4s",0:40,NA,NA
+30,95,"Tsadaris, Nikos",Citroen Saxo,GR,A6,"+1h 00m 22,4s",0:10,NA,NA
+31,68,"Ceccato, Massimo",Fiat Punto S1600,IT,A6,"+1h 01m 12,0s",0:10,NA,NA
+32,91,"Nioras, Grigoris",Subaru Impreza WRX,GR,N4,"+1h 01m 58,5s",0:10,NA,NA
+33,62,"Valimaki, Jussi",Peugeot 206 S1600,FI,A6,"+1h 02m 01,7s",0:10,NA,NA
+34,107,"Skaltsas, Sotiris",Nissan Micra,GR,A5,"+1h 12m 29,9s",NA,NA,NA
+35,38,"Barratt, Natalie",Mitsubishi Lancer Evo VI,GB,N4,"+1h 13m 25,0s",NA,NA,NA
+36,72,"Mazlan, Saladin",Ford Puma S1600,MY,A6,"+1h 14m 04,8s",0:10,NA,NA
+37,96,"Zivas, Angelos",Toyota Corolla,GR,A6,"+1h 17m 50,8s",1:20,NA,NA
+38,111,"Margaronis, Ioannis",Hyundai Accent,GR,A6,"+1h 25m 52,5s",NA,NA,NA
+39,110,"Gallo, Evangelos",Peugeot 106,GR,A6,"+1h 26m 54,3s",NA,NA,NA
+40,120,"Ladogiannis, Grigoris",Fiat Seicento Sporting,GR,A5,"+1h 34m 46,8s",NA,NA,NA
+41,128,"Gazetas, Dionissis",Toyota Corolla,GR,A6,"+1h 36m 15,5s",0:10,NA,NA
+42,109,"Vomvilas, George",Hyundai Accent,GR,A6,"+1h 40m 20,9s",NA,NA,NA
+43,122,"Tsapalos, Spyros",Hyundai Accent,GR,A6,"+1h 53m 14,2s",NA,NA,NA
+44,131,"Kastrinakis, Emmanouel",Nissan Micra,GR,A5,"+1h 56m 27,1s",0:10,NA,NA
+45,119,"Tsiontzios, Antonis",Toyota Starlet,GR,A5,"+2h 00m 19,5s",0:10,NA,NA
+46,118,"Stathaki, Christina Myrto",Toyota Corolla,GR,A6,"+2h 03m 44,6s",0:10,NA,NA
+47,121,'Iraklis',Nissan Sunny,GR,A7,"+2h 51m 24,9s",2:10,NA,NA
+NA,1,"Gronholm, Marcus",Peugeot 206WRC (2001),FI,A8,NA,NA,SS3,no oil
+NA,2,"Auriol, Didier",Peugeot 206WRC (2001),FR,A8,NA,NA,SS1,clutch
+NA,3,"Sainz, Carlos",Ford Focus RS WRC 01,ES,A8,NA,NA,SS20,engine
+NA,5,"Burns, Richard",Subaru Impreza WRC2001,GB,A8,NA,NA,SS19,transmission
+NA,9,"Eriksson, Kenneth",Hyundai Accent WRC2,SE,A8,NA,NA,TC9,turbo
+NA,15,"Radstrom, Thomas",Citroen Xsara WRC,SE,A8,NA,NA,SS6,electrical
+NA,18,"Martin, Markko",Subaru Impreza WRC2001,EE,A8,NA,NA,SS7,suspension damage
+NA,20,"Arai, Toshihiro",Subaru Impreza WRC2001,JP,A8,NA,NA,SS4,fire
+NA,21,"Vovos, Armodios",Subaru Impreza WRC2000,GR,A8,NA,NA,SS11,off road
+NA,23,"Hagstrom, Pasi",Toyota Corolla WRC,FI,A8,NA,NA,TC17,unknown
+NA,25,"Richelmi, Jean-Pierre",Peugeot 206 WRC,MC,A8,NA,NA,SS6,mechanical
+NA,26,"al-Wahaibi, Hamed",Subaru Impreza WRC2000,OM,A8,NA,NA,SS13,punctures
+NA,27,"Kahle, Matthias",Seat Cordoba WRC Evo2,DE,A8,NA,NA,SS18,mechanical
+NA,28,"Panizzi, Gilles",Peugeot 206 WRC,FR,A8,NA,NA,TC15,OTL
+NA,34,"Blomqvist, Stig",Mitsubishi Lancer Evo VI,SE,N4,NA,NA,SS6,mechanical
+NA,37,"Heath, Nigel",Subaru Impreza,GB,A8,NA,NA,SS8,mechanical
+NA,50,"Stohl, Manfred",Fiat Punto S1600,AT,A6,NA,NA,pre-start,accident
+NA,54,"Cols, Larry",Peugeot 206 S1600,BE,A6,NA,NA,SS15,mechanical
+NA,55,"McShea, Niall",Ford Puma S1600,GB,A6,NA,NA,SS15,mechanical
+NA,56,"Basso, Giandomenico",Fiat Punto S1600,IT,A6,NA,NA,SS2,mechanical
+NA,58,"Vallejo, Sergio",Fiat Punto S1600,ES,A6,NA,NA,SS1,mechanical
+NA,59,"Rousselot, Benoit",Ford Puma S1600,FR,A6,NA,NA,SS11,mechanical
+NA,60,"Henny, Cyril",Citroen Saxo S1600,CH,A6,NA,NA,SS4,suspension
+NA,61,"Fontana, Corrado",Peugeot 206 S1600,IT,A6,NA,NA,SS8,mechanical
+NA,64,"Macaluso, Massimo",Fiat Punto S1600,IT,A6,NA,NA,SS3,mechanical
+NA,65,"Galanti, Alejandro",Ford Puma S1600,PY,A6,NA,NA,SS8,mechanical
+NA,67,"Llovera, Albert",Fiat Punto S1600,AD,A6,NA,NA,SS1,mechanical
+NA,69,"Bernardi, Nicolas",Peugeot 206 S1600,FR,A6,NA,NA,SS18,unknown
+NA,71,"Duval, Francois",Ford Puma S1600,BE,A6,NA,NA,TC8,OTL
+NA,73,"Chemin, Christian",Fiat Punto S1600,IT,A6,NA,NA,SS2,mechanical
+NA,76,"Kresta, Roman",Ford Focus WRC,CZ,A8,NA,NA,SS3,mechanical
+NA,77,"Recordati, Giovanni",Toyota Corolla WRC,IT,A8,NA,NA,SS1,mechanical
+NA,78,"Lloyd, John",Subaru Impreza,GB,A8,NA,NA,SS7,unknown
+NA,80,"Warmbold, Antony",Toyota Celica GT-Four (ST205),DE,A8,NA,NA,SS15,unknown
+NA,81,"Apostolou, Konstantinos",Subaru Impreza WRX,GR,N4,NA,NA,SS3,off road
+NA,84,"Colsoul, Bob",Mitsubishi Lancer Evo,BE,N4,NA,NA,TC13D,OTL
+NA,87,"Vazakas, Dimitris",Mitsubishi Lancer Evo,GR,N4,NA,NA,SS3,engine
+NA,89,"Nassoulas, Dimitris",Mitsubishi Lancer Evo V,GR,N4,NA,NA,SS16,mechanical
+NA,92,"Konstantakatos, John",Mitsubishi Lancer Evo VI,GR,N4,NA,NA,SS2,mechanical
+NA,94,"Kokkinis, Sotiris",Peugeot 106,GR,A6,NA,NA,SS1,mechanical
+NA,97,"Palaiologos, Alexandros",Toyota Corolla,GR,A6,NA,NA,SS6,mechanical
+NA,98,"Reitsperger, Georg",Volkswagen Golf GTI 16V,AT,A7,NA,NA,SS1,mechanical
+NA,99,"Kaltsounis, Haris",Opel Astra,GR,A7,NA,NA,SS8,unknown
+NA,100,"Huisman, Marinus",Mitsubishi Lancer Evo VI,NL,N4,NA,NA,SS10,unknown
+NA,101,"Briant, Ben",Mitsubishi Lancer Evo VI,GB,N4,NA,NA,TC13D,OTL
+NA,102,"Ginley, Alistair",Mitsubishi Lancer Evo VI,GB,N4,NA,NA,TC6F,time card
+NA,103,"Frisiero, Fabio",Mitsubishi Lancer Evo VI,IT,N4,NA,NA,SS7,mechanical
+NA,104,"Betti, Luca",Mitsubishi Lancer Evo V,IT,N4,NA,NA,SS13,engine
+NA,105,"Sterckx, David",Mitsubishi Lancer Evo,BE,N4,NA,NA,TC6A,OTL
+NA,108,"Panagiotopoulos, Emmanuel",Toyota Yaris,GR,A5,NA,NA,SS18,mechanical
+NA,112,"Panourgias, Ioannis",Renault Clio,GR,N3,NA,NA,SS20,mechanical
+NA,113,"Klimatsakis, George",Toyota Starlet,GR,A5,NA,NA,SS15,mechanical
+NA,114,"Lakafossis, Kostas",Toyota Yaris,GR,A5,NA,NA,SS3,engine mounting
+NA,115,"Kounelis, Dimitris",Toyota Corolla,GR,A6,NA,NA,SS1,mechanical
+NA,117,"Chrissafis, Nikos",Fiat Cinquecento,GR,A5,NA,NA,SS1,mechanical
+NA,123,"Latsoudas, Spiros",Toyota Starlet,GR,A5,NA,NA,SS15,mechanical
+NA,124,"Moussourelis, Theodoros",Toyota Corolla,GR,A6,NA,NA,SS3,mechanical
+NA,125,"Kotselis, George",Toyota Starlet,GR,A5,NA,NA,SS1,mechanical
+NA,126,"Koutsoupas, John",Lada Samara,GR,A6,NA,NA,TC17,OTL
+NA,127,"Tsamakos, Apostolos",Lada Samara,GR,A6,NA,NA,SS6,mechanical
+NA,129,"Zotiadis, Kostas",Toyota Starlet,GR,A5,NA,NA,SS7,mechanical
+NA,130,"Katsabekis, Themistoklis",Volkswagen Polo,GR,A5,NA,NA,SS13,mechanical
+NA,132,"Tzanavaris, Antonis",Toyota Starlet,GR,A5,NA,NA,SS6,mechanical

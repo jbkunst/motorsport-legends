@@ -1,0 +1,44 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"Meeke, Kris",Citroen DS3 WRC,GB,RC1,"3h 41m 44,9s",NA,NA,NA
+2,4,"Ostberg, Mads",Citroen DS3 WRC,NO,RC1,"+18,1s",NA,NA,NA
+3,5,"Evans, Elfyn",Ford Fiesta RS WRC,GB,RC1,"+3m 27,4s",NA,NA,NA
+4,21,"Prokop, Martin",Ford Fiesta RS WRC,CZ,RC1,"+6m 26,1s",NA,NA,NA
+5,8,"Sordo Castillo, Daniel",Hyundai i20 WRC,ES,RC1,"+10m 46,7s",NA,NA,NA
+6,12,"al-Qassimi, Khalid",Citroen DS3 WRC,AE,RC1,"+11m 19,9s",NA,NA,NA
+7,36,"al-Kuwari, Abdulaziz",Ford Fiesta,QA,RC2,"+16m 02,6s",NA,NA,NA
+8,52,"Dominguez Sr., Diego",Ford Fiesta,PY,RC2,"+18m 48,2s",NA,NA,NA
+9,57,"Saba Rodriguez, Gustavo",Skoda Fabia Super 2000,PY,RC2,"+21m 20,6s",NA,NA,NA
+10,72,"Villagra, Federico",Ford Fiesta,AR,RC2,"+25m 19,6s",NA,NA,NA
+11,6,"Tanak, Ott",Ford Fiesta RS WRC,EE,RC1,"+25m 52,3s",NA,NA,NA
+12,40,"Ketomaa, Jari",Ford Fiesta,FI,RC2,"+28m 05,8s",NA,NA,NA
+13,38,"Protasov, Yuriy",Ford Fiesta,UA,RC2,"+29m 25,4s",18:10,NA,NA
+14,74,"Baldoni, Miguel-Angel",Peugeot 208,AR,RC2,"+31m 45,5s",1:00,NA,NA
+15,54,"Arias Quinones, Didier",Ford Fiesta,PY,RC2,"+32m 41,4s",1:30,NA,NA
+16,20,"Paddon, Hayden",Hyundai i20 WRC,NZ,RC1,"+36m 15,3s",NA,NA,NA
+17,1,"Ogier, Sebastien",Volkswagen Polo R WRC,FR,RC1,"+37m 11,5s",NA,NA,NA
+18,37,"Bertelli, Lorenzo",Ford Fiesta RS WRC,IT,RC1,"+39m 17,0s",NA,NA,NA
+19,79,"d'Agostini, Augusto",Volkswagen Gol,AR,RC2,"+51m 25,0s",0:20,NA,NA
+20,82,"Padilla, Geronimo Jose",Peugeot 208,AR,RC2,"+51m 31,9s",NA,NA,NA
+21,45,"Linari, Gianluca",Subaru Impreza,IT,RC2,"+54m 20,0s",0:10,NA,NA
+22,55,"Vazquez, Miguel",Mitsubishi Lancer Evo X,PY,RC2,"+58m 18,2s",NA,NA,NA
+23,76,"Madero, Nicolas",Fiat Palio,AR,RC2,"+1h 31m 32,5s",NA,NA,NA
+24,89,"Garcia Huidobro, Alejandro",Ford Fiesta,CL,RC2,"+1h 31m 42,9s",3:20,NA,NA
+25,90,"Nicolas, Jose Alberto",Chevrolet Agile,AR,RC2,"+1h 44m 10,2s",NA,NA,NA
+26,51,"Tempestini, Simone",Subaru Impreza,IT,RC2,"+1h 44m 43,0s",1:07:00,NA,NA
+NA,2,"Latvala, Jari-Matti",Volkswagen Polo R WRC,FI,RC1,NA,NA,SS11,mechanical
+NA,7,"Neuville, Thierry",Hyundai i20 WRC,BE,RC1,NA,NA,SS12,accident
+NA,9,"Mikkelsen, Andreas",Volkswagen Polo R WRC,NO,RC1,NA,NA,SS12,accident
+NA,32,"Lefebvre, Stephane",Citroen DS3,FR,RC2,NA,NA,TC8C,mechanical
+NA,41,"Fuchs Sierlecki, Nicolas",Ford Fiesta,PE,RC2,NA,NA,SS12,mechanical
+NA,43,"Shaymiev, Radik",Ford Fiesta,RU,RC2,NA,NA,SS8,mechanical
+NA,56,"Martinez M. R., Jorge Enrique",Subaru Impreza,PE,RC2,NA,NA,TC10D,unknown
+NA,71,"Ligato, Marcos",Chevrolet Agile,AR,RC2,NA,NA,TC11A,mechanical
+NA,73,"Cancio, Alejandro",Peugeot 207,AR,RC2,NA,NA,SS11,mechanical
+NA,75,"Preto, Luciano",Peugeot 208,AR,RC2,NA,NA,TC3C,mechanical
+NA,78,"Martinez, Alejandro Raul",Ford Fiesta,AR,RC2,NA,NA,TC8A,mechanical
+NA,80,"Diaz, Nicolas",Ford Fiesta,AR,RC2,NA,NA,TC11A,mechanical
+NA,81,"Alonso, Juan Carlos",Citroen DS3,AR,RC2,NA,NA,SS3,mechanical
+NA,83,"Marchetto, Alvaro",Citroen DS3,AR,RC2,NA,NA,TC7,mechanical
+NA,84,"Nalbandian, David",Chevrolet Agile,AR,RC2,NA,NA,SS4,mechanical
+NA,85,"Menendez, Alejandro",Volkswagen Gol,AR,RC2,NA,NA,TC11A,unknown
+NA,86,"Bassi, Federico",Citroen DS3,AR,RC2,NA,NA,TC11A,unknown

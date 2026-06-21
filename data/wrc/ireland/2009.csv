@@ -1,0 +1,37 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Loeb, Sebastien",Citroen C4 WRC,FR,A8,"2h 48m 25,7s",NA,NA,NA
+2,2,"Sordo Castillo, Daniel",Citroen C4 WRC,ES,A8,"+1m 27,9s",NA,NA,NA
+3,3,"Hirvonen, Mikko",Ford Focus RS WRC 08,FI,A8,"+2m 07,8s",NA,NA,NA
+4,6,"Solberg, Henning",Ford Focus RS WRC 08,NO,A8,"+6m 32,4s",NA,NA,NA
+5,7,"Atkinson, Christopher",Citroen C4 WRC,AU,A8,"+7m 51,9s",NA,NA,NA
+6,11,"Ogier, Sebastien",Citroen C4 WRC,FR,A8,"+10m 44,0s",NA,NA,NA
+7,16,"Wilson, Matthew",Ford Focus RS WRC 08,GB,A8,"+11m 23,8s",NA,NA,NA
+8,9,"al-Qassimi, Khalid",Ford Focus RS WRC 08,AE,A8,"+14m 07,9s",NA,NA,NA
+9,17,"Boland, Eamonn",Subaru Impreza,IE,A8,"+15m 23,4s",NA,NA,NA
+10,5,"Aava, Urmo",Ford Focus RS WRC 08,EE,A8,"+15m 35,4s",NA,NA,NA
+11,20,"MacHale, Aaron",Ford Focus,IE,A8,"+16m 09,7s",NA,NA,NA
+12,19,"McNulty, Tim",Subaru Impreza,IE,A8,"+20m 57,9s",NA,NA,NA
+13,63,"Gallagher, Shaun",Mitsubishi Lancer Evo IX,IE,N4,"+21m 16,2s",NA,NA,NA
+14,4,"Latvala, Jari-Matti",Ford Focus RS WRC 08,FI,A8,"+23m 32,5s",NA,NA,NA
+15,62,"Jennings, Garry",Mitsubishi Lancer Evo IX,GB,N4,"+24m 12,1s",NA,NA,NA
+16,31,"Burkart, Aaron Nicolai",Suzuki Swift S1600,DE,A6,"+28m 15,8s",NA,NA,NA
+17,38,"Prokop, Martin",Citroen C2 S1600,CZ,A6,"+29m 03,1s",NA,NA,NA
+18,8,"Rautenbach, Conrad",Citroen C4 WRC,ZW,A8,"+36m 37,9s",NA,NA,NA
+19,33,"Bertolotti, Simone",Suzuki Swift S1600,IT,A6,"+37m 15,9s",NA,NA,NA
+20,35,"Bonato, Yoann",Suzuki Swift,FR,A6,"+41m 22,0s",NA,NA,NA
+21,70,"Kelly, Toni",Honda Civic Type-R,IE,A7,"+43m 46,8s",NA,NA,NA
+22,37,"Abbring, Kevin",Renault Clio,NL,A7,"+45m 53,8s",NA,NA,NA
+23,71,"Elliot, Paul",Mitsubishi Lancer Evo IX,IE,N4,"+50m 07,3s",NA,NA,NA
+24,72,"Byrne, Rory",Mitsubishi Lancer Evo IX,IE,N4,"+53m 49,7s",NA,NA,NA
+25,34,"Griotti, Luca",Renault Clio,IT,A7,"+55m 24,2s",2:30,NA,NA
+26,74,"Graham, Steve",Vauxhall Astra,GB,N3,"+1h 20m 49,4s",NA,NA,NA
+27,69,"Jobb, Derrick",Mitsubishi Lancer Evo IX,GB,N4,"+1h 20m 56,5s",NA,NA,NA
+28,75,"Treacy, Kenneth",Volkswagen Polo,IE,N1,"+1h 45m 14,1s",3:30,NA,NA
+NA,18,"MacHale, Gareth",Ford Focus,IE,A8,NA,NA,TC14A,mechanical
+NA,22,"MacHale, Austin",Ford Focus,IE,A8,NA,NA,TC8D,unknown
+NA,36,"Weijs jr, Hans",Citroen C2 S1600,NL,A6,NA,NA,SS14,off road
+NA,60,"Forde, Ross",Suzuki Swift,IE,N2,NA,NA,SS17,mechanical
+NA,61,"McShea, Niall",Proton Satria,GB,N4,NA,NA,SS14,off road
+NA,65,"Ring, Alan",Mitsubishi Lancer Evo IX,IE,N4,NA,NA,SS18,unknown
+NA,68,"Fisher, Alastair",Ford Fiesta ST,GB,N3,NA,NA,SS13,off road
+NA,73,"Hynes, Ian",Honda Civic,IE,N3,NA,NA,TC0,unknown

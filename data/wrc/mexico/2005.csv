@@ -1,0 +1,39 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,5,"Solberg, Petter",Subaru Impreza WRC2005,NO,A8,"3h 41m 06,2s",NA,NA,NA
+2,7,"Gronholm, Marcus",Peugeot 307WRC Evo2,FI,A8,"+34,5s",NA,NA,NA
+3,8,"Martin, Markko",Peugeot 307WRC Evo2,EE,A8,"+1m 38,3s",NA,NA,NA
+4,1,"Loeb, Sebastien",Citroen Xsara WRC,FR,A8,"+3m 51,1s",0:20,NA,NA
+5,9,"Rovanpera, Harri",Mitsubishi Lancer WRC05,FI,A8,"+3m 58,1s",1:20,NA,NA
+6,3,"Gardemeister, Toni",Ford Focus RS WRC 04,FI,A8,"+4m 05,6s",NA,NA,NA
+7,15,"Warmbold, Antony",Ford Focus RS WRC 04,DE,A8,"+6m 01,0s",NA,NA,NA
+8,10,"Panizzi, Gilles",Mitsubishi Lancer WRC05,FR,A8,"+6m 01,7s",0:20,NA,NA
+9,11,"Schwarz, Armin",Skoda Fabia WRC 05,DE,A8,"+8m 05,3s",NA,NA,NA
+10,17,"Pons, Xavier",Peugeot 206 WRC,ES,A8,"+18m 49,0s",NA,NA,NA
+11,32,"Wilks, Guy",Suzuki Ignis S1600 5d,GB,A6,"+21m 53,9s",2:30,NA,NA
+12,18,"Trivino Bujalil, Ricardo",Peugeot 206 WRC,MX,A8,"+22m 59,5s",NA,NA,NA
+13,12,"Paasonen, Jani",Skoda Fabia WRC 05,FI,A8,"+29m 04,8s",NA,NA,NA
+14,31,"Andersson, Per-Gunnar",Suzuki Ignis S1600 5d,SE,A6,"+30m 58,2s",NA,NA,NA
+15,62,"Kahlfuss, Michael",Mitsubishi Lancer Evo,DE,N4,"+45m 20,7s",NA,NA,NA
+16,61,"Richter, Erwin",Mitsubishi Lancer Evo,MX,N4,"+47m 44,7s",NA,NA,NA
+17,39,"Cecchettini, Luca",Fiat Punto S1600,IT,A6,"+49m 05,9s",0:20,NA,NA
+18,64,"Tejada, Carlos",Mitsubishi Lancer Evo,MX,N4,"+58m 13,6s",0:20,NA,NA
+19,42,"Valousek, Pavel",Suzuki Ignis S1600,CZ,A6,"+58m 15,9s",NA,NA,NA
+20,67,"Barquet, Omar",Peugeot 206,MX,A6,"+1h 30m 33,4s",NA,NA,NA
+21,72,"Diaz Caneja, Adrian",Peugeot 206,MX,A6,"+1h 32m 34,4s",1:00,NA,NA
+22,75,"Guichard, Juan",Peugeot 206,MX,A6,"+1h 34m 23,4s",1:40,NA,NA
+23,81,"Ortuno, Javier",Peugeot 206,MX,A6,"+1h 41m 13,3s",NA,NA,NA
+24,79,"Rodriguez, Luis Armando",Peugeot 206,MX,A6,"+1h 45m 08,2s",0:30,NA,NA
+25,76,"Casas, Joan",Peugeot 206,MX,A6,"+1h 48m 51,6s",0:10,NA,NA
+26,77,"Martinez, Rogelio",Peugeot 206,MX,A6,"+1h 48m 51,6s",0:50,NA,NA
+27,80,"Gnecchi, Roberto",Peugeot 206,MX,A6,"+1h 54m 49,4s",NA,NA,NA
+28,73,"Uribe F. (Sr), Oscar",Peugeot 206,MX,A6,"+2h 02m 19,5s",2:30,NA,NA
+NA,2,"Duval, Francois",Citroen Xsara WRC,BE,A8,NA,NA,End of Leg 3,engine problems
+NA,4,"Sola, Daniel",Ford Focus RS WRC 04,ES,A8,NA,NA,SS11,accident
+NA,6,"Atkinson, Christopher",Subaru Impreza WRC2005,AU,A8,NA,NA,SS14,accident
+NA,14,"Kresta, Roman",Ford Focus RS WRC 04,CZ,A8,NA,NA,SS9,suspension
+NA,16,"Johansson, Tobias",Subaru Impreza,SE,A8,NA,NA,SS11,off road
+NA,40,"Rautenbach, Conrad",Citroen Saxo S1600,ZW,A6,NA,NA,TC9C,engine
+NA,65,"Alatorre, Antonio",Mitsubishi Lancer Evo,MX,N4,NA,NA,SS4,mechanical
+NA,68,"Chavez, Omar",Peugeot 206,MX,A6,NA,NA,TC12D,time barred
+NA,71,"Name Guzzy Jr, Francisco",Peugeot 206,MX,A6,NA,NA,SS5,off road
+NA,78,"Karam, Erik",Peugeot 206,MX,A6,NA,NA,TC6D,time barred

@@ -1,0 +1,18 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,10,"Eriksson, Kenneth",Mitsubishi Lancer Evo II,SE,A8,4h 51m 27s,NA,NA,NA
+2,11,"Makinen, Tommi",Mitsubishi Lancer Evo II,FI,A,+12s,NA,NA,NA
+3,14,"Radstrom, Thomas",Toyota Celica GT-Four (ST205),SE,A,+1m 07s,NA,NA,NA
+4,2,"Kankkunen, Juha",Toyota Celica GT-Four (ST205),FI,A,+2m 18s,NA,NA,NA
+5,1,"Auriol, Didier",Toyota Celica GT-Four (ST205),FR,A,+2m 20s,NA,NA,NA
+6,8,"Thiry, Bruno",Ford Escort RS Cosworth,BE,A,+5m 31s,NA,NA,NA
+7,9,"Blomqvist, Stig",Ford Escort RS Cosworth,SE,A,+6m 49s,NA,NA,NA
+8,15,"Jansson, Tomas",Toyota Celica Turbo 4WD (ST185),SE,A,+8m 02s,NA,NA,NA
+9,3,"Schwarz, Armin",Toyota Celica GT-Four (ST205),DE,A,+9m 45s,NA,NA,NA
+10,12,"Backlund, Kenneth",Mitsubishi Lancer Evo II,SE,N,+12m 44s,NA,NA,NA
+12,18,"Svan, Per",Opel Astra,SE,A,+18m 07s,NA,NA,NA
+NA,4,"McRae, Colin",Subaru Impreza 555,GB,A,NA,NA,SS18,engine
+NA,5,"Sainz, Carlos",Subaru Impreza 555,ES,A,NA,NA,SS9,engine
+NA,6,"Jonsson, Mats",Subaru Impreza 555,SE,A,NA,NA,SS18,engine
+NA,7,"Delecour, Francois",Ford Escort RS Cosworth,FR,A,NA,NA,SS11,engine
+NA,17,"Gronholm, Marcus",Toyota Celica Turbo 4WD (ST185),FI,A,NA,NA,SS22,gearbox
+NA,21,"Radstrom, Arne",Toyota Celica GT-Four (ST205),SE,N,NA,NA,SS6,engine

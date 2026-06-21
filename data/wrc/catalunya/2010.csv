@@ -1,0 +1,47 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Loeb, Sebastien",Citroen C4 WRC,FR,A8,"3h 32m 59,7s",NA,NA,NA
+2,11,"Solberg, Petter",Citroen C4 WRC,NO,A8,"+35,3s",NA,NA,NA
+3,2,"Sordo Castillo, Daniel",Citroen C4 WRC,ES,A8,"+41,1s",NA,NA,NA
+4,4,"Latvala, Jari-Matti",Ford Focus RS WRC 09,FI,A8,"+1m 19,5s",NA,NA,NA
+5,3,"Hirvonen, Mikko",Ford Focus RS WRC 09,FI,A8,"+6m 32,9s",0:30,NA,NA
+6,5,"Wilson, Matthew",Ford Focus RS WRC 08,GB,A8,"+8m 17,6s",NA,NA,NA
+7,12,"al-Qassimi, Khalid",Ford Focus RS WRC 08,AE,A8,"+13m 05,7s",NA,NA,NA
+8,17,"Solberg, Henning",Ford Fiesta S2000,NO,N4,"+13m 11,2s",NA,NA,NA
+9,43,"Block, Ken",Ford Focus RS WRC 08,US,A8,"+16m 01,2s",NA,NA,NA
+10,7,"Ogier, Sebastien",Citroen C4 WRC,FR,A8,"+17m 23,1s",0:30,NA,NA
+11,18,"Kuipers, Dennis",Ford Fiesta S2000,NL,N4,"+18m 31,8s",NA,NA,NA
+12,31,"Lemes Macias, Yeray",Renault Clio,ES,A6,"+22m 58,3s",NA,NA,NA
+13,62,"Gassner jr, Hermann",Mitsubishi Lancer Evo IX,DE,N4,"+27m 11,0s",2:00,NA,NA
+14,26,"Slavov, Todor",Renault Clio,BG,A7,"+28m 42,8s",NA,NA,NA
+15,9,"Villagra, Federico",Ford Focus RS WRC 08,AR,A8,"+31m 42,5s",NA,NA,NA
+16,73,"Riedemann, Christian",Ford Fiesta,DE,A6,"+33m 38,1s",NA,NA,NA
+17,66,"Llovera, Albert",Fiat Grande Punto Abarth S2000,AD,N4,"+33m 45,9s",0:10,NA,NA
+18,23,"Weijs jr, Hans",Citroen C2 S1600,NL,A6,"+33m 48,8s",NA,NA,NA
+19,63,"Orriols, Albert",Mitsubishi Lancer Evo X,ES,N4,"+34m 03,0s",0:20,NA,NA
+20,75,"al-Jabri, Bader",Ford Fiesta,AE,A6,"+37m 28,1s",NA,NA,NA
+21,78,"Keleti, Edwin",Renault Clio,RO,A7,"+38m 18,3s",1:30,NA,NA
+22,79,"Settembrini, Massimiliano",Renault Clio,IT,A7,"+41m 17,0s",0:10,NA,NA
+23,80,"Sans, Enric",Renault Twingo,ES,A6,"+45m 37,6s",NA,NA,NA
+24,84,"Vialle, Lilian",Renault Clio,FR,N3,"+46m 22,3s",NA,NA,NA
+25,71,"Diego, Josep Lluis",Mitsubishi Lancer Evo IX,ES,N4,"+50m 40,7s",NA,NA,NA
+26,21,"Burkart, Aaron Nicolai",Suzuki Swift S1600,DE,A6,"+51m 43,4s",NA,NA,NA
+27,28,"Hunt, Harry",Ford Fiesta,GB,A6,"+51m 52,7s",NA,NA,NA
+28,30,"Kangur, Martin",Honda Civic Type-R,EE,A7,"+53m 03,4s",NA,NA,NA
+29,74,"al-Shamsi, Majed",Ford Fiesta,AE,A6,"+54m 54,3s",NA,NA,NA
+30,69,"Weston Jr, Dave",Subaru Impreza,GB,N4,"+55m 42,5s",5:00,NA,NA
+31,72,"Font Guixaro, Joan",Ford Fiesta,ES,A6,"+1h 04m 49,1s",NA,NA,NA
+32,83,"Lodeiro, Jose Antonio",Ford Fiesta,ES,A6,"+1h 20m 26,0s",NA,NA,NA
+33,86,"Semeraro, Paolo",Suzuki Swift,IT,N2,"+1h 23m 11,2s",NA,NA,NA
+34,81,"Marquina, Albert",Renault Clio,ES,A7,"+1h 26m 34,7s",0:40,NA,NA
+35,87,"Llopart, Joan",Citroen Saxo,ES,N2,"+1h 46m 03,1s",0:30,NA,NA
+NA,15,"Turan, Frigyes",Ford Focus RS WRC 08,HU,A8,NA,NA,SS13,off road
+NA,27,"Broccoli, Alessandro",Renault Clio,SM,A7,NA,NA,SS1,unknown
+NA,32,"Arzeno, Mathieu",Citroen C2 S1600,FR,A6,NA,NA,SS1,unknown
+NA,49,"Domingo, Climent",Peugeot 206 S1600,ES,A6,NA,NA,SS3,unknown
+NA,61,"Vinyes, Joan",Suzuki Swift S1600,AD,A6,NA,NA,SS15,unknown
+NA,64,"Zurita, Jordi",Mitsubishi Lancer Evo X,ES,N4,NA,NA,SS14,unknown
+NA,65,"Fores, Eduard",Mitsubishi Lancer Evo IX,ES,N4,NA,NA,SS15,unknown
+NA,67,"Senra, Victor",Ford Fiesta,ES,A6,NA,NA,TC9B,unknown
+NA,68,"Suarez Miranda, Jose Antonio",Ford Fiesta,ES,A6,NA,NA,SS13,fault
+NA,77,"Parli, Francesco",Renault Clio,CH,A7,NA,NA,TC6D,unknown
+NA,85,"Papa, Loris Antonio",Renault Clio,IT,N3,NA,NA,TC12D,unknown

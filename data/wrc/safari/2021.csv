@@ -1,0 +1,39 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Ogier, Sebastien",Toyota Yaris WRC,FR,RC1,"3h 18m 11,3s",NA,NA,NA
+2,18,"Katsuta, Takamoto",Toyota Yaris WRC,JP,RC1,"+21,8s",NA,NA,NA
+3,8,"Tanak, Ott",Hyundai i20 Coupe WRC,EE,RC1,"+1m 09,5s",NA,NA,NA
+4,44,"Greensmith, Fergus",Ford Fiesta RS WRC 2017,GB,RC1,"+1m 54,6s",NA,NA,NA
+5,16,"Fourmaux, Adrien",Ford Fiesta RS WRC 2017,FR,RC1,"+1m 54,7s",0:10,NA,NA
+6,69,"Rovanpera, Kalle",Toyota Yaris WRC,FI,RC1,"+10m 53,4s",NA,NA,NA
+7,24,"Rai, Onkar",Volkswagen Polo,KE,RC2,"+29m 26,4s",0:10,NA,NA
+8,27,"Patel, Karan",Ford Fiesta,KE,RC2,"+33m 30,4s",0:40,NA,NA
+9,25,"Tundo, Carl",Volkswagen Polo,KE,RC2,"+36m 40,7s",NA,NA,NA
+10,33,"Evans, Elfyn",Toyota Yaris WRC,GB,RC1,"+49m 22,7s",NA,NA,NA
+11,37,"Bertelli, Lorenzo",Ford Fiesta RS WRC 2017,IT,RC1,"+50m 17,0s",NA,NA,NA
+12,6,"Sordo Castillo, Daniel",Hyundai i20 Coupe WRC,ES,RC1,"+1h 0m3 19,5s",13:20,NA,NA
+13,39,"Chana, Jasmeet",Mitsubishi Lancer Evo X,KE,ASN,"+1h 08m 19,2s",0:10,NA,NA
+14,40,"Chatthe, Dilraj",Mitsubishi Lancer Evo X,KE,ASN,"+1h 10m 11,5s",2:10,NA,NA
+15,32,"Bengi, Eric",Mitsubishi Lancer Evo X,KE,ASN,"+1h 11m 44,2s",1:40,NA,NA
+16,64,"Wahome, Jeremiah",Ford Fiesta,KE,RC3,"+1h 18m 41,2s",1:10,NA,NA
+17,29,"Chwist, Daniel",Ford Fiesta,PL,RC2,"+1h 19m 09,1s",NA,NA,NA
+18,31,"Chager, Baldev",Mitsubishi Lancer Evo X,KE,ASN,"+1h 28m 15,8s",0:40,NA,NA
+19,34,"Bharij, Raajpal",Mitsubishi Lancer Evo X,KE,ASN,"+1h 30m 31,4s",0:10,NA,NA
+20,30,"Rai, Amanraaj",Ford Fiesta,KE,RC2,"+1h 36m 19,0s",0:10,NA,NA
+21,52,"Sachania, Nikhil",Mitsubishi Lancer Evo X,GB,ASN,"+1h 38m 02,0s",NA,NA,NA
+22,28,"Virani, Aakif",Skoda Fabia,KE,RC2,"+1h 54m 06,3s",6:00,NA,NA
+23,47,"Puee, Sohanjeet",Mitsubishi Lancer Evo X,KE,ASN,"+2h 02m 47,0s",NA,NA,NA
+24,45,"Pandya, Paras",Mitsubishi Lancer Evo X,KE,ASN,"+2h 18m 44,9s",NA,NA,NA
+25,48,"Anwar, Hamza",Ford Fiesta,KE,RC3,"+2h 24m 16,0s",2:20,NA,NA
+26,67,"Smith, Rio",Ford Fiesta,KE,RC4,"+2h 32m 42,7s",NA,NA,NA
+NA,2,"Solberg, Oliver",Hyundai i20 Coupe WRC,SE,RC1,NA,NA,SS4,mechanical
+NA,11,"Neuville, Thierry",Hyundai i20 Coupe WRC,BE,RC1,NA,NA,TC15,mechanical
+NA,23,"Prokop, Martin",Ford Fiesta,CZ,RC2,NA,NA,SS6,accident
+NA,26,"Rai, Tejveer",Volkswagen Polo,KE,RC2,NA,NA,SS3,mechanical
+NA,36,"Zasada, Sobieslaw",Ford Fiesta,PL,RC3,NA,NA,SS18,mechanical
+NA,38,"Davite, Giancarlo",Mitsubishi Lancer Evo X,IT,ASN,NA,NA,TC0,medical
+NA,43,"Canobbio, Piero",Mitsubishi Lancer Evo X,KE,ASN,NA,NA,TC13C,mechanical
+NA,46,"Nasser, Yasin",Subaru Impreza,UG,ASN,NA,NA,TC7D,mechanical
+NA,49,"Kimathi, McRae",Ford Fiesta,KE,RC3,NA,NA,SS18,mechanical
+NA,50,"Kavisi, Evans",Mitsubishi Lancer Evo X,KE,ASN,NA,NA,SS18,mechanical
+NA,51,"Rathod, Minesh",Mitsubishi Lancer Evo X,KE,ASN,NA,NA,SS18,mechanical
+NA,57,"Waita, Nzioka",Mitsubishi Lancer Evo X,KE,ASN,NA,NA,TC13D,mechanical

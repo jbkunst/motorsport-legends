@@ -1,0 +1,19 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"Haider, Josef",Opel Kadett GSi,AT,A7,7h 38m 39s,NA,NA,NA
+2,12,"Wilson, Ray",Mazda 323 4WD,NZ,A,+18m 37s,NA,NA,NA
+3,11,"Stewart, Malcolm",Audi Coupe,NZ,A,+23m 46s,NA,NA,NA
+4,5,"Officer, David",Mitsubishi Starion Turbo,AU,A,+25m 41s,NA,NA,NA
+5,15,"Meekings, Ross",Toyota Corolla,NZ,A,+26m 27s,NA,NA,NA
+6,29,"Roestenburg, Marty",Toyota Starlet,NZ,A,+42m 23s,NA,NA,NA
+7,28,"McAndrew, Joe",Toyota Starlet,NZ,A,+50m 39s,NA,NA,NA
+8,18,"Sano, Tetsuo",Toyota Celica GT-4 (ST165),JP,A,+51m 15s,NA,NA,NA
+9,31,"Strong, Dave",Daihatsu Charade,NZ,N,+59m 29s,NA,NA,NA
+10,45,"Walker, Murray",Suzuki Swift GTI,NZ,N,+59m 54s,NA,NA,NA
+19,19,"Jennings, Mark",Toyota Celica,NZ,A,NA,NA,NA,NA
+NA,1,"Bourne, Peter",Subaru RX Turbo,NZ,A,NA,NA,SS24,accident
+NA,2,"McRae, Jimmy",Ford Sierra XR4x4,GB,A,NA,NA,SS2,engine
+NA,4,"Teesdale, Tony",Mazda 323 4WD,NZ,A,NA,NA,SS23,accident
+NA,6,"Adamson, Ken",Toyota Corolla,NZ,A,NA,NA,SS18,accident
+NA,7,"Shinozuka, Kenjiro",Mitsubishi Galant VR-4,JP,A,NA,NA,SS4,gearbox
+NA,8,"Allport, Neil",Mazda 323 4WD,NZ,A,NA,NA,SS30,engine
+NA,9,"Stubbings, Simon",Mazda 323 4WD,GB,A,NA,NA,SS16,engine

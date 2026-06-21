@@ -1,0 +1,56 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,5,"Biasion, Massimo",Lancia Delta S4,IT,B,6h 36m 26s,NA,NA,NA
+2,3,"Alen, Markku",Lancia Delta S4,FI,B,+24s,NA,NA,NA
+3,2,"Blomqvist, Stig",Peugeot 205 Turbo 16 E2,SE,B,+4m 16s,NA,NA,NA
+4,6,"Recalde, Jorge",Lancia Delta S4,AR,B,+5m 07s,NA,NA,NA
+5,10,"Eriksson, Kenneth",Volkswagen Golf GTi,SE,A,+45m 51s,NA,NA,NA
+6,26,"Stohl, Rudolf",Audi Coupe,AT,A,+53m 39s,NA,NA,NA
+7,9,"Wittman, Franz",Volkswagen Golf GTi,AT,A,+1h 00m 04s,NA,NA,NA
+8,12,"Celsi, Jose",Subaru RX Turbo,CL,A,+1h 12m 18s,NA,NA,NA
+9,8,"Soto, Ernesto",Renault 18,AR,A,+1h 15m 17s,NA,NA,NA
+10,7,"Criticos, Basil",Opel Manta 400,KE,B,+1h 26m 18s,NA,NA,NA
+11,NA,"Trelles, Gustavo",Ford Escort 1600,UY,NA,+1h 30m 31s,NA,NA,NA
+12,NA,Mayorga,Renault 18,NA,NA,+1h 33m 46s,NA,NA,NA
+13,NA,Maccari,Renault 12,AR,NA,+1h 47m 04s,NA,NA,NA
+14,NA,Germani,Peugeot 504,NA,NA,+2h 04m 25s,NA,NA,NA
+15,NA,Demelchiore,Peugeot 504,NA,NA,+2h 07m 03s,NA,NA,NA
+16,NA,Faini,Renault 12,NA,NA,+2h 09m 51s,NA,NA,NA
+17,NA,Flores,Fiat 128,NA,NA,+2h 13m 47s,NA,NA,NA
+18,NA,Surra,Renault 12,NA,NA,+2h 16m 52s,NA,NA,NA
+19,NA,Maineri,Volkswagen Gacel,NA,NA,+2h 17m 57s,NA,NA,NA
+20,NA,"Salman, Enrique",Renault 18,AR,NA,+2h 34m 54s,NA,NA,NA
+21,NA,Mazzochi,Renault 12,NA,NA,+2h 36m 34s,NA,NA,NA
+22,NA,Bruck,Renault 18,AR,NA,+2h 41m 06s,NA,NA,NA
+23,NA,Veglia,Renault 18,NA,NA,+2h 41m 37s,NA,NA,NA
+24,NA,Vera,Subaru,NA,NA,+2h 43m 08s,NA,NA,NA
+25,NA,Busto,Fiat 128,AR,NA,+2h 50m 55s,NA,NA,NA
+26,NA,"Pigliacampo, Sebastian",Renault 12,AR,NA,+2h 54m 30s,NA,NA,NA
+27,NA,Bruno,Renault 12,NA,NA,+2h 55m 33s,NA,NA,NA
+28,NA,Luna,Renault 12,NA,NA,+2h 56m 35s,NA,NA,NA
+29,NA,Bonaldi,Renault 18,NA,NA,+2h 58m 40s,NA,NA,NA
+30,NA,Pace,Renault 12,NA,NA,+2h 59m 45s,NA,NA,NA
+31,NA,Gayanigo,Peugeot 504,AR,NA,+3h 02m 53s,NA,NA,NA
+32,NA,Vincenti,Honda Prelude,NA,NA,+3h 06m 57s,NA,NA,NA
+33,NA,Caliano,Renault 12,NA,NA,+3h 09m 10s,NA,NA,NA
+34,NA,Macri,Renault 12,AR,NA,+3h 09m 12s,NA,NA,NA
+35,NA,Defagot,Renault 12,NA,NA,+3h 13m 18s,NA,NA,NA
+36,NA,Zallocco,Fiat 147,NA,NA,+3h 17m 57s,NA,NA,NA
+37,NA,Sanabria,Nissan,NA,NA,+3h 35m 36s,NA,NA,NA
+38,NA,Romero,Peugeot 504,NA,NA,+3h 38m 34s,NA,NA,NA
+39,NA,Dechecchi,Subaru,AR,NA,+3h 43m 49s,NA,NA,NA
+40,NA,Muzzini,Renault 12,NA,NA,+3h 50m 12s,NA,NA,NA
+41,NA,Abarca,Volkswagen Gacel,NA,NA,+3h 52m 36s,NA,NA,NA
+42,NA,"Cordovanna, Carmelo",Renault 18,AR,NA,+3h 57m 32s,NA,NA,NA
+43,NA,Silvi,Daihatsu Charade,NA,NA,+4h 25m 16s,NA,NA,NA
+44,NA,Sas,Daihatsu Charade,NA,NA,+4h 34m 26s,NA,NA,NA
+45,NA,Tenorio,Renault 12,NA,NA,+4h 47m 33s,NA,NA,NA
+46,NA,Adriani,Fiat Ritmo,NA,NA,+4h 49m 24s,NA,NA,NA
+47,NA,"Silva, Luis",Renault Fuego,AR,NA,+4h 53m 14s,NA,NA,NA
+48,NA,Miranda,Renault 12,NA,NA,+5h 42m 55s,NA,NA,NA
+49,NA,Jacobo,Peugeot 504,NA,NA,+5h 54m 42s,NA,NA,NA
+50,NA,Marrone,Fiat 128,NA,NA,+6h 34m 12s,NA,NA,NA
+NA,1,"Kankkunen, Juha",Peugeot 205 Turbo 16 E2,FI,B,NA,NA,SS16,suspension
+NA,4,"Saby, Bruno",Peugeot 205 Turbo 16 E2,FR,B,NA,NA,SS9,engine
+NA,11,"Stillo, Mario",Renault 18,AR,A,NA,NA,SS14,gearbox
+NA,14,"Raies, Gabriel",Renault 18,AR,A,NA,NA,SS14,gearbox
+NA,16,"Torras, Miguel",Renault 12,AR,A,NA,NA,SS5,transmission

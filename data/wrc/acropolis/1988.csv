@@ -1,0 +1,26 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,4,"Biasion, Massimo",Lancia Delta Integrale,IT,A8,7h 03m 00s,NA,NA,NA
+2,8,"Ericsson, Mikael",Lancia Delta Integrale,SE,A,+1m 43s,NA,NA,NA
+3,7,"Fiorio, Alessandro",Lancia Delta Integrale,IT,A,+7m 40s,NA,NA,NA
+4,1,"Alen, Markku",Lancia Delta Integrale,FI,A,+10m 46s,NA,NA,NA
+5,14,"Stohl, Rudolf",Audi Coupe,AT,A,+30m 49s,NA,NA,NA
+6,12,"Vardinogiannis, Giannis",Lancia Delta Integrale,GR,A,+34m 14s,NA,NA,NA
+7,17,"Hatzipanayiotou, Stratis",Nissan 200SX,GR,A,+39m 38s,NA,NA,NA
+8,27,"Apostolou, Konstantinos",Volkswagen Golf GTi,GR,A,+55m 03s,NA,NA,NA
+9,25,"Roothaert, Flory",Nissan 200SX,BE,A,+1h 02m 25s,NA,NA,NA
+10,34,"Gaban, Pascal",Mazda 323,BE,N,+1h 18m 23s,NA,NA,NA
+NA,2,"Kankkunen, Juha",Toyota Celica GT-4 (ST165),FI,A,NA,NA,SS20,engine
+NA,3,"Salonen, Timo",Mazda 323 4WD,FI,A,NA,NA,SS10,transmission
+NA,5,"Waldegard, Bjorn",Toyota Celica GT-4 (ST165),SE,A,NA,NA,SS3,transmission
+NA,6,"Mikkola, Hannu",Mazda 323 4WD,FI,A,NA,NA,SS14,transmission
+NA,9,"Loubet, Yves",Lancia Delta Integrale,FR,A,NA,NA,SS11,accident
+NA,10,"Recalde, Jorge",Lancia Delta Integrale,AR,N,NA,NA,SS10,oil cooler
+NA,11,"Alessandrini, Paolo",Lancia Delta HF 4WD,IT,A,NA,NA,SS10,transmission
+NA,16,"Lindholm, Sebastian",Audi Coupe,FI,A,NA,NA,SS4,electrical
+NA,18,"bin Sulayem, Mohammed",Ford Sierra RS Cosworth,AE,A,NA,NA,SS3,alternator
+NA,19,"Wilson, Malcolm",Vauxhall Astra GT/E,GB,A,NA,NA,SS16,differential
+NA,21,"del Zoppo, Giovanni",Lancia Delta Integrale,IT,N,NA,NA,SS3,fan-belt
+NA,22,"Trelles, Gustavo",Mazda 323,UY,N,NA,NA,SS14,gearbox
+NA,23,"Ercolani, Massimo",Lancia Delta Integrale,SM,N,NA,NA,SS10,radiator
+NA,54,"Szerla, Janusz",FSO Polonez,PL,A,NA,NA,NA,suspension
+NA,57,"Przybylski, Pawel",FSO Polonez,PL,A,NA,NA,NA,lost wheel

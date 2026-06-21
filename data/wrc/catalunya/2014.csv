@@ -1,0 +1,66 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Ogier, Sebastien",Volkswagen Polo R WRC,FR,RC1,"3h 46m 44,6s",NA,NA,NA
+2,2,"Latvala, Jari-Matti",Volkswagen Polo R WRC,FI,RC1,"+11,3s",NA,NA,NA
+3,5,"Hirvonen, Mikko",Ford Fiesta RS WRC,FI,RC1,"+1m 42,2s",NA,NA,NA
+4,4,"Ostberg, Mads",Citroen DS3 WRC,NO,RC1,"+2m 13,3s",NA,NA,NA
+5,8,"Sordo Castillo, Daniel",Hyundai i20 WRC,ES,RC1,"+2m 22,2s",NA,NA,NA
+6,7,"Neuville, Thierry",Hyundai i20 WRC,BE,RC1,"+4m 01,0s",NA,NA,NA
+7,9,"Mikkelsen, Andreas",Volkswagen Polo R WRC,NO,RC1,"+4m 02,9s",0:10,NA,NA
+8,21,"Prokop, Martin",Ford Fiesta RS WRC,CZ,RC1,"+8m 06,8s",NA,NA,NA
+9,20,"Paddon, Hayden",Hyundai i20 WRC,NZ,RC1,"+9m 12,4s",NA,NA,NA
+10,32,"al-Attiyah, Nasser",Ford Fiesta,QA,RC2,"+12m 39,8s",NA,NA,NA
+11,14,"Protasov, Yuriy",Ford Fiesta RS WRC,UA,RC1,"+12m 40,4s",1:00,NA,NA
+12,15,"Block, Ken",Ford Fiesta RS WRC,US,RC1,"+13m 00,9s",NA,NA,NA
+13,43,"Maurin, Julien",Ford Fiesta,FR,RC2,"+13m 14,8s",NA,NA,NA
+14,6,"Evans, Elfyn",Ford Fiesta RS WRC,GB,RC1,"+13m 15,0s",NA,NA,NA
+15,12,"al-Qassimi, Khalid",Citroen DS3 WRC,AE,RC1,"+14m 47,7s",NA,NA,NA
+16,39,"Barrable, Robert",Ford Fiesta,IE,RC2,"+17m 12,3s",NA,NA,NA
+17,10,"Kubica, Robert",Ford Fiesta RS WRC,PL,RC1,"+21m 11,9s",0:10,NA,NA
+18,44,"Guerra Latapi, Benito",Mitsubishi Lancer Evo X,MX,RC2,"+25m 25,9s",NA,NA,NA
+19,3,"Meeke, Kris",Citroen DS3 WRC,GB,RC1,"+27m 36,0s",0:10,NA,NA
+20,74,"Carchat, Joan",Mitsubishi Lancer Evo X,AD,RC2,"+30m 28,3s",NA,NA,NA
+21,41,"Fuchs Sierlecki, Nicolas",Ford Fiesta,PE,RC2,"+30m 58,0s",NA,NA,NA
+22,77,"Boland, Eamonn",Subaru Impreza,IE,RC2,"+34m 15,8s",NA,NA,NA
+23,38,"Gorban, Valeriy",Mini John Cooper Works S2000,UA,RC2,"+34m 36,4s",NA,NA,NA
+24,35,"Kruuda, Karl",Ford Fiesta S2000,EE,RC2,"+34m 39,5s",1:10,NA,NA
+25,75,"Membrado, Josep",Mitsubishi Lancer Evo X,ES,RC2,"+35m 12,7s",NA,NA,NA
+26,107,"Solans Baldo, Nil",Ford Fiesta,ES,RC4,"+40m 08,2s",NA,NA,NA
+27,102,"Cave, Thomas",Ford Fiesta,GB,RC4,"+42m 10,4s",NA,NA,NA
+28,94,"van der Marel, Jan Timo",Ford Fiesta,NL,RC4,"+42m 18,5s",NA,NA,NA
+29,90,"Lopez, Jose M.",Ford Fiesta,ES,RC4,"+42m 45,6s",NA,NA,NA
+30,85,"Garcia, Christian",Ford Fiesta,ES,RC4,"+43m 39,6s",NA,NA,NA
+31,52,"Tempestini, Simone",Citroen DS3,IT,RC3,"+44m 27,2s",NA,NA,NA
+32,106,"Kornicki, Szymon",Ford Fiesta,PL,RC4,"+45m 05,8s",NA,NA,NA
+33,104,"Vatanen, Max",Ford Fiesta,FI,RC4,"+45m 07,3s",NA,NA,NA
+34,84,"Paniceres, Angel",Ford Fiesta,ES,RC4,"+46m 21,0s",0:20,NA,NA
+35,101,"Parn, Sander",Ford Fiesta,EE,RC4,"+47m 53,6s",NA,NA,NA
+36,103,"de Mevius, Ghislain",Ford Fiesta,BE,RC4,"+48m 05,9s",0:10,NA,NA
+37,93,"van Deijne, Kevin",Ford Fiesta,NL,RC4,"+49m 48,2s",NA,NA,NA
+38,105,"Gilbert, Quentin",Ford Fiesta,FR,RC4,"+52m 00,9s",NA,NA,NA
+39,108,"Amiouni, Nicolas",Ford Fiesta,LB,RC4,"+53m 24,4s",NA,NA,NA
+40,42,"Serderidis, Jourdan",Ford Fiesta,GR,RC2,"+54m 37,9s",NA,NA,NA
+41,78,"Pellegrineschi, Daniele",Mitsubishi Lancer Evo X,IT,RC2,"+59m 21,7s",5:10,NA,NA
+42,82,"Pletka, Tomas",Citroen DS3,CZ,RC3,"+59m 55,1s",1:40,NA,NA
+43,89,"Filip, Juan A.",Ford Fiesta,ES,RC4,"+1h 01m 09,2s",NA,NA,NA
+44,86,"Otero, Alberto",Ford Fiesta,ES,RC4,"+1h 01m 09,9s",0:10,NA,NA
+45,97,"Casado, Philippe",Peugeot 208,FR,RC4,"+1h 01m 34,8s",NA,NA,NA
+46,91,"Esteban, Zihara",Ford Fiesta,ES,RC4,"+1h 01m 43,5s",0:10,NA,NA
+47,67,"al-Mutawa, Mohammed",Citroen DS3,AE,RC3,"+1h 04m 38,0s",NA,NA,NA
+48,79,"Ramos, Joao Fernardo",Mitsubishi Lancer Evo X,PT,RC2,"+1h 04m 58,8s",NA,NA,NA
+49,83,"Guerrero, Joel",Peugeot 208,ES,RC4,"+1h 05m 13,9s",0:10,NA,NA
+50,109,"Urlichich, Leonid",Ford Fiesta,RU,RC4,"+1h 07m 53,1s",0:50,NA,NA
+51,80,"Pares, Mariano",Mitsubishi Lancer Evo IX,ES,RC2,"+1h 08m 31,0s",0:20,NA,NA
+52,96,"Ptaszek, Hubert",Ford Fiesta,PL,RC4,"+1h 11m 14,4s",NA,NA,NA
+53,88,"Caamano, Iago",Ford Fiesta,ES,RC4,"+1h 11m 19,5s",0:10,NA,NA
+54,92,"Cabrera, Juan Carlos",Ford Fiesta,ES,RC4,"+1h 22m 41,0s",0:10,NA,NA
+55,98,"Domenech, Josep Anton",Renault Twingo,ES,RC4,"+1h 24m 09,9s",NA,NA,NA
+56,99,"Blanco, Ruben",Suzuki Swift,ES,RC5,"+1h 26m 18,7s",0:10,NA,NA
+NA,36,"Sousa, Bernardo",Ford Fiesta,PT,RC2,NA,NA,SS3,mechanical
+NA,37,"Bertelli, Lorenzo",Ford Fiesta,IT,RC2,NA,NA,TC15,mechanical
+NA,40,"Chardonnet, Sebastien",Citroen DS3,FR,RC2,NA,NA,TC16B,mechanical
+NA,57,"Lefebvre, Stephane",Citroen DS3,FR,RC2,NA,NA,TC7D,unknown
+NA,72,"Alonso, Juan Carlos",Mitsubishi Lancer Evo X,AR,RC2,NA,NA,TC4,mechanical
+NA,73,"Pons, Xavier",Ford Fiesta,ES,RC2,NA,NA,SS16,mechanical
+NA,81,"Veiby, Ole Christian",Citroen DS3,NO,RC3,NA,NA,SS3,mechanical
+NA,87,"Gonzalez, Marcos",Ford Fiesta,ES,RC4,NA,NA,TC15C,mechanical
+NA,95,"Wikstedt, Mikael",Ford Fiesta,FI,RC4,NA,NA,TC4A,mechanical

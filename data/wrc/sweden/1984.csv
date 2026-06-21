@@ -1,0 +1,18 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Blomqvist, Stig",Audi quattro A2,SE,B,4h 16m 45s,NA,NA,NA
+2,3,"Mouton, Michele",Audi quattro A2,FR,B,+7m 27s,NA,NA,NA
+3,2,"Eklund, Per",Audi quattro A2,SE,B,+16m 42s,NA,NA,NA
+4,6,"Jonsson, Mats",Opel Ascona 400,SE,B,+18m 40s,NA,NA,NA
+5,21,"Torph, Lars-Erik",Opel Ascona,SE,A,+20m 01s,NA,NA,NA
+6,17,"Johansson, Bjorn",Opel Ascona,SE,A,+20m 25s,NA,NA,NA
+7,24,"Eriksson, Kenneth",Opel Kadett GT/E,SE,A,+24m 16s,NA,NA,NA
+8,15,"Andervang, Stig",Ford Escort RS,SE,B,+25m 33s,NA,NA,NA
+9,20,"Pettersson, Gunnar",Audi 80 Coupe,SE,A,+26m 17s,NA,NA,NA
+10,23,"Ahlin, Jerry",Opel Ascona,SE,A,+28m 59s,NA,NA,NA
+13,10,"Carlsson, Ingvar",Mazda Familia 4WD,SE,A,NA,NA,NA,NA
+30,81,"Dussert, Christian",Talbot Samba,FR,N,+1h 33m 50s,NA,NA,NA
+NA,4,"Lampi, Lasse",Audi quattro A1,FI,B,NA,NA,SS6,gearbox
+NA,7,"Kullang, Anders",Volvo 240 Turbo,SE,A,NA,NA,SS6,head gasket
+NA,8,"Grundel, Karl",Volkswagen Golf GTi,SE,A,NA,NA,SS10,engine
+NA,9,"Ericsson, Mikael",Audi 80 quattro,SE,A,NA,NA,SS23,accident
+NA,16,"Stromberg, Ola",Saab 99 Turbo,SE,A,NA,NA,SS18,engine

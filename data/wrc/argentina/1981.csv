@@ -1,0 +1,76 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,2,"Frequelin, Guy",Talbot Sunbeam,FR,G2,14h 22m 52s,NA,NA,NA
+2,1,"Mehta, Shekhar",Datsun Violet,KE,G4,+38m 52s,NA,NA,NA
+3,5,"Recalde, Jorge",Datsun 160J,AR,G2,+1h 38m 27s,NA,NA,NA
+4,9,"Soto, Ernesto",Renault 12,AR,G1,+2h 49m 58s,NA,NA,NA
+5,19,"Albertengo, Ricardo",Peugeot 504,AR,G2,+3h 14m 43s,NA,NA,NA
+6,26,"Etchegoyen, Luis",Ford Escort RS,UY,G2,+3h 22m 38s,NA,NA,NA
+7,8,"West, Federico",Ford Escort RS,UY,G2,+3h 41m 40s,NA,NA,NA
+8,50,"Romero, Luis",Renault 12,AR,G1,+4h 14m 29s,NA,NA,NA
+9,49,"Tubal, Miguel",Datsun 160J,AR,G2,+4h 34m 29s,NA,NA,NA
+10,31,"Maglione, Horacio",Peugeot 504,AR,G2,+4h 49m 07s,NA,NA,NA
+11,14,"Pardo, Julio",Mitsubishi Colt Lancer,AR,G2,+4h 53m 06s,NA,NA,NA
+12,NA,"Maggi, Jorge",Peugeot 504,AR,NA,+4h 55m 27s,NA,NA,NA
+13,NA,Demelchiori,Peugeot 504,NA,NA,+5h 15m 08s,NA,NA,NA
+14,NA,"Celis, Carlos",Renault 12,AR,NA,+6h 12m 22s,NA,NA,NA
+15,NA,"Ullmann, Jorge",Fiat 147,BR,NA,+6h 32m 27s,NA,NA,NA
+16,NA,"Cammarota, Fernando",Ford Escort RS2000,AR,NA,+6h 56m 02s,NA,NA,NA
+17,NA,Sala,Renault 12,NA,NA,+7h 35m 59s,NA,NA,NA
+18,NA,Giro,Renault 12,AR,NA,+8h 56m 23s,NA,NA,NA
+19,NA,Monroe,Fiat 128,NA,NA,+9h 12m 22s,NA,NA,NA
+20,NA,Atkinson,Fiat 128,AR,NA,+9h 29m 36s,NA,NA,NA
+21,NA,Abella Nazar,Renault 12,AR,NA,+9h 30m 18s,NA,NA,NA
+22,NA,Dietze,Renault 12,NA,NA,+10h 47m 49s,NA,NA,NA
+23,NA,Levalle,Fiat 147,PY,NA,+10h 52m 52s,NA,NA,NA
+24,NA,"Buigas, Antonio",Renault 12,AR,NA,+11h 05m 47s,NA,NA,NA
+25,NA,Pugliese,Citroen Visa,NA,NA,+12h 48m 24s,NA,NA,NA
+26,NA,Clement,Citroen Visa,AR,NA,+13h 27m 05s,NA,NA,NA
+NA,3,"Vatanen, Ari",Ford Escort RS,FI,G4,NA,NA,SS8,accident
+NA,4,"Zunino, Ricardo",Datsun 160J,AR,G2,NA,NA,SS5,accident
+NA,6,"Salonen, Timo",Datsun Violet,FI,G4,NA,NA,SS14,transmission
+NA,7,"Garro, Carlos",Peugeot 504,AR,G2,NA,NA,SS4,engine mountings
+NA,10,"de Vitta, Domingo",Ford Escort RS,UY,G4,NA,NA,SS6,rear axle
+NA,11,"Alcuaz, Francisco",Peugeot 504,AR,G2,NA,NA,SS9,engine
+NA,15,"Mayorga, Francisco",Saab 900 Turbo,AR,G1,NA,NA,SS6,engine
+NA,22,"Piazza, Carlos",Fiat 147,AR,NA,NA,NA,NA,unknown
+NA,40,"Salgada Nash, Juan Carlos Jose",Fiat 128,AR,NA,NA,NA,NA,unknown
+NA,99,Raies,Fiat 147,NA,NA,NA,NA,NA,unknown
+NA,NA,'Chucaro',Renault 12,NA,NA,NA,NA,NA,unknown
+NA,NA,Aguirre,Fiat 147,PY,NA,NA,NA,NA,unknown
+NA,NA,Barcelo,Datsun 160J,AR,NA,NA,NA,NA,unknown
+NA,NA,Bellitti,Renault 12,NA,NA,NA,NA,NA,unknown
+NA,NA,Beschan,Fiat 128,NA,NA,NA,NA,NA,unknown
+NA,NA,Breard,Alfa Romeo Alfetta,AR,NA,NA,NA,NA,unknown
+NA,NA,Busto,Fiat 128,AR,NA,NA,NA,NA,unknown
+NA,NA,Cainzos,Renault 5 Alpine,NA,NA,NA,NA,NA,unknown
+NA,NA,Chazaretta,Renault 12,NA,NA,NA,NA,NA,unknown
+NA,NA,Conrado,Peugeot 504,NA,NA,NA,NA,NA,unknown
+NA,NA,Cotignola,Renault 12,NA,NA,NA,NA,NA,unknown
+NA,NA,de Giovanni,Fiat 128,NA,NA,NA,NA,NA,unknown
+NA,NA,Duskobelich,Renault 12,NA,NA,NA,NA,NA,unknown
+NA,NA,Edelberg,Peugeot 504,NA,NA,NA,NA,NA,unknown
+NA,NA,"Fangio II, Juan-Manuel",Citroen Visa,NA,B,NA,NA,NA,unknown
+NA,NA,Fresco,Fiat 128,NA,NA,NA,NA,NA,unknown
+NA,NA,Frigliozzi,Fiat 128,NA,NA,NA,NA,NA,unknown
+NA,NA,Garcia,Renault 12,NA,NA,NA,NA,NA,unknown
+NA,NA,Gaydou,Fiat,NA,NA,NA,NA,NA,unknown
+NA,NA,Guerrero,Citroen Visa,AR,NA,NA,NA,NA,unknown
+NA,NA,Ibanez,Peugeot 504,NA,NA,NA,NA,NA,unknown
+NA,NA,Janovich,Fiat 128,AR,NA,NA,NA,NA,unknown
+NA,NA,Klis,Renault 12,AR,NA,NA,NA,NA,unknown
+NA,NA,Marx,Renault 12,NA,NA,NA,NA,NA,unknown
+NA,NA,Meier,Fiat 147,NA,NA,NA,NA,NA,unknown
+NA,NA,Menendez,Subaru,NA,NA,NA,NA,NA,unknown
+NA,NA,"Moroni, Alejandro",Renault 12,AR,NA,NA,NA,NA,unknown
+NA,NA,Naufe,Peugeot 504,NA,NA,NA,NA,NA,unknown
+NA,NA,Navarro,Renault 12,AR,NA,NA,NA,NA,unknown
+NA,NA,Paz,Fiat 128,AR,NA,NA,NA,NA,unknown
+NA,NA,Pecci,Fiat 125,NA,NA,NA,NA,NA,unknown
+NA,NA,"Raies, Gabriel",Fiat 147,AR,NA,NA,NA,NA,unknown
+NA,NA,Rasetto,Peugeot 504,NA,NA,NA,NA,NA,unknown
+NA,NA,Ruiz,Fiat 128,NA,NA,NA,NA,NA,unknown
+NA,NA,Salim,Peugeot 504,NA,NA,NA,NA,NA,unknown
+NA,NA,"Smith, Alejandro",Citroen Visa,AR,NA,NA,NA,NA,unknown
+NA,NA,Solmi,Citroen GS,AR,NA,NA,NA,NA,unknown
+NA,NA,"Torras, Miguel",Fiat 125,AR,NA,NA,NA,NA,unknown
+NA,NA,Ubeda,Renault 12,NA,NA,NA,NA,NA,unknown

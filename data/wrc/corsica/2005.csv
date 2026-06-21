@@ -1,0 +1,58 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Loeb, Sebastien",Citroen Xsara WRC,FR,A8,"3h 35m 4,67s",NA,NA,NA
+2,3,"Gardemeister, Toni",Ford Focus RS WRC 04,FI,A8,"+1m 51,7s",NA,NA,NA
+3,5,"Solberg, Petter",Subaru Impreza WRC2005,NO,A8,"+2m 42,0s",NA,NA,NA
+4,6,"Sarrazin, Stephane",Subaru Impreza WRC2005,FR,A8,"+3m 34,2s",NA,NA,NA
+5,4,"Kresta, Roman",Ford Focus RS WRC 04,CZ,A8,"+5m 21,5s",NA,NA,NA
+6,12,"Bengue, Alexandre",Skoda Fabia WRC 05,FR,A8,"+5m 27,8s",NA,NA,NA
+7,23,"Pons, Xavier",Citroen Xsara WRC,ES,A8,"+5m 41,8s",NA,NA,NA
+8,8,"Bernardi, Nicolas",Peugeot 307WRC Evo2,FR,A8,"+6m 32,1s",NA,NA,NA
+9,18,"Galli, Gianluigi",Mitsubishi Lancer WRC05,IT,A8,"+6m 37,8s",NA,NA,NA
+10,9,"Rovanpera, Harri",Mitsubishi Lancer WRC05,FI,A8,"+9m 22,5s",NA,NA,NA
+11,22,"Vouilloz, Nicolas",Skoda Fabia WRC,FR,A8,"+10m 29,5s",0:20,NA,NA
+12,19,"Kopecky, Jan",Skoda Fabia WRC 05,CZ,A8,"+10m 49,3s",NA,NA,NA
+13,14,"Warmbold, Antony",Ford Focus RS WRC 04,DE,A8,"+11m 47,1s",NA,NA,NA
+14,34,"Baldacci, Mirco",Fiat Punto S1600,SM,A6,"+20m 42,9s",NA,NA,NA
+15,41,"Sordo Castillo, Daniel",Citroen C2 S1600,ES,A6,"+23m 11,5s",NA,NA,NA
+16,67,"Latvala, Jari-Matti",Subaru Impreza,FI,N4,"+24m 07,1s",NA,NA,NA
+17,33,"Katajamaki, Kosti",Suzuki Ignis S1600 5d,FI,A6,"+24m 51,1s",NA,NA,NA
+18,62,"Leandri, Francois",Subaru Impreza,FR,A8,"+28m 42,0s",NA,NA,NA
+19,36,"Aava, Urmo",Suzuki Ignis S1600,EE,A6,"+29m 01,8s",NA,NA,NA
+20,40,"Rautenbach, Conrad",Citroen C2 S1600,ZW,A6,"+29m 07,6s",NA,NA,NA
+21,39,"Cecchettini, Luca",Fiat Punto S1600,IT,A6,"+30m 24,2s",NA,NA,NA
+22,43,"Prokop, Martin",Suzuki Ignis S1600,CZ,A6,"+30m 47,3s",NA,NA,NA
+23,65,"Valliccioni, Marc",Mitsubishi Lancer Evo VI,FR,N4,"+31m 58,5s",NA,NA,NA
+24,68,"Tanev, Georges",Subaru Impreza,BG,N4,"+36m 57,8s",0:10,NA,NA
+25,35,"Meeke, Kris",Citroen C2 S1600,GB,A6,"+37m 57,6s",NA,NA,NA
+26,83,"Fiandino, Fabien",Peugeot 206,FR,N3,"+38m 08,3s",NA,NA,NA
+27,79,"Cappuccio, Frederic",Peugeot 206,FR,N3,"+40m 01,6s",NA,NA,NA
+28,85,"Rovina, Stephane",Renault Clio,FR,N3,"+40m 45,3s",NA,NA,NA
+29,63,"Micheli, Jose",Toyota Corolla,FR,A8,"+46m 19,1s",NA,NA,NA
+30,89,"Fabregat, Gerald",Renault Clio,FR,N3,"+50m 38,8s",NA,NA,NA
+31,76,"Colleie, Patrick",Citroen Saxo VTS,FR,A6,"+50m 54,6s",NA,NA,NA
+32,71,"Branca, Michel",Mitsubishi Lancer Evo VII,FR,N4,"+52m 39,6s",NA,NA,NA
+33,69,"Cangani, Norberto",Mitsubishi Lancer Evo VIII,IT,N4,"+54m 15,7s",NA,NA,NA
+34,91,"Casabianca, Jacques",Peugeot 306,FR,N3,"+54m 30,2s",NA,NA,NA
+35,73,"Raoux, Jean-Michel",Peugeot 206,FR,A6,"+59m 30,2s",NA,NA,NA
+36,92,"Radtke, Paul Andre",Citroen Saxo VTS,FR,N2,"+59m 43,6s",0:50,NA,NA
+37,93,"Schmidt, Christian",Suzuki Ignis,DE,N2,"+1h 04m 15,9s",NA,NA,NA
+38,88,"Gaillard, Jean-Claude",Renault Clio,FR,N3,"+1h 06m 05,5s",NA,NA,NA
+39,87,"Takacs, Gabor",Peugeot 206,HU,N3,"+1h 10m 02,3s",NA,NA,NA
+40,94,"Lafont, Eric",Peugeot 106,FR,N2,"+1h 16m 38,1s",NA,NA,NA
+NA,2,"Duval, Francois",Citroen Xsara WRC,BE,A8,NA,NA,TC10,mechanical
+NA,7,"Gronholm, Marcus",Peugeot 307WRC Evo2,FI,A8,NA,NA,TC4D,mechanical
+NA,10,"Panizzi, Gilles",Mitsubishi Lancer WRC05,FR,A8,NA,NA,TC8D,mechanical
+NA,11,"Schwarz, Armin",Skoda Fabia WRC 05,DE,A8,NA,NA,TC6,mechanical
+NA,16,"Sola, Daniel",Ford Focus RS WRC 04,ES,A8,NA,NA,SS6,off road
+NA,17,"Atkinson, Christopher",Subaru Impreza WRC2005,AU,A8,NA,NA,SS10,off road
+NA,37,"Scorcioni, Alan",Suzuki Ignis S1600,IT,A6,NA,NA,SS1,mechanical
+NA,38,"Betti, Luca",Renault Clio S1600,IT,A6,NA,NA,SS10,mechanical
+NA,42,"Valousek, Pavel",Suzuki Ignis S1600,CZ,A6,NA,NA,TC10A,mechanical
+NA,64,"Orlandi, Stephane",Peugeot 306,FR,A7,NA,NA,TC7,mechanical
+NA,66,"Vouillon, Stephane",Subaru Impreza,FR,N4,NA,NA,SS10,mechanical
+NA,78,"Ristori, Paul",Peugeot 106,FR,A6,NA,NA,SS5,mechanical
+NA,80,"Amaudru, Franck",Renault Clio,FR,N3,NA,NA,SS7,off road
+NA,82,"Fiori, Guy",Peugeot 206,FR,N3,NA,NA,SS3,off road
+NA,84,"Quilici, Pierre",Renault Clio,FR,N3,NA,NA,TC8E,mechanical
+NA,86,"Bensimon, Claude",Renault Clio,FR,N3,NA,NA,TC4D,mechanical
+NA,90,"Poisson, Jean-Marc",Honda Integra,FR,N3,NA,NA,TC8D,mechanical

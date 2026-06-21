@@ -1,0 +1,40 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Loeb, Sebastien",Citroen Xsara WRC,FR,A8,"4h 40m 50,4s",NA,NA,NA
+2,3,"Gronholm, Marcus",Ford Focus RS WRC 06,FI,A8,"+21,2s",NA,NA,NA
+3,4,"Hirvonen, Mikko",Ford Focus RS WRC 06,FI,A8,"+5m 16,1s",NA,NA,NA
+4,7,"Stohl, Manfred",Peugeot 307WRC Evo2,AT,A8,"+6m 39,7s",NA,NA,NA
+5,14,"Gardemeister, Toni",Citroen Xsara WRC,FI,A8,"+8m 40,4s",NA,NA,NA
+6,8,"Solberg, Henning",Peugeot 307WRC Evo2,NO,A8,"+14m 40,0s",NA,NA,NA
+7,15,"Pons, Xavier",Citroen Xsara WRC,ES,A8,"+14m 46,7s",NA,NA,NA
+8,5,"Solberg, Petter",Subaru Impreza WRC2006,NO,A8,"+15m 21,5s",0:10,NA,NA
+9,6,"Atkinson, Christopher",Subaru Impreza WRC2006,AU,A8,"+17m 15,0s",NA,NA,NA
+10,9,"Wilson, Matthew",Ford Focus RS WRC 04,GB,A8,"+25m 21,0s",NA,NA,NA
+11,33,"Nutahara, Fumio",Mitsubishi Lancer Evo IX,JP,N4,"+29m 52,9s",NA,NA,NA
+12,45,"Teiskonen, Aki",Subaru Impreza,FI,N4,"+34m 10,4s",NA,NA,NA
+13,41,"al-Qassimi, Khalid",Subaru Impreza,AE,N4,"+35m 52,1s",NA,NA,NA
+14,10,"Perez Companc, Luis",Ford Focus RS WRC 04,AR,A8,"+40m 00,9s",NA,NA,NA
+15,40,"Campedelli, Simone",Mitsubishi Lancer Evo VIII,IT,N4,"+41m 24,0s",0:20,NA,NA
+16,65,"Philippou, Andreas",Subaru Impreza,CY,N4,"+45m 14,2s",NA,NA,NA
+17,74,"Pamboukka, Pantelis",Subaru Impreza,CY,N4,"+47m 26,4s",NA,NA,NA
+18,75,"Kouloumas, Manolis",Mitsubishi Lancer Evo VI,CY,A8,"+50m 21,8s",NA,NA,NA
+19,39,"al-Attiyah, Nasser",Subaru Impreza WRX,QA,N4,"+53m 57,9s",0:10,NA,NA
+20,67,"Limniotis, Lambros",Mitsubishi Lancer Evo IX,CY,N4,"+56m 29,3s",NA,NA,NA
+21,69,"Savva, Savvas",Subaru Impreza,CY,N4,"+58m 01,2s",0:20,NA,NA
+22,31,"Arai, Toshihiro",Subaru Impreza WRX,JP,N4,"+1h 02m 57,5s",NA,NA,NA
+23,66,"Chartoupalos, Yiotis",Mitsubishi Lancer Evo VI,CY,N4,"+1h 17m 41,1s",NA,NA,NA
+24,83,"Panteli, Petros",Toyota Yaris,CY,A5,"+1h 20m 01,4s",NA,NA,NA
+25,63,"Timotheou, Charalambos",Mitsubishi Lancer Evo VII,CY,N4,"+1h 21m 59,7s",NA,NA,NA
+26,80,"Achilleos, Stavros",Honda Civic,CY,A6,"+1h 23m 00,2s",NA,NA,NA
+27,82,"Makaronis, Akis",Toyota Yaris,GR,A5,"+1h 48m 39,5s",0:50,NA,NA
+NA,2,"Sordo Castillo, Daniel",Citroen Xsara WRC,ES,A8,NA,NA,SS20,accident
+NA,11,"Rovanpera, Harri",Skoda Fabia WRC 05,FI,A8,NA,NA,TC2,electrical
+NA,12,"Aigner, Andreas",Skoda Fabia WRC 05,AT,A8,NA,NA,TC2,electrical
+NA,17,"Raies, Juan Pablo",Ford Focus RS WRC 04,AR,A8,NA,NA,TC18,co-driver illness
+NA,43,"Burkart, Aaron Nicolai",Mitsubishi Lancer Evo VIII,DE,N4,NA,NA,SS10,mechanical
+NA,46,"Heath, Nigel",Subaru Impreza,GB,N4,NA,NA,SS1,mechanical
+NA,59,"Tsouloftas, Andreas",Mitsubishi Lancer Evo IX,CY,N4,NA,NA,TC4A,outside assistance
+NA,60,"Pavlides, Spyros",Subaru Impreza,CY,N4,NA,NA,SS15,mechanical
+NA,62,"Koutsakos, Kikis",Subaru Impreza,CY,N4,NA,NA,TC8D,mechanical
+NA,64,"Zakos, Georgios",Subaru Impreza,CY,N4,NA,NA,SS11,mechanical
+NA,70,"Komodromos, Charis",Subaru Impreza,CY,N4,NA,NA,TC16C,mechanical
+NA,71,"Dobson, Ken",Mitsubishi Lancer Evo VIII,GB,N4,NA,NA,SS9,off road

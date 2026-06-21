@@ -1,0 +1,61 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,19,"Sainz, Carlos",Citroen Xsara WRC,ES,A8,"4h 32m 14,1s",NA,NA,NA
+2,2,"Burns, Richard",Peugeot 206WRC (2002),GB,A8,"+47,9",NA,NA,NA
+3,5,"Duval, Francois",Ford Focus RS WRC 02,BE,A8,"+1:46,5",NA,NA,NA
+4,17,"McRae, Colin",Citroen Xsara WRC,GB,A8,"+2:09,1",NA,NA,NA
+5,21,"Panizzi, Gilles",Peugeot 206WRC (2001),FR,A8,"+2:41,6",NA,NA,NA
+6,4,"Martin, Markko",Ford Focus RS WRC 02,EE,A8,"+3:24,9",NA,NA,NA
+7,15,"Gardemeister, Toni",Skoda Octavia WRC Evo3,FI,A8,"+5:13,0",NA,NA,NA
+8,8,"Makinen, Tommi",Subaru Impreza WRC2003,FI,A8,"+7:18,6",NA,NA,NA
+9,1,"Gronholm, Marcus",Peugeot 206WRC (2002),FI,A8,"+10:52,2",1:40,NA,NA
+10,11,"Loix, Freddy",Hyundai Accent WRC3,BE,A8,"+11:40,4",NA,NA,NA
+11,22,"Pykalisto, Juuso",Peugeot 206WRC (2001),FI,A8,"+13:47,9",0:30,NA,NA
+12,103,"Ginley, Alistair",Ford Focus RS WRC 02,GB,A8,"+29:09,6",0:30,NA,NA
+13,24,"Benik, Balazs",Ford Focus RS WRC 01,HU,A8,"+29:48,6",1:00,NA,NA
+14,101,"Jean-Joseph, Simon",Renault Clio S1600,FR,A6,"+32:07,1",NA,NA,NA
+15,54,"Katajamaki, Kosti",Volkswagen Polo S1600,FI,A6,"+36:42,5",NA,NA,NA
+16,69,"Canellas, Salvador",Suzuki Ignis S1600,ES,A6,"+41:47,3",NA,NA,NA
+17,105,"Girdauskas, Saulius",Mitsubishi Lancer Evo VII,LT,N4,"+44:13,8",0:10,NA,NA
+18,70,"Wilks, Guy",Ford Puma S1600,GB,A6,"+45:51,0",0:40,NA,NA
+19,64,"Teuronen, Ville-Pertti",Suzuki Ignis S1600,FI,A6,"+50:05,1",5:40,NA,NA
+20,113,"Sipahi, Emin Ali",Mitsubishi Lancer Evo VII,TU,A8,"+59:08,2",0:10,NA,NA
+21,76,"Cecchettini, Luca",Fiat Punto S1600,IT,A6,"+1:05:51,5",0:50,NA,NA
+22,106,"Isik, Volkan",Fiat Palio S1600,TU,A6,"+1:11:21,0",2:20,NA,NA
+23,114,"Diker, Vedat",Mitsubishi Lancer Evo VII,TU,N4,"+1:16:26,7",0:10,NA,NA
+24,65,"Feghali, Abdo",Ford Puma S1600,LB,A6,"+1:18:03,9",1:00,NA,NA
+25,121,"Diker, Mitat",Fiat Palio S1600,TU,A6,"+1:19:40,9",NA,NA,NA
+26,57,"Iliev, Dimitar",Peugeot 206 S1600,BG,A6,"+1:34:25,3",1:40,NA,NA
+NA,3,"Rovanpera, Harri",Peugeot 206WRC (2002),FI,A8,NA,NA,SS13,mechanical
+NA,6,"Hirvonen, Mikko",Ford Focus RS WRC 02,FI,A8,NA,NA,SS4,mechanical
+NA,7,"Solberg, Petter",Subaru Impreza WRC2003,NO,A8,NA,NA,SS4,mechanical
+NA,10,"Schwarz, Armin",Hyundai Accent WRC3,DE,A8,NA,NA,SS7,mechanical
+NA,14,"Auriol, Didier",Skoda Octavia WRC Evo3,FR,A8,NA,NA,SS6,mechanical
+NA,18,"Loeb, Sebastien",Citroen Xsara WRC,FR,A8,NA,NA,SS3,out of fuel
+NA,32,"Yazici, Serkan",Ford Focus RS WRC 01,TU,A8,NA,NA,SS10,mechanical
+NA,51,"Baldacci, Mirco",Fiat Punto S1600,SM,A6,NA,NA,SS4,mechanical
+NA,52,"Carlsson, Daniel",Suzuki Ignis S1600,SE,A6,NA,NA,SS15,mechanical
+NA,55,"Stenshorne, Martin",Ford Puma S1600,NO,A6,NA,NA,SS7,mechanical
+NA,58,"Ligato, Marcos",Fiat Punto S1600,AR,A6,NA,NA,SS11,unknown
+NA,59,"Harrach, Beppo",Ford Puma S1600,AT,A6,NA,NA,SS4,mechanical
+NA,61,"Tirabassi, Brice",Renault Clio S1600,FR,A6,NA,NA,SS3,off road
+NA,62,"Svedlund, Oscar",Volkswagen Polo S1600,SE,A6,NA,NA,SS3,mechanical
+NA,63,"Ceccato, Massimo",Fiat Punto S1600,IT,A6,NA,NA,SS11,unknown
+NA,66,"Ceccone, Sebastien",Citroen Saxo S1600,FR,A6,NA,NA,SS9,mechanical
+NA,67,"Broccoli, Alessandro",Opel Corsa S1600,SM,A6,NA,NA,SS12,mechanical
+NA,68,"Sebalj, Juraj",Renault Clio S1600,HR,A6,NA,NA,SS8,mechanical
+NA,71,"Aava, Urmo",Suzuki Ignis S1600,EE,A6,NA,NA,SS5,mechanical
+NA,73,"Donchev, Krum",Peugeot 206 S1600,BG,A6,NA,NA,SS3,mechanical
+NA,74,"Meeke, Kris",Opel Corsa S1600,GB,A6,NA,NA,SS6,mechanical
+NA,78,"Vasiljevic, Vladan",Volkswagen Polo S1600,DE,A6,NA,NA,SS1,mechanical
+NA,104,"Fulop, Rajmund",Toyota Corolla WRC,HU,A8,NA,NA,SS4,mechanical
+NA,107,"Gulerhan, Celal",Mitsubishi Lancer Evo VII,TU,N4,NA,NA,SS12,off road
+NA,108,"Unal, Hamdi",Opel Astra,TU,A7,NA,NA,TC0,mechanical
+NA,109,"Deveci, Ali",Fiat Palio S1600,TU,A6,NA,NA,SS7,mechanical
+NA,112,"Nacaroglu, Ertan",Subaru Impreza,TU,N4,NA,NA,TC0,mechanical
+NA,115,"Genim, Ethem",Renault Megane,TU,A7,NA,NA,SS4,mechanical
+NA,118,"Gonenc, Mehmet",Mitsubishi Lancer Evo VI,TU,N4,NA,NA,SS4,off road
+NA,119,"Erim, Kuvvet",Citroen Saxo S1600,TU,A6,NA,NA,SS18,unknown
+NA,120,"Ergor, Emre",Peugeot 306,TU,A7,NA,NA,SS3,mechanical
+NA,122,"Yurdakul, Nurkan",Citroen Saxo S1600,TU,A6,NA,NA,SS15,mechanical
+NA,124,"Merkit, Zeynep",Fiat Palio,TU,N2,NA,NA,SS6,mechanical
+NA,125,"Gulan, Ali",Citroen Saxo,TU,N2,NA,NA,SS10,off road

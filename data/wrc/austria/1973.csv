@@ -1,0 +1,24 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,8,"Warmbold, Achim",BMW 2002Tii,DE,G2,"3h 58m 55,5s",NA,NA,NA
+2,2,"Darniche, Bernard",Renault-Alpine A110 1800,FR,G4,"+ 1m 14,6s",NA,NA,NA
+3,15,"Eklund, Per",Saab 96 V4,SE,G2,"+1m 15,7s",NA,NA,NA
+4,16,"Waldegard, Bjorn",BMW 2002Tii,SE,G2,"+2m 15,0s",NA,NA,NA
+5,11,"Nicolas, Jean-Pierre",Renault-Alpine A110,FR,G4,"+2m 30,3s",NA,NA,NA
+6,3,"Lindberg, Hakan",Fiat 124 Abarth Spider,SE,G4,"+7m 20,4s",NA,NA,NA
+7,5,"Russling, Klaus",Porsche 911,AT,G4,"+7m 42,8s",NA,NA,NA
+8,9,"Andersson, Ove",Toyota Celica,SE,G2,"+10m 10,3s",NA,NA,NA
+9,17,"Grundsteidl, Herbert",BMW 2002,AT,G2,"+11m 06,7s",NA,NA,NA
+10,12,"Fall, Tony",Volkswagen 1303S,GB,G2,"+12m 21,4s",NA,NA,NA
+11,6,"Kallstrom, Harry",Volkswagen 1303S,SE,G2,"+12m 53,0s",NA,NA,NA
+12,25,"Wittman, Franz",Volkswagen 1303S,AT,G2,"+15m 40,3s",NA,NA,NA
+13,24,"Blomqvist, Gunnar",Opel Ascona,SE,G2,"+21m 21,6s",NA,NA,NA
+14,27,"Dietmayer, Vic",BMW 2002,AT,G1,"+36m 18,6s",NA,NA,NA
+15,47,"Steinwender, H.",Fiat 124,AT,G2,"+49m 36,3s",NA,NA,NA
+16,29,"Zockl, Walter",BMW 2002,AT,G1,"+59m 28,2s",NA,NA,NA
+NA,1,"Janger, Gunther",Volkswagen 1303S,AT,G2,NA,NA,SS27,accident
+NA,4,"Rohrl, Walter",Opel Ascona,DE,G2,NA,NA,after SS14,differential
+NA,7,"Blomqvist, Stig",Saab 96 V4,SE,G2,NA,NA,SS21,differential
+NA,10,"Pinto, Raffaele",Fiat 124 Abarth Spider,IT,G4,NA,NA,NA,accident
+NA,14,"Paganelli, Alcide",Fiat 124 Abarth Spider,IT,G4,NA,NA,SS8,engine
+NA,19,"Roser, Walter",Renault-Alpine A110 1800,AT,G4,NA,NA,SS15,unknown
+NA,21,"Bochnicek, Richard",Citroen DS23,AT,G2,NA,NA,SS15,oil leak

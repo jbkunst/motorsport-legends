@@ -1,0 +1,21 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"Rohrl, Walter",Lancia Rally 037,DE,B,11h 12m 22s,NA,NA,NA
+2,7,"Alen, Markku",Lancia Rally 037,FI,B,+6m 20s,NA,NA,NA
+3,8,"Blomqvist, Stig",Audi quattro A2,SE,B,+13m 56s,NA,NA,NA
+4,2,"Vatanen, Ari",Opel Manta 400,FI,B,+22m 49s,NA,NA,NA
+5,15,"Bettega, Attilio",Lancia Rally 037,IT,B,+24m 16s,NA,NA,NA
+6,10,"Mehta, Shekhar",Nissan 240 RS,KE,B,+37m 19s,NA,NA,NA
+7,11,"Wittman, Franz",Audi quattro A2,AT,B,+41m 41s,NA,NA,NA
+8,9,"McRae, Jimmy",Opel Manta 400,GB,B,+44m 01s,NA,NA,NA
+9,42,"Wambergue, Philippe",Citroen Visa,FR,B,+2h 05m 08s,NA,NA,NA
+10,34,"Chomat, Maurice",Citroen Visa,FR,B,+2h 15m 46s,NA,NA,NA
+13,27,"Papatriantafilou, Andreas",Toyota Corolla,GR,G2,+2h 39m 07s,NA,NA,NA
+14,68,"Gallo, Evangelos",Toyota Corolla,GR,A,+3h 02m 49s,NA,NA,NA
+15,17,"Warmbold, Achim",Mazda RX7,DE,G2,NA,NA,NA,NA
+NA,1,"Mouton, Michele",Audi quattro A2,FR,B,NA,NA,SS1,accident
+NA,4,"Mikkola, Hannu",Audi quattro A2,FI,B,NA,NA,SS37,mechanical
+NA,5,"Salonen, Timo",Nissan 240 RS,FI,B,NA,NA,SS29,gearbox
+NA,6,"Toivonen, Henri",Opel Manta 400,FI,B,NA,NA,SS32,accident
+NA,14,"Ragnotti, Jean",Renault 5 Turbo,FR,B,NA,NA,SS8,wheel studs
+NA,16,"Moschous, George",Nissan 240 RS,GR,B,NA,NA,SS38,steering
+NA,134,"Cygan, Wieslaw",Polski-Fiat 125p,PL,G2,NA,NA,NA,OTL

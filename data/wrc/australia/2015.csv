@@ -1,0 +1,27 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Ogier, Sebastien",Volkswagen Polo R WRC,FR,RC1,"2h 59m 16,4s",NA,NA,NA
+2,2,"Latvala, Jari-Matti",Volkswagen Polo R WRC,FI,RC1,"+12,3s",NA,NA,NA
+3,3,"Meeke, Kris",Citroen DS3 WRC,GB,RC1,"+32,6s",NA,NA,NA
+4,9,"Mikkelsen, Andreas",Volkswagen Polo R WRC,NO,RC1,"+38,5s",0:10,NA,NA
+5,8,"Paddon, Hayden",Hyundai i20 WRC,NZ,RC1,"+55,0s",NA,NA,NA
+6,6,"Tanak, Ott",Ford Fiesta RS WRC,EE,RC1,"+1m 38,0s",NA,NA,NA
+7,7,"Neuville, Thierry",Hyundai i20 WRC,BE,RC1,"+2m 08,3s",NA,NA,NA
+8,20,"Sordo Castillo, Daniel",Hyundai i20 WRC,ES,RC1,"+2m 15,2s",NA,NA,NA
+9,5,"Evans, Elfyn",Ford Fiesta RS WRC,GB,RC1,"+4m 33,7s",NA,NA,NA
+10,39,"al-Attiyah, Nasser",Ford Fiesta,QA,RC2,"+11m 46,5s",NA,NA,NA
+11,38,"Protasov, Yuriy",Ford Fiesta,UA,RC2,"+12m 00,0s",NA,NA,NA
+12,40,"al-Kuwari, Abdulaziz",Ford Fiesta,QA,RC2,"+14m 12,3s",NA,NA,NA
+13,4,"Lefebvre, Stephane",Citroen DS3 WRC,FR,RC1,"+16m 10,4s",NA,NA,NA
+14,44,"Quinn, Nathan",Mitsubishi Lancer Evo IX,AU,RC2,"+18m 20,0s",NA,NA,NA
+15,73,"Evans, Eli",Citroen DS3,AU,ASN,"+26m 25,0s",NA,NA,NA
+16,75,"Taylor, Molly",Renault Clio,AU,ASN,"+30m 43,5s",0:20,NA,NA
+17,77,"Coppin, Adrian",Citroen DS3,AU,ASN,"+32m 58,8s",1:10,NA,NA
+18,37,"Bertelli, Lorenzo",Ford Fiesta RS WRC,IT,RC1,"+37m 45,3s",NA,NA,NA
+19,43,"Linari, Gianluca",Subaru Impreza WRX,IT,RC2,"+41m 18,2s",NA,NA,NA
+20,79,"Dunn, Peter",Subaru Impreza WRX,AU,RC2,"+50m 47,1s",2:20,NA,NA
+21,80,"Pinter, Rhys",Ford Fiesta,AU,RC4,"+54m 09,0s",NA,NA,NA
+22,42,"Pedder, Scott",Ford Fiesta,AU,RC2,"+1h 19m 09,5s",1:00,NA,NA
+NA,31,"al-Rajhi, Yazeed",Ford Fiesta,SA,RC2,NA,NA,SS11,stopped
+NA,74,"Pedder, Mark",Peugeot 208,AU,ASN,NA,NA,SS17,mechanical
+NA,76,"Sullens, Tony",Citroen DS3,AU,ASN,NA,NA,TC10C,mechanical
+NA,81,"Raymond, Stephen",Ford Fiesta,AU,RC4,NA,NA,TC8D,unknown

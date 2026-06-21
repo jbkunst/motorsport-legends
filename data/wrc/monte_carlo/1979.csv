@@ -1,0 +1,59 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,4,"Darniche, Bernard",Lancia Stratos HF,FR,G4,8h 13m 38s,NA,NA,NA
+2,2,"Waldegard, Bjorn",Ford Escort RS,SE,G4,+6s,NA,NA,NA
+3,3,"Alen, Markku",Fiat 131 Abarth,FI,G4,+4m 09s,NA,NA,NA
+4,9,"Andruet, Jean-Claude",Fiat 131 Abarth,FR,G4,+5m 42s,NA,NA,NA
+5,5,"Mikkola, Hannu",Ford Escort RS,FI,G4,+9m 29s,NA,NA,NA
+6,1,"Nicolas, Jean-Pierre",Porsche 911,FR,G4,+12m 59s,NA,NA,NA
+7,12,"Mouton, Michele",Fiat 131 Abarth,FR,G4,+21m 08s,NA,NA,NA
+8,16,"Frequelin, Guy",Renault 5 Alpine,FR,G2,+30m 49s,NA,NA,NA
+9,36,"Almeras, Jacques",Porsche 911,FR,G4,+36m 18s,NA,NA,NA
+10,17,"Vatanen, Ari",Ford Fiesta 1600,FI,G2,+36m 37s,NA,NA,NA
+11,11,"Ragnotti, Jean",Renault 5 Alpine,FR,G2,+43m 15s,NA,NA,NA
+12,26,"Clarr, Jean-Louis",Opel Kadett GT/E,FR,G1,+46m 07s,NA,NA,NA
+13,15,"Clark, Roger",Ford Fiesta 1600,GB,G2,+49m 34s,NA,NA,NA
+14,58,"Fritzinger, Klaus",Toyota Celica,DE,G2,+57m 55s,NA,NA,NA
+15,41,"Serpaggi, Francis",Opel Kadett GT/E,FR,G1,+1h 03m 14s,NA,NA,NA
+16,30,"Beguin, Bernard",Ford Escort RS2000,FR,G2,+1h 03m 58s,NA,NA,NA
+17,38,"Swaton, Gerard",Porsche 911,FR,G3,+1h 04m 06s,NA,NA,NA
+18,53,"Panciatici, Jacques",Renault 5 Alpine,FR,G2,+1h 06m 27s,NA,NA,NA
+19,80,"Grindou, Joseph",Porsche 911,FR,G3,+1h 07m 11s,NA,NA,NA
+20,40,"Barth, Jurgen",Porsche 924GTS,DE,G4,+1h 07m 47s,NA,NA,NA
+21,23,"Beauchef, Alain",Ford Escort,LU,G1,+1h 08m 40s,NA,NA,NA
+22,139,"Bos, Pierre",Porsche Carrera RS,FR,G3,+1h 10m 39s,NA,NA,NA
+23,57,"Jensen, Walter",Ford Escort,NO,G1,+1h 12m 16s,NA,NA,NA
+24,35,"Lamirault, Olivier",Renault-Alpine A310,FR,G4,+1h 14m 36s,NA,NA,NA
+25,98,"Ballet, Jean-Pierre",Porsche 911,FR,G3,+1h 16m 24s,NA,NA,NA
+26,18,"Vincent, Francis",Alfa Romeo Alfasud,FR,G2,+1h 16m 36s,NA,NA,NA
+27,83,"Cerf, Christian",Renault-Alpine A310,FR,G4,+1h 16m 39s,NA,NA,NA
+28,144,"Helle, Holger",Opel Kadett GT/E,DK,G2,+1h 16m 53s,NA,NA,NA
+29,93,"Lacorne, P.",Porsche 911,NA,G2,+1h 18m 06s,NA,NA,NA
+30,43,"Coleman, Billy",Porsche 911,IE,G3,+1h 18m 12s,NA,NA,NA
+31,62,"Cat, Robert",Opel Kadett GT/E,FR,G2,+1h 18m 28s,NA,NA,NA
+32,182,"Disdier, Paul",Opel Kadett GT/E,FR,G1,+1h 18m 48s,NA,NA,NA
+33,29,"Laurent, Claude",Volkswagen Golf GTi,FR,G1,+1h 20m 18s,NA,NA,NA
+34,66,"Metiffiot, Franck",Opel Kadett GT/E,FR,G1,+1h 23m 56s,NA,NA,NA
+35,146,"Ayme, Jean-Paul",Ford Escort,FR,G1,+1h 25m 53s,NA,NA,NA
+36,77,"Cabaniols, Henri",Opel Kadett GT/E,FR,G2,+1h 26m 38s,NA,NA,NA
+37,127,"Jurain, P.",Ford Escort,NA,G1,+1h 27m 20s,NA,NA,NA
+38,201,"Blanc, Christian",Opel Kadett GT/E,CH,G1,+1h 27m 45s,NA,NA,NA
+39,245,"Rousseau, Francois",Simca Rallye 3,FR,G1,+1h 28m 16s,NA,NA,NA
+40,59,"Belliard, J.",Renault 5 Alpine,NA,G2,+1h 30m 02s,NA,NA,NA
+43,46,"Hoepfner, Marianne",Citroen CX2400,FR,G1,+1h 32m 30s,NA,NA,NA
+50,42,"Snobeck, Dany",Volkswagen Golf Diesel,FR,Dsl,+1h 38m 07s,NA,NA,NA
+51,71,"Groblewski, Wlodzimierz",FSO Polonez,PL,G4,+1h 38m 12s,NA,NA,NA
+53,67,"Jaroszewicz, Andrzej",FSO Polonez,PL,G4,+1h 39m 43s,NA,NA,NA
+76,54,"Pagani, Pierre",Volkswagen Golf Diesel,FR,Dsl,+1h 55m 51s,NA,NA,NA
+NA,6,"Bacchelli, Fulvio",Lancia Stratos HF,IT,G4,NA,NA,SS25,accident
+NA,7,"Eklund, Per",Fiat Ritmo,SE,G2,NA,NA,SS25,engine
+NA,8,"Carello, Tony",Ford Escort RS,IT,G4,NA,NA,SS29,lost wheel
+NA,10,"Kullang, Anders",Opel Kadett GT/E,SE,G2,NA,NA,SS1,punctures
+NA,14,"Rohrl, Walter",Fiat 131 Abarth,DE,G4,NA,NA,SS29,engine
+NA,19,"Therier, Jean-Luc",Volkswagen Golf GTi,FR,G2,NA,NA,SS20,throttle
+NA,20,"Bettega, Attilio",Fiat Ritmo,IT,G2,NA,NA,SS7,engine
+NA,21,"Warmbold, Achim",Citroen CX2500D,DE,Dsl,NA,NA,SS19,speeding
+NA,28,"Saby, Bruno",Renault 5 Alpine,FR,G2,NA,NA,NA,unknown
+NA,31,"Servia, Salvador",Fiat 131 Abarth,ES,G4,NA,NA,NA,steering
+NA,69,"Baroni, Pierre-Cesar",Porsche 911,FR,G3,NA,NA,NA,electrical
+NA,205,"Krakowczyk, Henryk",Audi 80,PL,G1,NA,NA,NA,unknown
+NA,268,"Smorawinski, Adam",FSO Polonez,PL,G4,NA,NA,NA,NA

@@ -1,0 +1,17 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,4,"Jonsson, Mats",Toyota Celica GT-4 (ST165),SE,A8,5h 24m 37s,NA,NA,NA
+2,7,"McRae, Colin",Subaru Legacy RS,GB,A,+39s,NA,NA,NA
+3,6,"Blomqvist, Stig",Nissan Sunny GTI-R,SE,A,+1m 32s,NA,NA,NA
+4,2,"Alen, Markku",Toyota Celica GT-4 (ST165),FI,A,+1m 48s,NA,NA,NA
+5,16,"Asterhag, Leif",Toyota Celica GT-4 (ST165),SE,A,+6m 16s,NA,NA,NA
+6,11,"Eklund, Per",Subaru Legacy RS,SE,A,+10m 35s,NA,NA,NA
+7,10,"Johansson, Bjorn",Mazda 323 GT-X,SE,A,+14m 21s,NA,NA,NA
+8,12,"Lampi, Lasse",Mitsubishi Galant VR-4,FI,A,+17m 14s,NA,NA,NA
+9,23,"Nilsson, Soren",Mitsubishi Galant VR-4,SE,N,+18m 45s,NA,NA,NA
+10,24,"Kytolehto, Jarmo",Mitsubishi Galant VR-4,FI,N,+24m 52s,NA,NA,NA
+17,41,"Jurvanen, Eija",Ford Sierra Cosworth 4x4,FI,A,+45m 20s,NA,NA,NA
+NA,3,"Vatanen, Ari",Subaru Legacy RS,FI,A,NA,NA,SS1,accident
+NA,13,"Walfridsson, Stig-Olov",Mitsubishi Galant VR-4,SE,N,NA,NA,SS10,accident
+NA,14,"Sundstrom, Mikael",Lancia Delta Integrale,FI,N,NA,NA,SS7,lost wheel
+NA,17,"Lindholm, Sebastian",Ford Sierra Cosworth 4x4,FI,A,NA,NA,SS8,gearbox
+NA,18,"Gronholm, Marcus",Toyota Celica GT-4 (ST165),FI,A,NA,NA,SS11,accident

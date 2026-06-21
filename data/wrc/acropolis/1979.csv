@@ -1,0 +1,44 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Waldegard, Bjorn",Ford Escort RS1800,SE,G4,13h 35m 06s,NA,NA,NA
+2,8,"Salonen, Timo",Datsun 160J,FI,G2,+31m 58s,NA,NA,NA
+3,3,"Kallstrom, Harry",Datsun 160J,SE,G2,+36m 33s,NA,NA,NA
+4,9,"Ragnotti, Jean",Renault 5 Alpine,FR,G2,+44m 10s,NA,NA,NA
+5,14,"Markouizos, Anastasios",Ford Escort RS,GR,G4,+1h 00m 55s,NA,NA,NA
+6,21,"Moschous, George",Datsun 160J,GR,G2,+1h 19m 21s,NA,NA,NA
+7,15,"Gallo, Evangelos",Datsun 160J,GR,G2,+1h 29m 02s,NA,NA,NA
+8,31,"Blahna, Vaclav",Skoda 130,CS,G2,+2h 34m 16s,NA,NA,NA
+9,42,"Elizarov, Nikolaj",Lada 1600,SU,G2,+2h 37m 14s,NA,NA,NA
+10,49,"Vukovich, Sergej",Lada 1600,SU,G2,+2h 58m 05s,NA,NA,NA
+11,32,"Pesmazoglou, Ioannis",Opel Ascona,GR,G2,+3h 00m 16s,NA,NA,NA
+12,26,"Jaroszewicz, Andrzej",FSO Polonez,PL,G4,+3h 13m 20s,NA,NA,NA
+13,37,'Carlo',Renault 5,GR,NA,+3h 23m 54s,NA,NA,NA
+14,46,"Ohu, Heiki",Lada 1600,SU,G2,+4h 00m 41s,NA,NA,NA
+15,122,"Gemenis, T.",Datsun 1600SSS,GR,G2,+4h 14m 06s,NA,NA,NA
+16,125,"Heimburger, Dieter",Wartburg 353,DD,G2,+4h 18m 27s,NA,NA,NA
+17,29,"Protopapas, A.",Datsun 160J,GR,G2,+4h 27m 44s,NA,NA,NA
+18,48,"Panourgias, Christos",Renault 18,GR,G2,+4h 36m 19s,NA,NA,NA
+19,148,"Halivelakis, Manolis",Toyota Corolla,GR,G1,+4h 48m 32s,NA,NA,NA
+20,40,"Papadamantiou, J.",Toyota Celica,GR,G2,+4h 58m 58s,NA,NA,NA
+NA,2,"Darniche, Bernard",Lancia Stratos HF,FR,G4,NA,NA,SS50,rear suspension
+NA,4,"Mikkola, Hannu",Ford Escort RS,FI,G4,NA,NA,SS9,engine
+NA,5,"Andersson, Ove",Toyota Celica,SE,G2,NA,NA,SS56,engine
+NA,6,"Kullang, Anders",Opel Kadett GT/E,SE,G2,NA,NA,SS39,connecting rod
+NA,7,"Clark, Roger",Ford Escort RS,GB,G4,NA,NA,SS13,engine
+NA,10,"Warmbold, Achim",Porsche 911,DE,G4,NA,NA,SS2,shock absorbers
+NA,11,"Therier, Jean-Luc",Toyota Celica,FR,G2,NA,NA,SS9,differential
+NA,12,"Livieratos, Tassos",Lancia Stratos HF,GR,G4,NA,NA,SS30,rear suspension
+NA,16,"Stawowiak, Maciej",FSO Polonez,PL,G4,NA,NA,SS3,accident
+NA,17,"Cyprianou, C.",Chrysler Sunbeam,CY,G1,NA,NA,NA,suspension
+NA,22,"Bergsteyn, Man",Opel Kadett GT/E,NL,G2,NA,NA,NA,off road
+NA,23,"Demuth, Harald",Audi 80,DE,G4,NA,NA,SS7,driver illness
+NA,24,"Maniatopoulos, Alexandros",Renault 5 Alpine,GR,G2,NA,NA,SS46,clutch
+NA,27,"Hoepfner, Marianne",Toyota Celica,FR,G2,NA,NA,NA,engine
+NA,28,"Kottulinsky, Freddy",Audi 80,SE,G4,NA,NA,SS1,suspension
+NA,30,"Ciecierzynski, Tomasz",FSO Polonez,PL,G4,NA,NA,SS1,engine
+NA,33,"Luc, Jean-Paul",Citroen CX2400,FR,G2,NA,NA,NA,engine mounting
+NA,36,"Brundza, Stasis",Lada 1600,SU,G2,NA,NA,SS6,shock absorbers
+NA,41,"Kvaizar, Svatopluk",Skoda 130,CS,G2,NA,NA,SS47,rear suspension
+NA,52,"Stohl, Rudolf",Lada 1600,AT,G2,NA,NA,NA,accident
+NA,54,"Fougerousse, P.",Toyota Celica,FR,G2,NA,NA,NA,suspension
+NA,70,"Laurent, Claude",Peugeot 104,FR,G2,NA,NA,NA,steering
+NA,73,"Coppier, Alain",Datsun Violet,FR,G1,NA,NA,NA,alternator

@@ -1,0 +1,18 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,4,"Eriksson, Kenneth",Volkswagen Golf GTi,SE,A7,48m 57s,NA,NA,NA
+2,10,"Mehta, Shekhar",Nissan 200SX,KE,A,+20m 21s,NA,NA,NA
+3,2,"Weber, Erwin",Volkswagen Golf GTi,DE,A,+1h 16m 59s,NA,NA,NA
+4,17,"Tauziac, Patrick",Mitsubishi Starion Turbo,FR,A,+4h 49m 56s,NA,NA,NA
+5,18,"Copetti, Patrick",Toyota Corolla,FR,A,+6h 04m 41s,NA,NA,NA
+6,14,"Choteau, Adolphe",Toyota Corolla,CI,A,+7h 08m 19s,NA,NA,NA
+7,11,"Yace, Martial",Mitsubishi Starion Turbo,CI,A,+10h 12m 46s,NA,NA,NA
+8,16,"Molino, Alessandro",Lancia Delta HF 4WD,IT,A,+14h 32m 22s,NA,NA,NA
+9,19,"Donner, Frederick",Subaru RX Turbo,FI,N,+14h 46m 42s,NA,NA,NA
+10,34,"Kouame, Lambert",Toyota Celica,CI,A,+20h 54m 07s,NA,NA,NA
+NA,1,"Torph, Lars-Erik",Toyota Supra Turbo,SE,A,NA,NA,Sel.13,fatal accident
+NA,3,"Waldegard, Bjorn",Toyota Supra Turbo,SE,A,NA,NA,Sel.13,fatal accident
+NA,5,"Ulyate, Robin",Toyota Supra Turbo,KE,A,NA,NA,Sel.13,fatal accident
+NA,6,"Ambrosino, Alain",Nissan 200SX,FR,A,NA,NA,Sel.19,engine
+NA,7,"Assef, Samir",Toyota Corolla,CI,A,NA,NA,Sel.17,OTL
+NA,8,"Stohl, Rudolf",Audi Coupe,AT,A,NA,NA,Sel.19,engine
+NA,9,"Kirkland, Mike",Nissan 200SX,KE,A,NA,NA,Sel.19,engine

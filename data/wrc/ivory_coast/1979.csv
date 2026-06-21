@@ -1,0 +1,27 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,6,"Mikkola, Hannu",Mercedes Benz 450 SLC 5.0,FI,G4,58h 53m,NA,NA,NA
+2,4,"Waldegard, Bjorn",Mercedes Benz 450 SLC 5.0,SE,G4,+35m,NA,NA,NA
+3,10,"Cowan, Andrew",Mercedes Benz 450 SLC 5.0,GB,G4,+47m,NA,NA,NA
+4,3,"Preston Jr, Vic",Mercedes Benz 450 SLC 5.0,KE,G4,+54m,NA,NA,NA
+5,5,"Andersson, Ove",Toyota Celica,SE,G4,+2h 45m,NA,NA,NA
+6,9,"Ambrosino, Alain",Peugeot 504 V6 Coupe,FR,G4,+5h 35m,NA,NA,NA
+7,18,"Mitri, Michel",Datsun Violet,FR,G2,+9h 02m,NA,NA,NA
+8,55,"Faure, Jean-Pierre",Datsun Violet,FR,G1,+10h 25m,NA,NA,NA
+NA,1,"Nicolas, Jean-Pierre",Peugeot 504 V6 Coupe,FR,G4,NA,NA,TC2,differential
+NA,2,"Makinen, Timo",Peugeot 504 V6 Coupe,FI,G4,NA,NA,TC44,electrics
+NA,8,"Therier, Jean-Luc",Toyota Celica,FR,G4,NA,NA,TC14,accident
+NA,11,"Assef, Samir",Peugeot 504 V6 Coupe,CI,G4,NA,NA,TC50,OTL
+NA,12,"Lefebvre, Jean-Claude",Peugeot 504 V6 Coupe,FR,G4,NA,NA,TC24,engine
+NA,14,"Vincens, Jean-Francois",Mitsubishi Lancer,CI,G2,NA,NA,TC50,OTL
+NA,15,"Torres, Carlos",Ford Escort RS2000,PT,G1,NA,NA,TC31,alternator
+NA,16,"Choteau, Adolphe",Peugeot 504 V6 Coupe,CI,G4,NA,NA,Leg 2,engine
+NA,19,"Dawson, Andy",Datsun 160J,GB,G2,NA,NA,TC4,rear wheel bearing
+NA,21,"Saby, Bruno",Renault 5 Alpine,FR,G2,NA,NA,TC24,rear suspension
+NA,22,"Prive, Jacky",Range Rover,FR,G2,NA,NA,Leg 3,unknown
+NA,65,"Cochin, H.",Range Rover,FR,G2,NA,NA,NA,steering
+NA,NA,"Durieu, Jacques",Peugeot 504 V6 Coupe,CI,NA,NA,NA,Leg 3,unknown
+NA,NA,Flachberger,Toyota Celica,NA,G2,NA,NA,Leg 2,driver illness
+NA,NA,Genestrier,Renault 5 Alpine,NA,NA,NA,NA,Leg 2,unknown
+NA,NA,Saget,Datsun,NA,NA,NA,NA,Leg 3,unknown
+NA,NA,Saucet,Datsun 160J,NA,NA,NA,NA,Leg 2,accident
+NA,NA,"Touroul, Raymond",Porsche 911,FR,NA,NA,NA,NA,oil pressure

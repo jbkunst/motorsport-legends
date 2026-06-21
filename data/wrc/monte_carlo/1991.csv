@@ -1,0 +1,90 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,2,"Sainz, Carlos",Toyota Celica GT-4 (ST165),ES,A8,6h 57m 21s,NA,NA,NA
+2,3,"Biasion, Massimo",Lancia Delta HF Integrale 16v,IT,A,+4m 59s,NA,NA,NA
+3,12,"Delecour, Francois",Ford Sierra Cosworth 4x4,FR,A,+5m 12s,NA,NA,NA
+4,7,"Schwarz, Armin",Toyota Celica GT-4 (ST165),DE,A,+6m 31s,NA,NA,NA
+5,9,"Kankkunen, Juha",Lancia Delta HF Integrale 16v,FI,A,+7m 46s,NA,NA,NA
+6,6,"Saby, Bruno",Lancia Delta HF Integrale 16v,FR,A,+9m 13s,NA,NA,NA
+7,15,"Wilson, Malcolm",Ford Sierra Cosworth 4x4,GB,A,+11m 15s,NA,NA,NA
+8,4,"Salonen, Timo",Mitsubishi Galant VR-4,FI,A,+11m 22s,NA,NA,NA
+9,11,"Loubet, Yves",Lancia Delta HF Integrale 16v,FR,A,+12m 39s,NA,NA,NA
+10,5,"Fiorio, Alessandro",Ford Sierra Cosworth 4x4,IT,A,+23m 42s,NA,NA,NA
+11,14,"Duez, Marc",Toyota Celica GT-4 (ST165),BE,A,+27m 41s,NA,NA,NA
+12,38,"Spiliotis, Christophe",Ford Sierra Cosworth 4x4,MC,N,+44m 33s,NA,NA,NA
+13,39,"Mauffrey, Eric",Ford Sierra Cosworth 4x4,FR,N,+49m 43s,NA,NA,NA
+14,52,Tasso,Ford Sierra Cosworth 4x4,FR,N,+53m 01s,NA,NA,NA
+15,37,"Ayme, Jean-Paul",Ford Sierra Cosworth 4x4,FR,N,+56m 36s,NA,NA,NA
+16,23,Bos,Ford Sierra Cosworth 4x4,FR,A,+58m 04s,NA,NA,NA
+17,47,"Venturi, Jean-Michel",Lancia Delta HF Integrale 16v,FR,N,+1h 08m 37s,NA,NA,NA
+18,26,"Sillankorva, Minna",Mazda 323 4WD,FI,A,+1h 12m 03s,NA,NA,NA
+19,25,"Feitler, Romain",BMW 325i,LU,A,+1h 12m 36s,NA,NA,NA
+20,44,"Riberi, Laurent",Alfa Romeo 75,FR,A,+1h 14m 10s,NA,NA,NA
+21,20,"Gottlicher, Kurt",Ford Sierra Cosworth 4x4,AT,N,+1h 14m 29s,NA,NA,NA
+22,78,"Ottan, Jean-Francois",Honda Civic,FR,A,+1h 15m 18s,NA,NA,NA
+23,94,"Burri, Olivier",Ford Sierra Cosworth 4x4,CH,N,+1h 18m 54s,NA,NA,NA
+24,32,"Rodet, Paul",Peugeot 309 GTI,FR,A,+1h 22m 21s,NA,NA,NA
+25,46,"Sibera, Pavel",Skoda Favorit 136L,CZ,A,+1h 24m 26s,NA,NA,NA
+26,104,"Pellerey, Alain",Citroen AX,FR,N,+1h 29m 35s,NA,NA,NA
+27,60,"Ameglio, Danilo",Fiat Uno Turbo,IT,A,+1h 30m 21s,NA,NA,NA
+28,116,Manzoli,Lancia Delta HF Integrale 16v,IT,N,+1h 33m 32s,NA,NA,NA
+29,125,"Farnaud, Michel",Renault 5 GT Turbo,FR,N,+1h 36m 11s,NA,NA,NA
+30,55,"Mariette, F.",Renault 5 GT Turbo,FR,N,+1h 42m 31s,NA,NA,NA
+31,130,"Jaussaud, Bernard",Renault 5 GT Turbo,FR,N,+1h 44m 41s,NA,NA,NA
+32,100,"le Cozanet, Robert",BMW 325i,FR,N,+1h 44m 56s,NA,NA,NA
+33,113,Phillips,Renault 5 GT Turbo,MC,N,+1h 45m 27s,NA,NA,NA
+34,117,"Ressegaire, N.",Renault 5 GT Turbo,FR,N,+1h 46m 14s,NA,NA,NA
+35,85,Thibon,Volkswagen Golf GTI 16V,FR,A,+1h 47m 06s,NA,NA,NA
+36,81,Nadler,Peugeot 205 GTI,FR,A,+1h 48m 15s,NA,NA,NA
+37,70,"Planche, Francis",Peugeot 309 GTI,FR,A,+1h 48m 27s,NA,NA,NA
+38,129,"Perez, J.",Lancia Delta HF Integrale 16v,ES,N,+1h 50m 25s,NA,NA,NA
+39,175,"Duterte, Daniel",Peugeot 205 Rallye,FR,N,+1h 58m 06s,NA,NA,NA
+40,145,"Bertrand, J-M",Peugeot 205 GTI,FR,N,+1h 58m 54s,NA,NA,NA
+41,139,Daguebert,Peugeot 205 GTI,FR,N,+2h 01m 39s,NA,NA,NA
+42,67,"Caminada, Rene",Volkswagen Golf GTI 16V,FR,A,+2h 02m 24s,NA,NA,NA
+43,153,"Tveit, Kjetil",Volkswagen Golf GTI 16V,NO,N,+2h 03m 08s,NA,NA,NA
+44,137,Sarmeo,Renault 5 GT Turbo,FR,N,+2h 03m 30s,NA,NA,NA
+45,80,"Courtial, S.",Peugeot 205 GTI,FR,A,+2h 03m 51s,NA,NA,NA
+46,71,"Peuplier, Bernard",Volkswagen Golf GTI 16V,FR,A,+2h 05m 56s,NA,NA,NA
+47,103,Ruffo,Ford Sierra Cosworth 4x4,IT,N,+2h 06m 27s,NA,NA,NA
+48,156,Dafit,Peugeot 309 GTI,FR,N,+2h 06m 35s,NA,NA,NA
+49,172,"Sagnard, Richard",Peugeot 205 Rallye,FR,N,+2h 07m 29s,NA,NA,NA
+50,163,"Isselin, Gerard",Honda Civic,FR,N,+2h 08m 33s,NA,NA,NA
+51,102,'Blu-Max',Lancia Delta HF Integrale 16v,IT,N,+2h 10m 36s,NA,NA,NA
+52,121,Kuhlewein,Lancia Delta HF 4WD,DE,N,+2h 14m 20s,NA,NA,NA
+53,131,Verdoia,Lancia Delta HF Integrale 16v,IT,N,+2h 16m 06s,NA,NA,NA
+54,164,Georgen,Honda Civic,FR,N,+2h 16m 33s,NA,NA,NA
+55,176,Laroche,Peugeot 205 GTI,FR,N,+2h 18m 22s,NA,NA,NA
+56,110,Limone,Renault 5 GT Turbo,MC,N,+2h 19m 00s,NA,NA,NA
+57,118,Nielsen,Renault 5 GT Turbo,DK,N,+2h 19m 09s,NA,NA,NA
+58,147,Lebrun,Volkswagen Golf GTI 16V,FR,N,+2h 22m 07s,NA,NA,NA
+59,83,Robino,Peugeot 205 GTI,IT,A,+2h 23m 19s,NA,NA,NA
+60,168,Legros,Citroen AX,FR,N,+2h 23m 52s,NA,NA,NA
+61,170,"Coudert, Serge",Peugeot 205 Rallye,FR,N,+2h 28m 55s,NA,NA,NA
+62,167,Micoud,Citroen AX,FR,N,+2h 37m 38s,NA,NA,NA
+63,69,Audibert,Volkswagen Golf GTI 16V,FR,A,+2h 42m 50s,NA,NA,NA
+64,114,"Vacheron, Jean-Thierry",Fiat Uno Turbo,CH,N,+2h 44m 36s,NA,NA,NA
+65,141,Borfiga,Peugeot 205 GTI,FR,N,+2h 45m 57s,NA,NA,NA
+66,173,Falco,Peugeot 205 Rallye,IT,N,+2h 48m 24s,NA,NA,NA
+67,143,"Weinreich, Poul",Opel Kadett GSi,DK,N,+2h 50m 45s,NA,NA,NA
+68,72,"Bosse, P.",Volkswagen Golf GTi,DE,A,+2h 55m 15s,NA,NA,NA
+69,152,Roumegous,Peugeot 309 GTI,FR,N,+2h 58m 38s,NA,NA,NA
+70,136,Laigle,Renault 5 GT Turbo,FR,N,+3h 00m 06s,NA,NA,NA
+71,88,"Cesbron, Jaccky",Renault 4 GTL,FR,A,+3h 00m 18s,NA,NA,NA
+72,66,Bondrille,Peugeot 309 GTI,FR,A,+3h 01m 00s,NA,NA,NA
+73,157,"Dessi, Marc",Peugeot 205 GTI,MC,N,+3h 05m 11s,NA,NA,NA
+74,165,"Malegarie, Alain",Peugeot 205 GTI,FR,N,+4h 00m 04s,NA,NA,NA
+75,169,"Gernandt, Carl",Suzuki Swift,SE,N,+4h 45m 36s,NA,NA,NA
+NA,1,"Auriol, Didier",Lancia Delta HF Integrale 16v,FR,A,NA,NA,SS6,engine
+NA,8,"Eriksson, Kenneth",Mitsubishi Galant VR-4,SE,A,NA,NA,SS18,out of petrol
+NA,10,"Mikkola, Hannu",Mazda 323 GT-X,FI,A,NA,NA,SS2,engine
+NA,16,"Puras, Jesus",Mazda 323 GT-X,ES,A,NA,NA,SS14,accident
+NA,17,"Holzer, Ronald",Mitsubishi Galant VR-4,DE,A,NA,NA,SS13,accident
+NA,18,"de Mevius, Gregoire",Mazda 323 GT-X,BE,N,NA,NA,SS5,engine
+NA,19,"Balas, Bertrand",Lancia Delta HF Integrale 16v,FR,N,NA,NA,SS24,brakes
+NA,21,"Ballet, Jean-Pierre",Ford Sierra Cosworth 4x4,FR,N,NA,NA,SS16,transmission
+NA,22,"Gerber, Michael",Mitsubishi Galant VR-4,DE,N,NA,NA,SS1,engine
+NA,35,Riviere,Skoda Favorit 136L,FR,A,NA,NA,SS8,off road
+NA,36,"Jenot, Pierre-Manuel",Alfa Romeo 75,FR,N,NA,NA,SS16,off road
+NA,40,"Turiani, Auguste",Ford Sierra Cosworth 4x4,MC,N,NA,NA,SS26,driver sick
+NA,49,"Aho, Kalevi",Skoda Favorit 136L,FI,A,NA,NA,SS23,off road
+NA,57,"Longhi, Piero",Fiat Uno Turbo,IT,A,NA,NA,NA,accident

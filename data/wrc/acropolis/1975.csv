@@ -1,0 +1,25 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,2,"Rohrl, Walter",Opel Ascona,DE,G2,9h 20m 36s,NA,NA,NA
+2,9,"Livieratos, Tassos",Renault-Alpine A110,GR,G4,+35m 42s,NA,NA,NA
+3,86,"Koumas, Michael",Mitsubishi Galant,CY,G2,+2h 15m 17s,NA,NA,NA
+4,45,"Pesmazoglou, Ioannis",Opel Ascona,GR,G2,+2h 24m 25s,NA,NA,NA
+5,12,"Maniatopoulos, Alexandros",Audi 80,GR,G1,+2h 33m 15s,NA,NA,NA
+6,83,"Steffansson, Berndt",Volvo 142,SE,G1,+2h 33m 46s,NA,NA,NA
+7,10,"Moschous, George",Alfa Romeo Alfetta GT,GR,G2,+2h 43m 14s,NA,NA,NA
+8,72,"Moschous, Michael",Alfa Romeo Alfetta,GR,G1,+3h 12m 36s,NA,NA,NA
+9,34,"Jelsdorf, Hans-Michael",Opel Ascona,DK,G1,+3h 21m 25s,NA,NA,NA
+10,91,'Pavlos',Lada 2103,GR,G1,+3h 32m 26s,NA,NA,NA
+11,NA,"Bardopoulos, Ioannis",Alfa Romeo Alfasud TI,GR,NA,+3h 36m 04s,NA,NA,NA
+12,NA,"Beaudoin, Patrick",Peugeot 504,FR,NA,+3h 49m 52s,NA,NA,NA
+13,NA,"Coppier, Alain",Peugeot 204,FR,NA,+4h 00m 24s,NA,NA,NA
+NA,1,"Waldegard, Bjorn",Lancia Stratos HF,SE,G4,NA,NA,NA,electrics
+NA,3,"Warmbold, Achim",Toyota Corolla,DE,G2,NA,NA,after SS40,OTL
+NA,4,"Pinto, Raffaele",Lancia Stratos HF,IT,G4,NA,NA,SS3,engine
+NA,5,"Lampinen, Simo",Lancia Beta,FI,G4,NA,NA,SS1,gearbox
+NA,6,"Andersson, Ove",Toyota Corolla,SE,G2,NA,NA,after SS10,gearbox
+NA,7,"Aaltonen, Rauno",Opel Ascona,FI,G2,NA,NA,final leg,engine
+NA,NA,"Billows, Keith",Ford Escort RS1600,GB,NA,NA,NA,Tatoi pre-rally,engine
+NA,NA,"Laurent, Claude",Citroen GS,FR,NA,NA,NA,Leg 1,gearbox
+NA,NA,"Schirnhofer, Leo",Volkswagen 1303S,AT,G1,NA,NA,near end,water in petrol
+NA,NA,Schreiber,Volvo 142S,AT,NA,NA,NA,Leg 1,driver ill
+NA,NA,"Zockl, Walter",BMW 2002,AT,NA,NA,NA,SS8,accident

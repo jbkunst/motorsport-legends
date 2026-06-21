@@ -1,0 +1,24 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,4,"Liatti, Piero",Subaru Impreza WRC97,IT,A8,4h 26m 58s,NA,NA,NA
+2,5,"Sainz, Carlos",Ford Escort WRC,ES,A8,+55s,NA,NA,NA
+3,1,"Makinen, Tommi",Mitsubishi Lancer Evo IV,FI,A8,+2m 31s,NA,NA,NA
+4,6,"Schwarz, Armin",Ford Escort WRC,DE,A8,+5m 05s,NA,NA,NA
+5,2,"Nittel, Uwe",Mitsubishi Lancer Evo III,DE,A8,+15m 44s,NA,NA,NA
+6,15,"Lundgaard, Henrik",Toyota Celica GT-Four (ST205),DK,A8,+18m 28s,NA,NA,NA
+7,10,"Burri, Olivier",Subaru Impreza 555,CH,A8,+18m 37s,NA,NA,NA
+8,9,"Holderied, Isolde",Toyota Celica GT-Four (ST205),DE,A8,+23m 41s,NA,NA,NA
+9,23,"Trelles, Gustavo",Mitsubishi Lancer Evo III,UY,N4,+25m 01s,NA,NA,NA
+10,25,"Kremer, Armin",Mitsubishi Lancer Evo III,DE,N4,+25m 53s,NA,NA,NA
+11,20,"Triner, Emil",Skoda Felicia Kit-Car,CZ,A6,+26m 43s,NA,NA,NA
+12,21,"Sibera, Pavel",Skoda Felicia Kit-Car,CZ,A6,+27m 05s,NA,NA,NA
+13,24,"Stohl, Manfred",Mitsubishi Lancer Evo III,AT,N4,+27m 19s,NA,NA,NA
+14,18,"Rovanpera, Harri",Seat Ibiza GTi 16V,FI,A7,+27m 24s,NA,NA,NA
+15,17,"Gomez Marco, Oriol",Seat Ibiza GTi 16V,ES,A7,+36m 12s,NA,NA,NA
+16,8,"Loix, Freddy",Toyota Celica GT-Four (ST205),BE,A8,+41m 54s,NA,NA,NA
+17,22,"Gassner, Hermann",Proton Wira 4WD,DE,N4,+1h 00m 13s,NA,NA,NA
+NA,3,"McRae, Colin",Subaru Impreza WRC97,GB,A8,NA,NA,SS7,accident
+NA,7,"Auriol, Didier",Ford Escort RS Cosworth,FR,A8,NA,NA,SS10,transmission
+NA,11,"Depping, Dieter",Ford Escort RS Cosworth,DE,A8,NA,NA,SS13,engine
+NA,12,"Ponce, Jose-Maria",Toyota Celica GT-Four (ST205),ES,A8,NA,NA,SS12,accident
+NA,16,"Baroni, Pierre-Cesar",Ford Escort RS Cosworth,FR,A8,NA,NA,SS12,accident
+NA,19,"Narishkin, Mikhail",Volkswagen Golf GTI 16V,RU,A7,NA,NA,SS9,unknown

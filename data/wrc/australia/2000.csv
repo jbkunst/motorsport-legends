@@ -1,0 +1,84 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,10,"Gronholm, Marcus",Peugeot 206WRC (2000),FI,A8,"3h 43m 57,2s",NA,NA,NA
+2,3,"Burns, Richard",Subaru Impreza WRC2000,GB,A8,"+2,7s",NA,NA,NA
+3,9,"Delecour, Francois",Peugeot 206WRC (2000),FR,A8,"+1m 32,9s",0:20,NA,NA
+4,14,"Eriksson, Kenneth",Hyundai Accent WRC,SE,A8,"+2m 20,6s",1:00,NA,NA
+5,19,"Laukkanen, Tapio",Ford Focus WRC 00,FI,A8,"+2m 30,9s",NA,NA,NA
+6,8,"Gardemeister, Toni",Seat Cordoba WRC Evo3,FI,A8,"+2m 49,3s",NA,NA,NA
+7,20,"Bourne, Peter",Subaru Impreza,NZ,A8,"+4m 33,5s",NA,NA,NA
+8,7,"Auriol, Didier",Seat Cordoba WRC Evo3,FR,A8,"+7m 54,6s",NA,NA,NA
+9,22,"Bates, Neal",Toyota Corolla WRC,AU,A8,"+9m 06,8s",NA,NA,NA
+10,21,"Taguchi, Katsuhiko",Mitsubishi Lancer Evo VI,JP,A8,"+13m 46,6s",NA,NA,NA
+11,25,"Yazici, Serkan",Toyota Corolla WRC,TU,A8,"+15m 57,5s",NA,NA,NA
+12,30,"Trelles, Gustavo",Mitsubishi Lancer Evo VI,UY,N4,"+17m 38,9s",NA,NA,NA
+13,26,"Arai, Toshihiro",Subaru Impreza,JP,N4,"+18m 21,2s",NA,NA,NA
+14,28,"Stohl, Manfred",Mitsubishi Lancer Evo VI,AT,N4,"+19m 30,6s",1:00,NA,NA
+15,29,"Ordynski, Ed",Mitsubishi Lancer Evo VI,AU,N4,"+20m 18,6s",0:50,NA,NA
+16,36,"Manfrinato, Giovanni",Mitsubishi Lancer Evo VI,IT,N4,"+21m 08,9s",NA,NA,NA
+17,35,"Menzi, Claudio Marcelo",Mitsubishi Lancer Evo VI,AR,N4,"+22m 02,3s",NA,NA,NA
+18,43,"Kuistila, Kaj",Mitsubishi Lancer Evo VI,FI,N4,"+22m 43,9s",NA,NA,NA
+19,37,"Herridge, Dean",Subaru Impreza,AU,N4,"+22m 47,8s",NA,NA,NA
+20,41,"Lowndes, Spencer",Mitsubishi Lancer Evo V,AU,N4,"+23m 08,2s",NA,NA,NA
+21,34,"Pozzo, Gabriel",Mitsubishi Lancer Evo VI,AR,N4,"+26m 11,1s",0:20,NA,NA
+22,49,"Stone, Alex",Subaru Impreza,AU,N4,"+28m 27,7s",0:40,NA,NA
+23,24,"Papadimitriou, Ioannis",Subaru Impreza,GR,A8,"+32m 50,4s",NA,NA,NA
+24,38,"Caldani, Nicola",Mitsubishi Lancer Evo VI,IT,N4,"+36m 27,1s",3:00,NA,NA
+25,54,"Colsoul, Bob",Mitsubishi Lancer Evo,BE,N4,"+44m 14,9s",0:10,NA,NA
+26,55,"Thompson, Michael",Subaru Impreza,AU,N4,"+44m 31,7s",NA,NA,NA
+27,53,"Takakuwa, Haruo",Subaru Impreza,JP,N4,"+45m 06,6s",1:00,NA,NA
+28,57,"Endo, Michiyasu",Subaru Impreza,JP,N4,"+47m 30,6s",NA,NA,NA
+29,65,"Marden, Jim",Subaru Impreza,AU,N4,"+48m 20,1s",NA,NA,NA
+30,63,"Heath, Nigel",Subaru Impreza,GB,A8,"+48m 33,2s",2:10,NA,NA
+31,73,"Walk, Jason",Subaru Impreza,AU,N4,"+53m 07,0s",5:00,NA,NA
+32,50,"Hills, David",Mitsubishi Lancer Evo V,AU,N4,"+53m 43,2s",1:50,NA,NA
+33,51,"Dines, Jacquiline",Mitsubishi Lancer Evo III,AU,A8,"+53m 53,6s",2:10,NA,NA
+34,71,"Kobayashi, Wakujiro",Mitsubishi Lancer Evo IV,JP,N4,"+55m 53,2s",NA,NA,NA
+35,69,"Nakano, Ichiro",Subaru Impreza,JP,N4,"+56m 25,1s",1:00,NA,NA
+36,76,"Yoda, Osamu",Subaru Impreza,JP,N4,"+59m 38,9s",NA,NA,NA
+37,70,"Anderson, Michael",Mitsubishi Lancer Evo IV,AU,N4,"+59m 44,8s",3:30,NA,NA
+38,66,"Funaki, Ryo",Subaru Impreza,JP,N4,"+1h 05m 13,0s",NA,NA,NA
+39,74,"Iriks, Leo",Mitsubishi Lancer Evo III,AU,N4,"+1h 06m 58,1s",2:10,NA,NA
+40,60,"Kuraoka, Toshimitsu",Subaru Impreza,JP,N4,"+1h 07m 46,9s",1:00,NA,NA
+41,77,"Phillips, Bevan",Hyundai Accent,AU,N2,"+1h 12m 01,1s",1:10,NA,NA
+42,75,"Waters, Stuart",Nissan Sunny,AU,N3,"+1h 13m 44,4s",2:10,NA,NA
+43,78,"Hendry, John",Proton Satria,AU,N1,"+1h 18m 38,5s",NA,NA,NA
+44,83,"Haggerty, Brian",Hyundai Lantra,NZ,A7,"+1h 19m 01,6s",1:00,NA,NA
+45,82,"Lombardo, Joseph",Proton Satria,AU,N1,"+1h 27m 16,2s",1:10,NA,NA
+46,84,"Reed, Tod",Proton Satria,AU,N1,"+1h 36m 02,7s",NA,NA,NA
+47,85,"Evans, Paul",Daihatsu Charade GTI,AU,A6,"+1h 42m 25,5s",2:40,NA,NA
+48,86,"Rolfe, John",Daihatsu Charade GTI,AU,N2,"+1h 47m 09,1s",0:10,NA,NA
+49,96,"Creach, John",Subaru Legacy RS,AU,N4,"+2h 38m 38,9s",2:20,NA,NA
+NA,1,"Makinen, Tommi",Mitsubishi Lancer Evo VI,FI,A8,NA,NA,post-event,illegal turbo
+NA,2,"Loix, Freddy",Mitsubishi Carisma GT,BE,A8,NA,NA,SS3,transmission
+NA,4,"Kankkunen, Juha",Subaru Impreza WRC2000,FI,A8,NA,NA,SS16,off road
+NA,5,"McRae, Colin",Ford Focus WRC 00,GB,A8,NA,NA,SS6,engine
+NA,6,"Sainz, Carlos",Ford Focus WRC 00,ES,A8,NA,NA,NA,Art 19.9
+NA,15,"McRae, Alister",Hyundai Accent WRC,GB,A8,NA,NA,SS15,suspension
+NA,16,"Panizzi, Gilles",Peugeot 206WRC (2000),FR,A8,NA,NA,SS21,transmission
+NA,17,"Solberg, Petter",Subaru Impreza WRC2000,NO,A8,NA,NA,SS8,accident
+NA,18,"Martin, Markko",Subaru Impreza WRC2000,EE,A8,NA,NA,SS2,transmission
+NA,23,"Guest, Michael",Hyundai Accent WRC,AU,A8,NA,NA,SS18,electrical
+NA,27,"Crocker, Cody",Subaru Impreza,AU,N4,NA,NA,SS2,suspension
+NA,31,"Kangas, Juha",Mitsubishi Lancer Evo VI,FI,N4,NA,NA,SS5,clutch
+NA,33,"Paasonen, Jani",Mitsubishi Carisma GT,FI,N4,NA,NA,SS12,electrical
+NA,39,"Evans, Simon",Volkswagen Golf GTI 16V,AU,A7,NA,NA,SS8,mechanical
+NA,40,"Comas, Erik",Mitsubishi Lancer Evo VI,FR,N4,NA,NA,SS14,rolled
+NA,42,"Mackenzie, Ross",Mitsubishi Lancer Evo III,AU,A8,NA,NA,SS10,engine
+NA,44,"Challis, Tolley",Mitsubishi Lancer Evo III,AU,A8,NA,NA,SS10,suspension
+NA,45,"Yamaguchi, Osamu",Mitsubishi Lancer Evo VI,JP,N4,NA,NA,SS6,suspension
+NA,46,"Jones, Reece",Mitsubishi Lancer Evo VI,NZ,N4,NA,NA,SS2,off road
+NA,47,"Dunlop, Dennis",Mitsubishi Lancer Evo III,AU,A8,NA,NA,SS16,engine
+NA,48,"Reynolds, Julian",Mitsubishi Lancer Evo V,GB,N4,NA,NA,SS16,off road
+NA,52,"Lloyd, John",Mitsubishi Lancer Evo V,GB,A8,NA,NA,SS13,gearbox
+NA,56,"Barratt, Natalie",Subaru Impreza,GB,N4,NA,NA,SS6,gearbox
+NA,58,"Dawson, Craig",Nissan Pulsar GTI-R,AU,A8,NA,NA,SS1,clutch
+NA,59,"Grigsby, Ben",Subaru Impreza,AU,N4,NA,NA,SS6,turbo
+NA,61,"Hedgeland, Keith",Subaru Impreza 555,AU,A8,NA,NA,SS2,engine
+NA,62,"Handbury, Stephen",Subaru Impreza 555,AU,A8,NA,NA,SS17,electrical
+NA,64,"Lockhart, Ross",Mitsubishi Lancer Evo III,AU,A8,NA,NA,SS3,accident
+NA,67,"Morgan, Gavin",Subaru Legacy RS,AU,A8,NA,NA,SS13,suspension
+NA,68,"Butcher, Mark",Nissan Pulsar GTI-R,AU,A8,NA,NA,SS13,turbo
+NA,72,"Hannigan, Andrew",Daihatsu Charade GTI,AU,A6,NA,NA,SS10,engine
+NA,79,"Whyatt, Robert",Mitsubishi Lancer Evo III,AU,A8,NA,NA,SS17,clutch
+NA,80,"Drummond, Kim",Suzuki Swift GTI,AU,N1,NA,NA,SS1,mechanical
+NA,81,"King, Dave",Proton Satria,AU,N1,NA,NA,SS2,off road

@@ -1,0 +1,77 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Loeb, Sebastien",Citroen Xsara WRC,FR,A8,"4h 21m 48,0s",NA,NA,NA
+2,5,"Solberg, Petter",Subaru Impreza WRC2005,NO,A8,"+59,6s",NA,NA,NA
+3,7,"Gronholm, Marcus",Peugeot 307WRC Evo2,FI,A8,"+1m 15,3s",NA,NA,NA
+4,2,"Sainz, Carlos",Citroen Xsara WRC,ES,A8,"+4m 17,9s",NA,NA,NA
+5,8,"Martin, Markko",Peugeot 307WRC Evo2,EE,A8,"+5m 57,2s",NA,NA,NA
+6,3,"Gardemeister, Toni",Ford Focus RS WRC 04,FI,A8,"+8m 07,3s",NA,NA,NA
+7,4,"Kresta, Roman",Ford Focus RS WRC 04,CZ,A8,"+8m 48,3s",NA,NA,NA
+8,10,"Galli, Gianluigi",Mitsubishi Lancer WRC05,IT,A8,"+9m 38,9s",0:10,NA,NA
+9,14,"Warmbold, Antony",Ford Focus RS WRC 04,DE,A8,"+11m 26,7s",NA,NA,NA
+10,9,"Rovanpera, Harri",Mitsubishi Lancer WRC05,FI,A8,"+13m 51,4s",NA,NA,NA
+11,15,"Solberg, Henning",Ford Focus RS WRC 04,NO,A8,"+16m 40,9s",NA,NA,NA
+12,18,"Vovos, Armodios",Subaru Impreza,GR,A8,"+18m 41,6s",0:10,NA,NA
+13,12,"Tuohino, Janne",Skoda Fabia WRC 05,FI,A8,"+20m 35,0s",NA,NA,NA
+14,31,"Arai, Toshihiro",Subaru Impreza WRX,JP,N4,"+23m 42,6s",NA,NA,NA
+15,36,"Ligato, Marcos",Subaru Impreza,AR,N4,"+23m 44,2s",NA,NA,NA
+16,33,"al-Attiyah, Nasser",Subaru Impreza,QA,N4,"+25m 06,9s",0:20,NA,NA
+17,32,"Pons, Xavier",Mitsubishi Lancer Evo VIII,ES,N4,"+25m 11,6s",NA,NA,NA
+18,62,"Besler, Mehmet",Ford Focus WRC,TU,A8,"+29m 23,4s",0:10,NA,NA
+19,71,"Andersson, Per-Gunnar",Suzuki Ignis S1600 5d,SE,A6,"+31m 31,0s",0:10,NA,NA
+20,49,"al-Wahaibi, Hamed",Subaru Impreza WRX,OM,N4,"+31m 35,3s",NA,NA,NA
+21,66,"Deveci, Ali",Hyundai Accent WRC,TU,A8,"+31m 53,8s",NA,NA,NA
+22,50,"Teiskonen, Aki",Subaru Impreza WRX,FI,N4,"+32m 12,7s",NA,NA,NA
+23,44,"Beltran, Sebastian",Subaru Impreza,AR,N4,"+34m 02,1s",NA,NA,NA
+24,6,"Atkinson, Christopher",Subaru Impreza WRC2005,AU,A8,"+35m 07,3s",1:30,NA,NA
+25,64,"Avci, Nejat",Ford Focus WRC,TU,A8,"+35m 10,5s",NA,NA,NA
+26,51,"Tirabassi, Brice",Subaru Impreza WRX,FR,N4,"+35m 47,5s",1:10,NA,NA
+27,42,"Villagra, Federico",Mitsubishi Lancer Evo VIII,AR,N4,"+37m 02,0s",NA,NA,NA
+28,80,"al-Maktoum, Suhail",Subaru Impreza WRX,AE,N4,"+37m 17,3s",NA,NA,NA
+29,76,"Kazaz, Ercan",Renault Clio S1600,TU,A6,"+38m 41,1s",NA,NA,NA
+30,74,"Unal, Hamdi",Fiat Palio S1600,TU,A6,"+39m 40,1s",0:50,NA,NA
+31,77,"Higgins, David",Opel Corsa S1600,GB,A6,"+39m 43,5s",NA,NA,NA
+32,43,"Medeghini, Angelo",Mitsubishi Lancer Evo VIII,IT,N4,"+42m 51,7s",NA,NA,NA
+33,70,"al-Qassimi, Khalid",Subaru Impreza WRX,AE,N4,"+45m 35,8s",NA,NA,NA
+34,87,"Font, Ferran",Mitsubishi Lancer Evo VII,AD,N4,"+46m 56,5s",NA,NA,NA
+35,79,"Iliev, Dimitar",Mitsubishi Lancer Evo VII,BG,N4,"+49m 09,3s",6:00,NA,NA
+36,72,"Baldacci, Mirco",Fiat Palio S1600,SM,A6,"+52m 13,4s",NA,NA,NA
+37,90,"Kuru, Burhan",Subaru Impreza,TU,N4,"+54m 03,7s",NA,NA,NA
+38,82,"Cukurova, Burak",Opel Corsa S1600,TU,A6,"+55m 51,7s",1:00,NA,NA
+39,93,"Ustunkaya, Kerem",Mitsubishi Lancer Evo VIII,TU,N4,"+56m 33,0s",NA,NA,NA
+40,81,"Kara, Fatih",Fiat Palio S1600,TU,A6,"+57m 20,2s",0:50,NA,NA
+41,45,"Errani, Riccardo",Mitsubishi Lancer Evo VIII,IT,N4,"+58m 18,1s",NA,NA,NA
+42,88,"Urundul, Tansel",Mitsubishi Lancer Evo VIII,TU,N4,"+1h 02m 39,4s",NA,NA,NA
+43,38,"Frisiero, Fabio",Subaru Impreza WRX,IT,N4,"+1h 06m 25,3s",0:10,NA,NA
+44,37,"Higgins, Mark",Subaru Impreza,GB,N4,"+1h 06m 55,9s",NA,NA,NA
+45,34,"Nutahara, Fumio",Mitsubishi Lancer Evo VIII,JP,N4,"+1h 09m 07,8s",1:40,NA,NA
+46,41,"Barratt, Natalie",Mitsubishi Lancer Evo VIII,GB,N4,"+1h 09m 51,1s",NA,NA,NA
+47,99,"Kizil, Ugur",Subaru Impreza,TU,N4,"+1h 18m 24,0s",3:20,NA,NA
+48,92,"Ceyisakar, Cenk",Mitsubishi Lancer Evo VII,TU,N4,"+1h 21m 20,0s",1:30,NA,NA
+49,104,"Diker, Mitat",Fiat Palio,TU,N2,"+1h 24m 40,7s",NA,NA,NA
+50,102,"Bozkurt, Nisa",Mitsubishi Lancer Evo VI,TU,N4,"+1h 29m 32,2s",1:50,NA,NA
+51,106,"Honamli, Serdar",Citroen Saxo VTS,TU,N2,"+1h 50m 28,0s",NA,NA,NA
+52,73,"Wilks, Guy",Suzuki Ignis S1600 5d,GB,A6,"+1h 58m 00,2s",4:30,NA,NA
+53,105,"Kucuksari, Adil",Fiat Palio,TU,A6,"+2h 00m 0,51s",2:20,NA,NA
+54,100,"Gulan, Ali",Mitsubishi Lancer Evo VI,TU,N4,"+2h 09m 54,9s",0:30,NA,NA
+NA,11,"Schwarz, Armin",Skoda Fabia WRC 05,DE,A8,NA,NA,TC6,mechanical
+NA,16,"Carlsson, Daniel",Subaru Impreza,SE,A8,NA,NA,TC8,unknown
+NA,17,"Yazici, Serkan",Hyundai Accent WRC,TU,A8,NA,NA,SS5,off road
+NA,19,"Johansson, Tobias",Subaru Impreza,SE,A8,NA,NA,SS8,unknown
+NA,35,"Singh, Karamjit",Proton Pert,MY,N4,NA,NA,TC13A,mechanical
+NA,40,"Pozzo, Gabriel",Subaru Impreza,AR,N4,NA,NA,SS11,mechanical
+NA,48,"Rosselot, Luis Ignacio",Mitsubishi Lancer Evo VIII,CL,N4,NA,NA,SS17,off road
+NA,61,"Dinc, Hakan",Skoda Octavia WRC,TU,A8,NA,NA,TC4,mechanical
+NA,65,"Heath, Nigel",Skoda Fabia WRC,GB,A8,NA,NA,TC1C,unknown
+NA,75,"Isik, Volkan",Fiat Punto S1600,TU,A6,NA,NA,SS6,off road
+NA,78,"Aigner, Andreas",Mitsubishi Lancer Evo VIII,AT,N4,NA,NA,TC11,mechanical
+NA,83,"Muller, Quirin",Mitsubishi Lancer Evo VIII,DE,N4,NA,NA,SS18,off road
+NA,84,"Oktem, Tarik",Opel Corsa S1600,TU,A6,NA,NA,SS12,mechanical
+NA,85,"Avci, Yagiz",Ford Fiesta S1600,TU,A6,NA,NA,TC11A,mechanical
+NA,86,"Yildiz, Gengiz",Mitsubishi Lancer Evo VIII,TU,N4,NA,NA,SS8,off road
+NA,89,"Ersonmez, Murat",Subaru Impreza,TU,N4,NA,NA,TC6,mechanical
+NA,91,"Burkay, Ahmet",Mitsubishi Lancer Evo VII,TU,N4,NA,NA,TC9D,mechanical
+NA,94,"Bostanci, Guven",Mitsubishi Lancer Evo VIII,TU,N4,NA,NA,TC16D,mechanical
+NA,95,"Ozseyhan, Hasan",Mitsubishi Lancer Evo VIII,TU,N4,NA,NA,TC15,mechanical
+NA,101,"Altunis, Emircan",Subaru Impreza,TU,N4,NA,NA,TC9D,mechanical
+NA,103,"Goren, Bayram",Citroen C2 S1600,TU,A6,NA,NA,SS8,off road
+NA,107,"Geylan, Osman",Citroen C2 S1600,TU,A6,NA,NA,TC16D,mechanical

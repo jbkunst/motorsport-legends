@@ -1,0 +1,117 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,7,"Makinen, Tommi",Mitsubishi Lancer Evo III,FI,A8,4h 04m 13s,NA,NA,NA
+2,11,"Kankkunen, Juha",Toyota Celica GT-Four (ST205),FI,A8,+46s,NA,NA,NA
+3,17,"Kytolehto, Jarmo",Ford Escort RS Cosworth,FI,A8,+2m 27s,NA,NA,NA
+4,16,"Gronholm, Marcus",Toyota Celica GT-Four (ST205),FI,A8,+2m 42s,NA,NA,NA
+5,2,"Eriksson, Kenneth",Subaru Impreza 555,SE,A8,+3m 22s,NA,NA,NA
+6,12,"Radstrom, Thomas",Toyota Celica GT-Four (ST205),SE,A8,+4m 09s,NA,NA,NA
+7,15,"Lindholm, Sebastian",Ford Escort RS Cosworth,FI,A8,+5m 17s,NA,NA,NA
+8,8,"Lampi, Lasse",Mitsubishi Lancer Evo III,FI,A8,+12m 01s,NA,NA,NA
+9,14,"Madeira, Rui",Toyota Celica GT-Four (ST205),PT,A8,+16m 34s,NA,NA,NA
+10,33,"Medeghini, Angelo",Subaru Impreza 555,IT,A8,+18m 28s,NA,NA,NA
+11,5,"Thiry, Bruno",Ford Escort RS Cosworth,BE,A8,+19m 11s,NA,NA,NA
+12,25,"Navarra, Andrea",Subaru Impreza 555,IT,A8,+20m 02s,NA,NA,NA
+13,30,"Hagstrom, Pasi",Toyota Celica GT-Four (ST205),FI,N4,+20m 49s,NA,NA,NA
+14,26,"Harkki, Olli",Mitsubishi Lancer Evo,FI,N4,+21m 54s,NA,NA,NA
+15,19,"Dallavilla, Andrea",Toyota Celica GT-Four (ST205),IT,A8,+22m 26s,NA,NA,NA
+16,20,"Nittel, Uwe",Mitsubishi Lancer Evo,DE,N4,+23m 56s,NA,NA,NA
+17,22,"Trelles, Gustavo",Mitsubishi Lancer Evo,UY,N4,+26m 34s,NA,NA,NA
+18,21,"Raidam, Ivar",Mitsubishi Lancer Evo,EE,N4,+29m 09s,NA,NA,NA
+19,10,"Recalde, Jorge",Mitsubishi Lancer Evo,AR,N4,+30m 58s,NA,NA,NA
+20,39,"Viita, Jari",Ford Escort RS Cosworth,FI,A8,+31m 28s,NA,NA,NA
+21,32,"Dahlman, Mikko",Mitsubishi Lancer Evo,FI,N4,+33m 15s,NA,NA,NA
+22,31,"Kamioka, Masao",Subaru Impreza 555,JP,A8,+34m 46s,NA,NA,NA
+23,36,"Kruse, Jonas",Renault Megane,SE,A7,+35m 01s,NA,NA,NA
+24,23,"Bedini, Piergiorgio",Mitsubishi Lancer Evo,IT,N4,+35m 02s,NA,NA,NA
+25,64,"Parts, Riho",Mitsubishi Lancer Evo,EE,N4,+36m 26s,NA,NA,NA
+26,34,"Sillankorva, Minna",Mitsubishi Lancer Evo,FI,N4,+38m 34s,NA,NA,NA
+27,45,"Himanen, Ari",Volkswagen Golf GTI 16V,FI,A7,+38m 48s,NA,NA,NA
+28,60,"Jokinen, Hannu",Opel Kadett GSI,FI,N3,+41m 04s,NA,NA,NA
+29,55,"Ramanen, Harri",Opel Kadett GSI,FI,N3,+45m 14s,NA,NA,NA
+30,67,"Saikkonen, Jukka",Ford Sierra Cosworth,FI,N4,+50m 17s,NA,NA,NA
+31,101,"Maenpaa, Jukka",Opel Kadett GSI,FI,N3,+50m 44s,NA,NA,NA
+32,50,"Nikonenko, Aleksandr",Lada Samara,RU,A6,+51m 18s,NA,NA,NA
+33,61,"Ramanen, Marko",Honda Civic,FI,N2,+55m 05s,NA,NA,NA
+34,51,"Dor, Frederic",Subaru Impreza 555,FR,A8,+57m 55s,NA,NA,NA
+35,83,"Kosonen, Jouni",Mitsubishi Galant VR-4,FI,N4,+59m 25s,NA,NA,NA
+36,80,"Vahamiko, Janne",Opel Astra,FI,N3,+59m 41s,NA,NA,NA
+37,98,"Harju, Markku",Volkswagen Golf GTI 16V,FI,N3,+1h 04m 23s,NA,NA,NA
+38,84,"Kivimaki, Juhani",Opel Astra,FI,N3,+1h 09m 11s,NA,NA,NA
+39,110,"Bjerg, Herluf",Opel Kadett GSI,DK,N3,+1h 10m 51s,NA,NA,NA
+40,108,"Kent, Adam",Peugeot 106,GB,A5,+1h 13m 51s,NA,NA,NA
+41,87,"Washio, Shunichi",Toyota Corolla,JP,A6,+1h 18m 42s,NA,NA,NA
+42,75,"Heath, Nigel",Ford Escort RS Cosworth,GB,A8,+1h 21m 59s,NA,NA,NA
+43,95,"Kalliomaki, Harri",Skoda Favorit 136L,FI,A5,+1h 22m 28s,NA,NA,NA
+44,71,"Vaatainen, Veijo",Lada 2107,FI,A6,+1h 25m 05s,NA,NA,NA
+45,105,"Rintakoski, Timo",Volkswagen Golf GTI 16V,FI,N3,+1h 28m 03s,NA,NA,NA
+46,86,"Molinie, Michel",Mazda 323,CI,N4,+1h 32m 52s,NA,NA,NA
+47,119,"Pohjola, Heikki",Peugeot 205 Rallye,FI,N1,+1h 33m 31s,NA,NA,NA
+48,103,"Holm, Georg",Opel Kadett GSI,FI,N3,+1h 33m 49s,NA,NA,NA
+49,99,"Hakala, Vesa",Volkswagen Golf GTI 16V,FI,N3,+1h 34m 49s,NA,NA,NA
+50,122,"Muret, Roland",Peugeot 205 Rallye,FR,N1,+1h 35m 53s,NA,NA,NA
+51,104,"Kalmanlehto, Ilkka",Peugeot 205 GTi,FI,N3,+1h 35m 58s,NA,NA,NA
+52,118,"Iho, Jukka",Peugeot 205 Rallye,FI,N1,+1h 41m 29s,NA,NA,NA
+53,88,"de Sanctis, Fabrizio",Mitsubishi Galant VR-4,IT,A8,+1h 41m 42s,NA,NA,NA
+54,120,"Loustainiau, Pierre",Peugeot 205 GTI,FR,N2,+1h 44m 46s,NA,NA,NA
+55,97,"Pollet, Patrick",Skoda Favorit 136L,FR,A5,+1h 49m 57s,NA,NA,NA
+56,96,"Godwin, Trevor",Rover Mini Cooper,GB,A5,+1h 50m 15s,NA,NA,NA
+57,70,"Virtanen, Timo",Opel Kadett GSI,FI,A7,+1h 50m 19s,NA,NA,NA
+58,106,"Idrac, Laurent",Renault Clio Williams,FR,A7,+1h 58m 07s,NA,NA,NA
+59,116,"Mickler, Ulrich",Peugeot 205 GTI,DE,N2,+2h 22m 23s,NA,NA,NA
+60,93,"Legrou, Philippe",Peugeot 205 Rallye,FR,A5,+2h 22m 56s,NA,NA,NA
+NA,1,"McRae, Colin",Subaru Impreza 555,GB,A8,NA,NA,SS6,accident
+NA,4,"Sainz, Carlos",Ford Escort RS Cosworth,ES,A8,NA,NA,SS9,mechanical
+NA,9,"Puhakka, Jouko",Mitsubishi Lancer Evo,FI,N4,NA,NA,TC11A,mechanical
+NA,18,"Rovanpera, Harri",Ford Escort RS Cosworth,FI,A8,NA,NA,TC23A,transmission
+NA,24,"Saarenpaa, Esa",Audi Coupe S2,FI,A8,NA,NA,SS4,electrics
+NA,27,"Miettinen, Juha",Mitsubishi Lancer Evo,FI,N4,NA,NA,SS16,puncture
+NA,28,"Kangas, Juha",Mitsubishi Lancer Evo,FI,N4,NA,NA,SS25,wheels
+NA,29,"Korhonen, Mika",Mitsubishi Lancer Evo,FI,N4,NA,NA,SS3,mechanical
+NA,35,"Laukkanen, Tapio",Volkswagen Golf GTI 16V,FI,A7,NA,NA,TC8B,engine
+NA,37,"Nikkila, Antti",Opel Kadett GSI,FI,A7,NA,NA,SS2,mechanical
+NA,38,"Gardemeister, Toni",Opel Astra,FI,A7,NA,NA,TC23C,mechanical
+NA,40,"Ipatti, Marko",Mitsubishi Lancer Evo,FI,N4,NA,NA,SS20,suspension
+NA,41,"Vekka, Teppo",Mitsubishi Lancer Evo,FI,N4,NA,NA,SS8,transmission
+NA,42,"Leino, Teppo",Toyota Celica GT-Four (ST205),FI,N4,NA,NA,TC11C,gearbox
+NA,43,"Niemi, Kim",Subaru Impreza 555,FI,A8,NA,NA,SS2,mechanical
+NA,44,"Hamalainen, Jari",Mitsubishi Galant VR-4,FI,A8,NA,NA,SS4,off road
+NA,46,"Isolehto, Kari",Renault Clio Williams,FI,A7,NA,NA,NA,driveshaft
+NA,47,"Artemenko, Alexander",Lada Samara,RU,A6,NA,NA,NA,wheel
+NA,48,"Kilpelainen, Yrjo",Volkswagen Golf GTI 16V,FI,A7,NA,NA,TC4B,driveshaft
+NA,49,"Tuohino, Janne",Opel Astra,FI,A7,NA,NA,TC4B,mechanical
+NA,52,"Sahala, Harri",Toyota Celica Turbo 4WD (ST185),FI,A8,NA,NA,SS8,wheel
+NA,53,"Pykalisto, Juuso",Opel Astra,FI,N3,NA,NA,SS3,gearbox
+NA,54,"Lakeev, Aleksandr",Lada Samara,RU,A6,NA,NA,SS14,off road
+NA,56,"Thorszelius, Mats",Opel Astra,SE,N3,NA,NA,SS3,oil pump
+NA,57,"Makkonen, Jouko",Opel Astra,FI,N3,NA,NA,SS3,fuel pump
+NA,58,"Laakso, Jorma",Volkswagen Golf GTI 16V,FI,N3,NA,NA,SS8,suspension
+NA,59,"Tuominen, Matti",Opel Astra,FI,N3,NA,NA,SS6,front wheel
+NA,62,"Joensuu, Pasi",Mitsubishi Galant VR-4,FI,N4,NA,NA,TC6C,fire
+NA,65,"Richardt, Karsten",Mitsubishi Lancer Evo,DK,N4,NA,NA,SS1,off road
+NA,66,"Toldsepp, Toomas",Ford Escort RS Cosworth,EE,N4,NA,NA,TC13B,gearbox
+NA,69,"Muhonen, Seppo",Nissan Sunny GTI-R,FI,N4,NA,NA,TC4B,suspension
+NA,72,"Levula, Tapani",Lada Samara,FI,A6,NA,NA,SS2,oil pump
+NA,73,"Hotanen, Hannu",Opel Kadett GSI,FI,A7,NA,NA,SS5,mechanical
+NA,74,"Sallinen, Lauri",Lancia Delta HF Integrale,FI,A8,NA,NA,SS5,suspension
+NA,76,"Heino, Jari Ilmari",Mazda 323 GT-R,FI,A8,NA,NA,TC4B,unknown
+NA,77,"Skar, John",Opel Kadett GSI,NO,A7,NA,NA,SS11,electrics
+NA,78,"Munne, Jyri",Lada Samara,FI,A6,NA,NA,SS1,driveshaft
+NA,79,"Tukiainen, Tomi",Opel Astra,FI,N3,NA,NA,SS21,off road
+NA,81,"Korkiakoski, Harri",Opel Kadett GSI,FI,N3,NA,NA,SS4,clutch
+NA,82,"Lindberg, Janne",Volkswagen Golf GTI 16V,FI,N3,NA,NA,SS6,gearbox
+NA,85,'Julli Jumissarov',Opel Astra,FI,N3,NA,NA,TC2A,gearbox
+NA,89,"Ronni, Heikki",Skoda Favorit 136L,FI,A5,NA,NA,SS10,off road
+NA,90,"Jokinen, Juha",Peugeot 205 Rallye,FI,A5,NA,NA,SS5,brakes
+NA,91,"Laine, Marko",Maruti 800,FI,A5,NA,NA,TC19B,engine
+NA,92,"Kemppainen, Ari",Skoda Favorit 136L,FI,A5,NA,NA,SS2,clutch
+NA,94,"Herronen, Kari",Lada Samara,FI,A5,NA,NA,SS10,fuel system
+NA,100,"Laukamo, Matti",Volkswagen Golf GTI 16V,FI,N3,NA,NA,SS4,off road
+NA,102,"Scherrbacher, Hans Herbert",Volkswagen Golf GTI 16V,DE,N3,NA,NA,TC6B,off road
+NA,107,"Kohli, Jean-Marie",Volkswagen Golf GTI 16V,CH,A7,NA,NA,SS27,mechanical
+NA,109,"Tveit, Kjetil",Renault Clio,NO,N3,NA,NA,SS11,engine
+NA,111,"Mayr, Siegfried",Opel Astra,DE,N3,NA,NA,SS15,off road
+NA,112,"Bochatay, Thierry",Peugeot 309 GTI,CH,N3,NA,NA,TC8B,unknown
+NA,114,"Riche, Marc",Peugeot 205 GTI,FR,A6,NA,NA,TC1E,mechanical
+NA,115,"Sarjula, Esko",Peugeot 205 GTI,FI,N2,NA,NA,SS25,suspension
+NA,117,"Lansikorpi, Juhani",Suzuki Swift GTI,FI,N1,NA,NA,SS8,electrics
+NA,121,"Majamaki, Ilkka",Peugeot 106,FI,N1,NA,NA,SS16,gearbox

@@ -1,0 +1,17 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Biasion, Massimo",Lancia Delta HF 4WD,IT,A8,7h 10m 27s,NA,NA,NA
+2,5,"Recalde, Jorge",Lancia Delta HF 4WD,AR,A,+1m 01s,NA,NA,NA
+3,2,"Weber, Erwin",Volkswagen Golf GTi,DE,A,+26m 44s,NA,NA,NA
+4,3,"Eriksson, Kenneth",Volkswagen Golf GTi,SE,A,+48m 49s,NA,NA,NA
+5,9,"Raies, Gabriel",Renault 18 GTX,AR,A,+52m 16s,NA,NA,NA
+6,17,"Lemos, Paulo",Volkswagen Gol,BR,A,+58m 15s,NA,NA,NA
+7,15,"Fleck, Jorge",Volkswagen Gol,BR,A,+1h 02m 45s,NA,NA,NA
+8,11,"Bescham, Jorge",Fiat Regata,AR,A,+1h 21m 01s,NA,NA,NA
+9,7,"Soto, Ernesto",Renault 18 GTX,AR,A,+1h 25m 21s,NA,NA,NA
+10,24,"Schmauk, Alejandro",Alfa Romeo 33 4x4,CL,A,+1h 28m 45s,NA,NA,NA
+14,79,"Gianre, Norberto",Fiat 147,AR,B,+1h 55m 02s,NA,NA,NA
+NA,4,"Carlsson, Ingvar",Mazda 323 4WD,SE,A,NA,NA,SS9,driveshaft
+NA,6,"Celsi, Jose",Subaru RX Turbo,CL,A,NA,NA,SS9,turbo
+NA,8,"Diaz Mayer, Carlos",Renault 18 GTX,AR,A,NA,NA,SS4,accident
+NA,10,"Torras, Miguel",Renault 18 GTX,AR,A,NA,NA,SS6,accident
+NA,18,"Traverso, Juan-Maria",Renault 18 GTX,AR,A,NA,NA,SS12,accident

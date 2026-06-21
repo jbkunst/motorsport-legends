@@ -1,0 +1,63 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,7,"Solberg, Petter",Subaru Impreza WRC2003,NO,A8,"4:20:15,3",NA,NA,NA
+2,19,"Sainz, Carlos",Citroen Xsara WRC,ES,A8,"+36,6",NA,NA,NA
+3,5,"Duval, Francois",Ford Focus RS WRC 03,BE,A8,"+41,7",NA,NA,NA
+4,1,"Gronholm, Marcus",Peugeot 206WRC (2002),FI,A8,"+1:09,2",NA,NA,NA
+5,17,"McRae, Colin",Citroen Xsara WRC,GB,A8,"+1:26,0",NA,NA,NA
+6,3,"Panizzi, Gilles",Peugeot 206WRC (2002),FR,A8,"+1:58,7",NA,NA,NA
+7,8,"Makinen, Tommi",Subaru Impreza WRC2003,FI,A8,"+2:25,8",NA,NA,NA
+8,2,"Burns, Richard",Peugeot 206WRC (2002),GB,A8,"+2:36,7",NA,NA,NA
+9,20,"Bugalski, Philippe",Citroen Xsara WRC,FR,A8,"+2:46,8",NA,NA,NA
+10,6,"Hirvonen, Mikko",Ford Focus RS WRC 02,FI,A8,"+3:55,4",NA,NA,NA
+11,15,"Gardemeister, Toni",Skoda Fabia WRC,FI,A8,"+5:09,9",NA,NA,NA
+12,24,"Robert, Cedric",Peugeot 206 WRC,FR,A8,"+7:47,4",0:20,NA,NA
+13,18,"Loeb, Sebastien",Citroen Xsara WRC,FR,A8,"+9:34,0",NA,NA,NA
+14,22,"Warmbold, Antony",Ford Focus RS WRC 02,DE,A8,"+14:30,7",NA,NA,NA
+15,100,"Higgins, Mark",Subaru Impreza WRX,GB,N4,"+28:54,4",NA,NA,NA
+16,60,"McShea, Niall",Mitsubishi Lancer Evo VI,GB,N4,"+29:32,5",0:10,NA,NA
+17,54,"Arai, Toshihiro",Subaru Impreza WRX,JP,N4,"+30:30,1",NA,NA,NA
+18,55,"Rowe, Martin",Subaru Impreza WRX,GB,N4,"+34:36,5",NA,NA,NA
+19,61,"Kulig, Janusz",Mitsubishi Lancer Evo VI,PL,N4,"+35:30,9",2:00,NA,NA
+20,65,"Blomqvist, Stig",Subaru Impreza WRX,SE,N4,"+35:36,1",NA,NA,NA
+21,111,"Griazine, Stanislav",Mitsubishi Lancer Evo VII,RU,N4,"+37:04,0",NA,NA,NA
+22,124,"Mercier, Eddie",Renault Clio,FR,N3,"+37:19,2",NA,NA,NA
+23,69,"Colsoul, Bob",Mitsubishi Lancer Evo V,BE,N4,"+37:42,0",NA,NA,NA
+24,118,"Habani, Christian",Renault Clio S1600,FR,A6,"+41:40,9",NA,NA,NA
+25,80,"Trivino Bujalil, Ricardo",Mitsubishi Lancer Evo VII,MX,N4,"+46:58,6",NA,NA,NA
+26,104,"Cormoreche, Didier",Peugeot 206 WRC,FR,A8,"+48:34,9",NA,NA,NA
+27,105,"Micheli, Jose",Toyota Corolla WRC,FR,A8,"+52:46,4",NA,NA,NA
+28,128,"Poisson, Jean-Marc",Honda Integra,FR,N3,"+1:06:56,4",NA,NA,NA
+29,70,"Errani, Riccardo",Mitsubishi Lancer Evo V,IT,N4,"+1:08:02,5",NA,NA,NA
+30,120,"Tomaselli, Herve",Peugeot 106,FR,A6,"+1:09:54,6",NA,NA,NA
+31,121,"Ristori, Paul",Peugeot 106,FR,A6,"+1:16:24,8",0:40,NA,NA
+32,64,"Roman, Joakim",Mitsubishi Lancer Evo V,SE,N4,"+1:21:19,7",1:40,NA,NA
+33,59,"Marrini, Stefano",Mitsubishi Lancer Evo VII,IT,N4,"+1:21:35,0",NA,NA,NA
+34,130,"Rocard, Christophe",Peugeot 106,FR,N1,"+5:59:59,9",NA,NA,NA
+NA,4,"Martin, Markko",Ford Focus RS WRC 03,EE,A8,NA,NA,SS15,Accident
+NA,14,"Auriol, Didier",Skoda Fabia WRC,FR,A8,NA,NA,SS1,Mechanical
+NA,21,"Bengue, Alexandre",Peugeot 206WRC (2001),FR,A8,NA,NA,SS7,Mechanical
+NA,32,"Stohl, Manfred",Peugeot 206 WRC,AT,A8,NA,NA,SS11,Off road
+NA,34,"Rousselot, Benoit",Subaru Impreza WRC2000,FR,A8,NA,NA,SS10,Off road
+NA,35,"Ginley, Alistair",Ford Focus RS WRC 01,GB,A8,NA,NA,SS7,Mechanical
+NA,52,"Sola, Daniel",Mitsubishi Carisma GT Evo7,ES,N4,NA,NA,TC14A,Mechanical
+NA,53,"Ferreyros, Ramon",Mitsubishi Lancer Evo VII,PE,N4,NA,NA,SS4,Mechnical
+NA,74,"Frisiero, Fabio",Mitsubishi Lancer Evo VII,IT,N4,NA,NA,SS10,Mechanical
+NA,76,"Richard, Patrick",Subaru Impreza WRX,CA,N4,NA,NA,SS9,Mechanical
+NA,77,"de Dominicis, Alfredo",Mitsubishi Lancer Evo VII,IT,N4,NA,NA,SS1,Mechanical
+NA,102,"Pereira, Armando",Subaru Impreza WRC2000,FR,A8,NA,NA,SS16,Off road
+NA,103,"Torre, Jean-Claude",Subaru Impreza WRC2000,FR,A8,NA,NA,SS10,Off road
+NA,106,"Vauthier, Alain",Subaru Impreza WRC2000,FR,A8,NA,NA,SS12,Off road
+NA,107,"Galli, Gianluigi",Mitsubishi Lancer Evo VII,IT,N4,NA,NA,SS8,Off road
+NA,108,"Santoni, Jean-Marie",Mitsubishi Lancer Evo VII,FR,N4,NA,NA,SS9,Mechanical
+NA,110,"Ayme, Jean-Paul",Mitsubishi Lancer Evo VII,FR,N4,NA,NA,TC11C,Mechanical
+NA,112,"Pons, Xavier",Mitsubishi Lancer Evo VII,ES,N4,NA,NA,SS14,Mechanical
+NA,113,"Franco, Horacio",Mitsubishi Lancer Evo VII,PT,N4,NA,NA,SS15,Mechanical
+NA,114,"Kobayashi, Wakujiro",Mitsubishi Lancer Evo 8,JP,N4,NA,NA,SS8,Off road
+NA,115,"Oldani, Mario",Mitsubishi Lancer Evo VII,IT,N4,NA,NA,SS7,Mechanical
+NA,116,"Venturini, Henri",Mitsubishi Lancer Evo VII,FR,N4,NA,NA,TC6D,Withdrew
+NA,119,"Chkondali, Thierry",Citroen Saxo,FR,A6,NA,NA,SS11,Off road
+NA,122,"Monti, Georges",Toyota Yaris,FR,A5,NA,NA,SS2,Off road
+NA,123,"Manzagol, Jean-Pierre",Renault Clio,FR,N3,NA,NA,SS3,Mechanical
+NA,126,"Vellutini, Didier",Renault Clio,FR,N3,NA,NA,SS2,Off road
+NA,127,"Bensimon, Claude",Peugeot 306,FR,N3,NA,NA,SS1,Mechanical
+NA,129,"Bellotti, Henri",Renault Clio,FR,N3,NA,NA,SS9,Off road

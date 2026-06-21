@@ -1,0 +1,68 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Loeb, Sebastien",Citroen C4 WRC,FR,A8,"3h 05m 49,3s",NA,NA,NA
+2,2,"Sordo Castillo, Daniel",Citroen C4 WRC,ES,A8,"+35,7s",NA,NA,NA
+3,11,"Solberg, Petter",Citroen C4 WRC,NO,A8,"+1m 16,8s",NA,NA,NA
+4,4,"Latvala, Jari-Matti",Ford Focus RS WRC 09,FI,A8,"+1m 29,3s",NA,NA,NA
+5,3,"Hirvonen, Mikko",Ford Focus RS WRC 09,FI,A8,"+3m 43,8s",NA,NA,NA
+6,7,"Ogier, Sebastien",Citroen C4 WRC,FR,A8,"+11m 55,9s",NA,NA,NA
+7,9,"Villagra, Federico",Ford Focus RS WRC 08,AR,A8,"+14m 15,4s",NA,NA,NA
+8,5,"Wilson, Matthew",Ford Focus RS WRC 08,GB,A8,"+14m 26,9s",NA,NA,NA
+9,16,"Solberg, Henning",Ford Fiesta S2000,NO,N4,"+16m 48,9s",NA,NA,NA
+10,24,"Sandell, Patrik",Skoda Fabia Super 2000,SE,N4,"+17m 12,3s",NA,NA,NA
+11,29,"Ketomaa, Jari",Ford Fiesta S2000,FI,N4,"+19m 08,3s",NA,NA,NA
+12,43,"Block, Ken",Ford Focus RS WRC 08,US,A8,"+19m 45,2s",1:40,NA,NA
+13,14,"al-Qassimi, Khalid",Ford Focus RS WRC 08,AE,A8,"+19m 46,2s",NA,NA,NA
+14,23,"Kosciuszko, Michal",Skoda Fabia Super 2000,PL,N4,"+20m 19,3s",NA,NA,NA
+15,28,"Pons, Xavier",Ford Fiesta S2000,ES,N4,"+20m 20,3s",NA,NA,NA
+16,31,"Araujo, Armindo",Mitsubishi Lancer Evo X,PT,N4,"+22m 58,8s",NA,NA,NA
+17,17,"Kuipers, Dennis",Ford Fiesta S2000,NL,N4,"+23m 07,6s",NA,NA,NA
+18,79,"Mikkelsen, Andreas",Skoda Fabia Super 2000,NO,N4,"+24m 09,8s",NA,NA,NA
+19,40,"Tanak, Ott",Mitsubishi Lancer Evo X,EE,N4,"+25m 25,4s",NA,NA,NA
+20,25,"Brynildsen, Eyvind",Skoda Fabia Super 2000,NO,N4,"+26m 48,4s",NA,NA,NA
+21,21,"Prokop, Martin",Ford Fiesta S2000,CZ,N4,"+27m 14,4s",NA,NA,NA
+22,149,"Ancian, Jeremi",Suzuki Swift S1600,FR,A6,"+28m 19,9s",NA,NA,NA
+23,32,"Arai, Toshihiro",Subaru Impreza,JP,N4,"+28m 30,0s",NA,NA,NA
+24,123,"Weijs jr, Hans",Citroen C2 S1600,NL,A6,"+29m 24,0s",NA,NA,NA
+25,78,"Baral, Thomas",Renault Clio,FR,A7,"+30m 44,6s",NA,NA,NA
+26,39,"Raschi, Alex",Mitsubishi Lancer Evo X,SM,N4,"+30m 45,5s",NA,NA,NA
+27,129,"Neuville, Thierry",Citroen C2 S1600,BE,A6,"+31m 01,9s",NA,NA,NA
+28,67,"Gonon, Florian",Subaru Impreza,CH,N4,"+31m 14,0s",1:10,NA,NA
+29,46,"Grondal, Anders",Subaru Impreza,NO,N4,"+33m 49,7s",NA,NA,NA
+30,132,"Arzeno, Mathieu",Citroen C2 S1600,FR,A6,"+34m 36,8s",NA,NA,NA
+31,45,"Wang, Rui",Subaru Impreza,CN,N4,"+35m 33,4s",0:10,NA,NA
+32,26,"Sousa, Bernardo",Ford Fiesta S2000,PT,N4,"+36m 57,8s",NA,NA,NA
+33,70,"Gassner jr, Hermann",Mitsubishi Lancer Evo IX,DE,N4,"+40m 50,9s",NA,NA,NA
+34,69,"Schmitt, Jerome",Citroen C2 R2,FR,A6,"+43m 09,2s",NA,NA,NA
+35,38,"Paddon, Hayden",Mitsubishi Lancer Evo X,NZ,N4,"+44m 04,8s",NA,NA,NA
+36,121,"Burkart, Aaron Nicolai",Suzuki Swift S1600,DE,A6,"+44m 05,7s",3:00,NA,NA
+37,126,"Slavov, Todor",Renault Clio,BG,A7,"+44m 34,0s",4:50,NA,NA
+38,54,"Jourdain, Michel",Mitsubishi Lancer Evo X,MX,N4,"+45m 18,9s",NA,NA,NA
+39,128,"Hunt, Harry",Ford Fiesta,GB,A6,"+48m 02,7s",NA,NA,NA
+40,64,"al-Jabri, Bader",Ford Fiesta,AE,A6,"+50m 21,4s",NA,NA,NA
+41,18,"Ostberg, Mads",Ford Fiesta S2000,NO,N4,"+51m 36,1s",NA,NA,NA
+42,68,"Muller, Yvan",Citroen Xsara,FR,A8,"+52m 59,4s",NA,NA,NA
+43,50,"Maurin, Julien",Ford Fiesta S2000,FR,N4,"+54m 08,9s",NA,NA,NA
+44,77,"Laivola, Ari",Peugeot 207 S2000,FI,N4,"+1h 01m 40,8s",NA,NA,NA
+45,75,"Guigou, Emmanuel",Renault Twingo,FR,N2,"+1h 01m 52,0s",NA,NA,NA
+46,65,"Colney, Thierry",Renault Clio,FR,A7,"+1h 01m 55,8s",5:00,NA,NA
+47,30,"Llovera, Albert",Fiat Grande Punto Abarth S2000,AD,N4,"+1h 04m 18,1s",NA,NA,NA
+48,36,"Georgiou, Nicholai",Mitsubishi Lancer Evo X,LB,N4,"+1h 05m 55,8s",NA,NA,NA
+49,72,"Jones, Tim",Ford Fiesta S1600,GB,A6,"+1h 09m 51,2s",NA,NA,NA
+NA,8,"Raikkonen, Kimi",Citroen C4 WRC,FI,A8,NA,NA,TC16F,accident
+NA,15,"Turan, Frigyes",Peugeot 307WRC,HU,A8,NA,NA,TC8H,accident
+NA,33,"Linari, Gianluca",Subaru Impreza,IT,N4,NA,NA,SS12,accident
+NA,37,"Horsey, Peter",Mitsubishi Lancer Evo X,KE,N4,NA,NA,TC8H,accident
+NA,41,"Frisiero, Fabio",Mitsubishi Lancer Evo IX,IT,N4,NA,NA,TC16F,rolled
+NA,47,"Pereira, Nuno Barroso",Subaru Impreza,PT,N4,NA,NA,TC8H,differential
+NA,48,"Weston Jr, Dave",Subaru Impreza,GB,N4,NA,NA,SS18,accident
+NA,49,"Vigion, Jean-Sebastien",Peugeot 207 S2000,FR,N4,NA,NA,TC8H,engine
+NA,61,"Riedemann, Christian",Ford Fiesta,DE,A6,NA,NA,SS20,unknown
+NA,62,"al-Shamsi, Majed",Ford Fiesta,AE,A6,NA,NA,SS10,unknown
+NA,63,"al-Shaikh, Khalil",Ford Fiesta,AE,A6,NA,NA,TC0,unknown
+NA,71,"Besson, Jean-Pascal",Mitsubishi Lancer Evo IX,FR,N4,NA,NA,TC16C,fueling infringement
+NA,73,"Bonnefis, Germain",Citroen C2 R2,FR,A6,NA,NA,SS9,unknown
+NA,74,"Roman, Joakim",Subaru Impreza,SE,N4,NA,NA,TC8H,unknown
+NA,76,"Aldeghi, Paolo",Renault Clio,IT,A7,NA,NA,TC8C,unknown
+NA,122,"Abbring, Kevin",Renault Clio,NL,A7,NA,NA,TC8H,accident
+NA,127,"Broccoli, Alessandro",Renault Clio,SM,A7,NA,NA,TC8H,fire
+NA,131,"Lemes Macias, Yeray",Renault Clio,ES,A6,NA,NA,SS4,accident

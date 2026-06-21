@@ -1,0 +1,85 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,5,"Burns, Richard",Subaru Impreza WRC99,GB,A8,"3h 44m 31,5s",NA,NA,NA
+2,3,"Sainz, Carlos",Toyota Corolla WRC,ES,A8,"+11,6s",NA,NA,NA
+3,1,"Makinen, Tommi",Mitsubishi Lancer Evo VI,FI,A8,"+4m 31,4s",NA,NA,NA
+4,2,"Loix, Freddy",Mitsubishi Carisma GT,BE,A8,"+7m 32,5s",0:10,NA,NA
+5,15,"Gronholm, Marcus",Peugeot 206 WRC,FI,A8,"+8m 01,9s",NA,NA,NA
+6,9,"Rovanpera, Harri",Seat Cordoba WRC Evo2,FI,A8,"+8m 12,8s",0:30,NA,NA
+7,8,"Radstrom, Thomas",Ford Focus WRC,SE,A8,"+8m 29,6s",NA,NA,NA
+8,23,"Arai, Toshihiro",Subaru Impreza,JP,N4,"+21m 18,3s",NA,NA,NA
+9,30,"Eriksson, Kenneth",Hyundai Coupe Kit Car Evo2,SE,A7,"+21m 26,9s",0:10,NA,NA
+10,34,"Rowe, Martin",Renault Megane,GB,A7,"+21m 57,6s",NA,NA,NA
+11,24,"Ordynski, Ed",Mitsubishi Lancer Evo V,AU,N4,"+22m 08,4s",NA,NA,NA
+12,27,"Nittel, Uwe",Mitsubishi Lancer Evo V,DE,N4,"+22m 32,4s",NA,NA,NA
+13,33,"Higgins, Mark",Volkswagen Golf GTI 16V,GB,A7,"+25m 57,0s",NA,NA,NA
+14,32,"McRae, Alister",Hyundai Coupe Kit Car Evo2,GB,A7,"+27m 27,3s",0:20,NA,NA
+15,28,"Taguchi, Katsuhiko",Mitsubishi Lancer Evo VI,JP,N4,"+27m 37,3s",0:10,NA,NA
+16,10,"Gardemeister, Toni",Seat Cordoba WRC Evo2,FI,A8,"+29m 08,2s",2:00,NA,NA
+17,38,"Nishio, Yujiro",Subaru Impreza,JP,N4,"+29m 13,7s",NA,NA,NA
+18,39,"Herridge, Dean",Subaru Impreza,AU,N4,"+29m 20,2s",NA,NA,NA
+19,31,"Laukkanen, Tapio",Renault Megane,FI,A7,"+30m 15,2s",NA,NA,NA
+20,50,"Yamaguchi, Osamu",Mitsubishi Lancer Evo VI,JP,N4,"+31m 27,6s",NA,NA,NA
+21,43,"Lintott, Martin",Subaru Impreza,AU,N4,"+37m 43,3s",NA,NA,NA
+22,42,"Lowndes, Spencer",Mitsubishi Lancer Evo V,AU,N4,"+38m 38,6s",NA,NA,NA
+23,59,"Dines, Jacquiline",Mitsubishi Lancer Evo III,AU,A8,"+41m 16,6s",NA,NA,NA
+24,51,"Sosa, Daryl",Mitsubishi Lancer Evo IV,AU,A8,"+43m 28,3s",NA,NA,NA
+25,40,"Evans, Simon",Volkswagen Golf GTI 16V,AU,A7,"+44m 54,2s",NA,NA,NA
+26,52,"Watkins, Roman",Subaru Impreza,AU,N4,"+45m 44,2s",NA,NA,NA
+27,53,"Thompson, Michael",Subaru Impreza,AU,N4,"+46m 15,4s",NA,NA,NA
+28,68,"Colsoul, Bob",Mitsubishi Lancer Evo V,BE,N4,"+46m 37,4s",NA,NA,NA
+29,72,"Takahashi, Kazushi",Mitsubishi Lancer Evo V,JP,N4,"+47m 05,7s",1:40,NA,NA
+30,62,"Lloyd, John",Mitsubishi Lancer Evo V,GB,A8,"+48m 33,1s",NA,NA,NA
+31,55,"Takakuwa, Haruo",Subaru Impreza,JP,N4,"+49m 29,9s",NA,NA,NA
+32,45,"Hills, David",Mitsubishi Lancer Evo III,AU,N4,"+49m 49,7s",NA,NA,NA
+33,64,"Stone, Alex",Subaru Impreza 555,AU,N4,"+52m 28,3s",NA,NA,NA
+34,74,"Endo, Michiyasu",Mitsubishi Lancer Evo III,JP,N4,"+53m 55,1s",1:20,NA,NA
+35,70,"Jayakarna, Sufma",Mitsubishi Lancer Evo IV,ID,N4,"+55m 32,5s",1:10,NA,NA
+36,65,"Misaki, Yoshifusa",Subaru Impreza 555,JP,N4,"+55m 58,4s",NA,NA,NA
+37,77,"Morgan, Gavin",Subaru Legacy RS,AU,A8,"+56m 38,1s",NA,NA,NA
+38,88,"Hannigan, Andrew",Daihatsu Charade GTI,AU,N2,"+1h 13m 44,5s",NA,NA,NA
+39,54,"Kuraoka, Toshimitsu",Mitsubishi Lancer Evo III,JP,N4,"+1h 17m 00,3s",3:50,NA,NA
+40,83,"Waters, Stuart",Nissan Sunny,AU,N3,"+1h 27m 22,2s",1:50,NA,NA
+41,86,"Scott, Dale",Toyota Corolla,NZ,N2,"+1h 36m 25,0s",1:20,NA,NA
+42,81,"Knox, Mathew",Proton Satria,AU,N2,"+1h 37m 59,1s",3:10,NA,NA
+43,73,"Heath, Nigel",Mitsubishi Lancer Evo III,GB,N4,"+1h 39m 20,8s",2:00,NA,NA
+44,85,"Johnson, David",Honda Civic,GB,A6,"+1h 39m 39,8s",1:00,NA,NA
+45,79,"Hayes, William",Proton Satria,AU,N2,"+1h 43m 20,3s",1:40,NA,NA
+46,96,"Sander, Simon",Subaru Legacy RS,AU,N4,"+1h 43m 30,2s",NA,NA,NA
+47,82,"Dunn, Robert",Mazda,AU,A7,"+1h 44m 51,1s",1:00,NA,NA
+48,89,"Whiteley, Craig",Daihatsu Charade,AU,N2,"+1h 49m 33,3s",4:00,NA,NA
+49,91,"Doney, Justin",Daihatsu Charade 1.3i,AU,A5,"+2h 12m 40,9s",7:10,NA,NA
+NA,4,"Auriol, Didier",Toyota Corolla WRC,FR,A8,NA,NA,SS6,engine
+NA,6,"Kankkunen, Juha",Subaru Impreza WRC99,FI,A8,NA,NA,SS5,suspension
+NA,7,"McRae, Colin",Ford Focus WRC,GB,A8,NA,NA,SS12,off road
+NA,14,"Delecour, Francois",Peugeot 206 WRC,FR,A8,NA,NA,SS11,gearbox
+NA,17,"Bourne, Peter",Subaru Impreza WRC98,NZ,A8,NA,NA,SS2,cambelt
+NA,18,"Bates, Neal",Toyota Corolla WRC,AU,A8,NA,NA,SS16,accident
+NA,19,"Kataoka, Yoshihiro",Mitsubishi Lancer Evo VI,JP,A8,NA,NA,SS15,accident
+NA,20,"Dor, Frederic",Subaru Impreza WRC98,FR,A8,NA,NA,SS9,mechanical
+NA,21,"Trelles, Gustavo",Mitsubishi Lancer Evo V,UY,N4,NA,NA,SS8,suspension
+NA,22,"al-Wahaibi, Hamed",Mitsubishi Lancer Evo V,OM,N4,NA,NA,SS6,mechanical
+NA,25,"Guest, Michael",Subaru Impreza WRX,AU,N4,NA,NA,SS7,accident
+NA,29,"Mendez, Gabriel",Mitsubishi Lancer Evo V,UY,N4,NA,NA,SS11,oil pump
+NA,35,"Argyle, Geoff",Mitsubishi Lancer Evo VI,NZ,A8,NA,NA,SS14,engine
+NA,36,"Crocker, Cody",Subaru Impreza,AU,N4,NA,NA,SS18,suspension
+NA,37,"Konishi, Shigeyuki",Subaru Impreza,JP,N4,NA,NA,SS16,accident
+NA,41,"Leyraud, Jean-Louis",Subaru Impreza,FR,N4,NA,NA,SS11,mechanical
+NA,46,"Challis, Tolley",Mitsubishi Lancer Evo III,AU,A8,NA,NA,SS16,gearbox
+NA,47,"Dunlop, Dennis",Mitsubishi Lancer Evo III,AU,A8,NA,NA,SS16,gearbox
+NA,49,"Bukmanis, Adrian",Subaru Legacy RS,AU,A8,NA,NA,SS4,electrical
+NA,56,"Dawson, Craig",Nissan Pulsar GTI-R,AU,A8,NA,NA,SS12,off road
+NA,57,"Tuohino, Janne",Volkswagen Polo,FI,N1,NA,NA,SS15,fan belt
+NA,58,"Slot, Jason",Volkswagen Golf GTI 16V,AU,A7,NA,NA,SS9,suspension
+NA,60,"Sato, Masahiro",Mitsubishi Lancer Evo VI,JP,N4,NA,NA,SS19,accident
+NA,61,"Shepheard, Stephen",Mitsubishi Lancer Evo V,AU,N4,NA,NA,SS22,drive shaft
+NA,63,"Tuckett, Abe",Mitsubishi Lancer Evo III,AU,A8,NA,NA,SS18,cam belt
+NA,66,"Grigsby, Ben",Subaru Impreza 555,AU,N4,NA,NA,SS4,suspension
+NA,67,"Lockhart, Ross",Mitsubishi Lancer Evo III,AU,A8,NA,NA,SS22,off road
+NA,69,"Hedgeland, Keith",Subaru Impreza 555,AU,A8,NA,NA,SS14,differential
+NA,71,"Harris, Kim",Subaru Impreza 555,AU,N4,NA,NA,SS13,accident
+NA,75,"Ikeda, Atsushi",Mitsubishi Lancer Evo IV,JP,N4,NA,NA,SS21,off road
+NA,76,"James, Ashlea",Toyota Corolla,AU,N3,NA,NA,SS9,gearbox
+NA,78,"Butcher, Mark",Nissan Pulsar GTI-R,AU,A8,NA,NA,SS5,suspension
+NA,84,"Whyatt, Robert",Toyota Corolla,AU,N3,NA,NA,SS13,OTL
+NA,87,"Welsh, Mike",Daihatsu Charade,AU,N1,NA,NA,SS8,suspension
+NA,90,"Kyme, Nicole",Daihatsu Charade,AU,A6,NA,NA,SS9,electrical

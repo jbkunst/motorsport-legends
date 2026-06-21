@@ -1,0 +1,96 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,11,"Neuville, Thierry",Hyundai i20 Coupe WRC,BE,RC1,"2h 30m 24,2s",NA,NA,NA
+2,42,"Breen, Craig",Hyundai i20 Coupe WRC,IE,RC1,"+30,7s",NA,NA,NA
+3,69,"Rovanpera, Kalle",Toyota Yaris WRC,FI,RC1,"+43,1s",NA,NA,NA
+4,33,"Evans, Elfyn",Toyota Yaris WRC,GB,RC1,"+49,6s",NA,NA,NA
+5,1,"Ogier, Sebastien",Toyota Yaris WRC,FR,RC1,"+55,8s",NA,NA,NA
+6,8,"Tanak, Ott",Hyundai i20,EE,RC1,"+3m 46,5s",NA,NA,NA
+7,25,"Rossel, Yohan",Citroen C3,FR,RC2,"+12m 14,9s",NA,NA,NA
+8,39,"Cracco, Pieter Jan Michiel",Skoda Fabia,BE,RC2,"+13m 05,9s",NA,NA,NA
+9,60,"Kreim, Fabian",Volkswagen Polo,DE,RC2,"+13m 13,8s",NA,NA,NA
+10,37,"Verschueren, Vincent",Volkswagen Polo,BE,RC2,"+13m 31,1s",NA,NA,NA
+11,30,"Bedoret, Sebastien",Skoda Fabia,BE,RC2,"+14m 46,5s",0:10,NA,NA
+12,28,"McErlean, Joshua",Hyundai i20,IE,RC2,"+14m 51,6s",NA,NA,NA
+13,38,"Casier, Bernd",Ford Fiesta,BE,RC2,"+15m 13,3s",NA,NA,NA
+14,32,"de Mevius, Ghislain",Skoda Fabia,BE,RC2,"+15m 45,2s",NA,NA,NA
+15,27,"de Cecco, Cedric",Skoda Fabia,BE,RC2,"+16m 06,9s",NA,NA,NA
+16,36,"Munster, Gregoire",Hyundai i20,LU,RC2,"+17m 00,0s",NA,NA,NA
+17,35,"Princen, Kris",Citroen C3,BE,RC2,"+17m 25,2s",0:10,NA,NA
+18,49,"Ragues, Pierre",Renault-Alpine A110,FR,RGT,"+20m 53,5s",NA,NA,NA
+19,21,"Huttunen, Jari",Hyundai i20,FI,RC2,"+21m 08,7s",NA,NA,NA
+20,56,"Armstrong, Jon",Ford Fiesta,GB,RC4,"+21m 31,2s",NA,NA,NA
+21,54,"Pajari, Sami",Ford Fiesta,FI,RC4,"+22m 31,8s",NA,NA,NA
+22,59,"Virves, Robert",Ford Fiesta,EE,RC4,"+22m 52,9s",NA,NA,NA
+23,57,"Joona, Lauri",Ford Fiesta,FI,RC4,"+23m 19,0s",NA,NA,NA
+24,41,"Pyck, Filip",Skoda Fabia,BE,RC2,"+23m 28,9s",0:10,NA,NA
+25,58,"Creighton, William",Ford Fiesta,GB,RC4,"+25m 03,1s",NA,NA,NA
+26,67,"Tanghe, Claudie",Porsche 997,BE,ASN,"+25m 52,1s",NA,NA,NA
+27,62,"Roussel, Frederic",Citroen DS3,FR,RC2,"+25m 56,4s",NA,NA,NA
+28,68,"van Parijs, Timothy",Porsche 997,BE,ASN,"+26m 14,0s",NA,NA,NA
+29,104,"Pyck, Gilles",Renault Clio,BE,RC5,"+29m 20,3s",NA,NA,NA
+30,45,"Hommes, Kevin",Skoda Fabia,BE,RC2,"+31m 47,7s",0:20,NA,NA
+31,103,"Rensonnet, Tom",Renault Clio,BE,RC5,"+32m 24,5s",1:00,NA,NA
+32,73,"Vanden Abeele, Tuur",Porsche 997,BE,ASN,"+34m 16,3s",NA,NA,NA
+33,52,"Prinzie, Stefaan",Renault-Alpine A110,BE,RGT,"+35m 04,3s",0:10,NA,NA
+34,48,"Duez, Marc",Renault-Alpine A110,BE,RGT,"+36m 10,8s",0:10,NA,NA
+35,113,"Catelin, Jeroen",Renault Clio,BE,RC5,"+36m 33,0s",NA,NA,NA
+36,76,"Dekens, Johan",Porsche 991,BE,ASN,"+36m 52,4s",NA,NA,NA
+37,84,"Merlevede, Manuel",Peugeot 208,BE,RC4,"+37m 07,9s",NA,NA,NA
+38,50,"Baffoun, Philippe",Renault-Alpine A110,FR,RGT,"+37m 47,2s",NA,NA,NA
+39,106,"Priem, Nichias",Renault Clio,BE,RC5,"+38m 05,0s",NA,NA,NA
+40,46,"Dujardyn, Kurt",Skoda Fabia,BE,RC2,"+38m 06,1s",NA,NA,NA
+41,65,"Delgery, Francois",Ford Fiesta,FR,RC2,"+38m 49,8s",2:00,NA,NA
+42,82,"Dewilde, Jonas",Peugeot 208,BE,RC4,"+39m 41,1s",0:50,NA,NA
+43,66,"Vossen, Henk",Ford Fiesta,NL,RC2,"+40m 10,9s",1:00,NA,NA
+44,91,"Perrard, Gregory",Peugeot 208,FR,RC4,"+41m 33,4s",NA,NA,NA
+45,110,"Pittellioen, Michael",Renault Clio,BE,RC5,"+41m 59,6s",0:10,NA,NA
+46,94,"Soete, Maxime",Ford Fiesta,BE,RC4,"+43m 31,5s",NA,NA,NA
+47,44,"Greensmith, Fergus",Ford Fiesta RS WRC 2017,GB,RC1,"+43m 58,5s",NA,NA,NA
+48,118,"Vandenborre, Louis",Opel Adam,BE,ASN,"+46m 54,9s",NA,NA,NA
+49,53,"Vandamme, Chris",Renault-Alpine A110,BE,RGT,"+46m 56,3s",0:20,NA,NA
+50,51,"Bux, Gino",Renault-Alpine A110,BE,RGT,"+48m 20,4s",30:00,NA,NA
+51,108,"Brasseur, Pierre-Manuel",Renault Clio,BE,RC5,"+48m 34,8s",NA,NA,NA
+52,86,"Ollevier, Aaron",Peugeot 208,BE,RC4,"+49m 00,3s",2:40,NA,NA
+53,96,"Dhaene, Lander",Ford Fiesta,BE,RC4,"+49m 41,2s",NA,NA,NA
+54,88,"Verstraete, Vincent",Ford Fiesta,BE,RC4,"+53m 19,4s",0:40,NA,NA
+55,87,"Piquerez, Clement",Citroen DS3,CH,RC4,"+54m 37,1s",0:10,NA,NA
+56,74,"Soenens, Wim",BMW E87,BE,ASN,"+56m 01,3s",0:50,NA,NA
+57,120,"Vandeputte, Patrick",Ford Fiesta,BE,ASN,"+1h 00m 14,5s",1:00,NA,NA
+58,29,"Vanneste, Davy",Citroen C3,BE,RC2,"+1h 04m 36,7s",NA,NA,NA
+59,22,"Gryazin, Nikolay",Volkswagen Polo,RU,RC2,"+1h 05m 08,0s",1:50,NA,NA
+60,115,"Herreman, Harold",Fiat 500 Abarth,BE,ASN,"+1h 05m 24,7s",NA,NA,NA
+61,93,"Spittaels, Steven",Peugeot 208,BE,RC4,"+1h 07m 56,5s",NA,NA,NA
+62,92,"Noyelle, Damon",Peugeot 208,BE,RC4,"+1h 08m 03,9s",1:00,NA,NA
+63,109,"Cusimano, Alain",Renault Clio,FR,RC5,"+1h 08m 08,0s",9:10,NA,NA
+64,79,"Molle, Amaury",Ford Fiesta,BE,RC4,"+1h 13m 24,9s",1:00,NA,NA
+65,70,"Boone, Kurt",Mitsubishi Lancer Evo X,BE,ASN,"+1h 19m 51,5s",NA,NA,NA
+66,105,"Dozot, Corentin",Renault Clio,BE,RC5,"+1h 22m 48,6s",0:10,NA,NA
+67,116,"Herreman, Arnold",Fiat 500 Abarth,BE,ASN,"+1h 24m 15,1s",19:30,NA,NA
+68,7,"Loubet, Pierre-Louis",Hyundai i20 Coupe WRC,FR,RC1,"+1h 26m 02,5s",NA,NA,NA
+69,43,"Bouillon, Harry",Skoda Fabia,BE,RC2,"+1h 28m 50,0s",NA,NA,NA
+70,55,"Sesks, Martins",Ford Fiesta,LV,RC4,"+1h 33m 00,9s",NA,NA,NA
+71,64,"D'hondt, Jimmy",Ford Fiesta,BE,RC2,"+1h 34m 52,1s",NA,NA,NA
+72,102,"Verlinde, Benoit",Renault Clio,BE,RC5,"+1h 40m 48,2s",NA,NA,NA
+73,114,"Bataille, Franklin",Renault Twingo,FR,RC5,"+1h 43m 07,2s",NA,NA,NA
+NA,16,"Fourmaux, Adrien",Ford Fiesta RS WRC 2017,FR,RC1,NA,NA,SS3,off road
+NA,18,"Katsuta, Takamoto",Toyota Yaris WRC,JP,RC1,NA,NA,SS10,accident
+NA,20,"Suninen, Teemu",Ford Fiesta,FI,RC2,NA,NA,TC13,mechanical
+NA,23,"Kristensson, Tom",Ford Fiesta,SE,RC2,NA,NA,SS7,unknown
+NA,24,"Solberg, Oliver",Hyundai i20,SE,RC2,NA,NA,TC16F,mechanical
+NA,31,"Tsjoen, Pieter",Volkswagen Polo,BE,RC2,NA,NA,SS9,accident
+NA,40,"Potty, Maxime",Ford Fiesta,BE,RC2,NA,NA,SS3,off road
+NA,63,"Stampaert, Nicola",Ford Fiesta,BE,RC2,NA,NA,TC16E,mechanical
+NA,71,"Syx, Bjorn",BMW M3,BE,ASN,NA,NA,TC16,mechanical
+NA,72,"Janssens, Glenn",Porsche 991,BE,ASN,NA,NA,SS20,unknown
+NA,75,"Muylle, Wouter",Porsche 997,BE,ASN,NA,NA,TC16F,unknown
+NA,77,"Verbeke, Alexandre",Mitsubishi Lancer Evo IX,BE,ASN,NA,NA,TC14,mechanical
+NA,78,"Desmet, Robbert",Ford Fiesta,BE,RC3,NA,NA,TC16E,unknown
+NA,80,"Dolfen, Steven",Opel Adam,BE,RC4,NA,NA,SS6,unknown
+NA,83,"Berville, Frederic",Opel Adam,BE,RC4,NA,NA,SS7,mechanical
+NA,85,"Perrard, Frederic",Peugeot 208,FR,RC4,NA,NA,SS7,unknown
+NA,90,"Vanton, Laurent",Ford Fiesta,BE,RC4,NA,NA,TC16D,mechanical
+NA,98,"Wostyn, Ruben",Subaru Impreza,BE,ASN,NA,NA,TC8E,unknown
+NA,107,"Delplace, Matthias",Renault Clio,BE,RC5,NA,NA,SS15,accident
+NA,111,"Verlinde, Koen",Renault Clio,BE,RC5,NA,NA,SS17,unknown
+NA,112,"Muylle, Jo",Renault Clio,BE,RC5,NA,NA,TC19A,OTL
+NA,119,"O'Sullivan, Niall",Citroen C2,IE,ASN,NA,NA,SS18,unknown

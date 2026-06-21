@@ -1,0 +1,14 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,2,"Vatanen, Ari",Ford Escort RS1800,FI,G4,9h 39m 40s,NA,NA,NA
+2,1,"Frequelin, Guy",Talbot Sunbeam,FR,G2,+8m 31s,NA,NA,NA
+3,6,"de Vitta, Domingo",Ford Escort RS,UY,G4,+40m 46s,NA,NA,NA
+4,4,"Recalde, Jorge",Datsun 160J,AR,G2,+1h 07m 10s,NA,NA,NA
+5,8,"Torres, Carlos",Ford Escort RS,PT,G1,+1h 31m 05s,NA,NA,NA
+6,22,"Trelles, Gustavo",Fiat 147,UY,G2,+2h 26m 55s,NA,NA,NA
+7,18,"Maglione, Horacio",Peugeot 504,AR,G2,+2h 46m 24s,NA,NA,NA
+8,12,"Berges, Julio",Fiat 147,UY,G2,+2h 55m 35s,NA,NA,NA
+9,35,"Zacarias, Maria-Carmo",Volkswagen Gol,BR,G2,+3h 40m 44s,NA,NA,NA
+NA,3,"Mehta, Shekhar",Datsun Violet,KE,G4,NA,NA,SS10,head gasket
+NA,11,"Ullmann, Jorge",Fiat 147,BR,G2,NA,NA,SS15,service car misbehavior
+NA,17,"Mayorga, Francisco",Saab 900 Turbo,AR,G1,NA,NA,SS6,alternator
+NA,20,"Gomez, Eduardo",Fiat 147,BR,G2,NA,NA,SS4,accident

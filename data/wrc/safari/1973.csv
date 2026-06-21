@@ -1,0 +1,31 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Mehta, Shekhar",Datsun 240Z,KE,G4,6h 46m,NA,NA,NA
+2,9,"Kallstrom, Harry",Datsun 1800SSS,SE,G2,+0m,NA,NA,NA
+3,7,"Andersson, Ove",Peugeot 504,SE,G2,+2h 01m,NA,NA,NA
+4,19,"Fall, Tony",Datsun 1800SSS,GB,G2,+2h 28m,NA,NA,NA
+5,28,"Huth, Peter",Peugeot 504,KE,G2,+5h 21m,NA,NA,NA
+6,17,"Lionnet, Hugh",Peugeot 504,KE,G2,+6h 24m,NA,NA,NA
+7,20,"Singh, Satwant",Mitsubishi Colt Galant,ZM,G2,+7h 08m,NA,NA,NA
+8,23,"Ulyate, Robin",Fiat 125,KE,G2,+7h 48m,NA,NA,NA
+9,27,"Kirkland, Mike",Datsun 1600SSS,KE,G2,+7h 51m,NA,NA,NA
+10,44,"Noon, Jim",Datsun 1600SSS,KE,G2,+8h 19m,NA,NA,NA
+11,18,"Singh, Joginder",Mitsubishi Galant,KE,G2,+9h 30m,NA,NA,NA
+12,15,"Remtulla, Zully",Datsun 1800SSS,TZ,G2,+11h 11m,NA,NA,NA
+13,33,"Neylan, Pat",Mazda RX2,NA,G1,+12h 12m,NA,NA,NA
+14,3,"Preston Jr, Vic",Ford Escort RS1600,KE,G2,+12h 22m,NA,NA,NA
+15,34,"Barton, Brian",Datsun 180B,TZ,G2,+13h 15m,NA,NA,NA
+16,26,"Singh, Davinder",Mitsubishi Colt Galant,KE,G2,+13h 26m,NA,NA,NA
+17,53,"Walker, Ewart",Datsun 1600SSS,NA,G2,+13h 33m,NA,NA,NA
+18,57,"Rose, John",Datsun 1600SSS,KE,G2,+14h 06m,NA,NA,NA
+NA,2,"Clark, Roger",Ford Escort RS1600,GB,NA,NA,NA,NA,alternator
+NA,4,"Mikkola, Hannu",Ford Escort RS1600,FI,NA,NA,NA,NA,steering
+NA,5,"Zasada, Sobieslaw",Porsche 911,PL,G4,NA,NA,NA,gearbox
+NA,6,"Aaltonen, Rauno",Datsun 240Z,FI,NA,NA,NA,NA,accident
+NA,8,"Shankland, Bert",Peugeot 504,TZ,NA,NA,NA,NA,accident
+NA,10,"Waldegard, Bjorn",Porsche 911,SE,NA,NA,NA,NA,engine
+NA,11,"Herrmann, Edgar",Datsun 240Z,DE,NA,NA,NA,NA,head gasket
+NA,14,"Parsons, Pierre",Peugeot 504,KE,NA,NA,NA,NA,unknown
+NA,16,"Makinen, Timo",Ford Escort RS1600,FI,NA,NA,NA,NA,accident
+NA,22,"Simonian, Jack",Alfa Romeo 1750GTV,KE,NA,NA,NA,NA,electrics
+NA,25,"Fritschy, Bill",Porsche 911,GB,NA,NA,NA,NA,gearbox
+NA,29,"Shiyukah, Peter",Ford Escort RS1600,KE,NA,NA,NA,NA,accident

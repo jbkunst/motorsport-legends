@@ -1,0 +1,39 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,7,"Mouton, Michele",Audi quattro,FR,G4,7h 39m 36s,NA,NA,NA
+2,8,"Eklund, Per",Toyota Celica,SE,G4,+13m 07s,NA,NA,NA
+3,18,"Wittman, Franz",Audi quattro,AT,G4,+27m 49s,0:10,NA,NA
+4,10,"Torres, Carlos",Ford Escort RS1800,PT,G4,+51m 22s,0:01,NA,NA
+5,14,"Coppier, Alain",Citroen Visa,FR,B9,+1h 14m 35s,NA,NA,NA
+6,19,"Silva, Mario",Ford Escort RS1800,PT,G4,+1h 21m 36s,NA,NA,NA
+7,48,"Ferreira da Cunha, Antonio",Opel Ascona,PT,G2,+1h 49m 33s,NA,NA,NA
+8,27,"Dorche, Christian",Citroen Visa,FR,B9,+1h 56m 03s,0:06,NA,NA
+9,59,"Tabatoni, Olivier",Citroen Visa,FR,B9,+2h 01m 00s,0:06,NA,NA
+10,16,"Fleck, Jorge",Opel Kadett GT/E,BR,G2,+2h 01m 19s,0:06,NA,NA
+11,61,"Marie, Michel",Citroen Visa,FR,B9,+2h 15m 11s,0:10,NA,NA
+12,83,"Segurado, Antonio",Ford Escort RS2000,PT,A7,+2h 17m 01s,0:04,NA,NA
+13,84,"le Masson, Jean-Yves",Volkswagen Golf GTi,FR,A6,+2h 18m 15s,0:06,NA,NA
+14,58,"Neyret, Stephane",Citroen Visa,FR,B9,+2h 32m 47s,0:05,NA,NA
+15,25,"Kawahari, Masaaki",Datsun 280ZX,JP,G4,+2h 39m 23s,0:11,NA,NA
+16,60,"Marteil, Jean-Luc",Citroen Visa,FR,B9,+2h 49m 18s,0:26,NA,NA
+17,95,"Tavares, Jose",Datsun 120Y,PT,G2,+2h 58m 10s,0:12,NA,NA
+18,79,"Klein, Ewald",Honda Civic,DE,A5,+3h 07m 06s,0:04,NA,NA
+19,64,"Mello Breyner, Manuel",Peugeot 104,PT,N,+3h 13m 33s,0:15,NA,NA
+20,72,"Sturken, Nicolas",Ford Escort RS2000,PT,A7,+3h 17m 31s,0:11,NA,NA
+21,56,"Malherbe, Michel",Volkswagen Golf GTi,CH,A6,+3h 30m 46s,0:24,NA,NA
+22,66,"Mendes Pinto, Jose",Honda Civic,PT,A5,+4h 04m 26s,0:28,NA,NA
+23,94,"Guieu, Robert",Peugeot 104,FR,G2,+4h 17m 39s,0:43,NA,NA
+NA,1,"Rohrl, Walter",Opel Ascona 400,DE,G4,NA,NA,SS23,accident
+NA,2,"Mikkola, Hannu",Audi quattro,FI,G4,NA,NA,SS10,accident
+NA,3,"Salonen, Timo",Nissan Violet GTS,FI,G4,NA,NA,SS26,suspension
+NA,4,"Therier, Jean-Luc",Porsche 911,FR,G4,NA,NA,SS32,rear suspension
+NA,5,"Waldegard, Bjorn",Toyota Celica,SE,G4,NA,NA,SS20,differential
+NA,6,"Toivonen, Henri",Opel Ascona 400,FI,G4,NA,NA,SS35,clutch
+NA,9,"Pond, Tony",Nissan Violet,GB,G4,NA,NA,SS24,transmission
+NA,11,"Fischer, Georg",Talbot Sunbeam,AT,G2,NA,NA,SS9,engine
+NA,12,"Mendes, Santinho",Nissan 160J,PT,G2,NA,NA,SS38,punctures
+NA,15,"Borges, Jose Pedro",Ford Escort RS,PT,G4,NA,NA,SS32,lost wheel
+NA,20,"Wilson, Malcolm",Ford Escort RS,GB,G4,NA,NA,SS1,engine
+NA,21,"Santos, Joaquim",Ford Escort RS,PT,G4,NA,NA,SS21,differential
+NA,24,"Ortigao, Jorge",Toyota Starlet,PT,G2,NA,NA,SS32,gearbox
+NA,30,"Turiani, Auguste",Opel Ascona,MC,G2,NA,NA,SS31,prop-shaft
+NA,52,"Bica, Carlos",Ford Escort,PT,G4,NA,NA,NA,clutch

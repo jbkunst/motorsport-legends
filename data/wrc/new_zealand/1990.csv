@@ -1,0 +1,24 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,2,"Sainz, Carlos",Toyota Celica GT-4 (ST165),ES,A8,6h 48m 26s,NA,NA,NA
+2,1,"Carlsson, Ingvar",Mazda 323 4WD,SE,A,+1m 31s,NA,NA,NA
+3,8,"Weber, Erwin",Volkswagen Golf Rallye G60,DE,A,+7m 58s,NA,NA,NA
+4,12,"Dunkerton, Ross",Mitsubishi Galant VR-4,AU,A,+12m 02s,NA,NA,NA
+5,11,"Bourne, Peter",Subaru Legacy RS,NZ,A,+17m 22s,NA,NA,NA
+6,21,"Makinen, Tommi",Mitsubishi Galant VR-4,FI,N,+20m 47s,NA,NA,NA
+7,6,"Trelles, Gustavo",Lancia Delta HF Integrale 16v,UY,N,+22m 48s,NA,NA,NA
+8,5,"Recalde, Jorge",Lancia Delta HF Integrale 16v,AR,N,+28m 51s,NA,NA,NA
+9,22,"Pianezzola, Gilberto",Toyota Celica GT-4 (ST165),IT,N,+35m 32s,NA,NA,NA
+10,7,"Oreille, Alain",Renault 5 GT Turbo,FR,N,+37m 09s,NA,NA,NA
+11,10,"Aitken-Walker, Louise",Opel Kadett GSi,GB,A,+39m 12s,NA,NA,NA
+22,NA,"Stewart, Keith",? Unknown Make ? ? Unknown Model ?,NZ,NA,NA,NA,NA,NA
+28,NA,"Fujimoto, Yoshio",Isuzu Gemini,JP,NA,NA,NA,NA,NA
+32,NA,"Nakamura, Tsutomu",? Unknown Make ? ? Unknown Model ?,JP,NA,NA,NA,NA,NA
+36,NA,"Minamino, Tamotsu",? Unknown Make ? ? Unknown Model ?,JP,NA,NA,NA,NA,NA
+NA,3,"Millen, Rod",Mazda 323 4WD,NZ,A,NA,NA,SS24,turbo
+NA,4,"Kirkland, Mike",Subaru Legacy RS,KE,A,NA,NA,SS13,clutch
+NA,9,"Carr, Greg",Lancia Delta Integrale,AU,A,NA,NA,SS37,accident
+NA,17,"Soto, Ernesto",Lancia Delta HF Integrale 16v,AR,N,NA,NA,SS24,engine
+NA,19,"Rayneri, Michele",Lancia Delta HF Integrale 16v,IT,A,NA,NA,SS30,accident
+NA,20,"Allport, Neil",Mazda 323 4WD,NZ,A,NA,NA,SS27,accident
+NA,NA,"Smith, Gary",Toyota Celica GT-4 (ST165),NZ,N4,NA,NA,NA,unknown
+NA,NA,"Taguchi, Seiichiro",? Unknown Make ? ? Unknown Model ?,JP,NA,NA,NA,NA,accident

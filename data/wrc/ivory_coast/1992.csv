@@ -1,0 +1,16 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Shinozuka, Kenjiro",Mitsubishi Galant VR-4,JP,A8,4h 09m 41s,NA,NA,NA
+2,6,"Thiry, Bruno",Opel Kadett GSi,BE,A,+1h 23m 18s,NA,NA,NA
+3,5,"Servant, Patrice",Audi 90 quattro,FR,A,+1h 28m 21s,NA,NA,NA
+4,39,"Nishiyama, Hiroshi",Nissan Sunny GTI-R,JP,N,+2h 14m 26s,NA,NA,NA
+5,10,"Assef, Samir",Toyota Celica GT-4 (ST165),CI,A,+3h 32m 46s,NA,NA,NA
+6,20,"Oudit, Alain",Nissan Sunny GTI-R,FR,N,+3h 36m 55s,NA,NA,NA
+7,21,"Stohl, Manfred",Audi 90 quattro,AT,A,+4h 04m 38s,NA,NA,NA
+8,29,"Occelli, Denis",Toyota Corolla,CI,A,+4h 35m 03s,NA,NA,NA
+9,11,"Dupuis, Jean-Claude",Toyota Corolla,CH,A,+4h 55m 08s,NA,NA,NA
+10,19,"Colsoul, Guy",Mitsubishi Galant VR-4,BE,N,+6h 32m 44s,NA,NA,NA
+NA,2,"Tauziac, Patrick",Mitsubishi Galant VR-4,FR,A,NA,NA,TC55,clutch
+NA,3,"Stohl, Rudolf",Audi 90 quattro,AT,A,NA,NA,TC17,accident
+NA,4,"de Mevius, Gregoire",Nissan Sunny GTI-R,BE,N,NA,NA,TC84,engine
+NA,17,"Lopes, Alain",Opel Astra,BE,A,NA,NA,TC20,engine
+NA,24,"Jurvanen, Eija",Mitsubishi Galant VR-4,FI,A,NA,NA,SS1,only start was needed

@@ -1,0 +1,23 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,10,"Blomqvist, Stig",Audi quattro A2,SE,B,10h 41m 51s,NA,NA,NA
+2,7,"Mikkola, Hannu",Audi quattro A2,FI,B,+3m 07s,NA,NA,NA
+3,2,"Alen, Markku",Lancia Rally 037 evo,FI,B,+14m 10s,NA,NA,NA
+4,6,"Bettega, Attilio",Lancia Rally 037 evo,IT,B,+21m 58s,NA,NA,NA
+5,14,"Buffum, John",Audi quattro A2,US,B,+40m 19s,NA,NA,NA
+6,5,"Salonen, Timo",Nissan 240 RS,FI,B,+44m 38s,NA,NA,NA
+7,8,"Mehta, Shekhar",Nissan 240 RS,KE,B,+52m 06s,NA,NA,NA
+8,16,"Moschous, George",Nissan 240 RS,GR,B,+1h 05m 54s,NA,NA,NA
+9,17,"Warmbold, Achim",Mazda RX7,DE,B,+1h 24m 47s,NA,NA,NA
+10,40,"Iwashita, Yoshio",Nissan 240 RS,JP,B,+1h 54m 32s,NA,NA,NA
+13,35,"Halivelakis, Manolis",Toyota Corolla,GR,A,+2h 40m 36s,NA,NA,NA
+NA,1,"Rohrl, Walter",Audi quattro Sport,DE,B,NA,NA,SS44,electrics
+NA,3,"Vatanen, Ari",Peugeot 205 Turbo 16,FI,B,NA,NA,SS31,engine
+NA,4,"Mouton, Michele",Audi quattro Sport,FR,B,NA,NA,SS14,engine
+NA,9,"Biasion, Massimo",Lancia Rally 037,IT,B,NA,NA,SS40,driveshaft
+NA,11,"Toivonen, Henri",Lancia Rally 037 evo,FI,B,NA,NA,SS24,accident
+NA,12,"Nicolas, Jean-Pierre",Peugeot 205 Turbo 16,FR,B,NA,NA,SS37,brakes
+NA,15,"Capone, Carlo",Lancia Rally 037,IT,B,NA,NA,SS1,differential
+NA,18,"al-Hajri, Saeed",Porsche 911SC RS,QA,B,NA,NA,SS24,gearbox
+NA,20,"Carlsson, Ingvar",Mazda RX7,SE,B,NA,NA,SS16,differential
+NA,112,"Cygan, Wieslaw",Polski-Fiat 126p,PL,G2,NA,NA,NA,OTL
+NA,116,"Szerla, Janusz",Polski-Fiat 126p,PL,G2,NA,NA,NA,clutch

@@ -1,0 +1,87 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,21,"Loeb, Sebastien",Citroen Xsara WRC,FR,A8,"3h 47m 17,3s",NA,NA,NA
+2,1,"Burns, Richard",Peugeot 206WRC (2002),GB,A8,"+14,3s",NA,NA,NA
+3,2,"Gronholm, Marcus",Peugeot 206WRC (2002),FI,A8,"+1m 19,1s",0:30,NA,NA
+4,5,"McRae, Colin",Ford Focus RS WRC 02,GB,A8,"+3m 45,3s",0:10,NA,NA
+5,27,"Thiry, Bruno",Peugeot 206 WRC,BE,A8,"+5m 18,8s",NA,NA,NA
+6,6,"Martin, Markko",Ford Focus RS WRC 02,EE,A8,"+5m 33,0s",NA,NA,NA
+7,10,"Makinen, Tommi",Subaru Impreza WRC2002,FI,A8,"+5m 39,2s",0:10,NA,NA
+8,4,"Sainz, Carlos",Ford Focus RS WRC 02,ES,A8,"+6m 17,0s",NA,NA,NA
+9,7,"Delecour, Francois",Mitsubishi Lancer WRC Step 2,FR,A8,"+6m 35,9s",NA,NA,NA
+10,14,"Eriksson, Kenneth",Skoda Octavia WRC Evo3,SE,A8,"+13m 34,2s",NA,NA,NA
+11,102,"Robert, Cedric",Peugeot 206 S1600,FR,A6,"+22m 09,3s",NA,NA,NA
+12,65,"Sola, Daniel",Citroen Saxo S1600,ES,A6,"+23m 22,3s",NA,NA,NA
+13,114,"Gassner, Hermann",Mitsubishi Carisma GT Evo7,DE,N4,"+24m 03,6s",NA,NA,NA
+14,101,"Jean-Joseph, Simon",Renault Clio S1600,FR,A6,"+25m 13,5s",0:40,NA,NA
+15,51,"Dallavilla, Andrea",Citroen Saxo S1600,IT,A6,"+26m 09,7s",NA,NA,NA
+16,115,"Sohlberg, Kristian",Mitsubishi Lancer Evo VII,FI,N4,"+26m 19,0s",NA,NA,NA
+17,68,"Schelle, Nikolaus",Suzuki Ignis S1600,DE,A6,"+26m 55,5s",NA,NA,NA
+18,66,"Baldacci, Mirco",Citroen Saxo S1600,SM,A6,"+28m 43,7s",1:00,NA,NA
+19,63,"Rowe, Martin",Ford Puma S1600,GB,A6,"+30m 10,1s",NA,NA,NA
+20,69,"Katajamaki, Kosti",Volkswagen Polo S1600,FI,A6,"+31m 42,3s",NA,NA,NA
+21,53,"Basso, Giandomenico",Fiat Punto S1600,IT,A6,"+32m 05,7s",1:00,NA,NA
+22,105,"Cserhalmi, Tibor",Skoda Octavia WRC,SK,A8,"+35m 33,4s",3:50,NA,NA
+23,58,"Chemin, Christian",Fiat Punto S1600,IT,A6,"+36m 31,0s",0:30,NA,NA
+24,117,"Wallenwein, Sandro",Mitsubishi Lancer Evo VI,DE,N4,"+36m 31,1s",NA,NA,NA
+25,124,"Colsoul, Bob",Mitsubishi Lancer Evo VII,BE,N4,"+38m 42,9s",0:40,NA,NA
+26,121,"Vossen, Henk",Mitsubishi Lancer Evo VI,NL,N4,"+39m 08,8s",NA,NA,NA
+27,122,"Liebehenschel, Dark",Subaru Impreza,DE,N4,"+39m 32,4s",1:00,NA,NA
+28,128,"Rotter, Horst",Opel Astra,DE,N3,"+42m 59,2s",NA,NA,NA
+29,118,"Errani, Riccardo",Subaru Impreza,IT,A8,"+45m 24,8s",0:30,NA,NA
+30,131,"Birr, Niklas",Citroen Saxo,DE,A6,"+48m 59,1s",NA,NA,NA
+31,132,"Amm, Ronny",Citroen Saxo,DE,N3,"+53m 15,7s",NA,NA,NA
+32,112,"de Winkel, Jan",Volkswagen Golf GTI 16V,NL,A7,"+54m 04,5s",3:00,NA,NA
+33,127,"Hohner, Frank",Honda Civic Type-R,DE,N3,"+55m 02,7s",0:10,NA,NA
+34,141,"Kahlfuss, Michael",Mitsubishi Lancer Evo,DE,N4,"+56m 02,7s",NA,NA,NA
+35,129,"Ihle, Wolf-Dieter",Peugeot 306,DE,N3,"+56m 04,3s",NA,NA,NA
+36,75,"Niwa, Kazuhiko",Suzuki Ignis S1600,JP,A6,"+57m 05,6s",1:20,NA,NA
+37,137,"Mysliwietz, Lars",Honda Civic Type-R,DE,N3,"+59m 57,8s",NA,NA,NA
+38,143,"Senz, Christian",Volkswagen Polo,DE,N3,"+1h 03m 19,5s",NA,NA,NA
+39,142,"Prillwitz, Matthias",Volkswagen Polo,DE,N3,"+1h 11m 07,7s",NA,NA,NA
+40,135,"Vollak, Sebastian",Volkswagen Polo,DE,N3,"+1h 12m 35,3s",1:00,NA,NA
+41,139,"Shibagaki, Muneyoshi",Mitsubishi Lancer Evo VI,JP,N4,"+1h 21m 19,0s",1:40,NA,NA
+42,145,"Holzborn, Rainer",Renault Clio,DE,N3,"+1h 44m 18,6s",0:10,NA,NA
+NA,3,"Rovanpera, Harri",Peugeot 206WRC (2002),FI,A8,NA,NA,SS19,mechanical
+NA,8,"McRae, Alister",Mitsubishi Lancer WRC Step 2,GB,A8,NA,NA,SS5,engine
+NA,11,"Solberg, Petter",Subaru Impreza WRC2002,NO,A8,NA,NA,SS11,off
+NA,12,"Mortl, Achim",Subaru Impreza WRC2002,AT,A8,NA,NA,SS9,accident
+NA,15,"Gardemeister, Toni",Skoda Octavia WRC Evo3,FI,A8,NA,NA,SS15,mechanical
+NA,16,"Kahle, Matthias",Skoda Octavia WRC Evo3,DE,A8,NA,NA,SS3,engine
+NA,17,"Schwarz, Armin",Hyundai Accent WRC3,DE,A8,NA,NA,SS10,off road
+NA,18,"Loix, Freddy",Hyundai Accent WRC3,BE,A8,NA,NA,SS9,engine
+NA,20,"Puras, Jesus",Citroen Xsara WRC,ES,A8,NA,NA,SS3,electrical
+NA,22,"Bugalski, Philippe",Citroen Xsara WRC,FR,A8,NA,NA,SS10,engine
+NA,25,"Kremer, Armin",Ford Focus WRC,DE,A8,NA,NA,SS17,off road
+NA,26,"Arai, Toshihiro",Subaru Impreza WRC2002,JP,A8,NA,NA,SS5,gearbox
+NA,33,"Theunissen, Rocco",Toyota Corolla WRC,BE,A8,NA,NA,SS19,mechanical
+NA,52,"McShea, Niall",Opel Corsa S1600,GB,A6,NA,NA,SS14,accident
+NA,54,"Stenshorne, Martin",Opel Corsa S1600,NO,A6,NA,NA,SS4,mechanical
+NA,55,"Duval, Francois",Ford Puma S1600,BE,A6,NA,NA,SS21,mechanical
+NA,56,"Valimaki, Jussi",Citroen Saxo S1600,FI,A6,NA,NA,SS14,mechanical
+NA,59,"Kangas, Juha",Suzuki Ignis S1600,FI,A6,NA,NA,SS9,accident
+NA,60,"Caldani, Nicola",Fiat Punto S1600,IT,A6,NA,NA,SS13,mechanical
+NA,61,"Evans, Gwyndaf",MG ZR S1600,GB,A6,NA,NA,SS2,mechanical
+NA,62,"Tuohino, Janne",Citroen Saxo S1600,FI,A6,NA,NA,SS17,mechanical
+NA,64,"Galli, Gianluigi",Fiat Punto S1600,IT,A6,NA,NA,SS4,mechanical
+NA,67,"Carlsson, Daniel",Ford Puma S1600,SE,A6,NA,NA,SS12,mechanical
+NA,70,"Haaf, Sven",Citroen Saxo S1600,DE,A6,NA,NA,SS10,mechanical
+NA,71,"Doppelreiter, David",Peugeot 206 S1600,AT,A6,NA,NA,SS2,mechanical
+NA,73,"Llovera, Albert",Fiat Punto S1600,AD,A6,NA,NA,SS16,mechanical
+NA,76,"Foss, Alexander",Ford Puma S1600,NO,A6,NA,NA,SS14,mechanical
+NA,78,"Feghali, Roger",Ford Puma S1600,LB,A6,NA,NA,SS21,mechanical
+NA,103,"Wevers, Erik",Toyota Corolla WRC,NL,A8,NA,NA,SS13,accident
+NA,104,"Bijvelds, Peter",Mitsubishi Lancer Evo VI,NL,A8,NA,NA,SS15,mechanical
+NA,106,"Kopecky, Jan",Toyota Corolla WRC,CZ,A8,NA,NA,SS5,off road
+NA,107,"Mohe, Carsten",Renault Clio S1600,DE,A6,NA,NA,SS9,mechanical
+NA,110,"Wilks, Guy",Ford Puma S1600,GB,A6,NA,NA,SS5,mechanical
+NA,113,"Mockl, Martin",Skoda Octavia KitCar,DE,A7,NA,NA,SS11,accident
+NA,116,"Tsjoen, Pieter",Mitsubishi Lancer Evo VII,BE,N4,NA,NA,SS11,accident
+NA,119,"Werner, Anton",Mitsubishi Lancer Evo VI,DE,A8,NA,NA,SS3,mechanical
+NA,120,"Hesse, Marcus",Mitsubishi Carisma GT Evo5,DE,N4,NA,NA,SS19,mechanical
+NA,123,"Farber, Frank",Mitsubishi Carisma GT Evo6,DE,N4,NA,NA,SS14,mechanical
+NA,125,"Stoschek, Maximilian",Mitsubishi Lancer Evo VI,DE,N4,NA,NA,SS6,mechanical
+NA,126,"Corazza, Peter",Honda Civic Type-R,DE,N3,NA,NA,SS17,mechanical
+NA,130,"Knobel, Holger",Volkswagen Polo,DE,A6,NA,NA,SS3,off road
+NA,134,"Jostes, Rainer",Citroen Saxo,DE,N3,NA,NA,SS2,mechanical
+NA,136,"Servais, Bernard",Volkswagen Polo,BE,N3,NA,NA,SS2,mechanical
+NA,138,"Burgard, Joachim",Volkswagen Polo,DE,N3,NA,NA,SS5,mechanical

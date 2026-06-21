@@ -1,0 +1,36 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,17,"Ogier, Sebastien",Toyota Yaris WRC,FR,RC1,"2h 47m 47,6s",NA,NA,NA
+2,8,"Tanak, Ott",Hyundai i20 Coupe WRC,EE,RC1,"+27,8s",NA,NA,NA
+3,3,"Suninen, Teemu",Ford Fiesta RS WRC 2017,FI,RC1,"+37,9s",NA,NA,NA
+4,33,"Evans, Elfyn",Toyota Yaris WRC,GB,RC1,"+1m 13,4s",NA,NA,NA
+5,69,"Rovanpera, Kalle",Toyota Yaris WRC,FI,RC1,"+2m 20,5s",NA,NA,NA
+6,22,"Tidemand, Pontus",Skoda Fabia,SE,RC2,"+10m 29,3s",NA,NA,NA
+7,20,"Gryazin, Nikolay",Hyundai i20,RU,RC2,"+12m 27,0s",NA,NA,NA
+8,27,"Bulacia Wilkinson, Marco",Citroen C3,BO,RC2,"+13m 37,5s",NA,NA,NA
+9,44,"Greensmith, Fergus",Ford Fiesta RS WRC 2017,GB,RC1,"+13m 56,5s",NA,NA,NA
+10,21,"Veiby, Ole Christian",Hyundai i20,NO,RC2,"+15m 32,2s",1:00,NA,NA
+11,32,"Fernandez Piraino, Emilio Andres",Skoda Fabia,CL,RC2,"+17m 48,6s",NA,NA,NA
+12,29,"Trivino Bujalil, Ricardo",Skoda Fabia,MX,RC2,"+21m 26,4s",NA,NA,NA
+13,35,"Cordero de Avila, Ricardo",Citroen DS3,MX,RC2,"+25m 32,9s",NA,NA,NA
+14,25,"Kajetanowicz, Kajetan",Skoda Fabia,PL,RC2,"+37m 36,8s",NA,NA,NA
+15,37,"Coyne, John",Ford Fiesta,IE,RC2,"+40m 02,2s",NA,NA,NA
+16,11,"Neuville, Thierry",Hyundai i20 Coupe WRC,BE,RC1,"+42m 38,1s",2:10,NA,NA
+17,48,"Rejon Basanez, Gerardo",Renault Clio,MX,RC5,"+1h 13m 05,7s",6:30,NA,NA
+18,40,"Meza Reynoso, Enrique-Jose",Ford Fiesta,MX,ASN,"+1h 16m 07,4s",NA,NA,NA
+19,52,"Brachet, Serge",Mitsubishi Lancer Evo X,MX,ASN,"+1h 16m 24,6s",8:40,NA,NA
+20,26,"Guerra Latapi, Benito",Skoda Fabia,MX,RC2,"+1h 33m 40,4s",NA,NA,NA
+21,39,"Mauro Sanchez, Alejandro",Ford Fiesta,MX,ASN,"+2h 03m 46,6s",0:20,NA,NA
+NA,4,"Lappi, Esapekka",Ford Fiesta RS WRC 2017,FI,RC1,NA,NA,TC8,fire
+NA,6,"Sordo Castillo, Daniel",Hyundai i20 Coupe WRC,ES,RC1,NA,NA,SS6,mechanical
+NA,23,"Solberg, Oliver",Volkswagen Polo,SE,RC2,NA,NA,TC4,mechanical
+NA,28,"Heller, Alberto",Ford Fiesta,CL,RC2,NA,NA,SS4,mechanical
+NA,30,"Linari, Gianluca",Ford Fiesta,IT,RC2,NA,NA,TC17,mechanical
+NA,34,"McKenna, Barry",Skoda Fabia,IE,RC2,NA,NA,TC17,mechanical
+NA,38,"Djordjevic, Boris",Ford Fiesta,CA,ASN,NA,NA,SS13,mechanical
+NA,42,"Suriani, Martin",Renault Clio,AR,RC5,NA,NA,TC14,mechanical
+NA,43,"Block, Ken",Ford Escort RS Cosworth,US,ASN,NA,NA,SS3,mechanical
+NA,45,"Uriostegui, Gustavo-Alberto",Renault Clio,MX,RC5,NA,NA,SS20,mechanical
+NA,46,"Name Guzzy Jr, Francisco",Renault Clio,MX,RC5,NA,NA,TC13,mechanical
+NA,47,"Candano, Diego",Renault Clio,MX,RC5,NA,NA,TC6,mechanical
+NA,49,"Granados Cervera, Miguel-Antonio",Mitsubishi Lancer Evo X,MX,ASN,NA,NA,SS13,mechanical
+NA,50,"Rejon, Gerardo",Subaru Impreza,MX,ASN,NA,NA,TC0,NA

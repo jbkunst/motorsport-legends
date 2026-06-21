@@ -1,0 +1,29 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Ogier, Sebastien",Citroen C3 WRC,FR,RC1,"3h 50m 12,1s",NA,NA,NA
+2,4,"Lappi, Esapekka",Citroen C3 WRC,FI,RC1,"+34,7s",NA,NA,NA
+3,89,"Mikkelsen, Andreas",Hyundai i20 Coupe WRC,NO,RC1,"+1m 04,5s",NA,NA,NA
+4,3,"Suninen, Teemu",Ford Fiesta RS WRC 2017,FI,RC1,"+1m 35,1s",NA,NA,NA
+5,6,"Sordo Castillo, Daniel",Hyundai i20 Coupe WRC,ES,RC1,"+2m 25,9s",NA,NA,NA
+6,10,"Latvala, Jari-Matti",Toyota Yaris WRC,FI,RC1,"+2m 59,1s",NA,NA,NA
+7,5,"Meeke, Kris",Toyota Yaris WRC,GB,RC1,"+3m 53,3s",NA,NA,NA
+8,11,"Neuville, Thierry",Hyundai i20 Coupe WRC,BE,RC1,"+5m 34,8s",NA,NA,NA
+9,7,"Tidemand, Pontus",Ford Fiesta RS WRC 2017,SE,RC1,"+7m 22,9s",NA,NA,NA
+10,22,"Greensmith, Fergus",Ford Fiesta,GB,RC2,"+15m 18,7s",NA,NA,NA
+11,23,"Kopecky, Jan",Skoda Fabia,CZ,RC2,"+15m 48,1s",NA,NA,NA
+12,41,"Kajetanowicz, Kajetan",Volkswagen Polo,PL,RC2,"+15m 48,3s",NA,NA,NA
+13,44,"Bulacia Wilkinson, Marco",Skoda Fabia,BO,RC2,"+17m 38,2s",NA,NA,NA
+14,42,"Andolfi, Fabio",Skoda Fabia,IT,RC2,"+25m 02,1s",NA,NA,NA
+15,43,"Solberg, Henning",Skoda Fabia,NO,RC2,"+30m 19,3s",NA,NA,NA
+16,8,"Tanak, Ott",Toyota Yaris WRC,EE,RC1,"+39m 10,2s",NA,NA,NA
+17,48,"Cukurova, Burak",Skoda Fabia,TU,RC2,"+39m 25,4s",NA,NA,NA
+18,21,"Rovanpera, Kalle",Skoda Fabia,FI,RC2,"+43m 09,1s",NA,NA,NA
+19,45,"Nobre, Paulo",Skoda Fabia,BR,RC2,"+44m 05,4s",NA,NA,NA
+20,53,"Manyera, Bora",Skoda Fabia,TU,RC2,"+52m 51,4s",NA,NA,NA
+21,72,"Arengi Bentivoglio, Fabrizio",Skoda Fabia,IT,RC2,"+58m 37,3s",NA,NA,NA
+22,47,"Salvi, Diogo",Skoda Fabia,PT,RC2,"+59m 08,4s",0:10,NA,NA
+23,46,"Pedretti, Massimo",Ford Fiesta,IT,RC2,"+1h 38m 10,7s",NA,NA,NA
+24,74,"Covi, Carlo",Peugeot 208,IT,RC4,"+1h 38m 30,8s",1:00,NA,NA
+NA,49,"Bostanci, Murat",Ford Fiesta,TU,RC2,NA,NA,TC7D,mechanical
+NA,50,"Fahri, Deniz",Skoda Fabia,TU,RC2,NA,NA,TC7C,mechanical
+NA,51,"Gill, Gaurav Singh",Ford Fiesta,IN,RC2,NA,NA,SS16,accident
+NA,52,"Banaz, Bugra",Ford Fiesta,TU,RC2,NA,NA,TC7,mechanical

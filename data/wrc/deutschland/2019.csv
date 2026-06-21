@@ -1,0 +1,53 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,8,"Tanak, Ott",Toyota Yaris WRC,EE,RC1,"3h 15m 29,8s",NA,NA,NA
+2,5,"Meeke, Kris",Toyota Yaris WRC,GB,RC1,"+20,8s",NA,NA,NA
+3,10,"Latvala, Jari-Matti",Toyota Yaris WRC,FI,RC1,"+36,0s",NA,NA,NA
+4,11,"Neuville, Thierry",Hyundai i20 Coupe WRC,BE,RC1,"+58,5s",NA,NA,NA
+5,6,"Sordo Castillo, Daniel",Hyundai i20 Coupe WRC,ES,RC1,"+1m 16,6s",0:30,NA,NA
+6,89,"Mikkelsen, Andreas",Hyundai i20 Coupe WRC,NO,RC1,"+1m 46,2s",NA,NA,NA
+7,1,"Ogier, Sebastien",Citroen C3 WRC,FR,RC1,"+1m 56,3s",NA,NA,NA
+8,4,"Lappi, Esapekka",Citroen C3 WRC,FI,RC1,"+2m 02,2s",0:20,NA,NA
+9,44,"Greensmith, Fergus",Ford Fiesta RS WRC 2017,GB,RC1,"+6m 22,2s",0:20,NA,NA
+10,17,"Katsuta, Takamoto",Toyota Yaris WRC,JP,RC1,"+8m 19,2s",NA,NA,NA
+11,23,"Kopecky, Jan",Skoda Fabia,CZ,RC2,"+11m 54,3s",NA,NA,NA
+12,55,"Kreim, Fabian",Skoda Fabia,DE,RC2,"+12m 46,9s",NA,NA,NA
+13,54,"Griebel, Marijan",Skoda Fabia,DE,RC2,"+13m 05,4s",NA,NA,NA
+14,43,"Kajetanowicz, Kajetan",Volkswagen Polo,PL,RC2,"+13m 08,4s",NA,NA,NA
+15,24,"Camilli, Eric",Ford Fiesta,FR,RC2,"+13m 13,4s",0:50,NA,NA
+16,21,"Rovanpera, Kalle",Skoda Fabia,FI,RC2,"+14m 48,3s",NA,NA,NA
+17,22,"Ostberg, Mads",Citroen C3,NO,RC2,"+15m 27,3s",NA,NA,NA
+18,75,"Astier, Raphael",Hyundai i20,FR,RC2,"+16m 26,7s",NA,NA,NA
+19,48,"Tempestini, Simone",Hyundai i20,IT,RC2,"+17m 34,1s",NA,NA,NA
+20,41,"Gryazin, Nikolay",Skoda Fabia,RU,RC2,"+17m 41,6s",NA,NA,NA
+21,56,"Dinkel, Dominik",Hyundai i20,DE,RC2,"+18m 42,2s",NA,NA,NA
+22,46,"Yates, Rhys",Skoda Fabia,GB,RC2,"+18m 44,4s",NA,NA,NA
+23,47,"Fourmaux, Adrien",Ford Fiesta,FR,RC2,"+20m 45,8s",NA,NA,NA
+24,74,"Tsjoen, Pieter",Skoda Fabia,BE,RC2,"+22m 21,7s",NA,NA,NA
+25,81,"Cracco, Pieter Jan Michiel",Skoda Fabia,BE,RC2,"+23m 05,9s",NA,NA,NA
+26,52,"Pedretti, Massimo",Ford Fiesta,IT,RC2,"+32m 14,8s",NA,NA,NA
+27,80,"Gassner, Hermann",Mitsubishi Lancer Evo X,DE,ASN,"+34m 07,7s",NA,NA,NA
+28,83,"Gassner jr, Hermann",Toyota GT86,DE,RC3,"+34m 54,2s",NA,NA,NA
+29,3,"Suninen, Teemu",Ford Fiesta RS WRC 2017,FI,RC1,"+41m 54,2s",NA,NA,NA
+30,87,"Schwedt, Roman",Peugeot 208,DE,RC4,"+42m 05,7s",NA,NA,NA
+31,77,"Boland, Eamonn",Ford Fiesta,IE,RC2,"+44m 38,0s",NA,NA,NA
+32,84,"Gengler, Patrick",Renault Clio,LU,RC3,"+54m 37,8s",NA,NA,NA
+33,79,"Roncoroni, Marco",Skoda Fabia,IT,RC4,"+55m 22,3s",0:50,NA,NA
+34,49,"de Mevius, Guillaume",Citroen C3,BE,RC2,"+57m 14,9s",0:50,NA,NA
+35,91,"Oldani, Marco",Peugeot 208,IT,RC4,"+1h 03m 31,7s",NA,NA,NA
+36,94,"Wecker, Josef",Renault Clio,DE,RC3,"+1h 03m 32,4s",NA,NA,NA
+37,78,"Vossen, Henk",Ford Fiesta,NL,RC2,"+1h 07m 04,0s",NA,NA,NA
+38,90,"Kunisawa, Mitsuhiro",Ford Fiesta,JP,RC4,"+1h 07m 31,5s",NA,NA,NA
+39,95,"Peruzzo, Fabio",Peugeot 208,IT,RC4,"+1h 12m 00,6s",NA,NA,NA
+40,86,"Stich, Stefan",Mitsubishi Lancer Evo X,DE,ASN,"+1h 58m 09,6s",NA,NA,NA
+NA,45,"Andolfi, Fabio",Skoda Fabia,IT,RC2,NA,NA,SS18,mechanical
+NA,50,"Ciamin, Nicolas",Volkswagen Polo,FR,RC2,NA,NA,SS11,mechanical
+NA,51,"Bedoret, Sebastien",Skoda Fabia,BE,RC2,NA,NA,SS15,mechanical
+NA,53,"Lefebvre, Stephane",Volkswagen Polo,FR,RC2,NA,NA,SS10,mechanical
+NA,57,"Schwinn, Sebastian",Volkswagen Polo,DE,RC2,NA,NA,TC7D,mechanical
+NA,71,"Brazzoli, Enrico",Fiat 124 Abarth,IT,RGT,NA,NA,SS11,mechanical
+NA,73,"Sarrazin, Stephane",Hyundai i20,FR,RC2,NA,NA,TC15,mechanical
+NA,76,"Poulsen, Kristian",Skoda Fabia,DK,RC4,NA,NA,TC1B,mechanical
+NA,88,"Sorensen, Lasse",Opel Adam,DK,RC4,NA,NA,TC7D,mechanical
+NA,92,"Osterhaus, Klaus",Toyota GT86,DE,RC3,NA,NA,TC3,mechanical
+NA,93,"Kreuter, Norman",Citroen DS3,DE,RC3,NA,NA,TC15D,OTL
+NA,96,"Hohlheimer, Jurgen",Renault Twingo,DE,RC4,NA,NA,TC7D,mechanical

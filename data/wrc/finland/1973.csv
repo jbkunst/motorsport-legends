@@ -1,0 +1,110 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,4,"Makinen, Timo",Ford Escort RS1600,FI,G2,4h 53m 50s,NA,NA,NA
+2,29,"Alen, Markku",Volvo 142,FI,G2,+2m 09s,NA,NA,NA
+3,3,"Kinnunen, Leo",Porsche 911,FI,G4,+3m 22s,NA,NA,NA
+4,1,"Lampinen, Simo",Saab 96 V4,FI,G2,+5m 38s,NA,NA,NA
+5,30,"Ojanen, Antti",Opel Ascona,FI,G2,+9m 40s,NA,NA,NA
+6,38,"Gronholm, Ulf",Opel Ascona,FI,G2,+10m 13s,NA,NA,NA
+7,26,"Rainio, Tapio",Saab 96 V4,FI,G2,+11m 53s,NA,NA,NA
+8,122,"Warmbold, Achim",Fiat 124 Abarth Spider,DE,G2,+15m 53s,NA,NA,NA
+9,39,"Lehtonen, Pertti",Saab 96 V4,FI,G2,+17m 36s,NA,NA,NA
+10,12,"Palin, Hannu",Opel Ascona,FI,G2,+17m 46s,NA,NA,NA
+11,20,"Nuuttila, Esa",Opel Ascona,FI,G2,+20m 35s,NA,NA,NA
+12,24,"Pitkanen, Erkki",Volvo 142,FI,G2,+24m 33s,NA,NA,NA
+13,50,"Karha, Pertti",Alfa Romeo 2000 GTV,FI,G1,+25m 02s,NA,NA,NA
+14,42,"Markula, Jaakko",Alfa Romeo 2000 GTV,FI,G2,+28m 25s,NA,NA,NA
+15,21,"Saaristo, Markku",Skoda 120,FI,G2,+29m 45s,NA,NA,NA
+16,7,"Culcheth, Brian",Morris Marina,GB,G2,+29m 59s,NA,NA,NA
+17,52,"Sohlberg, Timo",BMW 2002Tii,FI,G1,+30m 57s,NA,NA,NA
+18,63,"Heinonen, Eeva",Volvo 142,FI,G1,+37m 04s,NA,NA,NA
+19,44,"Pahkinen, Erkki",Opel Ascona,FI,G2,+45m 04s,NA,NA,NA
+20,73,"Jouhki, Timo",Opel Ascona,FI,G1,+50m 51s,NA,NA,NA
+21,58,"Leponiemi, Juha",BMW 2002Tii,FI,G1,+51m 14s,NA,NA,NA
+22,51,"Makela, Kauko",Peugeot 304,FI,G1,+52m 15s,NA,NA,NA
+23,53,"Sevelius, Hans",Alfa Romeo 1600 GTJ,FI,G1,+54m 24s,NA,NA,NA
+24,61,"Oksala, Marketta",Opel Ascona,FI,G1,+57m 02s,NA,NA,NA
+25,105,"Persson, Bertil",Volvo 142,SE,G4,+57m 03s,NA,NA,NA
+26,115,"Kolhonen, Hannu",Alfa Romeo Giulia,FI,G1,+1h 00m 21s,NA,NA,NA
+27,86,"Brundza, Stasis",Moskvitsh 412,SU,G2,+1h 01m 17s,NA,NA,NA
+28,54,"Nelskyla, Curt",Opel Ascona,FI,G1,+1h 02m 25s,NA,NA,NA
+29,112,"Martelius, Raimo",Opel Ascona,FI,G1,+1h 04m 40s,NA,NA,NA
+30,64,"Kervinen, Ukko",Datsun 160B,FI,G1,+1h 06m 22s,NA,NA,NA
+31,14,"Vilkas, Onni",BMW 1602,FI,G4,+1h 08m 18s,NA,NA,NA
+32,119,"Seitsola, Martti",Saab 96 V4,FI,G2,+1h 09m 22s,NA,NA,NA
+33,68,"Eger, Jurgen",Ford Capri,DE,G2,+1h 10m 01s,NA,NA,NA
+34,108,"Parviainen, Pentti",Datsun 1600SSS,FI,G1,+1h 12m 40s,NA,NA,NA
+35,59,"Makela, Marjatta",Renault 12 Gordini,FI,G1,+1h 13m 22s,NA,NA,NA
+36,117,"Kurunmaki, Hannu",Saab 96 V4,FI,G1,+1h 15m 37s,NA,NA,NA
+37,88,"Bubnov, Vladimir",Moskvitsh 412,SU,G1,+1h 16m 03s,NA,NA,NA
+38,72,"Potapchik, Leontiy",Moskvitsh 412,SU,G2,+1h 17m 53s,NA,NA,NA
+39,96,"Hommel, Peter",Wartburg 353,DD,G2,+1h 22m 20s,NA,NA,NA
+40,62,"Torvinen, Kirsti",Datsun 100A,FI,G1,+1h 23m 12s,NA,NA,NA
+41,71,"Kononen, Erkki",Ford Escort,FI,G1,+1h 27m 43s,NA,NA,NA
+42,79,"Niebergall, Horst",Wartburg 353,DD,G1,+1h 28m 18s,NA,NA,NA
+43,121,"Moller, Kjeld",Simca 1100,FI,G1,+1h 29m 51s,NA,NA,NA
+44,107,"Hietanen, Pekka",Simca 1000,FI,G1,+1h 31m 36s,NA,NA,NA
+45,60,"Lawson, Sandy",DAF 55,GB,G1,+1h 33m 14s,NA,NA,NA
+46,77,"Culmbacher, Egon",Wartburg 353,DE,G1,+1h 33m 37s,NA,NA,NA
+47,23,"Bertrand, Jean-Claude",Simca 1000,CI,G2,+1h 38m 50s,NA,NA,NA
+48,98,"Galle, Franz",Trabant P601,DD,G2,+1h 39m 09s,NA,NA,NA
+49,110,"Haapala, Sauli",Fiat 850,FI,G1,+1h 43m 33s,NA,NA,NA
+50,65,"Clark, Christopher",Morris Mini,GB,G2,+1h 46m 01s,NA,NA,NA
+51,100,"Ullman, Hans",Trabant P601,DD,G2,+1h 46m 21s,NA,NA,NA
+52,91,"Makela, Asko",Moskvitsh 1500M,FI,G1,+2h 05m 44s,NA,NA,NA
+53,120,"Kemmo, Kari",Honda N-600,FI,G1,+2h 09m 16s,NA,NA,NA
+54,116,"Suonikko, Tenho",Simca 1100,FI,G1,+2h 10m 38s,NA,NA,NA
+55,92,'Jens Jensen',Autobianchi A112,DE,G2,+2h 48m 35s,NA,NA,NA
+NA,2,"Blomqvist, Stig",Saab 96 V4,SE,G2,NA,NA,SS35,crankshaft
+NA,5,"Mikkola, Hannu",Volvo 142,FI,G2,NA,NA,post-event,co-driver illness
+NA,6,"Mehta, Shekhar",Datsun 240Z,KE,G4,NA,NA,SS32,oil pump
+NA,8,"Eklund, Per",Saab 96 V4,SE,G2,NA,NA,SS42,driveshaft
+NA,9,"Toivonen, Pauli",Simca 1000,FI,G2,NA,NA,SS4,unknown
+NA,10,"Chasseuil, Guy",Simca 1000,FR,G1,NA,NA,SS29,unknown
+NA,11,"Jacquemin, Jean-Marie",Simca 1000,BE,G1,NA,NA,SS7,unknown
+NA,13,"Virtanen, Pekka",Volvo 142,FI,G2,NA,NA,SS38,unknown
+NA,15,"Alamaula, Matti",Opel Ascona,FI,G2,NA,NA,SS20,unknown
+NA,16,"Hourihan, Bob",Datsun 1800SSS,US,G2,NA,NA,SS8,rear suspension
+NA,17,"Majander, Heikki",Opel Ascona,FI,G2,NA,NA,SS4,unknown
+NA,18,"Vilpponen, Pekka",Moskvitsh 1500M,FI,G2,NA,NA,SS13,unknown
+NA,19,"Huhtasalo, Arto",Volvo 142,FI,G2,NA,NA,SS13,unknown
+NA,22,"Airikkala, Pentti",Opel Kadett GT/E,FI,G2,NA,NA,SS11,unknown
+NA,25,"Faulkner, Paul",Ford Escort RS,GB,G2,NA,NA,SS31,unknown
+NA,27,"Harvey, Scott",Dodge Colt,US,G2,NA,NA,SS20,unknown
+NA,28,"Vilkas, Jari",Saab 96 V4,FI,G2,NA,NA,SS9,head gasket
+NA,33,"Asterhag, Leif",BMW 2002,SE,G2,NA,NA,SS32,unknown
+NA,35,"Carlsson, Lars",Opel Ascona,SE,G2,NA,NA,SS5,unknown
+NA,36,"Soutulahti, Eero",Volvo 142,FI,G2,NA,NA,SS27,unknown
+NA,37,"Johansson, Matti",Volvo 142,FI,G2,NA,NA,SS24,unknown
+NA,40,"Valtaharju, Hannu",Opel Ascona,FI,G2,NA,NA,SS33,unknown
+NA,41,"Vainio, Seppo",Skoda 120,FI,G2,NA,NA,SS33,unknown
+NA,43,"Lansikorpi, Juhani",Saab 96 V4,FI,G1,NA,NA,SS28,unknown
+NA,45,"Steiner, Mauri",Opel Ascona,FI,G1,NA,NA,SS24,unknown
+NA,46,"Nuuttila, Esko",Opel Ascona,FI,G1,NA,NA,SS3,unknown
+NA,47,"Hamalainen, Kyosti",Alfa Romeo 2000 GTV,FI,G1,NA,NA,SS14,unknown
+NA,48,"Allanson, Arne",BMW 2002Tii,SE,G1,NA,NA,SS28,unknown
+NA,49,"Rosenqvist, Erik",Opel Ascona,FI,G1,NA,NA,SS24,unknown
+NA,55,"Valkonen, Hannu",Opel Ascona,FI,G1,NA,NA,SS7,unknown
+NA,57,"Enomaa, Heikki",BMW 2002Tii,FI,G1,NA,NA,SS4,unknown
+NA,67,"Donner Jr., Frederik",Opel Ascona,FI,G2,NA,NA,SS19,unknown
+NA,69,"Herrmann, Wilfried",Volkswagen 1302S,DE,G2,NA,NA,SS11,unknown
+NA,70,"Kern, Roland",Ford Escort,DE,G1,NA,NA,SS20,unknown
+NA,75,"Bos, Hillebrand",BMW 2002,GB,G2,NA,NA,SS12,unknown
+NA,76,"Girdauskas, Kastitis",Moskvitsh 412,SU,G2,NA,NA,SS1,unknown
+NA,78,"Ahonen, Pentti",BMW 2002Tii,FI,G1,NA,NA,SS25,unknown
+NA,81,"Safonov, Aleksandr",Moskvitsh 412,SU,G2,NA,NA,SS32,unknown
+NA,82,"Minkkinen, Risto",Opel Ascona,FI,G1,NA,NA,SS34,unknown
+NA,83,"Childs, David John",Ford Escort TwinCam,GB,G2,NA,NA,SS29,unknown
+NA,84,"Reinholdsson, Christer",Volvo 122,SE,G2,NA,NA,SS14,unknown
+NA,85,"Weigert, Karlfried",Wartburg 353,DD,G2,NA,NA,SS6,unknown
+NA,89,"Murray, Carl",Opel Ascona,SE,G1,NA,NA,SS8,unknown
+NA,90,"Asmus, Eberhard",Trabant P601,DD,G1,NA,NA,SS11,unknown
+NA,93,"Wiklund, Johan",BMW 2002,FI,G2,NA,NA,SS32,unknown
+NA,94,"Honkamaki, Eino",Saab 96 V4,FI,G2,NA,NA,SS5,unknown
+NA,95,"Nieminen, Vesa",Morris Mini,FI,G2,NA,NA,SS41,unknown
+NA,97,"Thunberg, Ake",Peugeot 404,SE,G2,NA,NA,SS3,unknown
+NA,102,"Piehler, Helmut",Trabant P601,DD,G2,NA,NA,SS11,unknown
+NA,103,"Ellermann, Claus-W.",Opel Ascona,DE,G1,NA,NA,SS5,unknown
+NA,106,"Haavisto, Markku",Sunbeam 900 Sport,FI,G1,NA,NA,SS3,unknown
+NA,109,"Hintikka, Pentti-Juhani",Volkswagen 1302S,FI,G2,NA,NA,SS4,unknown
+NA,114,"Kortemaki, Hannu",Opel Ascona,FI,G2,NA,NA,SS3,unknown
+NA,118,"Jarvinen, Pertti",Volvo 142,FI,G2,NA,NA,SS15,unknown

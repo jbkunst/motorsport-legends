@@ -1,0 +1,30 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,7,"Makinen, Tommi",Mitsubishi Lancer Evo III,FI,A8,4h 08m 50s,NA,NA,NA
+2,2,"Eriksson, Kenneth",Subaru Impreza 555,SE,A8,+1m 17s,NA,NA,NA
+3,4,"Sainz, Carlos",Ford Escort RS Cosworth,ES,A8,+1m 21s,NA,NA,NA
+4,1,"McRae, Colin",Subaru Impreza 555,GB,A8,+3m 11s,NA,NA,NA
+5,8,"Burns, Richard",Mitsubishi Lancer Evo III,GB,A8,+3m 25s,NA,NA,NA
+6,5,"Thiry, Bruno",Ford Escort RS Cosworth,BE,A8,+8m 48s,NA,NA,NA
+7,3,"Liatti, Piero",Subaru Impreza 555,IT,A8,+11m 31s,NA,NA,NA
+8,13,"Bourne, Peter",Subaru Impreza 555,NZ,A8,+12m 07s,NA,NA,NA
+9,10,"Fujimoto, Yoshio",Toyota Celica Turbo 4WD (ST185),JP,A8,+27m 52s,NA,NA,NA
+10,9,"Ordynski, Ed",Mitsubishi Lancer Evo III,AU,N4,+28m 47s,NA,NA,NA
+14,19,"Sibera, Pavel",Skoda Felicia Kit-Car,CZ,A6,+43m 28s,NA,NA,NA
+16,18,"Weber, Erwin",Seat Ibiza GTi 16V,DE,A7,+44m 48s,NA,NA,NA
+17,16,"Trelles, Gustavo",Mitsubishi Lancer Evo III,UY,N4,+44m 58s,NA,NA,NA
+18,21,"Triner, Emil",Skoda Felicia Kit-Car,CZ,A6,+45m 42s,NA,NA,NA
+27,65,"Mackenzie, Ross",Daihatsu Charade GTI,AU,N2,+1h 03m 18s,NA,NA,NA
+30,46,"Bell, Wayne",Hyundai Lantra,AU,A7,+1h 08m 50s,NA,NA,NA
+31,54,"Herridge, Robert",Kia Sephia,AU,A7,+1h 11m 02s,NA,NA,NA
+NA,11,"Recalde, Jorge",Mitsubishi Lancer Evo III,AR,N4,NA,NA,SS4,engine
+NA,12,"Bates, Neal",Toyota Celica GT-Four (ST205),AU,A8,NA,NA,SS20,accident
+NA,14,"Nittel, Uwe",Mitsubishi Lancer Evo III,DE,N4,NA,NA,post-event,illegal pistons
+NA,15,"Lieu, Michael",Subaru Impreza WRX,HK,N4,NA,NA,SS15,engine
+NA,20,"Puras, Jesus",Seat Ibiza GTi 16V,ES,A7,NA,NA,SS12,differential
+NA,22,"Tajima, Nobuhiro",Suzuki Baleno,JP,A6,NA,NA,SS19,electrics
+NA,23,"Blomqvist, Stig",Skoda Felicia Kit-Car,SE,A6,NA,NA,SS8,driveshaft
+NA,25,"McRae, Alister",Honda Civic,GB,A6,NA,NA,SS16,engine
+NA,26,"Rius, Antonio",Seat Ibiza GTi 16V,ES,A7,NA,NA,SS20,engine mounting
+NA,47,"Marshall, Craig",Peugeot 306,NZ,A7,NA,NA,SS3,engine
+NA,48,"Nicoli, Robert",Daihatsu Charade GTI,AU,A6,NA,NA,post-event,unknown
+NA,49,"Carr, Greg",Hyundai Accent,AU,A6,NA,NA,SS16,driveshaft

@@ -1,0 +1,74 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Gronholm, Marcus",Peugeot 206WRC (2001),FI,A8,"3h 17m 01,3s",NA,NA,NA
+2,5,"Burns, Richard",Subaru Impreza WRC2001,GB,A8,"+40,4s",NA,NA,NA
+3,2,"Auriol, Didier",Peugeot 206WRC (2001),FR,A8,"+1m 20,1s",NA,NA,NA
+4,16,"Rovanpera, Harri",Peugeot 206WRC (2001),FI,A8,"+1m 30,9s",NA,NA,NA
+5,4,"McRae, Colin",Ford Focus RS WRC 01,GB,A8,"+1m 40,0s",NA,NA,NA
+6,7,"Makinen, Tommi",Mitsubishi Lancer WRC,FI,A8,"+3m 02,7s",NA,NA,NA
+7,6,"Solberg, Petter",Subaru Impreza WRC2001,NO,A8,"+3m 41,2s",NA,NA,NA
+8,3,"Sainz, Carlos",Ford Focus RS WRC 01,ES,A8,"+4m 59,2s",1:30,NA,NA
+9,19,"Panizzi, Gilles",Peugeot 206WRC (2001),FR,A8,"+5m 09,0s",NA,NA,NA
+10,10,"McRae, Alister",Hyundai Accent WRC2,GB,A8,"+7m 31,7s",NA,NA,NA
+11,8,"Loix, Freddy",Mitsubishi Lancer WRC,BE,A8,"+7m 53,0s",2:10,NA,NA
+12,9,"Eriksson, Kenneth",Hyundai Accent WRC2,SE,A8,"+8m 15,7s",NA,NA,NA
+13,24,"al-Wahaibi, Hamed",Subaru Impreza WRC2001,OM,A8,"+8m 53,4s",NA,NA,NA
+14,22,"Lundgaard, Henrik",Toyota Corolla WRC,DK,A8,"+9m 58,4s",NA,NA,NA
+15,30,"Mortl, Achim",Subaru Impreza WRC2001,AT,A8,"+11m 07,2s",NA,NA,NA
+16,21,"Hagstrom, Pasi",Toyota Corolla WRC,FI,A8,"+11m 12,4s",NA,NA,NA
+17,28,"Ordynski, Ed",Mitsubishi Lancer Evo VI,AU,N4,"+17m 25,9s",NA,NA,NA
+18,32,"Pozzo, Gabriel",Mitsubishi Lancer Evo VI,AR,N4,"+17m 47,2s",NA,NA,NA
+19,45,"Duval, Francois",Mitsubishi Carisma GT,BE,N4,"+18m 17,7s",NA,NA,NA
+20,27,"Kangas, Juha",Mitsubishi Lancer Evo VI,FI,N4,"+18m 22,2s",0:30,NA,NA
+21,26,"Crocker, Cody",Subaru Impreza,AU,N4,"+20m 21,3s",NA,NA,NA
+22,31,"Stohl, Manfred",Mitsubishi Lancer Evo VI,AT,N4,"+21m 21,3s",0:20,NA,NA
+23,34,"Blomqvist, Stig",Mitsubishi Lancer Evo VI,SE,N4,"+23m 38,3s",0:40,NA,NA
+24,38,"Herridge, Dean",Subaru Impreza WRX,AU,N4,"+24m 04,5s",NA,NA,NA
+25,42,"Manfrinato, Giovanni",Mitsubishi Lancer Evo VI,IT,N4,"+24m 23,6s",NA,NA,NA
+26,29,"Ipatti, Marko",Subaru Impreza,FI,N4,"+25m 53,5s",NA,NA,NA
+27,33,"Ligato, Marcos",Mitsubishi Lancer Evo VI,AR,N4,"+26m 22,0s",NA,NA,NA
+28,46,"Jones, Reece",Mitsubishi Lancer Evo VI,NZ,N4,"+28m 30,7s",NA,NA,NA
+29,39,"Warren, Stuart",Mitsubishi Lancer Evo VI,NZ,A8,"+30m 06,9s",NA,NA,NA
+30,44,"Thompson, Mark",Mitsubishi Lancer Evo V,AU,N4,"+30m 43,3s",NA,NA,NA
+31,58,"Colsoul, Bob",Mitsubishi Lancer Evo VI,BE,N4,"+31m 41,8s",NA,NA,NA
+32,54,"Hills, David",Mitsubishi Lancer Evo V,AU,N4,"+33m 30,5s",NA,NA,NA
+33,65,"Marden, Jim",Subaru Impreza,AU,N4,"+36m 14,3s",1:00,NA,NA
+34,47,"Baldini, Luca",Mitsubishi Lancer Evo VI,IT,N4,"+36m 47,2s",NA,NA,NA
+35,53,"Dunlop, Dennis",Mitsubishi Lancer Evo VI,AU,N4,"+37m 52,8s",1:00,NA,NA
+36,37,"Barratt, Natalie",Mitsubishi Lancer Evo VI,GB,N4,"+42m 09,6s",1:30,NA,NA
+37,62,"Anderson, Michael",Mitsubishi Lancer Evo IV,AU,N4,"+45m 32,7s",0:10,NA,NA
+38,67,"Hannigan, Andrew",Daihatsu Charade GTI,AU,A6,"+46m 54,5s",NA,NA,NA
+39,60,"Takakuwa, Haruo",Subaru Impreza WRX,JP,N4,"+50m 31,5s",1:10,NA,NA
+40,61,"Dines, Jacquiline",Mitsubishi Lancer Evo III,AU,A8,"+50m 46,0s",NA,NA,NA
+41,64,"Hedgeland, Keith",Subaru Impreza 555,AU,A8,"+53m 33,7s",NA,NA,NA
+42,72,"Dirou, Shane",Mitsubishi Lancer Evo III,AU,N4,"+53m 59,9s",1:10,NA,NA
+43,63,"Kirke, Simon",Subaru Impreza,AU,A8,"+54m 36,2s",1:00,NA,NA
+44,68,"Comber, Brett",Daihatsu Charade GTI,AU,A6,"+1h 00m 07,0s",0:30,NA,NA
+45,71,"Powell, Rick",Mitsubishi Lancer Evo III,AU,N4,"+1h 06m 27,6s",2:20,NA,NA
+46,74,"Hendry, John",Proton Satria,AU,N1,"+1h 13m 33,6s",0:50,NA,NA
+47,69,"Funaki, Ryo",Subaru Vivio,JP,N1,"+1h 16m 17,7s",NA,NA,NA
+48,70,"Whyatt, Robert",Mitsubishi Lancer Evo III,AU,A8,"+1h 21m 33,5s",1:00,NA,NA
+49,78,"Robertsen, Raymund",Daihatsu Charade GTI,AU,A6,"+1h 34m 06,9s",NA,NA,NA
+50,79,"Partridge, Duane",Daihatsu Charade GTI,AU,N2,"+1h 50m 17,8s",NA,NA,NA
+51,96,"Dartnell, Allen",Hyundai Coupe,AU,A7,"+1h 51m 23,6s",0:20,NA,NA
+NA,17,"Delecour, Francois",Ford Focus RS WRC 01,FR,A8,NA,NA,SS13,accident
+NA,18,"Arai, Toshihiro",Subaru Impreza WRC2001,JP,A8,NA,NA,SS11,engine
+NA,20,"Bourne, Peter",Subaru Impreza,NZ,A8,NA,NA,SS10,engine
+NA,23,"Bates, Neal",Toyota Corolla WRC,AU,A8,NA,NA,SS11,rolled
+NA,25,"Bakhashab, Abdullah",Toyota Corolla WRC,SA,A8,NA,NA,SS6,wheels
+NA,36,"Heath, Nigel",Subaru Impreza,GB,A8,NA,NA,SS21,mechanical
+NA,40,"Evans, Simon",Subaru Impreza,AU,N4,NA,NA,SS16,gearbox
+NA,41,"Lowndes, Spencer",Mitsubishi Lancer Evo VI,AU,N4,NA,NA,SS2,suspension
+NA,43,"Pedder, Scott",Mitsubishi Lancer Evo III,AU,A8,NA,NA,SS6,accident
+NA,48,"Lintott, Martin",Subaru Impreza WRX,AU,N4,NA,NA,SS12,accident
+NA,49,"Nutahara, Fumio",Mitsubishi Lancer Evo VII,JP,N4,NA,NA,SS5,off road
+NA,50,"Brand, Sam",Subaru Impreza WRX,AU,N4,NA,NA,SS5,electrical
+NA,51,"Challis, Tolley",Mitsubishi Lancer Evo V,AU,A8,NA,NA,SS19,mechanical
+NA,52,"Patthey, Jean-Philippe",Mitsubishi Lancer Evo VI,CH,N4,NA,NA,SS15,gearbox
+NA,56,"Forsberg, Steve",Mitsubishi Lancer Evo VI,AU,N4,NA,NA,SS5,off road
+NA,57,"Handbury, Stephen",Subaru Impreza,AU,A8,NA,NA,SS5,electrical
+NA,59,"Masumura, Atsushi",Mitsubishi Lancer Evo VI,JP,N4,NA,NA,SS5,rolled
+NA,66,"Vaughan, Jeremy",Subaru Impreza WRX,GB,N4,NA,NA,SS15,gearbox
+NA,73,"Anderson, Christopher",Nissan Sunny,AU,N3,NA,NA,SS7,rolled
+NA,75,"Takeuchi, Kunio",Subaru Vivio,JP,N1,NA,NA,SS20,suspension
+NA,76,"Clarke, Scott",Hyundai Excel,AU,N2,NA,NA,SS6,accident
+NA,77,"Kendall, David",Subaru Impreza,AU,N4,NA,NA,SS1,driveshaft

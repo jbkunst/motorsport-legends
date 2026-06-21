@@ -1,0 +1,59 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Ogier, Sebastien",Volkswagen Polo R WRC,FR,RC1,"3h 14m 30,0s",NA,NA,NA
+2,12,"Tanak, Ott",Ford Fiesta RS WRC,EE,RC1,"+10,2s",NA,NA,NA
+3,3,"Neuville, Thierry",Hyundai New Generation i20 WRC,BE,RC1,"+1m 35,4s",NA,NA,NA
+4,20,"Paddon, Hayden",Hyundai New Generation i20 WRC,NZ,RC1,"+1m 54,9s",NA,NA,NA
+5,7,"Meeke, Kris",Citroen DS3 WRC,GB,RC1,"+2m 35,2s",NA,NA,NA
+6,4,"Sordo Castillo, Daniel",Hyundai New Generation i20 WRC,ES,RC1,"+4m 02,6s",NA,NA,NA
+7,2,"Latvala, Jari-Matti",Volkswagen Polo R WRC,FI,RC1,"+4m 28,3s",NA,NA,NA
+8,5,"Ostberg, Mads",Ford Fiesta RS WRC,NO,RC1,"+4m 38,3s",0:10,NA,NA
+9,14,"Lefebvre, Stephane",Citroen DS3 WRC,FR,RC1,"+7m 12,2s",0:10,NA,NA
+10,6,"Camilli, Eric",Ford Fiesta RS WRC,FR,RC1,"+8m 19,3s",NA,NA,NA
+11,33,"Lappi, Esapekka",Skoda Fabia,FI,RC2,"+9m 30,1s",NA,NA,NA
+12,9,"Mikkelsen, Andreas",Volkswagen Polo R WRC,NO,RC1,"+9m 44,0s",NA,NA,NA
+13,35,"Tidemand, Pontus",Skoda Fabia,SE,RC2,"+9m 59,2s",NA,NA,NA
+14,32,"Suninen, Teemu",Skoda Fabia,FI,RC2,"+10m 00,3s",0:10,NA,NA
+15,37,"Bertelli, Lorenzo",Ford Fiesta RS WRC,IT,RC1,"+10m 50,6s",NA,NA,NA
+16,36,"Kopecky, Jan",Skoda Fabia,CZ,RC2,"+11m 48,9s",NA,NA,NA
+17,16,"Gilbert, Quentin",Citroen DS3 WRC,FR,RC1,"+11m 56,5s",NA,NA,NA
+18,38,"Aasen, Marius",Ford Fiesta,NO,RC2,"+13m 55,4s",NA,NA,NA
+19,46,"Veiby, Ole Christian",Skoda Fabia,NO,RC2,"+17m 52,9s",NA,NA,NA
+20,82,"Parn, Sander",Ford Fiesta,EE,RC2,"+18m 02,5s",NA,NA,NA
+21,34,"Fuchs Sierlecki, Nicolas",Skoda Fabia,PE,RC2,"+20m 23,3s",0:30,NA,NA
+22,43,"Turan, Frigyes",Ford Fiesta,HU,RC2,"+26m 26,3s",NA,NA,NA
+23,52,"Bogie, David",Skoda Fabia,GB,RC2,"+27m 02,2s",NA,NA,NA
+24,83,"Anderson, Jamie",Ford Fiesta,GB,RC2,"+27m 55,4s",3:20,NA,NA
+25,48,"al-Suwaidi, Khalid",Ford Fiesta,QA,RC2,"+28m 01,2s",NA,NA,NA
+26,84,"Casier, Bernd",Ford Fiesta,BE,RC2,"+30m 08,5s",NA,NA,NA
+27,41,"Suarez Miranda, Jose Antonio",Peugeot 208,ES,RC2,"+31m 31,3s",NA,NA,NA
+28,64,"Koci, Martin",Citroen DS3,SK,RC3,"+33m 17,2s",NA,NA,NA
+29,89,"Kakad, Sacha",Mitsubishi Lancer Evo X,GB,RC2,"+35m 14,5s",NA,NA,NA
+30,61,"Tempestini, Simone",Citroen DS3,IT,RC3,"+35m 22,2s",NA,NA,NA
+31,70,"Rossel, Yohan",Citroen DS3,FR,RC3,"+35m 43,8s",NA,NA,NA
+32,53,"Yates, Rhys",Ford Fiesta,GB,RC2,"+37m 03,5s",NA,NA,NA
+33,86,"Ceen, Robert",Ford Fiesta,GB,RC2,"+44m 44,0s",4:00,NA,NA
+34,54,"Greensmith, Fergus",Ford Fiesta,GB,RC2,"+46m 13,7s",0:10,NA,NA
+35,96,"Lopez, Pepe",Peugeot 208,ES,RC4,"+46m 18,7s",NA,NA,NA
+36,67,"Burri, Michael",Renault Clio,CH,RC3,"+47m 46,3s",NA,NA,NA
+37,85,"Ceen, Richard",Ford Fiesta,GB,RC2,"+50m 14,6s",0:10,NA,NA
+38,18,"Gorban, Valeriy",Mini John Cooper Works,UA,RC1,"+52m 26,3s",NA,NA,NA
+39,92,"Jardine, Tony",Mitsubishi Lancer Evo IX,GB,RC2,"+57m 13,2s",NA,NA,NA
+40,49,"van den Heuvel, Jim",Mitsubishi Lancer Evo X,NL,RC2,"+1h 02m 41,6s",NA,NA,NA
+41,39,"Loubet, Pierre-Louis",Citroen DS3,FR,RC2,"+1h 03m 08,5s",NA,NA,NA
+42,90,"Pyck, Filip",Mitsubishi Lancer Evo X,BE,RC2,"+1h 12m 09,4s",0:10,NA,NA
+43,62,"Fabre, Michel",Citroen DS3,FR,RC3,"+1h 13m 20,2s",0:10,NA,NA
+44,66,"Dubert, Vincent",Citroen DS3,FR,RC3,"+1h 14m 00,2s",0:10,NA,NA
+45,98,"Williams, Tom",Ford Fiesta,GB,RC4,"+1h 24m 12,2s",1:30,NA,NA
+46,50,"Ahlin, Fredrik",Ford Fiesta,SE,RC2,"+1h 24m 50,0s",NA,NA,NA
+47,97,"Butler, Guy",Renault Twingo,GB,RC5,"+1h 32m 01,5s",NA,NA,NA
+48,87,"Ingram, Christopher",Vauxhall Adam,GB,RC4,"+1h 34m 01,1s",1:30,NA,NA
+49,93,"Wilkinson, Spencer",Subaru Impreza WRX,GB,RC2,"+1h 38m 46,6s",NA,NA,NA
+NA,8,"Breen, Craig",Citroen DS3 WRC,IE,RC1,NA,NA,TC8G,rolled
+NA,30,"al-Rajhi, Yazeed",Ford Fiesta RS WRC,SA,RC1,NA,NA,TC20,unknown
+NA,42,"Abbring, Kevin",Hyundai i20,NL,RC2,NA,NA,SS22,unknown
+NA,44,"Koltun, Jaroslaw",Ford Fiesta,PL,RC2,NA,NA,SS22,unknown
+NA,45,"Szczepaniak, Maciej",Ford Fiesta,PL,RC2,NA,NA,SS20,unknown
+NA,47,"Foulon, Alain",Mitsubishi Lancer Evo X,FR,RC2,NA,NA,TC20,unknown
+NA,51,"Pryce, Osian",Ford Fiesta,GB,RC2,NA,NA,TC20,unknown
+NA,69,"Wagner, William",Citroen DS3,BE,RC3,NA,NA,TC17,unknown
+NA,88,"Duggan, Robert",Vauxhall Adam,IE,RC4,NA,NA,TC8G,unknown

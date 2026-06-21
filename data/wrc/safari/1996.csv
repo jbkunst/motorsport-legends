@@ -1,0 +1,16 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,7,"Makinen, Tommi",Mitsubishi Lancer Evo III,FI,A8,12h 41m 12s,NA,NA,NA
+2,2,"Eriksson, Kenneth",Subaru Impreza 555,SE,A8,+14m 16s,NA,NA,NA
+3,10,"Duncan, Ian",Toyota Celica GT-Four (ST205),KE,A8,+44m 00s,NA,NA,NA
+4,1,"McRae, Colin",Subaru Impreza 555,GB,A8,+1h 07m 04s,NA,NA,NA
+5,3,"Liatti, Piero",Subaru Impreza 555,IT,A8,+1h 25m 30s,NA,NA,NA
+6,8,"Shinozuka, Kenjiro",Mitsubishi Lancer Evo III,JP,A8,+2h 03m 15s,NA,NA,NA
+7,5,"Blomqvist, Stig",Ford Escort RS Cosworth,SE,A8,+2h 28m 15s,NA,NA,NA
+8,16,"Miyoshi, Hideaki",Subaru Impreza,JP,N4,+3h 09m 08s,NA,NA,NA
+9,14,"Njiru, Patrick",Subaru Impreza,KE,N4,+3h 17m 32s,NA,NA,NA
+10,15,"Toroitich, Jonathan",Toyota Celica Turbo 4WD (ST185),KE,A8,+4h 27m 29s,NA,NA,NA
+17,22,"Aslam, Sammy",Volkswagen Golf GTI 16V,KE,A7,+9h 33m 36s,NA,NA,NA
+NA,4,"Sainz, Carlos",Ford Escort RS Cosworth,ES,A8,NA,NA,TC25,rear suspension
+NA,11,"Galanti, Marco",Toyota Celica Turbo 4WD (ST185),PY,A8,NA,NA,TC14,accident
+NA,12,"Stohl, Rudolf",Audi Coupe S2,AT,A8,NA,NA,TC18,suspension
+NA,17,"Stohl, Manfred",Audi Coupe S2,AT,A,NA,NA,NA,OTL

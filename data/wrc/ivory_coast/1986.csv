@@ -1,0 +1,13 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"Waldegard, Bjorn",Toyota Celica Twincam Turbo,SE,B,1h 29m,NA,NA,NA
+2,1,"Torph, Lars-Erik",Toyota Celica Twincam Turbo,SE,B,+8m,NA,NA,NA
+3,5,"Weber, Erwin",Toyota Celica Twincam Turbo,DE,B,+58m,NA,NA,NA
+4,18,"Ulyate, Robin",Toyota Celica Twincam Turbo,KE,B,+1h 36m,NA,NA,NA
+5,9,"Assef, Samir",Opel Manta 400,CI,B,+1h 56m,NA,NA,NA
+6,2,"Wiedner, Wilfried",Audi quattro A2,AT,B,+2h 01m,NA,NA,NA
+7,12,"Stohl, Rudolf",Audi 80 quattro,AT,A,+3h 51m,NA,NA,NA
+8,4,"Ambrosino, Alain",Nissan 240 RS,FR,B,+4h 02m,NA,NA,NA
+9,29,"Copetti, Patrick",Toyota Corolla,FR,A,+9h 10m,NA,NA,NA
+10,16,"Yace, Martial",Mitsubishi Lancer 2000 Turbo,CI,B,+12h 59m,NA,NA,NA
+NA,7,"Salim, Eugene",Opel Manta GT/E,CI,A,NA,NA,TC65,suspension
+NA,11,"Tauziac, Patrick",Mitsubishi Starion Turbo,FR,A,NA,NA,TC26,suspension

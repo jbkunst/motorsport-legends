@@ -1,0 +1,19 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"Waldegard, Bjorn",Toyota Celica GT-4 (ST165),SE,A8,8h 39m 11s,NA,NA,NA
+2,5,"Kankkunen, Juha",Lancia Delta Integrale,FI,A,+38m 12s,NA,NA,NA
+3,6,"Ericsson, Mikael",Toyota Celica GT-4 (ST165),SE,A,+2h 47m 47s,NA,NA,NA
+4,67,"Sainz, Carlos",Toyota Celica GT-4 (ST165),ES,A,+4h 19m 31s,NA,NA,NA
+5,12,"Shinozuka, Kenjiro",Mitsubishi Galant VR-4,JP,A,+6h 32m 20s,NA,NA,NA
+6,17,"Heather-Hayes, Jim",Subaru Legacy RS,KE,A,+6h 33m 29s,NA,NA,NA
+7,14,"Stohl, Rudolf",Audi 90 quattro,AT,A,+9h 10m 47s,NA,NA,NA
+8,18,"Njiru, Patrick",Subaru Legacy RS,KE,N,+9h 25m 40s,NA,NA,NA
+9,62,"Pattni, Ashok",Daihatsu Charade 1.3i,KE,A,+20h 15m 40s,NA,NA,NA
+10,31,"Anthony, Steve",Daihatsu Charade 1.3i,KE,A,+22h 10m 19s,NA,NA,NA
+NA,1,"Alen, Markku",Subaru Legacy RS,FI,A,NA,NA,TC8,overheating
+NA,2,"Biasion, Massimo",Lancia Delta Integrale,IT,A,NA,NA,TC61,engine
+NA,4,"Fiorio, Alessandro",Lancia Delta Integrale,IT,A,NA,NA,TC39,engine
+NA,7,"Kirkland, Mike",Subaru Legacy RS,KE,A,NA,NA,TC31,engine
+NA,9,"Bourne, Peter",Subaru Legacy RS,NZ,A,NA,NA,TC9,engine
+NA,10,"Duncan, Ian",Subaru Legacy RS,KE,A,NA,NA,TC14,engine
+NA,11,"Preston Jr, Vic",Nissan 200SX,KE,A,NA,NA,TC20,suspension
+NA,22,"Shah, Jayant",Nissan 200SX,KE,A,NA,NA,TC6,suspension

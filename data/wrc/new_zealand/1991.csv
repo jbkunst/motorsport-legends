@@ -1,0 +1,27 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Sainz, Carlos",Toyota Celica GT-4 (ST165),ES,A8,6h 57m 18s,NA,NA,NA
+2,2,"Kankkunen, Juha",Lancia Delta HF Integrale 16v,FI,A,+1m 15s,NA,NA,NA
+3,4,"Auriol, Didier",Lancia Delta HF Integrale 16v,FR,A,+2m 18s,NA,NA,NA
+4,3,"Alen, Markku",Subaru Legacy RS,FI,A,+5m 44s,NA,NA,NA
+5,14,"Allport, Neil",Mazda 323 GT-X,NZ,A,+31m 01s,NA,NA,NA
+6,7,"Millen, Rod",Mazda 323 GT-X,NZ,A,+33m 33s,NA,NA,NA
+7,15,"Stokes, Brian",Ford Sierra Cosworth 4x4,NZ,A,+34m 22s,NA,NA,NA
+8,5,"Carlsson, Ingvar",Mazda 323 GT-X,SE,A,+45m 20s,NA,NA,NA
+9,24,"Meekings, Ross",Toyota Celica GT-4 (ST165),NZ,N,+49m 25s,NA,NA,NA
+10,25,"Watkin, Brian",Subaru Legacy RS,NZ,N,+49m 59s,NA,NA,NA
+11,21,"Weeber, Stuart",Mazda 323 GT-X,NZ,A8,+50m 37s,NA,NA,NA
+12,32,"Eyre, Stuart",Mitsubishi Galant VR-4,NZ,N4,+1h 01m 36s,NA,NA,NA
+13,20,"Barns, Chris",Nissan Sunny GTI-R,NZ,A8,+1h 05m 43s,NA,NA,NA
+14,36,"Strong, Dave",Daihatsu Charade,NZ,N3,+1h 08m 36s,NA,NA,NA
+18,35,"Smith, Gary",Mazda 323 GT-X,NZ,N4,NA,NA,NA,NA
+19,NA,"Graham, Greg",? Unknown Make ? ? Unknown Model ?,NZ,NA,NA,NA,NA,NA
+20,NA,"Minamino, Tamotsu",? Unknown Make ? ? Unknown Model ?,JP,NA,NA,NA,NA,NA
+27,63,"Dunlop, Dexter",Honda Sport CRX,NZ,B,+1h 58m 03s,NA,NA,NA
+NA,6,"Makinen, Tommi",Mitsubishi Galant VR-4,FI,N,NA,NA,SS14,head gasket
+NA,8,"Bourne, Peter",Subaru Legacy RS,NZ,A,NA,NA,SS6,engine
+NA,9,"Dunkerton, Ross",Mitsubishi Galant VR-4,AU,A,NA,NA,SS32,accident
+NA,10,"Fassina, Alessandro",Toyota Celica GT-4 (ST165),IT,N,NA,NA,SS4,out of fuel
+NA,11,"Ordynski, Ed",Mitsubishi Galant VR-4,AU,N,NA,NA,SS19,head gasket
+NA,38,"Fujimoto, Yoshio",Nissan Sunny GTI-R,JP,N4,NA,NA,NA,accident
+NA,NA,"Taylor, Gregg",Mazda 323,NZ,A,NA,NA,final day,rolled
+NA,NA,"Yoshino, Masahiro",? Unknown Make ? ? Unknown Model ?,JP,NA,NA,NA,NA,unknown

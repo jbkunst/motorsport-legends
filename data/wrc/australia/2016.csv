@@ -1,0 +1,33 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,9,"Mikkelsen, Andreas",Volkswagen Polo R WRC,NO,RC1,"2h 46m 05,0s",NA,NA,NA
+2,1,"Ogier, Sebastien",Volkswagen Polo R WRC,FR,RC1,"+14,9s",NA,NA,NA
+3,3,"Neuville, Thierry",Hyundai New Generation i20 WRC,BE,RC1,"+1m 12,6s",NA,NA,NA
+4,4,"Paddon, Hayden",Hyundai New Generation i20 WRC,NZ,RC1,"+1m 26,7s",NA,NA,NA
+5,20,"Sordo Castillo, Daniel",Hyundai New Generation i20 WRC,ES,RC1,"+1m 28,3s",0:20,NA,NA
+6,5,"Ostberg, Mads",Ford Fiesta RS WRC,NO,RC1,"+1m 41,5s",NA,NA,NA
+7,12,"Tanak, Ott",Ford Fiesta RS WRC,EE,RC1,"+3m 04,3s",0:40,NA,NA
+8,31,"Lappi, Esapekka",Skoda Fabia,FI,RC2,"+7m 32,3s",NA,NA,NA
+9,2,"Latvala, Jari-Matti",Volkswagen Polo R WRC,FI,RC1,"+7m 56,9s",1:30,NA,NA
+10,37,"Bertelli, Lorenzo",Ford Fiesta RS WRC,IT,RC1,"+8m 00,1s",NA,NA,NA
+11,42,"Fuchs Sierlecki, Nicolas",Skoda Fabia,PE,RC2,"+12m 08,1s",0:10,NA,NA
+12,33,"Ptaszek, Hubert",Peugeot 208,PL,RC2,"+14m 15,2s",NA,NA,NA
+13,67,"Taylor, Molly",Subaru Impreza WRX,AU,RC2,"+22m 00,8s",NA,NA,NA
+14,65,"Bates, Harry",Toyota Corolla,AU,ASN,"+24m 26,8s",NA,NA,NA
+15,68,"Markovic, Bradley",Subaru Impreza WRX,AU,ASN,"+28m 18,3s",NA,NA,NA
+16,72,"Sullens, Tony",Citroen DS3,AU,ASN,"+29m 25,6s",1:00,NA,NA
+17,76,"Clarke, Tom",Mitsubishi Lancer Evo IX,AU,ASN,"+36m 59,2s",4:10,NA,NA
+18,70,"King, Dylan",Subaru Impreza WRX,AU,ASN,"+37m 53,4s",4:10,NA,NA
+19,62,"Fabre, Michel",Citroen DS3,FR,RC3,"+41m 13,1s",NA,NA,NA
+20,77,"Stilling, John",Mitsubishi Lancer Evo IX,AU,ASN,"+49m 17,2s",7:30,NA,NA
+21,78,"Dunn, Peter",Subaru Impreza WRX,AU,RC2,"+50m 43,8s",NA,NA,NA
+22,35,"al-Suwaidi, Khalid",Skoda Fabia,QA,RC2,"+1h 01m 21,4s",NA,NA,NA
+23,34,"Serderidis, Jourdan",Citroen DS3,GR,RC2,"+1h 06m 35,9s",0:10,NA,NA
+24,64,"Quinn, Nathan",Mitsubishi Lancer Evo IX,AU,ASN,"+1h 16m 48,0s",1:20,NA,NA
+25,63,"Reeves, Brendan",Subaru Impreza WRX,AU,ASN,"+1h 26m 53,5s",NA,NA,NA
+NA,6,"Camilli, Eric",Ford Fiesta RS WRC,FR,RC1,NA,NA,SS21,rolled
+NA,69,"Coppin, Adrian",Toyota Corolla,AU,ASN,NA,NA,TC21C,unknown
+NA,71,"Hatton, Justin",Mitsubishi Lancer Evo IX,AU,ASN,NA,NA,SS12,mechanical
+NA,74,"Penny, Andrew",Subaru Impreza WRX,AU,ASN,NA,NA,TC18C,unknown
+NA,75,"Raymond, Stephen",Ford Fiesta,AU,RC4,NA,NA,SS20,unknown
+NA,79,"Beard, Mark",Subaru Impreza,AU,ASN,NA,NA,SS21,fuel pump
+NA,81,"Pinter, Rhys",Ford Fiesta,AU,RC4,NA,NA,TC18C,unknown

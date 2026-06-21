@@ -1,0 +1,19 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,9,"Oreille, Alain",Renault 5 GT Turbo,FR,N4,8h 32m 54s,NA,NA,NA
+2,2,"Tauziac, Patrick",Mitsubishi Starion Turbo,FR,A,+3h 03m 56s,NA,NA,NA
+3,8,"Choteau, Adolphe",Toyota Corolla,CI,A,+5h 08m 13s,NA,NA,NA
+4,24,"Segolen, Andre",Toyota Corolla,FR,A,+5h 47m 54s,NA,NA,NA
+5,56,"Servant, Patrice",Toyota Corolla,FR,N,+6h 51m 10s,NA,NA,NA
+6,44,"Graziani, Jose",Toyota Corolla,FR,A,+6h 54m 53s,NA,NA,NA
+7,57,"Antoine, Benoit",Peugeot 205 GTI,FR,N,+7h 28m 58s,NA,NA,NA
+NA,1,"Ambrosino, Alain",Nissan 200SX,FR,A,NA,NA,TC21,accident
+NA,3,"Gaban, Pascal",Lancia Delta Integrale,BE,N,NA,NA,TC71,cambelt
+NA,4,"Stohl, Rudolf",Audi 90 quattro,AT,A,NA,NA,TC14,fire
+NA,5,"de Martini, Paola",Audi 90 quattro,IT,A,NA,NA,TC32,engine
+NA,6,"Turiani, Auguste",Audi 90 quattro,MC,A,NA,NA,end of Leg 2,too far behind
+NA,10,"Trelles, Gustavo",Lancia Delta HF Integrale 16v,UY,N,NA,NA,TC20,cambelt
+NA,11,"de Mevius, Gregoire",Mazda 323,BE,N,NA,NA,TC55,accident
+NA,18,"Assef, Samir",Toyota Celica GT-4 (ST165),CI,A,NA,NA,TC51,electronics
+NA,21,"Rautenbach, Billy",Toyota Supra Turbo,ZW,A,NA,NA,TC49,suspension
+NA,23,"Van de Wauwer, Jean-Pierre",Toyota Corolla,BE,A,NA,NA,TC81,engine
+NA,25,"Skoghag, Fredrik",Lancia Delta Integrale,SE,N,NA,NA,TC29,fuel pump

@@ -1,0 +1,29 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,69,"Rovanpera, Kalle",Toyota GR Yaris Rally1,FI,Rally1,"3h 36m 04,0s",NA,NA,NA
+2,18,"Katsuta, Takamoto",Toyota GR Yaris Rally1,JP,Rally1,"+1m 37,8s",NA,NA,NA
+3,16,"Fourmaux, Adrien",Ford Puma Rally1,FR,Rally1,"+2m 25,1s",NA,NA,NA
+4,33,"Evans, Elfyn",Toyota GR Yaris Rally1,GB,Rally1,"+4m 20,2s",NA,NA,NA
+5,11,"Neuville, Thierry",Hyundai i20 N Rally1,BE,Rally1,"+10m 17,5s",NA,NA,NA
+6,22,"Greensmith, Fergus",Skoda Fabia,GB,Rally2,"+18m 05,4s",NA,NA,NA
+7,20,"Solberg, Oliver",Skoda Fabia,SE,Rally2,"+19m 28,5s",NA,NA,NA
+8,8,"Tanak, Ott",Hyundai i20 N Rally1,EE,Rally1,"+21m 02,0s",NA,NA,NA
+9,19,"Serderidis, Jourdan",Ford Puma Rally1,GR,Rally1,"+26m 13,3s",NA,NA,NA
+10,23,"Kajetanowicz, Kajetan",Skoda Fabia,PL,Rally2,"+26m 34,4s",NA,NA,NA
+11,21,"Ciamin, Nicolas",Hyundai i20,FR,Rally2,"+31m 45,3s",0:10,NA,NA
+12,4,"Lappi, Esapekka",Hyundai i20 N Rally1,FI,Rally1,"+42m 21,7s",0:50,NA,NA
+13,25,"Munster, Charles",Hyundai i20,LU,Rally2,"+45m 45,0s",NA,NA,NA
+14,27,"Chwist, Daniel",Skoda Fabia,PL,Rally2,"+50m 07,0s",NA,NA,NA
+15,13,"Munster, Gregoire",Ford Puma Rally1,LU,Rally1,"+57m 55,9s",NA,NA,NA
+16,24,"Tundo, Carl",Ford Fiesta,KE,Rally2,"+1h 05m 05,6s",0:10,NA,NA
+17,32,"Vasilakis, Georgios",Ford Fiesta,GR,Rally2,"+1h 09m 58,4s",0:10,NA,NA
+18,28,"Patel, Karan",Skoda Fabia,KE,Rally2,"+1h 33m 29,1s",NA,NA,NA
+19,30,"Virani, Aakif",Skoda Fabia,KE,Rally2,"+1h 52m 57,9s",0:10,NA,NA
+20,37,"Rathod, Minesh",Mitsubishi Lancer Evo X,KE,ASN,"+2h 08m 28,6s",0:10,NA,NA
+21,40,"Garosci, Ricardo",Mitsubishi Lancer Evo X,IT,ASN,"+2h 32m 15,9s",NA,NA,NA
+22,34,"Anwar, Hamza",Ford Fiesta,KE,Rally3,"+2h 40m 07,8s",NA,NA,NA
+NA,26,"Dominguez Jr., Diego",Citroen C3,PY,Rally2,NA,NA,SS10,mechanical
+NA,29,"Singh Vohra, Samman",Skoda Fabia,KE,Rally2,NA,NA,TC1A,damaged roll cage
+NA,31,"Diaz-Aboitiz, Miguel",Skoda Fabia,ES,Rally2,NA,NA,TC15,mechanical
+NA,35,"Nasser, Yasin",Ford Fiesta,UG,Rally2,NA,NA,SS7,accident
+NA,36,"Sachania, Nikhil",Mitsubishi Lancer Evo X,GB,ASN,NA,NA,SS4,mechanical
+NA,38,"Muiruri, Andrew",Mitsubishi Lancer Evo X,KE,ASN,NA,NA,TC3,mechanical

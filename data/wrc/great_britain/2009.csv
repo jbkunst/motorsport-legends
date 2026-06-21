@@ -1,0 +1,63 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Loeb, Sebastien",Citroen C4 WRC,FR,A8,"3h 16m 25,4s",NA,NA,NA
+2,3,"Hirvonen, Mikko",Ford Focus RS WRC 09,FI,A8,"+1m 06,1s",NA,NA,NA
+3,2,"Sordo Castillo, Daniel",Citroen C4 WRC,ES,A8,"+1m 07,1s",NA,NA,NA
+4,11,"Solberg, Petter",Citroen C4 WRC,NO,A8,"+1m 28,1s",NA,NA,NA
+5,6,"Solberg, Henning",Ford Focus RS WRC 08,NO,A8,"+6m 28,0s",NA,NA,NA
+6,5,"Wilson, Matthew",Ford Focus RS WRC 08,GB,A8,"+7m 46,0s",NA,NA,NA
+7,4,"Latvala, Jari-Matti",Ford Focus RS WRC 09,FI,A8,"+12m 11,9s",0:10,NA,NA
+8,8,"Rautenbach, Conrad",Citroen C4 WRC,ZW,A8,"+14m 27,8s",NA,NA,NA
+9,47,"Araujo, Armindo",Mitsubishi Lancer Evo IX,PT,N4,"+24m 18,8s",NA,NA,NA
+10,31,"Prokop, Martin",Mitsubishi Lancer Evo IX,CZ,N4,"+24m 31,6s",NA,NA,NA
+11,17,"Perez, Steve",Ford Focus RS WRC 08,GB,A8,"+24m 39,3s",NA,NA,NA
+12,16,"Burkart, Aaron Nicolai",Citroen C4 WRC,DE,A8,"+24m 56,5s",NA,NA,NA
+13,33,"Arai, Toshihiro",Subaru Impreza,JP,N4,"+26m 10,6s",NA,NA,NA
+14,64,"Semerad, Martin",Mitsubishi Lancer Evo IX,CZ,N4,"+27m 14,9s",NA,NA,NA
+15,32,"Sousa, Bernardo",Fiat Grande Punto Abarth S2000,PT,N4,"+27m 39,6s",NA,NA,NA
+16,66,"Kuipers, Dennis",Ford Focus RS WRC 06,NL,A8,"+28m 17,6s",NA,NA,NA
+17,65,"Tapper, Mark",Mitsubishi Lancer Evo IX,NZ,N4,"+28m 45,0s",NA,NA,NA
+18,67,"Therman, Mattias",Mitsubishi Lancer Evo X,FI,N4,"+36m 37,4s",NA,NA,NA
+19,15,"al-Qassimi, Khalid",Ford Focus RS WRC 08,AE,A8,"+37m 30,2s",NA,NA,NA
+20,45,"Flodin, Patrik",Subaru Impreza,SE,N4,"+37m 50,1s",NA,NA,NA
+21,46,"Sandell, Patrik",Skoda Fabia Super 2000,SE,N4,"+38m 38,0s",NA,NA,NA
+22,74,"Lyseng, Trond",Subaru Impreza,NO,N4,"+39m 17,0s",1:00,NA,NA
+23,61,"Thomas, Nicos",Mitsubishi Lancer Evo IX,CY,N4,"+39m 23,1s",NA,NA,NA
+24,68,"Kuipers, Rene",Ford Focus RS WRC 06,NL,A8,"+39m 55,9s",1:10,NA,NA
+25,48,"Gassner jr, Hermann",Mitsubishi Lancer Evo IX,DE,N4,"+41m 01,6s",0:10,NA,NA
+26,38,"Mayer, Gabor",Subaru Impreza,HU,N4,"+44m 17,2s",NA,NA,NA
+27,73,"Kaur, Egon",Subaru Impreza,EE,N4,"+44m 59,2s",NA,NA,NA
+28,62,"Williams, Jon",Mitsubishi Lancer Evo IX,ZA,N4,"+46m 18,8s",NA,NA,NA
+29,83,"Kaucic, Tomaz",Subaru Impreza,SI,N4,"+46m 29,4s",NA,NA,NA
+30,72,"Utting, Wug",Subaru Impreza,GB,N4,"+46m 50,5s",NA,NA,NA
+31,78,"Nobre, Paulo",Mitsubishi Lancer Evo X,BR,N4,"+50m 38,2s",NA,NA,NA
+32,69,"Stephenson, Peter",Ford Focus WRC,GB,A8,"+51m 17,0s",0:40,NA,NA
+33,71,"Boland, Eamonn",Mitsubishi Lancer Evo X,IE,N4,"+51m 18,3s",NA,NA,NA
+34,81,"Anglade, Patrick",Ford Fiesta ST,DE,N3,"+51m 22,5s",NA,NA,NA
+35,63,"Nikara, Jarkko",Mitsubishi Lancer Evo IX,FI,N4,"+51m 46,7s",NA,NA,NA
+36,77,"Dettori, Giuseppe",Mitsubishi Lancer Evo IX,IT,N4,"+53m 55,9s",0:10,NA,NA
+37,37,"Sauvan, Frederic",Mitsubishi Lancer Evo IX,FR,N4,"+54m 26,2s",NA,NA,NA
+38,79,"Yurdakul, Emre",Ford Fiesta,TU,A6,"+54m 28,6s",0:20,NA,NA
+39,76,"Breen, Craig",Ford Fiesta,IE,A6,"+56m 38,0s",0:20,NA,NA
+40,70,"Siguroarson, Daniel",Mitsubishi Lancer Evo X,IS,N4,"+58m 37,9s",1:00,NA,NA
+41,84,"al-Jabri, Bader",Ford Fiesta ST,AE,N3,"+1h 01m 47,7s",NA,NA,NA
+42,90,"Parn, Sander",Citroen C2,EE,A6,"+1h 04m 58,2s",NA,NA,NA
+43,87,"Cave, Thomas",Ford Fiesta,GB,N3,"+1h 13m 26,6s",NA,NA,NA
+44,91,"Plangi, Siim",Citroen C2,EE,A6,"+1h 16m 17,6s",NA,NA,NA
+45,95,"Leigh, Kit",Ford Fiesta,GB,N3,"+1h 17m 17,7s",NA,NA,NA
+46,80,"Cetinkaya Bonnet, Burcu",Ford Fiesta,TU,A6,"+1h 17m 40,2s",0:20,NA,NA
+47,92,"Loic, Mattei",Peugeot 207,FR,A7,"+1h 25m 01,8s",NA,NA,NA
+48,93,"Vacheron, Jean-Thierry",Peugeot 206,CH,A6,"+1h 32m 36,6s",0:50,NA,NA
+49,82,"Catania, Davide",Renault Clio,IT,A7,"+1h 39m 54,2s",0:50,NA,NA
+50,94,"Treacy, Kenneth",Citroen C2 R2,IE,A6,"+1h 57m 33,3s",0:30,NA,NA
+NA,12,"Ogier, Sebastien",Citroen C4 WRC,FR,A8,NA,NA,SS16,mechanical
+NA,14,"Ostberg, Mads",Subaru Impreza WRC2008,NO,A8,NA,NA,TC14A,mechanical
+NA,36,"Valdes Lopez, Egoi Eder",Subaru Impreza WRX,ES,N4,NA,NA,SS7,mechanical
+NA,39,"Brynildsen, Eyvind",Skoda Fabia Super 2000,NO,N4,NA,NA,TC16C,unknown
+NA,40,"Weston, David",Subaru Impreza,GB,N4,NA,NA,SS16,mechanical
+NA,44,"Senior, David",Subaru Impreza,GB,N4,NA,NA,before SS1,unknown
+NA,49,"Bacco, Giorgio",Mitsubishi Lancer Evo IX,IT,N4,NA,NA,SS14,mechanical
+NA,50,"al-Attiyah, Nasser",Subaru Impreza,QA,N4,NA,NA,SS15,off road
+NA,85,"al-Mansoori, Ahmed",Ford Fiesta ST,AE,N3,NA,NA,SS10,mechanical
+NA,86,"al-Shamsi, Majed",Ford Fiesta ST,AE,N3,NA,NA,SS8,mechanical
+NA,88,"Alanen, Atte",Ford Fiesta ST,FI,N3,NA,NA,SS9,mechanical
+NA,89,"Haines, Tom",Subaru Impreza,GB,N4,NA,NA,SS11,mechanical

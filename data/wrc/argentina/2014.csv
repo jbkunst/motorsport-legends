@@ -1,0 +1,30 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,2,"Latvala, Jari-Matti",Volkswagen Polo R WRC,FI,RC1,"4h 41m 24,8s",NA,NA,NA
+2,1,"Ogier, Sebastien",Volkswagen Polo R WRC,FR,RC1,"+1m 26,9s",NA,NA,NA
+3,3,"Meeke, Kris",Citroen DS3 WRC,GB,RC1,"+5m 54,7s",NA,NA,NA
+4,9,"Mikkelsen, Andreas",Volkswagen Polo R WRC,NO,RC1,"+6m 18,3s",NA,NA,NA
+5,7,"Neuville, Thierry",Hyundai i20 WRC,BE,RC1,"+8m 25,8s",NA,NA,NA
+6,10,"Kubica, Robert",Ford Fiesta RS WRC,PL,RC1,"+10m 08,0s",NA,NA,NA
+7,6,"Evans, Elfyn",Ford Fiesta RS WRC,GB,RC1,"+10m 32,2s",NA,NA,NA
+8,21,"Prokop, Martin",Ford Fiesta RS WRC,CZ,RC1,"+12m 03,9s",NA,NA,NA
+9,5,"Hirvonen, Mikko",Ford Fiesta RS WRC,FI,RC1,"+19m 54,8s",NA,NA,NA
+10,40,"al-Attiyah, Nasser",Ford Fiesta,QA,RC2,"+23m 10,2s",NA,NA,NA
+11,41,"Fuchs Sierlecki, Nicolas",Ford Fiesta,PE,RC2,"+28m 45,9s",NA,NA,NA
+12,42,"Dominguez Sr., Diego",Ford Fiesta,PY,RC2,"+29m 00,7s",NA,NA,NA
+13,37,"Bertelli, Lorenzo",Ford Fiesta,IT,RC2,"+36m 23,6s",0:10,NA,NA
+14,44,"al-Kuwari, Abdulaziz",Ford Fiesta,QA,RC2,"+44m 27,6s",0:30,NA,NA
+15,46,"Zaldivar Jr., Miguel",Ford Fiesta,PY,RC2,"+49m 59,9s",2:00,NA,NA
+16,72,"Alonso, Juan Carlos",Mitsubishi Lancer Evo IX,AR,RC2,"+57m 04,0s",0:20,NA,NA
+17,38,"Tanak, Ott",Ford Fiesta,EE,RC2,"+59m 40,5s",2:20,NA,NA
+18,74,"Zea Velasco, Paul",Mitsubishi Lancer Evo IX,EC,RC2,"+1h 00m 25,0s",NA,NA,NA
+19,34,"Bestard Poletti, Augusto Miguel",Mitsubishi Lancer Evo IX,PY,RC2,"+1h 00m 31,5s",NA,NA,NA
+20,47,"Torres Fuentes, Ramon",Mitsubishi Lancer Evo IX,CL,RC2,"+1h 00m 44,6s",NA,NA,NA
+21,35,"Ketomaa, Jari",Ford Fiesta,FI,RC2,"+1h 01m 35,5s",NA,NA,NA
+22,43,"Linari, Gianluca",Subaru Impreza WRX,IT,RC2,"+1h 12m 02,1s",NA,NA,NA
+23,33,"Rendina, Massimiliano",Mitsubishi Lancer Evo IX,IT,RC2,"+1h 29m 44,8s",5:50,NA,NA
+NA,4,"Ostberg, Mads",Citroen DS3 WRC,NO,RC1,NA,NA,TC13,mechanical
+NA,8,"Sordo Castillo, Daniel",Hyundai i20 WRC,ES,RC1,NA,NA,after SS7,unknown
+NA,32,"Protasov, Yuriy",Ford Fiesta,UA,RC2,NA,NA,after SS7,unknown
+NA,36,"Gilbert, Quentin",Ford Fiesta,FR,RC2,NA,NA,SS12,mechanical
+NA,39,"Saba Rodriguez, Gustavo",Skoda Fabia Super 2000,PY,RC2,NA,NA,TC14A,mechanical
+NA,73,"Diehl dos Santos, Ilo",Mitsubishi Lancer Evo IX,BR,RC2,NA,NA,TC13,mechanical

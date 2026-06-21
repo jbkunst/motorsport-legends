@@ -1,0 +1,22 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Mehta, Shekhar",Nissan Violet,KE,G4,4h 26m,NA,NA,NA
+2,5,"Rohrl, Walter",Opel Ascona 400,DE,G4,+41m,NA,NA,NA
+3,2,"Kirkland, Mike",Nissan Violet GTS,KE,G4,+1h 50m,NA,NA,NA
+4,6,"Pond, Tony",Nissan Violet GTS,GB,G4,+2h 34m,NA,NA,NA
+5,8,"Shah, Jayant",Nissan 160J,KE,G2,+3h 49m,NA,NA,NA
+6,9,"Collinge, Robert",Range Rover,KE,G2,+4h 28m,NA,NA,NA
+7,29,"Takahashi, Yoshinoru",Subaru 4WD,JP,G2,+7h 54m,NA,NA,NA
+8,15,"Tundo, Frank",Mitsubishi Colt Lancer,KE,G2,+8h 27m,NA,NA,NA
+9,33,"Alam, Javaid",Subaru 4WD,KE,G2,+9h 25m,NA,NA,NA
+10,21,"Khoda, Ramesh",Subaru 4WD,KE,G2,+11h 09m,NA,NA,NA
+NA,3,"Salonen, Timo",Nissan Violet GTS,FI,G4,NA,NA,TC28,delays
+NA,4,"Aaltonen, Rauno",Opel Ascona 400,FI,G4,NA,NA,TC73,engine
+NA,7,"Iwashita, Yoshio",Nissan Bluebird Turbo,JP,G2,NA,NA,TC42,accident
+NA,10,"Hellier, John",Nissan Bluebird Turbo,KE,G2,NA,NA,TC29,engine
+NA,11,"Munari, Sandro",Porsche 911,IT,G4,NA,NA,TC29,delays
+NA,14,"Nandra, Assa",Nissan Silvia,KE,B,NA,NA,TC13,OTL
+NA,18,"Elford, Vic",Subaru 4WD,GB,G2,NA,NA,TC11,accident
+NA,25,"Takaoka, Yoshio",Subaru 4WD,JP,G2,NA,NA,TC41,engine
+NA,34,"Barbour, George",Ford Escort RS,KE,G4,NA,NA,TC66,accident
+NA,42,"Patel, Mahesh",Nissan 160J,KE,G2,NA,NA,TC43,transmission
+NA,46,"Ruedin, Hans-Peter",Mitsubishi Lancer 2000 Turbo,KE,G4,NA,NA,TC29,OTL

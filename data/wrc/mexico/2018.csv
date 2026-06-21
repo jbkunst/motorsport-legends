@@ -1,0 +1,30 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Ogier, Sebastien",Ford Fiesta RS WRC 2017,FR,RC1,"3h 54m 08,0s",NA,NA,NA
+2,6,"Sordo Castillo, Daniel",Hyundai i20 Coupe WRC,ES,RC1,"+1m 03,6s",NA,NA,NA
+3,10,"Meeke, Kris",Citroen C3 WRC,GB,RC1,"+1m 19,2s",NA,NA,NA
+4,4,"Mikkelsen, Andreas",Hyundai i20 Coupe WRC,NO,RC1,"+1m 38,4s",NA,NA,NA
+5,11,"Loeb, Sebastien",Citroen C3 WRC,FR,RC1,"+2m 24,6s",NA,NA,NA
+6,5,"Neuville, Thierry",Hyundai i20 Coupe WRC,BE,RC1,"+9m 03,0s",4:10,NA,NA
+7,31,"Tidemand, Pontus",Skoda Fabia,SE,RC2,"+10m 24,7s",NA,NA,NA
+8,7,"Latvala, Jari-Matti",Toyota Yaris WRC,FI,RC1,"+15m 37,1s",NA,NA,NA
+9,38,"Greensmith, Fergus",Ford Fiesta,GB,RC2,"+17m 09,3s",NA,NA,NA
+10,39,"Heller, Pedro",Ford Fiesta,CL,RC2,"+24m 18,1s",NA,NA,NA
+11,9,"Lappi, Esapekka",Toyota Yaris WRC,FI,RC1,"+30m 57,8s",NA,NA,NA
+12,3,"Suninen, Teemu",Ford Fiesta RS WRC 2017,FI,RC1,"+33m 06,3s",NA,NA,NA
+13,35,"Bulacia Wilkinson, Marco",Ford Fiesta,BO,RC2,"+33m 10,6s",NA,NA,NA
+14,8,"Tanak, Ott",Toyota Yaris WRC,EE,RC1,"+1h 02m 42,8s",4:30,NA,NA
+15,33,"Rovanpera, Kalle",Skoda Fabia,FI,RC2,"+1h 13m 18,8s",NA,NA,NA
+16,86,"Jaramillo Salazar, Julian",Subaru Impreza WRX,CO,ASN,"+1h 21m 08,3s",1:40,NA,NA
+17,88,"Uribe Balsa, Oscar",Mitsubishi Lancer Evo IX,MX,ASN,"+1h 21m 45,9s",7:20,NA,NA
+18,32,"Huttunen, Jari",Hyundai i20,FI,RC2,"+1h 30m 38,5s",NA,NA,NA
+19,81,"Trivino Bujalil, Ricardo",Citroen DS3,MX,RC2,"+1h 35m 52,1s",0:30,NA,NA
+20,90,"Bailey, Jason",Ford Fiesta,CA,ASN,"+1h 46m 06,5s",1:40,NA,NA
+21,36,"Solans Baldo, Nil",Ford Fiesta,ES,RC2,"+1h 58m 24,8s",NA,NA,NA
+NA,2,"Evans, Elfyn",Ford Fiesta RS WRC 2017,GB,RC1,NA,NA,TC5B,mechanical
+NA,61,"Williams, Tom",Ford Fiesta,GB,RC4,NA,NA,TC22A,mechanical
+NA,82,"Wallingford, Dave",Ford Fiesta,US,RC2,NA,NA,SS12,off road
+NA,83,"Name Guzzy Jr, Francisco",Mitsubishi Lancer Evo X,MX,RC2,NA,NA,post-rally,technical infringement
+NA,84,"Cordero, Ricardo",Mitsubishi Lancer Evo X,MX,RC2,NA,NA,SS12,mechanical
+NA,85,"Granados Cervera, Miguel-Antonio",Mitsubishi Lancer Evo X,MX,ASN,NA,NA,SS11,mechanical
+NA,87,"Gonzalez Hernandez, Jorge",Mitsubishi Lancer Evo IX,MX,ASN,NA,NA,TC12,mechanical
+NA,89,"Jocius, Deividas",Ford Fiesta,LT,ASN,NA,NA,TC21A,OTL

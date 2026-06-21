@@ -1,0 +1,33 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,6,"Nicolas, Jean-Pierre",Peugeot 504,FR,G4,20h 20m 15s,NA,NA,NA
+2,1,"Lampinen, Simo",Peugeot 504,FI,G4,+22m 37s,NA,NA,NA
+3,3,"Munari, Sandro",Lancia Stratos HF,IT,G4,+1h 18m 23s,NA,NA,NA
+4,18,"Deschaseaux, Jean",Citroen CX2200,MA,G2,+1h 24m 30s,NA,NA,NA
+5,14,"Lefebvre, Jean-Claude",Peugeot 504,FR,G4,+1h 46m 39s,NA,NA,NA
+6,16,"Prive, Jacky",Renault 17 Gordini,FR,G4,+2h 14m 02s,NA,NA,NA
+7,17,"Hoepfner, Marianne",Peugeot 504,FR,G4,+2h 20m 36s,NA,NA,NA
+8,10,"Dacremont, Christine",Peugeot 504,FR,G4,+2h 31m 52s,NA,NA,NA
+9,24,"Guichet, Jean",Peugeot 504,FR,G4,+2h 38m 50s,NA,NA,NA
+10,12,"Briavoine, Jean-Claude",Renault 12 Gordini,FR,G4,+2h 38m 53s,NA,NA,NA
+11,81,"Mauch, Wolf",Peugeot 504,FR,G4,+2h 57m 20s,NA,NA,NA
+12,8,"Alen, Markku",Fiat 131 Abarth,FI,G4,+3h 39m 28s,NA,NA,NA
+13,36,"Noujaim, Kal",Datsun 180B,FR,G2,+4h 55m 26s,NA,NA,NA
+14,25,"Chasseuil, Guy",Ford Escort RS2000,FR,G1,+6h 12m 05s,NA,NA,NA
+15,85,"Heyder-Bruckner, O.",Renault 12 Gordini,FR,G2,+6h 49m 42s,NA,NA,NA
+16,54,"Choteau, Adolphe",Peugeot 504,CI,G2,+6h 59m 37s,NA,NA,NA
+17,23,"Laurent, Claude",Citroen GS,FR,G2,+7h 10m 50s,NA,NA,NA
+18,28,"Puigsegur, Richard",Peugeot 505,FR,G1,+8h 54m 57s,NA,NA,NA
+19,89,"Geeraerts, Carlo",Peugeot 504,BE,G2,+10h 42m 13s,NA,NA,NA
+NA,2,"Mikkola, Hannu",Peugeot 504 V6 Coupe,FI,G4,NA,NA,after SS7,driveshaft
+NA,4,"Makinen, Timo",Ford Escort RS1800,FI,G4,NA,NA,SS6-7,engine fire
+NA,5,"Verini, Maurizio",Fiat 131 Abarth,IT,G4,NA,NA,SS4,differential
+NA,7,"Clark, Roger",Ford Escort RS1800,GB,G4,NA,NA,SS3,camshaft
+NA,9,"Bacchelli, Fulvio",Fiat 131 Abarth,IT,G4,NA,NA,SS8,suspension
+NA,30,"Ponnelle, Raymond",Citroen DS23,MA,G1,NA,NA,NA,OTL
+NA,62,"Fall, Tony",Opel Kadett GT/E,GB,G2,NA,NA,NA,gearbox
+NA,NA,de Rouvre,Renault 17 Gordini,NA,NA,NA,NA,NA,unknown
+NA,NA,"Polizzi, Claude",Opel Kadett,NA,NA,NA,NA,start of Leg 3,fire
+NA,NA,"Sainpy, Gerard",Ford Escort RS2000,FR,G1,NA,NA,NA,unknown
+NA,NA,"Touroul, Raymond",Peugeot 504,FR,G2,NA,NA,NA,transmission
+NA,NA,"Verney, Anny-Charlotte",Ford Escort RS2000,FR,G1,NA,NA,SS3,electrical
+NA,NA,"Wiltshire, Rodney",Opel Kadett,GB,G1,NA,NA,NA,unknown

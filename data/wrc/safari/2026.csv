@@ -1,0 +1,42 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,18,"Katsuta, Takamoto",Toyota GR Yaris Rally1,JP,Rally1,"3h 16m 05,6s",NA,NA,NA
+2,16,"Fourmaux, Adrien",Hyundai i20 N Rally1,FR,Rally1,"+27,4s",NA,NA,NA
+3,5,"Pajari, Sami",Toyota GR Yaris Rally1,FI,Rally1,"+4m 26,1s",0:20,NA,NA
+4,4,"Lappi, Esapekka",Hyundai i20 N Rally1,FI,Rally1,"+6m 07,3s",2:10,NA,NA
+5,21,"Virves, Robert",Skoda Fabia,EE,Rally2,"+11m 38,7s",NA,NA,NA
+6,20,"Greensmith, Fergus",Toyota Yaris,GB,Rally2,"+12m 09,0s",NA,NA,NA
+7,23,"Zaldivar Zuccolillo, Fabrizio",Skoda Fabia,PY,Rally2,"+12m 20,0s",0:10,NA,NA
+8,22,"Mikkelsen, Andreas",Skoda Fabia,NO,Rally2,"+12m 30,7s",NA,NA,NA
+9,25,"Dominguez Jr., Diego",Toyota Yaris,PY,Rally2,"+13m 28,4s",NA,NA,NA
+10,99,"Solberg, Oliver",Toyota GR Yaris Rally1,SE,Rally1,"+16m 44,5s",NA,NA,NA
+11,1,"Ogier, Sebastien",Toyota GR Yaris Rally1,FR,Rally1,"+17m 30,7s",NA,NA,NA
+12,11,"Neuville, Thierry",Hyundai i20 N Rally1,BE,Rally1,"+19m 52,4s",NA,NA,NA
+13,33,"Evans, Elfyn",Toyota GR Yaris Rally1,GB,Rally1,"+26m 20,9s",NA,NA,NA
+14,26,"Chwist, Daniel",Skoda Fabia,PL,Rally2,"+45m 36,7s",2:20,NA,NA
+15,95,"Armstrong, Jon",Ford Puma Rally1,GB,Rally1,"+48m 01,1s",NA,NA,NA
+16,37,"Vasilakis, Georgios",Ford Fiesta,GR,Rally3,"+1h 09m 02,1s",1:40,NA,NA
+17,27,"Patel, Karan",Skoda Fabia,KE,Rally2,"+1h 10m 49,1s",10:10,NA,NA
+18,34,"Virani, Aakif",Skoda Fabia,KE,Rally2,"+1h 27m 01,1s",10:10,NA,NA
+19,29,"Singh Vohra, Samman",Skoda Fabia,KE,Rally2,"+1h 30m 41,5s",11:10,NA,NA
+20,31,"Lafarja, Andrea",Toyota Yaris,PY,Rally2,"+1h 48m 18,3s",0:50,NA,NA
+21,42,"Chana, Jasmeet",Ford Fiesta,KE,Rally2,"+1h 50m 30,1s",NA,NA,NA
+22,47,"Ntambi, Oscar",Mitsubishi Lancer Evo X,UG,ASN,"+1h 55m 02,4s",0:40,NA,NA
+23,39,"Sachania, Nikhil",Ford Fiesta,GB,Rally3,"+1h 59m 27,8s",3:40,NA,NA
+24,38,"Pulligilla, Naveen",Ford Fiesta,IN,Rally3,"+2h 06m 12,3s",NA,NA,NA
+25,36,"Bruun, Nataniel",Ford Fiesta,US,Rally3,"+2h 09m 31,8s",1:20,NA,NA
+26,49,"Singh Bhokal, Harpreet",Mitsubishi Lancer Evo X,KE,ASN,"+2h 11m 35,1s",5:40,NA,NA
+27,52,"Kanangire, Christian",Subaru Impreza WRX,RW,ASN,"+2h 18m 19,4s",3:10,NA,NA
+28,41,"Nasser, Yasin",Ford Fiesta,UG,Rally2,"+2h 18m 56,8s",1:00,NA,NA
+29,48,"Nanji, Sameer",Subaru Impreza WRX,KE,ASN,"+3h 14m 26,3s",5:00,NA,NA
+NA,24,"Jurgenson, Romet",Ford Fiesta,EE,Rally2,NA,NA,TC19,mechanical
+NA,35,"Azeli, Ishmael",Subaru Impreza WRX,KE,ASN,NA,NA,TC19,mechanical
+NA,40,"Anwar, Hamza",Ford Fiesta,KE,Rally2,NA,NA,SS17,mechanical
+NA,44,"Mubiru, Duncan",Subaru Impreza WRX,UG,ASN,NA,NA,SS17,mechanical
+NA,45,"Davite, Giancarlo",Subaru Impreza WRX,IT,ASN,NA,NA,TC13,mechanical
+NA,46,"Nzioka, Evans",Mitsubishi Lancer Evo X,KE,ASN,NA,NA,TC20,breach of Art. 2.15
+NA,50,"Kalimpinya, Queen",Subaru Impreza WRX,RW,ASN,NA,NA,TC0,NA
+NA,51,"Gakwaya, Jean Claude",Mitsubishi Lancer Evo X,RW,ASN,NA,NA,SS2,driving wrong way (against traffic)
+NA,53,"Gatimu, Tinashe",Ford Fiesta,KE,ASN,NA,NA,TC2,mechanical
+NA,55,"McErlean, Joshua",Ford Puma Rally1,IE,Rally1,NA,NA,TC8,mechanical
+NA,56,"Sheghu, Pauline",Subaru Impreza WRX,KE,ASN,NA,NA,TC14,OTL
+NA,57,"Christoffersen, Lisa",Subaru Impreza WRX,KE,ASN,NA,NA,TC6,mechanical

@@ -1,0 +1,60 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,8,"Ogier, Sebastien",Volkswagen Polo R WRC,FR,A0,"3h 33m 21,2s",NA,NA,NA
+2,7,"Latvala, Jari-Matti",Volkswagen Polo R WRC,FI,A0,"+32,9s",NA,NA,NA
+3,2,"Hirvonen, Mikko",Citroen DS3 WRC,FI,A0,"+1m 13,7s",NA,NA,NA
+4,11,"Neuville, Thierry",Ford Fiesta RS WRC,BE,A0,"+1m 33,9s",NA,NA,NA
+5,5,"Novikov, Evgeny",Ford Fiesta RS WRC,RU,A0,"+2m 01,0s",0:10,NA,NA
+6,4,"Ostberg, Mads",Ford Fiesta RS WRC,NO,A0,"+2m 26,0s",NA,NA,NA
+7,21,"Prokop, Martin",Ford Fiesta RS WRC,CZ,A0,"+4m 55,8s",NA,NA,NA
+8,22,"Paddon, Hayden",Ford Fiesta RS WRC,NZ,A0,"+6m 55,7s",NA,NA,NA
+9,74,"Kubica, Robert",Citroen DS3,PL,A2,"+11m 14,1s",0:10,NA,NA
+10,23,"al-Kuwari, Abdulaziz",Ford Fiesta RS WRC,QA,A0,"+13m 26,8s",NA,NA,NA
+11,10,"al-Qassimi, Khalid",Citroen DS3 WRC,AE,A0,"+13m 30,5s",NA,NA,NA
+12,35,"al-Rajhi, Yazeed",Ford Fiesta,SA,A2,"+16m 29,9s",NA,NA,NA
+13,65,"Garcia-Ojeda, Enrique",Citroen DS3,ES,A5,"+23m 50,6s",NA,NA,NA
+14,124,"Guerra Latapi, Benito",Mitsubishi Lancer Evo X,MX,A3,"+25m 30,6s",0:10,NA,NA
+15,79,"Barrable, Robert",Ford Fiesta,IE,A2,"+26m 45,2s",1:30,NA,NA
+16,76,"Aksa, Subhan",Ford Fiesta,ID,A2,"+29m 01,5s",0:20,NA,NA
+17,110,"Lemes Macias, Yeray",Ford Fiesta,ES,A6,"+30m 38,6s",0:10,NA,NA
+18,41,"Fuchs Sierlecki, Nicolas",Mitsubishi Lancer Evo X,PE,A3,"+31m 36,1s",NA,NA,NA
+19,109,"Aasen, Marius",Ford Fiesta,NO,A6,"+32m 53,3s",NA,NA,NA
+20,100,"Parn, Sander",Ford Fiesta,EE,A6,"+33m 57,6s",NA,NA,NA
+21,103,"Koci, Martin",Ford Fiesta,SK,A6,"+34m 09,1s",NA,NA,NA
+22,106,"Bostanci, Murat",Ford Fiesta,TU,A6,"+35m 53,6s",NA,NA,NA
+23,123,"Boland, Eamonn",Subaru Impreza,IE,A2,"+37m 24,2s",1:00,NA,NA
+24,64,"al-Mutawa, Mohammed",Citroen DS3,AE,A5,"+40m 45,9s",NA,NA,NA
+25,125,"Membrado, Josep",Mitsubishi Lancer Evo X,ES,A3,"+44m 47,6s",0:30,NA,NA
+26,72,"Alonso, Juan Carlos",Mitsubishi Lancer Evo X,AR,A3,"+45m 12,2s",0:10,NA,NA
+27,126,"Llinas, Carles",Mitsubishi Lancer Evo X,ES,A3,"+46m 17,8s",NA,NA,NA
+28,142,"Iglesias, Celestino",Ford Fiesta,ES,A6,"+50m 11,1s",NA,NA,NA
+29,130,"Freire, Paulo",Mitsubishi Lancer Evo X,PT,A3,"+51m 39,8s",0:10,NA,NA
+30,138,"Montagna, Francesco",Citroen C2,IT,A6,"+53m 18,1s",0:10,NA,NA
+31,133,"Aguado, Juan Carlos",Ford Fiesta,ES,A6,"+54m 04,4s",0:20,NA,NA
+32,67,"al-Sahlawi, Mohamed",Citroen DS3,AE,A5,"+54m 13,6s",NA,NA,NA
+33,129,"Pares, Mariano",Mitsubishi Lancer Evo X,ES,A3,"+58m 10,0s",NA,NA,NA
+34,137,"Cali, Gianluca Maria",Citroen C2,IT,A6,"+58m 24,1s",NA,NA,NA
+35,132,"van Deijne, Kevin",Ford Fiesta,NL,A6,"+58m 33,7s",NA,NA,NA
+36,122,"Melicharek, Jaroslav",Ford Fiesta,SK,A2,"+1h 01m 57,4s",0:20,NA,NA
+37,46,"Vallario, Marco",Mitsubishi Lancer Evo X,IT,A3,"+1h 04m 19,8s",NA,NA,NA
+38,136,"Paniceres, Angel",Ford Fiesta,ES,A6,"+1h 07m 22,8s",NA,NA,NA
+39,143,"Domenech, Josep Anton",Suzuki Swift,ES,A9,"+1h 11m 46,4s",NA,NA,NA
+40,71,"Rasheed, Ala'a",Ford Fiesta,JO,A2,"+1h 12m 11,2s",NA,NA,NA
+NA,3,"Sordo Castillo, Daniel",Citroen DS3 WRC,ES,A0,NA,NA,SS14,mechanical
+NA,6,"al-Attiyah, Nasser",Ford Fiesta RS WRC,QA,A0,NA,NA,TC9D,unknown
+NA,9,"Mikkelsen, Andreas",Volkswagen Polo R WRC,NO,A0,NA,NA,TC15,unknown
+NA,32,"Wiegand, Sepp",Skoda Fabia Super 2000,DE,A2,NA,NA,SS13,unknown
+NA,36,"al-Ketbi, Rashid",Ford Fiesta,AE,A2,NA,NA,TC3C,mechanical
+NA,37,"Bertelli, Lorenzo",Ford Fiesta,IT,A2,NA,NA,SS15,unknown
+NA,75,"Evans, Elfyn",Ford Fiesta,GB,A2,NA,NA,TC11,unknown
+NA,102,"Tidemand, Pontus",Ford Fiesta,SE,A6,NA,NA,SS5,mechanical
+NA,105,"Suarez Miranda, Jose Antonio",Ford Fiesta,ES,A6,NA,NA,SS5,mechanical
+NA,107,"Burri, Michael",Ford Fiesta,CH,A6,NA,NA,SS12,unknown
+NA,108,"Nieminen, Niko-Pekka",Ford Fiesta,FI,A6,NA,NA,TC3D,unknown
+NA,121,"Protasov, Yuriy",Ford Fiesta,UA,A2,NA,NA,SS10,mechanical
+NA,127,"Font Guixaro, Joan",Mitsubishi Lancer Evo X,ES,A3,NA,NA,SS15,unknown
+NA,128,"Correia, Joao",Mitsubishi Lancer Evo X,PT,A3,NA,NA,SS11,unknown
+NA,131,"Julia, David",Peugeot 206,FR,A5,NA,NA,TC9D,unknown
+NA,135,"Solans Baldo, Nil",Ford Fiesta,ES,A6,NA,NA,SS14,unknown
+NA,139,"Falcon, Emma",Ford Fiesta,ES,A6,NA,NA,SS12,mechanical
+NA,141,"Filip, Juan A.",Ford Fiesta,ES,A6,NA,NA,TC3D,unknown
+NA,144,"Sarabia, Oscar",Citroen DS3,ES,A9,NA,NA,TC9D,unknown

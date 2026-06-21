@@ -1,0 +1,33 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,6,"Salonen, Timo",Peugeot 205 Turbo 16,FI,B,8h 07m 25s,NA,NA,NA
+2,4,"Biasion, Massimo",Lancia Rally 037,IT,B,+4m 47s,NA,NA,NA
+3,5,"Rohrl, Walter",Audi quattro Sport,DE,B,+5m 58s,5:00,NA,NA
+4,3,"Blomqvist, Stig",Audi quattro Sport,SE,B,+23m 46s,4:00,NA,NA
+5,16,"Grissmann, Werner",Audi quattro A2,AT,B,+1h 05m 55s,NA,NA,NA
+6,15,"Leite Faria, Jose Miguel",Ford Escort RS1800,PT,B,+1h 13m 17s,1:00,NA,NA
+7,14,"Bica, Carlos",Ford Escort RS1800,PT,B,+1h 21m 06s,4:30,NA,NA
+8,20,"Mendes, Santinho",Nissan 240 RS,PT,B,+1h 32m 57s,NA,NA,NA
+9,23,"Ortigao, Jorge",Toyota Corolla,PT,A,+1h 45m 00s,NA,NA,NA
+10,36,"Faria, Pedro Leite",Ford Escort RS2000,PT,A,+2h 05m 51s,NA,NA,NA
+11,12,"Turiani, Auguste",Opel Manta,MC,A,+2h 22m 56s,4:00,NA,NA
+12,44,"Ferreira da Cunha, Antonio",Opel Ascona,PT,A,+2h 23m 18s,NA,NA,NA
+13,10,"Santos, Joaquim",Ford Escort RS,PT,A,+2h 38m 08s,NA,NA,NA
+14,61,"Labrot, Claude",Toyota Corolla,FR,A,+2h 42m 04s,NA,NA,NA
+15,60,"Lemos, Paulo",Volkswagen Amazon,BR,A,+2h 46m 16s,NA,NA,NA
+16,46,"Mello Breyner, Tomaz",Volkswagen Amazon,PT,A,+2h 49m 47s,NA,NA,NA
+17,35,"Rizzi, Giancarlo",Alfa Romeo Alfetta GTV6,IT,A,+2h 50m 25s,8:00,NA,NA
+18,52,"Vasile, Stefan",Dacia,RO,A,+2h 54m 51s,NA,NA,NA
+19,48,"Balint, Ludovic",Dacia,RO,A,+3h 09m 41s,NA,NA,NA
+20,85,"Klein, Ewald",Peugeot 205 GTI,DE,N,+3h 16m 09s,3:00,NA,NA
+21,25,"Mello Breyner, Manuel",Audi 80 quattro,PT,N,+3h 16m 13s,26:00,NA,NA
+22,59,"Amaral, Alfredo",Ford Escort RS2000,PT,A,+3h 59m 07s,10:00,NA,NA
+23,55,"Urdea, Gheorge",Dacia,RO,A,+4h 09m 29s,12:00,NA,NA
+24,81,"Amaral, Bento",Ford Escort RS,PT,N,+4h 25m 19s,30:00,NA,NA
+25,87,"Janota Vistas, Manuel",Citroen Visa,PT,N,+4h 42m 02s,6:00,NA,NA
+26,91,"Sabenca, Alvaro",Fiat Uno,PT,N,+4h 49m 52s,6:00,NA,NA
+27,88,"Saraiva, Evaristo",Fiat Uno,PT,N,+6h 11m 17s,38:00,NA,NA
+28,66,"Wrzecian, Claude",Volkswagen Golf Diesel,FR,A,+7h 35m 00s,41:00,NA,NA
+NA,2,"Vatanen, Ari",Peugeot 205 Turbo 16,FI,B,NA,NA,SS21,engine
+NA,8,"Moutinho, Joaquim",Renault 5 Turbo,PT,B,NA,NA,SS38,engine
+NA,9,"Kleint, Jochi",Volkswagen Golf GTi,DE,A,NA,NA,SS24,gearbox
+NA,11,"Wittman, Franz",Volkswagen Golf GTi,AT,A,NA,NA,SS22,throttle

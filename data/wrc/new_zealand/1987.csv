@@ -1,0 +1,52 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,4,"Wittman, Franz",Lancia Delta HF 4WD,AT,A8,6h 56m 00s,NA,NA,NA
+2,2,"Eriksson, Kenneth",Volkswagen Golf GTi,SE,A,+47s,NA,NA,NA
+3,5,"Bourne, Peter",Subaru RX Turbo,NZ,A,+8m 25s,NA,NA,NA
+4,8,"Teesdale, Tony",Mazda 323 4WD,NZ,A,+22m 31s,NA,NA,NA
+5,7,"Officer, David",Mitsubishi Starion Turbo,AU,A,+39m 12s,NA,NA,NA
+6,18,"Adamson, Ken",Toyota Corolla,NZ,A,+44m 17s,NA,NA,NA
+7,24,"Weeber, Stuart",Toyota Starlet,NZ,A,+1h 04m 50s,NA,NA,NA
+8,21,"Davies, Simon",Subaru RX Turbo,NZ,A,+1h 09m 41s,NA,NA,NA
+9,16,"Hazu, Kouichi",Isuzu Gemini,JP,A,+1h 13m 58s,NA,NA,NA
+10,35,"Goile, Grant",Toyota Starlet,NZ,A,+1h 16m 41s,NA,NA,NA
+11,23,"Strong, Dave",Daihatsu Charade GTI,NZ,A,+1h 19m 21s,NA,NA,NA
+12,40,"Sibley, Garry",Toyota Starlet,NZ,A,+1h 20m 20s,NA,NA,NA
+13,41,"Stringer, Lee",Toyota Corolla,NZ,A,+1h 21m 43s,NA,NA,NA
+14,31,"Schuler, Ian",Isuzu Gemini,NZ,A,+1h 23m 42s,NA,NA,NA
+15,48,"Halsall, Alan",Mitsubishi Lancer,NZ,A,+1h 26m 25s,NA,NA,NA
+16,43,"Bell, Gavin",Toyota Starlet,NZ,A,+2h 18m 58s,NA,NA,NA
+NA,1,"Blomqvist, Stig",Ford Sierra XR4x4,SE,A,NA,NA,SS10,accident
+NA,3,"Allport, Neil",Mazda 323 4WD,NZ,A,NA,NA,SS17,transmission
+NA,6,"Wilson, Ray",Mazda 323 4WD,NZ,A,NA,NA,SS10,overheating
+NA,9,"Stokes, Brian",Ford Sierra XR4x4,NZ,A,NA,NA,SS20,accident
+NA,10,"Davidson, Paddy",Nissan 200SX,NZ,A,NA,NA,SS32,ignition
+NA,11,"Bell, Wayne",Toyota Corolla,AU,A,NA,NA,SS21,engine
+NA,12,"Hart, Robert",Subaru RX Turbo,NZ,A,NA,NA,SS33,engine
+NA,14,"Meekings, Ross",Toyota Corolla,NZ,A,NA,NA,NA,unknown
+NA,17,"Jennings, Mark",Toyota Starlet,NZ,A,NA,NA,NA,unknown
+NA,19,"Ayling, David",Mazda 323 4WD,NZ,A,NA,NA,NA,unknown
+NA,20,"Hinchcliffe, Kevin",Toyota Corolla,NZ,A,NA,NA,NA,unknown
+NA,22,"Young, Ross",Toyota Corolla,NZ,A,NA,NA,NA,unknown
+NA,25,"Percy, Rick",Subaru RX Turbo,NZ,A,NA,NA,NA,unknown
+NA,26,"England, Lee",Nissan Bluebird Turbo,NZ,A,NA,NA,NA,unknown
+NA,27,"Willy, Stephen",Toyota Corolla,NZ,A,NA,NA,NA,unknown
+NA,29,"Sano, Tetsuo",Toyota Starlet,JP,A,NA,NA,NA,unknown
+NA,30,"Smith, Warrwick",Toyota Starlet,NZ,A,NA,NA,NA,unknown
+NA,32,"Kauno, Yasutoshi",Toyota Starlet,JP,A,NA,NA,NA,unknown
+NA,33,"Coey, Graeme",Mitsubishi Starion Turbo,NZ,A,NA,NA,NA,unknown
+NA,34,"Oka, Satoshi",Toyota Corolla,JP,A,NA,NA,NA,unknown
+NA,37,"Dodunski, Jim",Toyota Starlet,NZ,A,NA,NA,NA,unknown
+NA,38,"Lang, Rodney",Toyota Corolla,NZ,A,NA,NA,NA,unknown
+NA,39,"Ariwa, Yoshiaki",Toyota Starlet,JP,A,NA,NA,NA,unknown
+NA,42,"Byles, Neill",Toyota Starlet,NZ,A,NA,NA,NA,unknown
+NA,44,"Tagg, Jeremy",Toyota Starlet,NZ,A,NA,NA,NA,unknown
+NA,45,"Norris, Pat",Toyota Starlet,NZ,A,NA,NA,NA,unknown
+NA,47,"Woollett, Steve",Toyota Starlet,NZ,A,NA,NA,NA,unknown
+NA,49,"Goldsmith, Hugh",Skoda 120,NZ,A,NA,NA,NA,unknown
+NA,51,"Stewart, Jim",Mitsubishi Lancer,NZ,A,NA,NA,NA,unknown
+NA,52,"Seamer, Dave",Toyota Corolla,NZ,A,NA,NA,NA,unknown
+NA,53,"Eteveneaux, Dennis",Toyota Starlet,NZ,A,NA,NA,NA,unknown
+NA,55,"Taguchi, Seiichiro",Mazda 323,JP,N,NA,NA,NA,unknown
+NA,56,"Joblin, Chris",Suzuki Swift GTI,NZ,N,NA,NA,NA,unknown
+NA,57,"Walker, Murray",Suzuki Swift GTI,NZ,N,NA,NA,NA,unknown
+NA,58,"Clarke, Chris",Nissan 1200 Pickup,NZ,B,NA,NA,NA,unknown

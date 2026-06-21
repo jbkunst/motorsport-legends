@@ -1,0 +1,38 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"Loeb, Sebastien",Citroen Xsara WRC,FR,A8,"4h 59m 38,5s",NA,NA,NA
+2,7,"Martin, Markko",Ford Focus RS WRC 04,EE,A8,"+15,1s",NA,NA,NA
+3,4,"Sainz, Carlos",Citroen Xsara WRC,ES,A8,"+2m 24,0s",NA,NA,NA
+4,1,"Solberg, Petter",Subaru Impreza WRC2004,NO,A8,"+9m 29,1s",NA,NA,NA
+5,2,"Hirvonen, Mikko",Subaru Impreza WRC2004,FI,A8,"+9m 40,9s",NA,NA,NA
+6,11,"Tuohino, Janne",Ford Focus RS WRC 02,FI,A8,"+13m 16,7s",0:10,NA,NA
+7,15,"Ginley, Alistair",Subaru Impreza,GB,A8,"+26m 43,8s",1:50,NA,NA
+8,16,"Campos, Miguel",Peugeot 206 WRC,PT,A8,"+39m 02,2s",1:30,NA,NA
+9,64,"Tsouloftas, Andreas",Mitsubishi Lancer Evo VI,CY,N4,"+40m 44,3s",0:20,NA,NA
+10,69,"Koutsakos, Kikis",Peugeot 306,CY,A7,"+1h 10m 21,1s",NA,NA,NA
+11,68,"Prodromou, Prodromos",Mitsubishi Lancer Evo IV,CY,N4,"+1h 15m 52,6s",2:20,NA,NA
+12,70,"Nikolaou, Nikos",Subaru Impreza,CY,N4,"+1h 16m 09,3s",NA,NA,NA
+13,77,"Parellis, Lakis",Opel Corsa GSi,CY,A6,"+1h 22m 53,6s",0:10,NA,NA
+14,66,"Palko, Vladimir",Mitsubishi Lancer Evo VII,SK,A8,"+1h 24m 26,9s",NA,NA,NA
+15,85,"Savva, Savvas",Peugeot 306,CY,A7,"+1h 25m 17,3s",0:20,NA,NA
+16,83,"Zakos, Georgios",Subaru Impreza,CY,A8,"+1h 26m 50,4s",1:00,NA,NA
+17,92,"Contantinou, Andreas",Subaru Impreza,CY,N4,"+1h 27m 08,9s",0:10,NA,NA
+18,81,"Tricomitis, Sotos",Suzuki Baleno,CY,A6,"+1h 33m 42,8s",NA,NA,NA
+19,86,"Nicolaou, Andreas",Suzuki Ignis,CY,A5,"+1h 59m 39,5s",2:20,NA,NA
+NA,5,"Gronholm, Marcus",Peugeot 307WRC,FI,A8,NA,NA,post event,illegal water pump
+NA,6,"Rovanpera, Harri",Peugeot 307WRC,FI,A8,NA,NA,post event,illegal water pump
+NA,8,"Duval, Francois",Ford Focus RS WRC 04,BE,A8,NA,NA,SS1,mechanical
+NA,9,"Panizzi, Gilles",Mitsubishi Lancer WRC04,FR,A8,NA,NA,TC9C,mechanical
+NA,10,"Sohlberg, Kristian",Mitsubishi Lancer WRC04,FI,A8,NA,NA,SS8,mechanical
+NA,12,"Solberg, Henning",Peugeot 206 WRC,NO,A8,NA,NA,SS17,mechanical
+NA,14,"Valimaki, Jussi",Hyundai Accent WRC,FI,A8,NA,NA,TC1A,gearbox
+NA,17,"Warmbold, Antony",Ford Focus RS WRC 02,DE,A8,NA,NA,SS11,off road
+NA,18,"Papadimitriou, Ioannis",Ford Focus WRC,GR,A8,NA,NA,SS2,mechanical
+NA,61,"Perez Companc, Luis",Peugeot 206 WRC,AR,A8,NA,NA,SS8,mechanical
+NA,63,"Peratikos, Andreas",Mitsubishi Lancer Evo VI,CY,N4,NA,NA,TC6D,mechanical
+NA,65,"Timotheou, Charalambos",Mitsubishi Lancer Evo VII,CY,N4,NA,NA,SS1,mechanical
+NA,67,"Armeftis, Christos",Mitsubishi Lancer Evo VII,CY,N4,NA,NA,TC18A,mechanical
+NA,71,"Chartoupalos, Yiotis",Mitsubishi Lancer Evo VI,CY,N4,NA,NA,SS13,mechanical
+NA,75,"Philippou, Andreas",Subaru Impreza,CY,N4,NA,NA,SS5,mechanical
+NA,78,"Christodoulou, Christos",Peugeot 306,CY,A7,NA,NA,TC9F,OTL
+NA,82,"Yiangou, Yiangos",Suzuki Baleno Kit Car,CY,A7,NA,NA,SS10,mechanical
+NA,89,"Dobson, Ken",Seat Ibiza GTi 16V,GB,A7,NA,NA,SS2,mechanical

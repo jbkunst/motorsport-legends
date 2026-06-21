@@ -1,0 +1,26 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,11,"Neuville, Thierry",Hyundai i20 Coupe WRC,BE,RC1,"3h 20m 54,6s",NA,NA,NA
+2,89,"Mikkelsen, Andreas",Hyundai i20 Coupe WRC,NO,RC1,"+48,4s",NA,NA,NA
+3,1,"Ogier, Sebastien",Citroen C3 WRC,FR,RC1,"+1m 04,8s",NA,NA,NA
+4,5,"Meeke, Kris",Toyota Yaris WRC,GB,RC1,"+1m 06,2s",0:10,NA,NA
+5,10,"Latvala, Jari-Matti",Toyota Yaris WRC,FI,RC1,"+1m 21,1s",NA,NA,NA
+6,6,"Sordo Castillo, Daniel",Hyundai i20 Coupe WRC,ES,RC1,"+1m 26,7s",NA,NA,NA
+7,3,"Suninen, Teemu",Ford Fiesta RS WRC 2017,FI,RC1,"+4m 57,3s",NA,NA,NA
+8,8,"Tanak, Ott",Toyota Yaris WRC,EE,RC1,"+14m 24,8s",0:10,NA,NA
+9,22,"Ostberg, Mads",Citroen C3,NO,RC2,"+14m 28,5s",0:10,NA,NA
+10,45,"Heller, Pedro",Ford Fiesta,CL,RC2,"+20m 14,5s",NA,NA,NA
+11,91,"Galanti, Alejandro",Toyota Etios,PY,ASN,"+27m 17,5s",NA,NA,NA
+12,41,"Guerra Latapi, Benito",Skoda Fabia,MX,RC2,"+29m 49,3s",0:20,NA,NA
+13,46,"Nobre, Paulo",Skoda Fabia,BR,RC2,"+31m 25,5s",NA,NA,NA
+14,42,"Heller, Alberto",Ford Fiesta,CL,RC2,"+34m 20,5s",NA,NA,NA
+15,21,"Greensmith, Fergus",Ford Fiesta,GB,RC2,"+35m 30,8s",NA,NA,NA
+16,44,"Katsuta, Takamoto",Ford Fiesta,JP,RC2,"+38m 26,1s",NA,NA,NA
+17,94,"Bottazzini, Guillermo",Ford Fiesta,AR,ASN,"+1h 50m 26,2s",0:30,NA,NA
+18,95,"Ibarra, Martin",Ford Fiesta,AR,ASN,"+1h 52m 05,8s",2:40,NA,NA
+19,97,"Iribarren, Jose Maria",Ford Fiesta,AR,ASN,"+1h 55m 23,8s",0:30,NA,NA
+20,96,"Harpe, Thomas",Ford Fiesta,AR,ASN,"+2h 00m 12,4s",0:10,NA,NA
+21,92,"Zarza, Sergio Oscar",Ford Fiesta,AR,ASN,"+2h 03m 36,9s",0:10,NA,NA
+NA,4,"Lappi, Esapekka",Citroen C3 WRC,FI,RC1,NA,NA,TC8C,accident
+NA,23,"Bulacia Wilkinson, Marco",Skoda Fabia,BO,RC2,NA,NA,SS9,mechanical
+NA,33,"Evans, Elfyn",Ford Fiesta RS WRC 2017,GB,RC1,NA,NA,SS10,mechanical
+NA,43,"Kajetanowicz, Kajetan",Volkswagen Polo,PL,RC2,NA,NA,TC8C,mechanical

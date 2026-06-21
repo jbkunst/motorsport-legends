@@ -1,0 +1,27 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Ogier, Sebastien",Volkswagen Polo R WRC,FR,RC1,"4h 27m 41,8s",NA,NA,NA
+2,2,"Latvala, Jari-Matti",Volkswagen Polo R WRC,FI,RC1,"+1m 12,6s",NA,NA,NA
+3,7,"Neuville, Thierry",Hyundai i20 WRC,BE,RC1,"+5m 28,6s",NA,NA,NA
+4,6,"Evans, Elfyn",Ford Fiesta RS WRC,GB,RC1,"+6m 49,3s",NA,NA,NA
+5,21,"Prokop, Martin",Ford Fiesta RS WRC,CZ,RC1,"+9m 54,4s",0:10,NA,NA
+6,11,"Guerra Latapi, Benito",Ford Fiesta RS WRC,MX,RC1,"+12m 57,6s",NA,NA,NA
+7,8,"Atkinson, Christopher",Hyundai i20 WRC,AU,RC1,"+15m 15,4s",NA,NA,NA
+8,5,"Hirvonen, Mikko",Ford Fiesta RS WRC,FI,RC1,"+17m 06,8s",NA,NA,NA
+9,4,"Ostberg, Mads",Citroen DS3 WRC,NO,RC1,"+25m 41,6s",NA,NA,NA
+10,32,"Protasov, Yuriy",Ford Fiesta,UA,RC2,"+28m 18,2s",NA,NA,NA
+11,72,"Salgado, Rodrigo",Ford Fiesta,MX,RC2,"+48m 26,1s",NA,NA,NA
+12,76,"Cordero, Ricardo",Mitsubishi Lancer Evo X,MX,RC2,"+51m 35,3s",NA,NA,NA
+13,37,"Bertelli, Lorenzo",Ford Fiesta,IT,RC2,"+52m 02,1s",NA,NA,NA
+14,33,"Rendina, Massimiliano",Mitsubishi Lancer Evo X,IT,RC2,"+52m 18,0s",1:00,NA,NA
+15,35,"Tanak, Ott",Ford Fiesta,EE,RC2,"+54m 37,4s",NA,NA,NA
+16,71,"Trivino Bujalil, Ricardo",Mitsubishi Lancer Evo X,MX,RC2,"+55m 01,5s",3:20,NA,NA
+17,38,"Linari, Gianluca",Subaru Impreza WRX,IT,RC2,"+55m 57,0s",NA,NA,NA
+18,41,"Fuchs Sierlecki, Nicolas",Ford Fiesta,PE,RC2,"+57m 45,2s",NA,NA,NA
+19,9,"Mikkelsen, Andreas",Volkswagen Polo R WRC,NO,RC1,"+1h 05m 56,8s",NA,NA,NA
+20,73,"Martinez M. R., Jorge Enrique",Subaru Impreza,PE,RC2,"+1h 17m 41,7s",1:00,NA,NA
+21,34,"Bestard Poletti, Augusto Miguel",Mitsubishi Lancer Evo X,PY,RC2,"+1h 24m 51,9s",NA,NA,NA
+22,74,"Zea Velasco, Paul",Mitsubishi Lancer Evo X,EC,RC2,"+1h 43m 59,4s",1:00,NA,NA
+23,78,"Orduna jr, Luis",Ford Fiesta,MX,RC4,"+2h 43m 11,4s",0:30,NA,NA
+NA,3,"Meeke, Kris",Citroen DS3 WRC,GB,RC1,NA,NA,SS22,accident
+NA,10,"Kubica, Robert",Ford Fiesta RS WRC,PL,RC1,NA,NA,SS13,accident
+NA,36,"Gilbert, Quentin",Ford Fiesta,FR,RC2,NA,NA,TC20,mechanical

@@ -1,0 +1,53 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,7,"Martin, Markko",Ford Focus RS WRC 04,EE,A8,"3h 40m 43,8s",NA,NA,NA
+2,5,"Gronholm, Marcus",Peugeot 307WRC,FI,A8,"+23,2s",NA,NA,NA
+3,4,"Sainz, Carlos",Citroen Xsara WRC,ES,A8,"+37,7s",NA,NA,NA
+4,18,"Sarrazin, Stephane",Subaru Impreza WRC2003,FR,A8,"+2m 50,4s",NA,NA,NA
+5,1,"Solberg, Petter",Subaru Impreza WRC2004,NO,A8,"+3m 06,7s",NA,NA,NA
+6,10,"Sola, Daniel",Mitsubishi Lancer WRC04,ES,A8,"+4m 05,7s",0:10,NA,NA
+7,14,"Galli, Gianluigi",Mitsubishi Lancer WRC04,IT,A8,"+4m 05,9s",0:10,NA,NA
+8,2,"Hirvonen, Mikko",Subaru Impreza WRC2004,FI,A8,"+4m 31,7s",NA,NA,NA
+9,12,"Gardemeister, Toni",Skoda Fabia WRC,FI,A8,"+4m 37,6s",NA,NA,NA
+10,17,"Vouilloz, Nicolas",Peugeot 206 WRC,FR,A8,"+4m 45,0s",NA,NA,NA
+11,11,"Schwarz, Armin",Skoda Fabia WRC,DE,A8,"+5m 27,0s",NA,NA,NA
+12,9,"Panizzi, Gilles",Mitsubishi Lancer WRC04,FR,A8,"+6m 48,0s",NA,NA,NA
+13,16,"Warmbold, Antony",Ford Focus RS WRC 02,DE,A8,"+9m 05,3s",NA,NA,NA
+14,39,"Bernardi, Nicolas",Renault Clio S1600,FR,A6,"+17m 24,9s",NA,NA,NA
+15,64,"Basso, Giandomenico",Fiat Punto S1600,IT,A6,"+18m 11,0s",NA,NA,NA
+16,45,"Andersson, Per-Gunnar",Suzuki Ignis S1600 5d,SE,A6,"+20m 25,7s",NA,NA,NA
+17,31,"Baldacci, Mirco",Suzuki Ignis S1600 5d,SM,A6,"+21m 22,6s",NA,NA,NA
+18,61,"O'Sullivan, Donie",Ford Focus WRC,IE,A8,"+21m 44,8s",NA,NA,NA
+19,51,"Cols, Larry",Renault Clio S1600,BE,A6,"+21m 51,7s",NA,NA,NA
+20,65,"Sordo Castillo, Daniel",Citroen C2 S1600,ES,A6,"+22m 05,2s",NA,NA,NA
+21,67,"Guigou, Emmanuel",Renault Clio,FR,A6,"+23m 05,5s",NA,NA,NA
+22,19,"Boland, Eamonn",Subaru Impreza WRC2003,IE,A8,"+23m 51,7s",0:30,NA,NA
+23,35,"Katajamaki, Kosti",Suzuki Ignis S1600 5d,FI,A6,"+24m 38,2s",NA,NA,NA
+24,72,"Ekstrom, Mattias",Mitsubishi Lancer Evo VII,SE,N4,"+26m 10,6s",NA,NA,NA
+25,36,"Meeke, Kris",Citroen C2 S1600,GB,A6,"+26m 16,0s",NA,NA,NA
+26,44,"Scorcioni, Alan",Fiat Punto S1600,IT,A6,"+27m 23,6s",NA,NA,NA
+27,34,"Broccoli, Alessandro",Fiat Punto S1600,SM,A6,"+29m 47,4s",5:30,NA,NA
+28,70,"Trivino Bujalil, Ricardo",Mitsubishi Lancer Evo VIII,MX,N4,"+31m 27,0s",1:00,NA,NA
+29,43,"Latvala, Jari-Matti",Suzuki Ignis S1600,FI,A6,"+32m 56,9s",NA,NA,NA
+30,71,"Font Guixaro, Joan",Mitsubishi Lancer Evo VI,ES,N4,"+34m 48,4s",NA,NA,NA
+31,74,"Fores, Eduard",Seat Leon Cupra R,ES,N4,"+35m 34,7s",NA,NA,NA
+32,75,"Basols, Josep",Seat Leon Cupra R,ES,N4,"+36m 42,6s",NA,NA,NA
+33,48,"Rautenbach, Conrad",Citroen Saxo S1600,ZW,A6,"+39m 34,5s",1:40,NA,NA
+34,62,"White, Paddy",Subaru Impreza,IE,A8,"+42m 10,7s",0:30,NA,NA
+35,76,"Sans, Enric",Renault Clio,ES,N3,"+47m 59,2s",1:00,NA,NA
+36,80,"Nakano, Takako",Volkswagen Polo,JP,N1,"+1h 16m 15,6",1:30,NA,NA
+NA,3,"Loeb, Sebastien",Citroen Xsara WRC,FR,A8,NA,NA,SS8,mechanical
+NA,6,"Loix, Freddy",Peugeot 307WRC,BE,A8,NA,NA,SS3,mechanical
+NA,8,"Duval, Francois",Ford Focus RS WRC 04,BE,A8,NA,NA,TC6A,mechanical
+NA,15,"Kopecky, Jan",Skoda Fabia WRC,CZ,A8,NA,NA,SS6,off road
+NA,32,"Aava, Urmo",Suzuki Ignis S1600 5d,EE,A6,NA,NA,TC10C,mechanical
+NA,33,"Wilks, Guy",Suzuki Ignis S1600 5d,GB,A6,NA,NA,SS15,mechanical
+NA,40,"Chicherit, Guerlain",Citroen Saxo S1600,FR,A6,NA,NA,SS4,accident
+NA,41,"Barratt, Natalie",Renault Clio S1600,GB,A6,NA,NA,SS6,mechanical
+NA,46,"Pons, Xavier",Renault Clio S1600,ES,A6,NA,NA,SS6,off road
+NA,47,"Tabaton, Luca",Fiat Punto S1600,IT,A6,NA,NA,SS18,off road
+NA,49,"Betti, Luca",Fiat Punto S1600,IT,A6,NA,NA,post-event,Art. 18.8.1
+NA,50,"Marshall, Oliver",Renault Clio S1600,GB,A6,NA,NA,SS14,mechanical
+NA,63,"Beltrami, Massimo",Toyota Corolla WRC,IT,A8,NA,NA,TC3A,mechanical
+NA,68,"Valousek, Pavel",Suzuki Ignis S1600,CZ,A6,NA,NA,TC3C,mechanical
+NA,73,"Martinez, Rafael",Mitsubishi Lancer Evo VII,ES,N4,NA,NA,SS11,mechanical
+NA,79,"Cobo, Julio",Citroen Saxo VTS,ES,N2,NA,NA,TC3A,mechanical

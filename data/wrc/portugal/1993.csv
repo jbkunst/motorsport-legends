@@ -1,0 +1,50 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,5,"Delecour, Francois",Ford Escort RS Cosworth,FR,A8,6h 20m 37s,NA,NA,NA
+2,2,"Biasion, Massimo",Ford Escort RS Cosworth,IT,A,+55s,NA,NA,NA
+3,6,"Aghini, Andrea",Lancia Delta HF Integrale,IT,A,+2m 40s,NA,NA,NA
+4,8,"Alen, Markku",Subaru Legacy RS,FI,A,+3m 46s,NA,NA,NA
+5,3,"Eriksson, Kenneth",Mitsubishi Lancer Evo I,SE,A,+4m 51s,NA,NA,NA
+6,12,"Fiorio, Alessandro",Lancia Delta HF Integrale,IT,A,+5m 41s,NA,NA,NA
+7,4,"McRae, Colin",Subaru Legacy RS,GB,A,+16m 48s,NA,NA,NA
+8,16,"Bica, Jorge",Lancia Delta HF Integrale,PT,A,+31m 05s,NA,NA,NA
+9,21,"Fassina, Alessandro",Mazda 323,IT,N,+51m 09s,NA,NA,NA
+10,10,"Thiry, Bruno",Opel Astra,BE,A,+51m 41s,NA,NA,NA
+11,14,"Sibera, Pavel",Skoda Favorit 136L,CZ,A,+57m 37s,NA,NA,NA
+12,25,"Coutinho, Antonio",Ford Escort RS Cosworth,PT,N,+1h 02m 07s,NA,NA,NA
+13,17,"Driano, Christine",Citroen AX,FR,A,+1h 06m 56s,NA,NA,NA
+14,27,"Fernandes, Ramiro",Lancia Delta Integrale,PT,N,+1h 23m 03s,NA,NA,NA
+15,37,"Ferreira da Cunha, Antonio",Audi Coupe S2,PT,A,+1h 26m 42s,NA,NA,NA
+16,32,"Azeredo, Pedro",Peugeot 309 GTI,PT,N,+1h 30m 39s,NA,NA,NA
+17,68,"Goncalves Pereira, Jose",Toyota Celica Turbo 4WD (ST185),PT,N,+1h 37m 53s,NA,NA,NA
+18,38,"Jorge, Antonio",Renault Clio,PT,N,+1h 42m 55s,NA,NA,NA
+19,60,"Fonseca, Luis",Ford Sierra Cosworth 4x4,PT,N,+1h 44m 02s,NA,NA,NA
+20,57,"Reininger, Stefan",Subaru Legacy,AT,N,+1h 46m 57s,NA,NA,NA
+21,56,"Ferreira, Rodrigo",Peugeot 205 GTI,PT,A,+2h 00m 54s,NA,NA,NA
+22,63,"Ruivo, Jose Manuel",Renault 11 Turbo,PT,N,+2h 04m 07s,NA,NA,NA
+23,30,"Hoshino, Mitsuru",Toyota Corolla GT,JP,A,+2h 05m 14s,NA,NA,NA
+24,47,"Magalhaes, Augusto",Ford Escort RS Cosworth,PT,N,+2h 14m 27s,NA,NA,NA
+25,41,"Rizzi, Giancarlo",Alfa Romeo 75,IT,A,+2h 15m 31s,NA,NA,NA
+26,61,"Veloso Amaral, Manuel",Lancia Delta Integrale,PT,N,+2h 31m 28s,NA,NA,NA
+27,70,"Tomaz, Manuel",Citroen AX,PT,A,+2h 34m 28s,NA,NA,NA
+28,90,"Sagnard, Richard",Peugeot 205 Rallye,FR,N,+2h 37m 21s,NA,NA,NA
+29,78,"Almeida Santos, Antonio",Honda Civic,PT,A,+2h 42m 39s,NA,NA,NA
+30,67,"Ferreira da Silva, Manuel",Renault 5 GT Turbo,PT,N,+3h 08m 13s,NA,NA,NA
+31,92,"Miranda, Jose Pedro",Renault Clio,PT,N,+3h 14m 23s,NA,NA,NA
+32,94,"Matias, Miguel",Seat Marbella GL,PT,A,+3h 38m 09s,NA,NA,NA
+NA,1,"Sainz, Carlos",Lancia Delta HF Integrale,ES,A,NA,NA,SS21,accident
+NA,7,"Schwarz, Armin",Mitsubishi Lancer Evo I,DE,A,NA,NA,SS12,accident
+NA,9,"Peres, Fernando",Ford Escort RS Cosworth,PT,A,NA,NA,SS16,accident
+NA,11,"Triner, Emil",Skoda Favorit 136L,CZ,A,NA,NA,SS33,accident
+NA,15,"Recalde, Jorge",Lancia Delta HF Integrale,AR,A,NA,NA,SS2,engine
+NA,18,"Menem Jr., Carlos",Lancia Delta HF Integrale,AR,A,NA,NA,SS20,accident
+NA,19,"bin Sulayem, Mohammed",Ford Escort RS Cosworth,AE,N,NA,NA,SS5,engine
+NA,20,"Nishiyama, Hiroshi",Nissan Sunny GTI-R,JP,N,NA,NA,SS1,accident
+NA,22,"Leite Faria, Jose Miguel",Ford Sierra Cosworth 4x4,PT,A,NA,NA,SS1,accident
+NA,23,"Macedo, Jose Carlos",Renault Clio,PT,A,NA,NA,SS27,cam belt
+NA,24,"Lopes, Adruzilo",Citroen AX,PT,A,NA,NA,SS1,halfshaft
+NA,26,"Amaral, Bento",Peugeot 309 GTI,PT,N,NA,NA,SS26,accident
+NA,28,"Meireles, Paulo",Volkswagen Golf Rallye G60,PT,A,NA,NA,SS29,unknown
+NA,31,"Valente, Helder",Ford Escort RS Cosworth,PT,N,NA,NA,SS31,lost wheel
+NA,34,"Rolo, Manuel",Renault 11 Turbo,PT,N,NA,NA,SS8,gearbox
+NA,35,"Rosenberger, Kristopher",Ford Sierra Cosworth 4x4,AT,N,NA,NA,SS9,OTL
+NA,45,"Madeira, Rui",Ford Sierra RS Cosworth,PT,N,NA,NA,SS4,head gasket

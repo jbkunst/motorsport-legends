@@ -1,0 +1,64 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,6,"Sordo Castillo, Daniel",Hyundai i20 Coupe WRC,ES,RC1,"2h 41m 37,5s",NA,NA,NA
+2,11,"Neuville, Thierry",Hyundai i20 Coupe WRC,BE,RC1,"+5,1s",NA,NA,NA
+3,17,"Ogier, Sebastien",Toyota Yaris WRC,FR,RC1,"+6,1s",NA,NA,NA
+4,33,"Evans, Elfyn",Toyota Yaris WRC,GB,RC1,"+1m 02,3s",NA,NA,NA
+5,3,"Suninen, Teemu",Ford Fiesta RS WRC 2017,FI,RC1,"+1m 33,9s",NA,NA,NA
+6,8,"Tanak, Ott",Hyundai i20 Coupe WRC,EE,RC1,"+2m 27,5s",NA,NA,NA
+7,7,"Loubet, Pierre-Louis",Hyundai i20 Coupe WRC,FR,RC1,"+4m 43,8s",NA,NA,NA
+8,30,"Huttunen, Jari",Hyundai i20,FI,RC2,"+8m 41,7s",NA,NA,NA
+9,31,"Kajetanowicz, Kajetan",Skoda Fabia,PL,RC2,"+10m 02,9s",NA,NA,NA
+10,23,"Tidemand, Pontus",Skoda Fabia,SE,RC2,"+10m 20,9s",NA,NA,NA
+11,29,"Bulacia Wilkinson, Marco",Citroen C3,BO,RC2,"+10m 49,2s",NA,NA,NA
+12,27,"Veiby, Ole Christian",Hyundai i20,NO,RC2,"+10m 49,7s",NA,NA,NA
+13,28,"Brynildsen, Eyvind",Skoda Fabia,NO,RC2,"+11m 10,6s",NA,NA,NA
+14,24,"Ostberg, Mads",Citroen C3,NO,RC2,"+12m 29,2s",NA,NA,NA
+15,22,"Prokop, Martin",Ford Fiesta RS WRC,CZ,RC1,"+12m 44,8s",NA,NA,NA
+16,40,"Scandola, Umberto",Hyundai i20,IT,RC2,"+14m 27,0s",1:30,NA,NA
+17,38,"Heller, Alberto",Ford Fiesta,CL,RC2,"+18m 18,0s",NA,NA,NA
+18,32,"Solberg, Oliver",Skoda Fabia,SE,RC2,"+18m 56,7s",NA,NA,NA
+19,56,"Kremer, Armin",Volkswagen Polo,DE,RC2,"+22m 26,4s",NA,NA,NA
+20,55,"Trentin, Mauro",Volkswagen Polo,IT,RC2,"+22m 37,2s",NA,NA,NA
+21,45,"Battistolli, Alberto",Skoda Fabia,IT,RC2,"+23m 49,2s",NA,NA,NA
+22,49,"Kristensson, Tom",Ford Fiesta,SE,RC4,"+26m 11,6s",NA,NA,NA
+23,57,"Hoelbling, Luca",Hyundai i20,IT,RC2,"+28m 31,6s",0:20,NA,NA
+24,63,'Piano',Skoda Fabia,IT,RC2,"+30m 36,9s",NA,NA,NA
+25,44,"Greensmith, Fergus",Ford Fiesta RS WRC 2017,GB,RC1,"+33m 07,1s",NA,NA,NA
+26,60,"Marrone, Francesco",Peugeot 208,IT,RC2,"+37m 02,0s",5:30,NA,NA
+27,51,"Zaldivar Zuccolillo, Fabrizio",Ford Fiesta,PY,RC4,"+37m 37,0s",NA,NA,NA
+28,61,"Biolghini, Pablo",Skoda Fabia,IT,RC2,"+38m 32,0s",NA,NA,NA
+29,43,"Bertholdo, Ulysses",Skoda Fabia,BR,RC2,"+38m 41,0s",0:10,NA,NA
+30,64,"Pozzo, Giuseppe",Skoda Fabia,IT,RC2,"+41m 34,8s",NA,NA,NA
+31,65,"Arengi Bentivoglio, Fabrizio",Skoda Fabia,IT,RC2,"+41m 53,9s",NA,NA,NA
+32,67,"Morato, Maurizio",Skoda Fabia,IT,RC2,"+42m 41,9s",NA,NA,NA
+33,59,"Squarcialupi, Massimo",Ford Fiesta,IT,RC2,"+45m 22,4s",0:20,NA,NA
+34,47,"Sesks, Martins",Ford Fiesta,LV,RC4,"+56m 07,8s",0:20,NA,NA
+35,46,"Cobbe, Luciano",Skoda Fabia,IT,RC2,"+56m 31,0s",NA,NA,NA
+36,34,"Ciamin, Nicolas",Citroen C3,FR,RC2,"+59m 44,8s",NA,NA,NA
+37,53,"Oldrati, Enrico",Ford Fiesta,IT,RC4,"+1h 03m 12,7s",NA,NA,NA
+38,36,"Fernandez Piraino, Emilio Andres",Skoda Fabia,CL,RC2,"+1h 05m 04,9s",NA,NA,NA
+39,37,"Rossel, Yohan",Citroen C3,FR,RC2,"+1h 07m 40,9s",NA,NA,NA
+40,72,"Toninelli, Wiliam",Renault Twingo,IT,RC4,"+1h 13m 53,4s",1:50,NA,NA
+41,68,"Coti Zelati, Andrea",Citroen DS3,IT,RC3,"+1h 15m 56,4s",NA,NA,NA
+42,74,"Biondi, Sergio Emiliano",Ford Fiesta,AR,RC4,"+1h 19m 38,9s",NA,NA,NA
+43,58,"Romagna, Simone",Ford Fiesta,IT,RC2,"+1h 23m 10,6s",NA,NA,NA
+44,48,"Pajari, Sami",Ford Fiesta,FI,RC4,"+1h 24m 26,3s",NA,NA,NA
+45,66,"Covi, Carlo",Skoda Fabia,IT,RC2,"+1h 33m 54,4s",0:10,NA,NA
+46,73,"Soria, Paulo",Ford Fiesta,AR,RC4,"+1h 34m 25,3s",NA,NA,NA
+47,52,"Pollara, Marco",Ford Fiesta,IT,RC4,"+1h 43m 02,0s",NA,NA,NA
+48,70,"Lambroni, Omar",Renault Clio,IT,RC3,"+1h 44m 20,8s",0:30,NA,NA
+49,75,"Bardin, Gianni",Renault Clio,IT,RC5,"+1h 58m 58,0s",1:20,NA,NA
+50,71,"Somaschini, Rachele",Citroen DS3,IT,RC3,"+2h 03m 52,1s",NA,NA,NA
+NA,4,"Lappi, Esapekka",Ford Fiesta RS WRC 2017,FI,RC1,NA,NA,SS2,mechanical
+NA,18,"Katsuta, Takamoto",Toyota Yaris WRC,JP,RC1,NA,NA,SS14,mechanical
+NA,25,"Fourmaux, Adrien",Ford Fiesta,FR,RC2,NA,NA,SS9,mechanical
+NA,26,"Gryazin, Nikolay",Hyundai i20,RU,RC2,NA,NA,TC12D,mechanical
+NA,35,"Camilli, Eric",Citroen C3,FR,RC2,NA,NA,SS7,mechanical
+NA,39,"Solans Baldo, Jan",Ford Fiesta,ES,RC2,NA,NA,SS10,mechanical
+NA,41,"Pedretti, Massimo",Ford Fiesta,IT,RC2,NA,NA,SS9,mechanical
+NA,42,"Johnston, Sean",Citroen C3,US,RC2,NA,NA,SS15,mechanical
+NA,50,"Bell, Ruairi",Ford Fiesta,GB,RC4,NA,NA,SS16,mechanical
+NA,54,"Andolfi, Fabio",Ford Fiesta,IT,RC4,NA,NA,TC1,mechanical
+NA,62,"Donetto, Gianmarco",Skoda Fabia,IT,RC2,NA,NA,TC8A,mechanical
+NA,69,"Rovanpera, Kalle",Toyota Yaris WRC,FI,RC1,NA,NA,SS8,mechanical
+NA,76,"Donadio, Raffaele",Citroen DS3,IT,RC5,NA,NA,SS16,mechanical

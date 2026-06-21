@@ -1,0 +1,17 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,4,"Eklund, Per",Saab 96 V4,SE,G4,"29,306 pts",NA,NA,NA
+2,2,"Blomqvist, Stig",Saab 96 V4,SE,G4,+96 pts,NA,NA,NA
+3,7,"Kullang, Anders",Opel Ascona,SE,G2,"+1,364 pts",NA,NA,NA
+4,3,"Lampinen, Simo",Lancia Stratos HF,FI,G4,"+2,246 pts",NA,NA,NA
+5,82,"Sundberg, Ulf",Saab 99EMS,SE,G2,"+3,009 pts",NA,NA,NA
+6,6,"Carlsson, Lars",Opel Kadett GT/E,SE,G4,"+3,160 pts",NA,NA,NA
+7,63,"Skanse, Soren",Volvo 142,SE,G4,"+3,421 pts",NA,NA,NA
+8,58,"Neby, Sven-Inge",Volvo 142,SE,G4,"+3,521 pts",NA,NA,NA
+9,163,"Gustavsson, Ake",Saab 99EMS,SE,G2,"+3,544 pts",NA,NA,NA
+10,61,"Fyhrqvist, Kaj",Opel Ascona,SE,G2,"+4,065 pts",NA,NA,NA
+NA,1,"Waldegard, Bjorn",Lancia Stratos HF,SE,G4,NA,NA,NA,accident
+NA,5,"Fiorentino, Bernard",Simca 1000,FR,G2,NA,NA,NA,sump
+NA,8,"Walfridsson, Per-Inge",Lancia Stratos HF,SE,G4,NA,NA,NA,accident
+NA,9,"Haugland, John",Skoda 130,NO,G2,NA,NA,NA,transmission
+NA,19,"Carlsson, Ingvar",BMW 2002,SE,G4,NA,NA,NA,engine
+NA,27,"Danielsson, Bror",Opel Kadett GT/E,SE,G2,NA,NA,NA,unknown

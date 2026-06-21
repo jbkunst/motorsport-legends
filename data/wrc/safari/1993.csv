@@ -1,0 +1,18 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Kankkunen, Juha",Toyota Celica Turbo 4WD (ST185),FI,A8,3h 54m,NA,NA,NA
+2,2,"Alen, Markku",Toyota Celica Turbo 4WD (ST185),FI,A,+9m,NA,NA,NA
+3,3,"Duncan, Ian",Toyota Celica Turbo 4WD (ST185),KE,A,+1h 30m,NA,NA,NA
+4,5,"Iwase, Yasuhiro",Toyota Celica Turbo 4WD (ST185),KE,A,+1h 41m,NA,NA,NA
+5,19,"Jack, Guy",Daihatsu Charade,KE,A,+3h 50m,NA,NA,NA
+6,22,"Pattni, Ashok",Daihatsu Charade,KE,A,+4h 45m,NA,NA,NA
+7,12,"Brighetti, Marco",Daihatsu Charade,KE,A,+5h 03m,NA,NA,NA
+8,11,"Stohl, Rudolf",Audi Coupe S2,AT,A,+5h 20m,NA,NA,NA
+9,17,"Shamji, Hasmat",Subaru Legacy RS,KE,N,+6h 13m,NA,NA,NA
+10,16,"Stohl, Manfred",Audi 90 quattro,AT,A,+6h 49m,NA,NA,NA
+11,21,"Aslam, Sammy",Volkswagen Golf GTi,KE,A,+7h 43m,NA,NA,NA
+12,7,"Njiru, Patrick",Subaru Vivio,KE,A,+9h 11m,NA,NA,NA
+NA,4,"Shinozuka, Kenjiro",Mitsubishi Lancer Evo I,JP,A,NA,NA,TC30,engine
+NA,6,"McRae, Colin",Subaru Vivio,GB,A,NA,NA,TC15,suspension
+NA,8,"Ishida, Masashi",Subaru Vivio,JP,A,NA,NA,TC44,head gasket
+NA,9,"Nishiyama, Hiroshi",Nissan Sunny GTI-R,JP,N,NA,NA,TC11,accident
+NA,14,"Toroitich, Jonathan",Toyota Celica GT-4 (ST165),KE,A,NA,NA,TC63,transmission

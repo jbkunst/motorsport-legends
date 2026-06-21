@@ -1,0 +1,50 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,2,"Burns, Richard",Mitsubishi Carisma GT,GB,A8,8h 57m 34s,NA,NA,NA
+2,7,"Kankkunen, Juha",Ford Escort WRC,FI,A8,+9m 27s,NA,NA,NA
+3,8,"Vatanen, Ari",Ford Escort WRC,FI,A8,+9m 52s,NA,NA,NA
+4,6,"Auriol, Didier",Toyota Corolla WRC,FR,A8,+14m 26s,NA,NA,NA
+5,11,"Rovanpera, Harri",Seat Ibiza GTi 16V Evo2,FI,A7,+2h 05m 38s,NA,NA,NA
+6,16,"Baumschlager, Raimund",Volkswagen Golf GTI 16V,AT,A7,+2h 20m 01s,NA,NA,NA
+7,18,"Climent, Luis",Mitsubishi Lancer Evo III,ES,N4,+2h 28m 03s,NA,NA,NA
+8,12,"Rosenberger, Kristopher",Volkswagen Golf GTI 16V,AT,A7,+2h 45m 47s,NA,NA,NA
+9,19,"Brighetti, Marco",Subaru Impreza 555,KE,A8,+2h 56m 01s,NA,NA,NA
+10,21,"Hirji, Karim",Toyota Celica GT-Four (ST205),UG,A8,+3h 03m 29s,NA,NA,NA
+11,14,"Stohl, Manfred",Mitsubishi Lancer Evo III,AT,N4,+3h 17m 41s,NA,NA,NA
+12,25,"Bailey, Paul",Subaru Impreza,KE,N4,+4h 38m 32s,NA,NA,NA
+13,28,"Anwar, Azar",Subaru Legacy RS,KE,N4,+4h 57m 32s,NA,NA,NA
+14,37,"Koseki, Takayuki",Subaru Forester,JP,N4,+4h 58m 36s,NA,NA,NA
+15,38,"Chager, Baldev",Subaru Legacy RS,KE,A8,+5h 12m 47s,NA,NA,NA
+16,29,"Patel, Chitranjan",Ford Escort RS Cosworth,KE,N4,+6h 05m 47s,NA,NA,NA
+17,50,"Boyd-Moss, Robin",Ford Escort RS Cosworth,GB,N4,+6h 26m 51s,NA,NA,NA
+18,36,"Wahome, Jimmy",Hyundai Coupe,KE,A7,+7h 00m 29s,NA,NA,NA
+19,40,"Kibiti, Gregory",Hyundai Coupe,KE,A7,+7h 53m 24s,NA,NA,NA
+NA,1,"Makinen, Tommi",Mitsubishi Lancer Evo IV,FI,A8,NA,NA,CS11,cambelt
+NA,3,"McRae, Colin",Subaru Impreza WRC98,GB,A8,NA,NA,CS10,engine
+NA,4,"Liatti, Piero",Subaru Impreza WRC98,IT,A8,NA,NA,CS9,engine
+NA,5,"Sainz, Carlos",Toyota Corolla WRC,ES,A8,NA,NA,CS13,suspension
+NA,9,"Katto, Emmanuel",Toyota Celica GT-Four (ST205),UG,A8,NA,NA,CS8,driveshaft
+NA,10,"Dor, Frederic",Subaru Impreza 555,FR,A8,NA,NA,CS5,turbo
+NA,15,"Gomez Marco, Oriol",Seat Ibiza GTi 16V Evo2,ES,A7,NA,NA,CS11,suspension
+NA,17,"Njiru, Patrick",Subaru Impreza,KE,N4,NA,NA,CS7,gearbox
+NA,20,"Stohl, Rudolf",Audi Coupe S2,AT,A8,NA,NA,CS13,suspension
+NA,22,"Tilbury, Mark",Nissan Pulsar GTI-R,GB,N4,NA,NA,CS9,head gasket
+NA,23,"Kuzaj, Leszek",Mitsubishi Lancer Evo III,PL,N4,NA,NA,CS11,OTL
+NA,24,"Kahumbura, Jim",Toyota Celica GT-Four (ST205),KE,N4,NA,NA,CS8,electrical
+NA,26,"Lloyd, John",Mitsubishi Lancer Evo IV,GB,A8,NA,NA,CS4,suspension
+NA,27,"Khan, Jamil",Subaru Impreza,KE,N4,NA,NA,CS9,engine
+NA,31,"Kimathi, Phineas",Hyundai Coupe,KE,A7,NA,NA,CS6,over time limit
+NA,32,"Font, Ferran",Seat Ibiza GTi 16V Evo2,AD,A7,NA,NA,CS4,sump
+NA,34,"Green, Rory",Hyundai Elantra,KE,A7,NA,NA,CS4,engine
+NA,35,"Miikkulainen, Antero",Nissan Pulsar GTI-R,FI,N4,NA,NA,CS8,engine
+NA,39,"Anwar, Asad",Daewoo Cielo,KE,N2,NA,NA,CS14,stuck
+NA,41,"Nteere, Washington",Mitsubishi Lancer Evo II,KE,A8,NA,NA,CS1,unknown
+NA,42,"Smith, Don",Ford Escort RS Cosworth,KE,A8,NA,NA,CS6,over time limit
+NA,45,"Essajee, Shadid",Mitsubishi Lancer Evo III,KE,N4,NA,NA,CS9,unknown
+NA,46,"Ndeti, Maluki",Daewoo Cielo,KE,N2,NA,NA,CS6,over time limit
+NA,47,"Murji, Shahnawaz",Subaru Impreza,GB,N4,NA,NA,CS11,over time limit
+NA,48,"Cavenagh, Alastair",Subaru Impreza,KE,N4,NA,NA,CS8,clutch
+NA,52,"Hagy, Bill",Mitsubishi Lancer Evo,KE,A8,NA,NA,CS2,unknown
+NA,53,"Gacheru, Martin",Subaru Legacy RS,KE,N4,NA,NA,CS8,engine
+NA,55,"Karwigi, Peter",Subaru Legacy RS,KE,N4,NA,NA,CS6,over time limit
+NA,56,"Sehmi, Paramjit",Subaru Impreza,KE,N4,NA,NA,CS3,unknown
+NA,57,"Jutley, Raj",Peugeot 205 GTI,KE,A7,NA,NA,CS4,unknown

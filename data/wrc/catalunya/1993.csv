@@ -1,0 +1,55 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"Delecour, Francois",Ford Escort RS Cosworth,FR,A8,5h 36m 19s,NA,NA,NA
+2,4,"Auriol, Didier",Toyota Celica Turbo 4WD (ST185),FR,A8,+1m 00s,NA,NA,NA
+3,2,"Kankkunen, Juha",Toyota Celica Turbo 4WD (ST185),FI,A8,+4m 09s,NA,NA,NA
+4,5,"Biasion, Massimo",Ford Escort RS Cosworth,IT,A8,+6m 38s,NA,NA,NA
+5,7,"Fiorio, Alessandro",Lancia Delta HF Integrale,IT,A8,+7m 48s,NA,NA,NA
+6,6,"Trelles, Gustavo",Lancia Delta HF Integrale,UY,A8,+10m 08s,1:00,NA,NA
+7,8,"Thiry, Bruno",Opel Astra,BE,A7,+27m 28s,NA,NA,NA
+8,20,"Climent, Luis",Opel Astra,ES,A8,+31m 18s,NA,NA,NA
+9,17,"Bardolet, Jose Maria",Opel Astra,ES,A8,+31m 43s,NA,NA,NA
+10,25,"Gomez Marco, Oriol",Peugeot 106,ES,A6,+42m 00s,NA,NA,NA
+11,10,"Sibera, Pavel",Skoda Favorit 136L,CZ,A5,+54m 51s,NA,NA,NA
+12,27,"Bruguera, J.",Renault Clio,ES,A7,+55m 08s,NA,NA,NA
+13,14,"Triner, Emil",Skoda Favorit 136L,CZ,A5,+55m 54s,NA,NA,NA
+14,9,"Fassina, Alessandro",Mazda 323 GT-R,IT,N4,+1h 01m 22s,NA,NA,NA
+15,57,"Serracanta, J.",Peugeot 309 GTI,ES,N3,+1h 01m 37s,NA,NA,NA
+16,44,"Azcona, Javier",Renault Clio,ES,N3,+1h 06m 51s,NA,NA,NA
+17,45,"Casasayas, Joaquim",Honda Civic,ES,N2,+1h 07m 15s,NA,NA,NA
+18,36,"Bohigas, S.",Lancia Delta HF Integrale 16v,ES,N4,+1h 10m 29s,NA,NA,NA
+19,54,"Blach, R.",Peugeot 309 GTI,ES,N3,+1h 11m 06s,NA,NA,NA
+20,52,"Azcona, Jaime",Peugeot 106,ES,N2,+1h 11m 26s,NA,NA,NA
+21,39,"Rovello, J.",Renault 5 GT Turbo,ES,A8,+1h 28m 21s,NA,NA,NA
+22,76,"Margenat, J.",Peugeot 205 Rallye,ES,N1,+1h 31m 13s,NA,NA,NA
+23,71,"Balcells, J.",Peugeot 205 Rallye,ES,N1,+1h 34m 48s,NA,NA,NA
+24,65,"Tur, A.",Renault Clio,ES,N3,+1h 39m 26s,NA,NA,NA
+25,58,"Ventura, J.",Peugeot 205 Rallye,ES,A5,+1h 40m 20s,NA,NA,NA
+26,59,"Marugan, J.L.G.",Renault Clio,ES,N3,+1h 40m 21s,4:00,NA,NA
+27,70,"Candelas, P.",Peugeot 205 Rallye,ES,N1,+1h 40m 34s,NA,NA,NA
+28,91,"Vidal, Joan",Fiat Cinquecento,ES,A4,+1h 46m 41s,NA,NA,NA
+29,60,"Garcia, I.",Renault Clio,ES,N3,+1h 48m 16s,NA,NA,NA
+30,87,"Ortiz, J.",Peugeot 205 Rallye,ES,N1,+1h 49m 11s,NA,NA,NA
+31,97,"Hernandez, J.",Seat Marbella GL,ES,A4,+2h 02m 32s,NA,NA,NA
+32,62,"Maroto, F.",Renault Clio,ES,N3,+2h 04m 14s,1:00,NA,NA
+33,90,"Calahorro, D.",Peugeot 205 Rallye,ES,N1,+2h 06m 14s,4:00,NA,NA
+34,100,"Font, J.",Seat Marbella GL,ES,A4,+2h 14m 56s,4:00,NA,NA
+35,94,"Garcia, F.",Seat Marbella GL,ES,A4,+2h 15m 54s,10:00,NA,NA
+36,98,"Abad, J.",Seat Marbella GL,ES,A4,+2h 27m 49s,NA,NA,NA
+37,101,"Parera-Nieto, L.",Seat Marbella GL,ES,A4,+2h 57m 24s,NA,NA,NA
+38,95,"Berasategi, D.",Seat Marbella GL,ES,A4,+2h 59m 50s,NA,NA,NA
+39,99,"Manzano, E.",Seat Marbella GL,ES,A4,+3h 12m 20s,3:00,NA,NA
+NA,1,"Sainz, Carlos",Lancia Delta HF Integrale,ES,A8,NA,NA,SS9,electronics
+NA,11,"bin Sulayem, Mohammed",Ford Escort RS Cosworth,AE,N4,NA,NA,SS10,transmission
+NA,12,"McKinstry, Kenny",Subaru Legacy RS,GB,A8,NA,NA,SS2,too far behind
+NA,15,"Bedini, Piergiorgio",Ford Escort RS Cosworth,IT,N4,NA,NA,SS2,unknown
+NA,16,"Coutinho, Antonio",Ford Escort RS Cosworth,PT,N4,NA,NA,post-event,scrutineering irregularities
+NA,18,"Alonso, Daniel",Ford Escort RS Cosworth,ES,N4,NA,NA,SS14,transmission
+NA,19,"Moratal, Borja",Peugeot 309 GTI,ES,A7,NA,NA,NA,unknown
+NA,21,"Cima, Francisco",Renault Clio Williams,ES,A7,NA,NA,NA,oil leak
+NA,22,"Doctor, Erwin",Opel Calibra Turbo 4x4,DE,A8,NA,NA,SS23,oil pump
+NA,23,"Pons, Jaume",BMW M3,ES,A8,NA,NA,SS8,unknown
+NA,26,"Ventura, Jordi",Lancia Delta HF Integrale,ES,N4,NA,NA,NA,gearbox
+NA,30,"Martinez-Conde, Miguel",Renault Clio,ES,A7,NA,NA,SS1,unknown
+NA,40,"Vallejo, Sergio",Peugeot 309 GTI,ES,N3,NA,NA,SS16,engine
+NA,42,"Guixeras, David",Peugeot 309 GTI,ES,N3,NA,NA,SS29,underweight seat
+NA,55,"Muniente, Manuel",Peugeot 106,ES,N2,NA,NA,SS16,gearbox

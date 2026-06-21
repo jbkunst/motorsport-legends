@@ -1,0 +1,79 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,5,"Neuville, Thierry",Hyundai i20 Coupe WRC,BE,RC1,"3h 22m 53,0s",NA,NA,NA
+2,1,"Ogier, Sebastien",Ford Fiesta RS WRC 2017,FR,RC1,"+54,7s",NA,NA,NA
+3,6,"Sordo Castillo, Daniel",Hyundai i20 Coupe WRC,ES,RC1,"+56,0s",NA,NA,NA
+4,10,"Latvala, Jari-Matti",Toyota Yaris WRC,FI,RC1,"+1m 09,6s",NA,NA,NA
+5,8,"Breen, Craig",Citroen C3 WRC,IE,RC1,"+1m 09,7s",NA,NA,NA
+6,4,"Paddon, Hayden",Hyundai i20 Coupe WRC,NZ,RC1,"+2m 16,3s",NA,NA,NA
+7,32,"Mikkelsen, Andreas",Skoda Fabia,NO,RC2,"+8m 10,7s",NA,NA,NA
+8,34,"Suninen, Teemu",Ford Fiesta,FI,RC2,"+9m 17,0s",NA,NA,NA
+9,84,"Sarrazin, Stephane",Hyundai i20,FR,RC2,"+9m 23,6s",NA,NA,NA
+10,44,"Rossel, Yohan",Citroen DS3,FR,RC2,"+12m 57,1s",NA,NA,NA
+11,2,"Tanak, Ott",Ford Fiesta RS WRC 2017,EE,RC1,"+15m 20,3s",NA,NA,NA
+12,89,"Toedtli, Jeremie",Skoda Fabia,CH,RC2,"+15m 50,0s",NA,NA,NA
+13,41,"Tempestini, Simone",Citroen DS3,IT,RC2,"+16m 13,6s",NA,NA,NA
+14,38,"Veiby, Ole Christian",Skoda Fabia,NO,RC2,"+16m 37,8s",NA,NA,NA
+15,40,"Loubet, Pierre-Louis",Ford Fiesta,FR,RC2,"+17m 24,7s",NA,NA,NA
+16,33,"Kopecky, Jan",Skoda Fabia,CZ,RC2,"+18m 10,6s",NA,NA,NA
+17,85,"Manzagol, Jean-Marc",Ford Fiesta,FR,RC2,"+20m 11,2s",NA,NA,NA
+18,21,"Dumas, Romain",Porsche 997,FR,RGT,"+22m 56,3s",NA,NA,NA
+19,22,"Delecour, Francois",Fiat 124 Abarth,FR,RGT,"+27m 40,3s",1:40,NA,NA
+20,88,"Boland, Eamonn",Ford Fiesta,IE,RC2,"+28m 45,1s",NA,NA,NA
+21,3,"Evans, Elfyn",Ford Fiesta RS WRC 2017,GB,RC1,"+28m 52,3s",NA,NA,NA
+22,61,"Astier, Raphael",Peugeot 208,FR,RC4,"+29m 25,3s",NA,NA,NA
+23,101,"Solans Baldo, Nil",Ford Fiesta,ES,RC4,"+30m 51,0s",NA,NA,NA
+24,104,"Ciamin, Nicolas",Ford Fiesta,FR,RC4,"+31m 34,5s",NA,NA,NA
+25,102,"Folb, Thierry",Ford Fiesta,FR,RC4,"+34m 52,9s",NA,NA,NA
+26,127,"Joly, Florent",Renault Clio,FR,RC3,"+35m 27,2s",NA,NA,NA
+27,82,"Vauthier, Alain",Ford Fiesta RS WRC,FR,RC1,"+40m 27,9s",NA,NA,NA
+28,31,"Camilli, Eric",Ford Fiesta,FR,RC2,"+40m 44,0s",NA,NA,NA
+29,103,"Tannert, Julius",Ford Fiesta,DE,RC4,"+40m 45,1s",NA,NA,NA
+30,83,"Marchetti, Alberto",Ford Fiesta,IT,RC2,"+40m 50,8s",NA,NA,NA
+31,81,"Pereira, Armando",Ford Fiesta RS WRC,FR,RC1,"+41m 36,2s",NA,NA,NA
+32,35,"Bergkvist, Emil",Citroen DS3,SE,RC2,"+41m 55,0s",4:00,NA,NA
+33,126,"Filippi, Eric",Renault Clio,FR,RC3,"+43m 05,7s",0:30,NA,NA
+34,138,"Cardi, Cedric",Peugeot 208,FR,RC4,"+43m 06,6s",NA,NA,NA
+35,111,"Radstrom, Dennis",Ford Fiesta,SE,RC4,"+45m 32,5s",NA,NA,NA
+36,46,"Pieniazek, Lukasz",Peugeot 208,PL,RC2,"+46m 27,0s",NA,NA,NA
+37,134,"Guibert, Jean-Christophe",Ford Fiesta,FR,RC4,"+49m 16,9s",NA,NA,NA
+38,106,"Duggan, Robert",Ford Fiesta,IE,RC4,"+49m 32,2s",NA,NA,NA
+39,130,"Trevis, Philippe",Renault Clio,FR,RC3,"+49m 46,7s",NA,NA,NA
+40,135,"Fiorini, Federico",Peugeot 208,IT,RC4,"+52m 19,4s",0:10,NA,NA
+41,139,"Capanaccia, Olivier",Peugeot 208,FR,RC4,"+52m 58,3s",NA,NA,NA
+42,112,"Careaga Campos, Sebastian",Ford Fiesta,BO,RC4,"+55m 32,1s",NA,NA,NA
+43,136,"Picchioni, Florian",Citroen C2,FR,RC4,"+56m 06,2s",0:10,NA,NA
+44,109,"van Way, Dillon",Ford Fiesta,US,RC4,"+58m 49,5s",NA,NA,NA
+45,137,"White, David",Ford Fiesta,GB,RC4,"+1h 01m 21,5s",NA,NA,NA
+46,65,"Brzezinski, Jakub",Citroen DS3,PL,RC3,"+1h 02m 50,3s",NA,NA,NA
+47,108,"Niinemae, Miko-Ove",Ford Fiesta,EE,RC4,"+1h 03m 16,6s",NA,NA,NA
+48,123,"Lauzerte, Alain",Subaru Impreza WRX,FR,ASN,"+1h 05m 30,9s",NA,NA,NA
+49,125,"Schwinn, Sebastian",Mitsubishi Lancer Evo X,DE,RC2,"1h 07m 10,2s",NA,NA,NA
+50,9,"Lefebvre, Stephane",Citroen C3 WRC,FR,RC1,"+1h 11m 57,3s",NA,NA,NA
+51,87,"Fiori, Guy",Skoda Fabia,FR,RC2,"+1h 12m 15,8s",1:50,NA,NA
+52,146,"Raynaud, Vincent",Lotus Elise,FR,ASN,"+1h 20m 35,7s",NA,NA,NA
+53,148,"Marchand, Patrick",Peugeot 106,FR,ASN,"+1h 20m 45,9s",NA,NA,NA
+54,132,"Branca, Michel",Mitsubishi Lancer Evo VIII,FR,ASN,"+1h 23m 07,9s",NA,NA,NA
+55,147,"Aiteur, Djamel",Honda Civic,FR,ASN,"+1h 23m 40,4s",NA,NA,NA
+56,145,"Cervetti, Francois",Renault Clio,FR,ASN,"+1h 25m 34,2s",NA,NA,NA
+57,149,"Villy, Jonathan",Citroen Saxo,FR,ASN,"+1h 35m 51,5s",NA,NA,NA
+58,142,"Andre, Jean Philippe",Peugeot 206,FR,ASN,"+1h 44m 11,4s",1:40,NA,NA
+NA,7,"Meeke, Kris",Citroen C3 WRC,GB,RC1,NA,NA,TC6A,mechanical
+NA,11,"Hanninen, Juho",Toyota Yaris WRC,FI,RC1,NA,NA,SS9,mechanical
+NA,36,"Bouffier, Bryan",Ford Fiesta,FR,RC2,NA,NA,SS3,mechanical
+NA,39,"Bonato, Yoann",Citroen DS3,FR,RC2,NA,NA,SS7,mechanical
+NA,43,"Koci, Martin",Skoda Fabia,SK,RC2,NA,NA,SS5,off road
+NA,45,"Pellier, Laurent",Citroen DS3,FR,RC2,NA,NA,SS7,mechanical
+NA,64,"Astier, Loic",Citroen DS3,FR,RC3,NA,NA,SS2,mechanical
+NA,86,"Succi, Jean-Francois",Ford Fiesta,FR,RC2,NA,NA,TC8F,unknown
+NA,107,"Wagner, William",Ford Fiesta,BE,RC4,NA,NA,SS7,off road
+NA,120,"Thiery, Richard",Peugeot 207 S2000,FR,ASN,NA,NA,SS7,mechanical
+NA,121,"Leandri, Jean Mathieu",Porsche 996,FR,ASN,NA,NA,TC4A,mechanical
+NA,122,"Laroche, Benjamin",Subaru Impreza WRX,FR,ASN,NA,NA,TC4E,unknown
+NA,124,"Mattei, Thierry",Mitsubishi Lancer Evo IX,FR,ASN,NA,NA,SS9,off road
+NA,128,"Nannucci, Pierre Marc",Renault Clio,FR,RC3,NA,NA,SS9,off road
+NA,129,"Couval, Guillaume",Renault Clio,FR,RC3,NA,NA,TC4E,unknown
+NA,131,"Kemp, Pierre",Renault Clio,FR,RC3,NA,NA,SS5,mechanical
+NA,133,"Rossi, Yannick",Mitsubishi Lancer Evo IX,FR,ASN,NA,NA,SS7,mechanical
+NA,141,"Favre, Patrick",Renault Clio Williams,FR,ASN,NA,NA,SS5,mechanical
+NA,143,"Mari, Alain",Renault Clio,FR,ASN,NA,NA,SS6,mechanical
+NA,144,"Cahuzac, Christophe",Renault Clio,FR,ASN,NA,NA,TC4E,unknown

@@ -1,0 +1,22 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,21,"Kankkunen, Juha",Toyota Celica Twincam Turbo,FI,B,53h 04m,NA,NA,NA
+2,3,"Waldegard, Bjorn",Toyota Celica Twincam Turbo,SE,B,+34m,NA,NA,NA
+3,17,"Kirkland, Mike",Nissan 240 RS,KE,B,+43m,NA,NA,NA
+4,2,"Aaltonen, Rauno",Opel Manta 400,FI,B,+54m,NA,NA,NA
+5,18,"Weber, Erwin",Opel Manta 400,DE,B,+1h 46m,NA,NA,NA
+6,20,"Ambrosino, Alain",Nissan 240 RS,FR,B,+2h 40m,NA,NA,NA
+7,6,"Salonen, Timo",Peugeot 205 Turbo 16,FI,B,+3h 51m,NA,NA,NA
+8,19,"Iwase, Yasuhiro",Opel Ascona 400,KE,B,+7h 04m,NA,NA,NA
+9,30,"Patel, Ashok",Nissan 240 RS,KE,B,+8h 50m,NA,NA,NA
+10,29,"Vittuli, Carlo",Subaru RX Turbo,KE,A,+10h 10m,NA,NA,NA
+NA,1,"Mikkola, Hannu",Audi quattro Sport,FI,B,NA,NA,TC20,engine
+NA,4,"Mehta, Shekhar",Nissan 240 RS,KE,B,NA,NA,TC65,accident
+NA,7,"Vatanen, Ari",Peugeot 205 Turbo 16,FI,B,NA,NA,TC65,headgasket
+NA,8,"Bettega, Attilio",Lancia Rally 037 evo,IT,B,NA,NA,TC50,engine
+NA,9,"Alen, Markku",Lancia Rally 037 evo,FI,B,NA,NA,TC15,engine
+NA,11,"Blomqvist, Stig",Audi quattro Sport,SE,B,NA,NA,TC4,gearbox
+NA,12,"Saby, Bruno",Peugeot 205 Turbo 16,FR,B,NA,NA,TC17,accident
+NA,14,"Shah, Jayant",Nissan 240 RS,KE,B,NA,NA,TC19,differential
+NA,15,"Preston Jr, Vic",Lancia Rally 037 evo,KE,B,NA,NA,TC65,wheelstuds
+NA,16,"Horsey, Dave",Toyota Celica Twincam Turbo,KE,B,NA,NA,TC7,accident
+NA,80,"Duncan, Ian",Toyota Corolla,KE,A,NA,NA,NA,suspension

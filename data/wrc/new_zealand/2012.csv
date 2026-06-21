@@ -1,0 +1,42 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Loeb, Sebastien",Citroen DS3 WRC,FR,A0,"4h 04m 51,2s",NA,NA,NA
+2,2,"Hirvonen, Mikko",Citroen DS3 WRC,FI,A0,"+29,6s",NA,NA,NA
+3,4,"Solberg, Petter",Ford Fiesta RS WRC,NO,A0,"+1m 36,4s",NA,NA,NA
+4,6,"Novikov, Evgeny",Ford Fiesta RS WRC,RU,A0,"+2m 13,6s",NA,NA,NA
+5,7,"Neuville, Thierry",Citroen DS3 WRC,BE,A0,"+2m 42,4s",NA,NA,NA
+6,37,"Sordo Castillo, Daniel",Mini John Cooper Works,ES,A0,"+3m 03,1s",NA,NA,NA
+7,3,"Latvala, Jari-Matti",Ford Fiesta RS WRC,FI,A0,"+4m 52,9s",NA,NA,NA
+8,12,"Araujo, Armindo",Mini John Cooper Works,PT,A0,"+9m 36,4s",NA,NA,NA
+9,43,"Block, Ken",Ford Fiesta RS WRC,US,A0,"+10m 30,3s",NA,NA,NA
+10,9,"Stohl, Manfred",Ford Fiesta RS WRC,AT,A0,"+11m 26,3s",NA,NA,NA
+11,16,"Ketomaa, Jari",Ford Fiesta RS WRC,FI,A0,"+12m 35,7s",NA,NA,NA
+12,31,"Paddon, Hayden",Skoda Fabia Super 2000,NZ,A2,"+15m 26,2s",NA,NA,NA
+13,51,"Mason, Richard",Subaru Impreza WRX,NZ,A3,"+15m 59,3s",0:10,NA,NA
+14,53,"Gilmour, Emma",Subaru Impreza WRX,NZ,A3,"+20m 10,4s",0:30,NA,NA
+15,56,"Jansen, Matt",Subaru Impreza WRX,NZ,A3,"+23m 47,6s",NA,NA,NA
+16,133,"Ligato, Marcos",Subaru Impreza WRX,AR,A3,"+30m 29,7s",NA,NA,NA
+17,14,"Nobre, Paulo",Mini John Cooper Works,BR,A0,"+31m 53,5s",NA,NA,NA
+18,145,"Aksa, Subhan",Mitsubishi Lancer Evo X,ID,A3,"+36m 20,5s",0:30,NA,NA
+19,142,"Trivino Bujalil, Ricardo",Mitsubishi Lancer Evo IX,MX,A3,"+37m 36,7s",0:10,NA,NA
+20,139,"Gorban, Valeriy",Mitsubishi Lancer Evo IX,UA,A3,"+38m 39,1s",0:30,NA,NA
+21,61,"Hunt, Ben",Ford Fiesta ST,NZ,A8,"+38m 39,4s",NA,NA,NA
+22,140,"Linari, Gianluca",Subaru Impreza WRX,IT,A3,"+48m 41,9s",NA,NA,NA
+23,33,"Andersson, Per-Gunnar",Proton Satria,SE,A2,"+48m 45,9s",NA,NA,NA
+24,60,"Yasunami, Yutaka",Mitsubishi Lancer Evo IX,JP,A3,"+57m 44,1s",NA,NA,NA
+25,58,"Clavel, Claude",Mitsubishi Lancer Evo X,FR,A3,"+58m 41,8s",NA,NA,NA
+26,35,"Oleksowicz, Maciej",Ford Fiesta S2000,PL,A2,"+59m 04,1s",NA,NA,NA
+27,136,"Cook, Louise",Ford Fiesta ST,GB,A8,"+1h 02m 30,1s",0:30,NA,NA
+28,36,"al-Rajhi, Yazeed",Ford Fiesta S2000,SA,A2,"+1h 05m 11,3s",NA,NA,NA
+29,57,"Green, Brian",Mitsubishi Lancer Evo X,NZ,A3,"+1h 06m 54,0s",NA,NA,NA
+30,52,"West, Chris",Mitsubishi Lancer Evo IX,NZ,A3,"+1h 09m 05,4s",0:20,NA,NA
+31,63,"Malley, Dermott",Ford Fiesta ST,NZ,A8,"+1h 09m 13,5s",NA,NA,NA
+32,66,"Izuno, Kohei",Suzuki Ignis,JP,A9,"+1h 13m 20,9s",NA,NA,NA
+33,64,"Kaseya, Motoharu",Honda Civic,JP,A5,"+1h 24m 13,4s",NA,NA,NA
+34,65,"Sato, Naru",Suzuki Ignis,JP,A9,"+1h 35m 39,9s",NA,NA,NA
+35,59,"Dalstein, Alain",Mitsubishi Lancer Evo IX,FR,A3,"+2h 37m 02,8s",0:30,NA,NA
+NA,5,"Tanak, Ott",Ford Fiesta RS WRC,EE,A0,NA,NA,SS20,off road
+NA,34,"McRae, Alister",Proton Satria,GB,A2,NA,NA,TC19,mechanical
+NA,54,"Cox, Sloan",Mitsubishi Lancer Evo X,NZ,A3,NA,NA,SS18,off road
+NA,134,"Bertelli, Lorenzo",Subaru Impreza WRX,IT,A3,NA,NA,SS11,off road
+NA,141,"Kikireshko, Oleksii",Mitsubishi Lancer Evo IX,UA,A3,NA,NA,TC15B,mechanical
+NA,144,"Karlsson, Ramona",Mitsubishi Lancer Evo X,SE,A3,NA,NA,SS15,fire

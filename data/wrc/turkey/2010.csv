@@ -1,0 +1,41 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Loeb, Sebastien",Citroen C4 WRC,FR,A8,"3h 01m 38,7s",NA,NA,NA
+2,11,"Solberg, Petter",Citroen C4 WRC,NO,A8,"+54,5s",NA,NA,NA
+3,3,"Hirvonen, Mikko",Ford Focus RS WRC 09,FI,A8,"+1m 43,4s",NA,NA,NA
+4,7,"Ogier, Sebastien",Citroen C4 WRC,FR,A8,"+3m 46,0s",NA,NA,NA
+5,8,"Raikkonen, Kimi",Citroen C4 WRC,FI,A8,"+6m 44,3s",NA,NA,NA
+6,9,"Villagra, Federico",Ford Focus RS WRC 08,AR,A8,"+7m 56,7s",NA,NA,NA
+7,5,"Wilson, Matthew",Ford Focus RS WRC 08,GB,A8,"+8m 29,8s",NA,NA,NA
+8,4,"Latvala, Jari-Matti",Ford Focus RS WRC 09,FI,A8,"+19m 44,2s",NA,NA,NA
+9,56,"Kuipers, Dennis",Ford Fiesta S2000,NL,N4,"+23m 22,2s",NA,NA,NA
+10,21,"Burkart, Aaron Nicolai",Suzuki Swift S1600,DE,A6,"+27m 04,7s",NA,NA,NA
+11,27,"Broccoli, Alessandro",Renault Clio,SM,A7,"+30m 58,4s",NA,NA,NA
+12,58,"Cetinkaya Bonnet, Burcu",Peugeot 207 S2000,TU,N4,"+32m 23,0s",NA,NA,NA
+13,57,"Cukurova, Burak",Peugeot 207 S2000,TU,N4,"+32m 33,8s",NA,NA,NA
+14,60,"Oztemir, Serhat",Mitsubishi Lancer Evo IX,TU,N4,"+33m 20,0s",NA,NA,NA
+15,22,"Abbring, Kevin",Renault Clio,NL,A7,"+36m 48,4s",NA,NA,NA
+16,26,"Slavov, Todor",Renault Clio,BG,A7,"+41m 59,6s",NA,NA,NA
+17,65,"Plangi, Siim",Honda Civic,EE,A7,"+43m 20,1s",0:30,NA,NA
+18,28,"Hunt, Harry",Ford Fiesta,GB,A6,"+45m 45,6s",NA,NA,NA
+19,67,"Yurdakul, Emre",Ford Fiesta,TU,A6,"+47m 28,9s",NA,NA,NA
+20,69,"Bostanci, Murat",Ford Fiesta,TU,N3,"+47m 35,7s",1:20,NA,NA
+21,72,"Kucuksari, Adil",Renault Clio,TU,A7,"+47m 57,8s",NA,NA,NA
+22,68,"Breen, Craig",Ford Fiesta,IE,N3,"+51m 28,9s",0:10,NA,NA
+23,70,"Avcioglu, Orhan",Ford Fiesta,TU,A6,"+52m 25,2s",NA,NA,NA
+24,43,"Block, Ken",Ford Focus RS WRC 08,US,A8,"+55m 48,5s",NA,NA,NA
+25,6,"Solberg, Henning",Ford Focus RS WRC 08,NO,A8,"+56m 03,6s",NA,NA,NA
+26,38,"Paddon, Hayden",Mitsubishi Lancer Evo X,NZ,N4,"+1h 04m 48,4s",NA,NA,NA
+27,39,"Raschi, Alex",Mitsubishi Lancer Evo X,SM,N4,"+1h 05m 44,7s",2:20,NA,NA
+28,55,"Avci, Yagiz",Ford Fiesta S2000,TU,N4,"+1h 05m 50,6s",NA,NA,NA
+29,36,"Georgiou, Nicholai",Mitsubishi Lancer Evo X,LB,N4,"+1h 15m 21,9s",NA,NA,NA
+30,73,"Fischer, Daniel",Ford Fiesta ST,HU,N3,"+1h 20m 08,1s",NA,NA,NA
+31,30,"Kruuda, Karl",Suzuki Swift S1600,EE,A6,"+1h 24m 04,8s",0:20,NA,NA
+32,66,"Kangur, Martin",Honda Civic,EE,A7,"+1h 31m 48,3s",NA,NA,NA
+NA,2,"Sordo Castillo, Daniel",Citroen C4 WRC,ES,A8,NA,NA,SS21,unknown
+NA,29,"Neuville, Thierry",Citroen C2 S1600,BE,A6,NA,NA,SS10,unknown
+NA,37,"Horsey, Peter",Mitsubishi Lancer Evo X,KE,N4,NA,NA,SS2,fire
+NA,40,"Tanak, Ott",Mitsubishi Lancer Evo X,EE,N4,NA,NA,SS20,unknown
+NA,61,"Dettori, Giuseppe",Mitsubishi Lancer Evo IX,IT,N4,NA,NA,TC9E,unknown
+NA,62,"Saluk, Aleksandr",Mitsubishi Lancer Evo IX,UA,N4,NA,NA,TC17E,unknown
+NA,63,"Ates, Halim",Mitsubishi Lancer Evo IX,TU,N4,NA,NA,TC9E,unknown
+NA,71,"Henriksson, Victor",Ford Fiesta,SE,A6,NA,NA,SS22,unknown

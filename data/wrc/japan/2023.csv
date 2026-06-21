@@ -1,0 +1,36 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,33,"Evans, Elfyn",Toyota GR Yaris Rally1,GB,Rally1,"3h 32m 08,8s",NA,NA,NA
+2,17,"Ogier, Sebastien",Toyota GR Yaris Rally1,FR,Rally1,"+1m 17,7s",1:00,NA,NA
+3,69,"Rovanpera, Kalle",Toyota GR Yaris Rally1,FI,Rally1,"+1m 46,5s",NA,NA,NA
+4,4,"Lappi, Esapekka",Hyundai i20 N Rally1,FI,Rally1,"+2m 50,3s",NA,NA,NA
+5,18,"Katsuta, Takamoto",Toyota GR Yaris Rally1,JP,Rally1,"+3m 10,3s",NA,NA,NA
+6,8,"Tanak, Ott",Ford Puma Rally1,EE,Rally1,"+3m 28,3s",NA,NA,NA
+7,20,"Mikkelsen, Andreas",Skoda Fabia,NO,Rally2,"+7m 33,7s",NA,NA,NA
+8,21,"Gryazin, Nikolay",Skoda Fabia,RU,Rally2,"+8m 49,6s",NA,NA,NA
+9,22,"Kajetanowicz, Kajetan",Skoda Fabia,PL,Rally2,"+19m 25,9s",NA,NA,NA
+10,35,"Arai, Hiroki",Peugeot 208,JP,Rally4,"+22m 22,7s",NA,NA,NA
+11,26,"Fukunaga, Osamu",Skoda Fabia,JP,Rally2,"+24m 39,0s",NA,NA,NA
+12,25,"Chwist, Daniel",Skoda Fabia,PL,Rally2,"+27m 53,0s",NA,NA,NA
+13,11,"Neuville, Thierry",Hyundai i20 N Rally1,BE,Rally1,"+28m 04,7s",NA,NA,NA
+14,28,"Boland, Eamonn",Citroen C3,IE,Rally2,"+28m 38,6s",NA,NA,NA
+15,36,"Shinkai, Tomoyuki",Toyota Yaris,JP,ASN,"+35m 41,6s",0:10,NA,NA
+16,39,"Murata, Kohsuke",Toyota Yaris,JP,ASN,"+39m 48,8s",NA,NA,NA
+17,40,"Yamamoto, Yuta",Toyota GT86,JP,ASN,"+46m 59,7s",0:10,NA,NA
+18,29,"Diaz-Aboitiz, Miguel",Skoda Fabia,ES,Rally2,"+1h 00m 30,4s",NA,NA,NA
+19,41,"Kunisawa, Mitsuhiro",Renault Clio,JP,Rally5,"+1h 04m 54,3s",NA,NA,NA
+20,44,"Nakayama, Tohru",Toyota Yaris,JP,ASN,"+1h 10m 16,3s",1:00,NA,NA
+21,37,"Sasaki, Yasuyuki",Toyota Yaris,JP,ASN,"+1h 30m 37,0s",NA,NA,NA
+22,31,"Bailey, Jason",Ford Fiesta,CA,Rally3,"+1h 30m 56,9s",3:00,NA,NA
+23,49,"Aihara, Taisuke",Daihatsu Copen,JP,ASN,"+1h 34m 15,1s",0:20,NA,NA
+24,30,"Imai, Satoshi",Citroen C3,JP,Rally2,"+1h 47m 22,9s",NA,NA,NA
+25,38,"Hotta, Makoto",Toyota Yaris,JP,ASN,"+1h 48m 13,2s",1:00,NA,NA
+26,46,"Hagiwara, Yasunori",Subaru WRX,JP,ASN,"+1h 51m 02,6s",5:30,NA,NA
+27,45,"Takata, Koji",Toyota Yaris,JP,ASN,"+2h 23m 00,7s",2:10,NA,NA
+28,48,"Shimizu, Hiroyasu",Toyota Yaris,JP,ASN,"+2h 25m 34,3s",NA,NA,NA
+NA,6,"Sordo Castillo, Daniel",Hyundai i20 N Rally1,ES,Rally1,NA,NA,SS2,accident
+NA,16,"Fourmaux, Adrien",Ford Puma Rally1,FR,Rally1,NA,NA,SS2,accident
+NA,23,"Kovalainen, Heikki",Skoda Fabia,FI,Rally2,NA,NA,SS14,mechanical
+NA,24,"Munster, Gregoire",Ford Fiesta,LU,Rally2,NA,NA,SS20,mechanical
+NA,32,"Katsuta, Norihiko",Toyota Yaris,JP,ASN,NA,NA,SS8,accident
+NA,34,"Arai, Toshihiro",Subaru WRX,JP,ASN,NA,NA,SS19,mechanical
+NA,47,"Irie, Satoshi",Toyota Vitz,JP,ASN,NA,NA,SS22,mechanical

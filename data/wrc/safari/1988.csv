@@ -1,0 +1,18 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,6,"Biasion, Massimo",Lancia Delta Integrale,IT,A8,2h 54m 04s,NA,NA,NA
+2,18,"Kirkland, Mike",Nissan 200SX,KE,A,+12m 53s,NA,NA,NA
+3,14,"Eklund, Per",Nissan 200SX,SE,A,+47m 22s,NA,NA,NA
+4,7,"Eriksson, Kenneth",Toyota Supra Turbo,SE,A,+1h 02m 42s,NA,NA,NA
+5,2,"Kankkunen, Juha",Toyota Supra Turbo,FI,A,+1h 25m 18s,NA,NA,NA
+6,15,"Duncan, Ian",Subaru RX Turbo,KE,A,+1h 37m 30s,NA,NA,NA
+7,8,"Waldegard, Bjorn",Toyota Supra Turbo,SE,A,+1h 38m 27s,NA,NA,NA
+8,17,"Stohl, Rudolf",Audi Coupe,AT,A,+1h 59m 05s,NA,NA,NA
+9,9,"Bourne, Peter",Subaru RX Turbo,NZ,A,+4h 32m 46s,NA,NA,NA
+10,40,"Heather-Hayes, Jim",Nissan March Turbo,KE,A,+6h 34m 38s,NA,NA,NA
+NA,1,"Weber, Erwin",Volkswagen Golf GTi,DE,A,NA,NA,TC44,steering
+NA,3,"Mikkola, Hannu",Opel Kadett GSi,FI,A,NA,NA,TC17,engine
+NA,5,"Torph, Lars-Erik",Volkswagen Golf GTi,SE,A,NA,NA,TC18,engine
+NA,10,"Haider, Josef",Opel Kadett GSi,AT,A,NA,NA,TC42,engine
+NA,12,"Hellier, John",Ford Sierra RS Cosworth,KE,A,NA,NA,TC72,sump
+NA,16,"Ambrosino, Alain",Nissan 200SX,FR,A,NA,NA,TC26,co-driver injury
+NA,20,"Preston Jr, Vic",Lancia Delta Integrale,KE,A,NA,NA,TC27,differential

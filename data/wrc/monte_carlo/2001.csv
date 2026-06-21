@@ -1,0 +1,57 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,7,"Makinen, Tommi",Mitsubishi Lancer Evo 6.5,FI,A8,"4h 38m 04,3s",NA,NA,NA
+2,3,"Sainz, Carlos",Ford Focus RS WRC 01,ES,A8,"+1m 00,8s",NA,NA,NA
+3,17,"Delecour, Francois",Ford Focus RS WRC 01,FR,A8,"+2m 05,3s",0:10,NA,NA
+4,11,"Schwarz, Armin",Skoda Octavia WRC Evo2,DE,A8,"+2m 26,0s",NA,NA,NA
+5,19,"Gardemeister, Toni",Peugeot 206 WRC,FI,A8,"+5m 52,1s",NA,NA,NA
+6,8,"Loix, Freddy",Mitsubishi Carisma GT,BE,A8,"+6m 25,9s",1:10,NA,NA
+7,10,"McRae, Alister",Hyundai Accent WRC,GB,A8,"+9m 04,0s",0:50,NA,NA
+8,12,"Thiry, Bruno",Skoda Octavia WRC Evo2,BE,A8,"+13m 55,0s",0:20,NA,NA
+9,44,"Gillet, Olivier",Mitsubishi Lancer Evo VI,CH,N4,"+16m 23,9s",NA,NA,NA
+10,23,"Stohl, Manfred",Mitsubishi Lancer Evo VI,AT,N4,"+17m 50,3s",NA,NA,NA
+11,24,"Trelles, Gustavo",Mitsubishi Lancer Evo VI,UY,N4,"+18m 37,2s",NA,NA,NA
+12,26,"Pozzo, Gabriel",Mitsubishi Lancer Evo VI,AR,N4,"+19m 10,6s",NA,NA,NA
+13,54,"Ligato, Marcos",Mitsubishi Lancer Evo VI,AR,N4,"+23m 36,9s",NA,NA,NA
+14,20,"Bugalski, Philippe",Citroen Saxo,FR,A6,"+25m 24,1s",NA,NA,NA
+15,37,"Loeb, Sebastien",Citroen Saxo,FR,A6,"+27m 09,9s",0:40,NA,NA
+16,53,"Truphemus, David",Mitsubishi Lancer Evo VI,FR,N4,"+33m 19,4s",NA,NA,NA
+17,61,"Mercier, Eddie",Renault Clio,FR,N3,"+33m 41,1s",NA,NA,NA
+18,39,"Pellerey, Alain",Citroen Saxo,FR,A6,"+40m 45,8s",0:10,NA,NA
+19,57,"Arnaud, Christophe",Renault Clio,FR,N3,"+41m 31,5s",NA,NA,NA
+20,31,"Errani, Riccardo",Subaru Impreza,IT,A8,"+42m 03,6s",0:30,NA,NA
+21,49,"Colsoul, Bob",Mitsubishi Lancer Evo,BE,N4,"+59m 50,9s",1:10,NA,NA
+22,36,"Jaussaud, Bernard",Renault Clio Williams,FR,A7,"+1h 06m 01,2s",0:20,NA,NA
+23,59,"Maniccia, Frederic",Renault Clio,FR,N3,"+1h 06m 10,9s",1:20,NA,NA
+24,40,"Macaluso, Massimo",Fiat Punto,IT,A6,"+1h 08m 39,7s",0:20,NA,NA
+25,35,"Robaglia, Lionel",Renault Clio Williams,FR,A7,"+1h 15m 24,8s",NA,NA,NA
+26,64,"Dessi, Marc",Peugeot 205 GTi,MC,N3,"+1h 29m 43,8s",1:20,NA,NA
+27,38,"Macaluso, Stefano",Fiat Punto S1600,IT,A6,"+1h 39m 58,0s",0:40,NA,NA
+NA,1,"Gronholm, Marcus",Peugeot 206WRC (2000),FI,A8,NA,NA,SS2,water pump
+NA,2,"Auriol, Didier",Peugeot 206WRC (2000),FR,A8,NA,NA,SS4,lost wheel
+NA,4,"McRae, Colin",Ford Focus RS WRC 01,GB,A8,NA,NA,SS12,mechanical
+NA,5,"Burns, Richard",Subaru Impreza WRC2001,GB,A8,NA,NA,TC6B,did not restart Leg 2
+NA,6,"Martin, Markko",Subaru Impreza WRC2001,EE,A8,NA,NA,SS1,electrical
+NA,9,"Liatti, Piero",Hyundai Accent WRC,IT,A8,NA,NA,SS1,engine
+NA,16,"Panizzi, Gilles",Peugeot 206WRC (2000),FR,A8,NA,NA,SS3,accident
+NA,18,"Solberg, Petter",Subaru Impreza WRC2001,NO,A8,NA,NA,SS5,off road
+NA,21,"Puras, Jesus",Citroen Saxo,ES,A6,NA,NA,SS4,mechanical
+NA,22,"Longhi, Piero",Toyota Corolla WRC,IT,A8,NA,NA,SS2,off road
+NA,25,"Galli, Gianluigi",Mitsubishi Lancer Evo VI,IT,N4,NA,NA,SS12,mechanical
+NA,27,"Maselli, Andrea",Fiat Punto,IT,A6,NA,NA,SS7,illegal service
+NA,28,"Burri, Olivier",Toyota Corolla WRC,CH,A8,NA,NA,SS12,mechanical
+NA,30,"Zanchi, Pierlorenzo",Toyota Corolla WRC,IT,A8,NA,NA,SS1,mechanical
+NA,32,"Cavallini, Tobia",Subaru Impreza,IT,A8,NA,NA,SS4,off road
+NA,33,"Hein, Richard",Subaru Impreza,MC,A8,NA,NA,SS14,transmission
+NA,41,"Saunier, Bruno",Citroen Saxo,FR,A6,NA,NA,SS3,off road
+NA,42,"Bengue, Alexandre",Peugeot 106,FR,A6,NA,NA,SS3,accident
+NA,45,"Manfrinato, Giovanni",Mitsubishi Lancer Evo VI,IT,N4,NA,NA,SS2,mechanical
+NA,46,"Gassner, Hermann",Proton Pert,DE,N4,NA,NA,SS11,mechanical
+NA,47,"Baldini, Luca",Mitsubishi Lancer Evo VI,IT,N4,NA,NA,SS3,off road
+NA,48,"Menegatto, Marco",Mitsubishi Lancer Evo VI,IT,N4,NA,NA,SS4,mechanical
+NA,50,"Rouit, Patrice",Mitsubishi Lancer Evo III,FR,N4,NA,NA,SS11,mechanical
+NA,52,"Cangani, Norberto",Mitsubishi Lancer Evo VI,IT,N4,NA,NA,SS1,mechanical
+NA,58,"Vouilloz, Nicolas",Renault Clio,FR,N3,NA,NA,SS4,mechanical
+NA,60,"Barth, Jurgen",Opel Astra,DE,N3,NA,NA,SS4,mechanical
+NA,62,"Ressegaire, Nicolas",Renault Clio,FR,N3,NA,NA,SS1,off road
+NA,63,"Cadringher, Gabriele",Opel Astra,IT,N3,NA,NA,SS3,mechanical
+NA,65,"Courmontagne, Jacques",Peugeot 106,FR,N1,NA,NA,SS1,off road

@@ -1,0 +1,23 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,5,"Neuville, Thierry",Hyundai i20 Coupe WRC,BE,RC1,"3h 38m 10,0s",NA,NA,NA
+2,3,"Evans, Elfyn",Ford Fiesta RS WRC 2017,GB,RC1,"+0,7s",NA,NA,NA
+3,2,"Tanak, Ott",Ford Fiesta RS WRC 2017,EE,RC1,"+29,9s",NA,NA,NA
+4,1,"Ogier, Sebastien",Ford Fiesta RS WRC 2017,FR,RC1,"+1m 24,7s",NA,NA,NA
+5,10,"Latvala, Jari-Matti",Toyota Yaris WRC,FI,RC1,"+1m 48,1s",NA,NA,NA
+6,4,"Paddon, Hayden",Hyundai i20 Coupe WRC,NZ,RC1,"+7m 42,7s",NA,NA,NA
+7,11,"Hanninen, Juho",Toyota Yaris WRC,FI,RC1,"+11m 16,9s",NA,NA,NA
+8,6,"Sordo Castillo, Daniel",Hyundai i20 Coupe WRC,ES,RC1,"+14m 44,1s",NA,NA,NA
+9,14,"Ostberg, Mads",Ford Fiesta RS WRC 2017,NO,RC1,"+15m 11,3s",NA,NA,NA
+10,31,"Tidemand, Pontus",Skoda Fabia,SE,RC2,"+17m 32,1s",NA,NA,NA
+11,36,"Alonso, Juan Carlos",Skoda Fabia,AR,RC2,"+27m 43,4s",NA,NA,NA
+12,32,"Guerra Latapi, Benito",Skoda Fabia,MX,RC2,"+1h 00m 37,6s",NA,NA,NA
+13,35,"Saba Rodriguez, Gustavo",Skoda Fabia,PY,RC2,"+1h 07m 46,7s",NA,NA,NA
+14,34,"Ptaszek, Hubert",Skoda Fabia,PL,RC2,"+1h 09m 59,6s",1:50,NA,NA
+15,82,"Frisiero, Fabio",Ford Fiesta,IT,RC2,"+1h 47m 04,9s",NA,NA,NA
+16,87,"Castro, Carlos Horacio",Ford Fiesta,AR,ASN,"+2h 58m 24,4s",1:10,NA,NA
+17,83,"Biondi, Sergio Emiliano",Volkswagen Gol,AR,ASN,"+3h 43m 12,1s",NA,NA,NA
+NA,7,"Meeke, Kris",Citroen C3 WRC,GB,RC1,NA,NA,SS14,accident
+NA,8,"Breen, Craig",Citroen C3 WRC,IE,RC1,NA,NA,TC18C,mechanical
+NA,15,"Gorban, Valeriy",Mini John Cooper Works,UA,RC1,NA,NA,SS4,mechanical
+NA,33,"Heller, Pedro",Ford Fiesta,CL,RC2,NA,NA,SS18,mechanical
+NA,37,"Bertelli, Lorenzo",Ford Fiesta RS WRC,IT,RC1,NA,NA,SS17,me

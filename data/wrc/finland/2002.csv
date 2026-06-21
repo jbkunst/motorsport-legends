@@ -1,0 +1,78 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,2,"Gronholm, Marcus",Peugeot 206WRC (2002),FI,A8,"3h 17m 52,5s",NA,NA,NA
+2,1,"Burns, Richard",Peugeot 206WRC (2002),GB,A8,"+1m 27,3s",0:20,NA,NA
+3,11,"Solberg, Petter",Subaru Impreza WRC2002,NO,A8,"+2m 49,6s",NA,NA,NA
+4,4,"Sainz, Carlos",Ford Focus RS WRC 02,ES,A8,"+2m 53,8s",0:10,NA,NA
+5,6,"Martin, Markko",Ford Focus RS WRC 02,EE,A8,"+3m 10,0s",0:10,NA,NA
+6,10,"Makinen, Tommi",Subaru Impreza WRC2002,FI,A8,"+4m 34,1s",NA,NA,NA
+7,25,"Lindholm, Sebastian",Peugeot 206 WRC,FI,A8,"+5m 36,4s",NA,NA,NA
+8,9,"Paasonen, Jani",Mitsubishi Lancer WRC Step 2,FI,A8,"+5m 55,3s",NA,NA,NA
+9,18,"Loix, Freddy",Hyundai Accent WRC3,BE,A8,"+6m 07,8s",NA,NA,NA
+10,21,"Loeb, Sebastien",Citroen Xsara WRC,FR,A8,"+6m 13,6s",NA,NA,NA
+11,28,"Tuohino, Janne",Ford Focus RS WRC 01,FI,A8,"+7m 11,9s",NA,NA,NA
+12,15,"Gardemeister, Toni",Skoda Octavia WRC Evo3,FI,A8,"+7m 12,0s",1:00,NA,NA
+13,17,"Schwarz, Armin",Hyundai Accent WRC3,DE,A8,"+8m 08,2s",0:10,NA,NA
+14,33,"Salonen, Timo",Peugeot 206 WRC,FI,A8,"+17m 20,8s",NA,NA,NA
+15,35,"Viita, Jari",Ford Focus RS WRC 01,FI,A8,"+19m 19,3s",NA,NA,NA
+16,110,"Miettinen, Jarkko",Mitsubishi Lancer Evo VI,FI,N4,"+22m 10,8s",NA,NA,NA
+17,117,"Svedlund, Oscar",Mitsubishi Lancer Evo VI,SE,N4,"+23m 35,0s",NA,NA,NA
+18,53,"Fiorio, Alessandro",Mitsubishi Lancer Evo VII,IT,N4,"+24m 49,3s",NA,NA,NA
+19,112,"Laatunen, Teemu",Mitsubishi Lancer Evo VII,FI,N4,"+27m 39,5s",NA,NA,NA
+20,75,"Sohlberg, Kristian",Mitsubishi Lancer Evo VII,FI,N4,"+27m 58,4s",NA,NA,NA
+21,119,"Hirvonen, Mikko",Renault Clio S1600,FI,A6,"+28m 04,4s",0:10,NA,NA
+22,74,"Singh, Karamjit",Proton Pert,MY,N4,"+29m 18,9s",0:30,NA,NA
+23,55,"Girdauskas, Saulius",Mitsubishi Lancer Evo VI,LT,N4,"+32m 09,0s",NA,NA,NA
+24,77,"de Dominicis, Alfredo",Mitsubishi Lancer Evo VII,IT,N4,"+33m 48,7s",NA,NA,NA
+25,125,"Sipila, Juha",Mitsubishi Lancer Evo V,FI,N4,"+38m 00,3s",1:20,NA,NA
+26,69,"Kollevold, Bernt",Mitsubishi Lancer Evo VI,NO,N4,"+40m 18,0s",0:50,NA,NA
+27,113,"Teuronen, Ville-Pertti",Mitsubishi Carisma GT,FI,N4,"+43m 30,2s",NA,NA,NA
+28,129,"Khanovich, Alexey",Mitsubishi Lancer Evo VI,RU,N4,"+50m 37,6s",1:10,NA,NA
+29,130,"Salminen, Jyrki",Mitsubishi Lancer Evo VII,FI,N4,"+56m 06,0s",0:20,NA,NA
+30,131,"de Sanctis, Fabrizio",Mitsubishi Lancer Evo VI,IT,A8,"+1h 06m 49,3s",0:40,NA,NA
+NA,3,"Rovanpera, Harri",Peugeot 206WRC (2002),FI,A8,NA,NA,TC14,lost wheel
+NA,5,"McRae, Colin",Ford Focus RS WRC 02,GB,A8,NA,NA,TC21,car on fire
+NA,7,"Delecour, Francois",Mitsubishi Lancer WRC Step 2,FR,A8,NA,NA,SS9,suspension
+NA,8,"McRae, Alister",Mitsubishi Lancer WRC Step 2,GB,A8,NA,NA,SS18,rear suspension
+NA,14,"Eriksson, Kenneth",Skoda Octavia WRC Evo3,SE,A8,NA,NA,TC6A,out of fuel
+NA,19,"Kankkunen, Juha",Hyundai Accent WRC3,FI,A8,NA,NA,SS11,rolled
+NA,20,"Radstrom, Thomas",Citroen Xsara WRC,SE,A8,NA,NA,SS21,off road
+NA,24,"Duval, Francois",Ford Focus RS WRC 02,BE,A8,NA,NA,SS9,suspension damage
+NA,26,"Kremer, Armin",Ford Focus RS WRC 01,DE,A8,NA,NA,SS4,mechanical
+NA,27,"Pykalisto, Juuso",Peugeot 206 WRC,FI,A8,NA,NA,SS6,gearbox
+NA,30,"Valimaki, Jussi",Toyota Corolla WRC,FI,A8,NA,NA,SS16,mechanical
+NA,31,"Solberg, Henning",Toyota Corolla WRC,NO,A8,NA,NA,SS6,mechanical
+NA,32,"Kuistila, Kaj",Mitsubishi Lancer Evo 6.5,FI,A8,NA,NA,SS12,off road
+NA,34,"Kuchar, Tomasz",Toyota Corolla WRC,PL,A8,NA,NA,SS3,off road
+NA,36,"Aava, Urmo",Ford Focus WRC,EE,A8,NA,NA,SS4,off road
+NA,52,"Ligato, Marcos",Mitsubishi Lancer Evo VII,AR,N4,NA,NA,SS13,engine
+NA,54,"Ferreyros, Ramon",Mitsubishi Lancer Evo VII,PE,N4,NA,NA,SS12,mechanical
+NA,65,"Harrach, Beppo",Mitsubishi Lancer Evo VI,AT,N4,NA,NA,SS12,off road
+NA,66,"Iliev, Dimitar",Mitsubishi Lancer Evo VII,BG,N4,NA,NA,SS14,mechanical
+NA,67,"Ipatti, Marko",Mitsubishi Carisma GT,FI,N4,NA,NA,SS4,mechanical
+NA,70,"Manfrinato, Giovanni",Mitsubishi Lancer Evo VII,IT,N4,NA,NA,SS9,mechanical
+NA,72,"Roman, Joakim",Mitsubishi Lancer Evo V,SE,N4,NA,NA,SS5,off road
+NA,73,"Rowe, Martin",Mitsubishi Lancer Evo VII,GB,N4,NA,NA,SS6,mechanical
+NA,76,"Valousek, Pavel",Mitsubishi Lancer Evo VII,CZ,N4,NA,NA,SS3,off road
+NA,102,"Ampuja, Jouni",Mitsubishi Lancer Evo VI,FI,N4,NA,NA,SS9,mechanical
+NA,103,"Salo, Juha",Mitsubishi Lancer Evo VII,FI,N4,NA,NA,SS15,mechanical
+NA,104,"Ketomaki, Jukka",Mitsubishi Lancer Evo VII,FI,N4,NA,NA,TC10B,unknown
+NA,105,"Carlsson, Daniel",Mitsubishi Lancer Evo VII,SE,N4,NA,NA,SS7,electrical
+NA,106,"Ketomaa, Jari",Subaru Impreza WRX,FI,N4,NA,NA,SS6,mechanical
+NA,107,"Hellman, Juha",Mitsubishi Lancer Evo VI,FI,N4,NA,NA,SS21,mechanical
+NA,108,"Laivola, Ari",Mitsubishi Lancer Evo VII,FI,N4,NA,NA,SS4,off road
+NA,109,"Hotanen, Hannu",Mitsubishi Lancer Evo VII,FI,N4,NA,NA,SS11,mechanical
+NA,111,"Kakko, Marko",Mitsubishi Lancer Evo IV,FI,N4,NA,NA,SS7,mechanical
+NA,114,"Rantakari, Pekka",Mitsubishi Lancer Evo VII,FI,A8,NA,NA,SS14,off road
+NA,115,"Sola, Daniel",Mitsubishi Lancer Evo V,ES,N4,NA,NA,SS3,electrical
+NA,116,"Kalliomaa, Sakari",Mitsubishi Lancer Evo VII,FI,N4,NA,NA,SS15,engine
+NA,118,"Tirabassi, Brice",Mitsubishi Lancer Evo VI,FR,N4,NA,NA,SS9,mechanical
+NA,120,"Kangas, Juha",Suzuki Ignis S1600,FI,A6,NA,NA,SS13,off road
+NA,122,"Hakkinen, Juha",Peugeot 206,FI,A6,NA,NA,SS6,mechanical
+NA,123,"Malteskog, Patrik",Mitsubishi Lancer Evo VI,SE,N4,NA,NA,SS12,off road
+NA,124,"Uronen, Petri",Mitsubishi Lancer Evo VII,FI,N4,NA,NA,SS3,mechanical
+NA,127,"Myrvang, Tom",Mitsubishi Lancer Evo VI,NO,N4,NA,NA,SS21,mechanical
+NA,128,"Hollie, Lars",Subaru Impreza WRX,NO,N4,NA,NA,SS6,engine
+NA,132,"Pasanen, Juha",Mitsubishi Lancer Evo IV,FI,N4,NA,NA,SS4,mechanical
+NA,133,"Karttunen, Teppo",Mitsubishi Lancer Evo VII,FI,N4,NA,NA,SS3,off road
+NA,135,"Scandola, Graziano",Subaru Impreza WRX,IT,N4,NA,NA,SS7,off road
+NA,136,"Nicolini, Pio",Subaru Impreza WRX,IT,N4,NA,NA,SS17,mechanical

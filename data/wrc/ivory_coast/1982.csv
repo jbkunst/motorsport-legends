@@ -1,0 +1,18 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,4,"Rohrl, Walter",Opel Ascona 400,DE,G4,8h 43m 30s,NA,NA,NA
+2,6,"Eklund, Per",Toyota Celica,SE,G4,+1h 33m 30s,NA,NA,NA
+3,3,"Waldegard, Bjorn",Toyota Celica,SE,G4,+2h 16m 30s,NA,NA,NA
+4,8,"Saby, Bruno",Renault 5 Turbo,FR,G4,+9h 07m 30s,NA,NA,NA
+5,15,"Ambrosino, Alain",Peugeot 504,FR,G2,+10h 59m 30s,NA,NA,NA
+6,12,"Salim, Eugene",Mitsubishi Lancer,CI,G2,+15h 04m 30s,NA,NA,NA
+NA,1,"Ragnotti, Jean",Renault 5 Turbo,FR,G4,NA,NA,TC20,driver injury (wrist)
+NA,2,"Mouton, Michele",Audi quattro,FR,G4,NA,NA,TC45,accident
+NA,5,"Mikkola, Hannu",Audi quattro,FI,G4,NA,NA,TC30,OTL
+NA,7,"Vudafieri, Adartico",Lancia Rally 037,IT,B,NA,NA,TC8,engine
+NA,9,"Assef, Samir",Toyota Celica,CI,G4,NA,NA,TC7,oil pump
+NA,10,"Andersson, Ove",Toyota Celica,SE,G4,NA,NA,TC6,drove only first leg
+NA,11,"Johansson, Bjorn",Opel Ascona 400,SE,G4,NA,NA,TC25,engine
+NA,24,"Molinie, Michel",Datsun 160J,CI,G2,NA,NA,TC50,accident
+NA,27,"Assale, Kouame",Datsun 160J,CI,A,NA,NA,TC43,OTL
+NA,44,"Charmasson, Paul",Peugeot 504,FR,G2,NA,NA,TC37,engine
+NA,46,"Molino, Alessandro",Fiat 127,IT,G2,NA,NA,TC54,OTL

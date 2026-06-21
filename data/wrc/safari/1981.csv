@@ -1,0 +1,21 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,7,"Mehta, Shekhar",Datsun Violet,KE,G4,3h 39m,NA,NA,NA
+2,5,"Aaltonen, Rauno",Datsun Violet,FI,G4,+5m,NA,NA,NA
+3,14,"Kirkland, Mike",Datsun 160J,KE,G2,+1h 12m,NA,NA,NA
+4,2,"Salonen, Timo",Datsun Silvia,FI,G2,+3h 49m,NA,NA,NA
+5,1,"Kleint, Jochi",Opel Ascona 400,DE,G4,+4h 27m,NA,NA,NA
+6,15,"Lefebvre, Jean-Claude",Peugeot 504 V6 Coupe,FR,G4,+5h 33m,NA,NA,NA
+7,11,"Iwashita, Yoshio",Datsun Silvia,JP,G2,+6h 32m,NA,NA,NA
+8,23,"Shah, Jayant",Datsun 160J,KE,G2,+6h 51m,NA,NA,NA
+9,18,"Smith, Malcolm",Dodge Ramcharger,US,G2,+9h 39m,NA,NA,NA
+10,21,"Hall, Rod",Dodge Ramcharger,US,G2,+10h 37m,NA,NA,NA
+19,57,"Anwar, Azar",Datsun Bluebird,KE,G1,+22h 08m,NA,NA,NA
+NA,3,"Ambrosino, Alain",Peugeot 504 V6 Coupe,FR,G4,NA,NA,NA,missing timecard
+NA,4,"Kullang, Anders",Opel Ascona 400,SE,G4,NA,NA,TC70,ignition
+NA,6,"Frequelin, Guy",Peugeot 504 V6 Coupe,FR,G4,NA,NA,TC30,clutch
+NA,8,"Collinge, Robert",Fiat 131 Abarth,KE,G4,NA,NA,TC78,front suspension
+NA,9,"Hellier, John",Datsun Bluebird,KE,G2,NA,NA,TC42,injection
+NA,10,"Makinen, Timo",Peugeot 504 V6 Coupe,FI,G4,NA,NA,TC28,clutch
+NA,16,"Munari, Sandro",Dodge Ramcharger,IT,G2,NA,NA,TC1,gearbox
+NA,22,"Kojimoto, Juichi",Subaru Leone 4x4,JP,G1,NA,NA,TC8,gearbox
+NA,32,"Ulyate, Robin",Dodge Ramcharger,KE,G2,NA,NA,TC67,gearbox

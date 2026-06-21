@@ -1,0 +1,107 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,5,"Sainz, Carlos",Toyota Corolla WRC,ES,A8,"4h 28m 00,5s",NA,NA,NA
+2,7,"Kankkunen, Juha",Ford Escort WRC,FI,A8,"+40,8s",NA,NA,NA
+3,3,"McRae, Colin",Subaru Impreza WRC98,GB,A8,"+1m 01,0s",NA,NA,NA
+4,4,"Liatti, Piero",Subaru Impreza WRC98,IT,A8,"+1m 13,0s",NA,NA,NA
+5,2,"Burns, Richard",Mitsubishi Carisma GT,GB,A8,"+1m 22,7s",NA,NA,NA
+6,8,"Thiry, Bruno",Ford Escort WRC,BE,A8,"+2m 20,4s",NA,NA,NA
+7,10,"Nittel, Uwe",Mitsubishi Carisma GT,DE,A8,"+6m 20,8s",NA,NA,NA
+8,21,"Kremer, Armin",Subaru Impreza,DE,A8,"+9m 39,6s",NA,NA,NA
+9,16,"Panizzi, Gilles",Peugeot 306 Maxi,FR,A7,"+11m 23,5s",NA,NA,NA
+10,14,"Delecour, Francois",Peugeot 306 Maxi,FR,A7,"+12m 01,7s",NA,NA,NA
+11,15,"Rovanpera, Harri",Seat Ibiza GTi 16V Evo2,FI,A7,"+14m 40,7s",NA,NA,NA
+12,18,"Lopes, Adruzilo",Peugeot 306 Maxi,PT,A7,"+15m 54,7s",NA,NA,NA
+13,22,"Spiliotis, Christophe",Subaru Impreza,MC,A8,"+19m 42,3s",NA,NA,NA
+14,6,"Auriol, Didier",Toyota Corolla WRC,FR,A8,"+20m 10,8s",NA,NA,NA
+15,28,"Stohl, Manfred",Mitsubishi Lancer Evo III,AT,N4,"+26m 20,3s",NA,NA,NA
+16,24,"Phillips, Franck",Ford Escort RS Cosworth,MC,A8,"+26m 30,7s",NA,NA,NA
+17,25,"Henny, Cyril",Peugeot 306 Maxi,CH,A7,"+28m 41,3s",NA,NA,NA
+18,19,"Climent, Luis",Mitsubishi Lancer Evo III,ES,N4,"+30m 40,9s",NA,NA,NA
+19,26,"Baroni, Pierre-Cesar",Mitsubishi Lancer Evo IV,FR,N4,"+31m 04,8s",NA,NA,NA
+20,20,"Duez, Marc",Mitsubishi Lancer Evo IV,BE,N4,"+32m 04,6s",NA,NA,NA
+21,40,"Marcon, Bruno",Ford Escort RS Cosworth,IT,N4,"+35m 30,2s",NA,NA,NA
+22,39,"Rognoni, Philippe",Mitsubishi Carisma GT Evo IV,FR,N4,"+36m 36,2s",NA,NA,NA
+23,33,"Ferrara, Italo",Lancia Delta HF Integrale,IT,A8,"+40m 11,1s",NA,NA,NA
+24,37,"Pellerey, Alain",Citroen Saxo,FR,A6,"+42m 48,8s",NA,NA,NA
+25,106,"Brunello, Demitri",Citroen Saxo VTS,IT,N2,"+44m 57,9s",NA,NA,NA
+26,30,"Schmit, Frederic",Mitsubishi Lancer Evo III,FR,N4,"+46m 39,1s",NA,NA,NA
+27,77,"Pedersoli, Luca",Fiat Cinquecento,IT,A5,"+49m 12,0s",NA,NA,NA
+28,74,"Petiet, Cedric",Fiat Cinquecento,FR,A5,"+53m 21,8s",NA,NA,NA
+29,52,"Amorotti, Serge",Ford Escort RS Cosworth,FR,N4,"+54m 22,9s",NA,NA,NA
+30,82,"Dati, Emanuele",Fiat Cinquecento,IT,A5,"+54m 59,2s",NA,NA,NA
+31,84,"Pedersen, Michael",Fiat Cinquecento,DK,A5,"+58m 03,4s",NA,NA,NA
+32,113,"Rouit, Patrice",Citroen AX GTI,FR,N1,"+59m 15,1s",NA,NA,NA
+33,79,"Geramb, Bernhard",Fiat Cinquecento,AT,A5,"+59m 43,1s",NA,NA,NA
+34,41,"Barth, Jurgen",Subaru Impreza,DE,N4,"+1h 00m 55,1s",NA,NA,NA
+35,51,"Jourdain, Frederic Ruelle",Mazda 323,FR,N4,"+1h 01m 00,7s",NA,NA,NA
+36,110,"Elena, Daniel",Peugeot 106,MC,N1,"+1h 02m 30,9s",NA,NA,NA
+37,111,"Post, Frank",Suzuki Swift GTI,DE,N1,"+1h 04m 46,6s",NA,NA,NA
+38,92,"Ihle, Wolf-Dieter",Opel Astra,DE,N3,"+1h 05m 18,2s",NA,NA,NA
+39,107,"Bastiaens, Johan",Honda Civic,BE,N2,"+1h 05m 24,3s",NA,NA,NA
+40,78,"Rossi, Roberta",Fiat Cinquecento,IT,A5,"+1h 05m 37,6s",NA,NA,NA
+41,104,"Bausch, Guy",Peugeot 306,LU,N3,"+1h 07m 00,2s",NA,NA,NA
+42,56,"Bosse, Peter",Opel Astra,DE,A7,"+1h 12m 47,9s",NA,NA,NA
+43,62,"Corio, Emilio",Fiat Coupe 2.0,IT,A7,"+1h 13m 25,3s",NA,NA,NA
+44,112,"Vanhaesebrouck, Philippe",Peugeot 106,FR,N1,"+1h 13m 50,9s",NA,NA,NA
+45,68,"Breton, Jean-Marc",Peugeot 106,FR,A5,"+1h 14m 06,0s",NA,NA,NA
+46,98,"Schoffler, Matthias",Opel Astra,DE,N3,"+1h 14m 17,4s",NA,NA,NA
+47,44,"Martini, Didier",Mitsubishi Lancer Evo IV,MC,N4,"+1h 14m 39,5s",NA,NA,NA
+48,109,"Simoncini, Mauro",Suzuki Baleno,IT,N2,"+1h 15m 58,4s",NA,NA,NA
+49,47,"Heath, Nigel",Subaru Impreza,GB,N4,"+1h 19m 53,1s",NA,NA,NA
+50,36,"Fidanza, Raffaello",Ford Escort RS Cosworth,IT,A8,"+1h 26m 15,7s",NA,NA,NA
+51,72,"Weinreich, Poul",Peugeot 106,DK,A5,"+1h 29m 09,5s",NA,NA,NA
+52,90,"Dessi, Marc",Peugeot 205 GTi,MC,N3,"+1h 32m 14,9s",NA,NA,NA
+53,102,"Saly, Paul",Renault Clio,FR,N3,"+1h 37m 46,6s",NA,NA,NA
+54,71,"Faletti, Giorgio",Fiat Cinquecento,IT,A5,"+1h 37m 55,2s",NA,NA,NA
+55,99,"Chevalier, Gilles",Renault Clio,FR,N3,"+1h 38m 17,4s",NA,NA,NA
+56,91,"Guichard, Jean-Luis",Renault Clio,FR,N3,"+1h 38m 33,1s",NA,NA,NA
+57,34,"Ruhl, Ludwig",Mazda 323 GT-R,DE,A8,"+1h 39m 13,8s",NA,NA,NA
+58,45,"Cadringher, Gabriele",Subaru Impreza,IT,N4,"+1h 48m 52,1s",NA,NA,NA
+59,85,"Zunino, Romeo",Peugeot 106,IT,A5,"+1h 56m 27,4s",NA,NA,NA
+60,64,"Ballestin, Artemio",Fiat Bravo HGT,IT,A7,"+2h 10m 20,8s",NA,NA,NA
+NA,1,"Makinen, Tommi",Mitsubishi Lancer Evo IV,FI,A8,NA,NA,SS7,off road
+NA,11,"Lundgaard, Henrik",Toyota Celica GT-Four (ST205),DK,A8,NA,NA,SS7,accident
+NA,12,"Trelles, Gustavo",Mitsubishi Lancer Evo IV,UY,N4,NA,NA,SS6,accident
+NA,17,"Gomez Marco, Oriol",Seat Ibiza GTi 16V Evo2,ES,A7,NA,NA,SS3,accident
+NA,27,"Bedini, Piergiorgio",Ford Escort RS Cosworth,IT,N4,NA,NA,NA,unknown
+NA,29,"Arnaud, Christophe",Subaru Impreza,FR,N4,NA,NA,NA,unknown
+NA,31,"Frau, Richard",Mazda 323 GT-R,FR,A8,NA,NA,NA,unknown
+NA,32,"Arzeno, Jacques",Subaru Impreza 555,FR,A8,NA,NA,NA,unknown
+NA,35,"Brunken, Harry",Subaru Impreza 555,DE,A8,NA,NA,NA,unknown
+NA,38,"Gottig, Stefan",Subaru Impreza,DE,N4,NA,NA,NA,unknown
+NA,42,"Stoschek, Michael",Mitsubishi Lancer Evo III,DE,N4,NA,NA,NA,unknown
+NA,43,"Cortese, Elio",Mitsubishi Lancer Evo IV,IT,N4,NA,NA,NA,unknown
+NA,46,"Kuzaj, Leszek",Mitsubishi Lancer Evo IV,PL,N4,NA,NA,NA,accident
+NA,48,"Bandierini, Giovanni",Subaru Impreza,IT,N4,NA,NA,NA,unknown
+NA,49,"Petrucci, Claudio",Subaru Impreza,IT,N4,NA,NA,NA,unknown
+NA,50,"Bally, Jean-Jacques",Subaru Impreza,FR,N4,NA,NA,NA,unknown
+NA,55,"Jaussaud, Bernard",Renault Clio Williams,FR,A7,NA,NA,NA,unknown
+NA,58,"Praschma, Andreas",Opel Astra,DE,A7,NA,NA,NA,unknown
+NA,60,"Triboulet, Regis",Volkswagen Golf GTI 16V,FR,A7,NA,NA,NA,unknown
+NA,61,"Ressegaire, Nicolas",Peugeot 205 GTI,FR,A7,NA,NA,NA,unknown
+NA,63,"Truphemus, David",Peugeot 205 GTI,FR,A7,NA,NA,NA,unknown
+NA,65,"Mostrag, Andre",Peugeot 205 GTI,FR,A7,NA,NA,NA,unknown
+NA,66,"Michoulier, Alain",Peugeot 106,FR,A6,NA,NA,NA,unknown
+NA,69,"Ballestrero, Valter",Fiat Cinquecento,IT,A5,NA,NA,NA,unknown
+NA,70,"Turski, Marcin",Fiat Cinquecento,PL,A5,NA,NA,NA,accident
+NA,73,"Zehetmaier, Peter",Fiat Cinquecento,DE,A5,NA,NA,NA,unknown
+NA,75,"Cols, Larry",Fiat Cinquecento,BE,A5,NA,NA,NA,unknown
+NA,76,"Hatzitsopanis, Panagiotis",Fiat Cinquecento,GR,A5,NA,NA,SS9,unknown
+NA,80,"San Jose, Jose Maria",Fiat Cinquecento,ES,A5,NA,NA,NA,unknown
+NA,81,"Chevalier, Rene",Peugeot 106,FR,A5,NA,NA,NA,unknown
+NA,83,"Deen, Johan",Fiat Cinquecento,NL,A5,NA,NA,NA,unknown
+NA,86,"Kreutz, Kurt",Toyota Starlet,DE,A5,NA,NA,NA,unknown
+NA,87,"Fiori, Fabrizio",Fiat Coupe 16V,IT,N3,NA,NA,NA,unknown
+NA,88,"Maniccia, Frederic",Renault Clio,FR,N3,NA,NA,NA,unknown
+NA,89,"Guiramand, Serge",Renault Clio,FR,N3,NA,NA,NA,unknown
+NA,93,"Moy, Oddvar",Volkswagen Golf GTI 16V,NO,N3,NA,NA,NA,unknown
+NA,94,"Joner, Eric",Renault Clio,CH,N3,NA,NA,NA,unknown
+NA,95,"Mosson, Gerard",Renault Clio,FR,N3,NA,NA,NA,unknown
+NA,96,"Rotter, Horst",Opel Astra,DE,N3,NA,NA,NA,unknown
+NA,97,"Orlandini, Francis",Renault Clio,FR,N3,NA,NA,NA,unknown
+NA,100,"Christensen, Vidar",Renault Clio,NO,N3,NA,NA,NA,unknown
+NA,101,"Baudoin, Miguel",Renault Clio,FR,N3,NA,NA,NA,unknown
+NA,103,"Imbert, Pascal",Renault Clio,FR,N3,NA,NA,NA,unknown
+NA,105,"Bernardi, Nicolas",Peugeot 106,FR,N2,NA,NA,NA,unknown
+NA,108,"Ticozzi, Alessandro",Citroen Saxo VTS,IT,N2,NA,NA,NA,unknown
+NA,114,"Rath, Sven",Suzuki Swift GTI,DE,N1,NA,NA,NA,unknown

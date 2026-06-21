@@ -1,0 +1,55 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Loeb, Sebastien",Citroen DS3 WRC,FR,A0,"4h 42m 03,3s",NA,NA,NA
+2,2,"Hirvonen, Mikko",Citroen DS3 WRC,FI,A0,"+40,0s",NA,NA,NA
+3,3,"Latvala, Jari-Matti",Ford Fiesta RS WRC,FI,A0,"+3m 04,8s",NA,NA,NA
+4,10,"Ostberg, Mads",Ford Fiesta RS WRC,NO,A0,"+6m 16,4s",NA,NA,NA
+5,21,"Prokop, Martin",Ford Fiesta RS WRC,CZ,A0,"+7m 46,5s",NA,NA,NA
+6,8,"Neuville, Thierry",Citroen DS3 WRC,BE,A0,"+9m 41,4s",NA,NA,NA
+7,22,"Ogier, Sebastien",Skoda Fabia Super 2000,FR,A2,"+12m 59,9s",NA,NA,NA
+8,55,"al-Rajhi, Yazeed",Ford Fiesta S2000,SA,A2,"+20m 12,2s",NA,NA,NA
+9,5,"Tanak, Ott",Ford Fiesta RS WRC,EE,A0,"+23m 18,9s",NA,NA,NA
+10,52,"al-Kuwari, Abdulaziz",Mini John Cooper Works,QA,A0,"+28m 40,5s",NA,NA,NA
+11,12,"Araujo, Armindo",Mini John Cooper Works,PT,A0,"+30m 28,6s",NA,NA,NA
+12,51,"Pavlides, Spyros",Ford Fiesta RS WRC,CY,A0,"+33m 51,6s",NA,NA,NA
+13,57,"Protasov, Yuriy",Subaru Impreza WRX,UA,A3,"+39m 41,9s",NA,NA,NA
+14,39,"Gorban, Valeriy",Mitsubishi Lancer Evo IX,UA,A3,"+40m 54,3s",2:00,NA,NA
+15,45,"Aksa, Subhan",Mitsubishi Lancer Evo X,ID,A3,"+44m 11,8s",NA,NA,NA
+16,42,"Trivino Bujalil, Ricardo",Subaru Impreza WRX,MX,A3,"+47m 58,6s",1:10,NA,NA
+17,14,"Nobre, Paulo",Mini John Cooper Works,BR,A0,"+59m 10,2s",NA,NA,NA
+18,53,"Tamrazov, Oleksii",Ford Fiesta RS WRC,UA,A0,"+1h 04m 53,4s",0:20,NA,NA
+19,38,"Guerra Latapi, Benito",Mitsubishi Lancer Evo X,MX,A3,"+1h 09m 11,0s",NA,NA,NA
+20,59,"Sungkar, Rifat",Subaru Impreza WRX,ID,A3,"+1h 09m 19,6s",NA,NA,NA
+21,61,"Zounis, Ioannis",Subaru Impreza WRX,GR,A3,"+1h 12m 21,3s",NA,NA,NA
+22,60,"Konstantakos, Panos",Subaru Impreza WRX,GR,A3,"+1h 15m 52,3s",0:10,NA,NA
+23,65,"Koci, Martin",Citroen C2,SK,A6,"+1h 23m 51,0s",5:50,NA,NA
+24,34,"Bertelli, Lorenzo",Subaru Impreza WRX,IT,A3,"+1h 25m 23,7s",NA,NA,NA
+25,54,"Kyrkos, Lambros",Mitsubishi Lancer Evo IX,GR,A3,"+1h 29m 57,3s",NA,NA,NA
+26,56,"Psyllos, Dimitris",Mitsubishi Lancer Evo X,GR,A3,"+1h 39m 45,3s",NA,NA,NA
+27,64,"Rebilly, Jerome",Citroen DS3,BE,A5,"+1h 41m 25,2s",1:50,NA,NA
+28,63,"Chardonnet, Sebastien",Citroen DS3,FR,A5,"+1h 42m 51,7s",3:00,NA,NA
+29,36,"Cook, Louise",Ford Fiesta ST,GB,A8,"+1h 58m 58,9s",0:20,NA,NA
+30,68,'Ro-Ni',Ford Fiesta ST,GR,A5,"+2h 06m 27,4s",NA,NA,NA
+31,67,"Moschopoulos, Nikos",Toyota Yaris,GR,A7,"+2h 08m 42,5s",NA,NA,NA
+32,66,"Kaltsounis, Haris",Opel Corsa S1600,GR,A5,"+2h 24m 04,5s",1:10,NA,NA
+NA,4,"Solberg, Petter",Ford Fiesta RS WRC,NO,A0,NA,NA,SS18,mechanical
+NA,6,"Novikov, Evgeny",Ford Fiesta RS WRC,RU,A0,NA,NA,SS18,mechanical
+NA,7,"al-Attiyah, Nasser",Citroen DS3 WRC,QA,A0,NA,NA,SS18,mechanical
+NA,9,"Oliveira, Daniel Rolim",Ford Fiesta RS WRC,BR,A0,NA,NA,SS18,mechanical
+NA,23,"Mikkelsen, Andreas",Skoda Fabia Super 2000,NO,A2,NA,NA,TC19,mechanical
+NA,32,"Fuchs Sierlecki, Nicolas",Subaru Impreza WRX,PE,A3,NA,NA,TC21,mechanical
+NA,33,"Ligato, Marcos",Subaru Impreza WRX,AR,A3,NA,NA,SS3,mechanical
+NA,40,"Linari, Gianluca",Subaru Impreza WRX,IT,A3,NA,NA,SS17,mechanical
+NA,41,"Kikireshko, Oleksii",Mitsubishi Lancer Evo IX,UA,A3,NA,NA,SS6,mechanical
+NA,58,"Neiksans, Andis",Subaru Impreza WRX,LV,A3,NA,NA,SS20,mechanical
+NA,62,"Rebilly, Jean Michel",Citroen DS3,BE,A5,NA,NA,SS1,mechanical
+NA,101,"Duplessis, Christopher",Ford Fiesta,US,A2,NA,NA,end of Day 2,WRC Academy
+NA,102,"Suarez Miranda, Jose Antonio",Ford Fiesta,ES,A6,NA,NA,end of Day 2,WRC Academy
+NA,103,"Fisher, Alastair",Ford Fiesta,GB,A6,NA,NA,end of Day 2,WRC Academy
+NA,105,"Tidemand, Pontus",Ford Fiesta,SE,A6,NA,NA,SS11,mechanical
+NA,106,"Reeves, Brendan",Ford Fiesta,AU,A6,NA,NA,end of Day 2,WRC Academy
+NA,107,"van der Marel, Jan Timo",Ford Fiesta,NL,A6,NA,NA,end of Day 2,WRC Academy
+NA,108,"MacCrone, John",Ford Fiesta,GB,A6,NA,NA,end of Day 2,WRC Academy
+NA,109,"Evans, Elfyn",Ford Fiesta,GB,A6,NA,NA,end of Day 2,WRC Academy
+NA,111,"Silva, Joao",Ford Fiesta,PT,A6,NA,NA,TC13,mechanical
+NA,113,"Haigh-Smith, Ashley",Ford Fiesta,ZA,A6,NA,NA,SS12,mechanical
+NA,114,"Ahlin, Fredrik",Ford Fiesta,SE,A6,NA,NA,SS12,mechanical

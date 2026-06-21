@@ -1,0 +1,140 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"Ragnotti, Jean",Renault 5 Maxi Turbo,FR,B,12h 54m 15s,NA,NA,NA
+2,11,"Saby, Bruno",Peugeot 205 Turbo 16 E2,FR,B,+12m 32s,NA,NA,NA
+3,10,"Beguin, Bernard",Porsche 911SC RS,FR,B,+25m 49s,NA,NA,NA
+4,15,"Coleman, Billy",Porsche 911SC RS,IE,B,+57m 07s,NA,NA,NA
+5,23,"Loubet, Yves",Alfa Romeo GTV6,FR,A,+1h 09m 38s,NA,NA,NA
+6,22,"Balas, Bertrand",Alfa Romeo GTV6,FR,A,+1h 22m 38s,NA,NA,NA
+7,21,"Bouquet, Jean-Paul",Talbot Samba,FR,B,+1h 30m 22s,NA,NA,NA
+8,34,"Bartoli, Camille",Renault 5 Turbo,FR,B,+1h 32m 15s,NA,NA,NA
+9,41,"Paoletti, Jean-Jacques",Renault 5 Turbo,FR,B,+1h 58m 20s,NA,NA,NA
+10,112,"Bernardini, Patrick",BMW 323i,FR,N,+2h 02m 07s,NA,NA,NA
+11,39,"Murroni, Michel",Renault 5 Turbo,FR,B,+2h 15m 05s,NA,NA,NA
+12,65,"Leandri, Francis",Talbot Samba,FR,B,+2h 16m 57s,NA,NA,NA
+13,40,"Soriano, Jean-Marie",Renault 5 Turbo,FR,B,NA,NA,NA,NA
+14,79,"Leca, Jean-Claude",Opel Ascona,FR,A,NA,NA,NA,NA
+15,119,"Carpinelli, Jean-Francois",Renault 5 GT Turbo,FR,N,NA,NA,NA,NA
+16,102,"Murati, Jose",Opel Corsa,FR,A,NA,NA,NA,NA
+17,71,"Fiori, Guy",Opel Ascona,FR,A,+2h 23m 51s,NA,NA,NA
+18,133,"Hauser, Bernard",Peugeot 205 GTI,FR,N,+2h 33m 24s,NA,NA,NA
+19,84,"de Villecourt, Roger",Peugeot 205 GTI,FR,A,+2h 33m 51s,NA,NA,NA
+20,135,"Santoni, Jean-Marie",Peugeot 205 GTI,FR,N,+2h 40m 55s,NA,NA,NA
+21,33,'Panic',Peugeot 205 Turbo 16,FR,B,NA,NA,NA,NA
+22,52,Gomila,Renault 5 Turbo,NA,B,NA,NA,NA,NA
+23,81,Piazza,Toyota Corolla,AR,A,NA,NA,NA,NA
+24,61,"Janiaud, Marc",Talbot Samba,FR,B,+3h 02m 41s,NA,NA,NA
+25,136,Fabre,Peugeot 205 GTI,NA,N,NA,NA,NA,NA
+26,132,"Neyret, Pascale",Renault 5 GT Turbo,FR,N,+3h 06m 12s,NA,NA,NA
+27,51,"Dionisi, J-L",Renault 5 GT Turbo,NA,B,NA,NA,NA,NA
+28,134,Martinetti,Peugeot 205 GTI,NA,N,NA,NA,NA,NA
+29,118,Garcon,Renault 5 GT Turbo,NA,N,NA,NA,NA,NA
+30,127,Samani,Renault 5 Alpine,NA,N,NA,NA,NA,NA
+31,121,Pardo,Renault 5 Alpine,NA,N,NA,NA,NA,NA
+32,146,"Marchini, Jean",Talbot Samba,FR,N,+3h 29m 30s,NA,NA,NA
+33,115,Giacomoni,Renault 5 Alpine,NA,N,NA,NA,NA,NA
+34,141,Noceto,Talbot Samba,NA,N,NA,NA,NA,NA
+35,82,"Bastide, B.",Volkswagen Golf GTi,FR,A,NA,NA,NA,NA
+36,83,Letulzeau,Volkswagen Golf GTi,NA,A,NA,NA,NA,NA
+37,92,"Baca, Frederick",Peugeot 205 GTI,FR,A,NA,NA,NA,NA
+38,122,Borelli,Renault 5 Alpine,NA,N,NA,NA,NA,NA
+39,98,Bassoul,Talbot Samba,NA,A,NA,NA,NA,NA
+40,143,Pierazzi,Talbot Samba,NA,N,NA,NA,NA,NA
+41,142,Bernardini,Talbot Samba,NA,N,NA,NA,NA,NA
+42,139,"Mesnager, D.",Peugeot 205 GTI,NA,N,NA,NA,NA,NA
+43,96,Grazzini,Volkswagen Golf GTi,NA,A,NA,NA,NA,NA
+44,100,Duclos,Toyota Starlet,NA,A,NA,NA,NA,NA
+45,55,"Maurel, Bernard",Fiat X 1/9,FR,B,NA,NA,NA,NA
+NA,1,"Alen, Markku",Lancia Rally 037 evo,FI,B,NA,NA,SS5,Bettega's death
+NA,2,"Vatanen, Ari",Peugeot 205 Turbo 16,FI,B,NA,NA,SS15,accident
+NA,4,"Bettega, Attilio",Lancia Rally 037 evo,IT,B,NA,NA,SS3,accident
+NA,5,"Rohrl, Walter",Audi quattro Sport,DE,B,NA,NA,SS2,brakes
+NA,6,"Salonen, Timo",Peugeot 205 Turbo 16,FI,B,NA,NA,SS1,electrical
+NA,7,"Biasion, Massimo",Lancia Rally 037 evo,IT,B,NA,NA,SS6,Bettega's death
+NA,8,"Frequelin, Guy",Opel Manta 400,FR,B,NA,NA,SS1,oil pump
+NA,12,"Chatriot, Francois",Renault 5 Maxi Turbo,FR,B,NA,NA,SS6,engine
+NA,14,"Darniche, Bernard",Peugeot 205 Turbo 16,FR,B,NA,NA,SS1,fuel pump
+NA,16,"Kleint, Jochi",Volkswagen Golf GTi,DE,A,NA,NA,SS22,accident
+NA,17,Dubert,Peugeot 205 GTI,NA,A,NA,NA,NA,unknown
+NA,18,"Wittman, Franz",Volkswagen Golf GTi,AT,A,NA,NA,SS2,lost wheel
+NA,19,"Tabatoni, Olivier",Citroen Visa,FR,B,NA,NA,SS9,clutch
+NA,20,"Vergnaud, Carole",Citroen Visa,FR,B,NA,NA,SS7,clutch
+NA,24,"Oreille, Alain",Renault 11 Turbo,FR,A,NA,NA,NA,engine
+NA,25,"Defour, Rene",Peugeot 205 GTI,FR,A,NA,NA,NA,unknown
+NA,27,"Auriol, Didier",Renault 5 Maxi Turbo,FR,B,NA,NA,SS9,engine fire
+NA,28,"Gardere, Paul",Peugeot 205 Turbo 16,FR,B,NA,NA,NA,unknown
+NA,29,"Metiffiot, Franck",Peugeot 205 Turbo 16,FR,B,NA,NA,NA,unknown
+NA,30,"Casabianca, J.",Peugeot 205 Turbo 16,FR,B,NA,NA,NA,unknown
+NA,31,"de Castelli, J.",Lancia Rally 037,NA,B,NA,NA,NA,unknown
+NA,32,"Leandri, Francois",Peugeot 205 Turbo 16,FR,B,NA,NA,NA,unknown
+NA,35,"Rouby, Paul",Renault 5 Turbo,FR,B,NA,NA,NA,unknown
+NA,36,"Manzagol, Jean-Pierre",Renault 5 Turbo,FR,B,NA,NA,NA,unknown
+NA,37,"Franceschi, Ange-Paul",Renault 5 Turbo,FR,B,NA,NA,SS11,engine
+NA,38,"Torre, Jean-Claude",Renault 5 Turbo,FR,B,NA,NA,NA,unknown
+NA,42,"Neri, Michel",Renault 5 Turbo,FR,B,NA,NA,NA,unknown
+NA,44,"Carducci, J-P",Renault 5 Turbo,NA,B,NA,NA,NA,unknown
+NA,45,"Pinelli, Jean-Laurent",Renault 5 Turbo,FR,B,NA,NA,NA,unknown
+NA,46,Talenti,Renault 5 Turbo,NA,B,NA,NA,NA,unknown
+NA,47,Andreucci,Renault 5 Turbo,NA,B,NA,NA,NA,unknown
+NA,48,"Pantalacci, A.",Renault 5 Turbo,FR,B,NA,NA,NA,unknown
+NA,49,Gay,Renault 5 Turbo,NA,B,NA,NA,NA,unknown
+NA,50,Barbolosi,Renault 5 Turbo,NA,B,NA,NA,NA,unknown
+NA,53,Digiacomi,Renault 5 Turbo,NA,B,NA,NA,NA,unknown
+NA,54,Muller,Renault 5 Turbo,NA,B,NA,NA,NA,unknown
+NA,56,Braisson,Ford Escort,NA,B,NA,NA,NA,unknown
+NA,57,Massarotto,Ford Escort,NA,B,NA,NA,NA,unknown
+NA,58,Damiani,Citroen Visa,NA,B,NA,NA,NA,unknown
+NA,59,"Lartigue, Pierre",Skoda 130LR,FR,B,NA,NA,SS17,water pump
+NA,60,"Casanova, Gilbert",Talbot Samba,FR,B,NA,NA,SS14,gearbox
+NA,62,Casabianca,Talbot Samba,NA,B,NA,NA,NA,unknown
+NA,63,"Krecek, Ladislav",Skoda 130LR,CS,B,NA,NA,NA,engine
+NA,64,Colonna,Talbot Samba,NA,B,NA,NA,NA,unknown
+NA,66,"Ceccaldi, Jean-Jacques",Talbot Samba,FR,B,NA,NA,NA,unknown
+NA,67,Raspaud,Audi 80 quattro,NA,A,NA,NA,NA,unknown
+NA,68,"Chasseuil, Guy",Volkswagen Golf GTi,FR,A,NA,NA,SS2,accident
+NA,69,"Altana, Patrick",Renault 5 Alpine,FR,A,NA,NA,NA,unknown
+NA,70,Simonetti,Renault 5 GT Turbo,NA,A,NA,NA,NA,unknown
+NA,72,"Fazi, Pierre F.",Opel Ascona,FR,A,NA,NA,NA,unknown
+NA,73,Byrde,Renault 5 Alpine,NA,A,NA,NA,NA,unknown
+NA,74,de Peretti,Fiat Ritmo,NA,A,NA,NA,NA,unknown
+NA,75,Martini,Opel Ascona,NA,A,NA,NA,NA,unknown
+NA,76,Taranto,Fiat Ritmo,NA,A,NA,NA,NA,unknown
+NA,77,Appietto,Opel Manta,NA,A,NA,NA,NA,unknown
+NA,78,"Cavalli, C.",Fiat Ritmo,NA,A,NA,NA,NA,unknown
+NA,80,Lucrezi,Renault 5 GT Turbo,NA,A,NA,NA,NA,unknown
+NA,85,Tarsitano,Mazda,NA,A,NA,NA,NA,unknown
+NA,86,Ucelli,Renault 5 Alpine,NA,A,NA,NA,NA,unknown
+NA,87,Dubois,Peugeot 205 GTI,FR,A,NA,NA,NA,unknown
+NA,88,"Labrot, Claude",Toyota Corolla,FR,A,NA,NA,NA,unknown
+NA,89,Masset,Mazda 323,NA,A,NA,NA,NA,unknown
+NA,90,"Andreucci, M.",Volkswagen Golf GTi,NA,A,NA,NA,NA,unknown
+NA,91,"Vellutini, P.",Ford Fiesta XR2,NA,A,NA,NA,NA,unknown
+NA,93,"Allegrini, A.",Peugeot 205 GTI,NA,A,NA,NA,NA,unknown
+NA,94,Meucci,Volkswagen Golf GTi,FR,A,NA,NA,NA,unknown
+NA,95,Cucchi,Volkswagen Golf GTi,NA,A,NA,NA,NA,unknown
+NA,99,Dreamer,Ford Fiesta XR2,NA,A,NA,NA,NA,unknown
+NA,101,"Sodini, D.",Talbot Samba,NA,A,NA,NA,NA,unknown
+NA,103,Calvino,Talbot Samba,NA,A,NA,NA,NA,unknown
+NA,104,"Mariani, Paul",Talbot Samba,FR,A,NA,NA,NA,unknown
+NA,107,Adamie,Renault 5,NA,A,NA,NA,NA,unknown
+NA,108,Banoy,Alfa Romeo GTV6,NA,N,NA,NA,NA,unknown
+NA,109,"Marchiori, B.",BMW 323i,NA,N,NA,NA,NA,unknown
+NA,110,Dongues,BMW 323i,FR,N,NA,NA,NA,unknown
+NA,111,Serpaggi,BMW 323i,FR,N,NA,NA,NA,unknown
+NA,113,"Deriu, Jean-Pierre",Renault 5 GT Turbo,FR,N,NA,NA,SS29,unknown
+NA,114,"Poggi, Laurent",Volkswagen Golf GTi,FR,N,NA,NA,NA,unknown
+NA,116,Silvani,Opel Kadett GSi,NA,N,NA,NA,NA,unknown
+NA,120,Thomas,Renault 5 GT Turbo,NA,N,NA,NA,NA,unknown
+NA,123,Agostini,Renault 5 GT Turbo,NA,N,NA,NA,NA,unknown
+NA,124,Cancellieri,Renault 5 Alpine,NA,N,NA,NA,NA,unknown
+NA,125,Albertini,Renault 5 GT Turbo,NA,N,NA,NA,NA,unknown
+NA,126,Jongerlinck,Fiat Ritmo,FR,N,NA,NA,NA,unknown
+NA,128,Papini,Renault 5 Alpine,NA,N,NA,NA,NA,unknown
+NA,129,"Tomei, P.",Renault 5 GT Turbo,NA,N,NA,NA,NA,unknown
+NA,131,Cipriani,Renault 5 Alpine,NA,N,NA,NA,NA,unknown
+NA,137,Thoreau,Peugeot 205 GTI,NA,N,NA,NA,NA,unknown
+NA,138,"Pisano, J-M",Volkswagen Golf GTi,NA,N,NA,NA,NA,unknown
+NA,140,Delhorme,Talbot Sunbeam,NA,N,NA,NA,NA,unknown
+NA,144,"Lacombe, B.",Talbot Samba,NA,N,NA,NA,NA,unknown
+NA,145,"Savelli, A.",Talbot Samba,NA,N,NA,NA,NA,unknown
+NA,147,Santini,Talbot Samba,FR,N,NA,NA,NA,unknown
+NA,148,Pilliard,Talbot Samba,NA,N,NA,NA,NA,unknown

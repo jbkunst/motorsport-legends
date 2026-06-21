@@ -1,0 +1,35 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Loeb, Sebastien",Citroen Xsara WRC,FR,A8,"4h 13m 05,6s",NA,NA,NA
+2,3,"Gardemeister, Toni",Ford Focus RS WRC 04,FI,A8,"+2m 58,3s",NA,NA,NA
+3,10,"Panizzi, Gilles",Mitsubishi Lancer WRC05,FR,A8,"+3m 40,1s",NA,NA,NA
+4,8,"Martin, Markko",Peugeot 307WRC Evo2,EE,A8,"+5m 27,7s",NA,NA,NA
+5,7,"Gronholm, Marcus",Peugeot 307WRC Evo2,FI,A8,"+7m 33,8s",NA,NA,NA
+6,62,"Stohl, Manfred",Citroen Xsara WRC,AT,A8,"+8m 08,9s",NA,NA,NA
+7,9,"Rovanpera, Harri",Mitsubishi Lancer WRC05,FI,A8,"+8m 29,3s",NA,NA,NA
+8,4,"Kresta, Roman",Ford Focus RS WRC 04,CZ,A8,"+9m 18,1s",NA,NA,NA
+9,12,"Bengue, Alexandre",Skoda Fabia WRC,FR,A8,"+10m 32,0s",NA,NA,NA
+10,14,"Warmbold, Antony",Ford Focus RS WRC 04,DE,A8,"+15m 09,1s",NA,NA,NA
+11,35,"Meeke, Kris",Citroen C2 S1600,GB,A6,"+22m 50,0s",NA,NA,NA
+12,33,"Katajamaki, Kosti",Suzuki Ignis S1600 5d,FI,A6,"+23m 04,5s",NA,NA,NA
+13,37,"Scorcioni, Alan",Suzuki Ignis S1600 5d,IT,A6,"+24m 30,3s",NA,NA,NA
+14,6,"Sarrazin, Stephane",Subaru Impreza WRC2004,FR,A8,"+24m 37,2s",NA,NA,NA
+15,41,"Sordo Castillo, Daniel",Citroen C2 S1600,ES,A6,"+25m 16,5s",NA,NA,NA
+16,38,"Betti, Luca",Renault Clio S1600,IT,A6,"+26m 13,6s",NA,NA,NA
+17,64,"Boland, Eamonn",Subaru Impreza,IE,A8,"+26m 34,0s",NA,NA,NA
+18,31,"Andersson, Per-Gunnar",Suzuki Ignis S1600 5d,SE,A6,"+26m 50,2s",NA,NA,NA
+19,32,"Wilks, Guy",Suzuki Ignis S1600 5d,GB,A6,"+27m 41,3s",NA,NA,NA
+20,42,"Valousek, Pavel",Suzuki Ignis S1600,CZ,A6,"+28m 04,8s",NA,NA,NA
+21,43,"Prokop, Martin",Suzuki Ignis S1600,CZ,A6,"+31m 48,4s",NA,NA,NA
+22,34,"Baldacci, Mirco",Fiat Punto S1600,SM,A6,"+34m 16,7s",2:00,NA,NA
+23,69,"Cristoforetti, Marco",Renault Clio,IT,A6,"+43m 04,1s",0:10,NA,NA
+24,67,"Errani, Riccardo",Skoda Octavia WRC,IT,A8,"+57m 18,7s",NA,NA,NA
+NA,2,"Duval, Francois",Citroen Xsara WRC,BE,A8,NA,NA,SS6,off road
+NA,5,"Solberg, Petter",Subaru Impreza WRC2004,NO,A8,NA,NA,SS12,off road
+NA,11,"Schwarz, Armin",Skoda Fabia WRC,DE,A8,NA,NA,SS7,off road
+NA,36,"Aava, Urmo",Suzuki Ignis S1600 5d,EE,A6,NA,NA,TC0,unknown
+NA,39,"Cecchettini, Luca",Renault Clio S1600,IT,A6,NA,NA,SS12,off road
+NA,61,"Auriol, Didier",Peugeot 206 WRC,FR,A8,NA,NA,TC7T,engine
+NA,63,"Pons, Xavier",Peugeot 206 WRC,ES,A8,NA,NA,SS14,mechanical
+NA,65,"Rossetti, Luca",Peugeot 206 WRC,IT,A8,NA,NA,SS11,off road
+NA,66,"Barbara, Jose",Subaru Impreza,FR,A8,NA,NA,TC9A,unknown
+NA,68,"Caldani, Nicola",Fiat Punto,IT,A6,NA,NA,TC12B,mechanical

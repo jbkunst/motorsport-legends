@@ -1,0 +1,179 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,9,"Alen, Markku",Lancia Rally 037,FI,B,12h 43m 38s,NA,NA,NA
+2,5,"Rohrl, Walter",Lancia Rally 037,DE,B,+1m 49s,NA,NA,NA
+3,11,"Vudafieri, Adartico",Lancia Rally 037,IT,B,+6m 30s,NA,NA,NA
+4,14,"Bettega, Attilio",Lancia Rally 037,IT,B,+13m 49s,NA,NA,NA
+5,15,"Saby, Bruno",Renault 5 Turbo,FR,B,+41m 59s,NA,NA,NA
+6,12,"Pond, Tony",Nissan 240 RS,GB,B,+1h 01m 13s,NA,NA,NA
+7,45,"Franceschi, Ange-Paul",Renault 5 Turbo,FR,G4,+1h 27m 39s,NA,NA,NA
+8,17,"Couloumies, Jean-Sebastien",Opel Ascona,FR,A,+1h 37m 31s,NA,NA,NA
+9,18,"Coppier, Alain",Citroen Visa,FR,B,+1h 44m 43s,NA,NA,NA
+10,53,"Guyot, Jean-Michel",Renault 5 Turbo,FR,B,+1h 52m 09s,NA,NA,NA
+11,55,"Ravenel, Jean-Louis",Citroen Visa,FR,B,+1h 58m 59s,NA,NA,NA
+12,61,"Paoletti, Jean-Jacques",Renault 5 Turbo,FR,B,+1h 59m 29s,NA,NA,NA
+13,139,"Deriu, Jean-Pierre",Renault 5 Alpine Turbo,FR,N,+2h 03m 36s,NA,NA,NA
+14,147,"Casanova, Gilbert",Talbot Samba,FR,B,+2h 09m 03s,NA,NA,NA
+15,84,"Metiffiot, Franck",Opel Ascona,FR,A,+2h 13m 12s,NA,NA,NA
+16,115,"Murati, Jose",Opel Kadett GT/E,FR,G2,+2h 14m 51s,NA,NA,NA
+17,25,"Turiani, Auguste",Opel Ascona,MC,G2,+2h 24m 18s,NA,NA,NA
+18,29,'Panic',Ferrari 308GTB,FR,G4,+2h 28m 34s,NA,NA,NA
+19,34,"Desangles, Luc",BMW 323i,FR,N,+2h 39m 03s,NA,NA,NA
+20,176,"Farrucci, Jean-Felix",Ford Escort RS,FR,N,+2h 43m 40s,NA,NA,NA
+21,102,"Monti, Georges",Renault 5 Turbo,FR,A,+2h 47m 44s,NA,NA,NA
+22,142,"Silvani, J-C.",Renault 5 Alpine,FR,N,+2h 48m 13s,NA,NA,NA
+23,107,"Bruel, Y.",Peugeot 104,NA,A,+2h 54m 53s,NA,NA,NA
+24,42,"Cabaniols, Henri",Alfa Romeo Alfetta GTV6,FR,N,+2h 56m 48s,NA,NA,NA
+25,20,"Laurent, Claude",Citroen Visa,FR,B,+2h 57m 49s,NA,NA,NA
+26,103,"Ontano, A.",Opel Ascona,NA,A,+2h 58m 25s,NA,NA,NA
+27,85,"Cros, B.",Peugeot 104,NA,A,+2h 59m 54s,NA,NA,NA
+28,48,"Digiacomi, A-M",Renault 5 Turbo,NA,B,+3h 00m 36s,NA,NA,NA
+29,76,"Monnier, P.",Peugeot 104,FR,A,+3h 04m 45s,NA,NA,NA
+30,154,"Carret, D.",Talbot Samba,NA,B,+3h 06m 33s,NA,NA,NA
+31,150,"Raymond, Serge",Citroen Visa,FR,B,+3h 08m 17s,NA,NA,NA
+32,168,"Simac, R.",Volkswagen Golf GTi,NA,N,+3h 14m 54s,NA,NA,NA
+33,153,"Thibaudat, Andre",Talbot Samba,FR,B,+3h 17m 53s,NA,NA,NA
+34,138,Jongerlinck,Fiat Ritmo,FR,N,+3h 29m 44s,NA,NA,NA
+35,171,"Bornea, J.B.",Ford Escort RS,NA,N,+3h 31m 57s,NA,NA,NA
+36,101,"Poggi, Laurent",Volkswagen Golf GTi,FR,A,+3h 31m 59s,NA,NA,NA
+37,49,"Fabiani, J.F.",Renault 5 Turbo,NA,B,+3h 35m 20s,NA,NA,NA
+38,128,"Verdier, J.",Ford Escort,NA,G2,+3h 36m 23s,NA,NA,NA
+39,170,"Gomila, J-M",Volkswagen Golf GTi,NA,N,+3h 41m 31s,NA,NA,NA
+40,88,"Morthier, Jean-Pierre",Volkswagen Golf GTi,CH,A,+3h 42m 44s,NA,NA,NA
+41,161,"Habani, C.",Peugeot 104,NA,G2,+3h 47m 45s,NA,NA,NA
+42,113,"Clos, Robert",Opel Kadett GT/E,FR,G2,+3h 47m 59s,NA,NA,NA
+43,117,"Renucci, P.",Opel Kadett GT/E,NA,G2,+3h 55m 52s,NA,NA,NA
+44,177,"Thuriot, Xavier",Alfa Romeo Alfasud TI,FR,N,+3h 58m 02s,NA,NA,NA
+45,89,"Causse, J-L",Peugeot 104,NA,A,+4h 12m 44s,NA,NA,NA
+46,189,"Damiani, T-P",Talbot Sunbeam,NA,G2,+4h 23m 07s,NA,NA,NA
+47,81,"Jonquieres, Jacques",Peugeot 104,FR,A,+4h 24m 00s,NA,NA,NA
+48,86,"Pisano, J-M",Volkswagen Golf GTi,NA,A,+4h 28m 26s,NA,NA,NA
+49,135,"Giorgi, A.",Peugeot 104,NA,G2,+4h 30m 33s,NA,NA,NA
+50,108,"Catelaggi, F.",Renault 5 Alpine Turbo,NA,A,+4h 38m 20s,NA,NA,NA
+51,96,"Bayet, Ch.",Peugeot 104,NA,A,+4h 38m 39s,NA,NA,NA
+52,146,"Cavalli, C.",Fiat Ritmo,NA,N,+4h 41m 53s,NA,NA,NA
+53,83,"Naillard, H.",Peugeot 104,NA,A,+4h 54m 06s,NA,NA,NA
+54,131,"Sacchi, C.",Talbot Sunbeam,NA,G2,+5h 35m 14s,NA,NA,NA
+55,191,"Asse, C.",Peugeot 104,NA,A,+5h 36m 27s,NA,NA,NA
+56,174,"Bastide, B.",Volkswagen Golf GTi,FR,N,+5h 47m 41s,NA,NA,NA
+57,162,"Sechi, J-M",Autobianchi A112,FR,G2,+6h 00m 31s,NA,NA,NA
+NA,1,"Andruet, Jean-Claude",Lancia Rally 037,FR,B,NA,NA,SS20,engine
+NA,2,"Ragnotti, Jean",Renault 5 Turbo,FR,B,NA,NA,SS15,hit a cow
+NA,3,"Beguin, Bernard",BMW M1,FR,B,NA,NA,SS5,engine
+NA,4,"Mikkola, Hannu",Audi quattro A2,FI,B,NA,NA,SS23,accident
+NA,6,"Frequelin, Guy",Opel Manta 400,FR,B,NA,NA,SS5,engine
+NA,7,"Therier, Jean-Luc",Renault 5 Turbo,FR,B,NA,NA,SS8,fire
+NA,10,"Mouton, Michele",Audi quattro A2,FR,B,NA,NA,SS27,fire
+NA,16,"Chatriot, Francois",Renault 5 Turbo,FR,B,NA,NA,NA,engine
+NA,19,"Serpaggi, Francis",Lancia Rally 037,FR,B,NA,NA,SS2,accident
+NA,21,"Loubet, Yves",Alfa Romeo GTV6,FR,A,NA,NA,NA,transmission
+NA,22,Dongues,Alfa Romeo Alfasud TI,FR,A,NA,NA,NA,unknown
+NA,23,"Manzagol, Jean-Pierre",Renault 5 Turbo,FR,G4,NA,NA,SS24,engine
+NA,24,"Dorche, Christian",Citroen Visa,FR,B,NA,NA,NA,unknown
+NA,26,Agostini,Porsche 911,NA,B,NA,NA,NA,unknown
+NA,27,Bauer,Porsche 911,NA,B,NA,NA,NA,unknown
+NA,28,"van Dijk, Tycho",Porsche 911,NL,G4,NA,NA,NA,unknown
+NA,30,"Yvorra, Richard",Alfa Romeo Alfetta GTV6,FR,A,NA,NA,NA,unknown
+NA,31,"Arena, I.",Talbot Sunbeam,FR,G2,NA,NA,NA,unknown
+NA,32,"Istria, J-P",Talbot Sunbeam,NA,G2,NA,NA,NA,unknown
+NA,33,Piassa,Talbot Sunbeam,NA,G2,NA,NA,NA,unknown
+NA,35,Canrelli,Alfa Romeo Alfetta GTV6,NA,N,NA,NA,NA,unknown
+NA,36,Labrot,Alfa Romeo Alfetta GTV6,NA,N,NA,NA,NA,unknown
+NA,37,"Bondrille, Jean",Alfa Romeo Alfetta GTV6,FR,N,NA,NA,NA,unknown
+NA,38,"Salino, Jacques",BMW 323i,FR,N,NA,NA,NA,unknown
+NA,39,"Bernardini, Patrick",BMW 323i,FR,A,NA,NA,NA,unknown
+NA,40,"Balas, Bertrand",Alfa Romeo GTV6,FR,A,NA,NA,NA,unknown
+NA,41,"Pagani, Pierre",Alfa Romeo GTV6,FR,A,NA,NA,NA,unknown
+NA,43,"Bartoli, Camille",Renault 5 Turbo,FR,G4,NA,NA,NA,unknown
+NA,44,"Touren, Philippe",Renault 5 Turbo,FR,G4,NA,NA,SS20,accident
+NA,46,"Campana, C.J.",Renault 5 Turbo,NA,B,NA,NA,NA,unknown
+NA,47,Andreucci,Renault 5 Turbo,NA,B,NA,NA,NA,unknown
+NA,50,"Tichadou, Jean-Michel",Ford Escort,FR,B,NA,NA,NA,unknown
+NA,51,Pantalacci,Renault 5 Turbo,NA,B,NA,NA,NA,unknown
+NA,52,Fogagnolo,Renault 5 Turbo,NA,B,NA,NA,NA,unknown
+NA,56,"Raous, Roger",Citroen Visa,FR,B,NA,NA,NA,unknown
+NA,57,"Tabatoni, Olivier",Citroen Visa,FR,B,NA,NA,NA,unknown
+NA,58,Georges,Renault 5 Turbo,NA,G4,NA,NA,NA,unknown
+NA,59,Giudicelli,Renault 5 Turbo,NA,G4,NA,NA,NA,unknown
+NA,60,Altzana,Renault 5 Turbo,NA,G4,NA,NA,NA,unknown
+NA,62,"Fritzinger, Klaus",Toyota Celica,DE,G4,NA,NA,NA,unknown
+NA,63,"Neri, Michel",Renault 5 Turbo,FR,B,NA,NA,NA,unknown
+NA,64,"Appietto, R.",Renault 5 Turbo,NA,G4,NA,NA,NA,unknown
+NA,65,"Murroni, Michel",Renault 5 Turbo,FR,G4,NA,NA,NA,unknown
+NA,66,"Torre, Jean-Claude",Renault 5 Turbo,FR,B,NA,NA,NA,unknown
+NA,67,Chiesa,Renault 5 Turbo,NA,G4,NA,NA,NA,unknown
+NA,68,"Alerini, A.",Renault 5 Turbo,NA,G4,NA,NA,NA,unknown
+NA,69,"Pinelli, Jean-Laurent",Renault 5 Turbo,FR,G4,NA,NA,NA,unknown
+NA,71,de Castelli,Renault 5 Turbo,NA,G4,NA,NA,NA,unknown
+NA,72,Colonna,Renault 5 Alpine,NA,A,NA,NA,NA,unknown
+NA,73,"Leca, Jean-Claude",Opel Kadett GT/E,FR,A,NA,NA,NA,unknown
+NA,74,"Martinetti, M.",Opel Manta,NA,A,NA,NA,NA,unknown
+NA,75,"Sehnaoui, Maurice",Volkswagen Golf GTi,LB,A,NA,NA,NA,unknown
+NA,77,"Leandri, M.",Opel Ascona,NA,A,NA,NA,NA,unknown
+NA,78,"Moreau, Pierre-Louis",Opel Ascona,FR,A,NA,NA,NA,unknown
+NA,79,"Dorel, M.",Opel Kadett,NA,A,NA,NA,NA,unknown
+NA,82,'Anders',Opel Kadett GT/E,FR,A,NA,NA,NA,unknown
+NA,87,"Fazi, Pierre F.",Opel Kadett GT/E,FR,A,NA,NA,NA,unknown
+NA,90,Gayet,Volkswagen Golf GTi,NA,A,NA,NA,NA,unknown
+NA,91,Dubois,Peugeot 104,FR,A,NA,NA,NA,unknown
+NA,92,"Bassoul, F.",Opel Kadett,FR,A,NA,NA,NA,unknown
+NA,93,Paresi,Volkswagen Golf GTi,NA,A,NA,NA,NA,unknown
+NA,94,"de Fresquet, Elizabeth",Volkswagen Golf GTi,FR,A,NA,NA,NA,unknown
+NA,95,Nove,Peugeot 104,NA,A,NA,NA,NA,unknown
+NA,97,Santini,Renault 5 Alpine,FR,A,NA,NA,NA,unknown
+NA,98,Deslandes,Peugeot 104,NA,A,NA,NA,NA,unknown
+NA,100,Bartoli,Opel Kadett,NA,A,NA,NA,NA,unknown
+NA,104,Blanc,Volkswagen Golf GTi,NA,A,NA,NA,NA,unknown
+NA,105,Heitzler,Peugeot 104,NA,A,NA,NA,NA,unknown
+NA,106,Albertini,Opel Kadett GT/E,NA,A,NA,NA,NA,unknown
+NA,109,"Cucchi, A.",Peugeot 104,NA,G2,NA,NA,NA,unknown
+NA,110,"Marmoy, G.",Peugeot 104,NA,G2,NA,NA,NA,unknown
+NA,111,"Peretti, A.",Renault 5 Alpine,NA,G2,NA,NA,NA,unknown
+NA,112,"Carducci, J-P",Alfa Romeo Alfasud TI,NA,G2,NA,NA,NA,unknown
+NA,114,Massa,Renault 5 Alpine,IT,G2,NA,NA,NA,unknown
+NA,116,Bouffier,Renault 5 Alpine,NA,G2,NA,NA,NA,unknown
+NA,118,Ucelli,Volkswagen Golf GTi,NA,G2,NA,NA,NA,unknown
+NA,119,Ceccaldi,Peugeot 505,NA,G2,NA,NA,NA,unknown
+NA,120,"Forconi, J-M",Opel Ascona,NA,G2,NA,NA,NA,unknown
+NA,121,"Maurel, Bernard",Ford Escort RS,FR,G2,NA,NA,NA,unknown
+NA,122,Carlotti,Peugeot 104,NA,G2,NA,NA,NA,unknown
+NA,123,"Casabianca, A.",Peugeot 104,FR,G2,NA,NA,NA,unknown
+NA,124,"Colonna, J-L",Opel Ascona,NA,G2,NA,NA,NA,unknown
+NA,125,"Dubert, Jacques",Peugeot 104,FR,G2,NA,NA,NA,unknown
+NA,126,"Michelosi, A.M.",Renault 5 Alpine,NA,G2,NA,NA,NA,unknown
+NA,127,"Martini, P.",Opel Kadett GT/E,NA,G2,NA,NA,NA,unknown
+NA,129,"Andreucci, F.",Renault 5 Alpine,NA,G2,NA,NA,NA,unknown
+NA,130,Lartigue,Volkswagen Golf GTi,NA,G2,NA,NA,NA,unknown
+NA,133,"Casabianca, J.",Peugeot 104,FR,G2,NA,NA,NA,unknown
+NA,134,"Giacomoni, C.",Renault 5 Alpine,NA,G2,NA,NA,NA,unknown
+NA,136,Gauclere,Volkswagen Golf GTi,FR,G2,NA,NA,NA,unknown
+NA,137,Secondi,Peugeot 104,NA,G2,NA,NA,NA,unknown
+NA,140,Duranti,Fiat Ritmo,NA,N,NA,NA,NA,unknown
+NA,141,Giubar,Fiat Ritmo,IT,N,NA,NA,NA,unknown
+NA,143,"Soriano, Jean-Marie",Fiat Ritmo,FR,N,NA,NA,NA,unknown
+NA,144,"Simoni, J-P",Fiat Ritmo,FR,N,NA,NA,NA,unknown
+NA,145,de Peretti,Fiat Ritmo,NA,N,NA,NA,NA,unknown
+NA,146,"Albertini, F.",Talbot Samba,NA,N,NA,NA,NA,unknown
+NA,149,"Royer, J.",Citroen Visa,NA,B,NA,NA,NA,unknown
+NA,151,"Defour, Rene",Talbot Samba,FR,B,NA,NA,NA,unknown
+NA,152,"Tomei, P.",Talbot Samba,NA,B,NA,NA,NA,unknown
+NA,155,"Marchini, Jean",Talbot Samba,FR,B,NA,NA,NA,unknown
+NA,156,"Charbonneaux, Herve",Talbot Samba,FR,B,NA,NA,NA,unknown
+NA,157,"Chauche, Francois",Talbot Samba,FR,B,NA,NA,NA,unknown
+NA,158,Mastrogiovanni,Talbot Samba,NA,B,NA,NA,NA,unknown
+NA,159,Pruneta,Renault,NA,A,NA,NA,NA,unknown
+NA,160,Gongora,Opel Corsa,NA,A,NA,NA,NA,unknown
+NA,163,"Haase, Francois",Peugeot 104,FR,G2,NA,NA,NA,unknown
+NA,164,Nigoul,Ford Escort XR3,NA,N,NA,NA,NA,unknown
+NA,165,"Argenti, A.",Volkswagen Golf GTi,NA,N,NA,NA,NA,unknown
+NA,167,"Lacombe, B.",Alfa Romeo Alfasud,NA,N,NA,NA,NA,unknown
+NA,169,Rives,Peugeot 104,NA,N,NA,NA,NA,unknown
+NA,172,Bouvet,Volkswagen Golf GTi,NA,N,NA,NA,NA,unknown
+NA,178,Luce,Ford Escort RS,NA,N,NA,NA,NA,unknown
+NA,179,"Espino, J-L",Ford Escort RS,NA,N,NA,NA,NA,unknown
+NA,180,Meucci,Volkswagen Golf GTi,FR,N,NA,NA,NA,unknown
+NA,181,"Dussert, Christian",Peugeot 104,FR,N,NA,NA,NA,unknown
+NA,182,Catellaggi,Opel Kadett,NA,G2,NA,NA,NA,unknown
+NA,183,"Fiori, G.",Opel Kadett GT/E,NA,A,NA,NA,NA,unknown
+NA,184,"Sodini, D.",Talbot Samba,NA,B,NA,NA,NA,unknown
+NA,185,Leca,Talbot Samba,FR,B,NA,NA,NA,unknown
+NA,190,Dbozon,BMW 323i,NA,A,NA,NA,NA,unknown

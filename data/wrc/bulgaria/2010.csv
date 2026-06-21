@@ -1,0 +1,43 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Loeb, Sebastien",Citroen C4 WRC,FR,A8,"3h 02m 39,2s",NA,NA,NA
+2,2,"Sordo Castillo, Daniel",Citroen C4 WRC,ES,A8,"+29,5s",NA,NA,NA
+3,11,"Solberg, Petter",Citroen C4 WRC,NO,A8,"+36,3s",NA,NA,NA
+4,7,"Ogier, Sebastien",Citroen C4 WRC,FR,A8,"+1m 55,0s",NA,NA,NA
+5,3,"Hirvonen, Mikko",Ford Focus RS WRC 09,FI,A8,"+3m 17,8s",NA,NA,NA
+6,4,"Latvala, Jari-Matti",Ford Focus RS WRC 09,FI,A8,"+4m 28,5s",NA,NA,NA
+7,6,"Andersson, Per-Gunnar",Ford Focus RS WRC 08,SE,A8,"+5m 25,2s",NA,NA,NA
+8,41,"Turan, Frigyes",Peugeot 307WRC,HU,A8,"+7m 04,0s",NA,NA,NA
+9,5,"Wilson, Matthew",Ford Focus RS WRC 08,GB,A8,"+9m 28,6s",0:10,NA,NA
+10,12,"Solberg, Henning",Ford Fiesta S2000,NO,N4,"+13m 06,0s",NA,NA,NA
+11,8,"Raikkonen, Kimi",Citroen C4 WRC,FI,A8,"+14m 06,4s",NA,NA,NA
+12,29,"Neuville, Thierry",Citroen C2 S1600,BE,A6,"+15m 42,6s",NA,NA,NA
+13,15,"Kuipers, Dennis",Ford Fiesta S2000,NL,N4,"+16m 30,9s",NA,NA,NA
+14,23,"Weijs jr, Hans",Citroen C2 S1600,NL,A6,"+16m 35,1s",NA,NA,NA
+15,42,"Brynildsen, Eyvind",Skoda Fabia Super 2000,NO,N4,"+17m 38,5s",NA,NA,NA
+16,26,"Slavov, Todor",Renault Clio,BG,A7,"+21m 59,2s",0:30,NA,NA
+17,27,"Broccoli, Alessandro",Renault Clio,SM,A7,"+22m 34,4s",0:10,NA,NA
+18,30,"Kruuda, Karl",Suzuki Swift S1600,EE,A6,"+22m 35,4s",NA,NA,NA
+19,24,"Valdes Lopez, Egoi Eder",Renault Clio,ES,A7,"+27m 44,9s",0:10,NA,NA
+20,46,"Iliev, Dimitar",Skoda Fabia Super 2000,BG,N4,"+28m 59,0s",NA,NA,NA
+21,22,"Abbring, Kevin",Renault Clio,NL,A7,"+29m 16,6s",NA,NA,NA
+22,51,"Bessenyey, Zoltan",Opel Astra,HU,A8,"+36m 31,9s",NA,NA,NA
+23,32,"Arzeno, Mathieu",Citroen C2 S1600,FR,A6,"+37m 16,4s",1:10,NA,NA
+24,50,"Parli, Francesco",Renault Clio,CH,A7,"+39m 01,3s",5:00,NA,NA
+25,66,"Vidarkinsky, Spas",Citroen Saxo,BG,N2,"+46m 25,1s",0:10,NA,NA
+26,61,"Bozhich, Yordan",Renault Clio,BG,N3,"+46m 46,3s",NA,NA,NA
+27,67,"Marinov, Georgy",Citroen Saxo,BG,N2,"+1h 05m 56,1s",0:10,NA,NA
+NA,28,"Hunt, Harry",Ford Fiesta,GB,A6,NA,NA,SS12,driveshaft
+NA,31,"Lemes Macias, Yeray",Renault Clio S1600,ES,A6,NA,NA,TC10C,service infringement
+NA,43,"Donchev, Krum",Peugeot 207 S2000,BG,N4,NA,NA,TC14D,illegal fuel
+NA,44,"Popov, Jasen",Mitsubishi Lancer Evo IX,BG,N4,NA,NA,SS8,mechanical
+NA,45,"Gyoshev, Petar",Mitsubishi Lancer Evo IX,BG,N4,NA,NA,TC10C,illegal fuel
+NA,47,"Isaev, Ignat",Mitsubishi Lancer Evo IX,BG,N4,NA,NA,TC10C,illegal fuel
+NA,48,"Staykov, Plamen",Mitsubishi Lancer Evo IX,BG,N4,NA,NA,TC2A,mechanical
+NA,52,"Stratiev, Tiromir",Citroen C2,BG,A6,NA,NA,TC10C,illegal fuel
+NA,53,"Stratieva, Ekaterina",Citroen C2,BG,A6,NA,NA,TC10C,unknown
+NA,56,"Rangelov, Venelin",Citroen C2,BG,A6,NA,NA,SS2,off road
+NA,58,"Rabrenovic, Vladica",Renault Clio,RS,N3,NA,NA,TC10C,illegal fuel
+NA,59,"Denev, Emil",Renault Clio,BG,N3,NA,NA,TC0,unknown
+NA,60,"Toshev, Kostadin",Renault Clio,BG,N3,NA,NA,TC4A,mechanical
+NA,62,"Apostolov, Stoyan",Honda Civic,BG,N3,NA,NA,TC0,unknown
+NA,63,"Metkov, Tural",Peugeot 206,BG,N3,NA,NA,TC10C,illegal fuel

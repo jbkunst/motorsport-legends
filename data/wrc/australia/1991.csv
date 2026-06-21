@@ -1,0 +1,17 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Kankkunen, Juha",Lancia Delta HF Integrale 16v,FI,A8,5h 48m 48s,NA,NA,NA
+2,3,"Eriksson, Kenneth",Mitsubishi Galant VR-4,SE,A,+1m 13s,NA,NA,NA
+3,8,"Schwarz, Armin",Toyota Celica GT-4 (ST165),DE,A,+5m 54s,NA,NA,NA
+4,5,"Alen, Markku",Subaru Legacy RS,FI,A,+9m 27s,NA,NA,NA
+5,7,"Salonen, Timo",Mitsubishi Galant VR-4,FI,A,+12m 06s,NA,NA,NA
+6,12,"Millen, Rod",Mazda 323 GT-X,NZ,A,+15m 49s,NA,NA,NA
+7,10,"Dunkerton, Ross",Mitsubishi Galant VR-4,AU,A,+16m 36s,NA,NA,NA
+8,9,"Recalde, Jorge",Lancia Delta HF Integrale 16v,AR,A,+20m 33s,NA,NA,NA
+9,17,"Bates, Neal",Toyota Celica GT-4 (ST165),AU,A,+31m 16s,NA,NA,NA
+10,15,"Ordynski, Ed",Mitsubishi Galant VR-4,AU,N,+46m 12s,NA,NA,NA
+19,32,"Tajima, Nobuhiro",Suzuki Swift GTI,JP,A5,+1h 29m 33s,NA,NA,NA
+NA,2,"Sainz, Carlos",Toyota Celica GT-4 (ST165),ES,A,NA,NA,SS14,accident
+NA,4,"Carlsson, Ingvar",Mazda 323 GT-X,SE,A,NA,NA,SS31,accident
+NA,6,"Auriol, Didier",Lancia Delta HF Integrale 16v,FR,A,NA,NA,SS30,engine
+NA,11,"Bourne, Peter",Subaru Legacy RS,NZ,A,NA,NA,SS6,transmission
+NA,16,"Fury, George",Mitsubishi Galant VR-4,AU,N,NA,NA,SS25,suspension

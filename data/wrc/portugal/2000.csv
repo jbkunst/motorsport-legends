@@ -1,0 +1,115 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"Burns, Richard",Subaru Impreza WRC2000,GB,A8,"4h 34m 00,0s",NA,NA,NA
+2,10,"Gronholm, Marcus",Peugeot 206 WRC,FI,A8,"+6,5s",NA,NA,NA
+3,6,"Sainz, Carlos",Ford Focus WRC 00,ES,A8,"+2m 09,2s",NA,NA,NA
+4,16,"Rovanpera, Harri",Toyota Corolla WRC,FI,A8,"+3m 18,2s",NA,NA,NA
+5,9,"Delecour, Francois",Peugeot 206 WRC,FR,A8,"+4m 06,3s",NA,NA,NA
+6,2,"Loix, Freddy",Mitsubishi Carisma GT,BE,A8,"+7m 28,9s",NA,NA,NA
+7,25,"Martin, Markko",Toyota Corolla WRC,EE,A8,"+7m 41,6s",1:30,NA,NA
+8,11,"Schwarz, Armin",Skoda Octavia WRC,DE,A8,"+7m 47,4s",NA,NA,NA
+9,8,"Gardemeister, Toni",Seat Cordoba WRC Evo2,FI,A8,"+8m 24,2s",NA,NA,NA
+10,7,"Auriol, Didier",Seat Cordoba WRC Evo2,FR,A8,"+12m 38,0s",NA,NA,NA
+11,22,"Lopes, Adruzilo",Peugeot 206 WRC,PT,A8,"+15m 01,1s",NA,NA,NA
+12,12,"Climent, Luis",Skoda Octavia WRC,ES,A8,"+16m 10,0s",NA,NA,NA
+13,27,"Hagstrom, Pasi",Toyota Corolla WRC,FI,A8,"+17m 35,2s",NA,NA,NA
+14,23,"Madeira, Rui",Seat Cordoba WRC Evo2,PT,A8,"+22m 44,9s",NA,NA,NA
+15,37,"Campos, Miguel",Mitsubishi Carisma GT Evo6,PT,N4,"+24m 02,5s",NA,NA,NA
+16,31,"Papadimitriou, Ioannis",Subaru Impreza,GR,A8,"+26m 05,1s",NA,NA,NA
+17,38,"Stohl, Manfred",Mitsubishi Lancer Evo VI,AT,N4,"+27m 47,9s",NA,NA,NA
+18,50,"Ferreyros, Ramon",Mitsubishi Lancer Evo VI,PE,N4,"+32m 49,5s",NA,NA,NA
+19,24,"Dor, Frederic",Subaru Impreza,FR,A8,"+33m 14,4s",NA,NA,NA
+20,57,"Dias da Silva, Pedro",Mitsubishi Carisma GT Evo6,PT,N4,"+36m 58,5s",NA,NA,NA
+21,58,"Antunes, Americo",Mitsubishi Lancer Evo IV,PT,N4,"+39m 06,7s",NA,NA,NA
+22,76,"Colard, Pierre",Subaru Impreza 555,FR,A8,"+39m 16,4s",NA,NA,NA
+23,56,"Pascoal, Vitor",Mitsubishi Lancer Evo VI,PT,N4,"+43m 13,5s",NA,NA,NA
+24,65,"Rolo, Manuel",Mitsubishi Lancer Evo VI,PT,N4,"+48m 26,0s",NA,NA,NA
+25,59,"Cunha e Carmo, Pedro",Subaru Impreza,PT,N4,"+53m 39,5s",NA,NA,NA
+26,52,"Buffum, John",Mitsubishi Lancer Evo V,US,N4,"+54m 02,9s",NA,NA,NA
+27,35,"Guest, Michael",Hyundai Coupe Kit Car Evo2,AU,A7,"+55m 32,9s",NA,NA,NA
+28,47,"Ferreira da Silva, Manuel",Ford Escort RS Cosworth,PT,A8,"+57m 00,1s",NA,NA,NA
+29,70,"Quintas, Arlindo",Mitsubishi Carisma GT Evo6,PT,N4,"+1h 04m 01,2s",NA,NA,NA
+30,89,"Ferreira, Rodrigo",Mitsubishi Lancer Evo IV,PT,N4,"+1h 08m 45,5s",NA,NA,NA
+31,81,"Sanfilippo, Ignacio",Mitsubishi Lancer Evo VI,ES,N4,"+1h 12m 12,0s",NA,NA,NA
+32,61,"Magalhaes, Bruno",Mitsubishi Lancer Evo V,PT,N4,"+1h 14m 35,8s",NA,NA,NA
+33,78,"Prive, Olivier",Mitsubishi Lancer Evo VI,FR,N4,"+1h 17m 20,2s",NA,NA,NA
+34,72,"Heath, Nigel",Subaru Impreza,GB,A8,"+1h 20m 54,1s",NA,NA,NA
+35,92,"Pereira, Jose",Subaru Impreza,PT,N4,"+1h 21m 01,8s",NA,NA,NA
+36,66,"Marques, Carlos",Mitsubishi Lancer Evo III,PT,N4,"+1h 21m 24,9s",NA,NA,NA
+37,98,"Puertas, Francisco",Seat Ibiza GTi 16V,ES,A7,"+1h 22m 28,6s",NA,NA,NA
+38,114,"Barbosa, Pedro",Nissan Micra,PT,A5,"+1h 25m 53,5s",NA,NA,NA
+39,110,"Robalo, Luis",Nissan Micra,PT,A5,"+1h 37m 44,7s",NA,NA,NA
+40,94,"Villanueva, Alexander",Seat Ibiza GTi 16V,ES,A7,"+1h 43m 54,8s",NA,NA,NA
+41,95,"Olivet, Denis",Renault Clio Williams,FR,A7,"+1h 46m 48,7s",NA,NA,NA
+42,62,"Santos, Jose Pedro",Mitsubishi Lancer Evo V,PT,N4,"+1h 47m 30,8s",NA,NA,NA
+43,97,"Ramon Esturao, Jose",Seat Ibiza GTi 16V,ES,A7,"+1h 48m 51,3s",NA,NA,NA
+44,100,"Cerqueira, Jose",Seat Ibiza GTi 16V,PT,A7,"+2h 00m 59,9s",NA,NA,NA
+45,109,"Monteiro, Miguel",Ford Ka,PT,A5,"+2h 02m 31,3s",NA,NA,NA
+46,105,"Barata, Miguel",Nissan Micra,PT,A5,"+2h 06m 27,0s",NA,NA,NA
+47,118,"Miranda, Jose Pedro",Seat Ibiza GTi 16V,PT,N3,"+2h 06m 28,9s",NA,NA,NA
+48,120,"Silva, Filipe",Peugeot 106,PT,N1,"+2h 54m 33,2s",NA,NA,NA
+NA,1,"Makinen, Tommi",Mitsubishi Lancer Evo VI,FI,A8,NA,NA,SS9,off road
+NA,4,"Kankkunen, Juha",Subaru Impreza WRC2000,FI,A8,NA,NA,SS4,suspension
+NA,5,"McRae, Colin",Ford Focus WRC 00,GB,A8,NA,NA,SS9,engine
+NA,14,"Eriksson, Kenneth",Hyundai Accent WRC,SE,A8,NA,NA,SS14,clutch
+NA,15,"McRae, Alister",Hyundai Accent WRC,GB,A8,NA,NA,SS4,transmission
+NA,17,"Trelles, Gustavo",Mitsubishi Lancer Evo VI,UY,N4,NA,NA,SS15,mechanical
+NA,18,"Puras, Jesus",Mitsubishi Carisma GT Evo6,ES,N4,NA,NA,SS4,mechanical
+NA,19,"Solberg, Petter",Ford Focus WRC 00,NO,A8,NA,NA,SS19,mechanical
+NA,20,"Radstrom, Thomas",Toyota Corolla WRC,SE,A8,NA,NA,SS10,transmission
+NA,21,"Matos Chaves, Pedro",Toyota Corolla WRC,PT,A8,NA,NA,SS4,accident
+NA,26,"Holowczyc, Krzysztof",Subaru Impreza,PL,A8,NA,NA,SS7,accident
+NA,28,"Tuohino, Janne",Toyota Corolla WRC,FI,A8,NA,NA,SS7,accident
+NA,29,"Bakhashab, Abdullah",Toyota Corolla WRC,SA,A8,NA,NA,SS2,accident
+NA,30,"Vovos, Armodios",Toyota Corolla WRC,GR,A8,NA,NA,SS10,accident
+NA,32,"Kulig, Janusz",Ford Focus WRC,PL,A8,NA,NA,SS8,accident
+NA,33,"Solberg, Henning",Ford Escort WRC,NO,A8,NA,NA,SS10,accident
+NA,34,"Yazici, Serkan",Toyota Corolla WRC,TU,A8,NA,NA,SS17,mechanical
+NA,36,"Princen, Kris",Renault Megane,BE,A7,NA,NA,SS10,mechanical
+NA,39,"Nittel, Uwe",Mitsubishi Lancer Evo VI,DE,N4,NA,NA,SS14,mechanical
+NA,40,"Sanchez, Roberto",Subaru Impreza WRX,AR,N4,NA,NA,SS22,mechanical
+NA,41,"Galli, Gianluigi",Mitsubishi Lancer Evo V,IT,N4,NA,NA,SS1,accident
+NA,43,"Mendez, Gabriel",Mitsubishi Lancer Evo V,UY,N4,NA,NA,SS12,mechanical
+NA,44,"Menzi, Claudio Marcelo",Mitsubishi Lancer Evo VI,AR,N4,NA,NA,SS22,accident
+NA,45,"Louro, Gustavo",Ford Escort RS Cosworth,PT,A8,NA,NA,SS7,accident
+NA,46,"Duckworth, Roger",Subaru Impreza 555,GB,A8,NA,NA,SS16,mechanical
+NA,48,"Lopes, Vitor",Citroen Saxo,PT,A6,NA,NA,SS11,gearbox
+NA,49,"Magaud, Patrick",Ford Puma,FR,A6,NA,NA,SS14,mechanical
+NA,51,"Colsoul, Bob",Mitsubishi Lancer Evo V,BE,N4,NA,NA,SS15,mechanical
+NA,53,"Manfrinato, Giovanni",Mitsubishi Lancer Evo VI,IT,N4,NA,NA,SS16,mechanical
+NA,54,"Leal, Pedro",Mitsubishi Lancer Evo VI,PT,N4,NA,NA,SS13,accident
+NA,55,"Pozzo, Gabriel",Mitsubishi Lancer Evo VI,AR,N4,NA,NA,SS22,transmission
+NA,60,"Chaballe, Damien",Subaru Impreza,BE,N4,NA,NA,SS19,mechanical
+NA,63,"Muniente, Manuel",Mitsubishi Lancer Evo VI,ES,N4,NA,NA,SS21,mechanical
+NA,67,"Boxoen, Joost",Mitsubishi Lancer Evo IV,BE,N4,NA,NA,SS18,mechanical
+NA,68,"Bos, Pierre",Mitsubishi Lancer Evo V,FR,N4,NA,NA,SS9,mechanical
+NA,69,"Loix, David",Mitsubishi Lancer Evo V,BE,N4,NA,NA,SS12,off road
+NA,71,"Cunha, Jose",Subaru Impreza,PT,A8,NA,NA,SS11,unknown
+NA,73,"Fonseca, Luis",Ford Escort RS Cosworth,PT,A8,NA,NA,SS4,mechanical
+NA,74,"Kuchar, Tomasz",Toyota Celica GT-Four (ST205),PL,A8,NA,NA,SS14,mechanical
+NA,77,"Ascarza, Jose Luis",Mitsubishi Lancer Evo VI,ES,N4,NA,NA,SS4,steering
+NA,79,"l'Anson, Mark",Mitsubishi Lancer Evo V,GB,N4,NA,NA,SS17,mechanical
+NA,80,"Sousa, Nuno",Ford Escort RS Cosworth,PT,N4,NA,NA,SS16,mechanical
+NA,82,"Gravato, Antonio",Ford Escort RS Cosworth,PT,N4,NA,NA,SS13,engine
+NA,83,"Lloyd, John",Subaru Impreza,GB,N4,NA,NA,SS1,mechanical
+NA,84,"Martins, Serafim",Mitsubishi Lancer Evo,PT,N4,NA,NA,SS17,mechanical
+NA,85,"Gryazin, Stanislav",Mitsubishi Lancer Evo VI,RU,N4,NA,NA,SS4,accident
+NA,86,"Tuthill, Richard",Subaru Impreza,GB,N4,NA,NA,SS4,mechanical
+NA,88,"Freire, Paulo",Toyota Celica GT-Four (ST205),PT,N4,NA,NA,SS7,mechanical
+NA,90,"Pinto, Jorge",Ford Escort RS Cosworth,PT,N4,NA,NA,SS2,fire
+NA,91,"Candian, Marta",Mitsubishi Lancer Evo V,IT,N4,NA,NA,SS6,engine
+NA,93,"Moniz, Luis",Mercedes Benz 190,PT,A8,NA,NA,SS3,mechanical
+NA,96,"Vieira Leite, Jose",Volkswagen Golf GTI 16V,PT,A7,NA,NA,SS15,mechanical
+NA,99,"Calisto, Vitor",Citroen ZX 16S,PT,A7,NA,NA,SS12,mechanical
+NA,101,"Anllo, German",Seat Ibiza GTi 16V,ES,A7,NA,NA,SS16,accident
+NA,103,"Trindade, Rui",Peugeot 106,PT,A6,NA,NA,SS2,gearbox
+NA,104,"Marty, Olivier",Peugeot 106,FR,A6,NA,NA,SS20,mechanical
+NA,106,"Aguirre, Jose",Fiat Cinquecento,ES,A5,NA,NA,SS7,mechanical
+NA,107,"Almeida, Rui",Ford Ka,PT,A5,NA,NA,SS15,mechanical
+NA,108,"Matos, Manuel",Ford Ka,PT,A5,NA,NA,SS7,mechanical
+NA,111,"Tomaz, Manuel",Nissan Micra,PT,A5,NA,NA,SS7,gearbox
+NA,112,"Pais, Fernando",Nissan Micra,PT,A5,NA,NA,SS7,mechanical
+NA,113,"Matias, Miguel",Nissan Micra,PT,A5,NA,NA,SS17,mechanical
+NA,115,"Almeida, Nuno",Nissan Micra,PT,A5,NA,NA,SS11,unknown
+NA,116,"Ferreira, Jorge",Fiat Cinquecento,PT,A5,NA,NA,SS11,unknown
+NA,117,"Pessoa, Jose",Fiat Cinquecento,PT,A5,NA,NA,SS11,mechanical
+NA,119,"Real, Sergio",Toyota Starlet,PT,N1,NA,NA,SS11,unknown

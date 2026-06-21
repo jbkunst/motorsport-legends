@@ -1,0 +1,32 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,7,"Kullang, Anders",Opel Ascona 400,SE,G4,4h 17m 52s,NA,NA,NA
+2,1,"Blomqvist, Stig",Saab 99 Turbo,SE,G2,+1m 30s,NA,NA,NA
+3,4,"Waldegard, Bjorn",Fiat 131 Abarth,SE,G4,+3m 47s,NA,NA,NA
+4,2,"Mikkola, Hannu",Ford Escort RS,FI,G4,+5m 57s,NA,NA,NA
+5,11,"Johansson, Bjorn",Opel Kadett GT/E,SE,G2,+7m 21s,NA,NA,NA
+6,3,"Airikkala, Pentti",Vauxhall Chevette 2300,FI,G4,+7m 52s,NA,NA,NA
+7,5,"Salonen, Timo",Datsun 160J,FI,G2,+10m 09s,NA,NA,NA
+8,9,"Eklund, Per",Datsun 160J,SE,G2,+12m 17s,NA,NA,NA
+9,29,"Nilsson, Bengt",Opel Kadett GT/E,SE,G2,+16m 03s,NA,NA,NA
+10,10,"Carlsson, Ingvar",BMW 320,SE,G2,+16m 06s,NA,NA,NA
+11,42,"Blomqvist, Bjorn",Opel Kadett GT/E,SE,G1,+19m 02s,NA,NA,NA
+12,33,"Nilsson, Soren",Opel Kadett GT/E,SE,G2,+21m 21s,NA,NA,NA
+13,19,"Carlsson, Morgan",Ford Escort RS,SE,G4,+22m 14s,NA,NA,NA
+14,8,"Sogaard, Jens",Opel Kadett GT/E,NO,G2,+23m 21s,NA,NA,NA
+15,83,"Walfridsson, Lars-Erik",Volvo 142,SE,G2,+25m 03s,NA,NA,NA
+16,35,"Temmes, Erkki",Opel Kadett GT/E,SE,G2,+28m 06s,NA,NA,NA
+17,13,"Haugland, John",Skoda 130,NO,G2,+28m 23s,NA,NA,NA
+18,46,"Hagman, Jan",Ford Escort RS,SE,G4,+29m 04s,NA,NA,NA
+19,54,"Carlsson, Per",Saab 96 V4,SE,G2,+29m 12s,NA,NA,NA
+20,39,"Andersson, Torsten",Opel Kadett GT/E,SE,G2,+29m 20s,NA,NA,NA
+22,22,"Jonsson, Mats",Volvo 142,SE,G2,NA,NA,NA,NA
+32,47,"Luc, Jean-Paul",Citroen CX2400,FR,G2,NA,NA,NA,NA
+51,150,"Eriksson, Kenneth",Saab 96 V4,SE,G2,NA,NA,NA,NA
+NA,6,"Danielsson, Bror",Ford Escort RS,SE,G4,NA,NA,SS6,head gasket
+NA,12,"Stromberg, Ola",Saab 99EMS,SE,G2,NA,NA,SS7,gearbox
+NA,16,"Jonsson, Lasse",Porsche 911,SE,G4,NA,NA,SS26,ignition
+NA,17,"Schanche, Martin",Ford Escort RS,NO,G4,NA,NA,SS6,accident
+NA,23,"Borjesson, Ruben",Volvo 242,SE,G2,NA,NA,SS11,overheating
+NA,58,"Grundel, Karl",Saab 96 V4,SE,G2,NA,NA,NA,engine
+NA,NA,"Aho, Kalevi",Ford Escort,FI,NA,NA,NA,NA,accident
+NA,NA,"Melin, Kjell",Volvo 242,SE,NA,NA,NA,NA,gearbox

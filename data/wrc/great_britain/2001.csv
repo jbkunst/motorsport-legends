@@ -1,0 +1,118 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Gronholm, Marcus",Peugeot 206WRC (2001),FI,A8,"3h 23m 44,8s",NA,NA,NA
+2,16,"Rovanpera, Harri",Peugeot 206WRC (2001),FI,A8,"+2m 27,1s",NA,NA,NA
+3,5,"Burns, Richard",Subaru Impreza WRC2001,GB,A8,"+3m 15,4s",0:10,NA,NA
+4,10,"McRae, Alister",Hyundai Accent WRC2,GB,A8,"+6m 48,8s",NA,NA,NA
+5,11,"Schwarz, Armin",Skoda Octavia WRC Evo2,DE,A8,"+7m 31,3s",NA,NA,NA
+6,9,"Eriksson, Kenneth",Hyundai Accent WRC2,SE,A8,"+8m 11,0s",NA,NA,NA
+7,2,"Auriol, Didier",Peugeot 206WRC (2001),FR,A8,"+8m 21,1s",NA,NA,NA
+8,12,"Thiry, Bruno",Skoda Octavia WRC Evo2,BE,A8,"+10m 55,6s",NA,NA,NA
+9,26,"de Mevius, Gregoire",Peugeot 206 WRC,BE,A8,"+14m 17,7s",NA,NA,NA
+10,21,"Arai, Toshihiro",Subaru Impreza WRC2001,JP,A8,"+15m 06,4s",NA,NA,NA
+11,38,"Higgins, David",Subaru Impreza,GB,N4,"+21m 11,9s",NA,NA,NA
+12,41,"Ferreyros, Ramon",Mitsubishi Lancer Evo,PE,N4,"+21m 14,7s",NA,NA,NA
+13,25,"Solberg, Henning",Subaru Impreza,NO,A8,"+23m 51,4s",0:40,NA,NA
+14,82,"Ginley, Alistair",Mitsubishi Lancer Evo,GB,N4,"+26m 47,9s",NA,NA,NA
+15,53,"Loeb, Sebastien",Citroen Saxo S1600,FR,A6,"+26m 52,5s",NA,NA,NA
+16,31,"Blomqvist, Stig",Mitsubishi Lancer Evo,SE,N4,"+26m 56,4s",NA,NA,NA
+17,55,"McShea, Niall",Citroen Saxo S1600,GB,A6,"+28m 56,2s",NA,NA,NA
+18,44,"Jones, Glyn",Subaru Impreza WRC99,GB,A8,"+33m 12,0s",NA,NA,NA
+19,46,"Bijvelds, Peter",Mitsubishi Lancer Evo,NL,N4,"+34m 12,4s",NA,NA,NA
+20,74,"Boland, Eamonn",Subaru Impreza,IE,A8,"+34m 22,9s",NA,NA,NA
+21,88,"Clark, Oliver",Mitsubishi Lancer Evo,GB,N4,"+35m 09,4s",NA,NA,NA
+22,54,"Cols, Larry",Peugeot 206 S1600,BE,A6,"+35m 40,3s",1:40,NA,NA
+23,42,"Jones, Reece",Mitsubishi Lancer Evo,NZ,N4,"+38m 00,2s",NA,NA,NA
+24,87,"Buckley, Neil",Mitsubishi Lancer Evo,GB,N4,"+39m 19,9s",NA,NA,NA
+25,95,"Stephenson, Peter",Subaru Impreza,GB,A8,"+44m 30,3s",0:10,NA,NA
+26,65,"Galanti, Alejandro",Ford Puma S1600,PY,A6,"+44m 46,5s",0:10,NA,NA
+27,99,"Colsoul, Bob",Mitsubishi Lancer Evo,BE,N4,"+44m 59,7s",NA,NA,NA
+28,72,"Mazlan, Saladin",Citroen Saxo S1600,MY,A6,"+45m 45,0s",NA,NA,NA
+29,68,"Ceccato, Massimo",Fiat Punto S1600,IT,A6,"+45m 57,6s",NA,NA,NA
+30,93,"Payne, Charles",Mitsubishi Lancer Evo,GB,A8,"+46m 04,8s",2:10,NA,NA
+31,45,"Bell, Brian",Ford Focus WRC,GB,A8,"+46m 14,1s",NA,NA,NA
+32,104,"Postillon, Patrick",Mitsubishi Lancer Evo,FR,N4,"+47m 32,7s",NA,NA,NA
+33,92,"Middleton, Graham",Hyundai Coupe Kit Car,GB,A7,"+48m 17,2s",NA,NA,NA
+34,112,"Sola, Daniel",Seat Ibiza GTi 16V,ES,A7,"+50m 15,9s",NA,NA,NA
+35,69,"Bernardi, Nicolas",Peugeot 206 S1600,FR,A6,"+52m 14,2s",NA,NA,NA
+36,110,"de Martini, Simone",Mitsubishi Lancer Evo,IT,N4,"+53m 15,4s",0:40,NA,NA
+37,117,"Harris, Mick",Mitsubishi Lancer Evo,GB,N4,"+53m 51,2s",0:10,NA,NA
+38,113,"Vinyes, Joan",Seat Ibiza GTi 16V,AD,A7,"+54m 13,8s",NA,NA,NA
+39,118,"Betti, Luca",Fiat Punto,IT,A6,"+55m 00,1s",1:30,NA,NA
+40,107,"Bird, Paul",Subaru Impreza,GB,N4,"+55m 01,0s",NA,NA,NA
+41,102,"Huisman, Marinus",Mitsubishi Lancer Evo,NL,N4,"+56m 01,5s",0:10,NA,NA
+42,130,"van Empel, Patrick",Mitsubishi Lancer Evo,NL,N4,"+56m 42,0s",NA,NA,NA
+43,73,"Chemin, Christian",Fiat Punto S1600,IT,A6,"+56m 45,5s",1:20,NA,NA
+44,115,"Bagshaw, David",Mitsubishi Lancer Evo,GB,N4,"+1h 00m 16,9s",4:40,NA,NA
+45,122,"Mansfeld, Andreas",Honda Integra,DE,N3,"+1h 10m 51,6s",2:50,NA,NA
+46,119,"Presswell, Graeme",Mitsubishi Lancer Evo,GB,N4,"+1h 11m 58,9s",0:20,NA,NA
+47,125,"Jardine, Tony",Honda Integra,GB,N3,"+1h 12m 21,3s",0:10,NA,NA
+48,108,"Huisman, Maurice",Mitsubishi Lancer Evo,NL,N4,"+1h 14m 12,5s",0:50,NA,NA
+49,129,"Newcombe, Martin",Honda Civic,GB,N2,"+1h 19m 20,7s",2:00,NA,NA
+50,128,"Gill, Rob",Ford Ka,GB,A5,"+2h 03m 12,0s",NA,NA,NA
+NA,3,"Sainz, Carlos",Ford Focus RS WRC 01,ES,A8,NA,NA,SS11,spectator injury
+NA,4,"McRae, Colin",Ford Focus RS WRC 01,GB,A8,NA,NA,SS4,rolled
+NA,6,"Solberg, Petter",Subaru Impreza WRC2001,NO,A8,NA,NA,SS2,mechanical
+NA,7,"Makinen, Tommi",Mitsubishi Lancer WRC,FI,A8,NA,NA,SS2,lost wheel
+NA,8,"Loix, Freddy",Mitsubishi Lancer WRC,BE,A8,NA,NA,TC11,transmission
+NA,17,"Higgins, Mark",Ford Focus RS WRC 01,GB,A8,NA,NA,SS11,spectator injury
+NA,18,"Martin, Markko",Subaru Impreza WRC2001,EE,A8,NA,NA,SS5,engine
+NA,19,"Liatti, Piero",Hyundai Accent WRC2,IT,A8,NA,NA,SS2,transmission
+NA,20,"Kresta, Roman",Skoda Octavia WRC Evo2,CZ,A8,NA,NA,SS8,rolled
+NA,22,"Panizzi, Gilles",Peugeot 206 WRC,FR,A8,NA,NA,SS4,mechanical
+NA,23,"Tuohino, Janne",Toyota Corolla WRC,FI,A8,NA,NA,SS4,mechanical
+NA,24,"Evans, Gwyndaf",Skoda Octavia WRC Evo3,GB,A8,NA,NA,SS7,off road
+NA,28,"Backlund, Kenneth",Mitsubishi Lancer Evo,SE,N4,NA,NA,SS17,mechanical
+NA,29,"Wearden, Neil",Subaru Impreza,GB,A8,NA,NA,SS10,off road
+NA,33,"Breijer, Mark",Subaru Impreza,NL,A8,NA,NA,SS8,off road
+NA,34,"Papadimitriou, Ioannis",Subaru Impreza 555,GR,A8,NA,NA,SS1,engine
+NA,36,"Petch, Steve",Hyundai Accent WRC,GB,A8,NA,NA,SS7,mechanical
+NA,37,"Littler, Peter",Hyundai Accent WRC,GB,A8,NA,NA,SS7,unknown
+NA,39,"Brown, Mike",Mitsubishi Lancer Evo,GB,N4,NA,NA,SS2,off road
+NA,40,"Jaio, Jesus",Ford Focus WRC,ES,A8,NA,NA,SS7,off road
+NA,43,"Cox, Gavin",Mitsubishi Lancer Evo,GB,N4,NA,NA,SS8,off road
+NA,47,"Easson, Jeremy",Mitsubishi Lancer Evo,GB,N4,NA,NA,SS9,unknown
+NA,48,"Svedlund, Oscar",Mitsubishi Lancer Evo,SE,N4,NA,NA,SS13,transmission
+NA,49,"Sterckx, David",Mitsubishi Lancer Evo,BE,N4,NA,NA,SS5,mechanical
+NA,50,"Stohl, Manfred",Fiat Punto S1600,AT,A6,NA,NA,SS4,off road
+NA,51,"Magaud, Patrick",Ford Puma S1600,FR,A6,NA,NA,SS4,mechanical
+NA,52,"Dallavilla, Andrea",Fiat Punto S1600,IT,A6,NA,NA,SS17,mechanical
+NA,56,"Basso, Giandomenico",Fiat Punto S1600,IT,A6,NA,NA,SS6,engine
+NA,57,"Robert, Cedric",Peugeot 206 S1600,FR,A6,NA,NA,SS16,unknown
+NA,58,"Vallejo, Sergio",Fiat Punto S1600,ES,A6,NA,NA,SS4,off road
+NA,59,"Rousselot, Benoit",Ford Puma S1600,FR,A6,NA,NA,SS16,unknown
+NA,61,"Fontana, Corrado",Peugeot 206 S1600,IT,A6,NA,NA,SS9,did not start stage
+NA,62,"Valimaki, Jussi",Peugeot 206 S1600,FI,A6,NA,NA,SS7,unknown
+NA,63,"Stenshorne, Martin",Ford Puma S1600,NO,A6,NA,NA,SS15,unknown
+NA,64,"Macaluso, Massimo",Fiat Punto S1600,IT,A6,NA,NA,SS3,mechanical
+NA,67,"Llovera, Albert",Fiat Punto S1600,AD,A6,NA,NA,SS17,unknown
+NA,71,"Duval, Francois",Ford Puma S1600,BE,A6,NA,NA,SS4,off road
+NA,75,"Elsmore, Nik",Mitsubishi Lancer Evo,GB,N4,NA,NA,SS2,mechanical
+NA,77,"McGarritty, Derek",Subaru Impreza 555,IE,A8,NA,NA,SS8,unknown
+NA,78,"Rowe, Martin",Ford Puma,GB,A6,NA,NA,SS8,electrical
+NA,79,"Bengry, Theo",Subaru Impreza 555,GB,A8,NA,NA,SS7,unknown
+NA,83,"Davis, Richard",Mitsubishi Lancer Evo,GB,N4,NA,NA,SS9,engine
+NA,84,"Ceen, Robert",Subaru Impreza 555,GB,A8,NA,NA,SS16,unknown
+NA,85,"Pesticcio, Leon",Mitsubishi Lancer Evo,IT,N4,NA,NA,SS17,unknown
+NA,86,"Errani, Riccardo",Mitsubishi Lancer Evo,IT,N4,NA,NA,SS1,mechanical
+NA,89,"Reynolds, Julian",Subaru Impreza 555,GB,A8,NA,NA,SS17,off road
+NA,90,"Harron, Stephen",Subaru Impreza 555,GB,A8,NA,NA,SS8,unknown
+NA,91,"Swann, Robert",Mitsubishi Lancer Evo,GB,N4,NA,NA,SS15,unknown
+NA,94,"Willmington, Anthony",Mitsubishi Lancer Evo,GB,N4,NA,NA,SS17,unknown
+NA,96,"Redhead, Simon",Subaru Impreza,GB,N4,NA,NA,SS4,engine
+NA,97,"Baldacci, Mirco",Mitsubishi Lancer Evo,SM,N4,NA,NA,SS17,unknown
+NA,98,"Head, Steve",Mitsubishi Lancer Evo,GB,N4,NA,NA,SS8,transmission
+NA,100,"Barratt, Natalie",Mitsubishi Lancer Evo,GB,N4,NA,NA,SS14,unknown
+NA,101,"Haddon, Andrew",Mitsubishi Lancer Evo,GB,N4,NA,NA,SS2,mechanical
+NA,103,"Whitehurst, Don",Subaru Impreza,GB,N4,NA,NA,SS3,mechanical
+NA,105,"Winkles, Mark",Mitsubishi Lancer Evo,GB,N4,NA,NA,SS15,oil pressure
+NA,106,"Frisiero, Fabio",Mitsubishi Lancer Evo,IT,N4,NA,NA,SS17,unknown
+NA,109,"Liebehenschel, Dark",Citroen Saxo,DE,A6,NA,NA,SS8,off road
+NA,111,"Katajamaki, Kosti",Volkswagen Polo,FI,A6,NA,NA,SS4,gearbox
+NA,114,"Villanueva, Alexander",Seat Ibiza GTi 16V,ES,A7,NA,NA,SS10,clutch
+NA,116,"Nolan, Jeremy",Mitsubishi Lancer Evo,GB,N4,NA,NA,SS14,unknown
+NA,120,"Thomas, Simon",Peugeot 306,GB,N3,NA,NA,SS8,off road
+NA,123,"Gwynne, Andy",Vauxhall Corsa,GB,A6,NA,NA,SS6,transmission
+NA,124,"Griffiths, Paul",Nissan Micra,GB,A5,NA,NA,SS15,unknown
+NA,126,"Jansson, Magnus",Mitsubishi Lancer Evo,SE,N4,NA,NA,SS14,fuel pump
+NA,127,"Wheeler, Mark",Ford Puma,GB,A6,NA,NA,SS16,unknown
+NA,132,"Bound, Colin",Nissan Micra,GB,A5,NA,NA,SS9,gearbox

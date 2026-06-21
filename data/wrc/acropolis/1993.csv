@@ -1,0 +1,24 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,7,"Biasion, Massimo",Ford Escort RS Cosworth,IT,A8,6h 54m 35s,NA,NA,NA
+2,3,"Sainz, Carlos",Lancia Delta HF Integrale,ES,A,+1m 13s,NA,NA,NA
+3,9,"Schwarz, Armin",Mitsubishi Lancer Evo I,DE,A,+2m 44s,NA,NA,NA
+4,8,"Aghini, Andrea",Lancia Delta HF Integrale,IT,A,+5m 40s,NA,NA,NA
+5,11,"Trelles, Gustavo",Lancia Delta HF Integrale,UY,A,+8m 04s,NA,NA,NA
+6,18,"Makinen, Tommi",Lancia Delta HF Integrale,FI,A,+8m 09s,NA,NA,NA
+7,12,"Fiorio, Alessandro",Lancia Delta HF Integrale,IT,A,+29m 09s,NA,NA,NA
+8,32,"Apostolou, Konstantinos",Lancia Delta HF Integrale,GR,A,+44m 25s,NA,NA,NA
+9,34,"Tsadaris, Nikos",Lancia Delta HF Integrale,GR,A,+45m 10s,NA,NA,NA
+10,21,"Fassina, Alessandro",Mazda 323,IT,N,+1h 13m 29s,NA,NA,NA
+11,25,"Triner, Emil",Skoda Favorit 136L,CZ,A,+1h 15m 36s,NA,NA,NA
+NA,1,"Auriol, Didier",Toyota Celica Turbo 4WD (ST185),FR,A,NA,NA,SS8,overheating
+NA,2,"Delecour, Francois",Ford Escort RS Cosworth,FR,A,NA,NA,SS31,engine
+NA,4,"Eriksson, Kenneth",Mitsubishi Lancer Evo I,SE,A,NA,NA,SS2,broken sump
+NA,5,"McRae, Colin",Subaru Legacy RS,GB,A,NA,NA,SS12,suspension
+NA,6,"Kankkunen, Juha",Toyota Celica Turbo 4WD (ST185),FI,A,NA,NA,SS20,electrics
+NA,10,"Vatanen, Ari",Subaru Legacy RS,FI,A,NA,NA,SS20,accident
+NA,14,"Recalde, Jorge",Lancia Delta HF Integrale,AR,N,NA,NA,SS21,rear suspension
+NA,15,"Nishiyama, Hiroshi",Nissan Sunny GTI-R,JP,N,NA,NA,SS27,accident
+NA,16,"Thiry, Bruno",Opel Astra,BE,A,NA,NA,SS7,accident
+NA,17,"Driano, Christine",Citroen AX,FR,A,NA,NA,SS8,rear suspension
+NA,19,"Stohl, Rudolf",Audi Coupe S2,AT,A,NA,NA,SS1,engine
+NA,20,"bin Sulayem, Mohammed",Ford Escort RS Cosworth,AE,N,NA,NA,SS22,gearbox

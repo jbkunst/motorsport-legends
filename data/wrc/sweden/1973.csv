@@ -1,0 +1,33 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Blomqvist, Stig",Saab 96 V4,SE,G2,9h 18m 31s,NA,NA,NA
+2,7,"Eklund, Per",Saab 96 V4,SE,G2,+2m 22s,NA,NA,NA
+3,11,"Therier, Jean-Luc",Renault-Alpine A110 1600,FR,G4,+15m 41s,NA,NA,NA
+4,3,"Kallstrom, Harry",Lancia Fulvia HF,SE,G4,+18m 43s,NA,NA,NA
+5,2,"Lindberg, Hakan",Fiat 124 Abarth Spider,SE,G4,+22m 10s,NA,NA,NA
+6,4,"Waldegard, Bjorn",Volkswagen 1303S,SE,G2,+38m 57s,NA,NA,NA
+7,10,"Danielsson, Bror",BMW 2002,SE,G1,+42m 27s,NA,NA,NA
+8,18,"Haugland, John",Skoda 120,NO,G2,+1h 17m 10s,NA,NA,NA
+9,9,"Walfridsson, Per-Inge",Volvo 142S,SE,G2,+1h 17m 53s,NA,NA,NA
+10,14,"Donner, Frederick",Opel Ascona,FI,G2,+1h 18m 51s,NA,NA,NA
+11,NA,"Abrahamsson, Stig",Saab 96 V4,SE,G2,+1h 19m 36s,NA,NA,NA
+12,NA,"Ivarsson, Kjell",Saab 96 V4,SE,G2,+1h 20m 52s,NA,NA,NA
+13,NA,"Tjerneld, Per",Opel Ascona,SE,G2,+1h 23m 00s,NA,NA,NA
+14,8,"Nicolas, Jean-Pierre",Renault 12 Gordini,FR,G2,+1h 25m 59s,NA,NA,NA
+15,NA,"Bergstedt, Soren",Renault 12 Gordini,SE,G2,+1h 30m 54s,NA,NA,NA
+16,NA,"Engseth, Per",Volkswagen 1302S,NO,G2,+1h 31m 32s,NA,NA,NA
+17,NA,"Sevelius, Hans",Alfa Romeo Giulia,FI,G2,+1h 44m 21s,NA,NA,NA
+18,NA,"Carlsson, Jan",Volvo 142S,NO,G2,+1h 48m 19s,NA,NA,NA
+19,NA,"Stenshagen, Egil",Datsun 1800,NO,G2,+1h 49m 50s,NA,NA,NA
+20,NA,"Granberg, Ole Edwin",BMW 2002,NO,G2,+1h 54m 03s,NA,NA,NA
+21,NA,"Aaby, Erik",Opel Ascona,NO,G2,+1h 57m 38s,NA,NA,NA
+22,NA,"Flygind, Bjorn",Opel Ascona,NO,G2,+2h 01m 01s,NA,NA,NA
+23,NA,"Kottulinsky, Freddy",Toyota Corolla,SE,G2,+2h 12m 25s,NA,NA,NA
+24,NA,"Andersson, Mats",Saab 96 V4,SE,G2,+2h 20m 02s,NA,NA,NA
+25,NA,"Linderson, Johnny",Volvo 142,SE,G2,+2h 23m 28s,NA,NA,NA
+NA,6,"Andersson, Ove",Lancia Fulvia HF,SE,G4,NA,NA,SS2,accident
+NA,12,"Nystrom, Lars",Volkswagen 1303S,SE,G2,NA,NA,NA,distributor
+NA,19,"Johansson, Roger",Saab 96 V4,SE,G2,NA,NA,NA,driveshaft
+NA,21,"Darniche, Bernard",Renault 12 Gordini,FR,G2,NA,NA,SS2,accident
+NA,NA,"Armstrong, Gordon",Ford Escort Mexico,GB,G2,NA,NA,SS16,accident
+NA,NA,"Smith, Andrew",BMW 2002,GB,G1,NA,NA,SS16,off road
+NA,NA,"York, Jeffrey",Porsche 911,GB,NA,NA,NA,SS2,off road

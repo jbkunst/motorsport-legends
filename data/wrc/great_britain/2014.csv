@@ -1,0 +1,64 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Ogier, Sebastien",Volkswagen Polo R WRC,FR,RC1,"3h 03m 08,2s",NA,NA,NA
+2,5,"Hirvonen, Mikko",Ford Fiesta RS WRC,FI,RC1,"+37,6s",NA,NA,NA
+3,4,"Ostberg, Mads",Citroen DS3 WRC,NO,RC1,"+1m 03,6s",0:10,NA,NA
+4,7,"Neuville, Thierry",Hyundai i20 WRC,BE,RC1,"+1m 14,9s",NA,NA,NA
+5,6,"Evans, Elfyn",Ford Fiesta RS WRC,GB,RC1,"+1m 24,3s",NA,NA,NA
+6,3,"Meeke, Kris",Citroen DS3 WRC,GB,RC1,"+2m 03,0s",0:10,NA,NA
+7,22,"Tanak, Ott",Ford Fiesta RS WRC,EE,RC1,"+2m 29,7s",NA,NA,NA
+8,2,"Latvala, Jari-Matti",Volkswagen Polo R WRC,FI,RC1,"+2m 47,5s",NA,NA,NA
+9,21,"Prokop, Martin",Ford Fiesta RS WRC,CZ,RC1,"+3m 43,3s",NA,NA,NA
+10,20,"Paddon, Hayden",Hyundai i20 WRC,NZ,RC1,"+3m 48,5s",NA,NA,NA
+11,10,"Kubica, Robert",Ford Fiesta RS WRC,PL,RC1,"+4m 19,4s",NA,NA,NA
+12,35,"Ketomaa, Jari",Ford Fiesta,FI,RC2,"+10m 59,9s",NA,NA,NA
+13,37,"Bertelli, Lorenzo",Ford Fiesta,IT,RC2,"+11m 57,3s",NA,NA,NA
+14,31,"Wilson, Matthew",Ford Fiesta,GB,RC2,"+12m 17,1s",NA,NA,NA
+15,46,"Cave, Thomas",Ford Fiesta,GB,RC2,"+12m 28,3s",NA,NA,NA
+16,36,"Kruuda, Karl",Ford Fiesta S2000,EE,RC2,"+13m 01,5s",NA,NA,NA
+17,32,"al-Attiyah, Nasser",Ford Fiesta,QA,RC2,"+13m 36,9s",NA,NA,NA
+18,83,"Pryce, Osian",Ford Fiesta,GB,RC2,"+13m 59,3s",NA,NA,NA
+19,40,"Gorban, Valeriy",Mini John Cooper Works S2000,UA,RC2,"+14m 20,7s",NA,NA,NA
+20,80,"Protasov, Yuriy",Ford Fiesta,UA,RC2,"+16m 03,9s",NA,NA,NA
+21,39,"Gilbert, Quentin",Ford Fiesta,FR,RC2,"+17m 25,0s",NA,NA,NA
+22,82,"Morrow, Phillip",Mitsubishi Lancer Evo IX,GB,RC2,"+22m 21,7s",NA,NA,NA
+23,41,"Fuchs Sierlecki, Nicolas",Ford Fiesta,PE,RC2,"+22m 32,4s",NA,NA,NA
+24,86,"Try, Pal",Ford Fiesta,NO,RC2,"+25m 11,0s",NA,NA,NA
+25,81,"Thorburn, Euan",Ford Fiesta S2000,GB,RC2,"+26m 54,2s",1:50,NA,NA
+26,62,"Fisher, Alastair",Citroen DS3,GB,RC3,"+28m 11,9s",NA,NA,NA
+27,85,"Moffett, Josh",Mitsubishi Lancer Evo IX,IE,RC2,"+28m 38,2s",NA,NA,NA
+28,56,"Koci, Martin",Citroen DS3,SK,RC3,"+29m 30,7s",NA,NA,NA
+29,88,"Frustol, Svein",Ford Fiesta,NO,RC2,"+30m 13,2s",0:10,NA,NA
+30,8,"Hanninen, Juho",Hyundai i20 WRC,FI,RC1,"+30m 46,8s",0:20,NA,NA
+31,73,"Haapamaki, Henri",Citroen DS3,FI,RC3,"+31m 06,4s",NA,NA,NA
+32,58,"Taylor, Molly",Citroen DS3,AU,RC3,"+32m 49,0s",NA,NA,NA
+33,38,"Serderidis, Jourdan",Ford Fiesta,GR,RC2,"+33m 38,0s",NA,NA,NA
+34,92,"Veiby, Ole Christian",Citroen DS3,NO,RC3,"+33m 52,5s",NA,NA,NA
+35,57,"Lefebvre, Stephane",Citroen DS3,FR,RC2,"+34m 21,4s",NA,NA,NA
+36,53,"Domzala, Aron",Citroen DS3,PL,RC3,"+34m 23,7s",NA,NA,NA
+37,94,"Cumiskey, Brendan",Subaru Impreza WRX,IE,RC2,"+34m 36,7s",1:00,NA,NA
+38,90,"Greer, Jonathan",Citroen DS3,GB,RC3,"+36m 20,1s",0:10,NA,NA
+39,97,"Ingram, Christopher",Peugeot 208,GB,RC4,"+37m 25,3s",0:10,NA,NA
+40,95,"Utting, Wug",Subaru Impreza WRX,GB,RC2,"+37m 28,6s",NA,NA,NA
+41,106,"Raftery, Dean",Ford Fiesta,IE,RC4,"+39m 48,2s",NA,NA,NA
+42,109,"Greensmith, Fergus",Ford Fiesta,GB,RC4,"+41m 51,5s",NA,NA,NA
+43,91,"Williams, Sara",Subaru Impreza WRX,GB,RC2,"+43m 38,7s",1:30,NA,NA
+44,102,"Wilkinson, Spencer",Subaru Impreza WRX,GB,RC2,"+48m 36,8s",1:10,NA,NA
+45,104,"Ohba, Seisuke",Ford Fiesta,JP,RC4,"+55m 04,7s",0:20,NA,NA
+46,47,"Koltun, Jaroslaw",Ford Fiesta,PL,RC2,"+57m 50,8s",1:20,NA,NA
+47,93,"Jardine, Tony",Mitsubishi Lancer Evo IX,GB,RC2,"+58m 57,8s",0:10,NA,NA
+48,110,"Simpson, Tony",Ford Fiesta ST,GB,RC4,"+1h 04m 07,4s",0:40,NA,NA
+49,55,"Giordano, Quentin",Citroen DS3,FR,RC3,"+1h 06m 49,6s",15:00,NA,NA
+50,99,"Pearson, Garry",Peugeot 208,GB,RC4,"+1h 08m 18,2s",0:20,NA,NA
+51,103,"McKay, Benjamyn",Renault Twingo,GB,RC5,"+1h 09m 30,4s",NA,NA,NA
+52,105,"Kakad, Sacha",Ford Fiesta ST,GB,RC4,"+1h 16m 08,1s",1:00,NA,NA
+53,98,"Ptaszek, Hubert",Ford Fiesta,PL,RC4,"+1h 57m 01,3s",NA,NA,NA
+NA,9,"Mikkelsen, Andreas",Volkswagen Polo R WRC,NO,RC1,NA,NA,SS19,mechanical
+NA,15,"Solberg, Henning",Ford Fiesta RS WRC,NO,RC1,NA,NA,TC20,fuel leak
+NA,42,"Sousa, Bernardo",Ford Fiesta,PT,RC2,NA,NA,TC17E,mechanical
+NA,43,"Kangur, Martin",Ford Fiesta S2000,EE,RC2,NA,NA,SS23,unknown
+NA,45,"Bogie, David",Ford Fiesta,GB,RC2,NA,NA,TC7,unknown
+NA,49,"McCormack, Martin",Ford Fiesta,GB,RC2,NA,NA,SS23,unknown
+NA,52,"Tempestini, Simone",Citroen DS3,IT,RC3,NA,NA,TC19,unknown
+NA,87,"McKenna, Daniel",Citroen DS3,IE,RC3,NA,NA,TC17E,mechanical
+NA,96,"Fukunaga, Osamu",Mitsubishi Lancer Evo IX,JP,RC2,NA,NA,TC17E,unknown
+NA,100,"Wagemans, Joachim",Ford Fiesta,BE,RC4,NA,NA,SS21,unknown

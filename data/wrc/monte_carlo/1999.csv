@@ -1,0 +1,87 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Makinen, Tommi",Mitsubishi Lancer Evo VI,FI,A8,"5h 16m 50,6s",NA,NA,NA
+2,6,"Kankkunen, Juha",Subaru Impreza WRC99,FI,A8,"+1m 44,7s",NA,NA,NA
+3,4,"Auriol, Didier",Toyota Corolla WRC,FR,A8,"+3m 52,8s",NA,NA,NA
+4,19,"Delecour, Francois",Ford Escort WRC,FR,A8,"+4m 01,2s",NA,NA,NA
+5,16,"Thiry, Bruno",Subaru Impreza WRC99,BE,A8,"+4m 02,5s",NA,NA,NA
+6,10,"Liatti, Piero",Seat Cordoba WRC,IT,A8,"+6m 58,1s",NA,NA,NA
+7,9,"Rovanpera, Harri",Seat Cordoba WRC,FI,A8,"+7m 02,3s",NA,NA,NA
+8,5,"Burns, Richard",Subaru Impreza WRC99,GB,A8,"+9m 24,6s",NA,NA,NA
+9,21,"Lundgaard, Henrik",Toyota Corolla WRC,DK,A8,"+14m 06,2s",NA,NA,NA
+10,27,"Duez, Marc",Mitsubishi Carisma GT Evo5,BE,N4,"+26m 40,6s",NA,NA,NA
+11,31,"Pedersoli, Luca",Toyota Celica GT-Four (ST205),IT,A8,"+29m 58,5s",NA,NA,NA
+12,18,"Trelles, Gustavo",Mitsubishi Lancer Evo V,UY,N4,"+34m 17,1s",NA,NA,NA
+13,20,"Holderied, Isolde",Toyota Corolla WRC,DE,A8,"+36m 19,3s",NA,NA,NA
+14,24,"Gardemeister, Toni",Seat Ibiza GTi 16V Evo2,FI,A7,"+36m 59,7s",NA,NA,NA
+15,29,"Spiliotis, Christophe",Subaru Impreza,MC,N4,"+38m 09,1s",NA,NA,NA
+16,64,"Arnaud, Christophe",Subaru Impreza,FR,N4,"+38m 50,9s",NA,NA,NA
+17,38,"Maselli, Andrea",Renault Clio Williams,IT,A7,"+41m 40,3s",NA,NA,NA
+18,34,"Frau, Richard",Mazda 323 GT-R,FR,A8,"+45m 33,3s",NA,NA,NA
+19,67,"Font, Ferran",Mitsubishi Lancer Evo V,AD,N4,"+46m 32,2s",NA,NA,NA
+20,84,"Truphemus, David",Peugeot 306,FR,N3,"+56m 25,7s",NA,NA,NA
+21,80,"Rotter, Horst",Opel Astra,DE,N3,"+57m 45,4s",NA,NA,NA
+22,39,"Rouit, Patrice",Citroen ZX 16S,FR,A7,"+57m 52,5s",NA,NA,NA
+23,54,"Basso, Giandomenico",Fiat Cinquecento,IT,A5,"+58m 52,6s",NA,NA,NA
+24,78,"Maniccia, Frederic",Renault Clio,FR,N3,"+1h 03m 39,8s",NA,NA,NA
+25,51,"Zehetmaier, Peter",Fiat Cinquecento,DE,A5,"+1h 04m 39,4s",NA,NA,NA
+26,58,"Markouizos, Konstantinos",Fiat Cinquecento,GR,A5,"+1h 05m 09,1s",NA,NA,NA
+27,65,"Fidanza, Raffaello",Mitsubishi Lancer Evo V,IT,N4,"+1h 09m 10,1s",NA,NA,NA
+28,87,"Barth, Jurgen",Subaru Vivio,DE,N1,"+1h 09m 20,7s",NA,NA,NA
+29,66,"Tsjoen, Pieter",Mitsubishi Lancer Evo IV,BE,N4,"+1h 09m 27,7s",NA,NA,NA
+30,52,"Vagnini, Jader",Fiat Cinquecento,SM,A5,"+1h 10m 32,2s",NA,NA,NA
+31,79,"Grillerer, Christian",Honda Integra,FR,N3,"+1h 10m 45,3s",NA,NA,NA
+32,72,"Menegatto, Marco",Mitsubishi Lancer Evo V,IT,N4,"+1h 14m 37,5s",NA,NA,NA
+33,36,"Jaussaud, Bernard",Renault Clio Williams,FR,A7,"+1h 17m 31,1s",NA,NA,NA
+34,55,"Fassbender, Roel",Fiat Cinquecento,NL,A5,"+1h 18m 18,0s",NA,NA,NA
+35,47,"Vergerpion, Jerome",Citroen Saxo,FR,A6,"+1h 18m 20,2s",NA,NA,NA
+36,71,"Colsoul, Bob",Mitsubishi Lancer Evo V,BE,N4,"+1h 21m 29,1s",NA,NA,NA
+37,49,"Ceccato, Massimo",Fiat Cinquecento,IT,A5,"+1h 21m 32,3s",NA,NA,NA
+38,77,"Roche, Jean-Pierre",Renault Clio,FR,N3,"+1h 26m 56,3s",NA,NA,NA
+39,37,"Bosse, Peter",Opel Astra,DE,A7,"+1h 31m 16,9s",NA,NA,NA
+40,85,"Molbert, Jacques",Peugeot 205 GTi,FR,N3,"+1h 36m 56,3s",NA,NA,NA
+41,83,"Mosson, Gerard",Renault Clio,FR,N3,"+1h 37m 21,3s",NA,NA,NA
+42,89,"Allemand, Pascal",Citroen AX GTI,FR,N1,"+1h 41m 40,8s",NA,NA,NA
+43,57,"Tocco, Giuseppe",Fiat Cinquecento,IT,A5,"+1h 45m 06,1s",NA,NA,NA
+44,41,"de Castelli, Mickael",Peugeot 205 GTI,FR,A7,"+1h 48m 03,0s",NA,NA,NA
+45,88,"Cadringher, Gabriele",Subaru Vivio,IT,N1,"+2h 24m 13,9s",NA,NA,NA
+46,50,"Robert, Patrick",Peugeot 106,FR,A5,"+2h 24m 23,1s",NA,NA,NA
+NA,2,"Loix, Freddy",Mitsubishi Carisma GT,BE,A8,NA,NA,SS1,accident
+NA,3,"Sainz, Carlos",Toyota Corolla WRC,ES,A8,NA,NA,SS1,accident
+NA,7,"McRae, Colin",Ford Focus WRC,GB,A8,NA,NA,post-event,illegal water pump
+NA,8,"Jean-Joseph, Simon",Ford Focus WRC,FR,A8,NA,NA,post event,illegal water pump
+NA,11,"Schwarz, Armin",Skoda Octavia WRC,DE,A8,NA,NA,start ramp,clutch
+NA,12,"Sibera, Pavel",Skoda Octavia WRC,CZ,A8,NA,NA,TC0,power steering
+NA,17,"Panizzi, Gilles",Subaru Impreza WRC98,FR,A8,NA,NA,SS11,accident
+NA,22,"Dallavilla, Andrea",Subaru Impreza WRC98,IT,A8,NA,NA,SS4,accident
+NA,23,"Bugalski, Philippe",Citroen Saxo,FR,A6,NA,NA,SS4,driveshaft
+NA,25,"Puras, Jesus",Citroen Saxo,ES,A6,NA,NA,SS1,accident
+NA,26,"Stohl, Manfred",Mitsubishi Lancer Evo V,AT,N4,NA,NA,SS1,mechanical
+NA,28,"Climent, Luis",Mitsubishi Lancer Evo V,ES,N4,NA,NA,SS1,accident
+NA,30,"Tabaton, Fabrizio",Toyota Corolla WRC,IT,A8,NA,NA,SS9,unknown
+NA,32,"Phillips, Franck",Ford Escort WRC,MC,A8,NA,NA,SS6,unknown
+NA,33,"Schmit, Frederic",Subaru Impreza 555,FR,A8,NA,NA,SS9,accident
+NA,35,"Weber, Hans-Josef",Mazda 323 GT-R,DE,A8,NA,NA,SS8,gearbox
+NA,40,"Chevalier, Gilles",Renault Clio Williams,FR,A7,NA,NA,SS1,mechanical
+NA,42,"Ressegaire, Nicolas",Peugeot 306,FR,A7,NA,NA,SS4,unknown
+NA,43,"Post, Frank",Citroen Saxo,DE,A6,NA,NA,SS1,accident
+NA,44,"Pellerey, Alain",Citroen Saxo,FR,A6,NA,NA,SS9,unknown
+NA,45,"Farnaud, Michel",Citroen Saxo,FR,A6,NA,NA,SS8,gearbox
+NA,46,"Henry, Hilde",Citroen Saxo,DE,A6,NA,NA,SS1,mechanical
+NA,48,"Sikora, Jacek",Fiat Cinquecento,PL,A5,NA,NA,SS1,accident
+NA,53,"Lessatini, Daniel",Peugeot 106,FR,A5,NA,NA,SS1,accident
+NA,56,"Zunino, Romeo",Peugeot 106,IT,A5,NA,NA,SS5,unknown
+NA,59,"Macaluso, Stefano",Fiat Cinquecento,IT,A5,NA,NA,SS1,accident
+NA,60,"Ballaire, Eric",Fiat Cinquecento,FR,A5,NA,NA,SS13,unknown
+NA,61,"Verini, Maurizio",Mitsubishi Carisma GT Evo5,IT,N4,NA,NA,SS10,unknown
+NA,62,"Loubet, Yves",Mitsubishi Carisma GT Evo5,FR,N4,NA,NA,SS11,engine
+NA,63,"Marcon, Bruno",Mitsubishi Lancer Evo V,IT,N4,NA,NA,SS1,unknown
+NA,68,"Brun, Philippe",Mitsubishi Lancer Evo IV,FR,N4,NA,NA,SS1,unknown
+NA,69,"Metiffiot, Franck",Subaru Impreza,FR,N4,NA,NA,SS7,unknown
+NA,70,"Hein, Richard",Mitsubishi Carisma GT Evo5,MC,N4,NA,NA,SS13,engine
+NA,73,"Heath, Nigel",Subaru Impreza,GB,N4,NA,NA,SS1,accident
+NA,74,"Forti, Jean",Subaru Impreza,FR,N4,NA,NA,SS5,mechanical
+NA,75,"Polge, Lilian",Ford Escort RS Cosworth,FR,N4,NA,NA,SS1,unknown
+NA,76,"Guiramand, Serge",Renault Clio,FR,N3,NA,NA,SS1,accident
+NA,81,"Baudoin, Miguel",Renault Clio,FR,N3,NA,NA,SS13,unknown
+NA,82,"Dessi, Marc",Peugeot 205 GTi,MC,N3,NA,NA,SS2,unknown
+NA,86,"Vinatier, Jean",Subaru Vivio,FR,N1,NA,NA,SS5,mechanical

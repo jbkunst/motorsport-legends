@@ -1,0 +1,51 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Nicolas, Jean-Pierre",Renault-Alpine A110 1800,FR,G4,5h 06m 31s,NA,NA,NA
+2,5,"Piot, Jean-Francois",Renault-Alpine A110 1800,FR,G4,+8m 06s,NA,NA,NA
+3,7,"Therier, Jean-Luc",Renault-Alpine A110 1800,FR,G4,+12m 15s,NA,NA,NA
+4,12,"Chasseuil, Guy",Ford Escort RS1600,FR,G2,+15m 02s,NA,NA,NA
+5,11,"Serpaggi, Francis",Renault-Alpine A110,FR,G4,+18m 06s,NA,NA,NA
+6,9,"Manzagol, Jean-Pierre",Renault-Alpine A110,FR,G4,+21m 00s,NA,NA,NA
+7,18,"Greder, Henri",Opel Commodore,FR,G1,+45m 40s,NA,NA,NA
+8,40,'Gedehem',Porsche 911,FR,G3,+47m 42s,NA,NA,NA
+9,21,"Lagniez, Jean-Claude",Alfa Romeo 2000 GTV,FR,G1,+53m 35s,NA,NA,NA
+10,42,"Evard, Yves",Audi 80,FR,G2,+1h 11m 16s,NA,NA,NA
+11,52,"Picone, Bernard",Opel Ascona,FR,G1,+1h 12m 12s,NA,NA,NA
+12,25,"Simonetti, Robert",Renault-Alpine A110 1800,FR,G4,+1h 16m 00s,NA,NA,NA
+13,58,Chevanne,Opel Ascona,FR,G1,+1h 20m 14s,NA,NA,NA
+14,64,Colombo,Opel Ascona,FR,G2,+1h 31m 07s,NA,NA,NA
+15,53,Santini,Opel Ascona,FR,G1,+1h 40m 02s,NA,NA,NA
+16,22,"Barailler, Jean-Louis",Opel Ascona,FR,G1,+1h 52m 04s,NA,NA,NA
+17,19,"Ballot-Lena, Claude",Alfa Romeo 2000 GTV,FR,G2,+1h 59m 03s,NA,NA,NA
+18,33,"Gardavot, Christian",Renault-Alpine A110 1800,FR,G3,+2h 00m 46s,NA,NA,NA
+19,36,Gordon,Renault-Alpine A110 1800,FR,G3,+2h 13m 05s,NA,NA,NA
+20,32,"Torre, Jean-Claude",Renault-Alpine A110 1800,FR,G3,+2h 20m 48s,NA,NA,NA
+21,47,Brancaleoni,Audi 80,IT,G2,+2h 21m 10s,NA,NA,NA
+22,39,"Nishimura, Yuji",Datsun 240Z,JP,G3,+3h 05m 12s,NA,NA,NA
+NA,3,"Darniche, Bernard",Renault-Alpine A110 1800,FR,G4,NA,NA,NA,differential
+NA,10,"Jullien, Michel",Renault-Alpine A110 1600,FR,G3,NA,NA,NA,unknown
+NA,14,"Beaumont, Marie-Claude",Opel Ascona,FR,G2,NA,NA,NA,electrics
+NA,15,"Frequelin, Guy",Audi 80,FR,G2,NA,NA,NA,engine
+NA,16,"Gamet, Jean-Claude",Ford Escort RS1600,FR,G2,NA,NA,NA,suspension
+NA,17,"Laurent, Claude",DAF 66,FR,G2,NA,NA,NA,transmission
+NA,20,"Clarr, Jean-Louis",Opel Ascona,FR,G2,NA,NA,NA,gearbox
+NA,24,"de Libran, Roland",Renault-Alpine A110 1600,FR,G4,NA,NA,NA,unknown
+NA,26,Casanova,Renault-Alpine A110,NA,G4,NA,NA,NA,unknown
+NA,28,"Corio, Angelo",Fiat 124 Abarth Spider,IT,G4,NA,NA,NA,unknown
+NA,29,Fantino,Renault-Alpine A110,NA,G4,NA,NA,NA,unknown
+NA,31,"Moreau, Pierre-Louis",Renault-Alpine A110 1800,FR,G4,NA,NA,NA,unknown
+NA,34,Piot,Renault-Alpine A110,NA,G3,NA,NA,NA,unknown
+NA,37,Moriere,Renault-Alpine A110,NA,G3,NA,NA,NA,unknown
+NA,41,Tillier,Ford Capri,NA,G2,NA,NA,NA,unknown
+NA,43,Briavoine,Ford Capri,NA,G2,NA,NA,NA,unknown
+NA,44,Robini,Opel Ascona,NA,G2,NA,NA,NA,unknown
+NA,45,Mercier,Audi 80,FR,G2,NA,NA,NA,unknown
+NA,46,Bonnet,BMW 2002,NA,G2,NA,NA,NA,unknown
+NA,48,"Taibi, Jean",Peugeot 304,FR,G2,NA,NA,NA,unknown
+NA,50,Moreau,Simca Rallye 2,NA,G2,NA,NA,NA,unknown
+NA,51,Charlotte,Renault 12 Gordini,NA,G2,NA,NA,NA,unknown
+NA,54,Pelli,Opel,NA,G1,NA,NA,NA,unknown
+NA,56,Delserre,BMW 2002Tii,FR,G1,NA,NA,NA,unknown
+NA,60,Vincent,Alfa Romeo,NA,G1,NA,NA,NA,unknown
+NA,61,Dongues,Alfa Romeo,FR,G1,NA,NA,NA,unknown
+NA,62,Bour,Renault-Alpine A110,NA,NA,NA,NA,NA,unknown
+NA,63,Farjon,Renault-Alpine A110,NA,NA,NA,NA,NA,unknown

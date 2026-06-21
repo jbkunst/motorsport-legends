@@ -1,0 +1,49 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,10,"Vatanen, Ari",Ford Escort RS1800,FI,G4,12h 55m 44s,NA,NA,NA
+2,14,"Salonen, Timo",Datsun 160J,FI,G2,+2m 42s,NA,NA,NA
+3,7,"Alen, Markku",Fiat 131 Abarth,FI,G4,+7m 04s,NA,NA,NA
+4,4,"Kullang, Anders",Opel Ascona 400,SE,G4,+11m 03s,NA,NA,NA
+5,3,"Rohrl, Walter",Fiat 131 Abarth,DE,G4,+23m 10s,NA,NA,NA
+6,6,"Andersson, Ove",Toyota Celica,SE,G4,+23m 10s,NA,NA,NA
+7,8,"Kallstrom, Harry",Datsun 160J,SE,G2,+23m 12s,NA,NA,NA
+8,11,"Bettega, Attilio",Fiat 131 Abarth,IT,G4,+24m 53s,NA,NA,NA
+9,18,"Livieratos, Tassos",Lancia Stratos HF,GR,G4,+41m 23s,NA,NA,NA
+10,17,"Makinen, Timo",Peugeot 504 V6 Coupe,FI,G4,+44m 05s,NA,NA,NA
+11,15,"Kleint, Jochi",Opel Ascona 400,DE,G4,+49m 44s,NA,NA,NA
+12,25,"Recalde, Jorge",Ford Escort RS,AR,G4,+55m 37s,NA,NA,NA
+13,20,"Moschous, George",Datsun 160J,GR,G2,+1h 45m 07s,NA,NA,NA
+14,19,"Preston Jr, Vic",Mercedes Benz 450 SLC 5.0,KE,G4,+1h 45m 25s,NA,NA,NA
+15,49,"Maniatopoulos, Alexandros",Renault 5 Alpine,GR,G2,+1h 46m 30s,NA,NA,NA
+16,29,"Kyprianou, Kypros",Talbot Sunbeam,CY,G2,+1h 51m 18s,NA,NA,NA
+17,31,"Stawowiak, Maciej",FSO Polonez,PL,G4,+2h 16m 12s,NA,NA,NA
+18,NA,"Laurent, Claude",Peugeot 505,FR,NA,+2h 31m 50s,NA,NA,NA
+19,NA,"Halivelakis, Manolis",Toyota Corolla,GR,NA,+2h 48m 47s,NA,NA,NA
+20,86,"Moshoutis, Paul",Ford Escort RS2000,GR,G1,+2h 53m 41s,NA,NA,NA
+21,NA,"Gemenis, Anastasios",Datsun 160J,GR,NA,+2h 57m 01s,NA,NA,NA
+22,NA,Melas,Ford Escort RS,GR,NA,+2h 57m 08s,NA,NA,NA
+23,NA,Panagiotopoulos,Chrysler Avenger,GR,NA,+3h 03m 28s,NA,NA,NA
+24,NA,"Papatriantafilou, Andreas",Toyota Celica,GR,NA,+3h 14m 55s,NA,NA,NA
+25,NA,"Dorche, Christian",Peugeot 505,FR,NA,+3h 33m 43s,NA,NA,NA
+26,NA,"Kokkinis, S.",Mitsubishi Colt Lancer,GR,NA,NA,NA,NA,NA
+27,NA,"Vittadini, Paolo",Fiat Ritmo,IT,NA,+3h 38m 29s,NA,NA,NA
+28,45,"Ciecierzynski, Tomasz",FSO Polonez,PL,G4,+4h 02m 56s,NA,NA,NA
+29,48,"Heisler, Fritz",Ford Escort RS,AT,G2,+4h 09m 09s,NA,NA,NA
+998,NA,"Koukas, John",Datsun 1800SSS,GR,NA,+4h 18m 08s,NA,NA,NA
+999,NA,Martinis,Ford Escort RS2000,GR,NA,+4h 32m 17s,NA,NA,NA
+NA,1,"Waldegard, Bjorn",Mercedes Benz 450 SLC 5.0,SE,G4,NA,NA,SS47,head gasket
+NA,2,"Darniche, Bernard",Lancia Stratos HF,FR,G4,NA,NA,SS14,steering
+NA,5,"Mikkola, Hannu",Ford Escort RS,FI,G4,NA,NA,SS13,electrics
+NA,9,"Mehta, Shekhar",Opel Ascona 400,KE,G4,NA,NA,SS28,broken wheel
+NA,12,"Cowan, Andrew",Ford Escort RS,GB,G4,NA,NA,SS20,head gasket
+NA,16,"Therier, Jean-Luc",Toyota Celica,FR,G4,NA,NA,SS9,fuel starvation
+NA,21,"Lefebvre, Jean-Claude",Peugeot 504 V6 Coupe,FR,G4,NA,NA,SS23,accident
+NA,22,"Asterhag, Leif",Toyota Celica,SE,G4,NA,NA,SS1,gearbox
+NA,23,"Markouizos, Anastasios",Ford Escort RS,GR,G2,NA,NA,SS20,rear axle
+NA,24,"Danielsson, Bror",Mercedes Benz 450 SLC 5.0,SE,G4,NA,NA,SS48,steering
+NA,26,"Wittman, Franz",Porsche 911,AT,G4,NA,NA,SS3,brakes
+NA,27,"Carlsson, Ingvar",Mercedes Benz 280,SE,G2,NA,NA,SS48,fire
+NA,28,"Torres, Carlos",Ford Escort RS2000,PT,G1,NA,NA,SS6,accident
+NA,53,"Groblewski, Wlodzimierz",FSO Polonez,PL,G4,NA,NA,NA,suspension
+NA,163,"Greder, Henri",Peugeot 104,FR,G1,NA,NA,NA,unknown
+NA,NA,'Ray',Ford Escort RS,MC,NA,NA,NA,NA,engine
+NA,NA,"Stohl, Rudolf",Lada 1600,AT,G2,NA,NA,NA,suspension

@@ -1,0 +1,33 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"Alen, Markku",Fiat 131 Abarth,FI,G4,6h 51m 47s,NA,NA,NA
+2,2,"Waldegard, Bjorn",Ford Escort RS,SE,G4,+3m 56s,0:01,NA,NA
+3,4,"Andersson, Ove",Toyota Celica,SE,G4,+4m 21s,NA,NA,NA
+4,5,"Andruet, Jean-Claude",Fiat 131 Abarth,FR,G4,+14m 47s,NA,NA,NA
+5,1,"Verini, Maurizio",Fiat 131 Abarth,IT,G4,+15m 13s,NA,NA,NA
+6,10,"Queiroz Pereira, Manuel",Opel Kadett GT/E,PT,G2,+37m 08s,NA,NA,NA
+7,12,"Wittman, Franz",Opel Kadett GT/E,AT,G4,+46m 40s,NA,NA,NA
+8,30,"Salvi, Giovanni",Ford Escort RS2000,PT,G1,+52m 45s,0:01,NA,NA
+9,63,"Nunes, Americo",Porsche 911,PT,G4,+54m 49s,0:02,NA,NA
+10,24,"Russling, Klaus",Opel Kadett GT/E,AT,G1,+54m 56s,0:03,NA,NA
+11,18,"Herrmann, Wilfried",Porsche 911,DE,G3,+1h 06m 11s,NA,NA,NA
+12,57,'Jomaro',Opel Kadett GT/E,PT,G1,+1h 28m 03s,0:01,NA,NA
+13,105,"Cunha, Jose",Datsun 1200,PT,G2,+1h 30m 55s,0:02,NA,NA
+14,48,"Fontainhas, Carlos",Ford Escort RS2000,PT,G2,+1h 45m 48s,0:27,NA,NA
+15,45,"Isopp, Wolfram",Volkswagen Golf GTi,AT,G1,+1h 46m 02s,NA,NA,NA
+16,78,"Tristao, Albino",Toyota Corolla,PT,G2,+1h 58m 24s,0:06,NA,NA
+17,49,"Mignot, Georges",Opel 1904SR,BE,G2,+2h 00m 38s,NA,NA,NA
+18,121,"Santos Silva, Porfirio",Datsun 1200,PT,G1,+2h 01m 36s,0:03,NA,NA
+19,50,"Labarthe, Jean-Claude",Porsche Carrera,FR,G4,+2h 02m 28s,0:29,NA,NA
+20,38,"Stohl, Rudolf",Lada 1500,AT,G2,+2h 03m 26s,0:05,NA,NA
+21,43,"Ripper, Karl",Opel Kadett GT/E,AT,G1,+2h 08m 22s,0:04,NA,NA
+22,97,"Beaudoin, Dominique",Datsun 510,FR,G1,+2h 31m 35s,0:07,NA,NA
+23,77,"Restellini, Dominique",Peugeot 504,FR,G2,+2h 41m 14s,0:10,NA,NA
+24,112,"Pais da Silva, Antonio",Opel 1904SR,PT,G1,+2h 53m 01s,0:29,NA,NA
+25,71,"Blain, Georges",Opel Kadett GT/E,FR,G2,+3h 01m 38s,0:40,NA,NA
+26,117,"Marin, Guy",Datsun 180B,FR,G1,+3h 03m 00s,0:22,NA,NA
+27,93,"Gransard, Alain",Ford Escort,FR,G1,+3h 29m 29s,0:43,NA,NA
+NA,6,"Clark, Roger",Ford Escort RS1800,GB,G4,NA,NA,NA,clutch
+NA,7,"Mikkola, Hannu",Toyota Celica,FI,G4,NA,NA,NA,wheel studs
+NA,8,"Bacchelli, Fulvio",Fiat 131 Abarth,IT,G4,NA,NA,NA,halfshaft
+NA,9,"Vatanen, Ari",Ford Escort RS1800,FI,G4,NA,NA,NA,accident
+NA,NA,"Haider, Josef",Opel Kadett GT/E,AT,G2,NA,NA,NA,unknown

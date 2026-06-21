@@ -1,0 +1,44 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,33,"Evans, Elfyn",Toyota Yaris WRC,GB,RC1,"2h 19m 13,7s",NA,NA,NA
+2,8,"Tanak, Ott",Hyundai i20 Coupe WRC,EE,RC1,"+14,1s",NA,NA,NA
+3,42,"Breen, Craig",Hyundai i20 Coupe WRC,IE,RC1,"+42,2s",NA,NA,NA
+4,4,"Lappi, Esapekka",Toyota Yaris WRC,FI,RC1,"+58,8s",NA,NA,NA
+5,1,"Ogier, Sebastien",Toyota Yaris WRC,FR,RC1,"+2m 54,4s",1:00,NA,NA
+6,44,"Greensmith, Fergus",Ford Fiesta RS WRC 2017,GB,RC1,"+5m 02,3s",NA,NA,NA
+7,16,"Fourmaux, Adrien",Ford Fiesta RS WRC 2017,FR,RC1,"+6m 22,9s",NA,NA,NA
+8,23,"Suninen, Teemu",Volkswagen Polo,FI,RC2,"+9m 52,1s",NA,NA,NA
+9,20,"Ostberg, Mads",Citroen C3,NO,RC2,"+10m 07,8s",NA,NA,NA
+10,32,"Lindholm, Emil",Skoda Fabia,FI,RC2,"+10m 52,8s",NA,NA,NA
+11,21,"Huttunen, Jari",Hyundai i20,FI,RC2,"+11m 44,0s",NA,NA,NA
+12,30,"Heikkila, Mikko",Skoda Fabia,FI,RC2,"+11m 54,1s",NA,NA,NA
+13,39,"Joona, Lauri",Skoda Fabia,FI,RC2,"+15m 49,3s",NA,NA,NA
+14,28,"Lopez, Pepe",Skoda Fabia,ES,RC2,"+16m 33,4s",0:10,NA,NA
+15,37,"Tahko, Riku",Hyundai i20,FI,RC2,"+18m 33,7s",NA,NA,NA
+16,24,"Prokop, Martin",Ford Fiesta,CZ,RC2,"+20m 06,2s",NA,NA,NA
+17,26,"Linnamae, Georg",Volkswagen Polo,EE,RC2,"+20m 11,3s",NA,NA,NA
+18,29,"Kaur, Egon",Volkswagen Polo,EE,RC2,"+22m 29,9s",NA,NA,NA
+19,35,"Jeets, Raul",Skoda Fabia,EE,RC2,"+24m 52,9s",NA,NA,NA
+20,46,"Taylor, Molly",Ford Fiesta,AU,RC3,"+32m 11,5s",NA,NA,NA
+21,40,"Vlcek, Martin",Hyundai i20,CZ,RC2,"+32m 23,8s",NA,NA,NA
+22,50,"Bertolotti, Simone",Skoda Fabia,IT,RC2,"+34m 12,6s",NA,NA,NA
+23,41,"Huuhka, Jari",Skoda Fabia,FI,RC2,"+35m 37,6s",NA,NA,NA
+24,51,"Herranen, Toni",Ford Fiesta,FI,RC4,"+38m 43,5s",NA,NA,NA
+25,49,"Szabo, Zoltan",Skoda Fabia,HU,RC2,"+40m 43,5s",NA,NA,NA
+26,43,"Nobre, Paulo",Skoda Fabia,BR,RC2,"+41m 00,1s",NA,NA,NA
+27,47,"Burger, Kees",Skoda Fabia,NL,RC2,"+42m 46,1s",NA,NA,NA
+28,48,"Karppanen, Mika",Citroen DS3,FI,RC2,"+45m 56,4s",NA,NA,NA
+29,38,"Metsala, Juuso",Skoda Fabia,FR,RC2,"+48m 54,9s",NA,NA,NA
+30,36,"Diaz-Aboitiz, Miguel",Skoda Fabia,ES,RC2,"+49m 51,3s",NA,NA,NA
+31,53,"Hytonen, Kari",Ford Fiesta,FI,RC4,"+55m 16,3s",NA,NA,NA
+32,52,"Nieminen, Harry",Peugeot 208,FI,RC4,"+1h 00m 37,2s",NA,NA,NA
+33,54,"Kaisanlahti, Raimo",Ford Fiesta,FI,RC4,"+1h 01m 22,7s",NA,NA,NA
+34,69,"Rovanpera, Kalle",Toyota Yaris WRC,FI,RC1,"+1h 02m 51,7s",NA,NA,NA
+35,55,"Souffez, Frederic",Peugeot 208,FR,RC4,"+1h 04m 06,7s",NA,NA,NA
+36,22,"Gryazin, Nikolay",Volkswagen Polo,RU,RC2,"+1h 11m 33,1s",NA,NA,NA
+37,18,"Katsuta, Takamoto",Toyota Yaris WRC,JP,RC1,"+1h 21m 33,5s",0:10,NA,NA
+NA,11,"Neuville, Thierry",Hyundai i20 Coupe WRC,BE,RC1,NA,NA,SS14,mechanical
+NA,25,"Kristensson, Tom",Ford Fiesta,SE,RC2,NA,NA,TC10A,mechanical
+NA,27,"Solberg, Oliver",Hyundai i20,SE,RC2,NA,NA,SS7,off road
+NA,31,"Asunmaa, Teemu",Skoda Fabia,FI,RC2,NA,NA,SS17,mechanical
+NA,34,"Pietarinen, Eerik",Volkswagen Polo,FI,RC2,NA,NA,SS17,off road
+NA,45,"Paasonen, Jani",Ford Fiesta,FI,RC2,NA,NA,TC9,mechanical

@@ -1,0 +1,25 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,7,"Meeke, Kris",Citroen C3 WRC,GB,RC1,"3h 22m 04,6s",NA,NA,NA
+2,1,"Ogier, Sebastien",Ford Fiesta RS WRC 2017,FR,RC1,"+13,8s",NA,NA,NA
+3,5,"Neuville, Thierry",Hyundai i20 Coupe WRC,BE,RC1,"+59,7s",NA,NA,NA
+4,2,"Tanak, Ott",Ford Fiesta RS WRC 2017,EE,RC1,"+2m 18,3s",NA,NA,NA
+5,4,"Paddon, Hayden",Hyundai i20 Coupe WRC,NZ,RC1,"+3m 32,9s",NA,NA,NA
+6,10,"Latvala, Jari-Matti",Toyota Yaris WRC,FI,RC1,"+4m 40,3s",NA,NA,NA
+7,11,"Hanninen, Juho",Toyota Yaris WRC,FI,RC1,"+5m 06,2s",NA,NA,NA
+8,6,"Sordo Castillo, Daniel",Hyundai i20 Coupe WRC,ES,RC1,"+5m 22,7s",NA,NA,NA
+9,3,"Evans, Elfyn",Ford Fiesta RS WRC 2017,GB,RC1,"+8m 41,8s",NA,NA,NA
+10,30,"Tidemand, Pontus",Skoda Fabia,SE,RC2,"+10m 51,9s",0:10,NA,NA
+11,31,"Camilli, Eric",Ford Fiesta,FR,RC2,"+11m 34,6s",0:10,NA,NA
+12,34,"Guerra Latapi, Benito",Skoda Fabia,MX,RC2,"+18m 38,0s",NA,NA,NA
+13,12,"Gorban, Valeriy",Mini John Cooper Works,UA,RC1,"+21m 06,8s",0:10,NA,NA
+14,81,"Trivino Bujalil, Ricardo",Citroen DS3,MX,RC2,"+33m 36,5s",NA,NA,NA
+15,8,"Lefebvre, Stephane",Citroen C3 WRC,FR,RC1,"+51m 35,9s",NA,NA,NA
+16,37,"Bertelli, Lorenzo",Ford Fiesta RS WRC 2017,IT,RC1,"+1h 05m 20,4s",3:30,NA,NA
+17,84,"Name Guzzy, Pancho",Mitsubishi Lancer Evo X,MX,RC2,"+1h 10m 11,9s",0:30,NA,NA
+18,33,"Heller, Pedro",Ford Fiesta,CL,RC2,"+1h 12m 09,0s",1:20,NA,NA
+19,88,"Bailey, Jason",Ford Fiesta,CA,RC4,"+1h 17m 48,0s",1:10,NA,NA
+20,83,"Jaramillo Salazar, Julian",Subaru Impreza WRX,CO,RC2,"+1h 22m 44,0s",0:50,NA,NA
+21,89,"Wallingford, Dave",Ford Fiesta,US,RC4,"+1h 41m 33,3s",1:10,NA,NA
+22,86,"Diaz, Francisco",Mitsubishi Lancer Evo X,MX,RC2,"+1h 45m 52,5s",0:20,NA,NA
+NA,32,"Ptaszek, Hubert",Skoda Fabia,PL,RC2,NA,NA,Day 2,unknown
+NA,91,"Medina Sanchez, Miguel",Ford Fiesta,MX,RC4,NA,NA,TC17B,unknown

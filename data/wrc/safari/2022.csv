@@ -1,0 +1,32 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,69,"Rovanpera, Kalle",Toyota GR Yaris Rally1,FI,Rally1,"3h 40m 24,9s",NA,NA,NA
+2,33,"Evans, Elfyn",Toyota GR Yaris Rally1,GB,Rally1,"+52,8s",NA,NA,NA
+3,18,"Katsuta, Takamoto",Toyota GR Yaris Rally1,JP,Rally1,"+1m 42,7s",0:10,NA,NA
+4,1,"Ogier, Sebastien",Toyota GR Yaris Rally1,FR,Rally1,"+2m 10,3s",NA,NA,NA
+5,11,"Neuville, Thierry",Hyundai i20 N Rally1,BE,Rally1,"+10m 40,9s",NA,NA,NA
+6,42,"Breen, Craig",Ford Puma Rally1,IE,Rally1,"+23m 27,9s",0:10,NA,NA
+7,9,"Serderidis, Jourdan",Ford Puma Rally1,GR,Rally1,"+30m 16,5s",NA,NA,NA
+8,19,"Loeb, Sebastien",Ford Puma Rally1,FR,Rally1,"+32m 12,6s",NA,NA,NA
+9,20,"Kajetanowicz, Kajetan",Skoda Fabia,PL,Rally2,"+35m 37,6s",NA,NA,NA
+10,2,"Solberg, Oliver",Hyundai i20 N Rally1,SE,Rally1,"+37m 36,6s",3:50,NA,NA
+11,22,"Johnston, Sean",Citroen C3,US,Rally2,"+54m 45,8s",1:40,NA,NA
+12,27,"Rai, Amanraaj",Skoda Fabia,KE,Rally2,"+1h 04m 51,5s",NA,NA,NA
+13,37,"Tundo, Carl",Mitsubishi Lancer Evo X,KE,ASN,"+1h 06m 48,5s",0:20,NA,NA
+14,16,"Fourmaux, Adrien",Ford Puma Rally1,FR,Rally1,"+1h 19m 27,7s",NA,NA,NA
+15,44,"Greensmith, Fergus",Ford Puma Rally1,GB,Rally1,"+1h 19m 32,1s",0:20,NA,NA
+16,34,"Wahome, Maxine",Ford Fiesta,KE,Rally3,"+1h 39m 56,7s",1:30,NA,NA
+17,28,"Virani, Aakif",Skoda Fabia,KE,Rally2,"+1h 43m 28,7s",5:00,NA,NA
+18,38,"Sachania, Nikhil",Mitsubishi Lancer Evo X,GB,ASN,"+1h 47m 19,7s",1:00,NA,NA
+19,30,"Wahome, Jeremiah",Ford Fiesta,KE,Rally3,"+2h 05m 24,1s",0:50,NA,NA
+20,41,"Rathod, Minesh",Mitsubishi Lancer Evo X,KE,ASN,"+2h 14m 05,6s",NA,NA,NA
+21,32,"Kimathi, McRae",Ford Fiesta,KE,Rally3,"+2h 15m 34,4s",8:30,NA,NA
+NA,8,"Tanak, Ott",Hyundai i20 N Rally1,EE,Rally1,NA,NA,TC18,mechanical
+NA,21,"Prokop, Martin",Ford Fiesta,CZ,Rally2,NA,NA,TC7C,mechanical
+NA,24,"Gill, Gaurav Singh",Skoda Fabia,IN,Rally2,NA,NA,SS4,unknown
+NA,25,"Patel, Karan",Ford Fiesta,KE,Rally2,NA,NA,TC13C,unknown
+NA,26,"Gomes, Leroy",Ford Fiesta,ZM,Rally2,NA,NA,TC13D,mechanical
+NA,31,"Anwar, Hamza",Ford Fiesta,KE,Rally3,NA,NA,SS18,unknown
+NA,35,"Dominguez Jr., Diego",Ford Fiesta,PY,Rally3,NA,NA,SS4,mechanical
+NA,36,"Davite, Giancarlo",Mitsubishi Lancer Evo X,IT,ASN,NA,NA,TC17,mechanical
+NA,40,"Nzioka, Evans",Mitsubishi Lancer Evo X,KE,ASN,NA,NA,SS18,unknown
+NA,43,"Smith, Rio",Ford Fiesta,KE,ASN,NA,NA,SS15,mechanical

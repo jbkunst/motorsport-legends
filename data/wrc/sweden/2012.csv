@@ -1,0 +1,51 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"Latvala, Jari-Matti",Ford Fiesta RS WRC,FI,A0,"3h 18m 28,3s",NA,NA,NA
+2,2,"Hirvonen, Mikko",Citroen DS3 WRC,FI,A0,"+16,6s",NA,NA,NA
+3,15,"Ostberg, Mads",Ford Fiesta RS WRC,NO,A0,"+38,8s",NA,NA,NA
+4,4,"Solberg, Petter",Ford Fiesta RS WRC,NO,A0,"+1m 14,3s",NA,NA,NA
+5,6,"Novikov, Evgeny",Ford Fiesta RS WRC,RU,A0,"+2m 41,4s",NA,NA,NA
+6,1,"Loeb, Sebastien",Citroen DS3 WRC,FR,A0,"+2m 55,1s",0:10,NA,NA
+7,10,"Solberg, Henning",Ford Fiesta RS WRC,NO,A0,"+3m 49,5s",NA,NA,NA
+8,52,"Sandell, Patrik",Mini John Cooper Works,SE,A0,"+5m 08,9s",NA,NA,NA
+9,21,"Prokop, Martin",Ford Fiesta RS WRC,CZ,A0,"+5m 30,0s",NA,NA,NA
+10,64,"Brynildsen, Eyvind",Ford Fiesta RS WRC,NO,A0,"+6m 27,2s",NA,NA,NA
+11,60,"Ogier, Sebastien",Skoda Fabia Super 2000,FR,A2,"+7m 35,0s",NA,NA,NA
+12,18,"Neuville, Thierry",Citroen DS3 WRC,BE,A0,"+10m 03,7s",NA,NA,NA
+13,62,"Mikkelsen, Andreas",Skoda Fabia Super 2000,NO,A2,"+10m 18,5s",NA,NA,NA
+14,33,"Andersson, Per-Gunnar",Proton Satria,SE,A2,"+11m 48,5s",2:00,NA,NA
+15,12,"Araujo, Armindo",Mini John Cooper Works,PT,A0,"+13m 00,9s",1:10,NA,NA
+16,32,"Breen, Craig",Ford Fiesta S2000,IE,A2,"+13m 24,3s",0:10,NA,NA
+17,68,"Pajunen, Mikko",Subaru Impreza WRX,FI,A2,"+14m 26,0s",NA,NA,NA
+18,49,"Tidemand, Pontus",Skoda Fabia Super 2000,SE,A2,"+14m 38,1s",NA,NA,NA
+19,17,"van Merksteijn jr, Peter",Citroen DS3 WRC,NL,A0,"+16m 19,2s",NA,NA,NA
+20,8,"Solowow, Michal",Ford Fiesta RS WRC,PL,A0,"+16m 40,2s",NA,NA,NA
+21,7,"al-Attiyah, Nasser",Citroen DS3 WRC,QA,A0,"+17m 10,1s",NA,NA,NA
+22,65,"Grondal, Anders",Subaru Impreza,NO,A3,"+20m 00,4s",NA,NA,NA
+23,31,"Paddon, Hayden",Skoda Fabia Super 2000,NZ,A2,"+20m 58,6s",NA,NA,NA
+24,36,"al-Rajhi, Yazeed",Ford Fiesta S2000,SA,A2,"+26m 06,1s",NA,NA,NA
+25,70,"Haugom, Jim Roger",Subaru Impreza WRX,NO,A3,"+27m 11,3s",0:10,NA,NA
+26,67,"Weng, Hans-Erik",Mitsubishi Lancer Evo X,SE,A3,"+28m 48,7s",0:20,NA,NA
+27,71,"Vanagas, Benediktas",Subaru Impreza WRX,LT,A3,"+31m 30,1s",1:00,NA,NA
+28,77,"Burger, Kees",Subaru Impreza WRX,NL,A3,"+32m 44,8s",NA,NA,NA
+29,69,"Gustafsson, Mikael",Mitsubishi Lancer Evo IX,SE,A3,"+35m 46,5s",NA,NA,NA
+30,79,"Larsen, Frank Tore",Ford Fiesta,NO,A6,"+40m 06,3s",4:40,NA,NA
+31,76,"Font Guixaro, Joan",Mitsubishi Lancer Evo IX,ES,A3,"+46m 04,0s",0:10,NA,NA
+32,72,"Szabo, Zoltan",Mitsubishi Lancer Evo IX,HU,A3,"+51m 47,1s",NA,NA,NA
+33,73,"Roman, Joakim",Skoda Fabia Super 2000,SE,A2,"+58m 48,1s",0:10,NA,NA
+34,35,"Oleksowicz, Maciej",Ford Fiesta S2000,PL,A2,"+1h 00m 22,1s",0:10,NA,NA
+35,75,"Boland, Eamonn",Mitsubishi Lancer Evo X,IE,A3,"+1h 00m 26,7s",NA,NA,NA
+36,81,"Kvaraciejus, Rokas",Mitsubishi Lancer Evo X,LT,A3,"+1h 04m 30,4s",NA,NA,NA
+37,34,"McRae, Alister",Proton Satria,GB,A2,"+1h 12m 33,8s",2:00,NA,NA
+38,19,"Goransson, Richard",Mini John Cooper Works,SE,A0,"+1h 16m 45,2s",NA,NA,NA
+39,83,"Walfridson, Jimmie",Ford Fiesta,SE,A6,"+1h 18m 55,2s",NA,NA,NA
+40,84,"Para, Jerzy",Renault Clio,PL,A8,"+1h 21m 58,4s",NA,NA,NA
+41,82,"Oliveira, Daniel Rolim",Subaru Impreza,BR,A3,"+1h 30m 24,2s",0:10,NA,NA
+42,85,"Storm, Lars",Ford Fiesta,SE,A8,"+1h 39m 12,3s",NA,NA,NA
+NA,5,"Tanak, Ott",Ford Fiesta RS WRC,EE,A0,NA,NA,SS22,mechanical
+NA,14,"Nobre, Paulo",Mini John Cooper Works,BR,A0,NA,NA,SS22,off road
+NA,16,"Ketomaa, Jari",Ford Fiesta RS WRC,FI,A0,NA,NA,SS8,off road
+NA,37,"Sordo Castillo, Daniel",Mini John Cooper Works,ES,A0,NA,NA,SS8,off road
+NA,63,"Aasen, Marius",Ford Fiesta S2000,NO,A2,NA,NA,SS15,off road
+NA,66,"Thelaus, Andreas",Mitsubishi Lancer Evo IX,SE,A3,NA,NA,TC8,mechanical
+NA,74,"Brynildsen, Stein-Erik",Mitsubishi Lancer Evo IX,NO,A3,NA,NA,SS11,mechanical
+NA,78,"Rokland, Steve",Ford Fiesta,NO,A6,NA,NA,TC10C,mechanical

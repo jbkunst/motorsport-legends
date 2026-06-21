@@ -1,0 +1,88 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,11,"Neuville, Thierry",Hyundai i20 Coupe WRC,BE,RC1,"3h 10m 57,6s",NA,NA,NA
+2,17,"Ogier, Sebastien",Toyota Yaris WRC,FR,RC1,"+12,6s",NA,NA,NA
+3,33,"Evans, Elfyn",Toyota Yaris WRC,GB,RC1,"+14,3s",NA,NA,NA
+4,4,"Lappi, Esapekka",Ford Fiesta RS WRC 2017,FI,RC1,"+3m 09,0s",NA,NA,NA
+5,69,"Rovanpera, Kalle",Toyota Yaris WRC,FI,RC1,"+4m 17,2s",NA,NA,NA
+6,9,"Loeb, Sebastien",Hyundai i20 Coupe WRC,FR,RC1,"+5m 04,7s",NA,NA,NA
+7,18,"Katsuta, Takamoto",Toyota Yaris WRC,JP,RC1,"+11m 27,9s",NA,NA,NA
+8,3,"Suninen, Teemu",Ford Fiesta RS WRC 2017,FI,RC1,"+13m 30,4s",NA,NA,NA
+9,27,"Camilli, Eric",Citroen C3,FR,RC2,"+13m 42,2s",NA,NA,NA
+10,20,"Ostberg, Mads",Citroen C3,NO,RC2,"+14m 21,8s",NA,NA,NA
+11,28,"Ciamin, Nicolas",Citroen C3,FR,RC2,"+15m 04,0s",NA,NA,NA
+12,26,"Bonato, Yoann",Citroen C3,FR,RC2,"+15m 46,0s",NA,NA,NA
+13,31,"Rossel, Yohan",Citroen C3,FR,RC2,"+16m 20,2s",NA,NA,NA
+14,30,"Munster, Gregoire",Skoda Fabia,LU,RC2,"+17m 02,0s",NA,NA,NA
+15,23,"Fourmaux, Adrien",Ford Fiesta,FR,RC2,"+17m 53,2s",NA,NA,NA
+16,21,"Gryazin, Nikolay",Hyundai i20,RU,RC2,"+20m 07,4s",0:20,NA,NA
+17,40,"Jocius, Deividas",Ford Fiesta RS WRC 2017,LT,RC1,"+24m 19,9s",NA,NA,NA
+18,42,"Burri, Olivier",Volkswagen Polo,CH,RC2,"+27m 13,3s",NA,NA,NA
+19,24,"Yates, Rhys",Ford Fiesta,GB,RC2,"+27m 24,8s",NA,NA,NA
+20,48,"Miele, Mauro",Skoda Fabia,IT,RC2,"+29m 59,0s",NA,NA,NA
+21,54,"Astier, Raphael",Fiat 500 Abarth,FR,RC2,"+31m 30,2s",NA,NA,NA
+22,43,"Gino, Alessandro",Skoda Fabia,IT,RC2,"+37m 25,0s",NA,NA,NA
+23,47,"Latil, Nicolas",Volkswagen Polo,FR,RC2,"+38m 09,7s",NA,NA,NA
+24,53,"Ganguet, Christophe",Ford Fiesta,FR,RC2,"+38m 34,6s",NA,NA,NA
+25,41,"Solberg, Oliver",Volkswagen Polo,SE,RC2,"+38m 49,0s",NA,NA,NA
+26,46,"Boland, Eamonn",Ford Fiesta,IE,RC2,"+38m 58,1s",NA,NA,NA
+27,68,"Johnston, Sean",Peugeot 208,US,RC4,"+40m 26,3s",NA,NA,NA
+28,77,"Dolce, Renaud",Peugeot 208,FR,RC4,"+44m 16,3s",NA,NA,NA
+29,56,"Pierrat, Bertrand",Volkswagen Polo,FR,RC2,"+45m 25,3s",NA,NA,NA
+30,64,"Caradec, Jeremy",Renault Clio,FR,RC3,"+45m 56,9s",NA,NA,NA
+31,62,"Vuistiner, Ismael",Renault Clio,CH,RC3,"+46m 26,0s",NA,NA,NA
+32,63,"Carminati, Boris",Renault Clio,FR,RC3,"+50m 25,5s",NA,NA,NA
+33,85,"Cartier, Victor",Ford Fiesta,FR,RC4,"+51m 09,5s",0:20,NA,NA
+34,50,"Arengi Bentivoglio, Fabrizio",Skoda Fabia,IT,RC2,"+51m 43,8s",NA,NA,NA
+35,70,"Ribaudo, Tony",Peugeot 208,FR,RC4,"+54m 30,6s",0:10,NA,NA
+36,49,"Vossen, Henk",Ford Fiesta,NL,RC2,"+54m 42,1s",NA,NA,NA
+37,95,"Boisseranc, Mickael",Ford Fiesta,FR,RC5,"+56m 51,6s",NA,NA,NA
+38,37,"Brazzoli, Enrico",Skoda Fabia,IT,RC2,"+57m 21,9s",NA,NA,NA
+39,52,"Dionisio, Ermanno",Dacia Sandero,IT,RC2,"+57m 49,6s",NA,NA,NA
+40,74,"Pavlidis, Nikolaos",Peugeot 208,GR,RC4,"+57m 56,1s",NA,NA,NA
+41,83,"Lefebvre, Thibault",Peugeot 208,FR,RC4,"+1h 00m 29,0s",0:10,NA,NA
+42,75,"Rota, Remy",Peugeot 208,FR,RC4,"+1h 00m 35,8s",NA,NA,NA
+43,66,"Vialle, Lilian",Renault Clio,FR,RC3,"+1h 00m 53,8s",NA,NA,NA
+44,81,"Jaussaud, Laure",Peugeot 208,FR,RC4,"+1h 01m 13,6s",NA,NA,NA
+45,51,"Prosdocimo, Alessandro",Peugeot 208,IT,RC2,"+1h 01m 28,8s",NA,NA,NA
+46,94,"Garcin, Christopher",Ford Fiesta,FR,RC5,"+1h 01m 56,0s",0:50,NA,NA
+47,76,"Eouzan, Pascal",Peugeot 208,FR,RC4,"+1h 02m 47,2s",NA,NA,NA
+48,82,"Laszlo, Martin",Ford Fiesta,HU,RC4,"+1h 02m 47,3s",4:00,NA,NA
+49,96,"Desbordes, Richard",Citroen DS3,FR,RC5,"+1h 03m 08,3s",NA,NA,NA
+50,90,"Gatti, Jean Pierre",Peugeot 208,FR,RC4,"+1h 03m 34,1s",1:30,NA,NA
+51,79,"Ducreux, Michel",Peugeot 208,FR,RC4,"+1h 05m 00,4s",NA,NA,NA
+52,36,"Diaz-Aboitiz, Miguel",Skoda Fabia,ES,RC2,"+1h 05m 22,4s",NA,NA,NA
+53,89,"Michellier, Gilles",Peugeot 208,FR,RC4,"+1h 06m 26,9s",NA,NA,NA
+54,87,"Covi, Carlo",Ford Fiesta,IT,RC4,"+1h 06m 30,2s",NA,NA,NA
+55,58,"Lemaire, Martin",Citroen DS3,FR,RC3,"+1h 07m 06,3s",NA,NA,NA
+56,100,"Duhamel, Benjamin",Renault Twingo,FR,RC5,"+1h 09m 58,4s",0:10,NA,NA
+57,91,"Martin, Baptiste",Renault Twingo,FR,RC5,"+1h 12m 06,0s",NA,NA,NA
+58,98,"Berard, Christophe",Ford Fiesta,FR,RC5,"+1h 24m 41,7s",NA,NA,NA
+59,39,"Caprasse, Luc",Fiat 124 Abarth,BE,RGT,"+1h 24m 44,9s",NA,NA,NA
+60,57,"Filippi, Eric",Renault Clio,FR,RC3,"+1h 24m 49,8s",NA,NA,NA
+61,65,"Somaschini, Rachele",Citroen DS3,IT,RC3,"+1h 25m 35,1s",NA,NA,NA
+62,61,"Ramoino, Domenico",Renault Clio,IT,RC3,"+1h 26m 41,0s",NA,NA,NA
+63,44,"Greensmith, Fergus",Ford Fiesta RS WRC 2017,GB,RC1,"+1h 27m 17,5s",NA,NA,NA
+64,93,"Cusimano, Alain",Renault Twingo,FR,RC5,"+1h 31m 35,2s",0:50,NA,NA
+65,99,"Lartillier, Thierry",Renault Twingo,FR,RC5,"+1h 33m 09,9s",0:10,NA,NA
+66,72,"Dessi, Marc",Peugeot 208,MC,RC4,"+1h 35m 02,6s",NA,NA,NA
+67,34,"Scandola, Umberto",Hyundai i20,IT,RC2,"+1h 37m 22,3s",NA,NA,NA
+68,55,"Sias, Franck",Skoda Fabia,FR,RC2,"+1h 40m 01,2s",NA,NA,NA
+69,84,"Cartagena, Julien",Peugeot 208,FR,RC4,"+1h 40m 32,4s",2:00,NA,NA
+70,92,"Jerusalmi, Jean-Marc",Renault Twingo,FR,RC5,"+1h 40m 54,8s",0:30,NA,NA
+71,25,"Nobre, Paulo",Skoda Fabia,BR,RC2,"+1h 43m 43,1s",NA,NA,NA
+72,59,"Dizier, Gregory",Renault Clio,FR,RC3,"+1h 52m 41,2s",0:10,NA,NA
+73,97,"Villy, Ronald",Citroen DS3,FR,RC5,"+2h 17m 12,1s",2:50,NA,NA
+NA,8,"Tanak, Ott",Hyundai i20 Coupe WRC,EE,RC1,NA,NA,SS4,off road
+NA,22,"Veiby, Ole Christian",Hyundai i20,NO,RC2,NA,NA,SS14,off road
+NA,29,"Pedretti, Massimo",Ford Fiesta,IT,RC2,NA,NA,SS15,mechanical
+NA,32,"Sarrazin, Stephane",Hyundai i20,FR,RC2,NA,NA,SS6,off road
+NA,35,"Nucita, Andrea",Hyundai i20,IT,RC2,NA,NA,TC12,mechanical
+NA,38,"Lopez, Jose M.",Citroen C3,ES,RC2,NA,NA,TC12C,mechanical
+NA,45,"Baffoun, Philippe",Ford Fiesta,FR,RC2,NA,NA,SS12,off road
+NA,60,"Grandordy, Franck",Renault Clio,FR,RC3,NA,NA,TC10,mechanical
+NA,67,"Poizot, Thibaut",Renault Clio,FR,RC3,NA,NA,SS9,mechanical
+NA,73,"Althaus, Sacha",Peugeot 208,CH,RC4,NA,NA,TC15,mechanical
+NA,78,"Juanico, Mathias",Peugeot 208,FR,RC4,NA,NA,TC2D,mechanical
+NA,80,"Dorche, Romain",Peugeot 208,FR,RC4,NA,NA,SS1,off road
+NA,86,"Oberti, Damien",Peugeot 208,FR,RC4,NA,NA,SS10,mechanical
+NA,88,"Jaussaud, Bernard",Renault Twingo,FR,RC4,NA,NA,TC12C,mechanical

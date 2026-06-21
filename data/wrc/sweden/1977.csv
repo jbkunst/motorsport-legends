@@ -1,0 +1,18 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,4,"Blomqvist, Stig",Saab 99EMS,SE,G4,8h 02m 17s,NA,NA,NA
+2,19,"Danielsson, Bror",Opel Kadett GT/E,SE,G2,+6m 02s,NA,NA,NA
+3,8,"Kullang, Anders",Opel Kadett GT/E,SE,G2,+6m 15s,NA,NA,NA
+4,7,"Lampinen, Simo",Fiat 131 Abarth,FI,G4,+10m 58s,NA,NA,NA
+5,10,"Hamalainen, Kyosti",Ford Escort RS2000,FI,G1,+19m 26s,NA,NA,NA
+6,37,"Avelin, Hans",Opel Ascona,SE,G4,+28m 09s,NA,NA,NA
+7,43,"Asterhag, Leif",Toyota Celica,SE,G2,+32m 32s,NA,NA,NA
+8,84,"Neby, Sven-Inge",Volvo 142,SE,G2,+33m 57s,NA,NA,NA
+9,53,"Stromberg, Ola",Saab 96 V4,SE,G2,+37m 43s,NA,NA,NA
+10,12,"Engseth, Per",Lada 1500,NO,G2,+37m 56s,NA,NA,NA
+NA,1,"Eklund, Per",Saab 99EMS,SE,G4,NA,NA,NA,engine
+NA,2,"Alen, Markku",Fiat 131 Abarth,FI,G4,NA,NA,NA,electrics
+NA,3,"Mikkola, Hannu",Toyota Corolla,FI,G4,NA,NA,NA,electrics
+NA,5,"Makinen, Timo",Fiat 131 Abarth,FI,G4,NA,NA,NA,distributor
+NA,6,"Airikkala, Pentti",Toyota Celica,FI,G4,NA,NA,NA,injection
+NA,NA,"Carlsson, Ingvar",BMW 2002,SE,G4,NA,NA,NA,carburetor
+NA,NA,"Haider, Josef",Opel Kadett GT/E,AT,G2,NA,NA,NA,unknown

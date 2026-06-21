@@ -1,0 +1,80 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,5,"Therier, Jean-Luc",Renault-Alpine A110 1800,FR,G4,5:42:16,2:00,NA,NA
+2,1,"Nicolas, Jean-Pierre",Renault-Alpine A110 1800,FR,G4,+6m 41s,2:00,NA,NA
+3,20,"Romaozinho, Francisco",Citroen DS21,PT,G2,+26m 32s,4:00,NA,NA
+4,15,"Netto, Luis",Fiat 124 Abarth Spider,PT,G4,+28m 24s,5:00,NA,NA
+5,19,"Nunes, Americo",Porsche 911,PT,G4,+34m 44s,8:00,NA,NA
+6,14,"Borges, Antonio",Renault-Alpine A110,PT,G4,+58m 52s,13:00,NA,NA
+7,25,"Queiroz Pereira, Manuel",Opel Ascona,PT,G1,+1h 11m 24s,16:00,NA,NA
+8,58,"Martorell, Antonio",Opel Ascona,PT,G1,+1h 13m 48s,20:00,NA,NA
+9,52,"Britth, Hans",Ford Capri 2600,SE,G2,+1h 20m 31s,18:00,NA,NA
+10,16,"Salvi, Giovanni",Porsche 911,PT,G4,+1h 23m 08s,26:00,NA,NA
+11,64,'Xanato',Datsun,PT,G1,+1h 28m 10s,32:00,NA,NA
+12,12,"Laurent, Claude",DAF 55,FR,G2,+1h 39m 35s,30:00,NA,NA
+13,80,"Coelho, Noel",BMW,PT,G2,+1h 44m 11s,28:00,NA,NA
+14,69,"Ferreira da Cunha, Antonio",Datsun,PT,G1,+2h 00m 59s,33:00,NA,NA
+15,67,"Ortigao, Jorge",Datsun,PT,G1,+2h 01m 27s,33:00,NA,NA
+16,54,"Malkin, Colin",Chrysler,GB,G1,+2h 05m 31s,54:00,NA,NA
+17,66,"Goncalves, Rui",Austin,PT,G2,+2h 11m 11s,47:00,NA,NA
+18,85,"Cortez, Pedro",Toyota,PT,G1,+2h 17m 23s,51:00,NA,NA
+19,39,"Doppelreiter, Helmut",Volkswagen,AT,G1,+2h 30m 56s,48:00,NA,NA
+20,68,"Teixeira, Martins",Austin,PT,G2,+2h 56m 24s,1:05:00,NA,NA
+21,97,"Chartier, Paul",Citroen,BE,G1,+3h 09m 40s,1:15:00,NA,NA
+22,38,"Fennes, Johann",Citroen,AT,G1,+3h 14m 03s,1:27:00,NA,NA
+23,99,"Bessem, Eric",DAF,NL,G2,+3h 31m 06s,1:16:00,NA,NA
+NA,2,"Paganelli, Alcide",Fiat 124 Abarth Spider,IT,G4,NA,NA,before SS26,head gasket
+NA,3,"Darniche, Bernard",Renault-Alpine A110 1800,FR,G4,NA,NA,Leg 4,differential
+NA,4,"Waldegard, Bjorn",Fiat 124 Abarth Spider,SE,G4,NA,NA,SS21,accident
+NA,6,"Pinto, Raffaele",Fiat 124 Abarth Spider,IT,G4,NA,NA,Leg 4,front suspension
+NA,7,"Sclater, Chris",Datsun 240Z,GB,G4,NA,NA,Leg 4,suspension
+NA,8,"Warmbold, Achim",BMW 2002,DE,G2,NA,NA,before SS26,steering
+NA,9,"Andersson, Ove",Toyota Celica,SE,G2,NA,NA,before SS15,accident
+NA,10,"Kallstrom, Harry",Volkswagen 1302S,SE,G2,NA,NA,Leg 4,throttle linkage
+NA,11,"Fall, Tony",Volkswagen 1303S,GB,G2,NA,NA,Leg 4,rear suspension
+NA,17,"Figueiredo, Mario",Fiat 124 Abarth Spider,PT,G4,NA,NA,Leg 3,accident
+NA,18,"Oliveira, Antonio",Datsun 240Z,PT,G4,NA,NA,Leg 3,suspension
+NA,21,"Albino, Carpinteiro",Fiat,PT,G4,NA,NA,before S26,differential
+NA,22,"Pereira, Gomes",Opel,PT,G2,NA,NA,Leg 3,steering
+NA,23,"Santos, Francisco",Ford Escort,PT,G2,NA,NA,SS5,lost wheel
+NA,26,"Magalhaes, Raposo",Morris,PT,G2,NA,NA,before SS1,clutch/gearbox
+NA,27,"Bochnicek, Richard",Citroen DS21,AT,G2,NA,NA,Leg 4,clutch
+NA,30,"Fowkes, Anthony",Ford Escort,GB,G2,NA,NA,Leg 4,mechanical
+NA,31,"Hollier, Nigel",Ford Escort,GB,G2,NA,NA,NA,unknown
+NA,32,"Harris, Douglas",Ford Escort,GB,G2,NA,NA,Leg 3,unknown
+NA,34,"Fischer, Georg",Volkswagen 1302S,AT,G2,NA,NA,SS9,gearbox
+NA,35,"Beaumont, Marie-Claude",Opel Ascona,FR,G1,NA,NA,Leg 3,suspension
+NA,36,"Grundsteidl, Herbert",Volkswagen 1302S,AT,G2,NA,NA,Leg 3,accident
+NA,41,"Houel, George",Lancia,FR,G3,NA,NA,Leg 3,mechanical
+NA,42,"Asterhag, Leif",BMW 2002,SE,G2,NA,NA,Leg 4,suspension
+NA,43,"Skov, Aage",Opel,DK,G1,NA,NA,before SS7,suspension
+NA,44,"Joensson, Lars",BMW,SE,G1,NA,NA,before SS4,unknown
+NA,45,"Allanson, Arne",BMW,SE,G1,NA,NA,SS12,mechanical
+NA,46,"Eigil, Hansen",Volkswagen,DK,G1,NA,NA,Leg 3,unknown
+NA,48,"Petersen, P.",Saab 96 V4,FI,G2,NA,NA,before SS7,accident
+NA,50,"Wathen, Christopher",Ford Escort,GB,G2,NA,NA,SS11,gearbox
+NA,51,"Janger, Gunther",Opel,AT,G2,NA,NA,before SS6,engine
+NA,53,"do Botelho, Conde",Opel,PT,G1,NA,NA,Leg 4,engine
+NA,55,"Morais, Heitor",Opel,PT,G1,NA,NA,Leg 3,fuel supply
+NA,56,"Amaral, Manuel",Ford Escort,PT,G2,NA,NA,Leg 3,accident
+NA,57,"Bastos, Burnay",Morris,PT,G2,NA,NA,before SS26,suspension
+NA,59,"Trieschmann, O.",Ford Capri,DE,G2,NA,NA,Leg 3,suspension
+NA,60,"Grade, Salles",Morris,PT,G2,NA,NA,SS5,lost wheel
+NA,62,"Meireles, Pedro",Austin,PT,G2,NA,NA,SS1,clutch/differential
+NA,63,"Santos, Artur",BMW,PT,G1,NA,NA,before SS19,brakes
+NA,65,"Moutinho, Joaquim",Austin Maxi,PT,G2,NA,NA,Leg 2,unknown
+NA,70,"de Sa, Ademar",Austin,PT,G2,NA,NA,concentrat. run,mechanical
+NA,73,"Beatriz, Rogerio",Vauxhall,PT,G1,NA,NA,Leg 3,lost wheel
+NA,74,"Perestrelo, Silvio",Porsche,PT,G4,NA,NA,Leg 4,punctures
+NA,75,"Benitez, Jaime",Opel,PT,G1,NA,NA,Leg 3,mechanical
+NA,77,"Medeiros, Jose",Alfa Romeo,PT,G2,NA,NA,Leg 3,unknown
+NA,78,"Pedra, Jose",Opel,PT,G2,NA,NA,Leg 2,mechanical
+NA,79,"Pinto, Carlos",Volkswagen,PT,G2,NA,NA,Leg 3,mechanical
+NA,82,"Sampaio, Adolfo",Citroen,PT,G1,NA,NA,SS2,mechanical
+NA,83,"Michailidis, A.",Ford Escort,GB,G2,NA,NA,SS2,accident
+NA,84,"Glover, David",Morris,PT,G2,NA,NA,Leg 4,suspension
+NA,86,"Silva, Nogueira",Morris,PT,G2,NA,NA,Leg 4,punctures
+NA,87,"Caixinha, Antonio",Morris,PT,G2,NA,NA,Leg 3,suspension
+NA,92,"Selas, Santiago",Seat,ES,G2,NA,NA,SS8,unknown
+NA,93,"Orieta, Clemente",Seat,ES,G2,NA,NA,SS8,unknown
+NA,95,"Wouters, Roger",Ford Capri,BE,G2,NA,NA,Leg 4,suspension
+NA,98,"Sulbout, Michel",Morris,BE,G1,NA,NA,Leg 4,got lost

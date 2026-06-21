@@ -1,0 +1,58 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Loeb, Sebastien",Citroen C4 WRC,FR,A8,"3h 59m 18,9s",0:30,NA,NA
+2,2,"Sordo Castillo, Daniel",Citroen C4 WRC,ES,A8,"+17,5s",NA,NA,NA
+3,3,"Hirvonen, Mikko",Ford Focus RS WRC 08,FI,A8,"+41,5s",NA,NA,NA
+4,5,"Solberg, Petter",Subaru Impreza WRC2008,NO,A8,"+2m 48,9s",NA,NA,NA
+5,14,"Aava, Urmo",Citroen C4 WRC,EE,A8,"+3m 30,7s",NA,NA,NA
+6,12,"Andersson, Per-Gunnar",Suzuki SX4 WRC,SE,A8,"+7m 37,4s",NA,NA,NA
+7,11,"Gardemeister, Toni",Suzuki SX4 WRC,FI,A8,"+7m 54,9s",NA,NA,NA
+8,9,"Villagra, Federico",Ford Focus RS WRC 07,AR,A8,"+8m 35,0s",NA,NA,NA
+9,10,"Solberg, Henning",Ford Focus RS WRC 07,NO,A8,"+9m 15,2s",1:00,NA,NA
+10,33,"Prokop, Martin",Mitsubishi Lancer Evo IX,CZ,N4,"+13m 49,0s",NA,NA,NA
+11,55,"Sandell, Patrik",Mitsubishi Lancer Evo IX,SE,N4,"+14m 25,2s",NA,NA,NA
+12,57,"Rauam, Martin",Mitsubishi Lancer Evo IX,EE,N4,"+14m 46,8s",NA,NA,NA
+13,59,"Paddon, Hayden",Mitsubishi Lancer Evo IX,NZ,N4,"+15m 16,3s",NA,NA,NA
+14,52,"Hanninen, Juho",Mitsubishi Lancer Evo IX,FI,N4,"+16m 06,3s",2:30,NA,NA
+15,46,"Ketomaa, Jari",Subaru Impreza WRX,FI,N4,"+16m 35,1s",0:50,NA,NA
+16,67,"Gilmour, Emma",Subaru Impreza WRX,NZ,N4,"+17m 07,5s",NA,NA,NA
+17,8,"Wilson, Matthew",Ford Focus RS WRC 07,GB,A8,"+17m 15,1s",NA,NA,NA
+18,42,"Sousa, Bernardo",Mitsubishi Lancer Evo IX,PT,N4,"+20m 41,4s",NA,NA,NA
+19,38,"Taylor, Stewart",Mitsubishi Lancer Evo IX,NZ,N4,"+20m 55,0s",NA,NA,NA
+20,44,"Liu, Cao Dong",Subaru Impreza WRX,CN,N4,"+27m 01,2s",NA,NA,NA
+21,69,"Cox, Sloan",Mitsubishi Lancer Evo VIII,NZ,N4,"+28m 55,1s",NA,NA,NA
+22,37,"Pavlides, Spyros",Subaru Impreza WRX,CY,N4,"+32m 56,2s",NA,NA,NA
+23,34,"Linari, Gianluca",Subaru Impreza WRX,IT,N4,"+34m 42,0s",NA,NA,NA
+24,78,"Nakajima, Masahiro",Subaru Impreza WRX,JP,N4,"+42m 41,1s",0:20,NA,NA
+25,50,"Araujo, Armindo",Mitsubishi Lancer Evo IX,PT,N4,"+47m 37,1s",NA,NA,NA
+26,82,"Reeves, Brendan",Ford Fiesta ST,AU,N3,"+47m 49,0s",1:30,NA,NA
+27,77,"Taylor, Brent",Mitsubishi Lancer Evo VIII,NZ,N4,"+48m 02,9s",NA,NA,NA
+28,66,"Thomas, Nathan",Mitsubishi Lancer Evo VII,NZ,A8,"+50m 58,2s",NA,NA,NA
+29,85,"Ohashi, Tomoki",Subaru Impreza WRX,JP,N4,"+51m 57,6s",NA,NA,NA
+30,54,"Block, Ken",Subaru Impreza WRX,US,N4,"+53m 26,3s",NA,NA,NA
+31,86,"Malley, Dermott",Ford Fiesta ST,NZ,N3,"+54m 33,0s",NA,NA,NA
+32,81,"Taylor, Trevor",Mitsubishi Lancer Evo IX,NZ,N4,"+58m 22,6s",NA,NA,NA
+33,51,"Aksa, Subhan",Mitsubishi Lancer Evo IX,ID,N4,"+1h 01m 36,0s",NA,NA,NA
+34,83,"Malley, Patrick",Ford Fiesta ST,NZ,N3,"+1h 05m 27,0s",NA,NA,NA
+35,84,"Jagger, Ben",Ford Fiesta ST,NZ,N3,"+1h 16m 17,2s",NA,NA,NA
+NA,4,"Latvala, Jari-Matti",Ford Focus RS WRC 08,FI,A8,NA,NA,SS17,accident
+NA,6,"Atkinson, Christopher",Subaru Impreza WRC2008,AU,A8,NA,NA,SS15,cooling
+NA,7,"Duval, Francois",Ford Focus RS WRC 07,BE,A8,NA,NA,SS17,off road
+NA,15,"Rautenbach, Conrad",Citroen C4 WRC,ZW,A8,NA,NA,SS18,mechanical
+NA,31,"Arai, Toshihiro",Subaru Impreza WRX,JP,N4,NA,NA,SS5,cooling
+NA,32,"Baldacci, Mirco",Mitsubishi Lancer Evo IX,SM,N4,NA,NA,TC13D,unknown
+NA,35,"Novikov, Evgeny",Mitsubishi Lancer Evo IX,RU,N4,NA,NA,TC13D,unknown
+NA,39,"al-Marri, Misfer",Subaru Impreza WRX,QA,N4,NA,NA,SS15,fire
+NA,41,"Aigner, Andreas",Mitsubishi Lancer Evo IX,AT,N4,NA,NA,SS12,off road
+NA,43,"Vertunov, Evgeny",Subaru Impreza WRX,RU,N4,NA,NA,SS2,front damage
+NA,47,"Bacco, Giorgio",Subaru Impreza WRX,IT,N4,NA,NA,SS10,off road
+NA,56,"Nutahara, Fumio",Mitsubishi Lancer Evo IX,JP,N4,NA,NA,SS15,mechanical
+NA,58,"Kumar, Naren",Subaru Impreza WRX,IN,N4,NA,NA,TC15C,mechanical
+NA,60,"West, Chris",Mitsubishi Lancer Evo IX,NZ,N4,NA,NA,SS15,differential
+NA,61,"Mason, Richard",Subaru Impreza WRX,NZ,N4,NA,NA,SS15,mechanical
+NA,64,"McInnes, Callum",Subaru Impreza WRX,NZ,N4,NA,NA,SS15,off road
+NA,73,"Meier, Andre",Subaru Impreza,NZ,N4,NA,NA,SS15,accident
+NA,74,"Nelson, Kirsty",Subaru Impreza,NZ,N4,NA,NA,TC13D,unknown
+NA,75,"Green, Tony",Subaru Impreza WRX,NZ,N4,NA,NA,SS17,off road
+NA,76,"Fullerton, Bruce",Mitsubishi Lancer Evo VIII,AU,N4,NA,NA,TC13D,unknown
+NA,80,"Martin, Brett",Mitsubishi Lancer Evo IX,NZ,N4,NA,NA,SS10,unknown
+NA,87,"Kaseya, Motoharu",Ford Fiesta ST,JP,N3,NA,NA,SS4,off road

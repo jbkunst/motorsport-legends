@@ -1,0 +1,61 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"McRae, Colin",Subaru Impreza WRC97,GB,A8,4h 31m 08s,NA,NA,NA
+2,5,"Sainz, Carlos",Ford Escort WRC,ES,A8,+8s,NA,NA,NA
+3,7,"Panizzi, Gilles",Peugeot 306 Maxi,FR,A7,+38s,NA,NA,NA
+4,9,"Delecour, Francois",Peugeot 306 Maxi,FR,A7,+55s,NA,NA,NA
+5,4,"Liatti, Piero",Subaru Impreza WRC97,IT,A8,+1m 59s,NA,NA,NA
+6,8,"Bugalski, Philippe",Renault Megane,FR,A7,+6m 40s,NA,NA,NA
+7,10,"Jordan, Serge",Renault Megane,FR,A7,+8m 28s,NA,NA,NA
+8,2,"Nittel, Uwe",Mitsubishi Lancer Evo III,DE,A8,+9m 40s,NA,NA,NA
+9,6,"Schwarz, Armin",Ford Escort WRC,DE,A8,+10m 35s,NA,NA,NA
+10,15,"Mariani, Francis",Subaru Impreza 555,FR,A8,+13m 47s,NA,NA,NA
+11,22,"Balesi, Claude",Renault Megane,FR,A7,+14m 01s,NA,NA,NA
+12,11,"Magaud, Patrick",Citroen Saxo,FR,A6,+17m 13s,NA,NA,NA
+13,21,"Manzagol, Jean-Pierre",Renault Megane,FR,A7,+25m 00s,NA,NA,NA
+14,17,"Santoni, Jean-Marie",Ford Escort RS Cosworth,FR,N4,+26m 40s,NA,NA,NA
+15,16,"Andreani, Jacques",Mitsubishi Lancer Evo III,FR,N4,+28m 27s,NA,NA,NA
+16,20,"Colard, Pierre",Subaru Impreza 555,FR,A8,+33m 45s,NA,NA,NA
+17,19,"Mortl, Achim",Subaru Impreza,AT,N4,+37m 50s,NA,NA,NA
+18,30,"Ruggeri, Eric",Renault Clio Williams,FR,A7,+44m 40s,NA,NA,NA
+19,44,"Fons, Philippe",Renault Clio,FR,N3,+47m 12s,NA,NA,NA
+20,39,"Pietri, Jean-Michel",Renault Clio,FR,N3,+49m 22s,NA,NA,NA
+21,28,"Micheli, Jose",Ford Escort RS Cosworth,FR,A8,+49m 35s,NA,NA,NA
+22,41,"Antona, Erick",Renault Clio,FR,N3,+50m 51s,NA,NA,NA
+23,40,"Mohe, Carsten",Renault Clio,DE,N3,+51m 19s,NA,NA,NA
+24,32,"Triboulet, Regis",Volkswagen Golf GTI 16V,FR,A7,+51m 32s,NA,NA,NA
+25,55,"Cesbron, Jaccky",Peugeot 106,FR,A5,+53m 01s,NA,NA,NA
+26,35,"Rey, Charles",Peugeot 306,FR,N,+56m 49s,NA,NA,NA
+27,48,"Rovina, Stephane",Peugeot 309 GTI,FR,N,+56m 58s,NA,NA,NA
+28,33,"Corio, Emilio",Fiat Coupe 2.0,IT,A7,+59m 29s,NA,NA,NA
+29,56,"Pugliese, Patrick",Peugeot 205 Rallye,FR,A5,+1h 01m 36s,NA,NA,NA
+30,26,"Richaud, Jacques",Subaru Impreza 555,FR,N,+1h 05m 00s,NA,NA,NA
+31,62,"Casanova, Denis",Peugeot 106,FR,N1,+1h 06m 19s,NA,NA,NA
+32,54,"Chevite, Pascal",Peugeot 205 Rallye,FR,A,+1h 09m 12s,NA,NA,NA
+33,45,"Forel, Jean-Claude",Renault Clio Williams,FR,N,+1h 12m 27s,NA,NA,NA
+34,58,"Caridroit, Gilles",Peugeot 106,FR,N,+1h 13m 31s,NA,NA,NA
+35,53,"Guillot, Christian",Honda Civic,FR,N2,+1h 14m 23s,NA,NA,NA
+36,52,"Kiefer, Hans-Joachim",Honda Civic,DE,N,+1h 18m 55s,NA,NA,NA
+37,51,"Malegarie, Alain",Peugeot 106,FR,A,+1h 52m 55s,NA,NA,NA
+38,27,"Colle, Christian",Ford Escort RS Cosworth,FR,N,+1h 55m 32s,NA,NA,NA
+39,57,"Manavella, Jean-Pierre",Skoda Felicia,FR,N,+2h 11m 28s,NA,NA,NA
+NA,1,"Makinen, Tommi",Mitsubishi Lancer Evo IV,FI,A8,NA,NA,SS7,hit cow on stage
+NA,14,"Climent, Luis",Mitsubishi Lancer Evo III,ES,N4,NA,NA,SS1,front suspension
+NA,18,"Albertini, Laurent",Mitsubishi Lancer Evo III,FR,N4,NA,NA,NA,unknown
+NA,23,"Serpaggi, Jean-Baptiste",Peugeot 106,FR,A6,NA,NA,SS1,clutch
+NA,24,"Boetti, Michel",Peugeot 106,FR,A6,NA,NA,SS2,clutch
+NA,25,"de Belloy, Priscille",Peugeot 106,FR,A6,NA,NA,SS12,front hub
+NA,29,"Padovani, Gabriel",Peugeot 205 GTI,FR,A,NA,NA,NA,unknown
+NA,31,"Barbolosi, Julien",Peugeot 306 Maxi,FR,A,NA,NA,NA,unknown
+NA,34,"Cursaz, Olivier",Peugeot 309 GTI,FR,A,NA,NA,NA,unknown
+NA,36,"Manzagol, Jean-Marc",Renault Clio Williams,FR,N,NA,NA,NA,unknown
+NA,37,"Bensimon, Claude",Renault Clio Williams,FR,N,NA,NA,NA,unknown
+NA,38,"Fazi, Petru",Peugeot 106,FR,A,NA,NA,NA,unknown
+NA,42,"Micheli, Jean-Jacques",Peugeot 309 GTI,FR,N,NA,NA,NA,unknown
+NA,43,"Salicetti, David",Renault Clio Williams,FR,N,NA,NA,NA,unknown
+NA,46,"Faillace, Jean Francois",Renault Clio Williams,FR,N,NA,NA,NA,unknown
+NA,47,"Moreira, Michel",Renault Clio Williams,FR,N,NA,NA,NA,unknown
+NA,49,"Quilici, Pierre",Peugeot 106,FR,A,NA,NA,NA,unknown
+NA,50,"Depping, Janina",Skoda Felicia Kit-Car,DE,A6,NA,NA,NA,unknown
+NA,59,"Molluso, Noel",Peugeot 205 Rallye,FR,N,NA,NA,NA,unknown
+NA,60,"Vanhaesebrouck, Philippe",Peugeot 205 Rallye,FR,N,NA,NA,NA,unknown
+NA,61,"Delleaux, Stephane",Peugeot 205 Rallye,FR,N,NA,NA,NA,unknown

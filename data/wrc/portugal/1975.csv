@@ -1,0 +1,29 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,4,"Alen, Markku",Fiat 124 Abarth Spider,FI,G4,6h 24m 15s,NA,NA,NA
+2,1,"Mikkola, Hannu",Fiat 124 Abarth Spider,FI,G4,+2m 43s,NA,NA,NA
+3,9,"Andersson, Ove",Toyota Corolla,SE,G2,+5m 14s,NA,NA,NA
+4,10,"Aaltonen, Rauno",Opel Ascona,FI,G2,+11m 16s,0:01,NA,NA
+5,16,"Cortez, Pedro",Datsun 260Z,PT,G4,+20m 52s,NA,NA,NA
+6,19,"Figueiredo, Mario",Datsun 240Z,PT,G4,+29m 32s,NA,NA,NA
+7,7,"Mehta, Shekhar",Datsun Violet,KE,G2,+46m 15s,NA,NA,NA
+8,14,"Romaozinho, Francisco",Citroen GS,PT,G2,+46m 36s,NA,NA,NA
+9,42,"Lezama, Fernando",Ford Escort RS1600,ES,G2,+1h 00m 38s,0:08,NA,NA
+10,41,"Megre, Jose",Datsun 240Z,PT,G4,+1h 14m 14s,NA,NA,NA
+11,30,"Ortigao, Jorge",Mazda 818,PT,G1,+1h 23m 18s,NA,NA,NA
+12,50,"Torres, Carlos",Mazda RX2,PT,G1,+1h 24m 54s,0:02,NA,NA
+13,70,"Bertrand, Jean-Claude",Datsun Violet,CI,G2,+1h 26m 47s,0:04,NA,NA
+14,26,"Laurent, Claude",Citroen GS,FR,G2,+1h 29m 28s,NA,NA,NA
+15,28,"Etchebers, Marc",BMW 2002,ES,G1,+1h 43m 22s,NA,NA,NA
+16,81,"Barata, Miguel",Datsun 1200,PT,G2,+1h 52m 52s,0:08,NA,NA
+17,64,"Cunha, Jose",Datsun 1200,PT,G1,+1h 56m 02s,0:15,NA,NA
+18,63,"Brauwer, Leon",Opel Ascona,BE,G2,+2h 05m 10s,0:01,NA,NA
+19,76,"Coppier, Alain",NSU 1300,FR,G1,+2h 11m 19s,0:07,NA,NA
+20,57,"Beaudoin, Patrick",Peugeot 504,FR,G1,+2h 20m 41s,0:02,NA,NA
+21,53,"Cerf, Alain",Datsun 1600SSS,CH,G1,+2h 32m 13s,0:24,NA,NA
+22,95,Kalechesmeden,Toyota Celica,DK,G1,+2h 51m 37s,0:23,NA,NA
+NA,2,"Warmbold, Achim",BMW 2002,DE,G2,NA,NA,NA,driveshaft coupling
+NA,3,"Rohrl, Walter",Opel Ascona,DE,G2,NA,NA,NA,electrics
+NA,5,"Waldegard, Bjorn",Toyota Corolla,SE,G2,NA,NA,NA,gearbox
+NA,6,"Paganelli, Alcide",Fiat 124 Abarth Spider,IT,G4,NA,NA,NA,steering
+NA,12,"Canellas (Sr), Salvador",Seat 1430/1800,ES,G2,NA,NA,NA,rear suspension
+NA,23,"Munoz, Ricardo",Seat 1430/1800,ES,G2,NA,NA,NA,gearbox

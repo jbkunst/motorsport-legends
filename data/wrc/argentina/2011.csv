@@ -1,0 +1,34 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Loeb, Sebastien",Citroen DS3 WRC,FR,A0,"4h 03m 56,9s",1:00,NA,NA
+2,3,"Hirvonen, Mikko",Ford Fiesta RS WRC,FI,A0,"+2,4s",NA,NA,NA
+3,2,"Ogier, Sebastien",Citroen DS3 WRC,FR,A0,"+7,3s",NA,NA,NA
+4,11,"Solberg, Petter",Citroen DS3 WRC,NO,A0,"+32,6s",NA,NA,NA
+5,6,"Ostberg, Mads",Ford Fiesta RS WRC,NO,A0,"+5m 16,8s",NA,NA,NA
+6,7,"Villagra, Federico",Ford Escort WRC,AR,A0,"+6m 48,5s",NA,NA,NA
+7,4,"Latvala, Jari-Matti",Ford Fiesta RS WRC,FI,A0,"+11m 34,5s",2:10,NA,NA
+8,5,"Wilson, Matthew",Ford Fiesta RS WRC,GB,A0,"+13m 32,7s",NA,NA,NA
+9,38,"Paddon, Hayden",Subaru Impreza,NZ,A3,"+25m 43,8s",0:10,NA,NA
+10,21,"Flodin, Patrik",Subaru Impreza,SE,A3,"+33m 34,1s",0:40,NA,NA
+11,33,"Tagirov, Dmitry",Subaru Impreza,RU,A3,"+39m 10,7s",0:30,NA,NA
+12,35,"Fuchs Sierlecki, Nicolas",Mitsubishi Lancer Evo X,PE,A3,"+43m 56,2s",1:50,NA,NA
+13,53,"Orlandini, Raul",Mitsubishi Lancer Evo IX,PE,A3,"+47m 39,2s",2:50,NA,NA
+14,26,"Semerad, Martin",Mitsubishi Lancer Evo IX,CZ,A3,"+47m 59,6s",NA,NA,NA
+15,39,"Guerra Latapi, Benito",Mitsubishi Lancer Evo X,MX,A3,"+49m 00,2s",3:10,NA,NA
+16,50,"Campos, Ezequiel",Mitsubishi Lancer Evo IX,AR,A3,"+50m 20,6s",0:10,NA,NA
+17,23,"Linari, Gianluca",Subaru Impreza,IT,A3,"+52m 55,8s",1:00,NA,NA
+18,43,"Block, Ken",Ford Fiesta RS WRC,US,A0,"+53m 19,9s",0:50,NA,NA
+19,34,"Protasov, Yuriy",Mitsubishi Lancer Evo X,UA,A3,"+53m 28,6s",NA,NA,NA
+20,22,"Kosciuszko, Michal",Mitsubishi Lancer Evo X,PL,A3,"+54m 07,8s",NA,NA,NA
+21,27,"Hunt, Harry",Citroen DS3,GB,A3,"+1h 01m 17,4s",1:00,NA,NA
+22,65,"Suarez, German",Subaru Impreza,AR,A3,"+1h 29m 43,0s",1:10,NA,NA
+23,75,"Pelaez, Pablo",Peugeot 206,AR,A9,"+1h 44m 02,9s",3:00,NA,NA
+24,72,"Cuevas, Carlos",Citroen C4,AR,A5,"+2h 15m 51,6s",NA,NA,NA
+25,78,"Durante, Miguel Angel",Renault Clio,AR,A9,"+2h 24m 16,0s",1:00,NA,NA
+26,71,"Bottazzini, Guillermo",Citroen C4,AR,A5,"+2h 25m 12,7s",1:10,NA,NA
+27,76,"Clemente, Fernando",Renault Clio,AR,A9,"+2h 59m 03,2s",1:40,NA,NA
+NA,12,"Oliveira, Daniel Rolim",Mini John Cooper Works,BR,A0,NA,NA,SS8,mechanical
+NA,14,"van Merksteijn jr, Peter",Citroen DS3 WRC,NL,A0,NA,NA,TC6,mechanical
+NA,49,"Levy, Alejandro Javier",Mitsubishi Lancer Evo X,AR,A3,NA,NA,SS11,mechanical
+NA,52,"Kremer, Armin",Mitsubishi Lancer Evo X,DE,A3,NA,NA,SS16,mechanical
+NA,73,"Castro, Carlos Horacio",Renault Clio,AR,A8,NA,NA,SS16,mechanical
+NA,77,"Sinito, Pablo M.",Peugeot 206,AR,A9,NA,NA,SS16,mechanical

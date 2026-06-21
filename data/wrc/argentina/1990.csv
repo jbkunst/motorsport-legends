@@ -1,0 +1,19 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"Biasion, Massimo",Lancia Delta HF Integrale 16v,IT,A8,6h 51m 27s,NA,NA,NA
+2,1,"Sainz, Carlos",Toyota Celica GT-4 (ST165),ES,A,+8m 02s,NA,NA,NA
+3,5,"Auriol, Didier",Lancia Delta HF Integrale 16v,FR,A,+34m 55s,NA,NA,NA
+4,9,"Stohl, Rudolf",Audi 90 quattro,AT,A,+59m 21s,NA,NA,NA
+5,11,"Soto, Ernesto",Lancia Delta HF Integrale 16v,AR,N,+1h 01m 52s,NA,NA,NA
+6,6,"Oreille, Alain",Renault 5 GT Turbo,FR,N,+1h 05m 08s,NA,NA,NA
+7,67,"Raies, Marcelo",Renault 18 GTX,AR,A,+1h 41m 43s,NA,NA,NA
+8,38,"Martin, Gabriel",Fiat Regata,AR,A,+1h 47m 56s,NA,NA,NA
+9,50,"Maccari, Oscar",Renault 18 GTX,AR,A,+1h 51m 49s,NA,NA,NA
+10,57,"Marino, Fernando",Fiat Regata,AR,A,+2h 12m 45s,NA,NA,NA
+26,103,"Vacarezza, Ernesto",Fiat 128,AR,B,+4h 26m 10s,NA,NA,NA
+NA,2,"Kankkunen, Juha",Lancia Delta HF Integrale 16v,FI,A,NA,NA,SS14,gearbox
+NA,4,"Recalde, Jorge",Toyota Celica GT-4 (ST165),AR,A,NA,NA,SS6,accident
+NA,7,"Trelles, Gustavo",Lancia Delta HF Integrale 16v,UY,N,NA,NA,SS11,gearbox
+NA,10,"de Martini, Paola",Lancia Delta HF Integrale 16v,IT,A,NA,NA,After SS1,returned loaned car
+NA,14,"Menem Jr., Carlos",Lancia Delta HF Integrale 16v,AR,N,NA,NA,SS11,suspension
+NA,15,"Raies, Gabriel",Renault 18 GTX,AR,A,NA,NA,SS19,differential
+NA,20,"Lemos, Paulo",Volkswagen Gol,BR,A,NA,NA,SS16,gearbox

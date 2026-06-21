@@ -1,0 +1,17 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,6,"Auriol, Didier",Lancia Delta HF Integrale,FR,A8,7h 12m 08s,NA,NA,NA
+2,1,"Kankkunen, Juha",Lancia Delta HF Integrale,FI,A,+1m 29s,NA,NA,NA
+3,8,"Biasion, Massimo",Ford Sierra Cosworth 4x4,IT,A,+2m 25s,NA,NA,NA
+4,9,"McRae, Colin",Subaru Legacy RS,GB,A,+3m 54s,NA,NA,NA
+5,3,"Delecour, Francois",Ford Sierra Cosworth 4x4,FR,A,+15m 14s,NA,NA,NA
+6,11,"Recalde, Jorge",Lancia Delta HF Integrale,AR,A,+19m 50s,NA,NA,NA
+7,12,"Fiorio, Alessandro",Lancia Delta HF Integrale,IT,A,+32m 45s,NA,NA,NA
+8,17,"Vardinogiannis, Giannis",Toyota Celica Turbo 4WD (ST185),GR,A,+48m 27s,NA,NA,NA
+9,14,"de Mevius, Gregoire",Nissan Sunny GTI-R,BE,N,+53m 03s,NA,NA,NA
+10,15,"Capdevila, Fernando",Ford Sierra Cosworth 4x4,ES,N,+55m 32s,NA,NA,NA
+13,16,"Stohl, Rudolf",Audi 90 quattro,AT,A,+1h 09m 35s,NA,NA,NA
+NA,2,"Sainz, Carlos",Toyota Celica Turbo 4WD (ST185),ES,A,NA,NA,SS12,accident
+NA,4,"Eriksson, Kenneth",Mitsubishi Galant VR-4 Evo,SE,A,NA,NA,SS7,gearbox
+NA,5,"Vatanen, Ari",Subaru Legacy RS,FI,A,NA,NA,SS11,engine
+NA,7,"Alen, Markku",Toyota Celica Turbo 4WD (ST185),FI,A,NA,NA,SS25,accident
+NA,10,"Schwarz, Armin",Toyota Celica Turbo 4WD (ST185),DE,A,NA,NA,SS25,accident

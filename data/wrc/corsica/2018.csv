@@ -1,0 +1,88 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Ogier, Sebastien",Ford Fiesta RS WRC 2017,FR,RC1,"3h 26m 52,7s",NA,NA,NA
+2,8,"Tanak, Ott",Toyota Yaris WRC,EE,RC1,"+36,1s",NA,NA,NA
+3,5,"Neuville, Thierry",Hyundai i20 Coupe WRC,BE,RC1,"+1m 07,5s",NA,NA,NA
+4,6,"Sordo Castillo, Daniel",Hyundai i20 Coupe WRC,ES,RC1,"+2m 02,6s",NA,NA,NA
+5,2,"Evans, Elfyn",Ford Fiesta RS WRC 2017,GB,RC1,"+2m 06,1s",NA,NA,NA
+6,9,"Lappi, Esapekka",Toyota Yaris WRC,FI,RC1,"+2m 33,5s",NA,NA,NA
+7,4,"Mikkelsen, Andreas",Hyundai i20 Coupe WRC,NO,RC1,"+2m 43,4s",NA,NA,NA
+8,31,"Kopecky, Jan",Skoda Fabia,CZ,RC2,"+10m 34,8s",NA,NA,NA
+9,10,"Meeke, Kris",Citroen C3 WRC,GB,RC1,"+10m 40,5s",NA,NA,NA
+10,40,"Bonato, Yoann",Citroen C3,FR,RC2,"+12m 26,0s",NA,NA,NA
+11,41,"Andolfi, Fabio",Skoda Fabia,IT,RC2,"+13m 43,3s",NA,NA,NA
+12,33,"Veiby, Ole Christian",Skoda Fabia,NO,RC2,"+13m 45,1s",NA,NA,NA
+13,84,"Greensmith, Fergus",Ford Fiesta,GB,RC2,"+20m 08,6s",NA,NA,NA
+14,11,"Loeb, Sebastien",Citroen C3 WRC,FR,RC1,"+20m 58,0s",NA,NA,NA
+15,37,"Pieniazek, Lukasz",Skoda Fabia,PL,RC2,"+23m 40,4s",NA,NA,NA
+16,81,"Miele, Mauro",Citroen DS3 WRC,IT,RC1,"+24m 12,6s",NA,NA,NA
+17,24,"Astier, Raphael",Fiat 124 Abarth,FR,RGT,"+26m 23,1s",NA,NA,NA
+18,65,"Franceschi, Jean-Baptiste",Ford Fiesta,FR,RC4,"+29m 36,0s",NA,NA,NA
+19,66,"Folb, Thierry",Ford Fiesta,FR,RC4,"+30m 09,7s",NA,NA,NA
+20,105,"Fraymouth, Francois",Peugeot 208,FR,RC4,"+30m 56,1s",NA,NA,NA
+21,25,"Nucita, Andrea",Fiat 124 Abarth,IT,RGT,"+31m 48,1s",NA,NA,NA
+22,63,"Bergkvist, Emil",Ford Fiesta,SE,RC4,"+33m 04,6s",NA,NA,NA
+23,39,"Loubet, Pierre-Louis",Hyundai i20,FR,RC2,"+33m 20,3s",NA,NA,NA
+24,61,"Radstrom, Dennis",Ford Fiesta,SE,RC4,"+33m 47,7s",NA,NA,NA
+25,67,"Devine, Callum",Ford Fiesta,IE,RC4,"+36m 00,8s",NA,NA,NA
+26,97,"Nannucci, Pierre Marc",Renault Clio,FR,ASN,"+36m 13,3s",NA,NA,NA
+27,71,"Torn, Ken",Ford Fiesta,EE,RC4,"+36m 13,8s",NA,NA,NA
+28,69,"Bottarelli, Luca",Ford Fiesta,IT,RC4,"+37m 01,6s",NA,NA,NA
+29,74,"Banaz, Bugra",Ford Fiesta,TU,RC4,"+39m 49,9s",NA,NA,NA
+30,26,"Gache, Philippe",Fiat 124 Abarth,FR,RGT,"+40m 54,0s",1:20,NA,NA
+31,104,"Cardi, Cedric",Renault Clio,FR,ASN,"+41m 15,1s",NA,NA,NA
+32,64,"Tannert, Julius",Ford Fiesta,DE,RC4,"+42m 32,6s",NA,NA,NA
+33,108,"Mariani, Paul Andre",Peugeot 208,FR,RC4,"+42m 49,1s",NA,NA,NA
+34,36,"Solans Baldo, Nil",Ford Fiesta,ES,RC2,"+43m 15,7s",NA,NA,NA
+35,32,"Katsuta, Takamoto",Ford Fiesta,JP,RC2,"+43m 23,7s",NA,NA,NA
+36,68,"Fernandez Piraino, Emilio Andres",Ford Fiesta,CL,RC4,"+43m 30,6s",NA,NA,NA
+37,82,"Pereira, Armando",Ford Fiesta RS WRC,FR,RC1,"+43m 52,4s",NA,NA,NA
+38,72,"Williams, Tom",Ford Fiesta,GB,RC4,"+44m 32,7s",NA,NA,NA
+39,73,"Oldrati, Enrico",Ford Fiesta,IT,RC4,"+45m 21,6s",NA,NA,NA
+40,119,"Salini, Laura",Citroen Saxo,FR,ASN,"+46m 14,2s",NA,NA,NA
+41,116,"Franceschi, Mathieu",Ford Fiesta,FR,ASN,"+47m 07,7s",NA,NA,NA
+42,92,"Filippi, Julien",Citroen DS3,FR,RC3,"+47m 08,6s",NA,NA,NA
+43,91,"Filippi, Eric",Renault Clio,FR,RC3,"+49m 07,7s",NA,NA,NA
+44,102,"Rouanet, Romaine",Renault Clio,FR,ASN,"+49m 48,3s",1:00,NA,NA
+45,75,"Accornero, Umberto",Ford Fiesta,IT,RC4,"+50m 41,5s",NA,NA,NA
+46,118,"Launay, Patrice",Volkswagen Golf GTi,FR,ASN,"+51m 40,4s",NA,NA,NA
+47,27,"Modanesi, Andrea",Fiat 124 Abarth,IT,RGT,"+53m 06,9s",NA,NA,NA
+48,62,"Molle, Amaury",Peugeot 208,BE,RC4,"+53m 13,9s",NA,NA,NA
+49,106,"Picchioni, Florian",Citroen C2 R2,FR,RC4,"+53m 35,1s",NA,NA,NA
+50,125,"Defendini, Romain",Peugeot 106,FR,ASN,"+53m 49,8s",NA,NA,NA
+51,121,"Mari, Alain",Renault Clio,FR,ASN,"+54m 10,6s",NA,NA,NA
+52,87,"Argenti, Thomas",Skoda Fabia Super 2000,FR,RC2,"+54m 51,6s",0:10,NA,NA
+53,90,"Agostini, Thierry",Renault Clio,FR,ASN,"+55m 07,1s",0:50,NA,NA
+54,95,"Lafitte, Guillaume",Renault Megane,FR,ASN,"+55m 12,2s",NA,NA,NA
+55,35,"Arai, Hiroki",Ford Fiesta,JP,RC2,"+55m 39,9s",NA,NA,NA
+56,122,"Gubernati, Camille",Honda Integra,FR,ASN,"+56m 10,5s",NA,NA,NA
+57,98,"Lafont, Aurelien",Peugeot 207,FR,ASN,"+59m 07,2s",NA,NA,NA
+58,70,"Holder, David",Ford Fiesta,NZ,RC4,"+1h 01m 05,1s",0:20,NA,NA
+59,115,"Donati, Xavier",Ford Fiesta,FR,ASN,"+1h 01m 20,7s",NA,NA,NA
+60,96,"Legrand, Vincent",Renault Megane,FR,ASN,"+1h 04m 21,0s",NA,NA,NA
+61,89,"Renucci, Kathia",Ford Fiesta,FR,RC2,"+1h 14m 12,0s",1:40,NA,NA
+62,112,"Yein, Dai-Wei",Peugeot 208,TW,RC4,"+1h 15m 58,8s",0:10,NA,NA
+63,123,"d'Ulivo, Nicolas",Renault Clio,FR,ASN,"+1h 17m 32,5s",NA,NA,NA
+64,114,"Gardere, Paul",Citroen DS3,FR,RC5,"+1h 20m 19,4s",NA,NA,NA
+65,127,"di Paolo, Alain",Citroen Saxo,FR,ASN,"+1h 28m 52,7s",NA,NA,NA
+66,103,"Kemp, Pierre",Renault Clio,FR,ASN,"+1h 29m 44,1s",NA,NA,NA
+67,117,"Larose, Robert",Renault Clio,FR,ASN,"+1h 30m 19,7s",NA,NA,NA
+68,110,"Bensimon, Claude",Ford Fiesta,FR,RC4,"+1h 30m 37,7s",NA,NA,NA
+69,120,"Bernous, Bouchta",Citroen Saxo,FR,ASN,"+1h 35m 56,3s",1:30,NA,NA
+70,126,"Marchand, Patrick",Peugeot 106,FR,ASN,"+1h 38m 23,5s",NA,NA,NA
+71,124,"Laullon, Maxaens",Renault Clio,FR,ASN,"+1h 59m 39,1s",NA,NA,NA
+NA,3,"Bouffier, Bryan",Ford Fiesta RS WRC 2017,FR,RC1,NA,NA,SS8,mechanical
+NA,7,"Latvala, Jari-Matti",Toyota Yaris WRC,FI,RC1,NA,NA,SS8,accident
+NA,21,"Valliccioni, Marc",Porsche 997,FR,RGT,NA,NA,TC4E,mechanical
+NA,22,"Coyne, John",Porsche 997,IE,RGT,NA,NA,SS1,accident
+NA,23,"Sassi, Alberto",Porsche 997,IT,RGT,NA,NA,SS12,mechanical
+NA,38,"Lefebvre, Stephane",Citroen C3,FR,RC2,NA,NA,SS5,mechanical
+NA,42,"Ciamin, Nicolas",Hyundai i20,FR,RC2,NA,NA,SS11,mechanical
+NA,83,"Vauthier, Alain",Ford Fiesta RS WRC,FR,RC1,NA,NA,TC4E,accident
+NA,88,"Antonini, Louis",Ford Fiesta,FR,RC2,NA,NA,SS11,mechanical
+NA,93,"Schram, Dirk Jan",Renault Clio,NL,RC3,NA,NA,TC10D,off road
+NA,94,"Branca, Michel",Mitsubishi Lancer Evo VIII,FR,ASN,NA,NA,SS11,mechanical
+NA,99,"Couval, Guillaume",Renault Clio,FR,ASN,NA,NA,SS8,accident
+NA,100,"Villoresi, Raphael",Renault Clio,FR,ASN,NA,NA,TC10D,mechanical
+NA,101,"Coufranc, Michael",Renault Clio,FR,ASN,NA,NA,TC6,mechanical
+NA,107,"Schlosser, Lilian",Peugeot 208,FR,RC4,NA,NA,TC6B,mechanical
+NA,113,"Jocius, Deividas",Peugeot 208,LT,RC4,NA,NA,TC10D,mechanical

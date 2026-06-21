@@ -1,0 +1,18 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,5,"Sainz, Carlos",Toyota Celica GT-4 (ST165),ES,A8,6h 37m 31s,NA,NA,NA
+2,1,"Biasion, Massimo",Lancia Delta HF Integrale 16v,IT,A,+8s,NA,NA,NA
+3,6,"Auriol, Didier",Lancia Delta HF Integrale 16v,FR,A,+1m 05s,NA,NA,NA
+4,8,"Kankkunen, Juha",Lancia Delta HF Integrale 16v,FI,A,+5m 53s,NA,NA,NA
+5,3,"Recalde, Jorge",Lancia Delta HF Integrale 16v,AR,A,+11m 59s,NA,NA,NA
+6,7,"Ericsson, Mikael",Toyota Celica GT-4 (ST165),SE,A,+12m 42s,NA,NA,NA
+7,9,"bin Sulayem, Mohammed",Toyota Celica GT-4 (ST165),AE,A,+33m 38s,NA,NA,NA
+8,2,"Trelles, Gustavo",Lancia Delta HF Integrale 16v,UY,A,+36m 31s,NA,NA,NA
+9,11,"de Mevius, Gregoire",Mazda 323,BE,N,+57m 48s,NA,NA,NA
+10,15,"Sillankorva, Minna",Lancia Delta HF Integrale 16v,FI,A,+58m 53s,NA,NA,NA
+26,109,"Pancello, Edgardo",Fiat 128,AR,B,+3h 09m 25s,NA,NA,NA
+NA,4,"Stohl, Rudolf",Audi 90 quattro,AT,A,NA,NA,SS8,oil leak
+NA,12,"Fassina, Alessandro",Toyota Celica GT-4 (ST165),IT,N,NA,NA,SS14,fire
+NA,14,"Gottlicher, Kurt",Ford Sierra Cosworth 4x4,AT,N,NA,NA,SS15,accident
+NA,16,"Menem Jr., Carlos",Ford Sierra Cosworth 4x4,AR,N,NA,NA,SS7,head gasket
+NA,18,"Capdevila, Fernando",Ford Sierra Cosworth 4x4,ES,N,NA,NA,SS4,electronic
+NA,20,"Lemos, Paulo",Volkswagen Gol,BR,A,NA,NA,SS11,driveshaft

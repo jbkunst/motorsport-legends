@@ -1,0 +1,52 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,4,"Biasion, Massimo",Lancia Delta Integrale,IT,A8,6h 44m 01s,NA,NA,NA
+2,9,"Fiorio, Alessandro",Lancia Delta HF 4WD,IT,A8,+8m 46s,NA,NA,NA
+3,7,"Loubet, Yves",Lancia Delta HF 4WD,FR,A8,+9m 22s,NA,NA,NA
+4,2,"Mikkola, Hannu",Mazda 323 4WD,FI,A8,+10m 44s,NA,NA,NA
+5,3,"Blomqvist, Stig",Ford Sierra RS Cosworth,SE,A8,+11m 38s,NA,NA,NA
+6,1,"Alen, Markku",Lancia Delta Integrale,FI,A8,+12m 08s,NA,NA,NA
+7,5,"Weber, Erwin",Volkswagen Golf GTI 16V,DE,A7,+23m 44s,NA,NA,NA
+8,14,"Amaral, Inverno",Renault 11 Turbo,PT,A8,+27m 40s,NA,NA,NA
+9,18,"Bica, Carlos",Lancia Delta HF 4WD,PT,A8,+33m 54s,NA,NA,NA
+10,10,"Recalde, Jorge",Lancia Delta HF 4WD,AR,N4,+35m 55s,NA,NA,NA
+11,26,"Gaban, Pascal",Mazda 323 4WD,BE,N4,+51m 57s,NA,NA,NA
+12,31,"Ortigao, Jorge",Toyota Corolla GT,PT,A6,+53m 33s,NA,NA,NA
+13,54,"Mello Breyner, Tomaz",Peugeot 205 GTI,PT,N3,+57m 47s,NA,NA,NA
+14,44,"Ferreira da Cunha, Antonio",Audi Coupe,PT,A8,+57m 51s,NA,NA,NA
+15,37,"Fernandes, Ramiro",Lancia Delta HF 4WD,PT,N4,+1h 08m 15s,NA,NA,NA
+16,60,"Leite, Jorge",Renault 11 Turbo,PT,N4,+1h 21m 31s,NA,NA,NA
+17,32,"Stubbings, Simon",Mazda 323 4WD,GB,N4,+1h 25m 02s,5:00,NA,NA
+18,83,"Lopes, Adruzilo",Toyota Corolla GT,PT,A6,+1h 26m 54s,NA,NA,NA
+19,59,"Montagne, Dany",Citroen AX,FR,A5,+1h 27m 42s,NA,NA,NA
+20,43,"Honrath, Horst",Volkswagen Golf GTI 16V,DE,A7,+1h 29m 20s,NA,NA,NA
+21,104,"Goncalves, Vitor",Peugeot 205 GTI,PT,N3,+1h 32m 15s,NA,NA,NA
+22,64,"Viana Ferreira, Jose",Renault 11 Turbo,PT,N4,+1h 35m 43s,8:00,NA,NA
+23,66,"Neves, Filipe",Opel Manta,PT,A7,+1h 45m 07s,NA,NA,NA
+24,56,"Almeida Santos, Antonio",Toyota Corolla GT,PT,A6,+1h 46m 43s,NA,NA,NA
+25,107,"Silva, Fernando",Toyota Corolla GT,PT,N2,+1h 50m 35s,NA,NA,NA
+26,112,Carvalho de Sousa,Toyota Corolla GT,PT,N2,+1h 54m 53s,NA,NA,NA
+27,52,"Jacques, Denise",Citroen AX,FR,A5,+1h 55m 03s,5:00,NA,NA
+28,93,"Ahrens Teixeira, Jose",Renault 11 Turbo,PT,N4,+1h 56m 16s,NA,NA,NA
+29,111,"Marques, Antonio",Toyota Corolla GT,PT,N2,+2h 03m 04s,NA,NA,NA
+30,97,"Fonseca, Carlos",Renault 5 GT Turbo,PT,N4,+2h 10m 00s,1:00,NA,NA
+31,90,"Veloso Amaral, Paula",Renault 11 Turbo,PT,N4,+2h 13m 25s,NA,NA,NA
+32,61,"Antonio, Jose",Renault 11 Turbo,PT,N4,+2h 34m 41s,NA,NA,NA
+33,98,'Mabeco',Renault 5 GT Turbo,PT,N4,+2h 42m 35s,20:00,NA,NA
+34,84,"Tomaz, Manuel",Vauxhall Nova,PT,A5,+2h 55m 41s,1:00,NA,NA
+35,117,"Pourrit, Alain",Citroen AX,FR,N1,+4h 17m 30s,6:00,NA,NA
+NA,6,"Ericsson, Mikael",Lancia Delta Integrale,SE,A8,NA,NA,SS12,transmission
+NA,8,"Llewellin, David",Audi 200 quattro,GB,A8,NA,NA,SS24,accident
+NA,11,"Auriol, Didier",Ford Sierra RS Cosworth,FR,A8,NA,NA,SS16,rear axle
+NA,12,"Carlsson, Ingvar",Mazda 323 4WD,SE,A8,NA,NA,SS31,suspension
+NA,15,"Sainz, Carlos",Ford Sierra RS Cosworth,ES,A8,NA,NA,SS3,engine
+NA,16,"Lindholm, Sebastian",Audi Coupe,FI,A8,NA,NA,SS26,engine
+NA,17,"Santos, Joaquim",Ford Sierra RS Cosworth,PT,A8,NA,NA,SS17,gearbox
+NA,19,"Fischer, Georg",Audi 200 quattro,AT,A8,NA,NA,SS3,suspension
+NA,23,"del Zoppo, Giovanni",Lancia Delta HF 4WD,IT,N4,NA,NA,NA,suspension
+NA,24,"Ercolani, Massimo",Mazda 323 4WD,SM,N4,NA,NA,SS32,accident
+NA,28,"Coutinho, Antonio",Toyota Corolla GT,PT,A6,NA,NA,NA,engine
+NA,34,"Nilsson, Soren",Lancia Delta HF 4WD,SE,N4,NA,NA,NA,unknown
+NA,36,"Leite Faria, Jose Miguel",Ford Sierra RS Cosworth,PT,N4,NA,NA,NA,unknown
+NA,63,"de Sanctis, Fabrizio",Fiat Uno Turbo,IT,A8,NA,NA,NA,engine
+NA,NA,"Caneva, Vittorio",Lancia Delta HF 4WD,IT,N4,NA,NA,NA,accident
+NA,NA,"Trelles, Gustavo",Lancia Delta HF 4WD,UY,N4,NA,NA,NA,fire

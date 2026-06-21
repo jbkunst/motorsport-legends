@@ -1,0 +1,26 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,7,"Makinen, Tommi",Mitsubishi Lancer Evo III,FI,A8,5h 48m 42s,NA,NA,NA
+2,4,"Sainz, Carlos",Ford Escort RS Cosworth,ES,A8,+1m 35s,NA,NA,NA
+3,2,"Eriksson, Kenneth",Subaru Impreza 555,SE,A8,+4m 39s,NA,NA,NA
+4,8,"Burns, Richard",Mitsubishi Lancer Evo III,GB,A8,+8m 01s,NA,NA,NA
+5,5,"Thiry, Bruno",Ford Escort RS Cosworth,BE,A8,+8m 25s,NA,NA,NA
+6,21,"Pianezzola, Gilberto",Toyota Celica GT-Four (ST205),IT,A8,+14m 17s,NA,NA,NA
+7,3,"Liatti, Piero",Subaru Impreza 555,IT,A8,+15m 21s,NA,NA,NA
+8,11,"Madeira, Rui",Toyota Celica GT-Four (ST205),PT,A8,+16m 27s,NA,NA,NA
+9,10,"Bernardini, Patrick",Ford Escort RS Cosworth,FR,A8,+20m 38s,NA,NA,NA
+10,9,"Nittel, Uwe",Mitsubishi Lancer Evo III,DE,N4,+25m 44s,NA,NA,NA
+11,24,"Stohl, Manfred",Subaru Impreza 555,AT,A,+27m 24s,NA,NA,NA
+14,16,"Raies, Gabriel",Renault Clio Williams,AR,A7,+36m 46s,NA,NA,NA
+15,28,"Suriani, Walter",Renault Clio Williams,AR,A7,+37m 37s,NA,NA,NA
+16,14,"Triner, Emil",Skoda Felicia Kit-Car,CZ,A6,+39m 44s,NA,NA,NA
+17,17,"Sibera, Pavel",Skoda Felicia Kit-Car,CZ,A6,+41m 19s,NA,NA,NA
+19,18,"Weber, Erwin",Seat Ibiza GTi 16V,DE,A7,+43m 55s,NA,NA,NA
+20,33,"Torras, Miguel",Renault 18 GTX,AR,A7,+1h 05m 15s,NA,NA,NA
+NA,1,"McRae, Colin",Subaru Impreza 555,GB,A8,NA,NA,SS5,engine
+NA,12,"Recalde, Jorge",Mitsubishi Lancer Evo III,AR,N4,NA,NA,SS13,turbo
+NA,15,"Puras, Jesus",Seat Ibiza GTi 16V,ES,A7,NA,NA,SS11,differential
+NA,20,"Galanti, Marco",Toyota Celica GT-Four (ST205),PY,A8,NA,NA,SS21,steering
+NA,23,"Bescham, Jorge",Ford Escort RS Cosworth,AR,N4,NA,NA,SS6,fuel pump
+NA,29,"Sufan, Raul",Peugeot 405 MI16,AR,A7,NA,NA,SS6,transmission
+NA,30,"Rosenberger, Kristopher",Opel Astra,AT,A7,NA,NA,SS30,suspension
+NA,34,"Barcelo, Gonzalo",Renault Clio,AR,N3,NA,NA,SS21,driveshaft

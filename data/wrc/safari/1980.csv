@@ -1,0 +1,18 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Mehta, Shekhar",Datsun 160J,KE,G2,3h 27m,NA,NA,NA
+2,10,"Aaltonen, Rauno",Datsun 160J,FI,G2,+35m,NA,NA,NA
+3,15,"Preston Jr, Vic",Mercedes Benz 450 SLC 5.0,KE,G4,+1h 40m,NA,NA,NA
+4,14,"Kirkland, Mike",Datsun 160J,KE,G2,+2h 18m,NA,NA,NA
+5,2,"Nicolas, Jean-Pierre",Opel Ascona 400,FR,G4,+3h 14m,NA,NA,NA
+6,5,"Cowan, Andrew",Mercedes Benz 450 SLC 5.0,GB,G4,+3h 36m,NA,NA,NA
+7,9,"Iwashita, Yoshio",Datsun Silvia,JP,G2,+3h 48m,NA,NA,NA
+8,12,"Hellier, John",Datsun 160J,KE,G2,+3h 53m,NA,NA,NA
+9,6,"Kleint, Jochi",Opel Ascona 400,DE,G4,+3h 55m,NA,NA,NA
+10,3,"Waldegard, Bjorn",Mercedes Benz 450 SLC 5.0,SE,G4,+4h 06m,NA,NA,NA
+14,8,"Singh, Joginder",Mercedes Benz 450 SLC 5.0,KE,G4,NA,NA,NA,NA
+18,21,"Hirabayashi, Takeshi",Subaru Hatchback 4x4,JP,G1,+13h 24m,NA,NA,NA
+NA,4,"Kallstrom, Harry",Datsun 160J,SE,G2,NA,NA,TC57,engine
+NA,7,"Mikkola, Hannu",Mercedes Benz 450 SLC 5.0,FI,G4,NA,NA,TC46,injured co-driver
+NA,17,"Noor, Mohamed",Mitsubishi Lancer,KE,G2,NA,NA,TC60,engine
+NA,22,"Hall, Rod",Datsun 160J,US,G2,NA,NA,TC6,engine
+NA,24,"Ulyate, Robin",Fiat 131 Abarth,KE,G4,NA,NA,TC21,accident

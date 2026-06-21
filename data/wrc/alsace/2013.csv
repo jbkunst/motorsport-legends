@@ -1,0 +1,83 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,8,"Ogier, Sebastien",Volkswagen Polo R WRC,FR,A0,"2h 53m 07,6s",NA,NA,NA
+2,10,"Sordo Castillo, Daniel",Citroen DS3 WRC,ES,A0,"+12,2s",NA,NA,NA
+3,7,"Latvala, Jari-Matti",Volkswagen Polo R WRC,FI,A0,"+19,5s",NA,NA,NA
+4,11,"Neuville, Thierry",Ford Fiesta RS WRC,BE,A0,"+1m 14,1s",NA,NA,NA
+5,5,"Novikov, Evgeny",Ford Fiesta RS WRC,RU,A0,"+3m 10,9s",NA,NA,NA
+6,2,"Hirvonen, Mikko",Citroen DS3 WRC,FI,A0,"+3m 37,7s",NA,NA,NA
+7,9,"Mikkelsen, Andreas",Volkswagen Polo R WRC,NO,A0,"+4m 04,2s",NA,NA,NA
+8,4,"Ostberg, Mads",Ford Fiesta RS WRC,NO,A0,"+4m 35,2s",NA,NA,NA
+9,74,"Kubica, Robert",Citroen DS3,PL,A2,"+9m 31,4s",NA,NA,NA
+10,22,"Dumas, Romain",Ford Fiesta RS WRC,FR,A0,"+11m 55,8s",NA,NA,NA
+11,75,"Evans, Elfyn",Ford Fiesta,GB,A2,"+13m 35,3s",NA,NA,NA
+12,121,"Baud, Lionel",Ford Fiesta RS WRC,FR,A0,"+18m 28,9s",1:10,NA,NA
+13,52,"Gilbert, Quentin",Citroen DS3,FR,A5,"+19m 43,6s",NA,NA,NA
+14,51,"Chardonnet, Sebastien",Citroen DS3,FR,A5,"+20m 37,5s",NA,NA,NA
+15,60,"Cronin, Keith",Citroen DS3,IE,A5,"+22m 16,2s",NA,NA,NA
+16,58,"Riedemann, Christian",Citroen DS3,DE,A5,"+23m 41,7s",NA,NA,NA
+17,140,"Giordano, Quentin",Citroen DS3,FR,A5,"+24m 16,5s",NA,NA,NA
+18,123,"Lemonnier, Xavier",Mitsubishi Lancer Evo X,FR,A2,"+25m 11,8s",NA,NA,NA
+19,36,"al-Ketbi, Rashid",Ford Fiesta,AE,A2,"+28m 42,0s",0:50,NA,NA
+20,142,"Lefebvre, Stephane",Peugeot 208,FR,A6,"+28m 54,8s",0:50,NA,NA
+21,143,"Serieys, Jeremie",Renault Twingo,FR,A6,"+30m 39,9s",NA,NA,NA
+22,125,"Cracco, Philip",Ford Fiesta,BE,A2,"+33m 33,7s",NA,NA,NA
+23,137,"Colney, Thierry",Citroen DS3,FR,A5,"+34m 06,2s",NA,NA,NA
+24,144,"Romiguiere, Nicolas",Renault Twingo,FR,A6,"+34m 15,7s",NA,NA,NA
+25,128,"Vossen, Henk",Mitsubishi Lancer Evo X,NL,A3,"+38m 36,3s",NA,NA,NA
+26,79,"Barrable, Robert",Ford Fiesta,IE,A2,"+39m 38,4s",NA,NA,NA
+27,38,"Trivino Bujalil, Ricardo",Subaru Impreza,MX,A3,"+40m 31,0s",NA,NA,NA
+28,134,"Courtois, Olivier",Renault Clio,FR,A5,"+41m 13,6s",NA,NA,NA
+29,154,"Joris, Thomas",Renault Twingo,CH,A6,"+42m 00,6s",NA,NA,NA
+30,141,"Baillif, Denis",Peugeot 207,CH,A5,"+42m 05,6s",NA,NA,NA
+31,139,"Gomez, Philippe",Renault Clio,FR,A5,"+42m 11,5s",NA,NA,NA
+32,155,"Wendling, Yannick",Citroen C2,FR,A6,"+42m 44,4s",NA,NA,NA
+33,149,"Jeanniard, Cyril",Peugeot 208,FR,A6,"+43m 27,5s",0:20,NA,NA
+34,91,"Lombardo, Alejandro",Mitsubishi Lancer Evo X,VE,A3,"+45m 35,0s",1:10,NA,NA
+35,159,"Hauswald, Frederic",Citroen DS3,FR,A9,"+48m 48,9s",0:30,NA,NA
+36,71,"Rasheed, Ala'a",Ford Fiesta,JO,A2,"+49m 54,0s",NA,NA,NA
+37,43,"Hudec, Martin",Mitsubishi Lancer Evo IX,CZ,A3,"+50m 31,2s",NA,NA,NA
+38,152,"le Behot, Philippe",Citroen C2,FR,A6,"+50m 50,7s",NA,NA,NA
+39,160,"Schmitt, Jerome",Suzuki Swift,FR,A9,"+51m 14,8s",NA,NA,NA
+40,166,"Guibert, Jean-Christophe",Suzuki Swift,FR,A9,"+52m 45,2s",NA,NA,NA
+41,136,"Casado, Philippe",Renault Clio,FR,A5,"+54m 50,0s",NA,NA,NA
+42,129,"Chevalier, Rene",Subaru Impreza,FR,A3,"+58m 35,5s",NA,NA,NA
+43,163,"Braunstein, Nicolas",Citroen DS3,FR,A9,"+1h 00m 26,9s",NA,NA,NA
+44,157,"Cornus, Patrick",Peugeot 208,FR,A6,"+1h 08m 05,1s",NA,NA,NA
+45,165,"Panzer, Sebastien",Citroen DS3,FR,A9,"+1h 08m 29,8s",NA,NA,NA
+46,127,"Morim, Jose",Mitsubishi Lancer Evo IX,PT,A3,"+1h 13m 05,4s",NA,NA,NA
+47,158,"Dalmasso, Charlotte",Peugeot 208,FR,A6,"+1h 13m 33,8s",0:30,NA,NA
+48,138,"Ostermann, Pierre",Renault Clio,FR,A5,"+1h 16m 22,4s",NA,NA,NA
+49,161,"Hemmerle, Philippe",Suzuki Swift,FR,A9,"+1h 22m 53,0s",3:10,NA,NA
+NA,1,"Loeb, Sebastien",Citroen DS3 WRC,FR,A0,NA,NA,SS15,off road
+NA,21,"Prokop, Martin",Ford Fiesta RS WRC,CZ,A0,NA,NA,SS17,mechanical
+NA,46,"Vallario, Marco",Mitsubishi Lancer Evo X,IT,A3,NA,NA,SS15,mechanical
+NA,49,"Kikireshko, Oleksii",Mini John Cooper Works S2000,UA,A2,NA,NA,SS17,mechanical
+NA,50,"Gorban, Valeriy",Mini John Cooper Works S2000,UA,A2,NA,NA,end of Day 1,unknown
+NA,62,"Consani, Stephane George A.",Citroen DS3,FR,A5,NA,NA,SS2,illegal recce
+NA,65,"Garcia-Ojeda, Enrique",Citroen DS3,ES,A5,NA,NA,TC7E,mechanical
+NA,100,"Parn, Sander",Ford Fiesta,EE,A6,NA,NA,end of Day 2,Junior WRC
+NA,102,"Tidemand, Pontus",Ford Fiesta,SE,A6,NA,NA,end of Day 2,Junior WRC
+NA,103,"Koci, Martin",Ford Fiesta,SK,A6,NA,NA,end of Day 2,Junior WRC
+NA,105,"Suarez Miranda, Jose Antonio",Ford Fiesta,ES,A6,NA,NA,end of Day 2,Junior WRC
+NA,106,"Bostanci, Murat",Ford Fiesta,TU,A6,NA,NA,end of Day 2,Junior WRC
+NA,107,"Burri, Michael",Ford Fiesta,CH,A6,NA,NA,end of Day 2,Junior WRC
+NA,108,"Nieminen, Niko-Pekka",Ford Fiesta,FI,A6,NA,NA,end of Day 2,Junior WRC
+NA,109,"Aasen, Marius",Ford Fiesta,NO,A6,NA,NA,end of Day 2,Junior WRC
+NA,110,"Lemes Macias, Yeray",Ford Fiesta,ES,A6,NA,NA,end of Day 2,Junior WRC
+NA,112,"Arellano, Hugo",Ford Fiesta,LU,A6,NA,NA,end of Day 2,Junior WRC
+NA,122,"Kostka, Tomas",Citroen DS3 WRC,CZ,A0,NA,NA,SS2,mechanical
+NA,124,"Biryukov, Dmitry",Skoda Fabia Super 2000,RU,A2,NA,NA,TC20A,mechanical
+NA,130,"Consani, Robert",Renault Megane,FR,A3,NA,NA,TC8,mechanical
+NA,131,"de Passorio, Marc",Renault Megane,FR,A3,NA,NA,end of Day 1,unknown
+NA,132,"Droz, Michael",Renault Megane,CH,A3,NA,NA,end of Day 1,unknown
+NA,135,"di Nisi, Marc",Renault Clio,FR,A5,NA,NA,SS15,mechanical
+NA,145,"Mackerer, Pascal",Renault Twingo,FR,A6,NA,NA,SS17,mechanical
+NA,146,"Jones, Tim",Ford Fiesta,GB,A6,NA,NA,SS15,mechanical
+NA,147,"Wagemans, Joachim",Ford Fiesta,BE,A6,NA,NA,SS10,off road
+NA,148,"de Ridder, Guillaume",Ford Fiesta,BE,A6,NA,NA,SS16,mechanical
+NA,150,"Oed, John",Renault Twingo,FR,A6,NA,NA,end of Day 1,unknown
+NA,151,"Bonnard, Laurent",Citroen C2,FR,A6,NA,NA,TC14C,unknown
+NA,153,"Fritsch, Jonathan",Skoda Fabia,FR,A6,NA,NA,TC14C,unknown
+NA,156,"Guerin, Jerome",Peugeot 206,FR,A6,NA,NA,end of Day 3,route infringement
+NA,162,"Zanzi, Frederic",Suzuki Swift,FR,A9,NA,NA,TC8,mechanical
+NA,164,"Folb, Thierry",Renault Twingo,FR,A9,NA,NA,TC14C,unknown

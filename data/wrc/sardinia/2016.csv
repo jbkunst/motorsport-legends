@@ -1,0 +1,46 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,20,"Neuville, Thierry",Hyundai New Generation i20 WRC,BE,RC1,"3h 35m 25,0s",NA,NA,NA
+2,2,"Latvala, Jari-Matti",Volkswagen Polo R WRC,FI,RC1,"+24,8s",NA,NA,NA
+3,1,"Ogier, Sebastien",Volkswagen Polo R WRC,FR,RC1,"+1m 37,8s",NA,NA,NA
+4,4,"Sordo Castillo, Daniel",Hyundai New Generation i20 WRC,ES,RC1,"+2m 54,0s",NA,NA,NA
+5,12,"Tanak, Ott",Ford Fiesta RS WRC,EE,RC1,"+5m 26,4s",NA,NA,NA
+6,6,"Camilli, Eric",Ford Fiesta RS WRC,FR,RC1,"+5m 59,8s",NA,NA,NA
+7,16,"Solberg, Henning",Ford Fiesta RS WRC,NO,RC1,"+6m 22,2s",NA,NA,NA
+8,34,"Suninen, Teemu",Skoda Fabia,FI,RC2,"+8m 57,4s",NA,NA,NA
+9,21,"Prokop, Martin",Ford Fiesta RS WRC,CZ,RC1,"+9m 02,9s",NA,NA,NA
+10,43,"Kopecky, Jan",Skoda Fabia,CZ,RC2,"+9m 47,0s",NA,NA,NA
+11,47,"Kruuda, Karl",Ford Fiesta,EE,RC2,"+13m 28,5s",NA,NA,NA
+12,32,"Kremer, Armin",Skoda Fabia,DE,RC2,"+15m 35,4s",NA,NA,NA
+13,9,"Mikkelsen, Andreas",Volkswagen Polo R WRC,NO,RC1,"+15m 53,4s",0:10,NA,NA
+14,45,"Maurin, Julien",Skoda Fabia,FR,RC2,"+16m 37,2s",NA,NA,NA
+15,10,"Abbring, Kevin",Hyundai i20 WRC,NL,RC1,"+23m 40,6s",NA,NA,NA
+16,84,"Dettori, Giuseppe",Ford Fiesta,IT,RC2,"+28m 46,3s",0:10,NA,NA
+17,46,"Loubet, Pierre-Louis",Citroen DS3,FR,RC2,"+29m 07,7s",4:00,NA,NA
+18,41,"Aasen, Marius",Ford Fiesta,NO,RC2,"+29m 19,2s",1:00,NA,NA
+19,48,"Turan, Frigyes",Ford Fiesta,HU,RC2,"+32m 15,8s",NA,NA,NA
+20,61,"Andolfi, Fabio",Peugeot 208,IT,RC4,"+33m 06,5s",NA,NA,NA
+21,35,"Lappi, Esapekka",Skoda Fabia,FI,RC2,"+34m 57,0s",NA,NA,NA
+22,62,"de Tommasso, Damiano",Peugeot 208,IT,RC4,"+38m 38,1s",0:30,NA,NA
+23,40,"Gilbert, Quentin",Citroen DS3,FR,RC2,"+54m 45,6s",4:10,NA,NA
+24,83,"Tononi, Roberto",Ford Fiesta RS WRC,IT,RC1,"+1h 01m 04,3s",0:30,NA,NA
+25,64,"Giusti, Igor",Peugeot 208,FR,RC4,"+1h 01m 14,8s",1:20,NA,NA
+26,92,"Fusi, Matteo",Fiat 500 Abarth,IT,RC3,"+1h 04m 02,1s",NA,NA,NA
+27,86,"Bitti, Giovanni",Peugeot 207 S2000,IT,RC2,"+1h 15m 14,9s",0:10,NA,NA
+28,18,"Gorban, Valeriy",Mini John Cooper Works,UA,RC1,"+1h 17m 42,9s",4:00,NA,NA
+29,49,"Bestard Poletti, Augusto Miguel",Ford Fiesta,PY,RC2,"+1h 39m 13,8s",1:10,NA,NA
+30,88,"Marrone, Francesco",Mitsubishi Lancer Evo IX,IT,RC2,"+1h 40m 47,6s",0:20,NA,NA
+31,63,"Brazzoli, Enrico",Peugeot 208,IT,RC4,"+1h 51m 20,8s",NA,NA,NA
+32,91,"Leoni, Alessandro",Citroen C2 R2,IT,RC4,"+2h 28m 41,6s",3:10,NA,NA
+NA,3,"Paddon, Hayden",Hyundai New Generation i20 WRC,NZ,RC1,NA,NA,TC9E,unknown
+NA,5,"Ostberg, Mads",Ford Fiesta RS WRC,NO,RC1,NA,NA,SS15,mechanical
+NA,30,"al-Rajhi, Yazeed",Ford Fiesta RS WRC,SA,RC1,NA,NA,TC19C,mechanical
+NA,36,"Giordano, Quentin",Peugeot 208,FR,RC2,NA,NA,SS5,mechanical
+NA,37,"Bertelli, Lorenzo",Ford Fiesta RS WRC,IT,RC1,NA,NA,SS12,mechanical
+NA,39,"Suarez Miranda, Jose Antonio",Peugeot 208,ES,RC2,NA,NA,TC9F,mechanical
+NA,42,"Fuchs Sierlecki, Nicolas",Skoda Fabia,PE,RC2,NA,NA,SS16,mechanical
+NA,44,"Scandola, Umberto",Skoda Fabia,IT,RC2,NA,NA,SS12,mechanical
+NA,81,"Della Casa, Federico",Ford Fiesta RS WRC,CH,RC1,NA,NA,SS73,mechanical
+NA,82,"Maarend, Mait",Mini John Cooper Works,EE,RC1,NA,NA,SS5,mechanical
+NA,85,"Hoelbling, Luca",Skoda Fabia,IT,RC2,NA,NA,TC15D,unknown
+NA,87,"Covi, Carlo",Peugeot 207 S2000,IT,RC2,NA,NA,TC9E,unknown
+NA,90,"Catania, Davide",Peugeot 208,IT,RC4,NA,NA,TC9E,unknown

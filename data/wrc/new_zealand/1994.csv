@@ -1,0 +1,79 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,2,"McRae, Colin",Subaru Impreza 555,GB,A8,5h 39m 56s,NA,NA,NA
+2,1,"Kankkunen, Juha",Toyota Celica Turbo 4WD (ST185),FI,A,+2m 14s,NA,NA,NA
+3,4,"Schwarz, Armin",Mitsubishi Lancer Evo II,DE,A,+5m 31s,NA,NA,NA
+4,8,"Eriksson, Kenneth",Mitsubishi Lancer Evo II,SE,A,+9m 42s,NA,NA,NA
+5,5,"Auriol, Didier",Toyota Celica Turbo 4WD (ST185),FR,A,+11m 56s,NA,NA,NA
+6,12,"McAndrew, Joe",Subaru Legacy RS,NZ,A,+19m 44s,NA,NA,NA
+7,9,"Fujimoto, Yoshio",Toyota Celica Turbo 4WD (ST185),JP,A,+25m 15s,NA,NA,NA
+8,16,"Stokes, Brian",Ford Escort RS Cosworth,NZ,A,+26m 09s,NA,NA,NA
+9,15,"Ordynski, Ed",Mitsubishi Lancer Evo II,AU,N,+28m 54s,NA,NA,NA
+10,25,"Inoue, Kiyoshi",Mitsubishi Lancer Evo II,JP,N,+31m 59s,NA,NA,NA
+11,28,"Jones, Reece",Mitsubishi Lancer Evo,NZ,N,+32m 26s,NA,NA,NA
+12,36,"Teshigawara, Hikaru",Mitsubishi Lancer Evo,JP,N,+32m 50s,NA,NA,NA
+13,29,"Maeshima, Mitsuo",Subaru Impreza 555,JP,N,+33m 44s,NA,NA,NA
+14,18,"Kamioka, Masao",Subaru Impreza 555,JP,N,+35m 33s,NA,NA,NA
+15,22,"Lieu, Michael",Mitsubishi Lancer Evo,HK,N,+36m 35s,NA,NA,NA
+16,32,"Kataoka, Yoshihiro",Mitsubishi Lancer Evo,JP,N,+37m 57s,NA,NA,NA
+17,38,"Warren, Stuart",Toyota Celica GT-4 (ST165),NZ,A,+40m 15s,NA,NA,NA
+18,43,"Grant, Andrew",Mitsubishi Lancer Evo,NZ,N,+40m 53s,NA,NA,NA
+19,24,"Sexton, Barry",Subaru Legacy RS,NZ,A,+46m 38s,NA,NA,NA
+20,21,"Rosenberger, Kristopher",Ford Escort RS Cosworth,AT,N,+51m 22s,NA,NA,NA
+21,34,"Argyle, Geoff",Nissan Pulsar GTI-R,NZ,A,+51m 47s,NA,NA,NA
+22,49,"Gardner, Jason",Mitsubishi Lancer Evo,AU,N,+52m 25s,NA,NA,NA
+23,39,"Kamyama, Akira",Mitsubishi Lancer Evo,JP,N,+54m 24s,NA,NA,NA
+24,37,"Gottlicher, Kurt",Ford Sierra Cosworth,AT,N,+55m 09s,NA,NA,NA
+25,57,"Sato, Masahiro",Mitsubishi Lancer Evo,JP,N,+57m 47s,NA,NA,NA
+26,44,"Endo, Toshiaki",Mitsubishi Lancer Evo,JP,N,+58m 35s,NA,NA,NA
+27,51,"Black, David",Toyota Corolla,NZ,A,+1h 02m 06s,NA,NA,NA
+28,60,"Mackenzie, Ross",Daihatsu Charade GTI,AU,N,+1h 03m 22s,NA,NA,NA
+29,53,"Strong, Dave",Daihatsu Charade GTI,NZ,N,+1h 04m 16s,NA,NA,NA
+30,58,"Walker, Graham",Mazda 323 GT-X,GB,A,+1h 07m 54s,NA,NA,NA
+31,42,"Bell, Wayne",Hyundai Lantra,AU,N,+1h 15m 29s,NA,NA,NA
+32,59,"Hagiwara, Yasunori",Mitsubishi Lancer Evo,JP,N,+1h 17m 45s,NA,NA,NA
+33,52,"Takahashi, Nobuaki",Mitsubishi Lancer Evo,JP,N,+1h 19m 30s,NA,NA,NA
+34,66,"Nagoshi, Mayumi",Subaru Legacy RS,JP,N,+1h 21m 22s,NA,NA,NA
+35,55,"Stewart, Malcolm",Peugeot 106,NZ,A,+1h 23m 55s,NA,NA,NA
+36,70,"Slee, Vanessa",Subaru Vivio,NZ,A,+1h 24m 35s,NA,NA,NA
+37,47,"Nahr, Walther",Mitsubishi Galant VR-4,CH,N,+1h 26m 22s,NA,NA,NA
+38,68,"Simmonds, Michael",Toyota Corolla,NZ,A,+1h 30m 58s,NA,NA,NA
+39,76,"Langford-Smith, David",Mazda 323 4WD,AU,A,+1h 39m 45s,NA,NA,NA
+40,79,"Hooper, Alan",Peugeot 106,NZ,A,+1h 43m 27s,NA,NA,NA
+41,73,"Moriya, Isamu",Honda Civic,JP,N,+1h 48m 53s,NA,NA,NA
+42,75,"Miyake, Ritsuko",Mitsubishi Mirage,JP,N,+1h 50m 17s,NA,NA,NA
+43,81,"Rowe, David",Daihatsu Charade,NZ,N,+2h 04m 34s,NA,NA,NA
+44,71,"Yamazaki, Fumiaki",Toyota Corolla,JP,A,+2h 10m 00s,NA,NA,NA
+45,77,"Kondo, Saeko",Toyota Corolla,JP,A,+2h 12m 53s,NA,NA,NA
+46,69,"Koizumi, Tatsuo",Nissan March Super Turbo,JP,N,+2h 38m 52s,NA,NA,NA
+NA,3,"Biasion, Massimo",Ford Escort RS Cosworth,IT,A,NA,NA,SS13,engine
+NA,6,"Sainz, Carlos",Subaru Impreza 555,ES,A,NA,NA,SS4,engine
+NA,7,"Vatanen, Ari",Ford Escort RS Cosworth,FI,A,NA,NA,SS25,accident
+NA,10,"Bourne, Peter",Subaru Impreza 555,NZ,A,NA,NA,SS5,accident
+NA,11,"Burns, Richard",Subaru Impreza 555,GB,A,NA,NA,SS14,accident
+NA,17,"Recalde, Jorge",Mitsubishi Lancer Evo I,AR,N,NA,NA,SS7,accident
+NA,19,"Puras, Jesus",Ford Escort RS Cosworth,ES,N,NA,NA,SS5,accident
+NA,20,"Joblin, Chris",Mitsubishi Lancer Evo,NZ,A,NA,NA,NA,accident
+NA,23,"Stohl, Manfred",Audi Coupe S2,AT,A,NA,NA,NA,cam belt
+NA,26,"Graham, Greg",Subaru Impreza 555,NZ,N,NA,NA,SS30,gearbox
+NA,27,"Tajima, Nobuhiro",Suzuki Swift GTI,JP,A,NA,NA,NA,electrical
+NA,31,"Watkin, Brian",Subaru Impreza 555,NZ,N,NA,NA,NA,engine
+NA,33,"Meekings, Ross",Toyota Celica Turbo 4WD (ST185),NZ,A,NA,NA,NA,unknown
+NA,35,"Green, Brian",Mazda 323 GT-R,NZ,A,NA,NA,NA,suspension
+NA,40,"Ayling, David",Ford Escort RS Cosworth,NZ,A,NA,NA,NA,mechanical
+NA,41,"Matsuno, Takemi",Nissan Pulsar GTI-R,JP,A,NA,NA,NA,accident
+NA,45,"Todd, Greg",Nissan Pulsar GTI-R,NZ,A,NA,NA,NA,turbo
+NA,46,"Kageyama, Haruhiko",Mitsubishi Lancer Evo,JP,N,NA,NA,NA,unknown
+NA,48,"Stewart, Keith",Subaru Legacy RS,NZ,N,NA,NA,NA,unknown
+NA,50,"Taguchi, Katsuhiko",Mitsubishi Lancer Evo,JP,N,NA,NA,NA,engine
+NA,54,"Saito, Mikio",Mitsubishi Lancer Evo,JP,N,NA,NA,NA,accident
+NA,56,"Bond, Dean",Daihatsu Charade,NZ,A,NA,NA,NA,accident
+NA,61,"Marshall, Craig",Peugeot 106,NZ,A,NA,NA,NA,accident
+NA,62,"Nakamura, Masayuki",Nissan Pulsar GTI-R,JP,N,NA,NA,NA,unknown
+NA,63,"Weir, Brian",Mazda 323,NZ,N,NA,NA,NA,unknown
+NA,64,"Adachi, Kiyoshi",Mitsubishi Lancer Evo,JP,N,NA,NA,NA,unknown
+NA,65,"Stewart, James",Mazda 323 4WD,NZ,A,NA,NA,NA,accident
+NA,67,"Masters, Darren",Mazda 323,AU,N,NA,NA,NA,engine
+NA,72,"Flashman, Ken",Mazda 323 4WD,NZ,A,NA,NA,NA,accident
+NA,74,"Dunlop, Dexter",Mitsubishi Galant VR-4,NZ,N,NA,NA,NA,driveshaft
+NA,78,"Sollitt, Bruce",Toyota Starlet,NZ,A,NA,NA,NA,unknown
+NA,80,"Morgan, Rowan",Subaru 4WD Turbo,NZ,N,NA,NA,NA,turbo

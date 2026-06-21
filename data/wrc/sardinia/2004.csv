@@ -1,0 +1,68 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Solberg, Petter",Subaru Impreza WRC2004,NO,A8,"4h 43m 47,9s",NA,NA,NA
+2,3,"Loeb, Sebastien",Citroen Xsara WRC,FR,A8,"+2m 07,9s",NA,NA,NA
+3,4,"Sainz, Carlos",Citroen Xsara WRC,ES,A8,"+3m 20,9s",NA,NA,NA
+4,19,"Navarra, Andrea",Subaru Impreza,IT,A8,"+10m 16,1s",0:10,NA,NA
+5,8,"Duval, Francois",Ford Focus RS WRC 04,BE,A8,"+10m 48,0s",NA,NA,NA
+6,70,"Galli, Gianluigi",Mitsubishi Lancer Evo VIII,IT,N4,"+25m 11,6s",NA,NA,NA
+7,5,"Gronholm, Marcus",Peugeot 307WRC,FI,A8,"+26m 39,2s",2:10,NA,NA
+8,16,"Warmbold, Antony",Ford Focus RS WRC 04,DE,A8,"+28m 03,2s",0:20,NA,NA
+9,45,"Andersson, Per-Gunnar",Suzuki Ignis S1600 5d,SE,A6,"+29m 03,6s",NA,NA,NA
+10,75,"Andreucci, Paolo",Fiat Punto S1600,IT,A6,"+31m 01,9s",NA,NA,NA
+11,33,"Wilks, Guy",Suzuki Ignis S1600 5d,GB,A6,"+31m 17,8s",NA,NA,NA
+12,31,"Baldacci, Mirco",Suzuki Ignis S1600 5d,SM,A6,"+31m 53,8s",NA,NA,NA
+13,35,"Katajamaki, Kosti",Suzuki Ignis S1600 5d,FI,A6,"+32m 43,2s",1:00,NA,NA
+14,51,"Cols, Larry",Renault Clio S1600,BE,A6,"+33m 24,3s",NA,NA,NA
+15,39,"Bernardi, Nicolas",Renault Clio S1600,FR,A6,"+34m 59,8s",NA,NA,NA
+16,36,"Meeke, Kris",Opel Corsa S1600,GB,A6,"+42m 34,4s",0:10,NA,NA
+17,78,"Teiskonen, Aki",Fiat Punto S1600,FI,A6,"+48m 14,4s",NA,NA,NA
+18,34,"Broccoli, Alessandro",Fiat Punto S1600,SM,A6,"+48m 16,0s",NA,NA,NA
+19,74,"Ogliari, Giacomo",Subaru Impreza,IT,N4,"+57m 24,4s",NA,NA,NA
+20,93,"Butor, Robert",Citroen Saxo S1600,HU,A6,"+58m 38,1s",1:10,NA,NA
+21,83,"Klemets, Toni",Subaru Impreza WRX,FI,N4,"+1h 00m 05,6s",0:50,NA,NA
+22,85,"Marrone, Francesco",Mitsubishi Lancer Evo VI,IT,N4,"+1h 00m 07,9s",0:40,NA,NA
+23,41,"Barratt, Natalie",Renault Clio S1600,GB,A6,"+1h 03m 15,5s",0:30,NA,NA
+24,87,"Zipponi, Ivano",Subaru Impreza,IT,N4,"+1h 12m 41,0s",NA,NA,NA
+25,44,"Scorcioni, Alan",Fiat Punto S1600,IT,A6,"+1h 14m 55,5s",0:30,NA,NA
+26,86,"Catania, Davide",Mitsubishi Lancer Evo VI,IT,N4,"+1h 15m 28,1s",0:10,NA,NA
+27,92,"Pisciottu, Ivan",Renault Clio S1600,IT,A6,"+1h 22m 42,0s",NA,NA,NA
+28,94,"Bernardelli, Marco",Fiat Punto S1600,IT,A6,"+1h 43m 55,1s",1:50,NA,NA
+29,101,"Donadio, Raffaele",MG Rover 105 ZR,IT,N1,"+2h 49m 41,1s",0:50,NA,NA
+NA,2,"Hirvonen, Mikko",Subaru Impreza WRC2004,FI,A8,NA,NA,TC3A,mechanical
+NA,6,"Rovanpera, Harri",Peugeot 307WRC,FI,A8,NA,NA,SS9,electronics
+NA,7,"Martin, Markko",Ford Focus RS WRC 04,EE,A8,NA,NA,TC16B,mechanical
+NA,11,"Schwarz, Armin",Skoda Fabia WRC,DE,A8,NA,NA,SS9,mechanical
+NA,12,"Gardemeister, Toni",Skoda Fabia WRC,FI,A8,NA,NA,SS1,off road
+NA,14,"Perez Companc, Luis",Peugeot 206 WRC,AR,A8,NA,NA,SS5,mechanical
+NA,15,"Pykalisto, Juuso",Citroen Xsara WRC,FI,A8,NA,NA,SS2,off road
+NA,18,"Solberg, Henning",Peugeot 206 WRC,NO,A8,NA,NA,TC13A,mechanical
+NA,21,"Vouilloz, Nicolas",Peugeot 206 WRC,FR,A8,NA,NA,SS7,off road
+NA,23,"Benik, Balazs",Ford Focus RS WRC 02,HU,A8,NA,NA,SS8,mechanical
+NA,25,"Zanchi, Pierlorenzo",Toyota Corolla WRC,IT,A8,NA,NA,SS1,mechanical
+NA,32,"Aava, Urmo",Suzuki Ignis S1600 5d,EE,A6,NA,NA,SS15,off road
+NA,37,"Cecchettini, Luca",Renault Clio S1600,IT,A6,NA,NA,TC6E,mechanical
+NA,40,"Chicherit, Guerlain",Citroen Saxo S1600,FR,A6,NA,NA,SS6,mechanical
+NA,42,"Biasion, Mathieu",Renault Clio S1600,FR,A6,NA,NA,TC6C,mechanical
+NA,43,"Latvala, Jari-Matti",Suzuki Ignis S1600,FI,A6,NA,NA,SS2,mechanical
+NA,46,"Pons, Xavier",Fiat Punto S1600,ES,A6,NA,NA,TC16A,mechanical
+NA,47,"Tabaton, Luca",Fiat Punto S1600,IT,A6,NA,NA,SS2,off road
+NA,48,"Rautenbach, Conrad",Suzuki Ignis S1600,ZW,A6,NA,NA,SS8,mechanical
+NA,49,"Betti, Luca",Fiat Punto S1600,IT,A6,NA,NA,SS4,off road
+NA,50,"Marshall, Oliver",Renault Clio S1600,GB,A6,NA,NA,SS16,off road
+NA,72,"de Angelis, Roberto",Mitsubishi Lancer Evo VII,IT,N4,NA,NA,SS5,off road
+NA,73,"Liceri, Paolo",Mitsubishi Lancer Evo VII,IT,N4,NA,NA,TC6E,mechanical
+NA,76,"Liatti, Piero",Peugeot 206 S1600,IT,A6,NA,NA,SS1,off road
+NA,79,"Beres, Josef",Subaru Impreza,SK,N4,NA,NA,SS9,off road
+NA,80,"Marrini, Stefano",Mitsubishi Lancer Evo VII,IT,N4,NA,NA,SS2,off road
+NA,81,"Zanchi, Pierfrancesco",Mitsubishi Lancer Evo VII,IT,N4,NA,NA,TC6A,mechanical
+NA,82,"Soddu, Luca",Mitsubishi Lancer Evo VI,IT,N4,NA,NA,SS9,mechanical
+NA,84,"Ricci, Luigi",Subaru Impreza,IT,N4,NA,NA,SS1,off road
+NA,88,"Morghenti, Paolo",Mitsubishi Lancer Evo VII,IT,N4,NA,NA,SS19,mechanical
+NA,89,"Mura, Costantino",Seat Ibiza TDI,IT,N4,NA,NA,TC9A,mechanical
+NA,90,"Fidiani, Moreno",Mitsubishi Lancer Evo V,IT,N4,NA,NA,SS2,mechanical
+NA,91,"Nardi, Fabio",Mitsubishi Lancer Evo V,IT,N4,NA,NA,SS3,mechanical
+NA,96,"Caputo, Maurizio",Opel Astra,IT,N3,NA,NA,SS9,off road
+NA,97,"Dettori, Giuseppe",Renault Clio,IT,N3,NA,NA,SS1,mechanical
+NA,98,"Bacchella, Paolo",Renault Clio,IT,N3,NA,NA,SS2,mechanical
+NA,99,"Fresi, Antonio Pietro",Opel Astra,IT,N3,NA,NA,SS13,off road
+NA,100,"Soletta, Umberto",Seat Ibiza GTi 16V,IT,N3,NA,NA,SS13,off road

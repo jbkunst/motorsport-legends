@@ -1,0 +1,99 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Makinen, Tommi",Mitsubishi Lancer Evo IV,FI,A8,4h 53m 01s,NA,NA,NA
+2,7,"Loix, Freddy",Toyota Celica GT-Four (ST205),BE,A8,+4m 05s,NA,NA,NA
+3,6,"Schwarz, Armin",Ford Escort WRC,DE,A8,+6m 33s,NA,NA,NA
+4,26,"de Mevius, Gregoire",Ford Escort WRC,BE,A8,+12m 28s,NA,NA,NA
+5,17,"Richelmi, Jean-Pierre",Ford Escort RS Cosworth,MC,A8,+17m 16s,NA,NA,NA
+6,31,"Kamioka, Masao",Subaru Impreza 555,JP,A8,+17m 39s,NA,NA,NA
+7,24,"Trelles, Gustavo",Mitsubishi Lancer Evo III,UY,N4,+17m 53s,NA,NA,NA
+8,25,"Stohl, Manfred",Mitsubishi Lancer Evo III,AT,N4,+18m 03s,NA,NA,NA
+9,12,"McRae, Alister",Volkswagen Golf GTI 16V,GB,A7,+19m 53s,NA,NA,NA
+10,16,"Lopes, Adruzilo",Peugeot 306 Maxi,PT,A7,+20m 41s,NA,NA,NA
+11,18,"Weber, Erwin",Seat Ibiza GTi 16V,DE,A7,+25m 00s,NA,NA,NA
+12,23,"Sufan, Raul",Toyota Celica GT-Four (ST205),AR,A8,+25m 11s,NA,NA,NA
+13,29,"Climent, Luis",Mitsubishi Lancer Evo III,ES,N4,+25m 28s,NA,NA,NA
+14,21,"Sibera, Pavel",Skoda Felicia Kit-Car,CZ,A6,+28m 36s,NA,NA,NA
+15,8,"Madeira, Rui",Subaru Impreza 555,PT,A8,+32m 58s,NA,NA,NA
+16,27,"Gottlicher, Kurt",Mitsubishi Lancer Evo III,AT,N4,+37m 06s,NA,NA,NA
+17,35,"Dor, Frederic",Subaru Impreza 555,FR,A8,+42m 59s,NA,NA,NA
+18,30,"Franco, Horacio",Ford Escort RS Cosworth,PT,N4,+1h 03m 31s,NA,NA,NA
+19,36,"Marques, Carlos",Subaru Impreza,PT,N4,+1h 08m 39s,NA,NA,NA
+20,41,"Coupe, Stuart",Ford Escort RS Cosworth,GB,N4,+1h 12m 45s,NA,NA,NA
+21,76,"Goncalves Pereira, Jose",Toyota Celica Turbo 4WD (ST185),PT,N4,+1h 16m 16s,NA,NA,NA
+22,34,"Magalhaes, Augusto",Ford Escort RS Cosworth,PT,N4,+1h 16m 54s,NA,NA,NA
+23,61,"Pascoal, Vitor",Seat Ibiza GTi 16V,PT,A7,+1h 23m 24s,NA,NA,NA
+24,74,"Tristao, Albino",Ford Escort RS Cosworth,PT,N4,+1h 27m 01s,NA,NA,NA
+25,86,"Fabre, Jean-Luis",Peugeot 106,FR,A6,+1h 38m 03s,NA,NA,NA
+26,79,"Mayr, Siegfried",Opel Astra,DE,N3,+1h 39m 08s,NA,NA,NA
+27,42,"Vacheron, Jean-Thierry",Mazda 323,CH,N4,+1h 39m 31s,NA,NA,NA
+28,88,"Araujo, Jose",Nissan Micra,PT,A5,+1h 40m 12s,NA,NA,NA
+29,72,"Miranda, Jose",Renault Clio Williams,PT,A7,+1h 42m 21s,NA,NA,NA
+30,99,"Silva, Armando",Peugeot 106,PT,N1,+2h 03m 28s,NA,NA,NA
+31,95,"Viegas, Humberto",Peugeot 106,PT,N2,+2h 21m 10s,NA,NA,NA
+32,91,"Carlos, Antonio",Nissan Micra,PT,A5,+2h 27m 21s,NA,NA,NA
+33,100,"Pinto dos Santos, Antonio",Renault 4 GTL,PT,N1,+2h 59m 25s,NA,NA,NA
+34,92,"Pinto, Luis",Seat Marbella GL,PT,A5,+3h 07m 41s,NA,NA,NA
+NA,2,"Burns, Richard",Mitsubishi Carisma GT,GB,A8,NA,NA,SS16,transmission
+NA,3,"McRae, Colin",Subaru Impreza WRC97,GB,A8,NA,NA,SS6,electrical
+NA,4,"Eriksson, Kenneth",Subaru Impreza WRC97,SE,A8,NA,NA,SS22,electrical
+NA,5,"Sainz, Carlos",Ford Escort WRC,ES,A8,NA,NA,SS5,transmission
+NA,9,"Peres, Fernando",Ford Escort WRC,PT,A8,NA,NA,SS10,engine
+NA,10,"Gronholm, Marcus",Toyota Celica GT-Four (ST205),FI,A8,NA,NA,SS2,accident
+NA,11,"Sakurai, Yukihiko",Subaru Impreza 555,JP,A8,NA,NA,SS20,accident
+NA,14,"Macedo, Jose Carlos",Renault Megane,PT,A7,NA,NA,SS13,engine
+NA,15,"Sperrer, Raphael",Renault Megane,AT,A7,NA,NA,SS14,clutch
+NA,19,"Triner, Emil",Skoda Felicia Kit-Car,CZ,A6,NA,NA,SS21,oil leak
+NA,20,"Azeredo, Pedro",Renault Megane,PT,A7,NA,NA,SS10,engine
+NA,22,"Rovanpera, Harri",Seat Ibiza GTi 16V,FI,A7,NA,NA,SS23,engine
+NA,28,"Louro, Gustavo",Ford Escort RS Cosworth,PT,A8,NA,NA,SS14,electrical
+NA,32,"Campos, Miguel",Mitsubishi Lancer Evo III,PT,N4,NA,NA,SS4,head gasket
+NA,33,"Goudezeune, Gaby",Mazda 323 GT-R,BE,A8,NA,NA,NA,unknown
+NA,37,"Antunes, Americo",Ford Escort RS Cosworth,PT,N4,NA,NA,SS2,head gasket
+NA,38,"Leal, Pedro",Seat Ibiza GTi 16V,PT,A7,NA,NA,SS10,lost wheel
+NA,39,"Lopes, Vitor",Seat Ibiza GTi 16V,PT,A7,NA,NA,SS13,unknown
+NA,40,"Brites, Francisco",Renault Clio Williams,PT,A7,NA,NA,SS18,engine
+NA,43,"Rolo, Manuel",Seat Ibiza GTi 16V,PT,A7,NA,NA,SS14,unknown
+NA,44,"Ferreira da Silva, Manuel",Ford Escort RS Cosworth,PT,N4,NA,NA,SS9,steering
+NA,45,"Pineau, Stephane",Skoda Felicia Kit-Car,FR,A5,NA,NA,NA,unknown
+NA,46,"Moreira, Rui",Citroen AX GTI,PT,A6,NA,NA,SS5,suspension
+NA,47,"Morton, John",Ford Escort RS Cosworth,GB,N4,NA,NA,NA,unknown
+NA,48,"Skidmore, Ken",Ford Escort RS Cosworth,GB,N4,NA,NA,NA,unknown
+NA,49,"Scialom, David",Lancia Delta HF Integrale,GB,A8,NA,NA,NA,unknown
+NA,50,"Duarte, Paulo",Mercedes Benz 190,PT,A8,NA,NA,SS6,transmission
+NA,51,"Heath, Nigel",Ford Escort RS Cosworth,GB,N4,NA,NA,NA,unknown
+NA,52,"Mendes, Jose",Opel Astra,PT,N3,NA,NA,SS14,gearbox
+NA,53,"Gravato, Antonio",Renault Clio,PT,N3,NA,NA,NA,mechanical
+NA,54,"Rizzi, Giancarlo",Alfa Romeo 75,IT,A8,NA,NA,NA,unknown
+NA,55,"Colard, Pierre",Peugeot 306 Maxi,FR,A7,NA,NA,NA,accident
+NA,56,"Font, Ferran",Seat Ibiza GTi 16V,AD,A7,NA,NA,NA,unknown
+NA,57,"Ramon Esturao, Jose",Seat Ibiza GTi 16V,ES,A7,NA,NA,NA,unknown
+NA,58,"Cerqueira, Jose",Seat Ibiza GTi 16V,PT,A7,NA,NA,SS3,half-shaft
+NA,59,"Martins, Fausto",Seat Ibiza GTi 16V,PT,A7,NA,NA,SS2,accident
+NA,60,"Gasso, Antonio",Seat Ibiza GTi 16V,ES,A7,NA,NA,NA,unknown
+NA,62,"Pereira, Antonio",Seat Ibiza GTi 16V,PT,A7,NA,NA,SS5,clutch
+NA,63,"Ramalho, Luis",Seat Ibiza GTi 16V,PT,A7,NA,NA,SS2,transmission
+NA,64,"Parente, Armando",Seat Ibiza GTi 16V,PT,A7,NA,NA,SS14,unknown
+NA,65,"Ferreira, Rodrigo",Seat Ibiza GTi 16V,PT,A7,NA,NA,SS14,unknown
+NA,66,"Olivet, Denis",Renault Clio Williams,FR,A7,NA,NA,NA,unknown
+NA,67,"Caiado, Alirio",Citroen ZX 16S,PT,A7,NA,NA,SS7,over time limit
+NA,68,"Martinez, Onesimo",Peugeot 205 GTI,ES,A7,NA,NA,NA,unknown
+NA,69,"Vieira Leite, Jose",Volkswagen Golf GTI 16V,PT,A7,NA,NA,SS13,clutch
+NA,70,"Medanha, Fernando",Peugeot 205 GTI,PT,A7,NA,NA,NA,mechanical
+NA,71,"Calisto, Vitor",Citroen ZX 16S,PT,A7,NA,NA,SS15,electrical
+NA,73,"Freire, Paulo",Toyota Celica GT-Four (ST205),PT,N4,NA,NA,SS13,unknown
+NA,75,"Fonseca, Luis",Ford Escort RS Cosworth,PT,N4,NA,NA,SS8,suspension
+NA,77,"Bastos, Delfim",Mazda 323,PT,N4,NA,NA,SS26,suspension
+NA,78,"Vieira, Antonio",Ford Escort RS Cosworth,PT,N4,NA,NA,SS22,half-shaft
+NA,80,"Ghillet, Christophe",Renault Clio,FR,N3,NA,NA,NA,unknown
+NA,81,"Martins, Pedro",Peugeot 306,PT,N3,NA,NA,SS12,suspension
+NA,82,"Santos, Jose Pedro",Ford Escort RS2000,PT,N3,NA,NA,SS6,accident
+NA,83,"Monteiro, Miguel",Ford Escort RS2000,PT,N3,NA,NA,SS10,gearbox
+NA,84,"Freitas, Antonio",Citroen AX GTI,PT,A6,NA,NA,SS12,clutch
+NA,85,"Tomaz, Manuel",Citroen AX GTI,PT,A6,NA,NA,SS4,suspension
+NA,87,"Couceiro, Diogo",Nissan Micra,PT,A5,NA,NA,NA,engine
+NA,89,"Goncalves, Rodrigo",Fiat Cinquecento,PT,A5,NA,NA,SS8,accident
+NA,90,"Ferreira, Jorge",Fiat Cinquecento,PT,A5,NA,NA,SS2,gearbox
+NA,93,"Pollet, Patrick",Skoda Favorit 136L,FR,A5,NA,NA,SS22,unknown
+NA,94,"Godwin, Trevor",Rover Mini Cooper,GB,A5,NA,NA,NA,unknown
+NA,96,"Guimaraes, Paulo",Citroen AX GTI,PT,N2,NA,NA,SS3,engine
+NA,97,"Barata, Miguel",Citroen AX GTI,PT,N2,NA,NA,SS22,unknown

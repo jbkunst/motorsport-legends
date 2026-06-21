@@ -1,0 +1,21 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"Salonen, Timo",Mazda 323 4WD,FI,A8,4h 11m 00s,NA,NA,NA
+2,8,"Ericsson, Mikael",Lancia Delta HF 4WD,SE,A,+23s,NA,NA,NA
+3,1,"Kankkunen, Juha",Lancia Delta HF 4WD,FI,A,+1m 46s,NA,NA,NA
+4,9,"Carlsson, Ingvar",Mazda 323 4WD,SE,A,+2m 01s,NA,NA,NA
+5,4,"Alen, Markku",Lancia Delta HF 4WD,FI,A,+3m 26s,NA,NA,NA
+6,2,"Blomqvist, Stig",Ford Sierra XR4x4,SE,A,+3m 30s,NA,NA,NA
+7,10,"Eklund, Per",Audi Coupe,SE,A,+3m 48s,NA,NA,NA
+8,7,"Eriksson, Kenneth",Volkswagen Golf GTi,SE,A,+4m 25s,NA,NA,NA
+9,20,"Danielsson, Bror",Audi Coupe,SE,A,+6m 47s,NA,NA,NA
+10,13,"Johansson, Erik",Audi Coupe,SE,A,+7m 08s,NA,NA,NA
+11,6,"Torph, Lars-Erik",Audi 80 quattro,SE,A,+7m 50s,NA,NA,NA
+13,16,"Jonsson, Mats",Opel Kadett GSi,SE,A,+11m 40s,NA,NA,NA
+14,57,"Nilsson, Soren",Audi Coupe,SE,N,+13m 17s,NA,NA,NA
+18,51,"Lundqvist, Lotta",Opel Manta,SE,A,+27m 14s,NA,NA,NA
+24,170,"Vergnaud, Carole",Citroen Visa,FR,B,+30m 28s,NA,NA,NA
+36,107,"McRae, Colin",Vauxhall Nova,GB,A,+45m 22s,NA,NA,NA
+NA,5,"Grundel, Karl",Ford Sierra XR4x4,SE,A,NA,NA,SS1,gearbox
+NA,11,"Pettersson, Gunnar",Audi Coupe,SE,A,NA,NA,SS2,axle bearing
+NA,12,"Sundstrom, Mikael",Mazda 323 4WD,FI,A,NA,NA,SS8,accident
+NA,15,"Ericsson, Martin",Audi Coupe,SE,A,NA,NA,SS5,accident

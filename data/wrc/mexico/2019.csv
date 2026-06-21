@@ -1,0 +1,23 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Ogier, Sebastien",Citroen C3 WRC,FR,RC1,"3h 37m 08,0s",NA,NA,NA
+2,8,"Tanak, Ott",Toyota Yaris WRC,EE,RC1,"+30,2s",NA,NA,NA
+3,33,"Evans, Elfyn",Ford Fiesta RS WRC 2017,GB,RC1,"+49,9s",0:10,NA,NA
+4,11,"Neuville, Thierry",Hyundai i20 Coupe WRC,BE,RC1,"+1m 27,0s",NA,NA,NA
+5,5,"Meeke, Kris",Toyota Yaris WRC,GB,RC1,"+6m 06,2s",NA,NA,NA
+6,41,"Guerra Latapi, Benito",Skoda Fabia,MX,RC2,"+15m 35,5s",NA,NA,NA
+7,42,"Bulacia Wilkinson, Marco",Skoda Fabia,BO,RC2,"+18m 51,5s",0:10,NA,NA
+8,10,"Latvala, Jari-Matti",Toyota Yaris WRC,FI,RC1,"+18m 55,9s",4:10,NA,NA
+9,6,"Sordo Castillo, Daniel",Hyundai i20 Coupe WRC,ES,RC1,"+22m 44,1s",0:10,NA,NA
+10,81,"Trivino Bujalil, Ricardo",Skoda Fabia,MX,RC2,"+26m 21,7s",1:10,NA,NA
+11,21,"Pieniazek, Lukasz",Ford Fiesta,PL,RC2,"+45m 23,1s",0:10,NA,NA
+12,44,"Heller, Alberto",Ford Fiesta,CL,RC2,"+52m 42,2s",NA,NA,NA
+13,4,"Lappi, Esapekka",Citroen C3 WRC,FI,RC1,"+1h 03m 40,5s",NA,NA,NA
+14,86,"Ortuno, Javier",Mitsubishi Lancer Evo X,MX,ASN,"+1h 39m 37,1s",2:00,NA,NA
+15,87,"Bailey, Jason",Ford Fiesta,CA,RC4,"+1h 52m 18,4s",NA,NA,NA
+NA,3,"Suninen, Teemu",Ford Fiesta RS WRC 2017,FI,RC1,NA,NA,SS2,off road
+NA,43,"Heller, Pedro",Ford Fiesta,CL,RC2,NA,NA,SS20,mechanical
+NA,82,"Cordero, Ricardo",Citroen DS3,MX,RC2,NA,NA,SS13,mechanical
+NA,85,"Uribe Balsa, Oscar",Mitsubishi Lancer Evo IX,MX,ASN,NA,NA,TC18E,mechanical
+NA,88,"Jocius, Deividas",Ford Fiesta,LT,RC4,NA,NA,TC18E,mechanical
+NA,89,"Mikkelsen, Andreas",Hyundai i20 Coupe WRC,NO,RC1,NA,NA,TC21C,mechanical
+NA,90,"Djordjevic, Boris",Ford Fiesta,CA,RC4,NA,NA,TC11,mechanical

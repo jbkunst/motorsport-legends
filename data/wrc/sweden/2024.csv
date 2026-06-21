@@ -1,0 +1,58 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,4,"Lappi, Esapekka",Hyundai i20 N Rally1,FI,Rally1,"2h 33m 04,9s",NA,NA,NA
+2,33,"Evans, Elfyn",Toyota GR Yaris Rally1,GB,Rally1,"+29,6s",NA,NA,NA
+3,16,"Fourmaux, Adrien",Ford Puma Rally1,FR,Rally1,"+47,9s",NA,NA,NA
+4,11,"Neuville, Thierry",Hyundai i20 N Rally1,BE,Rally1,"+1m 46,3s",0:40,NA,NA
+5,21,"Solberg, Oliver",Skoda Fabia,SE,Rally2,"+5m 04,2s",NA,NA,NA
+6,22,"Pajari, Sami",Toyota Yaris,FI,Rally2,"+6m 23,9s",NA,NA,NA
+7,25,"Linnamae, Georg",Toyota Yaris,EE,Rally2,"+6m 26,4s",NA,NA,NA
+8,29,"Korhonen, Roope",Toyota Yaris,FI,Rally2,"+6m 48,1s",NA,NA,NA
+9,26,"Heikkila, Mikko",Toyota Yaris,FI,Rally2,"+7m 25,7s",NA,NA,NA
+10,37,"Bertelli, Lorenzo",Toyota GR Yaris Rally1,IT,Rally1,"+7m 37,7s",NA,NA,NA
+11,24,"Joona, Lauri",Skoda Fabia,FI,Rally2,"+8m 02,8s",NA,NA,NA
+12,23,"Lindholm, Emil",Hyundai i20,FI,Rally2,"+9m 23,8s",NA,NA,NA
+13,32,"Reiersen, Isak",Skoda Fabia,SE,Rally2,"+10m 29,5s",NA,NA,NA
+14,36,"Solowow, Michal",Skoda Fabia,PL,Rally2,"+14m 41,3s",NA,NA,NA
+15,34,"Yamamoto, Yuki",Toyota Yaris,JP,Rally2,"+15m 20,2s",NA,NA,NA
+16,51,"Johansson, Mille",Ford Fiesta,SE,Rally3,"+16m 28,9s",NA,NA,NA
+17,47,"Jurgenson, Romet",Ford Fiesta,EE,Rally3,"+17m 17,8s",NA,NA,NA
+18,28,"Jeets, Gregor",Skoda Fabia,EE,Rally2,"+18m 26,5s",1:20,NA,NA
+19,20,"Gryazin, Nikolay",Citroen C3,RU,Rally2,"+19m 15,7s",NA,NA,NA
+20,49,"Kelly, Eamonn",Ford Fiesta,IE,Rally3,"+20m 29,7s",NA,NA,NA
+21,56,"Hernandez, Raul",Ford Fiesta,ES,Rally3,"+20m 58,1s",NA,NA,NA
+22,31,"Solans Baldo, Jan",Toyota Yaris,ES,Rally2,"+21m 30,3s",0:10,NA,NA
+23,13,"Munster, Gregoire",Ford Puma Rally1,LU,Rally1,"+23m 16,1s",NA,NA,NA
+24,54,"Rensonnet, Tom",Ford Fiesta,BE,Rally3,"+23m 29,0s",NA,NA,NA
+25,66,"Koltun, Jaroslaw",Ford Fiesta,PL,Rally2,"+24m 48,1s",0:40,NA,NA
+26,30,"Creighton, William",Ford Fiesta,GB,Rally2,"+26m 36,9s",NA,NA,NA
+27,60,"Rosselot, Gerardo",Ford Fiesta,CL,Rally3,"+27m 13,1s",NA,NA,NA
+28,58,"Borodin, Petr",Ford Fiesta,KZ,Rally3,"+27m 37,6s",NA,NA,NA
+29,65,"Burger, Kees",Skoda Fabia,NL,Rally2,"+27m 46,1s",NA,NA,NA
+30,55,"Gill, Taylor",Ford Fiesta,AU,Rally3,"+28m 59,0s",NA,NA,NA
+31,46,"Maior, Norbert",Ford Fiesta,RO,Rally3,"+28m 59,6s",NA,NA,NA
+32,64,"Trivino Bujalil, Ricardo",Skoda Fabia,MX,Rally2,"+29m 01,3s",NA,NA,NA
+33,70,"Fontana, Matteo",Peugeot 208,IT,Rally4,"+29m 44,0s",NA,NA,NA
+34,40,"Mauro Sanchez, Alejandro",Skoda Fabia,MX,Rally2,"+29m 54,1s",NA,NA,NA
+35,62,"Smart, Max",Ford Fiesta,ZA,Rally3,"+30m 10,2s",NA,NA,NA
+36,38,"al-Rashed, Rakan",Skoda Fabia,SA,Rally2,"+32m 22,2s",NA,NA,NA
+37,53,"Blach Nunez, Roberto",Ford Fiesta,ES,Rally3,"+36m 27,8s",NA,NA,NA
+38,44,"Kohn, Filip",Ford Fiesta,CZ,Rally3,"+38m 59,2s",1:20,NA,NA
+39,69,"Rovanpera, Kalle",Toyota GR Yaris Rally1,FI,Rally1,"+48m 31,9s",NA,NA,NA
+40,27,"Zaldivar Zuccolillo, Fabrizio",Skoda Fabia,PY,Rally2,"+49m 18,4s",NA,NA,NA
+41,8,"Tanak, Ott",Hyundai i20 N Rally1,EE,Rally1,"+49m 28,9s",NA,NA,NA
+42,41,"Leckey, James",Citroen C3,GB,Rally2,"+51m 32,3s",0:30,NA,NA
+43,57,"Bruun, Nataniel",Ford Fiesta,US,Rally3,"+53m 24,1s",0:20,NA,NA
+44,39,"Viitanen, Marko",Skoda Fabia,FI,Rally2,"+58m 41,0s",0:10,NA,NA
+45,18,"Katsuta, Takamoto",Toyota GR Yaris Rally1,JP,Rally1,"+59m 04,5s",NA,NA,NA
+46,35,"Kogure, Hikaru",Toyota Yaris,JP,Rally2,"+59m 16,5s",0:40,NA,NA
+47,63,"Martinez Merizalde Zavala, Andre",Ford Fiesta,PE,Rally3,"+1h 02m 25,1s",0:10,NA,NA
+48,59,"al-Rawahi, Abdullah",Ford Fiesta,OM,Rally3,"+1h 13m 45,9s",1:10,NA,NA
+49,50,"Matulka, Jakub",Ford Fiesta,PL,Rally3,"+1h 25m 21,2s",NA,NA,NA
+50,68,"Milani, Oreste",Ford Fiesta,IT,Rally3,"+2h 23m 56,0s",NA,NA,NA
+NA,43,"Cerny, Jan",Ford Fiesta,CZ,Rally3,NA,NA,TC13,technical
+NA,45,"Dominguez Jr., Diego",Ford Fiesta,PY,Rally3,NA,NA,SS16,mechanical
+NA,48,"Bulacia, Bruno",Ford Fiesta,BO,Rally3,NA,NA,TC0,mechanical
+NA,52,"Schwarz, Fabio",Ford Fiesta,DE,Rally3,NA,NA,SS16,mechanical
+NA,61,"Caparo, Jose",Ford Fiesta,PE,Rally3,NA,NA,SS14,mechanical
+NA,67,"Ribaudo, Tony",Skoda Fabia,FR,Rally2,NA,NA,TC8D,injury
+NA,71,"Rullo, Peter",Skoda Fabia,AU,Rally2,NA,NA,TC17A,mechanical

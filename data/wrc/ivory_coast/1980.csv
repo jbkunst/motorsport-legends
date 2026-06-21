@@ -1,0 +1,19 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,8,"Waldegard, Bjorn",Mercedes Benz 500 SLC,SE,G2,60h 07m,NA,NA,NA
+2,15,"Recalde, Jorge",Mercedes Benz 500 SLC,AR,G2,+1h 11m,NA,NA,NA
+3,12,"Ambrosino, Alain",Peugeot 504 V6 Coupe,FR,G4,+2h 41m,NA,NA,NA
+4,9,"Assef, Samir",Toyota Celica,CI,G4,+3h 02m,NA,NA,NA
+5,6,"Preston Jr, Vic",Mercedes Benz 500 SLC,KE,G2,+3h 07m,NA,NA,NA
+6,2,"Munari, Sandro",Fiat 131 Abarth,IT,G4,+3h 40m,NA,NA,NA
+7,10,"Eklund, Per",Toyota Celica,SE,G4,+5h 19m,NA,NA,NA
+8,11,"Lefebvre, Jean-Claude",Peugeot 504 V6 Coupe,FR,G4,+5h 49m,NA,NA,NA
+9,18,"Vincens, Jean-Francois",Mitsubishi Lancer,CI,G2,+10h 23m,NA,NA,NA
+10,50,"Saad, Naguib",Datsun 160J,CI,G2,+12h 10m,NA,NA,NA
+11,5,"Moreau, Pierre-Louis",Peugeot 504 V6 Coupe,FR,G4,+15h 15m,NA,NA,NA
+NA,1,"Andersson, Ove",Toyota Celica,SE,G4,NA,NA,TC37,flywheel
+NA,3,"Mehta, Shekhar",Datsun 160J,KE,G2,NA,NA,TC45,accident
+NA,4,"Mikkola, Hannu",Mercedes Benz 500 SLC,FI,G2,NA,NA,TC41,mechanical
+NA,7,"Cowan, Andrew",Mercedes Benz 500 SLC,GB,G2,NA,NA,TC17,accident
+NA,14,"Makinen, Timo",Peugeot 504 V6 Coupe,FI,G4,NA,NA,TC37,engine
+NA,16,"Mitri, Michel",Datsun 160J,FR,G2,NA,NA,TC37,gearbox
+NA,17,"Kirkland, Mike",Datsun 160J,KE,G2,NA,NA,TC18,electrics

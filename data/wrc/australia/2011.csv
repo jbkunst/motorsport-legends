@@ -1,0 +1,30 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"Hirvonen, Mikko",Ford Fiesta RS WRC,FI,A0,"3h 35m 59,0s",NA,NA,NA
+2,4,"Latvala, Jari-Matti",Ford Fiesta RS WRC,FI,A0,"+14,7s",NA,NA,NA
+3,11,"Solberg, Petter",Citroen DS3 WRC,NO,A0,"+44,8s",NA,NA,NA
+4,5,"Wilson, Matthew",Ford Fiesta RS WRC,GB,A0,"+8m 45,2s",NA,NA,NA
+5,10,"al-Qassimi, Khalid",Ford Fiesta RS WRC,AE,A0,"+12m 33,3s",NA,NA,NA
+6,38,"Paddon, Hayden",Subaru Impreza WRX,NZ,A3,"+17m 29,3s",0:20,NA,NA
+7,22,"Kosciuszko, Michal",Mitsubishi Lancer Evo X,PL,A3,"+19m 01,3s",0:10,NA,NA
+8,30,"Saliuk, Oleksandr",Mitsubishi Lancer Evo IX,UA,A3,"+21m 08,5s",NA,NA,NA
+9,39,"Guerra Latapi, Benito",Mitsubishi Lancer Evo IX,MX,A3,"+22m 48,9s",NA,NA,NA
+10,1,"Loeb, Sebastien",Citroen DS3 WRC,FR,A0,"+30m 02,9s",NA,NA,NA
+11,2,"Ogier, Sebastien",Citroen DS3 WRC,FR,A0,"+30m 19,4s",1:00,NA,NA
+12,32,"Gorban, Valeriy",Mitsubishi Lancer Evo IX,UA,A3,"+30m 22,1s",NA,NA,NA
+13,14,"van Merksteijn jr, Peter",Citroen DS3 WRC,NL,A0,"+32m 21,0s",NA,NA,NA
+14,15,"Solberg, Henning",Ford Fiesta RS WRC,NO,A0,"+32m 23,7s",NA,NA,NA
+15,51,"Spencer, John",Mitsubishi Lancer Evo IX,AU,A3,"+34m 36,1s",NA,NA,NA
+16,23,"Linari, Gianluca",Subaru Impreza WRX,IT,A3,"+38m 50,2s",NA,NA,NA
+17,24,"Reeves, Brendan",Mitsubishi Lancer Evo IX,AU,A3,"+41m 20,2s",1:50,NA,NA
+18,49,"Quinn, Nathan",Mitsubishi Lancer Evo IX,AU,A3,"+41m 54,6s",1:10,NA,NA
+19,43,"Block, Ken",Ford Fiesta RS WRC,US,A0,"+42m 01,9s",NA,NA,NA
+20,27,"Hunt, Harry",Citroen DS3,GB,A5,"+49m 41,9s",1:10,NA,NA
+21,29,"al-Jabri, Bader",Subaru Impreza WRX,AE,A3,"+53m 42,2s",NA,NA,NA
+22,52,"Vlad, Razvan",Ford Fiesta ST,AU,A8,"+1h 01m 12,5s",NA,NA,NA
+23,53,"Coppin, Adrian",Ford Fiesta ST,AU,A8,"+1h 03m 34,9s",3:20,NA,NA
+24,28,"al-Shamsi, Majed",Subaru Impreza WRX,AE,A3,"+1h 41m 0,8s",NA,NA,NA
+NA,6,"Novikov, Evgeny",Ford Fiesta RS WRC,RU,A0,NA,NA,SS22,off road
+NA,12,"Oliveira, Daniel Rolim",Mini John Cooper Works,BR,A0,NA,NA,SS22,mechanical
+NA,25,"Ketomaki, Jukka",Mitsubishi Lancer Evo IX,FI,A3,NA,NA,SS22,unknown
+NA,31,"Kikireshko, Oleksii",Mitsubishi Lancer Evo IX,UA,A3,NA,NA,SS12,mechanical
+NA,50,"Gotch, Leigh",Subaru Impreza WRX,AU,A3,NA,NA,SS15,mechanical

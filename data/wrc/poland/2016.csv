@@ -1,0 +1,65 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,9,"Mikkelsen, Andreas",Volkswagen Polo R WRC,NO,RC1,"2h 37m 34,0s",NA,NA,NA
+2,12,"Tanak, Ott",Ford Fiesta RS WRC,EE,RC1,"+26,2s",NA,NA,NA
+3,4,"Paddon, Hayden",Hyundai New Generation i20 WRC,NZ,RC1,"+28,5s",NA,NA,NA
+4,3,"Neuville, Thierry",Hyundai New Generation i20 WRC,BE,RC1,"+29,3s",NA,NA,NA
+5,2,"Latvala, Jari-Matti",Volkswagen Polo R WRC,FI,RC1,"+33,8s",NA,NA,NA
+6,1,"Ogier, Sebastien",Volkswagen Polo R WRC,FR,RC1,"+40,3s",NA,NA,NA
+7,8,"Breen, Craig",Citroen DS3 WRC,IE,RC1,"+2m 01,4s",NA,NA,NA
+8,5,"Ostberg, Mads",Ford Fiesta RS WRC,NO,RC1,"+3m 04,6s",NA,NA,NA
+9,7,"Lefebvre, Stephane",Citroen DS3 WRC,FR,RC1,"+5m 12,0s",0:20,NA,NA
+10,6,"Camilli, Eric",Ford Fiesta RS WRC,FR,RC1,"+5m 23,1s",0:20,NA,NA
+11,36,"Suninen, Teemu",Skoda Fabia,FI,RC2,"+5m 53,3s",NA,NA,NA
+12,37,"Bertelli, Lorenzo",Ford Fiesta RS WRC,IT,RC1,"+5m 57,0s",NA,NA,NA
+13,31,"Evans, Elfyn",Ford Fiesta,GB,RC2,"+6m 42,9s",NA,NA,NA
+14,41,"Lappi, Esapekka",Skoda Fabia,FI,RC2,"+8m 26,0s",NA,NA,NA
+15,16,"Solberg, Henning",Ford Fiesta RS WRC,NO,RC1,"+9m 00,3s",NA,NA,NA
+16,48,"Kajetanowicz, Kajetan",Ford Fiesta,PL,RC2,"+12m 26,1s",NA,NA,NA
+17,51,"Koltun, Jaroslaw",Ford Fiesta,PL,RC2,"+16m 29,7s",1:00,NA,NA
+18,54,"Loubet, Pierre-Louis",Citroen DS3,FR,RC2,"+16m 54,8s",NA,NA,NA
+19,33,"Tidemand, Pontus",Skoda Fabia,SE,RC2,"+21m 13,6s",NA,NA,NA
+20,32,"Fuchs Sierlecki, Nicolas",Skoda Fabia,PE,RC2,"+21m 53,1s",NA,NA,NA
+21,46,"Turan, Frigyes",Ford Fiesta,HU,RC2,"+23m 22,8s",1:20,NA,NA
+22,49,"Kruuda, Karl",Ford Fiesta,EE,RC2,"+24m 39,1s",NA,NA,NA
+23,62,"Tempestini, Simone",Citroen DS3,IT,RC3,"+26m 36,9s",NA,NA,NA
+24,64,"Folb, Thierry",Citroen DS3,FR,RC3,"+29m 59,2s",NA,NA,NA
+25,56,"al-Suwaidi, Khalid",Ford Fiesta,QA,RC2,"+30m 17,0s",NA,NA,NA
+26,44,"Bestard Poletti, Augusto Miguel",Ford Fiesta,PY,RC2,"+31m 23,7s",NA,NA,NA
+27,18,"Gorban, Valeriy",Mini John Cooper Works,UA,RC1,"+31m 53,0s",0:50,NA,NA
+28,57,"van den Heuvel, Jim",Mitsubishi Lancer Evo X,NL,RC2,"+32m 29,6s",NA,NA,NA
+29,67,"Veiby, Ole Christian",Citroen DS3,NO,RC3,"+32m 39,1s",1:30,NA,NA
+30,106,"Armstrong, Jon",Ford Fiesta,GB,RC4,"+32m 42,5s",NA,NA,NA
+31,85,"Griebel, Marijan",Opel Adam,DE,RC4,"+33m 27,0s",0:10,NA,NA
+32,103,"Pryce, Osian",Ford Fiesta,GB,RC4,"+33m 36,1s",NA,NA,NA
+33,101,"Sousa, Bernardo",Ford Fiesta,PT,RC4,"+34m 04,1s",NA,NA,NA
+34,66,"Martel, Romain",Citroen DS3,FR,RC3,"+34m 29,9s",NA,NA,NA
+35,104,"Greensmith, Fergus",Ford Fiesta,GB,RC4,"+34m 40,8s",NA,NA,NA
+36,102,"Vatanen, Max",Ford Fiesta,FI,RC4,"+35m 30,7s",NA,NA,NA
+37,63,"Dubert, Vincent",Citroen DS3,FR,RC3,"+35m 35,3s",1:10,NA,NA
+38,68,"Gryc, Tomasz",Peugeot 208,PL,RC4,"+36m 13,0s",NA,NA,NA
+39,107,"Brzezinski, Jakub",Ford Fiesta,PL,RC4,"+42m 57,8s",0:30,NA,NA
+40,47,"Foulon, Alain",Mitsubishi Lancer Evo X,FR,RC2,"+44m 55,9s",0:40,NA,NA
+41,109,"Solberg, Oscar",Ford Fiesta,NO,RC4,"+45m 46,7s",NA,NA,NA
+42,111,"Ciamin, Nicolas",Ford Fiesta,FR,RC4,"+50m 15,6s",1:00,NA,NA
+43,112,"Patel, Karan",Ford Fiesta,KE,RC4,"+53m 40,2s",NA,NA,NA
+44,70,"Pieniazek, Lukasz",Citroen DS3,PL,RC3,"+58m 37,5s",0:30,NA,NA
+45,53,"Maurin, Julien",Skoda Fabia,FR,RC2,"+1h 04m 25,4s",4:50,NA,NA
+46,81,"Tamrazov, Oleksii",Ford Fiesta S2000,UA,RC2,"+1h 16m 09,2s",4:00,NA,NA
+47,65,"Burri, Michael",Renault Clio,CH,RC3,"+1h 20m 13,8s",2:40,NA,NA
+48,71,"al-Mutawa, Mohammed",Citroen DS3,AE,RC3,"+1h 20m 36,2s",NA,NA,NA
+NA,20,"Sordo Castillo, Daniel",Hyundai New Generation i20 WRC,ES,RC1,NA,NA,SS20,unknown
+NA,30,"al-Rajhi, Yazeed",Ford Fiesta RS WRC,SA,RC1,NA,NA,TC21C,unknown
+NA,34,"Ptaszek, Hubert",Skoda Fabia,PL,RC2,NA,NA,SS20,unknown
+NA,35,"Kremer, Armin",Skoda Fabia,DE,RC2,NA,NA,after SS17,unknown
+NA,38,"Aasen, Marius",Ford Fiesta,NO,RC2,NA,NA,SS13,unknown
+NA,39,"Bonato, Yoann",Citroen DS3,FR,RC2,NA,NA,SS7,unknown
+NA,40,"Gilbert, Quentin",Citroen DS3,FR,RC2,NA,NA,SS18,unknown
+NA,42,"Giordano, Quentin",Peugeot 208,FR,RC2,NA,NA,SS5,unknown
+NA,43,"Pedder, Scott",Skoda Fabia,AU,RC2,NA,NA,SS20,unknown
+NA,45,"Bergkvist, Emil",Citroen DS3,SE,RC2,NA,NA,SS8,unknown
+NA,52,"Parn, Sander",Ford Fiesta,EE,RC2,NA,NA,SS20,unknown
+NA,55,"Dhiel, Ilo",Ford Fiesta,BR,RC2,NA,NA,TC17D,unknown
+NA,61,"Koci, Martin",Citroen DS3,SK,RC3,NA,NA,TC0,mechanical
+NA,69,"Crugnola, Andrea",Citroen DS3,IT,RC3,NA,NA,TC13,unknown
+NA,83,"Casado, Philippe",Citroen DS3,FR,RC3,NA,NA,TC5,unknown
+NA,84,"Lario, Taisko",Peugeot 208,FI,RC4,NA,NA,TC17D,unknown

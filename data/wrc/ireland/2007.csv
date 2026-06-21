@@ -1,0 +1,85 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Loeb, Sebastien",Citroen C4 WRC,FR,A8,"3h 01m 39,2s",0:10,NA,NA
+2,2,"Sordo Castillo, Daniel",Citroen C4 WRC,ES,A8,"+53,4s",NA,NA,NA
+3,9,"Latvala, Jari-Matti",Ford Focus RS WRC 06,FI,A8,"+1m 48,2s",NA,NA,NA
+4,4,"Hirvonen, Mikko",Ford Focus RS WRC 07,FI,A8,"+2m 17,7s",NA,NA,NA
+5,7,"Solberg, Petter",Subaru Impreza WRC2007,NO,A8,"+2m 55,9s",NA,NA,NA
+6,18,"Wilks, Guy",Subaru Impreza,GB,A8,"+5m 57,9s",NA,NA,NA
+7,16,"Wilson, Matthew",Ford Focus RS WRC 06,GB,A8,"+10m 04,9s",NA,NA,NA
+8,20,"MacHale, Gareth",Ford Focus,IE,A8,"+11m 08,3s",NA,NA,NA
+9,21,"Mikkelsen, Andreas",Ford Focus,NO,A8,"+13m 08,2s",1:40,NA,NA
+10,53,"McShea, Niall",Subaru Impreza,GB,N4,"+16m 32,1s",0:10,NA,NA
+11,54,"Pozzo, Gabriel",Mitsubishi Lancer Evo IX,AR,N4,"+17m 16,2s",NA,NA,NA
+12,26,"MacHale, Aaron",Ford Focus,IE,A8,"+17m 38,9s",NA,NA,NA
+13,84,"Cathcart, Richard",Subaru Impreza,GB,N4,"+18m 58,0s",2:00,NA,NA
+14,93,"van den Heuvel, Jasper",Mitsubishi Lancer Evo IX,NL,N4,"+19m 48,2s",NA,NA,NA
+15,17,"al-Qassimi, Khalid",Ford Focus RS WRC 06,AE,A8,"+20m 49,2s",NA,NA,NA
+16,10,"Solberg, Henning",Ford Focus RS WRC 06,NO,A8,"+20m 59,2s",0:30,NA,NA
+17,39,"al-Attiyah, Nasser",Subaru Impreza,QA,N4,"+21m 03,2s",NA,NA,NA
+18,40,"Campedelli, Simone",Mitsubishi Lancer Evo IX,IT,N4,"+23m 08,0s",NA,NA,NA
+19,62,"Jennings, Garry",Mitsubishi Lancer Evo,GB,N4,"+23m 43,4s",0:50,NA,NA
+20,49,"Vojtech, Stepan",Mitsubishi Lancer Evo IX,CZ,N4,"+25m 06,2s",NA,NA,NA
+21,35,"Nutahara, Fumio",Mitsubishi Lancer Evo IX,JP,N4,"+25m 53,6s",NA,NA,NA
+22,59,"Murphy, Colm",Subaru Impreza,IE,N4,"+25m 55,4s",6:00,NA,NA
+23,48,"Morrow, Phillip",Mitsubishi Lancer Evo IX,GB,N4,"+27m 07,7s",NA,NA,NA
+24,85,"O'Donoghue, Kevin",Mitsubishi Lancer Evo IX,IE,N4,"+27m 12,1s",NA,NA,NA
+25,25,"MacHale, Austin",Ford Focus,IE,A8,"+27m 26,8s",NA,NA,NA
+26,68,"Curran, Mike",Mitsubishi Lancer Evo IV,IE,N4,"+27m 35,0s",0:40,NA,NA
+27,64,"Foley, James",Mitsubishi Lancer Evo,IE,N4,"+31m 15,2s",0:10,NA,NA
+28,30,"Barrett, Kevin",Subaru Impreza,IE,A8,"+32m 24,1s",NA,NA,NA
+29,43,"Popov, Jasen",Mitsubishi Lancer Evo IX,BG,N4,"+33m 24,5s",0:10,NA,NA
+30,101,"Flanagan, Sean",Subaru Impreza,IE,N4,"+33m 24,6s",NA,NA,NA
+31,23,"Boland, Eamonn",Subaru Impreza,IE,A8,"+33m 50,3s",NA,NA,NA
+32,81,"Weijs jr, Hans",Mitsubishi Lancer Evo IX,NL,N4,"+36m 05,8s",0:10,NA,NA
+33,32,"Jones, Stuart M.",Mitsubishi Lancer Evo IX,GB,N4,"+36m 31,5s",NA,NA,NA
+34,71,"McCarrick, Noel",Subaru Impreza,IE,A8,"+38m 18,1s",0:10,NA,NA
+35,74,"McKinstry, Emma",Subaru Impreza,GB,A8,"+38m 45,2s",NA,NA,NA
+36,69,"Barrett, Ian",Subaru Impreza,IE,N4,"+39m 06,3s",0:10,NA,NA
+37,76,"White, Paddy",Ford Focus,IE,A8,"+40m 16,7s",1:10,NA,NA
+38,88,"Harris, Gavin",Subaru Impreza,IE,N4,"+42m 51,3s",NA,NA,NA
+39,92,"Green, Brian",Mitsubishi Lancer Evo VIII,NZ,N4,"+43m 37,6s",NA,NA,NA
+40,60,"Ring, Alan",Subaru Impreza,IE,N4,"+43m 57,9s",NA,NA,NA
+41,65,"White, Roy",MG ZR S2000 Sport,IE,N4,"+45m 24,9s",NA,NA,NA
+42,8,"Atkinson, Christopher",Subaru Impreza WRC2007,AU,A8,"+46m 39,3s",2:20,NA,NA
+43,94,"Byrne, Conor",Mitsubishi Lancer Evo IX,IE,N4,"+49m 28,1s",NA,NA,NA
+44,98,"McElhinney, Adrian",Citroen C2,IE,A6,"+50m 38,3s",NA,NA,NA
+45,83,"McCullagh, Peter",Mitsubishi Lancer Evo,IE,N4,"+51m 36,8s",NA,NA,NA
+46,90,"Elliot, Paul",Mitsubishi Lancer Evo IX,IE,N4,"+51m 54,4s",0:40,NA,NA
+47,78,"Buttimer, John",Subaru Impreza,IE,A8,"+52m 19,0s",NA,NA,NA
+48,70,"Gass, Darren",Ford Focus WRC,GB,A8,"+53m 25,7s",0:10,NA,NA
+49,96,"Donaghy, Edward",Mitsubishi Lancer Evo VIII,IE,N4,"+53m 58,9s",NA,NA,NA
+50,103,"Barry, Jarlath",Honda Civic,IE,N3,"+54m 11,2s",NA,NA,NA
+51,82,"Murphy, Owen",Ford Fiesta,IE,N3,"+55m 34,1s",NA,NA,NA
+52,106,"Gormally, Tom",Honda Civic,IE,N3,"+55m 34,3s",0:10,NA,NA
+53,91,"Errani, Riccardo",Mitsubishi Lancer Evo IX,IT,N4,"+56m 09,4s",NA,NA,NA
+54,100,"Murray, Michael",Mitsubishi Lancer Evo VI,IE,N4,"+56m 45,9s",0:10,NA,NA
+55,87,"Lawless, Thomas",Mitsubishi Lancer Evo IX,US,N4,"+57m 25,2s",NA,NA,NA
+56,108,"Gilleece, Raymond",Honda Civic Type-R,IE,N3,"+59m 48,8s",NA,NA,NA
+57,86,"McGlone, Cathal",Subaru Impreza,IE,N4,"+1h 00m 41,5s",0:10,NA,NA
+58,97,"Mullen, Andrew",Citroen Saxo,IE,A6,"+1h 01m 57,1s",NA,NA,NA
+59,107,"McHale, Kenneth",Toyota Yaris,IE,N1,"+1h 02m 40,6s",0:10,NA,NA
+60,99,"McCaul, Fin",BMW 120,GB,N4,"+1h 06m 06,2s",NA,NA,NA
+61,79,"Mulholland, John",Skoda Fabia,IE,A8,"+1h 07m 52,3s",NA,NA,NA
+62,104,"Hynes, Ian",Honda Civic Type-R,IE,N3,"+1h 10m 59,8s",0:10,NA,NA
+63,109,"Cummins, Michael",Mitsubishi Lancer Evo VII,IE,N4,"+1h 28m 33,7s",NA,NA,NA
+64,89,"Shaw, Kevin",Mitsubishi Lancer Evo,IE,N4,"+1h 30m 16,7s",NA,NA,NA
+65,77,"O'Mahoney, Brian",Renault Clio,IE,A6,"+1h 37m 58,2s",NA,NA,NA
+66,110,"Kelly, Toni",Honda Civic Type-R,IE,A7,"+2h 13m 04,9s",NA,NA,NA
+NA,3,"Gronholm, Marcus",Ford Focus RS WRC 07,FI,A8,NA,NA,SS4,off road
+NA,5,"Stohl, Manfred",Citroen Xsara WRC,AT,A8,NA,NA,TC13A,mechanical
+NA,14,"Pons, Xavier",Subaru Impreza WRC2007,ES,A8,NA,NA,SS4,engine
+NA,19,"Meeke, Kris",Subaru Impreza,GB,A8,NA,NA,TC9,mechanical
+NA,22,"Donnelly, Eugene",Skoda Fabia WRC,IE,A8,NA,NA,TC4,mechanical
+NA,24,"Nesbitt, Andrew",Subaru Impreza,IE,A8,NA,NA,SS11,off road
+NA,27,"McNulty, Tim",Subaru Impreza,IE,A8,NA,NA,SS12,mechanical
+NA,28,"Jones, Gareth",Ford Focus RS WRC 04,GB,A8,NA,NA,SS11,mechanical
+NA,29,"Breen, Ray",Ford Focus RS WRC 04,IE,A8,NA,NA,SS11,off road
+NA,34,"Higgins, Mark",Mitsubishi Lancer Evo IX,GB,N4,NA,NA,SS16,off road
+NA,41,"Kuzaj, Leszek",Subaru Impreza,PL,N4,NA,NA,TC16C,mechanical
+NA,46,"Araujo, Armindo",Mitsubishi Lancer Evo IX,PT,N4,NA,NA,SS19,off road
+NA,47,"Aigner, Andreas",Mitsubishi Lancer Evo IX,AT,N4,NA,NA,SS7,off road
+NA,50,"Flodin, Patrik",Subaru Impreza,SE,N4,NA,NA,SS17,mechanical
+NA,61,"Devine, Sean",Subaru Impreza,IE,A8,NA,NA,SS14,off road
+NA,66,"Svedlund, Oscar",Subaru Impreza,SE,N4,NA,NA,SS18,mechanical
+NA,75,"Tracey, George",Ford Focus,IE,A8,NA,NA,TC16D,mechanical
+NA,95,"Ward, Paul",Subaru Impreza,GB,N4,NA,NA,TC17,mechanical

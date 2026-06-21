@@ -1,0 +1,49 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,69,"Rovanpera, Kalle",Toyota Yaris WRC,FI,RC1,"3h 28m 24,6s",NA,NA,NA
+2,8,"Tanak, Ott",Hyundai i20 Coupe WRC,EE,RC1,"+42,1s",NA,NA,NA
+3,1,"Ogier, Sebastien",Toyota Yaris WRC,FR,RC1,"+1m 11,3s",NA,NA,NA
+4,6,"Sordo Castillo, Daniel",Hyundai i20 Coupe WRC,ES,RC1,"+3m 01,0s",0:10,NA,NA
+5,44,"Greensmith, Fergus",Ford Fiesta RS WRC 2017,GB,RC1,"+5m 45,0s",NA,NA,NA
+6,33,"Evans, Elfyn",Toyota Yaris WRC,GB,RC1,"+6m 42,7s",2:10,NA,NA
+7,16,"Fourmaux, Adrien",Ford Fiesta RS WRC 2017,FR,RC1,"+6m 54,4s",3:00,NA,NA
+8,11,"Neuville, Thierry",Hyundai i20 Coupe WRC,BE,RC1,"+8m 41,1s",4:00,NA,NA
+9,20,"Mikkelsen, Andreas",Skoda Fabia,NO,RC2,"+9m 02,5s",NA,NA,NA
+10,22,"Bulacia Wilkinson, Marco",Skoda Fabia,BO,RC2,"+9m 19,2s",NA,NA,NA
+11,31,"Kajetanowicz, Kajetan",Skoda Fabia,PL,RC2,"+11m 23,6s",NA,NA,NA
+12,34,"Ingram, Christopher",Skoda Fabia,GB,RC2,"+11m 49,7s",NA,NA,NA
+13,23,"Gryazin, Nikolay",Ford Fiesta,RU,RC2,"+13m 47,5s",NA,NA,NA
+14,35,"Lindholm, Emil",Skoda Fabia,FI,RC2,"+13m 55,6s",1:40,NA,NA
+15,27,"Linnamae, Georg",Skoda Fabia,EE,RC2,"+15m 04,5s",NA,NA,NA
+16,25,"Prokop, Martin",Ford Fiesta,CZ,RC2,"+18m 05,2s",NA,NA,NA
+17,26,"Johnston, Sean",Citroen C3,US,RC2,"+18m 30,1s",NA,NA,NA
+18,51,"Galatariotis, Simos",Volkswagen Polo,CY,RC2,"+24m 14,5s",NA,NA,NA
+19,45,"Kechagias, Georgios",Skoda Fabia,GR,RC2,"+27m 06,9s",NA,NA,NA
+20,29,"Urlichich, Leonid",Citroen C3,RU,RC2,"+27m 14,2s",NA,NA,NA
+21,46,"Roustemis, Panagiotis",Citroen DS3,GR,RC2,"+27m 14,7s",NA,NA,NA
+22,9,"Serderidis, Jourdan",Ford Fiesta,GR,RC1,"+27m 17,5s",NA,NA,NA
+23,48,"Velanis, Vasileios",Skoda Fabia,GR,RC2,"+27m 33,1s",NA,NA,NA
+24,43,"Nobre, Paulo",Skoda Fabia,BR,RC2,"+30m 05,1s",NA,NA,NA
+25,53,"Panteli, Petros",Citroen DS3,CY,RC2,"+33m 06,7s",NA,NA,NA
+26,49,"Plagos, Ioannis",Citroen C3,GR,RC2,"+36m 04,5s",NA,NA,NA
+27,54,"Panagiotis, Yannick",Citroen C3,FR,RC2,"+40m 49,3s",0:30,NA,NA
+28,56,"Pyck, Filip",Skoda Fabia,BE,RC2,"+43m 51,1s",0:40,NA,NA
+29,52,"Chalkias, Efthymios",Ford Fiesta,GR,RC2,"+45m 19,0s",0:20,NA,NA
+30,59,"Ziovas, Nikolaos",Ford Fiesta,GR,RC3,"+48m 27,5s",4:00,NA,NA
+31,21,"Ostberg, Mads",Citroen C3,NO,RC2,"+49m 52,9s",1:50,NA,NA
+32,57,"Spanos, Dionnissis",Skoda Fabia,GR,RC2,"+50m 35,1s",NA,NA,NA
+33,32,"Zaldivar Zuccolillo, Fabrizio",Skoda Fabia,PY,RC2,"+1h 03m 21,3s",NA,NA,NA
+34,47,"Hatzitsopanis, Panagiotis",Ford Fiesta,GR,RC2,"+1h 10m 03,0s",NA,NA,NA
+35,39,"Diaz-Aboitiz, Miguel",Skoda Fabia,ES,RC2,"+1h 19m 54,9s",NA,NA,NA
+36,40,"Athanassoulas, Lambros",Hyundai i20,GR,RC2,"+1h 24m 13,6s",0:30,NA,NA
+37,60,"Karanikolas, Epameinondas",Ford Fiesta,GR,RC4,"+1h 25m 27,4s",NA,NA,NA
+38,63,"Theocharopoulos, Stefanos",Ford Fiesta,GR,RC4,"+1h 28m 33,5s",1:10,NA,NA
+39,64,"Covi, Carlo",Peugeot 208,IT,RC4,"+1h 37m 48,5s",1:00,NA,NA
+40,55,"Iliopoulos, Panagiotis",Skoda Fabia,GR,RC2,"+1h 38m 59,1s",NA,NA,NA
+41,61,"Lefkaditis, Savvas",Peugeot 208,GR,RC4,"+1h 43m 36,7s",NA,NA,NA
+42,62,"Papageorgiou, Loizos",Peugeot 208,CY,RC4,"+1h 51m 41,1s",2:00,NA,NA
+NA,7,"Loubet, Pierre-Louis",Hyundai i20 Coupe WRC,FR,RC1,NA,NA,TC13,mechanical
+NA,28,"Solberg, Oliver",Hyundai i20,SE,RC2,NA,NA,SS9,mechanical
+NA,30,"Rossel, Yohan",Citroen C3,FR,RC2,NA,NA,post-rally,scrutineering irregularities
+NA,41,"Tsouloftas, Alex",Volkswagen Polo,CY,RC2,NA,NA,SS2,mechanical
+NA,58,"Taylor, Molly",Ford Fiesta,AU,RC3,NA,NA,SS8,mechanical
+NA,65,"Kaltsounis, Haris",Opel Adam,GR,RC4,NA,NA,TC14,mechanical

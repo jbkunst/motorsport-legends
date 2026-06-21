@@ -1,0 +1,28 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,9,"Mouton, Michele",Audi quattro,FR,G4,12h 54m 44s,NA,NA,NA
+2,1,"Rohrl, Walter",Opel Ascona 400,DE,G4,+13m 39s,NA,NA,NA
+3,6,"Toivonen, Henri",Opel Ascona 400,FI,G4,+22m 37s,NA,NA,NA
+4,12,"Mehta, Shekhar",Nissan Violet,KE,G4,+32m 44s,NA,NA,NA
+5,16,"Moschous, George",Nissan Violet GTS,GR,G4,+42m 00s,NA,NA,NA
+6,10,"McRae, Jimmy",Opel Ascona 400,GB,G4,+45m 32s,NA,NA,NA
+7,20,"Moshoutis, Pavlos",Fiat 131 Abarth,GR,G4,+1h 27m 04s,NA,NA,NA
+8,17,"Maniatopoulos, Alexandros",Renault 5 Turbo,GR,G4,+1h 42m 44s,NA,NA,NA
+9,67,"Geminis, Tasos",Nissan 160J,GR,G2,+3h 11m 26s,NA,NA,NA
+10,68,"Heisler, Fritz",Ford Escort RS,AT,G2,+3h 15m 20s,NA,NA,NA
+12,36,"Panagiotopoulo, Manolis",Toyota Starlet,GR,G2,+3h 23m 29s,NA,NA,NA
+13,57,"Dorche, Christian",Citroen Visa,FR,B,+3h 28m 30s,NA,NA,NA
+16,39,"Halivelakis, Manolis",Toyota Corolla,GR,A,+4h 19m 30s,NA,NA,NA
+NA,2,"Alen, Markku",Lancia Rally 037,FI,B,NA,NA,SS34,broken chassis
+NA,3,"Mikkola, Hannu",Audi quattro,FI,G4,NA,NA,SS3,front suspension
+NA,4,"Salonen, Timo",Nissan Violet GTS,FI,G4,NA,NA,SS32,differential
+NA,7,"Pond, Tony",Nissan Violet GTS,GB,G4,NA,NA,SS8,accident
+NA,8,"Vudafieri, Adartico",Lancia Rally 037,IT,B,NA,NA,SS5,supercharger
+NA,11,"Wittman, Franz",Audi quattro,AT,G4,NA,NA,SS34,steering
+NA,15,"Cinotto, Michele",Audi quattro,IT,G4,NA,NA,SS8,electrics
+NA,18,"Fritzinger, Klaus",Toyota Celica,DE,G4,NA,NA,SS23,halfshaft
+NA,19,"Coppier, Alain",Citroen Visa,FR,B,NA,NA,SS1,front suspension
+NA,21,"Iwashita, Yoshio",Nissan Silvia,JP,G2,NA,NA,post-event,illegal engine
+NA,29,"Kojimoto, Juichi",Nissan Skyline,JP,A,NA,NA,SS32,accident
+NA,33,"Moschous, Michael",Nissan 160J,GR,G2,NA,NA,SS41,clutch
+NA,47,"Carello, Tony",Fiat 131 Abarth,IT,G4,NA,NA,SS8,gearbox
+NA,125,"Panourgias, Christos",Renault 18,GR,A,NA,NA,post-event,technical irregularities

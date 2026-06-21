@@ -1,0 +1,33 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,14,"Munari, Sandro",Lancia Stratos HF,IT,G4,6h 25m 59s,NA,NA,NA
+2,2,"Mikkola, Hannu",Fiat 124 Abarth Spider,FI,G4,+3m 06s,NA,NA,NA
+3,10,"Alen, Markku",Fiat 124 Abarth Spider,FI,G4,+3m 47s,NA,NA,NA
+4,12,"Bacchelli, Fulvio",Fiat 124 Abarth Spider,IT,G4,+21m 03s,NA,NA,NA
+5,20,"Piot, Jean-Francois",Renault 17 Gordini,FR,G2,+25m 16s,NA,NA,NA
+6,28,"Henry, Jacques",Renault-Alpine A110,FR,G4,+26m 13s,NA,NA,NA
+7,56,"Rouget, Jean-Pierre",Porsche 911,FR,G3,+59m 01s,NA,NA,NA
+8,40,"Frequelin, Guy",Alfa Romeo 2000 GTV,FR,G1,+1h 07m 31s,NA,NA,NA
+9,41,"Labaune, Noel",Porsche 911,FR,G3,+1h 20m 26s,NA,NA,NA
+10,30,"Dorche, Christian",BMW 2002,FR,G1,+1h 23m 26s,NA,NA,NA
+11,103,"Andre-Poyaud, Michel",Renault-Alpine A110,FR,G3,+1h 32m 29s,NA,NA,NA
+12,48,"Stawowiak, Maciej",Polski-Fiat 125p,PL,G2,+1h 32m 36s,NA,NA,NA
+13,26,"Laurent, Claude",Citroen GS,FR,G2,+1h 35m 56s,NA,NA,NA
+16,45,"Bien, Marian",Polski-Fiat 125p,PL,G2,+1h 46m 30s,NA,NA,NA
+36,78,"von der Leyen, freiherr",Renault-Alpine A110,DE,G3,NA,NA,NA,NA
+NA,1,"Andruet, Jean-Claude",Lancia Stratos HF,FR,G4,NA,NA,SS6,accident
+NA,3,"Ballestrieri, Amilcare",Lancia Beta,IT,G4,NA,NA,Leg 1,engine
+NA,4,"Rohrl, Walter",Opel Ascona,DE,G2,NA,NA,SS7,engine
+NA,5,"Therier, Jean-Luc",Renault-Alpine A310 1800,FR,G4,NA,NA,SS5,accident
+NA,6,"Darniche, Bernard",Fiat 124 Abarth Spider,FR,G4,NA,NA,SS4,engine
+NA,8,"Nicolas, Jean-Pierre",Renault-Alpine A110,FR,G4,NA,NA,SS11,accident
+NA,9,"Carlsson, Lars",Opel Ascona,SE,G2,NA,NA,SS14,punctures
+NA,11,"Warmbold, Achim",Renault-Alpine A310 1800,DE,G4,NA,NA,SS4,accident
+NA,17,"Pinto, Raffaele",Lancia Stratos HF,IT,G4,NA,NA,SS6,accident
+NA,23,"Ragnotti, Jean",Renault-Alpine A110,FR,G4,NA,NA,SS5,accident
+NA,24,"Kullang, Anders",Opel Ascona,SE,G2,NA,NA,before SS7,road accident
+NA,27,"Robini, Michel",Opel Commodore,MC,G2,NA,NA,SS4,off road
+NA,33,"Varisella, Marek",Polski-Fiat 125p,PL,G2,NA,NA,NA,halfshaft
+NA,38,"Mucha, Robert",Polski-Fiat 125p,PL,G2,NA,NA,NA,engine
+NA,52,"Nowicki, Ryszard",Polski-Fiat 125p,PL,G2,NA,NA,NA,engine
+NA,55,"Ciecierzynski, Tomasz",Polski-Fiat 125p,PL,G2,NA,NA,NA,cooling
+NA,96,"Ambrogetti, Maurizio",Lancia Fulvia,IT,G4,NA,NA,SS22,rear axle

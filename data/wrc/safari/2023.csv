@@ -1,0 +1,32 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,17,"Ogier, Sebastien",Toyota GR Yaris Rally1,FR,Rally1,"3h 30m 42,5s",NA,NA,NA
+2,69,"Rovanpera, Kalle",Toyota GR Yaris Rally1,FI,Rally1,"+6,7s",NA,NA,NA
+3,33,"Evans, Elfyn",Toyota GR Yaris Rally1,GB,Rally1,"+2m 58,5s",NA,NA,NA
+4,18,"Katsuta, Takamoto",Toyota GR Yaris Rally1,JP,Rally1,"+3m 23,8s",NA,NA,NA
+5,6,"Sordo Castillo, Daniel",Hyundai i20 N Rally1,ES,Rally1,"+5m 05,4s",0:10,NA,NA
+6,8,"Tanak, Ott",Ford Puma Rally1,EE,Rally1,"+9m 14,4s",NA,NA,NA
+7,7,"Loubet, Pierre-Louis",Ford Puma Rally1,FR,Rally1,"+16m 15,7s",NA,NA,NA
+8,21,"Kajetanowicz, Kajetan",Skoda Fabia,PL,Rally2,"+26m 33,4s",NA,NA,NA
+9,20,"Solberg, Oliver",Skoda Fabia,SE,Rally2,"+27m 04,0s",NA,NA,NA
+10,23,"Prokop, Martin",Ford Fiesta,CZ,Rally2,"+38m 01,1s",NA,NA,NA
+11,26,"Tundo, Carl",Skoda Fabia,KE,Rally2,"+40m 56,1s",NA,NA,NA
+12,4,"Lappi, Esapekka",Hyundai i20 N Rally1,FI,Rally1,"+42m 14,9s",0:10,NA,NA
+13,24,"Kremer, Armin",Skoda Fabia,DE,Rally2,"+43m 58,3s",1:10,NA,NA
+14,34,"Dominguez Jr., Diego",Ford Fiesta,PY,Rally3,"+1h 07m 14,6s",NA,NA,NA
+15,27,"Chwist, Daniel",Skoda Fabia,PL,Rally2,"+1h 02m 09,6s",NA,NA,NA
+16,32,"Singh Vohra, Samman",Skoda Fabia,KE,Rally2,"+1h 53m 05,8s",NA,NA,NA
+17,38,"Bailey, Jason",Ford Fiesta,CA,Rally3,"+2h 02m 23,4s",NA,NA,NA
+18,37,"Kimathi, McRae",Ford Fiesta,KE,Rally3,"+2h 13m 12,2s",1:00,NA,NA
+19,44,"Sachania, Nikhil",Mitsubishi Lancer Evo X,GB,ASN,"+2h 21m 50,6s",4:10,NA,NA
+20,45,"Rathod, Minesh",Mitsubishi Lancer Evo X,KE,ASN,"+2h 29m 49,0s",6:00,NA,NA
+NA,9,"Serderidis, Jourdan",Ford Puma Rally1,GR,Rally1,NA,NA,TC12,mechanical
+NA,11,"Neuville, Thierry",Hyundai i20 N Rally1,BE,Rally1,NA,NA,NA,steward decision: illegal recce
+NA,22,"Munster, Gregoire",Ford Fiesta,LU,Rally2,NA,NA,SS17,accident
+NA,25,"Patel, Karan",Ford Fiesta,KE,Rally2,NA,NA,TC16C,mechanical
+NA,28,"Diaz-Aboitiz, Miguel",Skoda Fabia,ES,Rally2,NA,NA,SS10,mechanical
+NA,29,"Vasilakis, Georgios",Ford Fiesta,GR,Rally2,NA,NA,TC13A,accident
+NA,30,"Virani, Aakif",Skoda Fabia,KE,Rally2,NA,NA,TC19A,me
+NA,35,"Anwar, Hamza",Ford Fiesta,KE,Rally3,NA,NA,SS8,mechanical
+NA,36,"Wahome, Jeremiah",Ford Fiesta,KE,Rally3,NA,NA,SS14,mechanical
+NA,40,"Davite, Giancarlo",Ford Fiesta,IT,Rally2,NA,NA,SS12,mechanical
+NA,41,"Nzioka, Evans",Mitsubishi Lancer Evo X,KE,ASN,NA,NA,SS18,mechanical

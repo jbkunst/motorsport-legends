@@ -1,0 +1,69 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,11,"Neuville, Thierry",Hyundai i20 N Rally1,BE,Rally1,"3h 09m 30,9s",NA,NA,NA
+2,17,"Ogier, Sebastien",Toyota GR Yaris Rally1,FR,Rally1,"+16,1s",NA,NA,NA
+3,33,"Evans, Elfyn",Toyota GR Yaris Rally1,GB,Rally1,"+45,2s",NA,NA,NA
+4,8,"Tanak, Ott",Hyundai i20 N Rally1,EE,Rally1,"+1m 59,8s",NA,NA,NA
+5,16,"Fourmaux, Adrien",Ford Puma Rally1,FR,Rally1,"+3m 36,9s",NA,NA,NA
+6,9,"Mikkelsen, Andreas",Hyundai i20 N Rally1,NO,Rally1,"+5m 34,6s",NA,NA,NA
+7,18,"Katsuta, Takamoto",Toyota GR Yaris Rally1,JP,Rally1,"+8m 28,5s",NA,NA,NA
+8,20,"Rossel, Yohan",Citroen C3,FR,Rally2,"+10m 29,8s",NA,NA,NA
+9,25,"Lopez, Pepe",Skoda Fabia,ES,Rally2,"+10m 33,8s",NA,NA,NA
+10,21,"Gryazin, Nikolay",Citroen C3,RU,Rally2,"+10m 45,2s",NA,NA,NA
+11,24,"Ciamin, Nicolas",Hyundai i20,FR,Rally2,"+14m 44,1s",NA,NA,NA
+12,23,"Pajari, Sami",Toyota Yaris,FI,Rally2,"+15m 16,3s",NA,NA,NA
+13,27,"Lefebvre, Stephane",Toyota Yaris,FR,Rally2,"+16m 28,3s",NA,NA,NA
+14,29,"Solans Baldo, Jan",Toyota Yaris,ES,Rally2,"+19m 43,3s",NA,NA,NA
+15,53,"Berfa, Jordan",Hyundai i20,FR,Rally2,"+29m 22,0s",NA,NA,NA
+16,35,"Burri, Olivier",Skoda Fabia,CH,Rally2,"+30m 46,6s",NA,NA,NA
+17,32,"Miele, Mauro",Skoda Fabia,IT,Rally2,"+31m 49,0s",NA,NA,NA
+18,46,"Cerny, Jan",Ford Fiesta,CZ,Rally3,"+32m 38,2s",NA,NA,NA
+19,57,"Chatillon, Matteo",Renault Clio,FR,Rally3,"+32m 40,1s",NA,NA,NA
+20,13,"Munster, Gregoire",Ford Puma Rally1,LU,Rally1,"+34m 40,0s",NA,NA,NA
+21,52,"Cartier, Victor",Toyota Yaris,FR,Rally2,"+35m 40,6s",NA,NA,NA
+22,55,"Lafay, Pierre",Renault Clio,FR,Rally3,"+37m 13,3s",NA,NA,NA
+23,63,"Fontana, Matteo",Peugeot 208,IT,Rally4,"+39m 56,3s",NA,NA,NA
+24,39,"Boland, Eamonn",Ford Fiesta,IE,Rally2,"+41m 04,6s",NA,NA,NA
+25,40,"Serderidis, Jourdan",Volkswagen Polo,GR,Rally2,"+41m 48,1s",NA,NA,NA
+26,47,"Rossi, Ghjuvanni",Renault Clio,FR,Rally3,"+43m 20,8s",2:20,NA,NA
+27,65,"Latil, Nicolas",Peugeot 208,FR,Rally4,"+43m 48,3s",NA,NA,NA
+28,49,"Ganguet, Christophe",Skoda Fabia,FR,Rally2,"+44m 36,3s",0:10,NA,NA
+29,50,"Prat, Jeremy",Ford Fiesta,FR,Rally2,"+45m 36,3s",1:30,NA,NA
+30,30,"Mauro Sanchez, Alejandro",Skoda Fabia,MX,Rally2,"+48m 37,7s",NA,NA,NA
+31,37,"Laurencich, Federico",Skoda Fabia,IT,Rally2,"+48m 54,0s",NA,NA,NA
+32,43,"Chiarani, Maurizio",Skoda Fabia,IT,Rally2,"+50m 36,7s",NA,NA,NA
+33,34,"Dapra, Roberto",Skoda Fabia,IT,Rally2,"+50m 47,0s",NA,NA,NA
+34,64,"Oldani, Marco",Peugeot 208,IT,Rally4,"+51m 57,0s",0:10,NA,NA
+35,80,"Jamet, Jeremy",Renault Clio,FR,Rally5,"+52m 48,2s",NA,NA,NA
+36,44,"Marchino, Filippo",Skoda Fabia,IT,Rally2,"+53m 00,2s",NA,NA,NA
+37,61,"Baffoun, Philippe",Renault-Alpine A110,FR,RGT,"+53m 58,1s",NA,NA,NA
+38,77,"Charnay, Julien",Renault Clio,FR,Rally5,"+54m 19,3s",0:10,NA,NA
+39,59,"Royere, Eric",Renault-Alpine A110,FR,RGT,"+54m 54,3s",NA,NA,NA
+40,22,"Solberg, Oliver",Skoda Fabia,SE,Rally2,"+55m 37,3s",3:50,NA,NA
+41,68,"Rota, Remy",Renault Clio,FR,Rally4,"+56m 05,7s",1:00,NA,NA
+42,70,"Perrard, Frederic",Peugeot 208,FR,Rally4,"+1h 01m 18,4s",NA,NA,NA
+43,66,"Boisseranc, Mickael",Renault Clio,FR,Rally4,"+1h 02m 49,5s",NA,NA,NA
+44,74,"dal Zotto, Gregory",Peugeot 208,FR,Rally4,"+1h 04m 58,4s",0:10,NA,NA
+45,83,"Arnaud, Julien",Renault Clio,FR,Rally5,"+1h 05m 16,1s",NA,NA,NA
+46,73,"Michellier, Gilles",Peugeot 208,FR,Rally4,"+1h 05m 18,2s",NA,NA,NA
+47,78,"Vialle, Lilian",Renault Clio,FR,Rally5,"+1h 06m 04,8s",NA,NA,NA
+48,54,"Oberti, Damien",Renault Clio,FR,Rally3,"+1h 06m 32,6s",NA,NA,NA
+49,81,"Matteuzzi, Giacomo",Renault Clio,IT,Rally5,"+1h 10m 54,0s",NA,NA,NA
+50,82,"Biagetti, Lucas",Renault Clio,FR,Rally5,"+1h 11m 12,9s",NA,NA,NA
+51,62,"Berard, Christophe",Renault-Alpine A110,FR,RGT,"+1h 11m 19,0s",NA,NA,NA
+52,38,"Locatelli, Massimiliano",Skoda Fabia,IT,Rally2,"+1h 12m 15,2s",2:30,NA,NA
+53,41,"Morato, Maurizio",Skoda Fabia,IT,Rally2,"+1h 14m 16,5s",NA,NA,NA
+54,67,"Filippi, Eric",Renault Clio,FR,R3,"+1h 17m 08,9s",NA,NA,NA
+55,28,"Bouffier, Bryan",Toyota Yaris,FR,Rally2,"+1h 17m 31,7s",NA,NA,NA
+56,79,"Morel, Jean-Luc",Renault Clio,FR,Rally5,"+1h 19m 14,3s",NA,NA,NA
+57,72,"Delgery, Francois",Renault Clio,FR,R3,"+1h 20m 31,4s",0:10,NA,NA
+58,84,"Andrade, Fernando",Renault Clio,EC,Rally5,"+1h 26m 32,4s",0:10,NA,NA
+59,75,"Palmero, Jean Paul",Peugeot 208,MC,Rally4,"+1h 26m 36,8s",0:30,NA,NA
+60,45,"Vossen, Henk",Hyundai i20,NL,Rally2,"+1h 27m 00,6s",0:10,NA,NA
+61,60,"Fumal, Armand",Renault-Alpine A110,BE,RGT,"+1h 36m 22,9s",NA,NA,NA
+62,71,"Morini, Olivier",Peugeot 208,FR,Rally4,"+1h 44m 59,7s",NA,NA,NA
+63,76,"Sekuljica, Slaven",Renault Clio,HR,Rally5,"+1h 49m 16,9s",0:50,NA,NA
+64,51,"Ressegaire, Nicolas",Volkswagen Polo,FR,Rally2,"+1h 51m 54,7s",NA,NA,NA
+NA,26,"Ingram, Christopher",Skoda Fabia,GB,Rally2,NA,NA,SS7,mechanical
+NA,31,"Wartique, John",Ford Fiesta,BE,Rally2,NA,NA,TC2,mechanical
+NA,56,"Dolce, Renaud",Renault Clio,FR,Rally3,NA,NA,SS13,off road
+NA,58,"Astier, Raphael",Renault-Alpine A110,FR,RGT,NA,NA,SS1,mechanical

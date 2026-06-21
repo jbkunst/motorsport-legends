@@ -1,0 +1,53 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,5,"Sainz, Carlos",Subaru Impreza 555,ES,A8,5h 05m 58s,NA,NA,NA
+2,4,"McRae, Colin",Subaru Impreza 555,GB,A8,+51s,1:00,NA,NA
+3,6,"Liatti, Piero",Subaru Impreza 555,IT,A8,+1m 58s,NA,NA,NA
+4,7,"Delecour, Francois",Ford Escort RS Cosworth,FR,A8,+2m 40s,NA,NA,NA
+5,12,"Aghini, Andrea",Mitsubishi Lancer Evo III,IT,A8,+2m 54s,NA,NA,NA
+6,16,"Trelles, Gustavo",Toyota Celica GT-Four (ST205),UY,A8,+5m 56s,NA,NA,NA
+7,19,"Gomez Marco, Oriol",Renault Clio Williams,ES,A7,+12m 03s,NA,NA,NA
+8,22,"Navarra, Andrea",Toyota Celica GT-Four (ST205),IT,A8,+12m 22s,NA,NA,NA
+9,31,"Bassas, Josep",BMW M3,ES,A8,+22m 08s,NA,NA,NA
+10,29,"Postel, Ivan",Subaru Impreza 555,NL,A8,+26m 40s,2:30,NA,NA
+11,14,"Madeira, Rui",Mitsubishi Lancer Evo III,PT,N4,+27m 54s,NA,NA,NA
+12,26,"Ducruet, Daniel",Lancia Delta HF Integrale,FR,A8,+31m 09s,4:00,NA,NA
+13,39,"Ghandour, Ziad",Subaru Impreza,LB,A8,+31m 35s,NA,NA,NA
+14,41,"Guixeras, David",Peugeot 106,ES,A5,+35m 33s,1:00,NA,NA
+15,34,"Stacey, Hans",Mitsubishi Lancer Evo III,NL,N4,+39m 17s,NA,NA,NA
+16,33,"Nittel, Uwe",Toyota Celica GT-Four (ST205),DE,N4,+40m 19s,7:30,NA,NA
+17,43,"Azcona, Javier",Renault Clio Williams,ES,N3,+43m 39s,NA,NA,NA
+18,61,"Canellas, Salvador",Seat Ibiza GTi 16V,ES,N3,+50m 57s,NA,NA,NA
+19,68,"Frau, Richard",Renault Clio Williams,FR,N3,+53m 30s,NA,NA,NA
+20,48,"Urteu, F.",Renault Clio Williams,AD,N3,+56m 31s,NA,NA,NA
+21,72,"Muniente, Manuel",Peugeot 106,ES,N1,+59m 27s,NA,NA,NA
+22,74,"Sanfilippo, Ignacio",Peugeot 106,ES,N1,+1h 00m 35s,NA,NA,NA
+23,76,"Serracanta, J.",Peugeot 106,ES,N1,+1h 02m 57s,NA,NA,NA
+24,75,"Martinez Toyos, Antonio",Peugeot 106,ES,N1,+1h 17m 06s,NA,NA,NA
+25,54,"Olivet, Denis",Renault Clio,FR,A7,+1h 17m 35s,NA,NA,NA
+26,67,"Simon, S.",Seat Ibiza GTi 16V,ES,N3,+1h 20m 36s,NA,NA,NA
+27,65,"Gallen, Benet",Seat Ibiza GTi 16V,ES,N3,+1h 20m 39s,5:00,NA,NA
+28,91,"Chaume, J.",Peugeot 205 Rallye,ES,N1,+1h 21m 03s,NA,NA,NA
+29,45,"Alvarez, F.",Renault Clio Williams,ES,N3,+1h 22m 57s,NA,NA,NA
+30,59,"Font Guixaro, Joan",Ford Sierra RS Cosworth,ES,N4,+1h 23m 47s,NA,NA,NA
+31,71,"Hamelin, Didier",Honda Civic,FR,N2,+1h 26m 11s,NA,NA,NA
+32,64,"Boza, C.",Seat Ibiza GTi 16V,ES,N3,+1h 26m 15s,NA,NA,NA
+33,83,"Sanchez, A.",Peugeot 106,ES,N1,+1h 30m 28s,NA,NA,NA
+34,70,"Saly, Paul",Renault Clio Williams,FR,N3,+1h 34m 11s,NA,NA,NA
+35,50,"Balsells, J.",Renault Clio Williams,ES,N3,+1h 35m 52s,NA,NA,NA
+36,98,"Pujadas, J.",Peugeot 205 Rallye,ES,N1,+1h 39m 35s,1:00,NA,NA
+37,46,"Reguera, R.",Renault Clio Williams,ES,N3,+1h 40m 59s,6:00,NA,NA
+38,96,"Moya, X.",Peugeot 205 Rallye,ES,N1,+1h 42m 31s,NA,NA,NA
+39,56,"Freire, Paulo",Toyota Corolla GT,PT,A5,+1h 47m 13s,6:00,NA,NA
+40,53,"West, Nick",Peugeot 205 GTI,GB,A7,+1h 48m 35s,NA,NA,NA
+41,84,"Tapia, Ramon",Peugeot 106,ES,N1,+1h 48m 40s,NA,NA,NA
+42,60,"Ferradas, M.",Seat Ibiza GTi 16V,ES,N3,+2h 10m 18s,4:00,NA,NA
+NA,1,"Auriol, Didier",Toyota Celica GT-Four (ST205),FR,A8,NA,NA,post-event,illegal turbo restrictor
+NA,2,"Kankkunen, Juha",Toyota Celica GT-Four (ST205),FI,A8,NA,NA,SS16,accident
+NA,3,"Schwarz, Armin",Toyota Celica GT-Four (ST205),DE,A8,NA,NA,SS10,accident
+NA,8,"Thiry, Bruno",Ford Escort RS Cosworth,BE,A8,NA,NA,SS1,suspension
+NA,11,"Makinen, Tommi",Mitsubishi Lancer Evo III,FI,A8,NA,NA,SS18,accident
+NA,17,"Recalde, Jorge",Mitsubishi Lancer Evo III,AR,N4,NA,NA,SS1,accident
+NA,18,"Puras, Jesus",Citroen ZX 16S,ES,A7,NA,NA,SS12,suspension
+NA,20,"Holderied, Isolde",Mitsubishi Lancer Evo III,DE,N4,NA,NA,SS1,accident
+NA,21,"Ventura, Jordi",Seat Ibiza GTi 16V,ES,A7,NA,NA,SS1,accident
+NA,25,"Rius, Antonio",Seat Ibiza GTi 16V,ES,A7,NA,NA,SS11,accident

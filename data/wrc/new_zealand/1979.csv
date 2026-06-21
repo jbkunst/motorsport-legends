@@ -1,0 +1,83 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Mikkola, Hannu",Ford Escort RS1800,FI,G4,8h 05m 47s,0:45,NA,NA
+2,5,"Robson, Blair",Ford Escort RS,NZ,G4,+21m 16s,NA,NA,NA
+3,3,"Vatanen, Ari",Ford Escort RS,FI,G4,+23m 54s,6:00,NA,NA
+4,9,"Adams, Paul",Ford Escort RS,NZ,G4,+24m 07s,3:00,NA,NA
+5,29,"Murland, Shane",Vauxhall Chevette 2300,NZ,G4,+58m 36s,5:45,NA,NA
+6,19,"Parkes, David",Ford Escort 1600,NZ,G2,+1h 03m 47s,0:30,NA,NA
+7,16,"Green, Brian",Ford Escort RS,NZ,G4,+1h 06m 50s,1:00,NA,NA
+8,27,"Goss, Roger",Mazda RX3,NZ,G2,+1h 20m 28s,1:15,NA,NA
+9,30,"Stewart, Malcolm",Ford Escort Mexico,NZ,G2,+1h 21m 34s,2:30,NA,NA
+10,26,"Robb, Bob",Datsun 710,NZ,G2,+1h 31m 46s,0:45,NA,NA
+11,28,"Goldsbury, Alfred",Fiat 131 Racing,NZ,G1,+1h 32m 45s,0:30,NA,NA
+12,38,"Brown, Robert",Mazda RX3,NZ,G1,+1h 50m 32s,0:15,NA,NA
+13,34,"Wilson, Ray",Morris Mini,NZ,G2,+1h 51m 25s,NA,NA,NA
+14,24,"Adamson, Ken",Toyota Corolla,NZ,G2,+1h 53m 43s,20:00,NA,NA
+15,50,"McKnight, Rusty",Mazda RX3,NZ,G2,+1h 57m 06s,1:30,NA,NA
+16,52,"Malley, Dermott",Mazda RX3,NZ,G2,+2h 00m 27s,4:00,NA,NA
+17,45,"Piper, Gerry",Toyota Corolla,NZ,G1,+2h 07m 28s,0:15,NA,NA
+18,57,"Rawstron, Brent",Mazda RX3,GB,G2,+2h 21m 31s,8:45,NA,NA
+19,42,"Bruce, Errol",Ford Escort,NZ,G1,+2h 24m 05s,1:15,NA,NA
+20,48,"Kirk-Burnnand, Chris",Toyota Corolla,NZ,G2,+2h 29m 26s,0:45,NA,NA
+21,51,"Ellis, Glenn",Mazda RX3,NZ,G2,+2h 32m 38s,1:15,NA,NA
+22,44,"Reid, Bruce",Ford Escort,NZ,G2,+2h 36m 17s,9:15,NA,NA
+23,70,"Riches, Gavin",Toyota Corolla,NZ,G2,+2h 46m 11s,12:00,NA,NA
+24,22,"Tee, John",Ford Escort,NZ,G2,+2h 55m 15s,16:30,NA,NA
+25,53,"Sprague, Gary",Mazda RX2,NZ,G1,+2h 58m 53s,NA,NA,NA
+26,55,"Moore, Peter",Ford Escort,NZ,G2,+3h 12m 29s,14:00,NA,NA
+27,68,"Prouse, Richard",Hillman Avenger,NZ,G1,+3h 24m 11s,13:00,NA,NA
+28,71,"Glenn, David",Ford Escort,NZ,G1,+3h 33m 34s,23:30,NA,NA
+29,77,"McKenzie, Stewart",Datsun Sunny,NZ,G2,+4h 11m 57s,42:30,NA,NA
+30,65,"Thompson, Steve",Ford Escort,NZ,G2,+4h 19m 02s,25:30,NA,NA
+31,76,"Greenland, Rangi",Honda Civic,NZ,G1,+4h 22m 13s,7:30,NA,NA
+32,81,"Cameron, Mike",Mitsubishi Lancer,NZ,G1,+4h 25m 08s,32:30,NA,NA
+33,64,"Ornstien, Phil",Hillman Avenger,NZ,G1,+4h 32m 39s,30:00,NA,NA
+34,84,"Pearson, Paul",Ford Escort,NZ,G2,+4h 40m 34s,25:00,NA,NA
+35,66,"Johnstone, Richard",Datsun 710,NZ,G2,+4h 43m 43s,22:45,NA,NA
+36,85,"- Unnamed -, - Unnamed -",? Unknown Make ? ? Unknown Model ?,NA,NA,+4h 48m 13s,40:15,NA,NA
+37,80,"McNair, Richard",Mazda RX3,NZ,G2,+4h 52m 38s,21:00,NA,NA
+NA,2,"Airikkala, Pentti",Vauxhall Chevette 2300,FI,G4,NA,NA,SS18,electrics
+NA,4,"Salonen, Timo",Datsun 160J,FI,G2,NA,NA,post-event,refused post-event scrutineering
+NA,6,"Dawson, Andy",Datsun 160J,GB,G2,NA,NA,post-event,refused post-event scrutineering
+NA,7,"Donald, Jim",Ford Escort RS,NZ,G4,NA,NA,SS16,connecting rod
+NA,10,"Woolf, John",Mazda RX3,NZ,G2,NA,NA,SS18,rear axle
+NA,11,"Marshall, Mike",Ford Escort RS,NZ,G4,NA,NA,SS20,head gasket
+NA,12,"Collier, Howard",Ford Escort RS,NZ,G4,NA,NA,SS18,gead gasket
+NA,13,"Leonard, Leo",Ford Escort RS,NZ,G4,NA,NA,SS19,no oil
+NA,14,"Couch, Bob",Ford Escort RS,NZ,G4,NA,NA,SS17,differential
+NA,15,"Teesdale, Tony",Ford Escort RS,NZ,G2,NA,NA,SS16,halfshaft
+NA,17,"Armstrong, Hugh",Ford Escort RS,NZ,G4,NA,NA,SS9,head gasket
+NA,18,"Davidson, Paddy",Ford Escort TwinCam,NZ,G2,NA,NA,SS29,accident
+NA,20,"Jennings, Mark",Ford Escort RS,NZ,G4,NA,NA,after SS5,unknown
+NA,21,"Chandler, Morrie",Mitsubishi Lancer,NZ,G2,NA,NA,end of Leg 2,unknown
+NA,23,"Sergel, John",Ford Escort RS,NZ,G2,NA,NA,SS24,unknown
+NA,25,"Gerard, Rob",Ford Escort,NZ,G2,NA,NA,after SS5,unknown
+NA,31,"Kidd, Frank",Ford Escort,NZ,G2,NA,NA,SS4,OTL
+NA,32,"Baker, Tony",Vauxhall Chevette 2300,NZ,G4,NA,NA,SS21,OTL
+NA,33,"de Pina, Graeme",Mazda RX3,NZ,G2,NA,NA,end of Leg 2,unknown
+NA,35,"Fergus, Alan",Mazda RX3,NZ,G2,NA,NA,SS38,OTL
+NA,36,"Fraser, Paul",Ford Escort,NZ,G2,NA,NA,SS3,unknown
+NA,37,"Cullen, Peter",Ford Escort,NZ,G2,NA,NA,SS19,unknown
+NA,39,"McKenzie, Bruce",Ford Escort Mexico,NZ,G2,NA,NA,SS9,unknown
+NA,40,"Robertson, Baron",Vauxhall Chevette 2300,AU,G4,NA,NA,SS6,OTL
+NA,41,"McConnell, Dennis",Ford Escort Mexico,NZ,G2,NA,NA,SS38,unknown
+NA,43,"Kershaw, John",Vauxhall Magnum,NZ,G2,NA,NA,SS19,unknown
+NA,46,"Mackrow, Dave",Hillman Avenger,NZ,G1,NA,NA,SS5,unknown
+NA,47,"McFarlane, Bill",Ford Escort,NZ,G4,NA,NA,SS27,unknown
+NA,49,"Kelsey, Richard",Ford Escort,NZ,G2,NA,NA,SS37,unknown
+NA,54,"Bell, Terry",Ford Escort,NZ,G1,NA,NA,end of Leg 2,unknown
+NA,56,"Lane, Mike",Toyota Corolla,NZ,G2,NA,NA,end of Leg 2,unknown
+NA,58,"Thexton, David",Datsun 120Y,NZ,G2,NA,NA,SS31,unknown
+NA,59,"Taylor, Cam",Mazda RX3,NZ,G2,NA,NA,SS1,unknown
+NA,60,"Tinpany, Larry",Skoda 120,NZ,G2,NA,NA,SS27,unknown
+NA,61,"Lilleby, Rolf",Ford Escort,NZ,G2,NA,NA,end of Leg 2,unknown
+NA,62,"Townsend, Doug",Ford Escort,NZ,G2,NA,NA,SS34,unknown
+NA,63,"King, Ken",Ford Escort RS,NZ,G2,NA,NA,SS34,unknown
+NA,67,"Dahl, Peter",Datsun 120Y,NZ,G2,NA,NA,end of Leg 2,unknown
+NA,69,"Nicholl, Barry",Mitsubishi Lancer,NZ,G2,NA,NA,SS1,unknown
+NA,72,"Cowen, Chris",Toyota Corolla,NZ,G2,NA,NA,SS24,unknown
+NA,73,"McMillan, Lyell",Toyota Corolla,NZ,G2,NA,NA,SS36,unknown
+NA,74,"Walker, Brian",Ford Escort,NZ,G2,NA,NA,SS1,unknown
+NA,75,"Matheson, Wayne",Ford Escort,NZ,G2,NA,NA,after SS19,unknown
+NA,79,"Davis, Brian",Ford Escort,NZ,G2,NA,NA,SS6,OTL
+NA,82,"Goodin, Ian",Ford Escort,NZ,G1,NA,NA,SS26,unknown

@@ -1,0 +1,27 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Therier, Jean-Luc",Renault-Alpine A110 1800,FR,G4,7h 37m 58s,NA,NA,NA
+2,12,"Aaltonen, Rauno",Fiat 124 Abarth Spider,FI,G4,+7m 1s,NA,NA,NA
+3,5,"Nicolas, Jean-Pierre",Renault-Alpine A110 1800,FR,G4,+7m 58s,NA,NA,NA
+4,3,"Lindberg, Hakan",Fiat 124 Abarth Spider,SE,G4,+19m 23s,NA,NA,NA
+5,19,"Fischer, Georg",Volkswagen 1303S,AT,G2,+56m 59s,NA,NA,NA
+6,21,"Bochnicek, Richard",Citroen DS23,AT,G1,+1h 2m 16s,NA,NA,NA
+7,9,"Sclater, Chris",Ford Escort RS1600,GB,G2,+1h 5m 38s,NA,NA,NA
+8,26,"Doppelreiter, Helmut",Volkswagen 1303S,AT,G1,+2h 2m 3s,NA,NA,NA
+9,42,"Psihas, John",Toyota Corolla,GR,G2,+2h 5m 49s,NA,NA,NA
+10,56,"Bardopoulos, Ioannis",Audi 80,GR,G1,+2h 39m 1s,NA,NA,NA
+11,NA,"Hansson, Ted",Opel Ascona,SE,G2,+3h 37m 13s,NA,NA,NA
+NA,2,"Warmbold, Achim",BMW 2002,DE,G2,NA,NA,after SS6,accident
+NA,4,"Andersson, Ove",Toyota Celica,SE,G2,NA,NA,Leg 1,engine
+NA,6,"Waldegard, Bjorn",BMW 2002,SE,G2,NA,NA,SS2-3,head gasket
+NA,7,"Kallstrom, Harry",Volkswagen 1303S,SE,G2,NA,NA,SS10,alternator
+NA,8,"Paganelli, Alcide",Fiat 124 Abarth,IT,G2,NA,NA,Leg 1,steering
+NA,10,"Darniche, Bernard",Renault-Alpine A110,FR,G4,NA,NA,after SS4,driver illness
+NA,11,"Janger, Gunther",Volkswagen 1303S,AT,G2,NA,NA,SS8,accident
+NA,15,"Fall, Tony",Volkswagen 1303S,GB,G2,NA,NA,NA,engine
+NA,16,"Sparrow, Will",Ford Escort RS1600,GB,G2,NA,NA,Leg 1,fan belt
+NA,17,"Livieratos, Tassos",Renault-Alpine A110,GR,G4,NA,NA,SS19,gearbox
+NA,NA,"Donner, Frederick",Opel Ascona,FI,NA,NA,NA,SS4,accident
+NA,NA,"Merlone, Lorenzo",Volvo 142S,IT,NA,NA,NA,SS6,gearbox
+NA,NA,"Pesmazoglou, Ioannis",Opel Ascona,GR,NA,NA,NA,Leg 1,cooling
+NA,NA,"Sipahi, Ali",BMW 2002,TU,G1,NA,NA,NA,distributor
+NA,NA,"Zweibaumer, Zakci",BMW 2002Tii,DE,NA,NA,NA,NA,suspension

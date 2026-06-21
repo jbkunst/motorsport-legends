@@ -1,0 +1,56 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"Hirvonen, Mikko",Ford Focus RS WRC 09,FI,A8,"3h 09m 30,4s",NA,NA,NA
+2,1,"Loeb, Sebastien",Citroen C4 WRC,FR,A8,"+42,3s",NA,NA,NA
+3,4,"Latvala, Jari-Matti",Ford Focus RS WRC 09,FI,A8,"+1m 15,4s",NA,NA,NA
+4,2,"Sordo Castillo, Daniel",Citroen C4 WRC,ES,A8,"+2m 41,6s",NA,NA,NA
+5,7,"Ogier, Sebastien",Citroen C4 WRC,FR,A8,"+4m 15,3s",NA,NA,NA
+6,6,"Solberg, Henning",Ford Focus RS WRC 08,NO,A8,"+5m 53,4s",0:30,NA,NA
+7,12,"Wilson, Matthew",Ford Focus RS WRC 08,GB,A8,"+7m 53,9s",NA,NA,NA
+8,15,"Ostberg, Mads",Subaru Impreza WRC2008,NO,A8,"+9m 22,2s",NA,NA,NA
+9,11,"Solberg, Petter",Citroen C4 WRC,NO,A8,"+10m 17,5s",NA,NA,NA
+10,49,"Andersson, Per-Gunnar",Skoda Fabia Super 2000,SE,N4,"+12m 18,9s",0:10,NA,NA
+11,70,"Mikkelsen, Andreas",Ford Fiesta S2000,NO,N4,"+12m 44,2s",0:10,NA,NA
+12,27,"Tuohino, Janne",Ford Fiesta S2000,FI,N4,"+13m 06,2s",NA,NA,NA
+13,14,"al-Qassimi, Khalid",Ford Focus RS WRC 08,AE,A8,"+14m 26,6s",NA,NA,NA
+14,21,"Prokop, Martin",Ford Fiesta S2000,CZ,N4,"+15m 15,3s",0:10,NA,NA
+15,24,"Sandell, Patrik",Skoda Fabia Super 2000,SE,N4,"+16m 49,0s",NA,NA,NA
+16,25,"Brynildsen, Eyvind",Skoda Fabia Super 2000,NO,N4,"+17m 06,9s",NA,NA,NA
+17,63,"van Merksteijn jr, Peter",Ford Focus RS WRC 08,NL,A8,"+17m 49,6s",0:10,NA,NA
+18,50,"Flodin, Patrik",Mitsubishi Lancer Evo IX,SE,N4,"+18m 34,3s",NA,NA,NA
+19,26,"Sousa, Bernardo",Ford Fiesta S2000,PT,N4,"+19m 24,5s",NA,NA,NA
+20,75,"Grondal, Anders",Subaru Impreza,NO,N4,"+19m 47,4s",NA,NA,NA
+21,5,"Gronholm, Marcus",Ford Focus RS WRC 08,FI,A8,"+23m 30,8s",NA,NA,NA
+22,76,"Solowow, Michal",Peugeot 207 S2000,PL,N4,"+23m 33,9s",NA,NA,NA
+23,31,"Araujo, Armindo",Mitsubishi Lancer Evo X,PT,N4,"+23m 39,2s",NA,NA,NA
+24,62,"Therman, Mattias",Ford Focus RS WRC 08,FI,A8,"+24m 03,9s",NA,NA,NA
+25,51,"Saav, Per-Arne",Skoda Fabia Super 2000,SE,N4,"+29m 58,3s",NA,NA,NA
+26,77,"Aasen, Marius",Subaru Impreza,NO,N4,"+31m 00,9s",0:10,NA,NA
+27,41,"Frisiero, Fabio",Mitsubishi Lancer Evo IX,IT,N4,"+35m 19,4s",NA,NA,NA
+28,65,"van Merksteijn, Peter",Ford Focus RS WRC 06,NL,A8,"+37m 11,6s",NA,NA,NA
+29,8,"Raikkonen, Kimi",Citroen C4 WRC,FI,A8,"+38m 37,2s",NA,NA,NA
+30,34,"Semerad, Martin",Mitsubishi Lancer Evo IX,CZ,N4,"+40m 22,1s",NA,NA,NA
+31,43,"Muhonen, Reijo",Mitsubishi Lancer Evo X,FI,N4,"+43m 59,6s",0:30,NA,NA
+32,74,"Gassner jr, Hermann",Mitsubishi Lancer Evo IX,DE,N4,"+47m 14,3s",NA,NA,NA
+33,87,"Storm, Lars",Ford Fiesta ST,SE,N3,"+48m 54,3s",0:20,NA,NA
+34,80,"Tibor, Erdi",Subaru Impreza,HU,N4,"+49m 54,0s",0:20,NA,NA
+35,81,"Samuelsson, Magnus",Subaru Impreza,SE,N4,"+50m 57,6s",0:10,NA,NA
+36,82,"Jardine, Tony",Subaru Impreza,GB,N4,"+54m 37,1s",0:10,NA,NA
+37,64,"Kuipers, Dennis",Ford Focus RS WRC 06,NL,A8,"+55m 21,8s",0:30,NA,NA
+38,78,"Boland, Eamonn",Mitsubishi Lancer Evo X,IE,N4,"+57m 34,1s",NA,NA,NA
+39,66,"Kuipers, Rene",Ford Focus RS WRC 06,NL,A8,"+58m 41,9s",1:30,NA,NA
+40,33,"Linari, Gianluca",Subaru Impreza,IT,N4,"+1h 01m 32,9s",NA,NA,NA
+41,84,"Green, Brian",Mitsubishi Lancer Evo IX,NZ,N4,"+1h 08m 46,5s",1:50,NA,NA
+42,44,"Nobre, Paulo",Mitsubishi Lancer Evo X,BR,N4,"+1h 10m 32,4s",0:10,NA,NA
+43,90,"Hunt, Harry",Ford Fiesta,GB,A6,"+1h 19m 46,2s",1:00,NA,NA
+NA,52,"Nyman, Joakim",Mitsubishi Lancer Evo IX,SE,N4,NA,NA,SS9,driveshaft
+NA,61,"Arolainen, Jouni",Ford Focus RS WRC 04,FI,A8,NA,NA,TC16A,unknown
+NA,71,"Ketomaki, Jukka",Mitsubishi Lancer Evo X,FI,N4,NA,NA,SS6,off road
+NA,72,"Laivola, Ari",Mitsubishi Lancer Evo IX,FI,N4,NA,NA,TC16A,gearbox
+NA,73,"Kresta, Roman",Mitsubishi Lancer Evo IX,CZ,N4,NA,NA,TC12C,mechanical
+NA,79,"Roman, Joakim",Subaru Impreza WRX,SE,N4,NA,NA,TC8B,engine
+NA,83,"Gonon, Florian",Subaru Impreza,CH,N4,NA,NA,SS9,engine
+NA,85,"Ortfeldt, Oscar",Mitsubishi Lancer Evo IX,SE,N4,NA,NA,TC16A,mechanical
+NA,86,"Villanueva, Alexander",Mitsubishi Lancer Evo IX,ES,N4,NA,NA,SS18,off road
+NA,88,"Pastila, Ilkka",Citroen Saxo,FI,N2,NA,NA,TC18C,mechanical
+NA,89,"Hytonen, Kari",Suzuki Swift,FI,N2,NA,NA,SS12,gearbox
+NA,91,"Tanak, Ott",Subaru Impreza WRX,EE,N4,NA,NA,TC21B,unknown

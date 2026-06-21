@@ -1,0 +1,52 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,2,"Nicolas, Jean-Pierre",Peugeot 504 V6 Coupe,FR,G4,54h 28m,NA,NA,NA
+2,1,"Makinen, Timo",Peugeot 504 V6 Coupe,FI,G4,+15m,NA,NA,NA
+3,4,"Ragnotti, Jean",Renault 5 Alpine,FR,G2,+1h 22m,NA,NA,NA
+4,3,"Lampinen, Simo",Peugeot 504 V6 Coupe,FI,G4,+2h 39m,NA,NA,NA
+5,5,"Frequelin, Guy",Renault 5 Alpine,FR,G2,+3h 06m,NA,NA,NA
+6,14,"Vincens, Jean-Francois",Mitsubishi Colt Lancer,CI,G2,+7h 49m,NA,NA,NA
+7,8,"Noujaim, Kal",Mitsubishi Colt Lancer,FR,G2,+8h 52m,NA,NA,NA
+8,7,"Assef, Samir",Peugeot 504 V6 Coupe,CI,G4,+9h 36m,NA,NA,NA
+9,48,"Page, Herve",Datsun Violet,CI,G1,+13h 52m,NA,NA,NA
+NA,6,"Mehta, Shekhar",Opel Ascona,KE,G2,NA,NA,TC13,camshaft
+NA,9,"Vinatier, Jean",Fiat 131 Abarth,FR,G4,NA,NA,TC7,accident
+NA,10,"Choteau, Adolphe",Peugeot 504 V6 Coupe,CI,G4,NA,NA,TC33,engine
+NA,11,"Ambrosino, Alain",Peugeot 104,FR,G2,NA,NA,TC31,clutch
+NA,12,"Lefebvre, Jean-Claude",Peugeot 104,FR,G2,NA,NA,TC29,engine
+NA,15,"Oger, Alain",Renault 5 Alpine,FR,G2,NA,NA,TC5,head gasket
+NA,NA,Amangua,? Unknown Make ? ? Unknown Model ?,NA,NA,NA,NA,TC5,unknown
+NA,NA,"Assale, Kouame",? Unknown Make ? ? Unknown Model ?,CI,NA,NA,NA,TC7,unknown
+NA,NA,Baron,? Unknown Make ? ? Unknown Model ?,NA,NA,NA,NA,TC7,unknown
+NA,NA,Bonnardel,? Unknown Make ? ? Unknown Model ?,NA,NA,NA,NA,TC23,unknown
+NA,NA,Ceccaroli,? Unknown Make ? ? Unknown Model ?,NA,NA,NA,NA,TC16B,unknown
+NA,NA,de Souza,? Unknown Make ? ? Unknown Model ?,NA,NA,NA,NA,TC5,unknown
+NA,NA,Deladriere,Toyota Corolla,NA,NA,NA,NA,TC23,off road
+NA,NA,Diby,? Unknown Make ? ? Unknown Model ?,NA,NA,NA,NA,end of Etape 1,unknown
+NA,NA,"Faure, Jean-Pierre",? Unknown Make ? ? Unknown Model ?,FR,NA,NA,NA,TC16,unknown
+NA,NA,Ferber,? Unknown Make ? ? Unknown Model ?,NA,NA,NA,NA,TC10,unknown
+NA,NA,Fornaro,? Unknown Make ? ? Unknown Model ?,NA,NA,NA,NA,TC5,unknown
+NA,NA,Garlet,? Unknown Make ? ? Unknown Model ?,NA,NA,NA,NA,TC14,unknown
+NA,NA,Gerenthon,Toyota,NA,NA,NA,NA,TC23,exhaust
+NA,NA,Guevel,? Unknown Make ? ? Unknown Model ?,NA,NA,NA,NA,TC9,unknown
+NA,NA,Karamoko,? Unknown Make ? ? Unknown Model ?,NA,NA,NA,NA,TC16B,unknown
+NA,NA,Keita,? Unknown Make ? ? Unknown Model ?,NA,NA,NA,NA,TC16B,unknown
+NA,NA,"Kouame, Lambert",? Unknown Make ? ? Unknown Model ?,CI,NA,NA,NA,TC5,unknown
+NA,NA,Louvel,? Unknown Make ? ? Unknown Model ?,NA,NA,NA,NA,TC15,unknown
+NA,NA,Ly,? Unknown Make ? ? Unknown Model ?,NA,NA,NA,NA,end of Etape 2,unknown
+NA,NA,"Mafall, Soumare",? Unknown Make ? ? Unknown Model ?,CI,NA,NA,NA,TC9,unknown
+NA,NA,"Mitri, Michel",? Unknown Make ? ? Unknown Model ?,FR,NA,NA,NA,TC15,unknown
+NA,NA,"Moreau, Pierre-Louis",? Unknown Make ? ? Unknown Model ?,FR,NA,NA,NA,TC12,unknown
+NA,NA,Passat,? Unknown Make ? ? Unknown Model ?,NA,NA,NA,NA,TC3,unknown
+NA,NA,"Restellini, Dominique",Peugeot 504,FR,NA,NA,NA,TC23,suspension
+NA,NA,Roch,? Unknown Make ? ? Unknown Model ?,NA,NA,NA,NA,TC14,unknown
+NA,NA,"Saad, Naguib",? Unknown Make ? ? Unknown Model ?,CI,NA,NA,NA,TC7,unknown
+NA,NA,Saget,? Unknown Make ? ? Unknown Model ?,NA,NA,NA,NA,end of Etape 2,unknown
+NA,NA,Sans,? Unknown Make ? ? Unknown Model ?,NA,NA,NA,NA,TC3,unknown
+NA,NA,Sanson,? Unknown Make ? ? Unknown Model ?,NA,NA,NA,NA,TC3,unknown
+NA,NA,Saucet,? Unknown Make ? ? Unknown Model ?,NA,NA,NA,NA,TC16B,unknown
+NA,NA,Silvestre,? Unknown Make ? ? Unknown Model ?,NA,NA,NA,NA,TC9,unknown
+NA,NA,Square,? Unknown Make ? ? Unknown Model ?,NA,NA,NA,NA,TC16B,unknown
+NA,NA,"Touroul, Raymond",Peugeot 504,FR,NA,NA,NA,TC3,mechanical
+NA,NA,Tuffal,? Unknown Make ? ? Unknown Model ?,NA,NA,NA,NA,TC15,unknown
+NA,NA,"Vincens, madame",? Unknown Make ? ? Unknown Model ?,NA,NA,NA,NA,TC23,unknown
+NA,NA,Zuliani,? Unknown Make ? ? Unknown Model ?,NA,NA,NA,NA,end of Etape 2,unknown

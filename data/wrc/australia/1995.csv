@@ -1,0 +1,18 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,10,"Eriksson, Kenneth",Mitsubishi Lancer Evo III,SE,A8,4h 53m 59s,NA,NA,NA
+2,4,"McRae, Colin",Subaru Impreza 555,GB,A,+19s,NA,NA,NA
+3,2,"Kankkunen, Juha",Toyota Celica GT-Four (ST205),FI,A,+1m 55s,NA,NA,NA
+4,11,"Makinen, Tommi",Mitsubishi Lancer Evo III,FI,A,+3m 27s,NA,NA,NA
+5,3,"Schwarz, Armin",Toyota Celica GT-Four (ST205),DE,A,+4m 11s,NA,NA,NA
+6,8,"Thiry, Bruno",Ford Escort RS Cosworth,BE,A,+16m 52s,NA,NA,NA
+7,14,"Fujimoto, Yoshio",Toyota Celica GT-Four (ST205),JP,A,+22m 37s,NA,NA,NA
+8,12,"Ordynski, Ed",Mitsubishi Lancer Evo III,AU,N,+27m 06s,NA,NA,NA
+9,16,"Bates, Neal",Toyota Celica GT-Four (ST205),AU,A,+30m 42s,NA,NA,NA
+10,15,"Recalde, Jorge",Mitsubishi Lancer Evo II,AR,N,+31m 54s,NA,NA,NA
+19,19,"Holderied, Isolde",Mitsubishi Lancer Evo II,DE,N,+48m 36s,NA,NA,NA
+22,39,"Tajima, Nobuhiro",Suzuki Swift GTI,JP,A,+54m 04s,NA,NA,NA
+NA,1,"Auriol, Didier",Toyota Celica GT-Four (ST205),FR,A,NA,NA,SS12,alternator belt
+NA,5,"Sainz, Carlos",Subaru Impreza 555,ES,A,NA,NA,SS9,overheating
+NA,6,"Bourne, Peter",Subaru Impreza 555,NZ,A,NA,NA,SS3,accident
+NA,7,"Delecour, Francois",Ford Escort RS Cosworth,FR,A,NA,NA,SS18,accident
+NA,17,"Madeira, Rui",Mitsubishi Lancer Evo II,PT,N,NA,NA,SS17,fuel pump

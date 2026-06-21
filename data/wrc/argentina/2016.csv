@@ -1,0 +1,29 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,20,"Paddon, Hayden",Hyundai New Generation i20 WRC,NZ,RC1,"3h 40m 52,9s",NA,NA,NA
+2,1,"Ogier, Sebastien",Volkswagen Polo R WRC,FR,RC1,"+14,3s",NA,NA,NA
+3,9,"Mikkelsen, Andreas",Volkswagen Polo R WRC,NO,RC1,"+1m 05,2s",NA,NA,NA
+4,4,"Sordo Castillo, Daniel",Hyundai New Generation i20 WRC,ES,RC1,"+1m 17,1s",NA,NA,NA
+5,5,"Ostberg, Mads",Ford Fiesta RS WRC,NO,RC1,"+4m 56,7s",NA,NA,NA
+6,3,"Neuville, Thierry",Hyundai New Generation i20 WRC,BE,RC1,"+9m 29,5s",NA,NA,NA
+7,81,"Ligato, Marcos",Citroen DS3 WRC,AR,RC1,"+9m 39,2s",NA,NA,NA
+8,6,"Camilli, Eric",Ford Fiesta RS WRC,FR,RC1,"+10m 16,0s",NA,NA,NA
+9,16,"Solberg, Henning",Ford Fiesta RS WRC,NO,RC1,"+10m 48,5s",0:10,NA,NA
+10,42,"Fuchs Sierlecki, Nicolas",Skoda Fabia,PE,RC2,"+24m 42,8s",NA,NA,NA
+11,88,"Padilla, Geronimo Jose",Ford Fiesta,AR,ASN,"+24m 48,2s",NA,NA,NA
+12,32,"Ptaszek, Hubert",Peugeot 208,PL,RC2,"+29m 19,7s",NA,NA,NA
+13,37,"Bertelli, Lorenzo",Ford Fiesta RS WRC,IT,RC1,"+33m 23,7s",NA,NA,NA
+14,34,"al-Kuwari, Abdulaziz",Skoda Fabia,QA,RC2,"+34m 33,7s",NA,NA,NA
+15,12,"Tanak, Ott",Ford Fiesta RS WRC,EE,RC1,"+37m 22,4s",NA,NA,NA
+16,2,"Latvala, Jari-Matti",Volkswagen Polo R WRC,FI,RC1,"+42m 15,6s",NA,NA,NA
+17,31,"Evans, Elfyn",Ford Fiesta,GB,RC2,"+1h 09m 33,1s",NA,NA,NA
+18,61,"Fabre, Michel",Citroen DS3,FR,RC3,"+1h 12m 18,1s",NA,NA,NA
+19,83,"Nicolas, Jose Alberto",Citroen DS3 WRC,AR,RC1,"+1h 24m 51,3s",0:50,NA,NA
+20,49,"Bestard Poletti, Augusto Miguel",Ford Fiesta,PY,RC2,"+1h 28m 44,7s",0:10,NA,NA
+21,90,"Frisiero, Fabio",Ford Fiesta,IT,ASN,"+1h 35m 24,8s",0:30,NA,NA
+22,91,"Alvarez Castellano, Fernando",Ford Fiesta,AR,ASN,"+1h 47m 45,1s",5:00,NA,NA
+23,96,"Bottazzini, Guillermo",Ford Fiesta,AR,ASN,"+2h 03m 58,1s",0:10,NA,NA
+NA,18,"Gorban, Valeriy",Mini John Cooper Works,UA,RC1,NA,NA,TC5C,mechanical
+NA,35,"al-Suwaidi, Khalid",Ford Fiesta,QA,RC2,NA,NA,SS17,unknown
+NA,38,"Arias Quinones, Didier",Skoda Fabia,PY,RC2,NA,NA,TC15D,unknown
+NA,86,"Cancio, Alejandro",Chevrolet Agile,AR,ASN,NA,NA,TC4,mechanical
+NA,87,"Preto, Luciano",Peugeot 208,AR,ASN,NA,NA,TC17,mechanical

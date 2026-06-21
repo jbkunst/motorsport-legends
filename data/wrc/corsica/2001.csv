@@ -1,0 +1,86 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,15,"Puras, Jesus",Citroen Xsara WRC,ES,A8,"3h 58m 35,5s",NA,NA,NA
+2,16,"Panizzi, Gilles",Peugeot 206WRC (2001),FR,A8,"+17,5s",NA,NA,NA
+3,2,"Auriol, Didier",Peugeot 206WRC (2001),FR,A8,"+1m 11,9s",NA,NA,NA
+4,5,"Burns, Richard",Subaru Impreza WRC2001,GB,A8,"+4m 53,1s",NA,NA,NA
+5,6,"Solberg, Petter",Subaru Impreza WRC2001,NO,A8,"+4m 53,9s",2:00,NA,NA
+6,18,"Martin, Markko",Subaru Impreza WRC2001,EE,A8,"+5m 21,6s",NA,NA,NA
+7,29,"Rovanpera, Harri",Peugeot 206 WRC,FI,A8,"+7m 26,9s",NA,NA,NA
+8,9,"Liatti, Piero",Hyundai Accent WRC2,IT,A8,"+8m 09,2s",NA,NA,NA
+9,10,"McRae, Alister",Hyundai Accent WRC2,GB,A8,"+8m 52,7s",NA,NA,NA
+10,17,"Delecour, Francois",Ford Focus RS WRC 01,FR,A8,"+10m 06,1s",0:40,NA,NA
+11,4,"McRae, Colin",Ford Focus RS WRC 01,GB,A8,"+10m 21,3s",NA,NA,NA
+12,8,"Loix, Freddy",Mitsubishi Lancer WRC,BE,A8,"+13m 14,7s",NA,NA,NA
+13,53,"Loeb, Sebastien",Citroen Saxo S1600,FR,A6,"+17m 40,9s",NA,NA,NA
+14,52,"Dallavilla, Andrea",Fiat Punto S1600,IT,A6,"+17m 49,4s",NA,NA,NA
+15,56,"Basso, Giandomenico",Fiat Punto S1600,IT,A6,"+22m 50,2s",NA,NA,NA
+16,55,"McShea, Niall",Citroen Saxo S1600,GB,A6,"+23m 12,4s",NA,NA,NA
+17,28,"Trelles, Gustavo",Mitsubishi Lancer Evo VI,UY,N4,"+24m 15,8s",NA,NA,NA
+18,41,"Sanchez, Jean Marc",Mitsubishi Lancer Evo VI,FR,N4,"+25m 07,9s",NA,NA,NA
+19,58,"Vallejo, Sergio",Fiat Punto S1600,ES,A6,"+25m 37,9s",NA,NA,NA
+20,63,"Stenshorne, Martin",Ford Puma S1600,NO,A6,"+27m 16,6s",NA,NA,NA
+21,69,"Bernardi, Nicolas",Peugeot 206 S1600,FR,A6,"+27m 25,0s",NA,NA,NA
+22,50,"Stohl, Manfred",Fiat Punto S1600,AT,A6,"+28m 00,6s",NA,NA,NA
+23,68,"Ceccato, Massimo",Fiat Punto S1600,IT,A6,"+30m 19,4s",NA,NA,NA
+24,48,"Griazine, Stanislav",Mitsubishi Lancer Evo,RU,N4,"+30m 24,0s",NA,NA,NA
+25,65,"Galanti, Alejandro",Ford Puma S1600,PY,A6,"+30m 59,5s",NA,NA,NA
+26,83,"Mercier, Eddie",Renault Clio,FR,N3,"+31m 48,3s",NA,NA,NA
+27,54,"Cols, Larry",Peugeot 206 S1600,BE,A6,"+33m 44,8s",0:40,NA,NA
+28,34,"Mariani, Paul",Citroen Saxo,FR,A6,"+35m 15,0s",NA,NA,NA
+29,62,"Valimaki, Jussi",Peugeot 206 S1600,FI,A6,"+36m 08,6s",0:10,NA,NA
+30,82,"Bourcier, Richard",Renault Clio,FR,N3,"+38m 36,7s",NA,NA,NA
+31,47,"Ayme, Jean-Paul",Mitsubishi Lancer Evo,FR,N4,"+40m 29,5s",1:00,NA,NA
+32,36,"Pereira, Armando",Subaru Impreza,FR,A8,"+40m 51,0s",0:10,NA,NA
+33,45,"Candian, Marta",Mitsubishi Lancer Evo VI,IT,N4,"+42m 03,2s",NA,NA,NA
+34,88,"Rovina, Stephane",Peugeot 306,FR,N3,"+42m 45,0s",NA,NA,NA
+35,81,"Faggianelli, Francois",Renault Clio,FR,N3,"+44m 32,1s",NA,NA,NA
+36,87,"Pugliese, Patrick",Peugeot 306,FR,N3,"+48m 20,1s",0:30,NA,NA
+37,46,"Jones, Reece",Mitsubishi Lancer Evo VI,NZ,N4,"+48m 23,7s",0:20,NA,NA
+38,96,"Chkondali, Thierry",Honda Integra,FR,N3,"+48m 26,8s",NA,NA,NA
+39,67,"Llovera, Albert",Fiat Punto S1600,AD,A6,"+49m 25,4s",4:30,NA,NA
+40,95,"Lamonato, Walter",Opel Astra,IT,N3,"+50m 40,0s",NA,NA,NA
+41,89,"Laurence, Yves",Peugeot 306,FR,N3,"+51m 20,7s",NA,NA,NA
+42,91,"Filippi, Eric",Peugeot 306,FR,N3,"+54m 02,2s",NA,NA,NA
+43,93,"Bastelica, Antoine Paul",Renault Clio,FR,N3,"+54m 05,6s",0:10,NA,NA
+44,97,"Leonetti, Dominique",Peugeot 106,FR,A6,"+54m 13,2s",0:20,NA,NA
+45,102,"Wilders, Michel",Honda Civic,BE,N2,"+55m 29,6s",NA,NA,NA
+46,100,"Dard, Thierry",Honda Civic,FR,N2,"+57m 29,5s",NA,NA,NA
+47,78,"Micheli, Jose",Renault Megane,FR,A7,"+1h 01m 57,9s",2:20,NA,NA
+48,101,"Poisson, Jean-Marc",Honda Civic,FR,N2,"+1h 13m 28,0s",NA,NA,NA
+49,104,"Tomaselli, Herve",Peugeot 106,FR,N1,"+1h 21m 54,3s",1:50,NA,NA
+50,99,"Carta, Severine",Citroen AX GTI,FR,A5,"+1h 29m 59,1s",NA,NA,NA
+NA,1,"Gronholm, Marcus",Peugeot 206WRC (2001),FI,A8,NA,NA,TC9,accident
+NA,3,"Sainz, Carlos",Ford Focus RS WRC 01,ES,A8,NA,NA,TC3,oil pressure
+NA,7,"Makinen, Tommi",Mitsubishi Lancer WRC,FI,A8,NA,NA,SS5,accident
+NA,11,"Schwarz, Armin",Skoda Octavia WRC Evo2,DE,A8,NA,NA,SS9,mechanical
+NA,12,"Thiry, Bruno",Skoda Octavia WRC Evo2,BE,A8,NA,NA,TC5,transmission
+NA,14,"Bugalski, Philippe",Citroen Xsara WRC,FR,A8,NA,NA,SS1,accident
+NA,24,"Arai, Toshihiro",Subaru Impreza WRC2001,JP,A8,NA,NA,SS1,off road
+NA,25,"Mortl, Achim",Subaru Impreza WRC2001,AT,A8,NA,NA,SS15,off road
+NA,30,"Tirabassi, Brice",Citroen Saxo,FR,A6,NA,NA,SS2,mechanical
+NA,32,"Morel, Fabrice",Peugeot 206,FR,A6,NA,NA,SS9,off road
+NA,33,"Fiori, Guy",Citroen Saxo,FR,A6,NA,NA,TC5,mechanical
+NA,37,"Torre, Jean-Claude",Subaru Impreza,FR,A8,NA,NA,SS3,off road
+NA,38,"Wearden, Neil",Peugeot 206 WRC,GB,A8,NA,NA,SS14,off road
+NA,39,"Manzagol, Jean-Pierre",Mitsubishi Lancer Evo V,FR,N4,NA,NA,SS9,mechanical
+NA,40,"Santoni, Jean-Marie",Mitsubishi Lancer Evo VII,FR,N4,NA,NA,SS6,off road
+NA,43,"Manfrinato, Giovanni",Mitsubishi Lancer Evo VI,IT,N4,NA,NA,SS11,off road
+NA,44,"Colsoul, Bob",Mitsubishi Lancer Evo,BE,N4,NA,NA,SS6,mechanical
+NA,49,"Elsmore, Nik",Mitsubishi Lancer Evo VI,GB,N4,NA,NA,SS14,off road
+NA,51,"Magaud, Patrick",Ford Puma S1600,FR,A6,NA,NA,SS15,mechanical
+NA,57,"Robert, Cedric",Peugeot 206 S1600,FR,A6,NA,NA,SS14,mechanical
+NA,59,"Rousselot, Benoit",Ford Puma S1600,FR,A6,NA,NA,TC2,mechanical
+NA,61,"Fontana, Corrado",Peugeot 206 S1600,IT,A6,NA,NA,SS14,mechanical
+NA,64,"Macaluso, Massimo",Fiat Punto S1600,IT,A6,NA,NA,SS11,off road
+NA,71,"Duval, Francois",Ford Puma S1600,BE,A6,NA,NA,TC4,mechanical
+NA,72,"Mazlan, Saladin",Ford Puma S1600,MY,A6,NA,NA,SS14,mechanical
+NA,73,"Chemin, Christian",Fiat Punto S1600,IT,A6,NA,NA,SS15,mechanical
+NA,74,"Cagani, Noberto",Mitsubishi Lancer Evo VI,IT,N4,NA,NA,SS1,mechanical
+NA,75,"Mari, Fabrizio",Mitsubishi Lancer Evo VI,IT,N4,NA,NA,SS16,mechanical
+NA,80,"Mostrag, Andre",Peugeot 205 GTI,FR,A7,NA,NA,SS7,mechanical
+NA,84,"Padovani, Jacques",Renault Clio,FR,N3,NA,NA,TC4,mechanical
+NA,85,"Pietri, Jean-Michel",Peugeot 306,FR,N3,NA,NA,SS2,off road
+NA,90,"Prevalet, Jean Francois",Peugeot 306,FR,N3,NA,NA,TC2,mechanical
+NA,92,"Venturini, Henri",Renault Clio,FR,N3,NA,NA,SS10,mechanical
+NA,98,"Forghieri, Andrea",Fiat Seicento Sporting,IT,A5,NA,NA,SS9,mechanical
+NA,103,"Cascio, Eric",Peugeot 106,FR,N1,NA,NA,SS13,mechanical

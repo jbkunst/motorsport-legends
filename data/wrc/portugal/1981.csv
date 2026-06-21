@@ -1,0 +1,38 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Alen, Markku",Fiat 131 Abarth,FI,G4,8h 27m 26s,NA,NA,NA
+2,9,"Toivonen, Henri",Talbot Sunbeam,FI,G2,+9m 10s,0:04,NA,NA
+3,4,"Waldegard, Bjorn",Toyota Celica,SE,G4,+16m 21s,0:05,NA,NA
+4,12,"Mouton, Michele",Audi quattro,FR,G4,+22m 31s,NA,NA,NA
+5,14,"Pond, Tony",Datsun 160J,GB,G2,+30m 13s,NA,NA,NA
+6,3,"Frequelin, Guy",Talbot Sunbeam,FR,G2,+50m 26s,0:14,NA,NA
+7,32,"Cid, Rafael",Ford Escort RS1800,ES,G2,+1h 20m 37s,0:01,NA,NA
+8,45,"Queiroz Pereira, Pedro",Opel Kadett GT/E,PT,G1,+1h 42m 36s,0:01,NA,NA
+9,28,"Moutinho, Joaquim",Opel Kadett GT/E,PT,G2,+1h 48m 48s,0:12,NA,NA
+10,31,"Shinozuka, Kenjiro",Ford Escort RS1800,JP,G4,+1h 54m 38s,0:19,NA,NA
+11,20,"Torres, Carlos",Ford Escort RS2000,PT,G1,+1h 57m 17s,0:26,NA,NA
+12,22,"Silva, Mario",Ford Escort RS2000,PT,G1,+1h 58m 24s,0:27,NA,NA
+13,30,"Paiva, Luis",Ford Escort RS2000,PT,G1,+2h 35m 50s,0:04,NA,NA
+14,90,"Ortigao, Jorge",Toyota Starlet,PT,G1,+2h 45m 30s,NA,NA,NA
+15,72,"Lages, Rui",Volkswagen Golf Diesel,PT,G1,+2h 57m 06s,0:01,NA,NA
+16,114,"Tavares, Jose",Datsun 120Y,PT,G1,+3h 41m 43s,0:02,NA,NA
+17,96,"Sturken, Nicolas",Ford Escort RS2000,PT,G1,+3h 42m 33s,0:12,NA,NA
+18,46,"Faas, Jacobus",BMW 320,NL,G2,+3h 53m 48s,0:24,NA,NA
+19,47,"Fernandes, Ramiro",Fiat Ritmo,PT,G2,+3h 59m 31s,0:08,NA,NA
+20,80,"Evain, Lucien",Datsun 1600SSS,FR,G2,+4h 04m 11s,0:30,NA,NA
+21,118,"Lopes, Armelim",Toyota Corolla,PT,G1,+4h 04m 37s,0:15,NA,NA
+22,95,"Mendes Pinto, Jose",Honda Civic,PT,G1,+4h 28m 02s,0:11,NA,NA
+23,70,"Simoes, Armindo",Austin Mini,PT,G2,+4h 29m 33s,0:28,NA,NA
+24,116,"Ahrens Teixeira, Jose",Ford Escort RS2000,PT,G2,+5h 03m 51s,0:30,NA,NA
+NA,2,"Mikkola, Hannu",Audi quattro,FI,G4,NA,NA,SS25,engine
+NA,5,"Therier, Jean-Luc",Porsche 911,FR,G4,NA,NA,SS24,fuel supply
+NA,6,"Vatanen, Ari",Ford Escort RS,FI,G4,NA,NA,SS26,accident
+NA,7,"Kullang, Anders",Opel Ascona 400,SE,G4,NA,NA,SS10,halfshaft
+NA,8,"Salonen, Timo",Datsun Violet,FI,G4,NA,NA,SS25,head gasket
+NA,10,"Eklund, Per",Toyota Celica,SE,G4,NA,NA,SS24,accident
+NA,11,"Bettega, Attilio",Fiat 131 Abarth,IT,G4,NA,NA,SS19,engine
+NA,15,"Wilson, Malcolm",Ford Escort RS,GB,G4,NA,NA,SS21,accident
+NA,16,"Warmbold, Achim",Toyota Celica,DE,G4,NA,NA,SS14,out of fuel
+NA,17,"Cerrato, Dario",Fiat 131 Abarth,IT,G4,NA,NA,SS24,rear suspension
+NA,19,"Cowan, Andrew",Ford Escort RS,GB,G4,NA,NA,SS24,gearbox
+NA,21,"Mendes, Santinho",Datsun Violet,PT,G2,NA,NA,SS24,gearbox
+NA,38,"Loubet, Yves",Ford Escort,FR,G1,NA,NA,NA,engine

@@ -1,0 +1,27 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,2,"Vatanen, Ari",Opel Ascona 400,FI,B,6h 36m,NA,NA,NA
+2,6,"Mikkola, Hannu",Audi quattro A1,FI,B,+6m,NA,NA,NA
+3,1,"Mouton, Michele",Audi quattro A1,FR,B,+59m,NA,NA,NA
+4,12,"Shah, Jayant",Nissan 240 RS,KE,B,+1h 22m,NA,NA,NA
+5,28,"Takaoka, Yoshio",Subaru 4WD,JP,G2,+7h 15m,NA,NA,NA
+6,17,"Iwase, Yasuhiro",Nissan 160J,KE,G2,+7h 27m,NA,NA,NA
+7,23,"Takahashi, Yoshinobu",Subaru 4WD,JP,G2,+8h 06m,NA,NA,NA
+8,7,"Hellier, John",Peugeot 504 Pickup,KE,B,+8h 31m,NA,NA,NA
+9,29,"Duncan, Ian",Nissan 1200 Pickup,KE,"""S""",+8h 37m,NA,NA,NA
+10,25,"Anwar, Azar",Nissan 160J,KE,G2,+9h 23m,NA,NA,NA
+12,20,"Siller, Wolfgang",Nissan Bluebird Turbo,DE,A,+12h 00m,NA,NA,NA
+13,39,"Ruedin, Hans-Peter",Mitsubishi Lancer 2000 Turbo,KE,G4,+13h 01m,NA,NA,NA
+19,51,"Shah, Manoj",Nissan 240 RS,KE,B,+17h 08m,NA,NA,NA
+21,60,"de Voest, Paul",Toyota Corolla,KE,A,+18h 14m,NA,NA,NA
+NA,3,"Salonen, Timo",Nissan 240 RS,FI,B,NA,NA,TC78,engine
+NA,4,"Mehta, Shekhar",Nissan 240 RS,KE,B,NA,NA,TC24,engine
+NA,5,"Kirkland, Mike",Nissan 240 RS,KE,B,NA,NA,TC25,engine
+NA,8,"Iwashita, Yoshio",Nissan Bluebird Turbo,JP,A,NA,NA,TC64,accident
+NA,9,"Kojimoto, Juichi",Nissan 240 RS,JP,B,NA,NA,TC35,wheel bearing
+NA,10,"Preston Jr, Vic",Audi quattro A1,KE,B,NA,NA,TC70,accident
+NA,11,"Aaltonen, Rauno",Opel Ascona 400,FI,B,NA,NA,TC71,engine
+NA,14,"Collinge, Robert",Range Rover,KE,G2,NA,NA,TC84,accident
+NA,15,"Munari, Sandro",Alfa Romeo GTV6,IT,G2,NA,NA,TC23,rotor arm
+NA,18,"Criticos, Basil",Peugeot 504 Pickup,KE,B,NA,NA,TC70,OTL
+NA,19,"Elford, Vic",Subaru 4WD,GB,G2,NA,NA,TC67,OTL
+NA,86,"Tundo, Frank",Subaru 4WD,KE,G2,NA,NA,TC46,OTL

@@ -1,0 +1,79 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,2,"Mikkola, Hannu",Audi quattro A2,FI,B,10h 18m 54s,NA,NA,NA
+2,1,"Blomqvist, Stig",Audi quattro A2,SE,B,+2m 34s,NA,NA,NA
+3,5,"Mouton, Michele",Audi quattro A2,FR,B,+6m 41s,NA,NA,NA
+4,3,"Mehta, Shekhar",Audi quattro A2,KE,B,+21m 08s,NA,NA,NA
+5,7,"Alen, Markku",Lancia Rally 037,FI,B,+31m 18s,NA,NA,NA
+6,18,"Wurtz, Franz",Audi 80 quattro,AT,A,+1h 50m 43s,NA,NA,NA
+7,22,"Soto, Ernesto",Renault 18,AR,A,+2h 21m 54s,NA,NA,NA
+8,10,"Recalde, Jorge",Renault 18,AR,A,+2h 42m 46s,NA,NA,NA
+9,23,"Celis, Carlos",Renault 12,AR,A,+3h 32m 12s,NA,NA,NA
+10,58,"del Campo, Gerardo",Renault 12,AR,A,+4h 35m 31s,NA,NA,NA
+11,38,Ezquerra,Renault 12,AR,NA,+4h 37m 25s,NA,NA,NA
+12,44,Sambiasi,Renault 18,AR,NA,+4h 39m 53s,NA,NA,NA
+13,49,Diaz,Renault 12,AR,NA,+5h 01m 13s,NA,NA,NA
+14,69,Nonnenmacher,Peugeot 504,AR,NA,+5h 28m 13s,NA,NA,NA
+15,12,Silguero,Datsun 160B,PY,NA,+5h 41m 09s,NA,NA,NA
+16,79,Carnevalino,Fiat 147,AR,NA,+6h 20m 13s,NA,NA,NA
+17,90,Asef,Renault 12,AR,NA,+6h 42m 13s,NA,NA,NA
+18,70,Paz,Fiat 128,AR,NA,+7h 03m 03s,NA,NA,NA
+19,41,"Smith, Alejandro",Fiat 147,AR,NA,+7h 24m 01s,NA,NA,NA
+20,43,"Buigas, Antonio",Fiat 147,AR,NA,+7h 28m 27s,NA,NA,NA
+21,61,Janovich,Daihatsu Charade,AR,NA,+7h 40m 20s,NA,NA,NA
+22,114,Ale,Peugeot 504,AR,NA,+8h 06m 17s,NA,NA,NA
+23,39,"Ceccheto, Jose",Daihatsu Charade,AR,NA,+8h 26m 20s,NA,NA,NA
+24,28,Velasco,Daihatsu Charade,CL,NA,+8h 27m 35s,NA,NA,NA
+25,48,"Piazza, Carlos",Renault 12,AR,NA,+8h 28m 44s,NA,NA,NA
+26,87,Giro,Renault 12,AR,NA,+8h 30m 19s,NA,NA,NA
+27,100,Colosi,Fiat 128,AR,NA,+9h 06m 12s,NA,NA,NA
+NA,4,"Vudafieri, Adartico",Lancia Rally 037,IT,B,NA,NA,SS15,accident
+NA,8,"Bescham, Jorge",Fiat 128,AR,NA,NA,NA,Leg 3,unknown
+NA,9,"Moroni, Alejandro",Renault 18,AR,A,NA,NA,SS16,accident
+NA,11,"Raies, Gabriel",Renault 12,AR,NA,NA,NA,Leg 4,unknown
+NA,15,"Maggi, Jorge",Peugeot 504,AR,NA,NA,NA,Leg 2,unknown
+NA,16,Busto,Fiat 128,AR,NA,NA,NA,Leg 2,unknown
+NA,17,Santangelo,Peugeot 504,AR,NA,NA,NA,Leg 2,unknown
+NA,19,Barcelo,Datsun Violet,AR,NA,NA,NA,Leg 3,unknown
+NA,21,Fenoglio,Renault 18,AR,NA,NA,NA,Leg 3,unknown
+NA,24,Ciapessoni,Honda Civic,UY,NA,NA,NA,Leg 3,unknown
+NA,30,"Mayorga, Francisco",Lancia Rally 037,AR,B,NA,NA,SS3,accident
+NA,32,"Torras, Miguel",Renault 12,AR,NA,NA,NA,Leg 4,unknown
+NA,37,"Tubal, Miguel",Datsun PA-10,AR,NA,NA,NA,Leg 4,unknown
+NA,42,Alvarez,Fiat 147,AR,NA,NA,NA,Leg 3,unknown
+NA,46,Lamperti,Fiat 125,AR,NA,NA,NA,Leg 2,unknown
+NA,52,Pentecoste,Mitsubishi,AR,NA,NA,NA,Leg 2,unknown
+NA,54,Clement,Renault 12,AR,NA,NA,NA,Leg 4,unknown
+NA,55,Aimar,Renault 12,AR,NA,NA,NA,Leg 3,unknown
+NA,60,Frigo,Fiat 128,AR,NA,NA,NA,Leg 2,unknown
+NA,62,Atencio,Subaru,AR,NA,NA,NA,Leg 2,unknown
+NA,63,"Jurjo, G.",Daihatsu Charade,AR,NA,NA,NA,Leg 2,unknown
+NA,64,"di Palma, Ruben Luis",Audi quattro A2,AR,B,NA,NA,SS4,accident
+NA,66,Isa,Fiat 147,AR,NA,NA,NA,Leg 2,unknown
+NA,67,Bruck,Peugeot 504,AR,NA,NA,NA,Leg 3,unknown
+NA,71,Benety,Fiat 147,AR,NA,NA,NA,Leg 2,unknown
+NA,72,Basso,Fiat 128,AR,NA,NA,NA,Leg 2,unknown
+NA,73,Zorba,Fiat 147,AR,NA,NA,NA,Leg 2,unknown
+NA,74,Oteiza,Peugeot 504,AR,NA,NA,NA,Leg 2,unknown
+NA,77,Maglione,Peugeot 504,AR,NA,NA,NA,Leg 2,unknown
+NA,78,Luchessi,Peugeot 504,AR,NA,NA,NA,Leg 4,unknown
+NA,80,Caputo,Peugeot 504,AR,NA,NA,NA,Leg 2,unknown
+NA,81,Guerrero,Fiat 147,AR,NA,NA,NA,Leg 2,unknown
+NA,82,Cancelo,Renault-Alpine,AR,NA,NA,NA,Leg 2,unknown
+NA,88,Velazquez,Fiat 128,AR,NA,NA,NA,Leg 2,unknown
+NA,89,Craglia,Fiat 128,AR,NA,NA,NA,Leg 2,unknown
+NA,93,"Chiavarolle, Eduardo",Fiat 128,AR,NA,NA,NA,Leg 2,unknown
+NA,98,Odriozola,Fiat 128,AR,NA,NA,NA,Leg 3,unknown
+NA,99,"Salgada Nash, Juan Carlos Jose",Fiat 128,AR,NA,NA,NA,Leg 2,unknown
+NA,101,Berbel,Fiat 128,AR,NA,NA,NA,Leg 2,unknown
+NA,102,Benitez,Fiat 128,AR,NA,NA,NA,Leg 2,unknown
+NA,103,Balerio Frias,Fiat 147,AR,NA,NA,NA,Leg 2,unknown
+NA,105,Rojo,Fiat 128,AR,NA,NA,NA,Leg 4,unknown
+NA,106,Gentile,Fiat 128,AR,NA,NA,NA,Leg 2,unknown
+NA,110,Gayanigo,Fiat 128,AR,NA,NA,NA,Leg 2,unknown
+NA,111,Atkinson,Fiat 128,AR,NA,NA,NA,Leg 2,unknown
+NA,112,Reyna,Fiat 147,AR,NA,NA,NA,Leg 2,unknown
+NA,113,Frecha,Fiat 147,AR,NA,NA,NA,Leg 2,unknown
+NA,118,Landaburu,Renault 12,AR,NA,NA,NA,Leg 2,unknown
+NA,119,Viejobueno,Fiat 128,AR,NA,NA,NA,Leg 2,unknown
+NA,121,Bortoni,Daihatsu Charade,AR,NA,NA,NA,Leg 3,unknown
+NA,122,Cuello,Fiat 128,AR,NA,NA,NA,Leg 2,unknown

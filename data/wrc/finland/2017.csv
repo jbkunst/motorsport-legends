@@ -1,0 +1,62 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,12,"Lappi, Esapekka",Toyota Yaris WRC,FI,RC1,"2h 29 m 26,0s",NA,NA,NA
+2,3,"Evans, Elfyn",Ford Fiesta RS WRC 2017,GB,RC1,"+36,0s",NA,NA,NA
+3,11,"Hanninen, Juho",Toyota Yaris WRC,FI,RC1,"+36,3s",NA,NA,NA
+4,15,"Suninen, Teemu",Ford Fiesta RS WRC 2017,FI,RC1,"+1m 01,5s",NA,NA,NA
+5,9,"Breen, Craig",Citroen C3 WRC,IE,RC1,"+1m 22,6s",NA,NA,NA
+6,5,"Neuville, Thierry",Hyundai i20 Coupe WRC,BE,RC1,"+1m 33,1s",NA,NA,NA
+7,2,"Tanak, Ott",Ford Fiesta RS WRC 2017,EE,RC1,"+1m 53,6s",NA,NA,NA
+8,7,"Meeke, Kris",Citroen C3 WRC,GB,RC1,"+3m 12,6s",NA,NA,NA
+9,6,"Sordo Castillo, Daniel",Hyundai i20 Coupe WRC,ES,RC1,"+4m 11,5s",NA,NA,NA
+10,14,"Ostberg, Mads",Ford Fiesta RS WRC 2017,NO,RC1,"+4m 21,2s",NA,NA,NA
+11,40,"Huttunen, Jari",Skoda Fabia,FI,RC2,"+10m 04,0s",NA,NA,NA
+12,71,"Camilli, Eric",Ford Fiesta,FR,RC2,"+10m 16,7s",NA,NA,NA
+13,72,"Asunmaa, Teemu",Skoda Fabia,FI,RC2,"+12m 06,9s",NA,NA,NA
+14,36,"Gilbert, Quentin",Skoda Fabia,FR,RC2,"+12m 21,8s",NA,NA,NA
+15,42,"Cave, Thomas",Hyundai i20,GB,RC2,"+13m 47,0s",NA,NA,NA
+16,8,"al-Qassimi, Khalid",Citroen C3 WRC,AE,RC1,"+15m 05,3s",NA,NA,NA
+17,45,"Vatanen, Max",Ford Fiesta,FI,RC2,"+15m 12,1s",NA,NA,NA
+18,41,"Pryce, Osian",Ford Fiesta,GB,RC2,"+16m 12,7s",NA,NA,NA
+19,32,"Tempestini, Simone",Citroen DS3,IT,RC2,"+18m 00,2s",NA,NA,NA
+20,76,"Kihlman, Jari",Hyundai i20,FI,RC2,"+19m 37,6s",0:30,NA,NA
+21,10,"Latvala, Jari-Matti",Toyota Yaris WRC,FI,RC1,"+20m 15,8s",NA,NA,NA
+22,44,"Jeets, Raul",Skoda Fabia,EE,RC2,"+22m 09,3s",NA,NA,NA
+23,75,"Burger, Kees",Skoda Fabia,NL,RC2,"+25m 47,0s",NA,NA,NA
+24,62,"Ciamin, Nicolas",Ford Fiesta,FR,RC4,"+27m 56,5s",NA,NA,NA
+25,61,"Solans Baldo, Nil",Ford Fiesta,ES,RC4,"+31m 23,0s",NA,NA,NA
+26,64,"Radstrom, Dennis",Ford Fiesta,SE,RC4,"+31m 24,3s",NA,NA,NA
+27,67,"Tannert, Julius",Ford Fiesta,DE,RC4,"+31m 32,5s",NA,NA,NA
+28,82,"Saxberg, Ari",Skoda Fabia,FI,RC2,"+33m 01,2s",NA,NA,NA
+29,77,"Virtanen, Jouni",Citroen DS3,FI,RC2,"+33m 50,4s",0:20,NA,NA
+30,65,"van Way, Dillon",Ford Fiesta,US,RC4,"+39m 22,0s",NA,NA,NA
+31,33,"Loubet, Pierre-Louis",Ford Fiesta,FR,RC2,"+39m 44,5s",NA,NA,NA
+32,34,"Greensmith, Fergus",Ford Fiesta,GB,RC2,"+40m 03,6s",0:10,NA,NA
+33,90,"Accornero, Umberto",Peugeot 208,IT,RC4,"+49m 26,6s",NA,NA,NA
+34,92,"Kaisanlahti, Raimo",Ford Fiesta,FI,RC4,"+54m 16,8s",NA,NA,NA
+35,93,"Diaz-Aboitiz, Miguel",Ford Fiesta,ES,RC4,"+58m 19,4s",NA,NA,NA
+36,39,"Nordgren, Juuso",Skoda Fabia,FI,RC2,"+1h 02m 00,2s",0:10,NA,NA
+37,43,"Scandola, Umberto",Skoda Fabia,IT,RC2,"+1h 04m 34,0s",NA,NA,NA
+38,95,"Juusonen, Sami",Suzuki Swift,FI,ASN,"+1h 06m 24,4s",NA,NA,NA
+39,79,"Stugemo, Lars",Skoda Fabia,SE,RC2,"+1h 10m 01,2s",NA,NA,NA
+40,94,"Washio, Shunichi",Toyota Vitz,JP,RC5,"+1h 18m 55,2s",NA,NA,NA
+41,86,"Pietarinen, Henrik",Ford Fiesta,FI,RC4,"+1h 22m 45,9s",NA,NA,NA
+42,91,"Hytonen, Kari",Peugeot 208,FI,RC4,"+1h 47m 34,8s",NA,NA,NA
+NA,1,"Ogier, Sebastien",Ford Fiesta RS WRC 2017,FR,RC1,NA,NA,TC13E,injured co-driver
+NA,4,"Paddon, Hayden",Hyundai i20 Coupe WRC,NZ,RC1,NA,NA,TC25C,mechanical
+NA,21,"Gorban, Valeriy",Mini John Cooper Works,UA,RC1,NA,NA,SS22,off road
+NA,31,"Veiby, Ole Christian",Skoda Fabia,NO,RC2,NA,NA,SS15,off road
+NA,35,"Katsuta, Takamoto",Ford Fiesta,JP,RC2,NA,NA,SS22,off road
+NA,37,"Arai, Hiroki",Ford Fiesta,JP,RC2,NA,NA,SS23,off road
+NA,38,"Andolfi, Fabio",Hyundai i20,IT,RC2,NA,NA,SS15,off road
+NA,63,"Folb, Thierry",Ford Fiesta,FR,RC4,NA,NA,SS14,mechanical
+NA,69,"Lindholm, Emil",Ford Fiesta,FI,RC4,NA,NA,SS23,off road
+NA,73,"Lehessaari, Mikko",Skoda Fabia,FI,RC2,NA,NA,TC21D,mechanical
+NA,74,"Kasi, Jukka",Skoda Fabia,FI,RC2,NA,NA,SS7,off road
+NA,78,"Metsala, Jukka",Skoda Fabia,FI,RC2,NA,NA,TC21D,mechanical
+NA,80,"Casado, Philippe",Peugeot 208,FR,RC2,NA,NA,TC21E,mechanical
+NA,81,"Szabo, Zoltan",Skoda Fabia,HU,RC2,NA,NA,SS15,off road
+NA,83,"Kuikka, Jari",Subaru Impreza WRX,FI,RC2,NA,NA,TC5,mechanical
+NA,85,"Villanueva, Alexander",Citroen DS3,ES,RC2,NA,NA,TC20,mechanical
+NA,87,"Kivioja, Atte",Peugeot 208,FI,RC4,NA,NA,TC21D,unknown
+NA,88,"France, Julien",Citroen DS3,FR,RC3,NA,NA,TC21D,unknown
+NA,89,"Williams, Tom",Ford Fiesta,GB,RC4,NA,NA,after SS13,unknown

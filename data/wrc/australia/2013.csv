@@ -1,0 +1,30 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,8,"Ogier, Sebastien",Volkswagen Polo R WRC,FR,A0,"3h 19m 55,0s",NA,NA,NA
+2,11,"Neuville, Thierry",Ford Fiesta RS WRC,BE,A0,"+1m 32,1s",NA,NA,NA
+3,2,"Hirvonen, Mikko",Citroen DS3 WRC,FI,A0,"+2m 02,1s",NA,NA,NA
+4,7,"Latvala, Jari-Matti",Volkswagen Polo R WRC,FI,A0,"+2m 57,4s",NA,NA,NA
+5,4,"Ostberg, Mads",Ford Fiesta RS WRC,NO,A0,"+3m 17,2s",NA,NA,NA
+6,9,"Mikkelsen, Andreas",Volkswagen Polo R WRC,NO,A0,"+3m 37,6s",NA,NA,NA
+7,5,"Novikov, Evgeny",Ford Fiesta RS WRC,RU,A0,"+7m 31,2s",NA,NA,NA
+8,22,"Quinn, Nathan",Mini John Cooper Works,AU,A0,"+13m 10,2s",NA,NA,NA
+9,10,"al-Qassimi, Khalid",Citroen DS3 WRC,AE,A0,"+15m 17,6s",0:10,NA,NA
+10,48,"al-Kuwari, Abdulaziz",Ford Fiesta,QA,A2,"+17m 27,7s",NA,NA,NA
+11,82,"Protasov, Yuriy",Ford Fiesta,UA,A2,"+18m 41,1s",NA,NA,NA
+12,35,"al-Rajhi, Yazeed",Ford Fiesta,SA,A2,"+24m 28,7s",NA,NA,NA
+13,40,"Smailov, Arman",Subaru Impreza WRX,KZ,A3,"+45m 04,4s",0:10,NA,NA
+14,99,"Turner, Stephen",Ford Fiesta,AU,A6,"+46m 11,7s",NA,NA,NA
+15,96,"Coppin, Adrian",Ford Fiesta,AU,A6,"+47m 27,4s",NA,NA,NA
+16,84,"Paddon, Hayden",Skoda Fabia Super 2000,NZ,A2,"+47m 51,9s",0:20,NA,NA
+17,91,"Lombardo, Alejandro",Mitsubishi Lancer Evo X,VE,A3,"+53m 145,9s",NA,NA,NA
+18,94,"Grigg, Martin",Mitsubishi Lancer Evo X,AU,A2,"+1h 01m 01,4s",0:10,NA,NA
+19,98,"Civil, Michael",Mitsubishi Lancer Evo IX,AU,A3,"+1h 05m 53,8s",NA,NA,NA
+20,86,"Garcia Fessman, Carlos Javier",Mitsubishi Lancer Evo X,VE,A3,"+1h 05m 57,8s",NA,NA,NA
+21,87,"Gelvez Monterrey, Jose-Alexander",Mini John Cooper Works S2000,VE,A2,"+1h 18m 52,3s",7:10,NA,NA
+22,100,"Vlad, Razvan",Ford Fiesta ST,AU,A5,"+1h 19m 50,6s",NA,NA,NA
+23,101,"Dunn, Peter",Subaru Impreza WRX,AU,A3,"+1h 26m 50,6s",2:00,NA,NA
+NA,3,"Meeke, Kris",Citroen DS3 WRC,GB,A0,NA,NA,NA,mechanical
+NA,76,"Aksa, Subhan",Ford Fiesta,ID,A2,NA,NA,TC2C,mechanical
+NA,92,"Blair, Darren",Subaru Impreza WRX,AU,A3,NA,NA,SS11,mechanical
+NA,93,"Fullerton, Bruce",Mitsubishi Lancer Evo IX,AU,A3,NA,NA,TC16D,mechanical
+NA,97,"Knowles, Simon",Mitsubishi Lancer Evo IX,AU,A3,NA,NA,after SS12,unknown
+NA,102,"McLanders, Darren",Ford Fiesta ST,AU,A8,NA,NA,TC16E,mechanical

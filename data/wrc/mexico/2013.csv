@@ -1,0 +1,26 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,8,"Ogier, Sebastien",Volkswagen Polo R WRC,FR,A0,"4h 30m 31,2s",NA,NA,NA
+2,2,"Hirvonen, Mikko",Citroen DS3 WRC,FI,A0,"+3m 26,8s",NA,NA,NA
+3,11,"Neuville, Thierry",Ford Fiesta RS WRC,BE,A0,"+4m 19,6s",NA,NA,NA
+4,3,"Sordo Castillo, Daniel",Citroen DS3 WRC,ES,A0,"+6m 02,5s",NA,NA,NA
+5,6,"al-Attiyah, Nasser",Ford Fiesta RS WRC,QA,A0,"+8m 30,4s",NA,NA,NA
+6,10,"Atkinson, Christopher",Citroen DS3 WRC,AU,A0,"+11m 23,8s",3:30,NA,NA
+7,43,"Block, Ken",Ford Fiesta RS WRC,US,A0,"+11m 44,1s",NA,NA,NA
+8,14,"Guerra Latapi, Benito",Citroen DS3 WRC,MX,A0,"+12m 45,6s",NA,NA,NA
+9,21,"Prokop, Martin",Ford Fiesta RS WRC,CZ,A0,"+14m 24,8s",NA,NA,NA
+10,5,"Novikov, Evgeny",Ford Fiesta RS WRC,RU,A0,"+17m 11,1s",NA,NA,NA
+11,4,"Ostberg, Mads",Ford Fiesta RS WRC,NO,A0,"+26m 36,2s",NA,NA,NA
+12,48,"al-Kuwari, Abdulaziz",Ford Fiesta,QA,A2,"+30m 39,1s",NA,NA,NA
+13,41,"Fuchs Sierlecki, Nicolas",Mitsubishi Lancer Evo IX,PE,A3,"+39m 53,7s",0:20,NA,NA
+14,38,"Trivino Bujalil, Ricardo",Mitsubishi Lancer Evo X,MX,A3,"+48m 13,3s",NA,NA,NA
+15,62,"Montalto, Jose",Subaru Impreza,CR,A3,"+51m 07,8s",NA,NA,NA
+16,7,"Latvala, Jari-Matti",Volkswagen Polo R WRC,FI,A0,"+54m 59,1s",3:20,NA,NA
+17,33,"Kremer, Armin",Subaru Impreza WRX,DE,A3,"+1h 18m 41,9s",NA,NA,NA
+18,34,"Protasov, Yuriy",Subaru Impreza WRX,UA,A3,"+1h 27m 01,1s",0:20,NA,NA
+19,67,"Sanchez, Gustavo Adolfo",Ford Fiesta ST,MX,A8,"+2h 04m 21,0s",4:40,NA,NA
+20,68,"Orduna, Luis",Peugeot 206,MX,A6,"+2h 26m 46,1s",NA,NA,NA
+NA,12,"Kosciuszko, Michal",Mini John Cooper Works,PL,A0,NA,NA,SS21,mechanical
+NA,37,"Bertelli, Lorenzo",Subaru Impreza WRX,IT,A3,NA,NA,TC12,fuel tank
+NA,64,"Gelvez Monterrey, Jose-Alexander",Mitsubishi Lancer Evo X,VE,A3,NA,NA,TC13E,unknown
+NA,65,"Garcia Fessman, Carlos Javier",Mitsubishi Lancer Evo X,VE,A3,NA,NA,TC7,off road
+NA,66,"Lombardo, Alejandro",Mitsubishi Lancer Evo X,VE,A3,NA,NA,SS22,mechanical

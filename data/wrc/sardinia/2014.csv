@@ -1,0 +1,52 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Ogier, Sebastien",Volkswagen Polo R WRC,FR,RC1,"4h 02m 37,8s",NA,NA,NA
+2,4,"Ostberg, Mads",Citroen DS3 WRC,NO,RC1,"+1m 23,1s",NA,NA,NA
+3,2,"Latvala, Jari-Matti",Volkswagen Polo R WRC,FI,RC1,"+1m 32,8s",NA,NA,NA
+4,9,"Mikkelsen, Andreas",Volkswagen Polo R WRC,NO,RC1,"+2m 39,3s",NA,NA,NA
+5,6,"Evans, Elfyn",Ford Fiesta RS WRC,GB,RC1,"+4m 41,8s",NA,NA,NA
+6,21,"Prokop, Martin",Ford Fiesta RS WRC,CZ,RC1,"+6m 05,3s",NA,NA,NA
+7,16,"Solberg, Henning",Ford Fiesta RS WRC,NO,RC1,"+7m 15,8s",NA,NA,NA
+8,10,"Kubica, Robert",Ford Fiesta RS WRC,PL,RC1,"+12m 19,0s",NA,NA,NA
+9,37,"Bertelli, Lorenzo",Ford Fiesta,IT,RC2,"+15m 22,1s",NA,NA,NA
+10,12,"al-Qassimi, Khalid",Citroen DS3 WRC,AE,RC1,"+16m 49,3s",0:10,NA,NA
+11,74,"Chardonnet, Sebastien",Citroen DS3,FR,RC2,"+17m 33,7s",NA,NA,NA
+12,20,"Paddon, Hayden",Hyundai i20 WRC,NZ,RC1,"+18m 04,3s",0:10,NA,NA
+13,32,"Protasov, Yuriy",Ford Fiesta,UA,RC2,"+20m 49,2s",0:10,NA,NA
+14,36,"Kruuda, Karl",Peugeot 208,EE,RC2,"+23m 57,7s",NA,NA,NA
+15,43,"Sousa, Bernardo",Ford Fiesta,PT,RC2,"+24m 16,9s",5:00,NA,NA
+16,7,"Neuville, Thierry",Hyundai i20 WRC,BE,RC1,"+27m 24,9s",0:30,NA,NA
+17,38,"Gilbert, Quentin",Ford Fiesta,FR,RC2,"+29m 30,4s",NA,NA,NA
+18,3,"Meeke, Kris",Citroen DS3 WRC,GB,RC1,"+30m 33,6s",0:10,NA,NA
+19,22,"Melicharek, Jaroslav",Ford Fiesta RS WRC,SK,RC1,"+33m 33,9s",NA,NA,NA
+20,48,"Kangur, Martin",Ford Fiesta,EE,RC2,"+33m 44,0s",0:10,NA,NA
+21,35,"Tanak, Ott",Ford Fiesta,EE,RC2,"+43m 29,2s",0:20,NA,NA
+22,85,"Pons, Xavier",Mitsubishi Lancer Evo X,ES,RC2,"+45m 12,5s",NA,NA,NA
+23,72,"Alonso, Juan Carlos",Mitsubishi Lancer Evo X,AR,RC2,"+45m 20,0s",NA,NA,NA
+24,78,"Torres Fuentes, Ramon",Mitsubishi Lancer Evo X,CL,RC2,"+48m 33,3s",NA,NA,NA
+25,47,"Linari, Gianluca",Subaru Impreza WRX,IT,RC2,"+50m 48,2s",NA,NA,NA
+26,33,"Rendina, Massimiliano",Mitsubishi Lancer Evo X,IT,RC2,"+51m 51,3s",NA,NA,NA
+27,76,"bin Eidan, Salah",Ford Fiesta,KW,RC2,"+54m 48,5s",0:20,NA,NA
+28,90,'Piano',Mitsubishi Lancer Evo IX,IT,RC2,"+59m 23,0s",NA,NA,NA
+29,82,"Hoelbling, Luca",Fiat Punto,IT,RC2,"+1h 09m 45,6s",NA,NA,NA
+30,49,"McCormack, Martin",Ford Fiesta,GB,RC2,"+1h 10m 03,9s",0:10,NA,NA
+31,39,"Gorban, Valeriy",Mini John Cooper Works S2000,UA,RC2,"+1h 12m 12,0s",NA,NA,NA
+32,93,"Pletka, Tomas",Citroen DS3,CZ,RC3,"+1h 12m 18,7s",NA,NA,NA
+33,89,"Marrone, Francesco",Mitsubishi Lancer Evo IX,IT,RC2,"+1h 16m 17,8s",0:40,NA,NA
+34,84,"Covi, Carlo",Peugeot 207 S2000,IT,RC2,"+1h 20m 33,4s",0:20,NA,NA
+35,91,"Pozzo, Giuseppe",Subaru Impreza WRX,IT,RC2,"+1h 23m 12,0s",NA,NA,NA
+36,95,"Ptaszek, Hubert",Ford Fiesta,PL,RC4,"+1h 32m 45,0s",0:10,NA,NA
+37,92,"Donadio, Raffaele",Mitsubishi Lancer Evo IX,IT,RC2,"+1h 35m 05,0s",1:40,NA,NA
+38,94,"Genovese, Umberto",Peugeot 208,IT,RC4,"+1h 42m 33,6s",1:00,NA,NA
+NA,5,"Hirvonen, Mikko",Ford Fiesta RS WRC,FI,RC1,NA,NA,TC4,fire
+NA,8,"Hanninen, Juho",Hyundai i20 WRC,FI,RC1,NA,NA,SS5,off road
+NA,31,"al-Rajhi, Yazeed",Ford Fiesta,SA,RC2,NA,NA,SS11,mechanical
+NA,40,"al-Attiyah, Nasser",Ford Fiesta,QA,RC2,NA,NA,SS13,mechanical
+NA,41,"Fuchs Sierlecki, Nicolas",Ford Fiesta,PE,RC2,NA,NA,TC2,mechanical
+NA,42,"Dettori, Giuseppe",Mitsubishi Lancer Evo IX,IT,RC2,NA,NA,SS13,mechanical
+NA,44,"Maurin, Julien",Ford Fiesta,FR,RC2,NA,NA,TC16,mechanical
+NA,73,"al-Kuwari, Abdulaziz",Ford Fiesta,QA,RC2,NA,NA,SS15,mechanical
+NA,75,"Kaur, Egon",Ford Fiesta,EE,RC2,NA,NA,SS10,mechanical
+NA,83,"Gryazin, Vasily",Mini John Cooper Works S2000,LV,RC2,NA,NA,SS3,mechanical
+NA,86,"Boland, Eamonn",Subaru Impreza,IE,RC2,NA,NA,after SS17,unknown
+NA,87,"Manfrinato, Giovanni",Mitsubishi Lancer Evo X,IT,RC2,NA,NA,TC9D,unknown
+NA,88,"Frisiero, Fabio",Subaru Impreza,IT,RC2,NA,NA,TC11,mechanical

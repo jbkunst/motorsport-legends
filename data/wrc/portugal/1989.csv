@@ -1,0 +1,52 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Biasion, Massimo",Lancia Delta Integrale,IT,A8,6h 47m 01s,NA,NA,NA
+2,3,"Alen, Markku",Lancia Delta Integrale,FI,A,+10m 18s,NA,NA,NA
+3,6,"Fiorio, Alessandro",Lancia Delta Integrale,IT,A,+23m 18s,NA,NA,NA
+4,17,"Fischer, Georg",Audi 200 quattro,AT,A,+34m 55s,NA,NA,NA
+5,10,"Duez, Marc",BMW M3,BE,A,+39m 28s,NA,NA,NA
+6,14,"Bica, Carlos",Lancia Delta HF 4WD,PT,A,+42m 58s,NA,NA,NA
+7,18,"de Mevius, Gregoire",Mazda 323 4WD,BE,N,+46m 43s,NA,NA,NA
+8,25,"Andreucci, Paolo",Lancia Delta Integrale,IT,N,+50m 47s,NA,NA,NA
+9,27,"Skoghag, Fredrik",Lancia Delta Integrale,SE,N,+54m 19s,NA,NA,NA
+10,20,"Trelles, Gustavo",Lancia Delta Integrale,UY,N,+1h 02m 05s,2:00,NA,NA
+11,8,"del Zoppo, Giovanni",Mazda 323 4WD,IT,A,+1h 04m 14s,1:00,NA,NA
+12,29,"Inoue, Kiyoshi",Mitsubishi Galant VR-4,JP,N4,+1h 04m 23s,NA,NA,NA
+13,24,"Leite Faria, Jose Miguel",Ford Sierra RS Cosworth,PT,N4,+1h 08m 05s,NA,NA,NA
+14,80,"Golay, Michel",Mazda 323 4WD,CH,N4,+1h 22m 10s,9:00,NA,NA
+15,40,"Leite, Jorge",Ford Sierra RS Cosworth,PT,N4,+1h 29m 11s,NA,NA,NA
+16,22,"Coutinho, Antonio",Toyota Celica GT-4 (ST165),PT,A8,+1h 35m 29s,12:00,NA,NA
+17,32,"Rolo, Manuel",Renault 11 Turbo,PT,N4,+1h 37m 46s,8:00,NA,NA
+18,12,"Shinozuka, Kenjiro",Mitsubishi Galant VR-4,JP,A,+1h 42m 18s,26:00,NA,NA
+19,72,"Viana Ferreira, Jose",Renault 11 Turbo,PT,N,+1h 43m 15s,NA,NA,NA
+20,43,"Lopes, Vitor",Mazda 323 4WD,PT,N,+1h 48m 31s,13:00,NA,NA
+21,54,"Almeida Santos, Antonio",Toyota Celica GT-4 (ST165),PT,A8,+1h 50m 38s,NA,NA,NA
+22,36,"Stubbings, Simon",Mazda 323 Turbo,GB,N,+1h 52m 13s,33:00,NA,NA
+23,73,"Ahrens Teixeira, Jose",Renault 11 Turbo,PT,N,+1h 56m 05s,3:00,NA,NA
+24,87,"Fonseca, Carlos",Renault 11 Turbo,PT,N,+2h 03m 46s,2:00,NA,NA
+25,69,"Carrera, Chano",Toyota Corolla GT,ES,A6,+2h 15m 04s,NA,NA,NA
+26,77,"Gemenis, Anastasios",Subaru Leone 4WD,GR,N,+2h 19m 47s,1:00,NA,NA
+27,102,"Klein, Ewald",Toyota Corolla GT,DE,N2,+2h 24m 29s,2:30,NA,NA
+28,103,"Antoine, Benoit",Peugeot 205 GTI,FR,N,+2h 31m 23s,7:00,NA,NA
+29,66,"Simoes, Fernando",Toyota Corolla GT,PT,A,+2h 32m 37s,1:00,NA,NA
+30,62,"Pires, Ricardo",Opel Manta,PT,A7,+2h 41m 50s,20:00,NA,NA
+31,67,"Janota Vistas, Manuel",Toyota Corolla,PT,A,+2h 42m 24s,4:00,NA,NA
+32,89,Costa Azevado,Renault 11 Turbo,PT,N,+2h 43m 23s,17:00,NA,NA
+33,60,"Conceicao, Orlando",Opel Manta,PT,A,+2h 43m 24s,3:00,NA,NA
+34,56,"Barata, Miguel",Renault 11 Turbo,PT,A,+2h 52m 00s,19:00,NA,NA
+35,107,"le Behot, Philippe",Citroen AX,FR,N,+2h 54m 55s,6:00,NA,NA
+36,105,"Veloso Amaral, Manuel",Citroen AX,PT,N,+3h 29m 16s,19:00,NA,NA
+37,68,"Capre, Gerard",Toyota Corolla GT,CH,A,+3h 29m 23s,31:00,NA,NA
+38,109,"Alfaro, Manuel",Suzuki Swift GTI,ES,N,+4h 14m 13s,6:00,NA,NA
+NA,2,"Kankkunen, Juha",Toyota Celica GT-4 (ST165),FI,A,NA,NA,SS18,engine
+NA,4,"Waldegard, Bjorn",Toyota Celica GT-4 (ST165),SE,A,NA,NA,SS25,gearbox
+NA,5,"Auriol, Didier",Lancia Delta Integrale,FR,A,NA,NA,SS29,clutch
+NA,7,"Gaban, Pascal",Lancia Delta Integrale,BE,N,NA,NA,SS13,accident
+NA,9,"Sainz, Carlos",Toyota Celica GT-4 (ST165),ES,A,NA,NA,SS16,accident
+NA,11,"Santos, Joaquim",Ford Sierra RS Cosworth,PT,A,NA,NA,SS3,accident
+NA,15,"de Martini, Paola",Audi 90 quattro,IT,A,NA,NA,SS11,accident
+NA,19,"Nilsson, Soren",Lancia Delta Integrale,SE,N4,NA,NA,SS8,accident
+NA,23,"Baumschlager, Raimund",Volkswagen Golf GTI 16V,AT,A7,NA,NA,SS10,engine
+NA,37,"Lopes, Adruzilo",Mazda 323 4WD,PT,N4,NA,NA,SS14,engine
+NA,49,"Kazaz, Ercan",Mazda 323 4WD,TU,N4,NA,NA,SS7,differential
+NA,59,"Mendes, Augosto",Opel Kadett GSi,PT,A7,NA,NA,SS6,accident
+NA,79,"Folco-Zambelli, Gabriele",Lancia Delta Integrale,IT,N4,NA,NA,SS2,accident

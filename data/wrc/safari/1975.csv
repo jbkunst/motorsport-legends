@@ -1,0 +1,26 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,26,"Andersson, Ove",Peugeot 504,SE,G2,11h 58m,NA,NA,NA
+2,3,"Munari, Sandro",Lancia Stratos HF,IT,G4,+38m,NA,NA,NA
+3,8,"Waldegard, Bjorn",Lancia Stratos HF,SE,G4,+1h 59m,NA,NA,NA
+4,33,"Cowan, Andrew",Mitsubishi Colt Lancer,GB,G2,+2h 33m,NA,NA,NA
+5,36,"Shankland, Bert",Peugeot 504,TZ,G2,+3h 03m,NA,NA,NA
+6,14,"Remtulla, Zully",Datsun 710,TZ,G2,+4h 36m,NA,NA,NA
+7,34,"Hellier, John",Datsun 160B,KE,G2,+6h 14m,NA,NA,NA
+8,39,"Singh, Davinder",Mitsubishi Colt Lancer,KE,G2,+7h 07m,NA,NA,NA
+9,27,"Tundo, Frank",Datsun 710,KE,G2,+7h 17m,NA,NA,NA
+10,19,"Choda, Prem",Mitsubishi Colt Lancer,KE,G2,+11h 03m,NA,NA,NA
+11,29,"Preston Jr, Vic",Lancia Stratos HF,KE,G4,+11h 06m,NA,NA,NA
+12,25,"Noon, Jim",Mitsubishi Galant,KE,G2,+11h 19m,NA,NA,NA
+13,23,"Neyret, Robert",Renault-Alpine A110,FR,G4,+11h 39m,NA,NA,NA
+14,22,"Singh, Manjit",Datsun 1800SSS,NA,G2,+14h 00m,NA,NA,NA
+NA,1,"Makinen, Timo",Peugeot 504,FI,G2,NA,NA,NA,engine
+NA,2,"Mehta, Shekhar",Lancia Beta,KE,G4,NA,NA,NA,front suspension
+NA,4,"Singh, Joginder",Mitsubishi Colt Lancer,KE,G2,NA,NA,NA,engine
+NA,5,"Therier, Jean-Luc",Renault-Alpine A110,FR,G4,NA,NA,NA,engine
+NA,6,"Collinge, Robert",Renault-Alpine A110,KE,G4,NA,NA,NA,clutch
+NA,9,"Ulyate, Robin",Lancia Beta,KE,G4,NA,NA,NA,front suspension
+NA,11,"Kallstrom, Harry",Datsun Violet,SE,G2,NA,NA,NA,engine
+NA,12,"Mikkola, Hannu",Peugeot 504,FI,G2,NA,NA,NA,accident
+NA,16,"Schuller, Hans",Datsun 260Z,DE,G4,NA,NA,NA,electrics
+NA,31,"Simonian, Jack",Renault 17 Gordini,KE,G2,NA,NA,NA,driveshaft
+NA,35,"Piot, Jean-Francois",Renault 17 Gordini,FR,G2,NA,NA,NA,clutch

@@ -1,0 +1,77 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"Ericsson, Mikael",Lancia Delta Integrale,SE,A8,7h 06m 00s,NA,NA,NA
+2,2,"Fiorio, Alessandro",Lancia Delta Integrale,IT,A,+2m 26s,NA,NA,NA
+3,1,"Recalde, Jorge",Lancia Delta Integrale,AR,A,+13m 42s,NA,NA,NA
+4,5,"Fischer, Georg",Audi 200 quattro,AT,A,+36m 10s,NA,NA,NA
+5,10,"Soto, Ernesto",Renault 18 GTX,AR,A,+42m 15s,NA,NA,NA
+6,34,"Stella, Fernando",Renault 18 GTX,AR,A,+50m 42s,NA,NA,NA
+7,7,"Trelles, Gustavo",Lancia Delta Integrale,UY,N,+53m 01s,NA,NA,NA
+8,8,"Traverso, Juan-Maria",Renault 18 GTX,AR,A,+53m 55s,NA,NA,NA
+9,15,"Bescham, Jorge",Fiat Regata,AR,A,+1h 05m 28s,NA,NA,NA
+10,20,"Fuchter, Edio",Volkswagen Gol,BR,A,+1h 15m 50s,NA,NA,NA
+11,89,"Gianre, Norberto",Fiat 128,AR,B,+1h 16m 51s,NA,NA,NA
+12,31,"Gonzalez, Ignacio",Renault 18 GTX,NA,A7,+1h 33m 44s,NA,NA,NA
+13,21,"Grasso, Jose-Luis",Fiat Regata,AR,A6,+1h 35m 48s,NA,NA,NA
+14,46,"Sala, Alejandro",Renault 18 GTX,AR,A7,+1h 39m 42s,NA,NA,NA
+15,51,"Maranzana, Pablo Luis",Renault 18 GTX,AR,A7,+1h 42m 02s,NA,NA,NA
+16,55,"Piazza, Carlos",Fiat Regata,AR,A6,+1h 51m 08s,NA,NA,NA
+17,74,"Chali, Jorge",Renault 18 GTX,AR,A7,+1h 53m 15s,NA,NA,NA
+18,38,"Pereira, Gonzalo",Volkswagen Gol,AR,A6,+1h 55m 16s,NA,NA,NA
+19,22,"Urrutia, Fernando",Suzuki Swift,CL,A5,+2h 01m 36s,NA,NA,NA
+20,48,"Sisterna, Lino",Renault 18 GTX,AR,A7,+2h 07m 01s,NA,NA,NA
+21,44,"Levalle, Enrique",Suzuki Cultus (Swift),CL,A5,+2h 20m 25s,NA,NA,NA
+22,17,"Adriani, Alberto",Fiat Regata,VE,A6,+2h 23m 22s,NA,NA,NA
+23,71,"Salman, Enrique",Renault 18 GTX,AR,A7,+2h 23m 46s,NA,NA,NA
+24,80,"Alanoca Quino, Jesus",Toyota Celica,BO,NA,+2h 24m 45s,NA,NA,NA
+25,25,"Cordovanna, Carmelo",Renault 18 GTX,AR,A7,+2h 43m 24s,NA,NA,NA
+26,67,"Silva, Luis",Renault 18 GTX,AR,A7,+2h 47m 08s,NA,NA,NA
+27,95,"Zegatti, Fernando",Fiat 128,AR,B,+2h 55m 20s,NA,NA,NA
+28,93,"Canals, Angel",Fiat 128,AR,B,+3h 07m 02s,NA,NA,NA
+29,82,"Gariglio, Ricardo",Volkswagen Gacel,AR,A6,+3h 09m 27s,NA,NA,NA
+30,78,"Sabbatini, Fernando",Fiat Regata,AR,A6,+3h 18m 13s,NA,NA,NA
+31,88,"Buigas, Antonio",Fiat 128,AR,B,+3h 51m 38s,NA,NA,NA
+32,94,'El Hijo de Tito',Fiat 128,AR,B,+4h 40m 26s,NA,NA,NA
+33,79,"Doino, Gustavo",Volkswagen Gacel,AR,A6,+7h 36m 02s,NA,NA,NA
+NA,4,"Bourne, Peter",Subaru RX Turbo,NZ,A,NA,NA,SS7,accident
+NA,6,"Celsi, Jose",Subaru RX Turbo,CL,A,NA,NA,SS30,accident
+NA,9,"Raies, Gabriel",Renault 18 GTX,AR,A,NA,NA,SS15,differential
+NA,11,"Torras, Miguel",Renault 18 GTX,AR,A,NA,NA,SS25,transmission
+NA,12,"Rodriguez, Daniel",Renault 18 GTX,AR,A7,NA,NA,NA,unknown
+NA,14,"d'Agostini, Walter",Renault 18 GTX,AR,A7,NA,NA,NA,unknown
+NA,16,"Etchegoyen, Luis",Volkswagen Gol,UY,A6,NA,NA,NA,unknown
+NA,18,"Sanabria, Nelson",Volkswagen Gol,PY,A6,NA,NA,NA,unknown
+NA,23,"Odon, Carlos",Renault 18 GTX,AR,A7,NA,NA,NA,unknown
+NA,24,"Rodriguez Prada, Hugo",Renault 18 GTX,AR,A7,NA,NA,NA,unknown
+NA,26,"Pomes, Alberto",Renault 18 GTX,AR,A7,NA,NA,NA,unknown
+NA,27,"Lonati, Eduardo",Renault 18 GTX,AR,A7,NA,NA,NA,unknown
+NA,29,"Odriozola, Juan Martin",Renault 18 GTX,AR,A7,NA,NA,NA,unknown
+NA,32,"Foche, Marcelo",Renault 18 GTX,AR,A7,NA,NA,NA,unknown
+NA,33,"Miglio, Alejandro",Renault 18 GTX,AR,A7,NA,NA,NA,unknown
+NA,35,"Cammarota, Fernando",Renault 18 GTX,AR,A7,NA,NA,NA,unknown
+NA,36,"Marroquin, Emilio",Renault 18 GTX,AR,A7,NA,NA,NA,unknown
+NA,37,"de Giovanni, Omar",Fiat Regata,AR,A6,NA,NA,NA,unknown
+NA,41,"Trossero, Rudi",Fiat Regata,AR,A6,NA,NA,NA,unknown
+NA,42,"Aguirre, Eduardo C.",Subaru,CL,NA,NA,NA,NA,unknown
+NA,45,"Maccari, Oscar",Renault 18 GTX,AR,A7,NA,NA,NA,unknown
+NA,49,"Lopez, Eduardo",Renault 18 GTX,AR,A7,NA,NA,NA,unknown
+NA,50,"Pirles, Osvaldo",Renault 18 GTX,AR,A7,NA,NA,NA,unknown
+NA,53,"Escariz, Horacio",Volkswagen Gacel,AR,A6,NA,NA,NA,unknown
+NA,54,"Spataro, Jose",Volkswagen Gacel,AR,A6,NA,NA,NA,unknown
+NA,56,"Rivera, Eduardo",Fiat Regata,NA,A6,NA,NA,NA,unknown
+NA,57,"Cornejo, Victor",Renault 18 GTX,NA,A7,NA,NA,NA,unknown
+NA,58,"Gayanigo, Alejandro",Renault 18 GTX,AR,A7,NA,NA,NA,unknown
+NA,59,"Gradin, Mario",Renault 18 GTX,AR,A7,NA,NA,NA,unknown
+NA,61,"Moni, Adrian",Renault 18 GTX,AR,A7,NA,NA,NA,unknown
+NA,62,"Waidatt, Cesar",Renault 18 GTX,AR,A7,NA,NA,NA,unknown
+NA,63,"Aranzazo, German",Renault 18 GTX,NA,A7,NA,NA,NA,unknown
+NA,66,"Osvaldo, Giro",Renault 18 GTX,AR,A7,NA,NA,NA,unknown
+NA,70,"Krattiger, Andreas",Renault 18 GTX,CH,A7,NA,NA,NA,unknown
+NA,72,"Maciel, Hernan",? Unknown Make ? ? Unknown Model ?,AR,NA,NA,NA,NA,unknown
+NA,73,"Nathan, Jurgen",? Unknown Make ? ? Unknown Model ?,DE,NA,NA,NA,NA,unknown
+NA,75,"Gavina, Pablo",? Unknown Make ? ? Unknown Model ?,AR,NA,NA,NA,NA,unknown
+NA,76,"Pigliacampo, Sebastian",? Unknown Make ? ? Unknown Model ?,AR,NA,NA,NA,NA,unknown
+NA,77,"Morales Perez, Juan",? Unknown Make ? ? Unknown Model ?,BO,NA,NA,NA,NA,unknown
+NA,85,"Perez, Marcelo",? Unknown Make ? ? Unknown Model ?,CL,NA,NA,NA,NA,unknown
+NA,86,"Biondi, Juan Carlos",? Unknown Make ? ? Unknown Model ?,IT,NA,NA,NA,NA,unknown
+NA,90,"Dechecchi, Gustavo",? Unknown Make ? ? Unknown Model ?,AR,NA,NA,NA,NA,unknown
+NA,96,"Rocca, Carlos",? Unknown Make ? ? Unknown Model ?,AR,NA,NA,NA,NA,unknown

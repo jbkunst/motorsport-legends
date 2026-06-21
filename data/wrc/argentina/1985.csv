@@ -1,0 +1,17 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"Salonen, Timo",Peugeot 205 Turbo 16,FI,B,10h 04m 33s,NA,NA,NA
+2,7,"Wiedner, Wilfried",Audi quattro A2,AT,B,+13m 56s,NA,NA,NA
+3,1,"Reutemann, Carlos",Peugeot 205 Turbo 16,AR,B,+31m 14s,NA,NA,NA
+4,2,"Mehta, Shekhar",Nissan 240 RS,KE,B,+1h 00m 13s,NA,NA,NA
+5,16,"Soto, Ernesto",Renault 18,AR,A,+1h 06m 25s,NA,NA,NA
+6,10,"Stillo, Mario",Renault 12,AR,A,+1h 45m 09s,NA,NA,NA
+7,8,"Shah, Jayant",Nissan 240 RS,KE,B,+1h 57m 43s,NA,NA,NA
+8,19,"Bordin, Sady",Chevrolet Chevette,BR,A,+2h 09m 13s,NA,NA,NA
+9,39,"West, Federico",Ford Escort RS,UY,A,+2h 26m 42s,NA,NA,NA
+10,35,"Etchegoyen, Luis",Ford Escort RS,UY,A,+2h 32m 32s,NA,NA,NA
+39,94,"Bavio, Dora",Peugeot 504,AR,A,+9h 49m 10s,NA,NA,NA
+NA,4,"Vatanen, Ari",Peugeot 205 Turbo 16,FI,B,NA,NA,SS2,accident
+NA,5,"Blomqvist, Stig",Audi quattro Sport S1,SE,B,NA,NA,SS8,engine
+NA,6,"Recalde, Jorge",Renault 18,AR,A,NA,NA,SS6,head gasket
+NA,9,"Torras, Miguel",Renault 12,AR,A,NA,NA,post-event,over-size exhaust valves
+NA,17,"Raies, Gabriel",Renault 18,AR,A,NA,NA,SS12,transmission

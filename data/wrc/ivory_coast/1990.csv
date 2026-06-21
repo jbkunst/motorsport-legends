@@ -1,0 +1,16 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Tauziac, Patrick",Mitsubishi Galant VR-4,FR,A8,4h 54m,NA,NA,NA
+2,10,"Stohl, Rudolf",Audi 90 quattro,AT,A,+1h 02m,NA,NA,NA
+3,4,"Oreille, Alain",Renault 5 GT Turbo,FR,N,+1h 58m,NA,NA,NA
+4,2,"Ambrosino, Alain",Nissan March Turbo,FR,A,+3h 15m,NA,NA,NA
+5,6,"Servant, Patrice",Toyota Corolla,FR,A,+3h 31m,NA,NA,NA
+6,8,"Molinie, Michel",Toyota Corolla,CI,A,+4h 41m,NA,NA,NA
+7,19,"Bernier, Jean-Philippe",Toyota Corolla,FR,A,+5h 41m,NA,NA,NA
+8,25,"Evina, Viviane",Toyota Corolla,CM,N,+6h 33m,NA,NA,NA
+9,21,"Dionneau, Jean-Michel",Toyota Celica GT-4 (ST165),FR,A,+6h 59m,NA,NA,NA
+10,3,"Choteau, Adolphe",Toyota Corolla,CI,A,+7h 48m,NA,NA,NA
+NA,5,"Graziani, Jose",Toyota Corolla,FR,A,NA,NA,TC3,fuel pump
+NA,9,"Shinozuka, Kenjiro",Mitsubishi Galant VR-4,JP,A,NA,NA,TC48,accident
+NA,11,"Assef, Samir",Toyota Celica GT-4 (ST165),CI,A,NA,NA,TC36,unknown
+NA,12,"Trelles, Gustavo",Lancia Delta Integrale,UY,N,NA,NA,TC3,accident
+NA,15,"Antoine, Benoit",Peugeot 205 GTI,FR,N,NA,NA,TC54,engine

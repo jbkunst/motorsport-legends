@@ -1,0 +1,95 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Auriol, Didier",Toyota Celica GT-Four (ST205),FR,A8,5h 14m 49s,NA,NA,NA
+2,7,"Delecour, Francois",Ford Escort RS Cosworth,FR,A,+15s,NA,NA,NA
+3,12,"Aghini, Andrea",Mitsubishi Lancer Evo III,IT,A,+57s,NA,NA,NA
+4,5,"Sainz, Carlos",Subaru Impreza 555,ES,A,+1m 18s,NA,NA,NA
+5,4,"McRae, Colin",Subaru Impreza 555,GB,A,+1m 43s,NA,NA,NA
+6,6,"Liatti, Piero",Subaru Impreza 555,IT,A,+2m 27s,NA,NA,NA
+7,9,"Bernardini, Patrick",Ford Escort RS Cosworth,FR,A,+3m 05s,NA,NA,NA
+8,11,"Makinen, Tommi",Mitsubishi Lancer Evo III,FI,A,+4m 50s,NA,NA,NA
+9,21,"Bugalski, Philippe",Renault Clio Maxi,FR,A,+5m 36s,NA,NA,NA
+10,2,"Kankkunen, Juha",Toyota Celica GT-Four (ST205),FI,A,+10m 01s,NA,NA,NA
+11,17,"Ragnotti, Jean",Renault Clio Maxi,FR,A,+12m 26s,NA,NA,NA
+12,27,"Panizzi, Gilles",Peugeot 306,FR,A,+13m 33s,NA,NA,NA
+13,25,"Doenlen, Fabien",Peugeot 306,FR,A,+13m 52s,NA,NA,NA
+14,23,"Loix, Freddy",Opel Astra,BE,A,+16m 09s,NA,NA,NA
+15,31,"Balesi, Claude",Renault Clio Williams,FR,A,+18m 03s,NA,NA,NA
+16,33,"Manzagol, Jean-Pierre",Renault Clio Williams,FR,A,+23m 36s,NA,NA,NA
+17,30,"Mariani, Francis",Ford Escort RS Cosworth,FR,A,+25m 37s,NA,NA,NA
+18,14,"Madeira, Rui",Mitsubishi Lancer Evo II,PT,N,+28m 54s,NA,NA,NA
+19,10,"Holderied, Isolde",Mitsubishi Lancer Evo II,DE,N,+30m 00s,NA,NA,NA
+20,15,"Recalde, Jorge",Mitsubishi Lancer Evo II,AR,N,+31m 52s,NA,NA,NA
+21,18,"bin Sulayem, Mohammed",Toyota Celica GT-Four (ST205),AE,N,+35m 00s,NA,NA,NA
+22,45,"Andreani, Jacques",Ford Escort RS Cosworth,FR,N,+35m 06s,NA,NA,NA
+23,40,"Fiori, Guy",BMW 325i,FR,N,+39m 32s,NA,NA,NA
+24,50,"Boetti, Michel",Peugeot 106,FR,A,+39m 51s,NA,NA,NA
+25,43,"Gassner, Hermann",Mitsubishi Lancer Evo II,DE,N,+39m 54s,NA,NA,NA
+26,41,"Casalta, Christophe",BMW 325i,FR,A,+47m 52s,NA,NA,NA
+27,65,"Frau, Richard",Renault Clio Williams,FR,N,+55m 01s,NA,NA,NA
+28,81,"Cordoliani, Ange-Paul",Renault Clio Williams,FR,N,+1h 00m 55s,NA,NA,NA
+29,52,"Adam, Jose",Peugeot 106,FR,A,+1h 05m 07s,NA,NA,NA
+30,76,"Antona, Erick",Renault Clio Williams,FR,N,+1h 12m 25s,NA,NA,NA
+31,87,"de Belloy, Priscille",Fiat Cinquecento Sporting,FR,A,+1h 13m 28s,NA,NA,NA
+32,89,"Chevite, Pascal",Peugeot 205 Rallye,FR,A,+1h 19m 16s,NA,NA,NA
+33,84,"Ciocca, Philippe",Peugeot 205 GTI,FR,A,+1h 26m 23s,NA,NA,NA
+34,72,"Giraud, Jean-Luc",Peugeot 306,FR,N,+1h 28m 01s,NA,NA,NA
+35,69,"Leymarie, Francis",Peugeot 306,FR,N,+1h 30m 44s,NA,NA,NA
+36,74,"Benedic, Alain",Peugeot 306,FR,N,+1h 33m 44s,NA,NA,NA
+37,61,"Aubert, Jean-Jacques",Renault Clio,FR,A,+1h 38m 10s,NA,NA,NA
+38,95,"Laissus, Marcel",Peugeot 106,FR,N,+1h 43m 32s,NA,NA,NA
+39,73,"Moreira, Michel",Renault Clio Williams,FR,N,+1h 50m 25s,NA,NA,NA
+40,97,"Bigoni, Vittorio",Peugeot 205 Rallye,IT,N,+1h 54m 39s,NA,NA,NA
+41,58,"Ascione, Alain",Renault 5 GT Turbo,FR,N,+1h 58m 07s,NA,NA,NA
+42,79,"Malegarie, Alain",Peugeot 306,FR,N,+2h 08m 40s,NA,NA,NA
+43,92,"Durante, Mauro",Fiat Cinquecento Sporting,IT,A,+2h 08m 57s,NA,NA,NA
+44,78,"Peretti, Martin",Peugeot 205 GTI,FR,N,+2h 26m 44s,NA,NA,NA
+NA,3,"Schwarz, Armin",Toyota Celica GT-Four (ST205),DE,A,NA,NA,SS9,alternator
+NA,8,"Thiry, Bruno",Ford Escort RS Cosworth,BE,A,NA,NA,SS20,wheel bearing
+NA,16,"Triner, Emil",Skoda Felicia Kit-Car,CZ,A,NA,NA,SS2,suspension
+NA,19,"Sibera, Pavel",Skoda Felicia Kit-Car,CZ,A,NA,NA,SS8,engine
+NA,22,"Loubet, Yves",Ford Escort RS Cosworth,FR,N,NA,NA,SS6,OTL
+NA,24,"Mercier, Eddie",Renault Clio Williams,FR,N,NA,NA,NA,unknown
+NA,26,"Massarotto, Marco",Subaru Impreza,FR,A,NA,NA,NA,unknown
+NA,28,"Samuel, Remi",Ford Escort,FR,N,NA,NA,NA,unknown
+NA,29,Postel,Subaru Impreza,NA,A,NA,NA,NA,unknown
+NA,32,"Rosenberger, Kristopher",Ford Escort,AT,A,NA,NA,NA,unknown
+NA,34,"Benazzi, Pierre",BMW M3,FR,A,NA,NA,NA,unknown
+NA,35,Ceccaldi,BMW M3,NA,A,NA,NA,NA,unknown
+NA,36,"da Sacco, Franco",Subaru Impreza,IT,A,NA,NA,NA,unknown
+NA,37,"Recordati, Giovanni",Lancia Delta,IT,A,NA,NA,NA,unknown
+NA,38,"Santoni, Jean-Marie",Ford Escort,FR,N,NA,NA,NA,unknown
+NA,39,"Padovani, Jacques",Ford Escort,FR,N,NA,NA,NA,unknown
+NA,42,"Nittel, Uwe",Toyota Celica GT-Four (ST205),DE,N,NA,NA,NA,engine
+NA,44,"Navarra, Andrea",Toyota Celica,IT,N,NA,NA,NA,unknown
+NA,46,Ruggeri,Ford Escort,NA,N,NA,NA,NA,unknown
+NA,47,"Manfrinato, Giovanni",Ford Escort,IT,N,NA,NA,NA,unknown
+NA,48,Sardelli,Ford Escort,IT,N,NA,NA,NA,unknown
+NA,49,"Salvatori, Marco",Ford Escort,IT,N,NA,NA,NA,unknown
+NA,51,"Medeghini, Angelo",Renault Clio Maxi,IT,A,NA,NA,NA,unknown
+NA,53,"Casanova, Frederic",Peugeot 106,FR,A,NA,NA,NA,unknown
+NA,54,Fayet,Renault 5 GT Turbo,NA,N,NA,NA,NA,unknown
+NA,55,Sechi,Renault 5 GT Turbo,NA,N,NA,NA,NA,unknown
+NA,56,Langiani,Renault 5 GT Turbo,NA,N,NA,NA,NA,unknown
+NA,57,Bolzan,Renault 5 GT Turbo,NA,N,NA,NA,NA,unknown
+NA,59,"Chiocca, Georges",Lancia Delta,FR,N,NA,NA,NA,unknown
+NA,60,"Mariani, Paul",Renault Clio Williams,FR,A,NA,NA,NA,unknown
+NA,62,"Gardere, Paul",Opel Astra,FR,A,NA,NA,NA,unknown
+NA,63,Roncaglia,Peugeot 309 GTI,NA,A,NA,NA,NA,unknown
+NA,64,Barbolosi,Peugeot 309 GTI,NA,A,NA,NA,NA,unknown
+NA,66,"Reininger, Stefan",Renault Clio,AT,N,NA,NA,NA,unknown
+NA,67,Oudry,Renault Clio Williams,NA,N,NA,NA,NA,unknown
+NA,68,Muller,Opel Astra,NA,N,NA,NA,NA,unknown
+NA,70,Giraud,Peugeot 309 GTI,FR,N,NA,NA,NA,unknown
+NA,71,"Padovani, Gabriel",Peugeot 309 GTI,FR,N,NA,NA,NA,unknown
+NA,75,"Bensimon, Claude",Renault Clio Williams,FR,N,NA,NA,NA,unknown
+NA,77,Richaud,Renault Clio Williams,NA,N,NA,NA,NA,unknown
+NA,80,Bosquetti,Renault Clio Williams,NA,N,NA,NA,NA,unknown
+NA,82,Edwards,Vauxhall Nova,NA,A,NA,NA,NA,unknown
+NA,83,Voisin,Peugeot 205 GTI,NA,A,NA,NA,NA,unknown
+NA,86,"Bigoni, Giancarlo",Opel Corsa GSi,IT,A,NA,NA,NA,unknown
+NA,88,Mondoloni,Peugeot 205 GTI,FR,N,NA,NA,NA,unknown
+NA,90,"Cesari, Claude",Citroen AX,FR,A,NA,NA,NA,unknown
+NA,91,Quilici,Citroen AX,NA,A,NA,NA,NA,unknown
+NA,93,Giovanni,Citroen AX,NA,A,NA,NA,NA,unknown
+NA,94,"Cesbron, Jaccky",Renault Clio,FR,A,NA,NA,NA,unknown
+NA,98,Savelli,Peugeot 205 GTI,FR,N,NA,NA,NA,unknown

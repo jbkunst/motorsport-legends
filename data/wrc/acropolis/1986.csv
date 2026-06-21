@@ -1,0 +1,22 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,5,"Kankkunen, Juha",Peugeot 205 Turbo 16 E2,FI,B,7h 20m 01s,NA,NA,NA
+2,8,"Biasion, Massimo",Lancia Delta S4,IT,B,+1m 37s,NA,NA,NA
+3,9,"Saby, Bruno",Peugeot 205 Turbo 16 E2,FR,B,+9m 54s,NA,NA,NA
+4,15,"al-Hajri, Saeed",Porsche 911SC RS,QA,B,+51m 10s,NA,NA,NA
+5,16,"Hatzipanayiotou, Stratis",Nissan 240 RS,GR,B,+1h 00m 50s,NA,NA,NA
+6,35,"Stohl, Rudolf",Audi Coupe,AT,A,+1h 04m 43s,NA,NA,NA
+7,23,"Eriksson, Kenneth",Volkswagen Golf GTi,SE,A,+1h 07m 24s,NA,NA,NA
+8,12,"Moschous, George",Nissan 240 RS,GR,B,+1h 08m 33s,NA,NA,NA
+9,25,"Wittman, Franz",Volkswagen Golf GTi,AT,A,+1h 14m 21s,NA,NA,NA
+10,24,"Rayneri, Michele",Fiat Uno Turbo,IT,A,+1h 19m 59s,NA,NA,NA
+22,54,"Neyret, Pascale",Citroen Visa,FR,B,+2h 43m 50s,NA,NA,NA
+NA,1,"Salonen, Timo",Peugeot 205 Turbo 16 E2,FI,B,NA,NA,SS28,suspension
+NA,2,"Blomqvist, Stig",Ford RS200,SE,B,NA,NA,SS18,accident
+NA,3,"Alen, Markku",Lancia Delta S4,FI,B,NA,NA,SS44,engine
+NA,6,"Grundel, Karl",Ford RS200,SE,B,NA,NA,SS20,wheel studs
+NA,10,"del Zoppo, Giovanni",Fiat Uno Turbo,IT,A,NA,NA,SS1,suspension
+NA,11,"Ericsson, Mikael",Lancia Delta S4,SE,B,NA,NA,SS18,suspension
+NA,14,"Andruet, Jean-Claude",Citroen BX 4TC,FR,B,NA,NA,SS3,accident
+NA,17,"Wambergue, Philippe",Citroen BX 4TC,FR,B,NA,NA,SS2,suspension
+NA,18,"Turiani, Auguste",Opel Manta 400,MC,B,NA,NA,SS5,rear axle
+NA,19,"Chomat, Maurice",Citroen BX 4TC,FR,B,NA,NA,SS2,suspension

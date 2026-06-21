@@ -1,0 +1,118 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,6,"Mikkola, Hannu",Ford Escort RS1600,FI,G2,3h 11m 42s,NA,NA,NA
+2,1,"Makinen, Timo",Ford Escort RS1600,FI,G2,+31s,NA,NA,NA
+3,3,"Alen, Markku",Fiat 124 Abarth Spider,FI,G4,+2m 10s,NA,NA,NA
+4,2,"Blomqvist, Stig",Saab 96 V4,SE,G2,+2m 20s,NA,NA,NA
+5,7,"Lampinen, Simo",Saab 96 V4,FI,G2,+5m 51s,NA,NA,NA
+6,5,"Kinnunen, Leo",Fiat 124 Abarth Spider,FI,G4,+6m 12s,NA,NA,NA
+7,11,"Rainio, Tapio",Saab 96 V4,FI,G2,+7m 34s,NA,NA,NA
+8,13,"Kullang, Anders",Opel Ascona,SE,G2,+9m 44s,NA,NA,NA
+9,25,"Ojanen, Antti",Fiat 124 Abarth Spider,FI,G4,+9m 53s,NA,NA,NA
+10,9,"Waldegard, Bjorn",Opel Ascona,SE,G2,+11m 20s,NA,NA,NA
+11,27,"Vilkas, Jari",Saab 96 V4,FI,G2,+12m 20s,NA,NA,NA
+12,34,"Valtaharju, Hannu",Opel Ascona,FI,G2,+14m 23s,NA,NA,NA
+13,4,"Warmbold, Achim",BMW 2002,DE,G2,+14m 42s,NA,NA,NA
+14,37,"Enomaa, Heikki",BMW 2002,FI,G2,+16m 05s,NA,NA,NA
+15,26,"Pitkanen, Erkki",Volvo 142,FI,G2,+16m 30s,NA,NA,NA
+16,29,"Airikkala, Pentti",Vauxhall Viva Magnum,FI,G1,+16m 49s,NA,NA,NA
+17,31,"Hamalainen, Kyosti",Alfa Romeo 2000 GTV,FI,G1,+18m 24s,NA,NA,NA
+18,15,"Barbasio, Sergio",Fiat 124 Abarth,IT,G2,+18m 28s,NA,NA,NA
+19,14,"Paganelli, Alcide",Fiat 124 Abarth,IT,G2,+23m 24s,NA,NA,NA
+20,32,"Karha, Pertti",Sunbeam Avenger,FI,G1,+24m 14s,NA,NA,NA
+21,10,"Kallstrom, Harry",Datsun Violet,SE,G2,+26m 39s,NA,NA,NA
+22,43,"Salonen, Timo",Mazda 1300,FI,G1,+26m 56s,NA,NA,NA
+23,33,"Nilsson, Borje",Volvo 142,SE,G2,+27m 16s,NA,NA,NA
+24,21,"Culcheth, Brian",Morris Marina,GB,G2,+27m 57s,NA,NA,NA
+25,20,"Toivonen, Pauli",Simca 1000,FI,G1,+28m 27s,NA,NA,NA
+26,35,"Haugland, John",Skoda 120,NO,G2,+29m 52s,NA,NA,NA
+27,41,"Wiklund, Johan",BMW 2002,FI,G2,+31m 04s,NA,NA,NA
+28,55,"Heinonen, Eeva",Volvo 142,FI,G2,+31m 18s,NA,NA,NA
+29,80,"Seitsola, Martti",Saab 96 V4,FI,G2,+31m 42s,NA,NA,NA
+30,40,"Saari, Kyosti",Alfa Romeo,FI,G1,+31m 53s,NA,NA,NA
+31,70,"Salo, Seppo",Opel Ascona,FI,G1,+32m 08s,NA,NA,NA
+32,36,"Valkonen, Hannu",Opel Ascona,FI,G1,+33m 05s,NA,NA,NA
+33,42,"Minkkinen, Risto",Saab 96 V4,FI,G2,+33m 28s,NA,NA,NA
+34,65,"Jouhki, Timo",Alfa Romeo 2000 GTV,FI,G1,+33m 32s,NA,NA,NA
+35,66,"Johansson, Matti",Saab 96 V4,FI,G2,+33m 50s,NA,NA,NA
+36,84,"Gronroos, Reijo",Volvo 142,FI,G2,+35m 38s,NA,NA,NA
+37,110,"Arikoski, Matti",Volvo 142,FI,G2,+35m 43s,NA,NA,NA
+38,54,"Pahkinen, Erkki",Opel Ascona,FI,G1,+36m 17s,NA,NA,NA
+39,53,"Leponiemi, Juha",BMW 2002Tii,FI,G1,+36m 21s,NA,NA,NA
+40,45,"Markula, Jaakko",Alfa Romeo Alfasud,FI,G1,+36m 34s,NA,NA,NA
+41,16,"Fiorentino, Bernard",Simca 1000,FR,G2,+38m 25s,NA,NA,NA
+42,47,"Suominen, Kari",Volvo 142,FI,G2,+38m 46s,NA,NA,NA
+43,52,"Nuuttila, Esko",Opel Kadett,FI,G1,+39m 27s,NA,NA,NA
+44,106,"Hanslin, John",Ford Capri,FI,G1,+40m 07s,NA,NA,NA
+45,46,"Makela, Kauko",Peugeot 304,FI,G2,+40m 13s,NA,NA,NA
+46,69,"Sevelius, Hans",Alfa Romeo Giulia,FI,G1,+40m 28s,NA,NA,NA
+47,51,"Raivio, Matti",BMW 2002Tii,FI,G1,+41m 28s,NA,NA,NA
+48,78,"Nelskyla, Curt",BMW 2002Tii,FI,G1,+42m 44s,NA,NA,NA
+49,107,"Kuljukin, Vladimir",Lada 1200,SU,G2,+43m 12s,NA,NA,NA
+50,119,"Hissa, Matti",Ford Escort,FI,G1,+44m 13s,NA,NA,NA
+51,48,"Metso, Viljo",Opel Ascona,FI,G1,+45m 04s,NA,NA,NA
+52,64,"Thompson, David",Vauxhall Magnum Coupe,GB,G2,+45m 26s,NA,NA,NA
+53,62,"Elomaa, Kari",Opel Kadett Rallye,FI,G1,+45m 45s,NA,NA,NA
+54,72,"Brundza, Stasis",Moskvitsh,SU,G2,+47m 05s,NA,NA,NA
+55,73,"Jarvinen, Pertti",Volvo 142,FI,G2,+48m 11s,NA,NA,NA
+56,44,"Dorche, Christian",BMW 2002Tii,FR,G1,+48m 13s,NA,NA,NA
+57,76,"Wallinheimo, Hannu",Skoda 120,FI,G2,+48m 13s,NA,NA,NA
+58,19,"Vilkas, Onni",BMW 2002,FI,G2,+50m 35s,NA,NA,NA
+59,71,"Vilpponen, Pekka",Moskvitsh,FI,G2,+50m 48s,NA,NA,NA
+60,74,"Thunberg, Ake",Peugeot 404,SE,G2,+52m 53s,NA,NA,NA
+61,68,"Thompson, Peter",Vauxhall Magnum Coupe,GB,G2,+53m 19s,NA,NA,NA
+62,60,"Avomeri, Marianne",Simca 1000,FI,G1,+54m 40s,NA,NA,NA
+63,94,"Merikanto, Hannu",Opel Ascona,FI,G1,+54m 47s,NA,NA,NA
+64,75,"Bubnov, Vladimir",Moskvitsh,SU,G2,+55m 55s,NA,NA,NA
+66,93,"af Heurlin, Reijo",Datsun 100A,FI,G2,+57m 04s,NA,NA,NA
+67,118,"Kononen, Erkki",Ford Escort,FI,G1,+57m 04s,NA,NA,NA
+68,102,"Makela, Asko",Lada 1200,FI,G1,+57m 51s,NA,NA,NA
+69,95,"Kirpitshnikov, Nikolai",Moskvitsh,SU,G2,+57m 59s,NA,NA,NA
+70,58,"Jensen, Trine",Ford Escort,NO,G1,+59m 24s,NA,NA,NA
+71,105,"Grigorjev, Anatolij",Moskvitsh,SU,G2,+59m 26s,NA,NA,NA
+72,113,"Haapala, Sauli",Alfa Romeo 2000 GTV,FI,G1,+1h 02m 10s,NA,NA,NA
+73,103,"Anstiss, Norman",Ford Escort RS,GB,G2,+1h 03m 37s,NA,NA,NA
+74,97,"Honkamaki, Eino",Saab 96 V4,FI,G2,+1h 04m 09s,NA,NA,NA
+75,90,"Kervinen, Ukko",Datsun 100A,FI,G2,+1h 07m 12s,NA,NA,NA
+76,67,"Sutton, David",Ford Escort RS,GB,G2,+1h 09m 28s,NA,NA,NA
+77,98,"Kemmo, Kari",Simca 1100,FI,G1,+1h 09m 42s,NA,NA,NA
+78,116,"Neumann, Wolfgang",BMW 2002,DE,G2,+1h 10m 03s,NA,NA,NA
+79,108,"Asmus, Eberhard",Trabant P601,DD,G2,+1h 11m 11s,NA,NA,NA
+80,56,"Robinson, Jill",Alfa Romeo 2000 GTV,GB,G1,+1h 12m 10s,NA,NA,NA
+81,101,"Tollaas, Anders",Opel Ascona,NO,G1,+1h 13m 06s,NA,NA,NA
+82,117,"Ullman, Hans",Trabant P601,DD,G2,+1h 14m 56s,NA,NA,NA
+83,114,"Galle, Franz",Trabant P601,DD,G2,+1h 21m 15s,NA,NA,NA
+84,104,"Piehler, Helmut",Trabant P601,DD,G2,+1h 23m 01s,NA,NA,NA
+85,91,"Shiskov, Andrei",Moskvitsh,SU,G2,+1h 29m 38s,NA,NA,NA
+86,115,"Hancock, Roger",Ford Cortina,GB,G2,+1h 30m 24s,NA,NA,NA
+87,109,"Verlaan, Gerhard",Peugeot 104,DE,G1,+1h 30m 35s,NA,NA,NA
+88,99,"Lucas, Jean-Claude",Simca 1100,FR,G1,+1h 34m 50s,NA,NA,NA
+NA,12,"Eklund, Per",Saab 96 V4,SE,G2,NA,NA,SS18,accident
+NA,17,"Culmbacher, Egon",Wartburg 353,DE,G1,NA,NA,SS3,unknown
+NA,18,"Nieminen, Vesa",Morris Mini,FI,G2,NA,NA,SS4,unknown
+NA,22,"Schea, Trond",Lada 1500,NO,G2,NA,NA,SS19,unknown
+NA,23,"Danielsson, Bror",Opel Ascona,SE,G2,NA,NA,SS20,heavy landing
+NA,24,"Gronholm, Ulf",Datsun 160J,FI,G2,NA,NA,SS4,unknown
+NA,28,"Vatanen, Ari",Opel Ascona,FI,G2,NA,NA,SS30,lost wheel
+NA,30,"Haavisto, Pekka",Volvo 142,FI,G2,NA,NA,SS2,unknown
+NA,38,"Saaristo, Markku",Skoda 120,FI,G2,NA,NA,SS4,unknown
+NA,39,"Virtanen, Pekka",Sunbeam Avenger,FI,G1,NA,NA,SS7,unknown
+NA,49,"Saby, Bruno",Opel Ascona,FR,G1,NA,NA,SS16,unknown
+NA,50,"Ahonen, Pentti",BMW 2002Tii,FI,G1,NA,NA,SS3,unknown
+NA,57,"Oksala, Marketta",Fiat 124,FI,G4,NA,NA,SS12,unknown
+NA,63,"Thors, Peter",Volvo 142,SE,G2,NA,NA,SS22,unknown
+NA,77,"Appleby, Paul",Ford Escort,GB,G2,NA,NA,SS24,unknown
+NA,79,"Jansson, Jan-Olov",Opel Ascona,SE,G2,NA,NA,SS5,unknown
+NA,81,"Carlsson, Morgan",Volvo 142,SE,G2,NA,NA,SS25,unknown
+NA,82,"Potapchik, Leontiy",Lada 1500,SU,G2,NA,NA,SS35,unknown
+NA,83,"Martelius, Raimo",Alfa Romeo Giulia,FI,G1,NA,NA,SS19,unknown
+NA,85,"Girdauskas, Kastitis",Lada 1200,SU,G2,NA,NA,SS35,unknown
+NA,86,"Niebergall, Horst",Wartburg 353,DD,G2,NA,NA,SS22,unknown
+NA,87,"Miesmaki, Kai",Sunbeam 900 Sport,FI,G2,NA,NA,SS21,unknown
+NA,88,"Kozlov, Juri",Lada 1200,SU,G2,NA,NA,SS1,unknown
+NA,89,"Gleiss, Gernat",Ford Escort RS,AT,G2,NA,NA,SS5,unknown
+NA,92,"Rowland, Richard",Skoda 110,GB,G2,NA,NA,SS35,unknown
+NA,96,"Milke, Frank",Wartburg 353,DD,G2,NA,NA,SS21,unknown
+NA,100,"Kozyrchikov, Anatolij",Lada 1200,SU,G2,NA,NA,SS14,unknown
+NA,111,"Borup, Tom",Alfa Romeo 1600 GTJ,FI,G1,NA,NA,SS23,unknown
+NA,112,"Moller, Kjeld",Simca 1000,FI,G1,NA,NA,SS4,unknown
+NA,120,"Apponen, Timo",Ford Escort,FI,G1,NA,NA,SS9,unknown

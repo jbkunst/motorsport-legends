@@ -1,0 +1,44 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Biasion, Massimo",Lancia Delta HF Integrale 16v,IT,A8,6h 17m 57s,NA,NA,NA
+2,4,"Auriol, Didier",Lancia Delta HF Integrale 16v,FR,A,+2m 36s,NA,NA,NA
+3,6,"Kankkunen, Juha",Lancia Delta HF Integrale 16v,FI,A,+5m 11s,NA,NA,NA
+4,9,"Cerrato, Dario",Lancia Delta HF Integrale 16v,IT,A,+16m 26s,NA,NA,NA
+5,19,"Bica, Carlos",Lancia Delta HF Integrale 16v,PT,A,+27m 27s,NA,NA,NA
+6,8,"Mikkola, Hannu",Mazda 323 4WD,FI,A,+30m 24s,4:00,NA,NA
+7,12,"Recalde, Jorge",Lancia Delta HF Integrale 16v,AR,N,+35m 04s,1:00,NA,NA
+8,16,"Duez, Marc",Ford Sierra RS Cosworth,BE,A,+36m 14s,NA,NA,NA
+9,17,"Santos, Joaquim",Ford Sierra RS Cosworth,PT,A,+37m 17s,3:00,NA,NA
+10,24,"Holzer, Ronald",Lancia Delta Integrale,DE,A,+42m 00s,9:00,NA,NA
+11,14,"Trelles, Gustavo",Lancia Delta HF Integrale 16v,UY,N,+43m 59s,NA,NA,NA
+12,25,"Soto, Ernesto",Lancia Delta Integrale,AR,N,+45m 42s,4:00,NA,NA
+13,35,"Pianezzola, Gilberto",Toyota Celica GT-4 (ST165),IT,N,+47m 46s,NA,NA,NA
+14,11,"Oreille, Alain",Renault 5 GT Turbo,FR,N,+51m 25s,1:00,NA,NA
+15,26,"Coutinho, Antonio",Toyota Celica GT-4 (ST165),PT,A,+51m 50s,NA,NA,NA
+16,20,"de Martini, Paola",Audi 90 quattro,IT,A,+53m 44s,NA,NA,NA
+17,34,"Gottlicher, Kurt",Audi 90 quattro,AT,A,+59m 16s,NA,NA,NA
+18,64,"Hopf, Marc",Toyota Celica GT-4 (ST165),CH,N,+1h 12m 15s,16:00,NA,NA
+19,40,"Santos, Joao",Lancia Delta Integrale,PT,N,+1h 28m 30s,2:00,NA,NA
+20,57,"Recordati, Giovanni",Lancia Delta Integrale,IT,A,+1h 33m 38s,1:00,NA,NA
+21,105,"Fernandes, Jose Manuel",Toyota Corolla GT,PT,N,+1h 37m 10s,NA,NA,NA
+22,60,"Peuplier, Bernard",Volkswagen Golf GTi,FR,A,+1h 40m 45s,NA,NA,NA
+23,91,"Pires, Ricardo",Opel Manta,PT,A,+1h 45m 25s,1:00,NA,NA
+24,85,"Pinto, Pedro",Renault 11 Turbo,PT,N,+1h 46m 42s,3:00,NA,NA
+25,101,"Antoine, Benoit",Peugeot 205 GTI,FR,N,+1h 48m 17s,2:00,NA,NA
+26,68,Costa Azevado,Renault 11 Turbo,PT,A,+1h 55m 15s,11:00,NA,NA
+27,65,"Klein, Ewald",Opel Kadett,DE,N,+2h 00m 18s,NA,NA,NA
+28,102,"Reininger, Stefan",Daihatsu Charade,AT,N,+2h 03m 15s,5:00,NA,NA
+29,74,"Almeida Santos, Antonio",Toyota Corolla GT,PT,A,+2h 08m 34s,2:00,NA,NA
+30,73,"Janota Vistas, Manuel",Toyota Corolla GT,PT,A,+2h 16m 50s,4:00,NA,NA
+31,112,"Rebelo, Antonio",Seat Marbella GL,PT,A,+2h 36m 24s,3:00,NA,NA
+32,107,"Leymarie, Francis",Peugeot 205 Rallye,FR,N,+2h 40m 30s,1:00,NA,NA
+33,104,"Rodrigues, Luis",Volkswagen Golf GTi,PT,N,+2h 51m 03s,29:00,NA,NA
+34,113,Teixeira da Mota,Seat Marbella GL,PT,A,+3h 36m 15s,29:00,NA,NA
+NA,2,"Sainz, Carlos",Toyota Celica GT-4 (ST165),ES,A,NA,NA,SS34,transmission
+NA,3,"Vatanen, Ari",Mitsubishi Galant VR-4,FI,A,NA,NA,SS18,accident
+NA,5,"Salonen, Timo",Mazda 323 4WD,FI,A,NA,NA,SS2,engine
+NA,7,"Eriksson, Kenneth",Mitsubishi Galant VR-4,SE,A,NA,NA,SS22,transmission
+NA,10,"de Mevius, Gregoire",Mazda 323 4WD,BE,A,NA,NA,SS4,clutch
+NA,15,"Schwarz, Armin",Toyota Celica GT-4 (ST165),DE,A,NA,NA,SS11,accident
+NA,18,"Aitken-Walker, Louise",Opel Kadett GSi,GB,A,NA,NA,SS4,accident
+NA,22,"Fischer, Georg",Audi 200 quattro,AT,A,NA,NA,SS32,turbo
+NA,56,"de Sanctis, Fabrizio",Fiat Uno Turbo,IT,A,NA,NA,NA,turbo

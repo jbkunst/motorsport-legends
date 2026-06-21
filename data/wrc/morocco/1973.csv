@@ -1,0 +1,29 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Darniche, Bernard",Renault-Alpine A110 1800,FR,G4,15h 01m 22s,NA,NA,NA
+2,9,"Neyret, Robert",Citroen DS23,FR,G2,+18m 42s,NA,NA,NA
+3,21,"Bochnicek, Richard",Citroen DS23,AT,G1,+33m 15s,NA,NA,NA
+4,15,"Ponnelle, Raymond",Citroen DS23,MA,G1,+38m 34s,NA,NA,NA
+5,4,"Nicolas, Jean-Pierre",Renault-Alpine A110,FR,G4,+50m 38s,NA,NA,NA
+6,6,"Waldegard, Bjorn",Fiat 124 Abarth Spider,SE,G4,+58m 21s,NA,NA,NA
+7,3,"Therier, Jean-Luc",Renault-Alpine A110 1600,FR,G4,+1h 16m 54s,NA,NA,NA
+8,7,"Deschaseaux, Jean",Citroen DS23,MA,G2,+1h 47m 04s,NA,NA,NA
+9,35,"Merlone, Lorenzo",Volvo 142S,IT,G2,+2h 52m 25s,NA,NA,NA
+10,25,"Trautmann, Claudine",Peugeot 504,FR,G1,+3h 02m 11s,NA,NA,NA
+11,42,"Gerenthon, Marc",Datsun 1600SSS,FR,G1,+5h 17m 16s,NA,NA,NA
+12,30,"Pagani, Pierre",Volkswagen K70,FR,G2,+7h 46m 19s,NA,NA,NA
+NA,2,"Aaltonen, Rauno",Fiat 124 Abarth Spider,FI,G4,NA,NA,SS8,steering
+NA,5,"Mehta, Shekhar",Datsun 240Z,KE,G4,NA,NA,SS8,accident
+NA,8,"Consten, Bernard",Peugeot 504,FR,G2,NA,NA,SS11,front suspension
+NA,10,"Mikkola, Hannu",Peugeot 504,FI,G2,NA,NA,SS7,clutch
+NA,11,"Fall, Tony",Peugeot 504,GB,G2,NA,NA,after SS7,front suspension
+NA,12,"Piot, Jean-Francois",Renault 12 Gordini,FR,G2,NA,NA,SS8,suspension
+NA,13,"Makinen, Timo",Peugeot 504,FI,G2,NA,NA,SS4,clutch
+NA,16,"Hoepfner, Marianne",Renault-Alpine A110,FR,G4,NA,NA,NA,driveshaft
+NA,17,"Romaozinho, Francisco",Citroen GS,PT,G2,NA,NA,after SS2,transmission
+NA,18,"Laurent, Claude",Citroen GS,FR,G2,NA,NA,SS6,transmission
+NA,19,"Guichet, Jean",Peugeot 504,FR,G2,NA,NA,after SS8,front suspension
+NA,46,"Hadley, Paul",Opel Ascona,GB,G2,NA,NA,final TC,OTL
+NA,NA,'le Tahitien',Citroen GS,NA,NA,NA,NA,last section,unknown
+NA,NA,"Altenheimer, Reiner",Porsche 911,DE,NA,NA,NA,SS11,suspension
+NA,NA,"Hoepfner, Jean-Paul",Renault 12 Gordini,FR,NA,NA,NA,SS6,accident
+NA,NA,"Saucet, Pierre",Datsun 240Z,FR,NA,NA,NA,start of Leg 4,cat not fit to continue

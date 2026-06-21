@@ -1,0 +1,20 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"Alen, Markku",Lancia Delta HF 4WD,FI,A8,7h 25m 57s,NA,NA,NA
+2,1,"Kankkunen, Juha",Lancia Delta HF 4WD,FI,A,+48s,NA,NA,NA
+3,4,"Mikkola, Hannu",Audi 200 quattro,FI,A,+5m 24s,NA,NA,NA
+4,12,"Recalde, Jorge",Audi Coupe,AR,A,+6m 32s,NA,NA,NA
+5,7,"Ragnotti, Jean",Renault 11 Turbo,FR,A,+8m 30s,NA,NA,NA
+6,10,"Weber, Erwin",Volkswagen Golf GTi,DE,A,+10m 56s,NA,NA,NA
+7,5,"Biasion, Massimo",Lancia Delta HF 4WD,IT,A,+27m 57s,NA,NA,NA
+8,9,"Chatriot, Francois",Renault 11 Turbo,FR,A,+32m 10s,NA,NA,NA
+9,17,"Stohl, Rudolf",Audi Coupe,AT,A,+38m 07s,NA,NA,NA
+10,16,"Kirkland, Mike",Nissan 200SX,KE,A,+41m 49s,NA,NA,NA
+12,100,"Chomat, Maurice",Citroen Visa,FR,B,+1h 08m 47s,NA,NA,NA
+15,37,"Gallo, Evangelos",Toyota Corolla,GR,N,+1h 38m 38s,NA,NA,NA
+18,20,"Bublewicz, Marian",FSO Polonez,PL,A,+2h 05m 09s,NA,NA,NA
+NA,2,"Rohrl, Walter",Audi 200 quattro,DE,A,NA,NA,SS35,engine
+NA,6,"Ericsson, Mikael",Lancia Delta HF 4WD,SE,A,NA,NA,SS19,suspension
+NA,8,"Eriksson, Kenneth",Volkswagen Golf GTi,SE,A,NA,NA,SS8,driveshaft
+NA,11,"Mehta, Shekhar",Nissan 200SX,KE,A,NA,NA,SS9,rear axle
+NA,14,"Zanussi, Andrea",Nissan 200SX,IT,A,NA,NA,SS13,gearbox
+NA,32,"Szerla, Janusz",FSO Polonez,PL,A,NA,NA,NA,accident

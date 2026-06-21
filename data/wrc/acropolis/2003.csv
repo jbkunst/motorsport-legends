@@ -1,0 +1,83 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,4,"Martin, Markko",Ford Focus RS WRC 03,EE,A8,"4:53:40,5",NA,NA,NA
+2,19,"Sainz, Carlos",Citroen Xsara WRC,ES,A8,"+46,0",NA,NA,NA
+3,7,"Solberg, Petter",Subaru Impreza WRC2003,NO,A8,"+52,7",NA,NA,NA
+4,2,"Burns, Richard",Peugeot 206WRC (2002),GB,A8,"+2:06,6",NA,NA,NA
+5,8,"Makinen, Tommi",Subaru Impreza WRC2003,FI,A8,"+2:12,3",NA,NA,NA
+6,3,"Rovanpera, Harri",Peugeot 206WRC (2002),FI,A8,"+3:44,7",NA,NA,NA
+7,21,"Panizzi, Gilles",Peugeot 206WRC (2001),FR,A8,"+3:54,3",NA,NA,NA
+8,17,"McRae, Colin",Citroen Xsara WRC,GB,A8,"+4:05,0",0:50,NA,NA
+9,14,"Auriol, Didier",Skoda Octavia WRC Evo3,FR,A8,"+6:27,2",0:20,NA,NA
+10,20,"Latvala, Jari-Matti",Ford Focus RS WRC 02,FI,A8,"+11:33,4",NA,NA,NA
+11,26,"Stohl, Manfred",Hyundai Accent WRC3,AT,A8,"+12:07,3",0:10,NA,NA
+12,25,"Sola, Daniel",Citroen Xsara WRC,ES,A8,"+13:13,5",NA,NA,NA
+13,23,"Warmbold, Antony",Ford Focus RS WRC 02,DE,A8,"+17:53,7",NA,NA,NA
+14,35,"Papadimitriou, Ioannis",Ford Focus RS WRC 01,GR,A8,"+20:05,8",1:10,NA,NA
+15,32,"Ginley, Alistair",Ford Focus RS WRC 01,GB,A8,"+21:03,8",NA,NA,NA
+16,105,"Jean-Joseph, Simon",Renault Clio S1600,FR,A6,"+32:47,2",NA,NA,NA
+17,61,"Tirabassi, Brice",Renault Clio S1600,FR,A6,"+33:53,5",NA,NA,NA
+18,52,"Carlsson, Daniel",Suzuki Ignis S1600,SE,A6,"+34:48,7",NA,NA,NA
+19,71,"Aava, Urmo",Suzuki Ignis S1600,EE,A6,"+41:22,2",0:10,NA,NA
+20,111,"Petalidis, Theodoros",Mitsubishi Lancer Evo VII,GR,N4,"+42:55,7",NA,NA,NA
+21,106,"Hatzipanayiotou, Stratis",Subaru Impreza WRX,GR,N4,"+44:20,9",NA,NA,NA
+22,69,"Canellas, Salvador",Suzuki Ignis S1600,ES,A6,"+47:14,7",NA,NA,NA
+23,104,"Hatzitsopanis, Panagiotis",Renault Megane,GR,A7,"+48:30,5",NA,NA,NA
+24,121,"Pitsos, Konstantinos",Mitsubishi Lancer Evo VI,GR,N4,+50:22.7,0:10,NA,NA
+25,107,"Apostolou, Konstantinos",Mitsubishi Lancer Evo VI,GR,N4,"+50:56,9",NA,NA,NA
+26,127,"Philippedes, George",Mitsubishi Lancer Evo VI,GR,N4,"+51:00,5",1:10,NA,NA
+27,62,"Svedlund, Oscar",Volkswagen Polo S1600,SE,A6,"+55:41,6",0:20,NA,NA
+28,109,"Panagiotounis, Lazaros",Mitsubishi Lancer Evo VI,GR,N4,"+56:46,8",NA,NA,NA
+29,110,"Xanthakos, Dimitris",Mitsubishi Lancer Evo V,GR,N4,"+58:19,7",0:10,NA,NA
+30,113,"Nioras, Grigoris",Subaru Impreza WRX,GR,N4,"+1:00:28,6",NA,NA,NA
+31,120,"Kahlfuss, Michael",Mitsubishi Lancer Evo VI,DE,N4,"+1:04:12,3",NA,NA,NA
+32,117,"Constantacatos, Ioannis",Mitsubishi Lancer Evo VII,GR,N4,"+1:10:24,5",NA,NA,NA
+33,70,"Wilks, Guy",Ford Puma S1600,GB,A6,"+1:10:27,6",1:30,NA,NA
+34,128,"Honda, Michael",Citroen Saxo,CZ,A6,"+1:16:56,6",0:50,NA,NA
+35,119,"Mallen, Eric",Mitsubishi Lancer Evo VII,FR,N4,"+1:20:09,9",1:10,NA,NA
+36,139,"Gazetas, Dionissis",Toyota Corolla,GR,A6,"+2:17:27,0",0:50,NA,NA
+37,140,"Stavrianoudakis, Stelios",Peugeot 206 S1600,GR,A6,"+3:19:31,8",3:20,NA,NA
+NA,1,"Gronholm, Marcus",Peugeot 206WRC (2002),FI,A8,NA,NA,TC8A,fuel feed
+NA,5,"Duval, Francois",Ford Focus RS WRC 03,BE,A8,NA,NA,SS5,off road
+NA,6,"Hirvonen, Mikko",Ford Focus RS WRC 02,FI,A8,NA,NA,SS6,suspension
+NA,10,"Schwarz, Armin",Hyundai Accent WRC3,DE,A8,NA,NA,SS1,cambelt
+NA,11,"Loix, Freddy",Hyundai Accent WRC3,BE,A8,NA,NA,SS3,suspension
+NA,12,"Valimaki, Jussi",Hyundai Accent WRC3,FI,A8,NA,NA,TC8B,mechanical
+NA,15,"Gardemeister, Toni",Skoda Octavia WRC Evo3,FI,A8,NA,NA,TC5A,engine
+NA,18,"Loeb, Sebastien",Citroen Xsara WRC,FR,A8,NA,NA,SS1,engine
+NA,22,"Kresta, Roman",Peugeot 206WRC (2001),CZ,A8,NA,NA,TC16A,radiator
+NA,24,"Pykalisto, Juuso",Peugeot 206WRC (2001),FI,A8,NA,NA,SS3,off road
+NA,33,"Kuchar, Tomasz",Ford Focus RS WRC 02,PL,A8,NA,NA,SS20,mechanical
+NA,34,"Vovos, Armodios",Ford Focus RS WRC 01,GR,A8,NA,NA,SS5,off road
+NA,51,"Baldacci, Mirco",Fiat Punto S1600,SM,A6,NA,NA,SS21,mechanical
+NA,54,"Katajamaki, Kosti",Volkswagen Polo S1600,FI,A6,NA,NA,SS11,gearbox
+NA,55,"Stenshorne, Martin",Ford Puma S1600,NO,A6,NA,NA,SS10,alternator belt
+NA,57,"Iliev, Dimitar",Peugeot 206 S1600,BG,A6,NA,NA,SS5,engine
+NA,58,"Ligato, Marcos",Fiat Punto S1600,AR,A6,NA,NA,SS1,steering
+NA,59,"Harrach, Beppo",Ford Puma S1600,AT,A6,NA,NA,SS2,wheel
+NA,63,"Ceccato, Massimo",Fiat Punto S1600,IT,A6,NA,NA,TC16D,mechanical
+NA,64,"Teuronen, Ville-Pertti",Suzuki Ignis S1600,FI,A6,NA,NA,SS7,driveshaft
+NA,65,"Feghali, Abdo",Ford Puma S1600,LB,A6,NA,NA,SS4,engine
+NA,67,"Broccoli, Alessandro",Opel Corsa S1600,SM,A6,NA,NA,SS11,driveshaft
+NA,73,"Donchev, Krum",Peugeot 206 S1600,BG,A6,NA,NA,SS5,lost wheel
+NA,74,"Meeke, Kris",Opel Corsa S1600,GB,A6,NA,NA,SS1,steering
+NA,76,"Cecchettini, Luca",Fiat Punto S1600,IT,A6,NA,NA,SS17,mechanical
+NA,78,"Vasiljevic, Vladan",Volkswagen Polo S1600,DE,A6,NA,NA,SS1,off road
+NA,101,"Beres, Josef",Toyota Corolla WRC,SK,A8,NA,NA,TC3B,unknown
+NA,103,"Nassoulas, Dimitris",Mitsubishi Lancer Evo VII,GR,N4,NA,NA,SS3,off road
+NA,108,"Maniatopoulos, Alexandros",Renault Clio S1600,GR,A6,NA,NA,SS1,off road
+NA,112,"Tsolakidis, Socratis",Mitsubishi Lancer Evo VII,GR,N4,NA,NA,SS6,mechanical
+NA,114,"Isik, Volkan",Fiat Palio S1600,TU,A6,NA,NA,SS10,off road
+NA,115,"Markouizos, Aris",Peugeot 206 S1600,GR,A6,NA,NA,SS2,suspension
+NA,116,"Reitsperger, Georg",Mitsubishi Lancer Evo VI,AT,N4,NA,NA,SS1,mechanical
+NA,122,"Hatzitsopanis, Sotiris",Subaru Impreza WRX,GR,N4,NA,NA,TC5C,gearbox
+NA,123,"Aur, Constantin",Mitsubishi Carisma GT Evo5,RO,N4,NA,NA,SS7,mechanical
+NA,125,"Athanassiou, Elias",Mitsubishi Lancer Evo VII,GR,N4,NA,NA,TC5C,unknown
+NA,129,"Kokkinis, Sotiris",Peugeot 206 S1600,GR,A6,NA,NA,SS1,mechanical
+NA,130,"Panagiotopoulos, Emmanuel",Toyota Yaris,GR,A5,NA,NA,SS2,engine
+NA,131,"Zivas, Angelos",Toyota Yaris,GR,A5,NA,NA,SS5,mechanical
+NA,132,"Kaltsounis, Haris",Opel Corsa S1600,GR,A6,NA,NA,SS19,mechanical
+NA,133,"Dotsikas, Odysseas",Toyota Corolla,GR,A6,NA,NA,TC3B,unknown
+NA,135,"Maniatopoulos, Leonidas",MG ZR,GR,A5,NA,NA,TC11A,non show
+NA,137,"Margaronis, Ioannis",Hyundai Accent,GR,A6,NA,NA,SS14,mechanical
+NA,138,"Ganos, Antonios",Peugeot 206 S1600,GR,A6,NA,NA,SS14,mechanical
+NA,141,'Iraklis',Toyota Corolla,GR,A6,NA,NA,SS10,mechanical

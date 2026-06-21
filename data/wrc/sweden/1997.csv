@@ -1,0 +1,73 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,4,"Eriksson, Kenneth",Subaru Impreza WRC97,SE,A8,3h 51m 49s,NA,NA,NA
+2,5,"Sainz, Carlos",Ford Escort WRC,ES,A8,+16s,NA,NA,NA
+3,1,"Makinen, Tommi",Mitsubishi Lancer Evo IV,FI,A8,+26s,NA,NA,NA
+4,3,"McRae, Colin",Subaru Impreza WRC97,GB,A8,+31s,NA,NA,NA
+5,8,"Radstrom, Thomas",Toyota Celica GT-Four (ST205),SE,A8,+2m 58s,NA,NA,NA
+6,6,"Schwarz, Armin",Ford Escort WRC,DE,A8,+3m 56s,NA,NA,NA
+7,11,"Jansson, Tomas",Toyota Celica GT-Four (ST205),SE,A8,+3m 58s,NA,NA,NA
+8,12,"Gronholm, Marcus",Toyota Celica GT-Four (ST205),FI,A8,+4m 15s,NA,NA,NA
+9,14,"Jonsson, Mats",Ford Escort RS Cosworth,SE,A8,+5m 13s,NA,NA,NA
+10,9,"Blomqvist, Stig",Ford Escort RS Cosworth,SE,A8,+6m 46s,NA,NA,NA
+11,16,"Backlund, Kenneth",Mitsubishi Lancer Evo III,SE,N4,+12m 18s,NA,NA,NA
+12,17,"Walfridsson, Stig-Olov",Mitsubishi Lancer Evo III,SE,N4,+13m 03s,NA,NA,NA
+13,18,"Kangas, Juha",Mitsubishi Lancer Evo III,FI,N4,+13m 54s,NA,NA,NA
+14,28,"Jonasson, Jorgen",Volkswagen Golf GTI 16V,SE,A7,+16m 40s,NA,NA,NA
+15,23,"Svan, Per",Opel Astra,SE,A7,+17m 02s,NA,NA,NA
+16,20,"Trelles, Gustavo",Mitsubishi Lancer Evo III,UY,N4,+17m 30s,NA,NA,NA
+17,32,"Blomqvist, Gert",Mitsubishi Lancer Evo III,SE,N4,+19m 33s,NA,NA,NA
+18,19,"Stohl, Manfred",Mitsubishi Lancer Evo III,AT,N4,+19m 51s,NA,NA,NA
+19,22,"Laukkanen, Tapio",Volkswagen Golf GTI 16V,FI,A7,+21m 05s,NA,NA,NA
+20,39,"Holmlund, Patrik",Subaru Impreza,SE,N4,+21m 18s,NA,NA,NA
+21,24,"McRae, Alister",Volkswagen Golf GTI 16V,GB,A7,+21m 47s,NA,NA,NA
+22,25,"Triner, Emil",Skoda Felicia Kit-Car,CZ,A6,+21m 55s,NA,NA,NA
+23,47,"Raidam, Ivar",Mitsubishi Lancer Evo III,EE,N4,+22m 09s,NA,NA,NA
+24,46,"Gustafsson, Bjorn",Toyota Celica Turbo 4WD (ST185),SE,A8,+25m 00s,NA,NA,NA
+25,38,"Danielsson, Bror",Subaru Impreza,SE,N4,+26m 13s,NA,NA,NA
+26,65,"Bonnevier, Mikael",Renault Clio Williams,SE,A7,+33m 44s,NA,NA,NA
+27,64,"Henriksson, Magnus",Opel Astra,SE,A7,+34m 28s,NA,NA,NA
+28,43,"Hedstrom, Anders",Mitsubishi Lancer Evo II,SE,N4,+34m 49s,NA,NA,NA
+29,48,"Richardt, Karsten",Mitsubishi Lancer Evo II,DK,N4,+37m 19s,NA,NA,NA
+30,60,"Rudengren, Johan",Volkswagen Golf GTI 16V,SE,A7,+41m 08s,NA,NA,NA
+31,56,"Ranby, Joakim",Opel Astra,SE,N3,+42m 39s,NA,NA,NA
+32,72,"Ljung, Daniel",Peugeot 309 GTI,SE,N3,+49m 19s,NA,NA,NA
+33,63,"Eriksson, Anders",Nissan Pulsar GTI-R,SE,N4,+51m 07s,NA,NA,NA
+34,75,"Wikman, Lars",Opel Corsa GSI,SE,N2,+52m 41s,NA,NA,NA
+35,70,"Storm, Lars",Peugeot 205 Rallye,SE,A5,+53m 37s,NA,NA,NA
+36,76,"Larsson, Lars",Opel Corsa GSI,SE,N2,+56m 20s,NA,NA,NA
+37,77,"Eljas, Olof",Toyota Corolla GT,SE,N2,+1h 01m 14s,NA,NA,NA
+38,71,"Isaksson, Bjorn",Renault Clio,SE,N3,+1h 01m 58s,NA,NA,NA
+39,61,"Kahlfuss, Michael",Toyota Celica GT-Four (ST205),DE,N4,+1h 03m 36s,NA,NA,NA
+40,36,"Pimentel, Luis",Toyota Celica GT-Four (ST205),PT,A8,+1h 03m 52s,NA,NA,NA
+41,74,"Bertrand, Jean-Michel",Peugeot 106,FR,A6,+1h 04m 20s,NA,NA,NA
+42,79,"Jonsson, Jorgen",Suzuki Swift GTI,SE,N1,+1h 08m 46s,NA,NA,NA
+43,80,"Cederlid, Mikael",Suzuki Swift GTI,SE,N1,+1h 17m 10s,NA,NA,NA
+44,82,"Rossi, Philippe",Peugeot 106,FR,N1,+1h 36m 08s,NA,NA,NA
+NA,2,"Nittel, Uwe",Mitsubishi Lancer Evo III,DE,A8,NA,NA,SS22,accident
+NA,10,"Kytolehto, Jarmo",Ford Escort RS Cosworth,FI,A8,NA,NA,SS3,engine
+NA,21,"Sibera, Pavel",Skoda Felicia Kit-Car,CZ,A6,NA,NA,SS21,driveshaft
+NA,26,"Joki, Harry",Volkswagen Golf GTI 16V,SE,A7,NA,NA,SS10,engine
+NA,27,"Kruse, Jonas",Renault Megane,SE,A7,NA,NA,SS13,two accidents
+NA,29,"Gardemeister, Toni",Nissan Sunny,FI,A7,NA,NA,SS22,engine
+NA,30,"Thorszelius, Mats",Toyota Celica GT-Four (ST205),SE,A8,NA,NA,NA,unknown
+NA,35,"Sveinsvoll, Trond",Mazda 323 GT-R,NO,A8,NA,NA,NA,unknown
+NA,40,"Johansson, Per",Mitsubishi Lancer Evo II,SE,N4,NA,NA,NA,unknown
+NA,41,"Nilsson, Kristoffer",Subaru Impreza,SE,N4,NA,NA,NA,unknown
+NA,42,"Olofsson, Ove",Mitsubishi Lancer Evo II,SE,N4,NA,NA,NA,unknown
+NA,44,"Radstrom, Anders",Mitsubishi Lancer Evo II,SE,N4,NA,NA,NA,unknown
+NA,45,"Sallstrom, Lasse",Mitsubishi Lancer Evo II,SE,N4,NA,NA,NA,unknown
+NA,49,"Walfridsson, Pernilla",Mitsubishi Lancer Evo II,SE,N4,NA,NA,SS10,accident
+NA,50,"Olofsson, Walter",Suzuki Swift GTI,SE,N1,NA,NA,NA,unknown
+NA,51,"Gunnarsson, Bengt-Goran",Opel Corsa GSi,SE,A6,NA,NA,NA,unknown
+NA,52,"Rindeby, Magnus",Opel Corsa GSi,SE,A6,NA,NA,NA,unknown
+NA,53,"Akerstrom, Petter",Opel Corsa GSi,SE,A6,NA,NA,NA,unknown
+NA,54,"Andersson, Clemens",Opel Corsa GSi,SE,A6,NA,NA,NA,unknown
+NA,57,"Jansson, Martin",Opel Astra,SE,N3,NA,NA,NA,unknown
+NA,59,"Kvarnstrom, Birger",Nissan Sunny GTI-R,SE,A8,NA,NA,NA,unknown
+NA,62,"Freisler, Jurgen",Mazda 323,DE,N4,NA,NA,NA,unknown
+NA,66,"Savolainen, Keijo",Mazda 323,SE,N4,NA,NA,NA,unknown
+NA,67,"Floren, Anders",Toyota Celica GT-Four (ST205),SE,N4,NA,NA,NA,unknown
+NA,68,"Roman, Joakim",Toyota Celica GT-Four (ST205),SE,N4,NA,NA,NA,unknown
+NA,69,"Kraemmer, Bernd",Mazda 323,AT,N4,NA,NA,NA,unknown
+NA,73,"Lonn, Ronnie",Opel Astra,SE,N3,NA,NA,NA,unknown
+NA,78,"Andersson, Stefan",Suzuki Swift GTI,SE,N1,NA,NA,NA,unknown

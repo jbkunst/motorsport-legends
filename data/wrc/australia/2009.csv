@@ -1,0 +1,41 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"Hirvonen, Mikko",Ford Focus RS WRC 09,FI,A8,"2h 53m 06,5s",NA,NA,NA
+2,1,"Loeb, Sebastien",Citroen C4 WRC,FR,A8,"+47,5s",1:00,NA,NA
+3,2,"Sordo Castillo, Daniel",Citroen C4 WRC,ES,A8,"+1m 04,6s",1:00,NA,NA
+4,4,"Latvala, Jari-Matti",Ford Focus RS WRC 09,FI,A8,"+1m 52,0s",NA,NA,NA
+5,12,"Ogier, Sebastien",Citroen C4 WRC,FR,A8,"+2m 23,3s",1:00,NA,NA
+6,5,"Wilson, Matthew",Ford Focus RS WRC 08,GB,A8,"+5m 25,3s",NA,NA,NA
+7,6,"Solberg, Henning",Ford Focus RS WRC 08,NO,A8,"+7m 17,8s",0:20,NA,NA
+8,9,"Villagra, Federico",Ford Focus RS WRC 08,AR,A8,"+7m 39,4s",NA,NA,NA
+9,62,"Paddon, Hayden",Mitsubishi Lancer Evo IX,NZ,N4,"+15m 36,1s",NA,NA,NA
+10,31,"Prokop, Martin",Mitsubishi Lancer Evo IX,CZ,N4,"+15m 44,7s",NA,NA,NA
+11,50,"Mason, Richard",Subaru Impreza WRX,NZ,N4,"+16m 29,9s",NA,NA,NA
+12,59,"Crocker, Cody",Subaru Impreza WRX,AU,N4,"+17m 20,0s",NA,NA,NA
+13,39,"Araujo, Armindo",Mitsubishi Lancer Evo IX,PT,N4,"+19m 52,8s",NA,NA,NA
+14,45,"Taylor, Stewart",Mitsubishi Lancer Evo IX,NZ,N4,"+21m 23,8s",NA,NA,NA
+15,68,"Selley, Matthew",Subaru Impreza WRX,AU,A8,"+30m 47,8s",NA,NA,NA
+16,78,"Goasdoue, John",Mitsubishi Lancer Evo VI,AU,N4,"+37m 35,3s",7:20,NA,NA
+17,72,"Tonna, Stephen",Mitsubishi Lancer Evo V,AU,N4,"+45m 45,5s",2:00,NA,NA
+18,34,"Linari, Gianluca",Subaru Impreza WRX,IT,N4,"+45m 46,3s",NA,NA,NA
+19,15,"al-Qassimi, Khalid",Ford Focus RS WRC 08,AE,A8,"+47m 07,8s",0:20,NA,NA
+20,75,"Taylor, Trevor",Mitsubishi Lancer Evo X,NZ,N4,"+1h 01m 47,3s",2:20,NA,NA
+21,66,"Reid, Steward",Toyota Corolla S2000,GB,N4,"+1h 02m 36,4s",0:10,NA,NA
+22,69,"Han, Han",Mitsubishi Lancer Evo IX,CN,N4,"+1h 08m 36,8s",NA,NA,NA
+23,54,"Shepheard, Stephen",Mitsubishi Lancer Evo X,AU,N4,"+1h 10m 10,2s",0:10,NA,NA
+24,65,"Brinkman, Glenn",Mitsubishi Lancer Evo IV,AU,N4,"+1h 11m 06,1s",1:30,NA,NA
+25,76,"Houghton, Richard",Subaru Impreza WRX,AU,N4,"+1h 38m 42,5s",4:50,NA,NA
+NA,8,"Rautenbach, Conrad",Citroen C4 WRC,ZW,A8,NA,NA,TC35A,mechanical
+NA,32,"Sousa, Bernardo",Fiat Grande Punto Abarth S2000,PT,N4,NA,NA,SS20,off road
+NA,33,"Arai, Toshihiro",Subaru Impreza WRX,JP,N4,NA,NA,SS35,mechanical
+NA,43,"Tapper, Mark",Mitsubishi Lancer Evo IX,NZ,N4,NA,NA,SS6,mechanical
+NA,48,"Liu, Cao Dong",Mitsubishi Lancer Evo IX,CN,N4,NA,NA,TC15D,mechanical
+NA,49,"Brynildsen, Eyvind",Mitsubishi Lancer Evo IX,NO,N4,NA,NA,TC15D,mechanical
+NA,55,"Quinn, Nathan",Mitsubishi Lancer Evo IX,AU,N4,NA,NA,SS34,off road
+NA,60,"Bates, Neal",Toyota Corolla S2000,AU,N4,NA,NA,TC30A,OTL
+NA,61,"Raymond, Glen",Mitsubishi Lancer Evo IX,AU,N4,NA,NA,TC9A,unknown
+NA,63,"Evans, Eli",Subaru Impreza WRX,AU,N4,NA,NA,TC9A,unknown
+NA,67,"Kipling, Brett",Mitsubishi Lancer Evo IX,AU,N4,NA,NA,SS29,off road
+NA,71,"Swart, Marius",Volkswagen Polo S2000,AU,N4,NA,NA,SS34,mechanical
+NA,73,"Kahlfuss, Michael",Mitsubishi Lancer Evo VIII,DE,N4,NA,NA,TC30A,mechanical
+NA,74,"Cullen, Ben",Mitsubishi Lancer Evo VI,AU,N4,NA,NA,SS28,mechanical
+NA,79,"Butcher, Mark",Subaru Impreza WRX,AU,N4,NA,NA,SS18,mechanical

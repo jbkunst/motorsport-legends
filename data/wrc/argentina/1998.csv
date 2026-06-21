@@ -1,0 +1,62 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Makinen, Tommi",Mitsubishi Lancer Evo V,FI,A8,"4h 22m 07,4s",NA,NA,NA
+2,5,"Sainz, Carlos",Toyota Corolla WRC,ES,A8,"+26,5s",NA,NA,NA
+3,7,"Kankkunen, Juha",Ford Escort WRC,FI,A8,"+27,2s",NA,NA,NA
+4,2,"Burns, Richard",Mitsubishi Carisma GT,GB,A8,"+54,6s",NA,NA,NA
+5,3,"McRae, Colin",Subaru Impreza WRC98,GB,A8,"+1m 17,3s",NA,NA,NA
+6,4,"Liatti, Piero",Subaru Impreza WRC98,IT,A8,"+5m 07,2s",NA,NA,NA
+7,9,"Holowczyc, Krzysztof",Subaru Impreza WRC97,PL,A8,"+11m 38,3s",NA,NA,NA
+8,11,"Galanti, Marco",Toyota Corolla WRC,PY,A8,"+22m 15,8s",NA,NA,NA
+9,18,"Trelles, Gustavo",Mitsubishi Lancer Evo IV,UY,N4,"+24m 44,3s",NA,NA,NA
+10,16,"Gomez Marco, Oriol",Seat Ibiza GTi 16V Evo2,ES,A7,"+25m 40,8s",NA,NA,NA
+11,10,"Dor, Frederic",Subaru Impreza WRC97,FR,A8,"+26m 13,6s",NA,NA,NA
+12,15,"Rosenberger, Kristopher",Volkswagen Golf GTI 16V,AT,A7,"+32m 38,1s",NA,NA,NA
+13,21,"al-Wahaibi, Hamed",Mitsubishi Lancer Evo IV,OM,N4,"+34m 51,0s",NA,NA,NA
+14,36,"Ligato, Marcos",Subaru Impreza,AR,N4,"+52m 53,2s",NA,NA,NA
+15,38,"Bravo, Jose",Mitsubishi Lancer Evo III,AR,N4,"+57m 50,6s",NA,NA,NA
+16,35,"Gavina, Pablo",Mitsubishi Lancer Evo III,AR,N4,"+59m 41,2s",NA,NA,NA
+17,33,"Gallusser, Martin",Mitsubishi Lancer Evo III,AR,A8,"+1h 10m 12,8s",NA,NA,NA
+18,40,"Recanate, Marcelo",Mitsubishi Lancer Evo III,PY,N4,"+1h 12m 36,7s",NA,NA,NA
+19,45,"Lettoli, Ruben",Subaru Impreza,AR,N4,"+1h 25m 16,0s",NA,NA,NA
+20,52,"Bissio, Ricardo Atilio",Renault 18 GTX,AR,A7,"+1h 27m 23,8s",NA,NA,NA
+21,44,"Camero, Juan Jose",Mitsubishi Lancer Evo III,PY,N4,"+1h 36m 05,0s",NA,NA,NA
+22,48,"Villagra, Federico",Peugeot 405 MI16,AR,A7,"+1h 37m 08,0s",NA,NA,NA
+23,69,"Penelo, Norberto",Daewoo Cielo,AR,N2,"+1h 43m 00,7s",NA,NA,NA
+24,62,"Silva, Hector G.",Renault 18 GTX,AR,A7,"+1h 43m 08,0s",NA,NA,NA
+25,66,"Marco, Luis",Renault Clio,AR,N3,"+1h 44m 23,7s",NA,NA,NA
+26,55,"Abella Nazar, Arturo",Renault Clio,AR,N3,"+1h 45m 02,0s",NA,NA,NA
+27,68,"Pracht, Alejandro Eitel",Daewoo Cielo,AR,N2,"+1h 48m 19,0s",NA,NA,NA
+28,64,"Fernandez, Javier",Lada Samara,UY,A5,"+2h 30m 20,1s",NA,NA,NA
+29,70,"Ortiz, Juan",Suzuki Swift GTI,AR,N1,"+2h 37m 32,0s",NA,NA,NA
+30,65,"Bottazzini, Guillermo",Renault Clio,AR,N3,"+2h 55m 41,0s",NA,NA,NA
+NA,6,"Auriol, Didier",Toyota Corolla WRC,FR,A8,NA,NA,SS12,engine
+NA,8,"Thiry, Bruno",Ford Escort WRC,BE,A8,NA,NA,TC7B,engine
+NA,12,"Eriksson, Kenneth",Hyundai Coupe Kit Car,SE,A7,NA,NA,SS13,engine
+NA,14,"Rovanpera, Harri",Seat Ibiza GTi 16V Evo2,FI,A7,NA,NA,SS3,engine
+NA,17,"McRae, Alister",Volkswagen Golf GTI 16V,GB,A7,NA,NA,SS17,electrics
+NA,19,"Stohl, Manfred",Mitsubishi Lancer Evo III,AT,N4,NA,NA,SS4,suspension
+NA,20,"Recalde, Jorge",Mitsubishi Lancer Evo IV,AR,N4,NA,NA,SS8,suspension
+NA,22,"Suriani, Walter",Renault Clio Williams,AR,A7,NA,NA,SS3,fire
+NA,23,"Raies, Gabriel",Renault Clio Williams,AR,A7,NA,NA,NA,unknown
+NA,24,"Sanchez, Roberto",Subaru Impreza,AR,N4,NA,NA,SS3,turbo
+NA,25,"Kuzaj, Leszek",Mitsubishi Lancer Evo III,PL,N4,NA,NA,NA,steering
+NA,26,"Mendez, Gabriel",Toyota Celica Turbo 4WD (ST185),UY,A8,NA,NA,SS4,electrics
+NA,27,"Manzares, Santos",Mitsubishi Lancer Evo IV,AR,N4,NA,NA,NA,unknown
+NA,28,"Menzi, Claudio Marcelo",Subaru Impreza,AR,N4,NA,NA,SS3,unknown
+NA,29,"Chiaramello, Oscar",Mitsubishi Lancer Evo IV,AR,N4,NA,NA,NA,unknown
+NA,30,"Pozzo, Gabriel",Subaru Impreza,AR,N4,NA,NA,SS8,unknown
+NA,31,"Garro, Carlos",Mitsubishi Lancer Evo IV,AR,N4,NA,NA,NA,unknown
+NA,32,"Ortiz, Heriberto",Toyota Celica Turbo 4WD (ST185),AR,A8,NA,NA,NA,unknown
+NA,34,"Galanti, Alejandro",Toyota Celica GT-Four (ST205),PY,A8,NA,NA,SS1,over time limit
+NA,39,"Bugliotti, Marcelo",Mitsubishi Lancer Evo III,AR,N4,NA,NA,NA,unknown
+NA,42,"Torras, Miguel",Honda Civic,AR,A6,NA,NA,NA,unknown
+NA,47,"Raies, Juan Pablo",Peugeot 405 MI16,AR,A7,NA,NA,SS3,unknown
+NA,49,"Sas, Matias",Peugeot 405 MI16,AR,A7,NA,NA,NA,unknown
+NA,50,"Cerban, Gabriel",Renault 18 GTX,AR,A7,NA,NA,NA,unknown
+NA,51,"Cravero, Orlando",Renault 18 GTX,AR,A7,NA,NA,NA,unknown
+NA,59,Berecibar,Renault 18 GTX,AR,A7,NA,NA,NA,unknown
+NA,63,"Civalero, Oscar",Renault 18 GTX,AR,A7,NA,NA,NA,unknown
+NA,71,Garayzabal,Suzuki Swift GTI,AR,N1,NA,NA,NA,unknown
+NA,73,Aguirre Cavalieri,Suzuki Swift GTI,CL,N1,NA,NA,NA,unknown
+NA,74,"Gimenez, Andres",Suzuki Swift GTI,AR,N1,NA,NA,NA,unknown
+NA,78,Cresta Vega,Subaru Vivio,AR,A5,NA,NA,NA,unknown

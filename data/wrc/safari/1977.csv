@@ -1,0 +1,24 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Waldegard, Bjorn",Ford Escort RS1800,SE,G4,11h 05m,NA,NA,NA
+2,17,"Aaltonen, Rauno",Datsun Violet,FI,G4,+35m,NA,NA,NA
+3,7,"Munari, Sandro",Lancia Stratos HF,IT,G4,+2h 09m,NA,NA,NA
+4,3,"Cowan, Andrew",Mitsubishi Colt Lancer,GB,G4,+2h 11m,NA,NA,NA
+5,10,"Singh, Joginder",Mitsubishi Colt Lancer,KE,G4,+3h 07m,NA,NA,NA
+6,20,"Singh, Davinder",Mitsubishi Colt Lancer,KE,G4,+3h 29m,NA,NA,NA
+7,16,"Shankland, Bert",Peugeot 504,TZ,G4,+6h 25m,NA,NA,NA
+8,15,"Remtulla, Zully",Datsun Violet,TZ,G4,+7h 11m,NA,NA,NA
+9,21,"Collinge, Robert",Datsun 160J,KE,G4,+9h 27m,NA,NA,NA
+10,27,"Shinozuka, Kenjiro",Mitsubishi Colt Lancer,JP,G4,+16h 35m,NA,NA,NA
+12,25,"Hellier, John",Datsun 1600SSS,KE,G2,+20h 04m,NA,NA,NA
+NA,2,"Clark, Roger",Ford Escort RS1800,GB,G4,NA,NA,NA,water pump
+NA,4,"Lampinen, Simo",Lancia Stratos HF,FI,G4,NA,NA,NA,overheating
+NA,5,"Mehta, Shekhar",Datsun Violet,KE,G4,NA,NA,NA,engine
+NA,6,"Ulyate, Robin",Lancia Stratos HF,KE,G4,NA,NA,NA,overheating
+NA,8,"Kallstrom, Harry",Datsun Violet,SE,G4,NA,NA,NA,accident
+NA,9,"Makinen, Timo",Peugeot 504 V6 Coupe,FI,G4,NA,NA,NA,engine
+NA,11,"Nicolas, Jean-Pierre",Peugeot 504 V6 Coupe,FR,G4,NA,NA,NA,engine
+NA,12,"Mikkola, Hannu",Peugeot 504,FI,G4,NA,NA,NA,distributor
+NA,14,"Vatanen, Ari",Ford Escort RS1800,FI,G4,NA,NA,NA,halfshaft
+NA,18,"Preston Jr, Vic",Ford Escort RS1800,KE,G4,NA,NA,NA,clutch
+NA,19,"Brown, Howard Lawrence",Datsun Violet,KE,G4,NA,NA,NA,engine
+NA,22,"Guichet, Jean",Peugeot 504,FR,G4,NA,NA,NA,accident

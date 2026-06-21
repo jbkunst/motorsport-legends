@@ -1,0 +1,20 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"Auriol, Didier",Lancia Delta HF Integrale,FR,A8,5h 13m 12s,NA,NA,NA
+2,1,"Kankkunen, Juha",Lancia Delta HF Integrale,FI,A,+1m 41s,NA,NA,NA
+3,2,"Sainz, Carlos",Toyota Celica Turbo 4WD (ST185),ES,A,+2m 04s,NA,NA,NA
+4,7,"Recalde, Jorge",Lancia Delta HF Integrale,AR,A,+18m 53s,NA,NA,NA
+5,6,"Dunkerton, Ross",Mitsubishi Galant VR-4,AU,A,+23m 03s,NA,NA,NA
+6,10,"Bourne, Peter",Subaru Legacy RS,NZ,A,+33m 40s,NA,NA,NA
+7,11,"Ordynski, Ed",Mitsubishi Galant VR-4,AU,N,+38m 27s,NA,NA,NA
+8,20,"Challis, Tolley",Mitsubishi Galant VR-4,AU,N,+41m 14s,NA,NA,NA
+9,19,"Inoue, Kiyoshi",Mitsubishi Galant VR-4,JP,N,+41m 26s,NA,NA,NA
+10,23,"Stallard, Craig",Mitsubishi Galant VR-4,AU,N,+53m 25s,NA,NA,NA
+18,39,"Dines, Jacquiline",Mazda 323 4WD,AU,A,+1h 12m 44s,NA,NA,NA
+999,NA,"Anand, Virendra",Lancia Delta HF Integrale,HK,A8,NA,NA,NA,NA
+NA,4,"Vatanen, Ari",Subaru Legacy RS,FI,A,NA,NA,SS19,transmission
+NA,9,"Millen, Rod",Mazda 323 GT-X,NZ,A,NA,NA,SS10,accident
+NA,12,"Menem Jr., Carlos",Lancia Delta HF Integrale,AR,N,NA,NA,SS10,accident
+NA,14,"Fujimoto, Yoshio",Nissan Sunny GTI-R,JP,N,NA,NA,SS10,accident
+NA,16,"Kytolehto, Jarmo",Mitsubishi Galant VR-4,FI,N,NA,NA,after start,only start was needed
+NA,17,"Herridge, Robert",Subaru Legacy RS,AU,N,NA,NA,SS9,steering
+NA,24,"Jurvanen, Eija",Ford Sierra XR4x4,FI,A,NA,NA,after start,only start was needed

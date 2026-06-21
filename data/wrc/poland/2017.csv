@@ -1,0 +1,48 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,5,"Neuville, Thierry",Hyundai i20 Coupe WRC,BE,RC1,"2h 40m 46,0s",NA,NA,NA
+2,4,"Paddon, Hayden",Hyundai i20 Coupe WRC,NZ,RC1,"+1m 23,9s",NA,NA,NA
+3,1,"Ogier, Sebastien",Ford Fiesta RS WRC 2017,FR,RC1,"+2m 20,8s",NA,NA,NA
+4,6,"Sordo Castillo, Daniel",Hyundai i20 Coupe WRC,ES,RC1,"+2m 47,4s",NA,NA,NA
+5,9,"Lefebvre, Stephane",Citroen C3 WRC,FR,RC1,"+3m 11,8s",NA,NA,NA
+6,15,"Suninen, Teemu",Ford Fiesta RS WRC,FI,RC1,"+3m 16,8s",NA,NA,NA
+7,14,"Ostberg, Mads",Ford Fiesta RS WRC 2017,NO,RC1,"+3m 39,6s",NA,NA,NA
+8,3,"Evans, Elfyn",Ford Fiesta RS WRC 2017,GB,RC1,"+4m 39,1s",NA,NA,NA
+9,7,"Mikkelsen, Andreas",Citroen C3 WRC,NO,RC1,"+4m 43,5s",NA,NA,NA
+10,11,"Hanninen, Juho",Toyota Yaris WRC,FI,RC1,"+4m 53,7s",0:10,NA,NA
+11,8,"Breen, Craig",Citroen C3 WRC,IE,RC1,"+11m 56,6s",1:20,NA,NA
+12,34,"Veiby, Ole Christian",Skoda Fabia,NO,RC2,"+12m 53,2s",NA,NA,NA
+13,31,"Tidemand, Pontus",Skoda Fabia,SE,RC2,"+13m 26,1s",NA,NA,NA
+14,91,"Camilli, Eric",Ford Fiesta,FR,RC2,"+16m 48,2s",NA,NA,NA
+15,40,"Gilbert, Quentin",Skoda Fabia,FR,RC2,"+17m 13,5s",NA,NA,NA
+16,21,"Gorban, Valeriy",Mini John Cooper Works,UA,RC1,"+17m 28,4s",NA,NA,NA
+17,32,"Guerra Latapi, Benito",Skoda Fabia,MX,RC2,"+19m 58,1s",0:10,NA,NA
+18,44,"Bonato, Yoann",Citroen DS3,FR,RC2,"+20m 16,1s",NA,NA,NA
+19,42,"Chuchala, Wojciech",Ford Fiesta,PL,RC2,"+21m 10,1s",NA,NA,NA
+20,10,"Latvala, Jari-Matti",Toyota Yaris WRC,FI,RC1,"+28m 01,0s",NA,NA,NA
+21,92,"Loubet, Pierre-Louis",Ford Fiesta,FR,RC2,"+31m 10,5s",4:40,NA,NA
+22,35,"Greensmith, Fergus",Ford Fiesta,GB,RC2,"+34m 52,2s",0:20,NA,NA
+23,43,"Andolfi, Fabio",Hyundai i20,IT,RC2,"+35m 12,1s",NA,NA,NA
+24,71,"Solans Baldo, Nil",Ford Fiesta,ES,RC4,"+37m 00,9s",NA,NA,NA
+25,78,"Radstrom, Dennis",Ford Fiesta,SE,RC4,"+37m 16,3s",NA,NA,NA
+26,63,"Brzezinski, Jakub",Citroen DS3,PL,RC3,"+39m 11,7s",NA,NA,NA
+27,74,"Ciamin, Nicolas",Ford Fiesta,FR,RC4,"+39m 42,7s",NA,NA,NA
+28,72,"Folb, Thierry",Ford Fiesta,FR,RC2,"+40m 53,3s",NA,NA,NA
+29,73,"Tannert, Julius",Ford Fiesta,DE,RC4,"+43m 18,7s",0:10,NA,NA
+30,22,"Serderidis, Jourdan",Citroen DS3 WRC,GR,RC1,"+45m 34,4s",NA,NA,NA
+31,77,"van Way, Dillon",Ford Fiesta,US,RC4,"+47m 38,8s",NA,NA,NA
+32,36,"Heller, Pedro",Ford Fiesta,CL,RC2,"+49m 03,9s",NA,NA,NA
+33,62,"Name Guzzy Jr, Francisco",Citroen DS3,MX,RC3,"+59m 25,9s",NA,NA,NA
+34,79,"Careaga Campos, Sebastian",Ford Fiesta,BO,RC4,"+1h 00m 11,6s",NA,NA,NA
+35,80,"Lindholm, Emil",Ford Fiesta,FI,RC4,"+1h 05m 44,3s",NA,NA,NA
+36,33,"Tempestini, Simone",Citroen DS3,IT,RC2,"+1h 11m 47,6s",NA,NA,NA
+37,39,"Pieniazek, Lukasz",Peugeot 208,PL,RC2,"+1h 19m 48,7s",NA,NA,NA
+38,61,"Astier, Raphael",Peugeot 208,FR,RC4,"+1h 24m 35,3s",1:00,NA,NA
+39,93,"Pipiras, Jonas",Ford Fiesta,LT,RC4,"+1h 26m 45,0s",NA,NA,NA
+40,94,"Foulon, Alain",Mitsubishi Lancer Evo X,FR,RC2,"+1h 30m 48,3s",NA,NA,NA
+NA,2,"Tanak, Ott",Ford Fiesta RS WRC 2017,EE,RC1,NA,NA,TC22,accident
+NA,12,"Lappi, Esapekka",Toyota Yaris WRC,FI,RC1,NA,NA,SS4,mechanical
+NA,23,"Raoux, Jean-Michel",Citroen DS3 WRC,FR,RC1,NA,NA,SS21,unknown
+NA,38,"Ptaszek, Hubert",Skoda Fabia,PL,RC2,NA,NA,TC10C,unknown
+NA,41,"Koltun, Jaroslaw",Ford Fiesta,PL,RC2,NA,NA,TC11,accident
+NA,45,"Jeets, Raul",Skoda Fabia,EE,RC2,NA,NA,SS20,unknown
+NA,46,"Pryce, Osian",Ford Fiesta,GB,RC2,NA,NA,SS2,accident

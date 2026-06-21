@@ -1,0 +1,86 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,8,"Tanak, Ott",Hyundai i20 N Rally1,EE,Rally1,"2h 25m 38,9s",NA,NA,NA
+2,33,"Evans, Elfyn",Toyota GR Yaris Rally1,GB,Rally1,"+5,0s",0:10,NA,NA
+3,4,"Lappi, Esapekka",Toyota GR Yaris Rally1,FI,Rally1,"+1m 41,6s",NA,NA,NA
+4,2,"Solberg, Oliver",Hyundai i20 N Rally1,SE,Rally1,"+3m 28,5s",NA,NA,NA
+5,18,"Katsuta, Takamoto",Toyota GR Yaris Rally1,JP,Rally1,"+6m 06,1s",NA,NA,NA
+6,24,"Lefebvre, Stephane",Citroen C3,FR,Rally2,"+10m 00,7s",0:15,NA,NA
+7,20,"Mikkelsen, Andreas",Skoda Fabia,NO,Rally2,"+10m 03,8s",NA,NA,NA
+8,21,"Rossel, Yohan",Citroen C3,FR,Rally2,"+10m 54,8s",NA,NA,NA
+9,31,"Ingram, Christopher",Skoda Fabia,GB,Rally2,"+11m 20,8s",NA,NA,NA
+10,22,"Gryazin, Nikolay",Skoda Fabia,RU,Rally2,"+11m 26,8s",NA,NA,NA
+11,25,"Munster, Gregoire",Hyundai i20,LU,Rally2,"+11m 28,9s",NA,NA,NA
+12,26,"Verschueren, Vincent",Volkswagen Polo,BE,Rally2,"+12m 40,1s",NA,NA,NA
+13,48,"Bux, Gino",Skoda Fabia,BE,Rally2,"+12m 54,8s",NA,NA,NA
+14,49,"Potty, Maxime",Citroen C3,BE,Rally2,"+13m 00,3s",NA,NA,NA
+15,50,"Bedoret, Sebastien",Skoda Fabia,BE,Rally2,"+13m 25,1s",NA,NA,NA
+16,36,"Kremer, Armin",Skoda Fabia,DE,Rally2,"+15m 28,3s",NA,NA,NA
+17,28,"Loix, Freddy",Skoda Fabia,BE,Rally2,"+15m 52,4s",NA,NA,NA
+18,27,"Vanneste, Davy",Citroen C3,BE,Rally2,"+17m 19,1s",NA,NA,NA
+19,44,"Greensmith, Fergus",Ford Puma Rally1,GB,Rally1,"+18m 40,4s",3:10,NA,NA
+20,11,"Neuville, Thierry",Hyundai i20 N Rally1,BE,Rally1,"+19m 50,5s",NA,NA,NA
+21,29,"Bulacia Wilkinson, Marco",Skoda Fabia,BO,Rally2,"+20m 08,1s",NA,NA,NA
+22,76,"Molle, Amaury",Renault-Alpine A110,BE,RGT,"+20m 50,5s",NA,NA,NA
+23,54,"Becaert, Steve",Ford Fiesta,BE,Rally2,"+21m 41,6s",NA,NA,NA
+24,34,"Reynvoet, Niels",Skoda Fabia,BE,Rally2,"+21m 46,5s",NA,NA,NA
+25,72,"Lietaer, Paul",Renault-Alpine A110,BE,RGT,"+22m 01,2s",NA,NA,NA
+26,55,"Fernandes, Steve",Skoda Fabia,LU,Rally2,"+22m 12,2s",1:00,NA,NA
+27,59,"Snijers, Patrick",Ford Fiesta,BE,Rally3,"+23m 22,7s",NA,NA,NA
+28,38,"Simpson, Neil",Skoda Fabia,GB,Rally2,"+23m 51,2s",NA,NA,NA
+29,37,"Burri, Olivier",Hyundai i20,CH,Rally2,"+24m 50,2s",NA,NA,NA
+30,75,"Maeyaert, Pieter-Jan",BMW E30,BE,ASN,"+24m 57,7s",0:10,NA,NA
+31,85,"Rensonnet, Tom",Renault Clio,BE,Rally4,"+25m 00,5s",NA,NA,NA
+32,87,"Dolfen, Steven",Opel Corsa,BE,Rally4,"+25m 45,4s",NA,NA,NA
+33,57,"Stampaert, Nicola",Ford Fiesta,BE,Rally2,"+26m 53,5s",NA,NA,NA
+34,45,"Cerny, Jan",Ford Fiesta,CZ,Rally3,"+27m 35,3s",NA,NA,NA
+35,86,"Dewilde, Jonas",Peugeot 208,BE,Rally4,"+28m 26,8s",NA,NA,NA
+36,61,"Soete, Maxime",Skoda Fabia,BE,Rally2,"+29m 20,8s",NA,NA,NA
+37,40,"Boland, Eamonn",Ford Fiesta,IE,Rally2,"+30m 10,5s",NA,NA,NA
+38,98,"Nielsen, Casper",Renault Clio,DK,Rally5,"+30m 27,4s",NA,NA,NA
+39,64,"Verbeke, Etienne",Ford Fiesta,BE,Rally2,"+30m 39,4s",NA,NA,NA
+40,89,"Merlevede, Manuel",Peugeot 208,BE,Rally4,"+31m 19,6s",NA,NA,NA
+41,56,"Hodenius, Roger",Citroen C3,NL,Rally2,"+31m 27,7s",NA,NA,NA
+42,94,"Guibert, Jean-Christophe",Ford Fiesta,FR,Rally4,"+32m 25,4s",NA,NA,NA
+43,101,"van den Brink, Mitchel",Renault Clio,NL,Rally5,"+33m 41,2s",NA,NA,NA
+44,97,"Perrard, Frederic",Renault Clio,FR,Rally5,"+34m 16,1s",NA,NA,NA
+45,99,"Dhaene, Lander",Renault Clio,BE,Rally5,"+35m 15,9s",NA,NA,NA
+46,83,"Verstraete, Vincent",Ford Fiesta,BE,Rally3,"+35m 57,6s",NA,NA,NA
+47,78,"Dekens, Johan",Porsche 991,BE,RGT,"+36m 01,2s",NA,NA,NA
+48,82,"Sobry, Bart",Ford Fiesta,BE,Rally3,"+36m 21,8s",NA,NA,NA
+49,88,"Berville, Frederic",Opel Adam,BE,Rally4,"+37m 36,9s",NA,NA,NA
+50,73,"Wanwijnsberghe, Didier",BMW E30,BE,ASN,"+37m 37,4s",NA,NA,NA
+51,47,"Laszlo, Zoltan",Ford Fiesta,HU,Rally3,"+38m 17,1s",NA,NA,NA
+52,93,"Walbrecq, Lucas",Peugeot 208,BE,Rally4,"+38m 32,1s",NA,NA,NA
+53,58,"Pajari, Sami",Ford Fiesta,FI,Rally3,"+40m 04,6s",NA,NA,NA
+54,43,"Vossen, Henk",Ford Fiesta,NL,Rally2,"+40m 33,8s",NA,NA,NA
+55,95,"Vandaele, Stijn",Peugeot 208,BE,Rally4,"+43m 06,5s",NA,NA,NA
+56,100,"Perrard, Gregory",Renault Clio,FR,Rally5,"+43m 37,5s",NA,NA,NA
+57,53,"Cachon Rodriguez, Alejandro",Citroen C3,ES,Rally2,"+44m 10,5s",NA,NA,NA
+58,96,"Depredomme, Johan",Ford Fiesta,BE,Rally4,"+49m 15,1s",2:40,NA,NA
+59,60,"Roussel, Frederic",Citroen DS3,FR,Rally2,"+54m 46,2s",NA,NA,NA
+60,51,"Verstappen, Jos",Citroen C3,NL,Rally2,"+55m 04,0s",NA,NA,NA
+61,41,"Diaz-Aboitiz, Miguel",Skoda Fabia,ES,Rally2,"+1h 02m 40,6s",0:20,NA,NA
+62,69,"Rovanpera, Kalle",Toyota GR Yaris Rally1,FI,Rally1,"+1h 10m 29,5s",0:30,NA,NA
+63,42,"Breen, Craig",Ford Puma Rally1,IE,Rally1,"+1h 10m 59,4s",NA,NA,NA
+64,65,"van Parijs, Timothy",Porsche 997,BE,RGT,"+1h 16m 17,2s",NA,NA,NA
+65,84,"Pyck, Gilles",Renault Clio,BE,Rally4,"+1h 23m 18,7s",NA,NA,NA
+66,39,"Fukunaga, Osamu",Skoda Fabia,JP,Rally2,"+1h 37m 19,1s",NA,NA,NA
+67,63,"Davroux, Pierre",Skoda Fabia,FR,Rally2,"+1h 40m 11,9s",0:10,NA,NA
+68,81,"Vandamme, Chris",Renault-Alpine A110,BE,RGT,"+1h 49m 30,4s",NA,NA,NA
+69,46,"Brazzoli, Enrico",Ford Fiesta,IT,Rally3,"+2h 20m 22,2s",NA,NA,NA
+NA,16,"Fourmaux, Adrien",Ford Puma Rally1,FR,Rally1,NA,NA,SS19,mechanical
+NA,23,"Huttunen, Jari",Ford Fiesta,FI,Rally2,NA,NA,TC8C,mechanical
+NA,30,"Cracco, Pieter Jan Michiel",Hyundai i20,BE,Rally2,NA,NA,SS11,mechanical
+NA,32,"McErlean, Joshua",Hyundai i20,IE,Rally2,NA,NA,SS6,mechanical
+NA,35,"Linnamae, Georg",Volkswagen Polo,EE,Rally2,NA,NA,TC20A,mechanical
+NA,52,"Casier, Bernd",Ford Fiesta,BE,Rally2,NA,NA,SS11,mechanical
+NA,62,"Verbeke, Alexandre",Citroen DS3,BE,Rally2,NA,NA,TC18,mechanical
+NA,66,"Syx, Bjorn",BMW E30,BE,ASN,NA,NA,SS12,mechanical
+NA,70,"Janssens, Glenn",Porsche 991,BE,RGT,NA,NA,TC3,mechanical
+NA,71,"Kenis, Guino",BMW E30,BE,ASN,NA,NA,SS17,mechanical
+NA,74,"Prinzie, Stefaan",Renault-Alpine A110,BE,RGT,NA,NA,TC15,mechanical
+NA,77,"Merlevede, Christophe",BMW E30,BE,ASN,NA,NA,TC16D,mechanical
+NA,79,"Merlevede, Cedriek",BMW E30,BE,ASN,NA,NA,SS18,mechanical
+NA,90,"Ollevier, Aaron",Peugeot 208,BE,Rally4,NA,NA,SS16,mechanical
+NA,91,"Bauwens, Kim",Ford Fiesta,BE,Rally4,NA,NA,TC18C,mechanical
+NA,92,"Brown, James",Ford Fiesta,GB,Rally4,NA,NA,TC18,mechanical

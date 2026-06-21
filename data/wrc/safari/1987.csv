@@ -1,0 +1,19 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,7,"Mikkola, Hannu",Audi 200 quattro,FI,A8,3h 39m 44s,NA,NA,NA
+2,2,"Rohrl, Walter",Audi 200 quattro,DE,A,+17m 15s,NA,NA,NA
+3,4,"Torph, Lars-Erik",Toyota Supra 3.0i,SE,A,+51m 25s,NA,NA,NA
+4,5,"Weber, Erwin",Volkswagen Golf GTi,DE,A,+2h 07m 43s,NA,NA,NA
+5,15,"Eklund, Per",Subaru Coupe 4WD Turbo,SE,A,+2h 20m 58s,NA,NA,NA
+6,11,"Ulyate, Robin",Toyota Supra 3.0i,KE,A,+2h 53m 23s,NA,NA,NA
+7,10,"Stohl, Rudolf",Audi Coupe,AT,A,+3h 05m 43s,NA,NA,NA
+8,18,"Kirkland, Mike",Nissan 200SX,KE,A,+3h 34m 20s,NA,NA,NA
+9,9,"Aaltonen, Rauno",Opel Kadett GSi,FI,A,+4h 28m 26s,NA,NA,NA
+10,1,"Vatanen, Ari",Subaru Coupe 4WD Turbo,FI,A,+5h 26m 33s,NA,NA,NA
+11,21,"Bourne, Peter",Subaru Coupe 4WD Turbo,NZ,A,+5h 30m 26s,NA,NA,NA
+14,16,"Preston Jr, Vic",Lancia Delta HF 4WD,KE,A,+6h 26m 27s,NA,NA,NA
+NA,3,"Waldegard, Bjorn",Toyota Supra 3.0i,SE,A,NA,NA,TC67,engine
+NA,6,"Blomqvist, Stig",Ford Sierra RS Cosworth,SE,A,NA,NA,TC19,fire
+NA,8,"Eriksson, Kenneth",Volkswagen Golf GTi,SE,A,NA,NA,TC77,engine
+NA,12,"Mehta, Shekhar",Nissan 200SX,KE,A,NA,NA,TC6,rear axle
+NA,14,"Zanussi, Andrea",Nissan 200SX,IT,A,NA,NA,TC56,rear suspension
+NA,19,"Hellier, John",Ford Sierra RS Cosworth,KE,A,NA,NA,TC44,electrics

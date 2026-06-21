@@ -1,0 +1,116 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,6,"Biasion, Massimo",Lancia Delta HF 4WD,IT,A8,7h 39m 50s,NA,NA,NA
+2,1,"Kankkunen, Juha",Lancia Delta HF 4WD,FI,A,+59s,NA,NA,NA
+3,4,"Rohrl, Walter",Audi 200 quattro,DE,A,+4m 10s,NA,NA,NA
+4,14,"Carlsson, Ingvar",Mazda 323 4WD,SE,A,+15m 55s,NA,NA,NA
+5,7,"Eriksson, Kenneth",Volkswagen Golf GTi,SE,A,+28m 19s,NA,NA,NA
+6,3,"Ragnotti, Jean",Renault 11 Turbo,FR,A,+33m 26s,NA,NA,NA
+7,11,"Weber, Erwin",Volkswagen Golf GTi,DE,A,+36m 07s,NA,NA,NA
+8,9,"Chatriot, Francois",Renault 11 Turbo,FR,A,+37m 14s,NA,NA,NA
+9,78,"Balas, Bertrand",Lancia Delta HF 4WD,FR,N,+38m 29s,NA,NA,NA
+10,16,"Eklund, Per",Subaru RX Turbo,SE,A,+41m 17s,NA,NA,NA
+11,18,"Turiani, Auguste",Audi Coupe,MC,A,+45m 47s,NA,NA,NA
+12,80,"Fiorio, Alessandro",Lancia Delta HF 4WD,IT,N,+51m 33s,NA,NA,NA
+13,76,"Panciatici, Jacques",Alfa Romeo 33 4x4,FR,N,+56m 48s,NA,NA,NA
+14,24,"Haugland, John",Skoda 130,NO,A,+1h 05m 15s,NA,NA,NA
+15,84,"Schon, Giorgio",Lancia Delta HF 4WD,IT,N,+1h 07m 26s,NA,NA,NA
+16,155,"Delecour, Francois",Peugeot 205 GTI,FR,N,+1h 09m 02s,NA,NA,NA
+17,130,"Duchene, Benoit",Renault 5 GT Turbo,FR,N,+1h 11m 30s,NA,NA,NA
+18,29,"Renoux, Gilbert",Volkswagen Golf GTi,FR,A,+1h 11m 34s,NA,NA,NA
+19,106,"Magaud, Patrick",Fiat Uno Turbo,FR,N,+1h 14m 33s,NA,NA,NA
+20,104,"Grillerer, Christian",Lancia Delta,FR,N,+1h 14m 49s,NA,NA,NA
+21,124,"Billion-Rey, Michel",Lancia Delta,FR,N,+1h 15m 08s,NA,NA,NA
+22,49,"Mauffrey, Eric",Volkswagen Golf GTi,FR,A,+1h 20m 29s,NA,NA,NA
+23,81,"Couloumies, Jean-Sebastien",Peugeot 205 GTI,FR,N,+1h 26m 49s,NA,NA,NA
+24,111,"Mouchet, Jean-Claude",Renault 5 GT Turbo,FR,N,+1h 28m 44s,NA,NA,NA
+25,110,"Riblet, Jean-Louis",Peugeot 205 GTI,FR,N,+1h 31m 45s,NA,NA,NA
+26,118,"Golay, Michel",Volkswagen Golf GTi,CH,N,+1h 33m 06s,NA,NA,NA
+27,147,Balthazard,Alfa Romeo 33 4x4,NA,N,+1h 37m 34s,NA,NA,NA
+28,32,"Carron, Edgar",Toyota Corolla,CH,A,+1h 39m 32s,NA,NA,NA
+29,125,"Ihle, Wolf-Dieter",Volkswagen Golf GTi,DE,N,+1h 40m 30s,NA,NA,NA
+30,48,Liotard,Peugeot 205 GTI,NA,A,+1h 40m 50s,NA,NA,NA
+31,99,"Jaussaud, Bernard",Renault 5 GT Turbo,FR,N,+1h 41m 04s,NA,NA,NA
+32,129,Antoine,Volkswagen Golf GTi,FR,N,+1h 42m 10s,NA,NA,NA
+33,117,Karlan,Volkswagen Golf GTi,NA,N,+1h 46m 01s,NA,NA,NA
+34,41,"Bonfils, Michel",Opel Kadett,FR,A,+1h 46m 39s,NA,NA,NA
+35,116,Girardon,Renault 5 GT Turbo,NA,N,+1h 46m 45s,NA,NA,NA
+36,53,Balthazard,Alfa Romeo,NA,A,+1h 46m 59s,NA,NA,NA
+37,77,"Ayme, Jean-Paul",Ford Sierra,FR,N,+1h 47m 00s,NA,NA,NA
+38,31,"Gardavot, Christian",Ford Sierra,FR,A,+1h 47m 02s,NA,NA,NA
+39,97,Daguebert,Peugeot 205 GTI,FR,N,+1h 49m 35s,NA,NA,NA
+40,59,"Grimaud, Roger",Opel Manta,FR,A,+1h 50m 31s,NA,NA,NA
+41,61,Margairaz,Renault 5 GT Turbo,NA,A,+1h 51m 02s,NA,NA,NA
+42,101,"Lafon, J-L",Lancia Delta,NA,N,+1h 51m 51s,NA,NA,NA
+43,112,"Thuriot, Xavier",Peugeot 205 GTI,FR,N,+1h 51m 55s,NA,NA,NA
+44,135,"Hupfert, Jean-Michel",Renault 5 GT Turbo,FR,N,+1h 53m 19s,NA,NA,NA
+45,122,Pourquier,Volkswagen Golf GTi,FR,N,+1h 53m 19s,NA,NA,NA
+46,102,"Caminada, Rene",Volkswagen Golf GTi,FR,N,+1h 57m 03s,NA,NA,NA
+47,36,Ditzinger,Opel Manta,DE,A,+1h 57m 10s,NA,NA,NA
+48,34,"Andre-Poyaud, Michel",Talbot Samba,FR,A,+1h 59m 50s,NA,NA,NA
+49,56,"Soureillat, Christian",Peugeot 205 GTI,FR,A,+2h 00m 02s,NA,NA,NA
+50,68,"Perugia, Luigi",Autobianchi A112,IT,A,+2h 05m 43s,NA,NA,NA
+51,98,"Frossard, Dominique",Renault 5 GT Turbo,FR,N,+2h 05m 43s,NA,NA,NA
+52,131,Roller,Renault 5 GT Turbo,NA,N,+2h 08m 06s,NA,NA,NA
+53,140,"Leoni, J.M.",Renault 5 GT Turbo,FR,N,+2h 08m 37s,NA,NA,NA
+54,92,Christensen,Ford Sierra Cosworth 4x4,NO,N,+2h 08m 52s,NA,NA,NA
+55,137,"Mallen, Eric",Audi 80 quattro,FR,N,+2h 09m 23s,NA,NA,NA
+56,121,Mazet,Renault 5 GT Turbo,NA,N,+2h 11m 21s,NA,NA,NA
+57,62,"Morthier, Jean-Pierre",Volkswagen Golf GTi,CH,A,+2h 12m 10s,NA,NA,NA
+58,90,"Castruccio, S.",Renault 5 GT Turbo,FR,N,+2h 12m 43s,NA,NA,NA
+59,105,"Kreutz, Kurt",Toyota Corolla,DE,N,+2h 12m 49s,NA,NA,NA
+60,113,"Vold-Johanssen, Leif",Volkswagen Golf GTi,NO,N,+2h 15m 22s,NA,NA,NA
+61,108,Bour,Peugeot 205 GTI,NA,N,+2h 15m 40s,NA,NA,NA
+62,96,Coulanges,Renault 5 GT Turbo,NA,N,+2h 17m 03s,NA,NA,NA
+63,138,Pailler,Alfa Romeo 33 4x4,NA,N,+2h 18m 56s,NA,NA,NA
+64,87,Avon,Toyota Corolla,NA,N,+2h 19m 35s,NA,NA,NA
+65,40,Duconget,Renault 5 GT Turbo,FR,A,+2h 20m 28s,NA,NA,NA
+66,35,Ishikawa,Nissan Sunny,JP,A,+2h 20m 58s,NA,NA,NA
+67,60,Guichard,BMW 323i,NA,A,+2h 21m 02s,NA,NA,NA
+68,126,"Andre-Poyaud, Christophe",Talbot Samba,FR,N,+2h 23m 20s,NA,NA,NA
+69,109,Nielsen,Renault 5 GT Turbo,DK,N,+2h 25m 00s,NA,NA,NA
+70,88,"Calloud, Christian",Volkswagen Golf GTi,FR,N,+2h 28m 03s,NA,NA,NA
+70,119,"Jominet, Michel",Renault 5 GT Turbo,FR,N,+2h 26m 45s,NA,NA,NA
+72,127,"Noellner, Dieter",Peugeot 205 GTI,DE,N,+2h 28m 27s,NA,NA,NA
+73,89,Gundersen,Ford Sierra Cosworth 4x4,NO,N,+2h 32m 21s,NA,NA,NA
+74,139,Marguerat,Volkswagen Golf GTi,NA,N,+2h 37m 49s,NA,NA,NA
+75,120,"le Cozanet, Robert",Volkswagen Golf GTi,FR,N,+2h 49m 56s,NA,NA,NA
+76,47,Francois,Peugeot 205 GTI,NA,A,+2h 54m 03s,NA,NA,NA
+77,91,Errani,Lancia Delta,NA,N,+3h 03m 19s,NA,NA,NA
+78,145,Limone,Renault 5 GT Turbo,MC,N,+3h 05m 15s,NA,NA,NA
+79,58,"Gaioni, Romano",Fiat Ritmo,IT,A,+3h 11m 42s,NA,NA,NA
+80,144,"Sagnard, Richard",Talbot Samba,FR,N,+3h 21m 46s,NA,NA,NA
+81,149,de Luise,Peugeot 205 GTI,NA,N,+3h 29m 48s,NA,NA,NA
+82,100,"Juve Raventos, Josep",Fiat Uno Turbo,ES,N,+3h 43m 33s,NA,NA,NA
+83,142,Bizzarilli,Volkswagen Golf GTi,FR,N,+3h 44m 50s,NA,NA,NA
+84,10,"Grundel, Karl",Ford Sierra RS Cosworth,SE,A,+4h 22m 16s,NA,NA,NA
+85,30,"Bos, Pierre",Audi 90 quattro,FR,A,+5h 38m 38s,NA,NA,NA
+86,85,"Chauche, Francois",Renault 5 GT Turbo,FR,N,+5h 43m 25s,NA,NA,NA
+87,75,"Caneva, Vittorio",Lancia Delta HF 4WD,IT,N,+5h 44m 45s,NA,NA,NA
+88,67,Sanfourche,Peugeot 205 GTI,NA,A,+6h 28m 03s,NA,NA,NA
+89,54,Bauge,Renault 11 Turbo,FR,A,+7h 35m 55s,NA,NA,NA
+90,NA,Sau,Ford Sierra Cosworth,NA,NA,+8h 00m 28s,NA,NA,NA
+91,42,Camiela,Suzuki Cultus (Swift),NA,A,+15h 25m 01s,NA,NA,NA
+92,66,Roche,Renault 5 GT Turbo,FR,A,+17h 00m 48s,NA,NA,NA
+93,136,Malaussene,Volkswagen Golf GTi,NA,N,+17h 02m 51s,NA,NA,NA
+NA,2,"Salonen, Timo",Mazda 323 4WD,FI,A,NA,NA,SS6,turbo pipe
+NA,5,"Blomqvist, Stig",Ford Sierra XR4x4,SE,A,NA,NA,post-event,homologation irregularities
+NA,8,"Saby, Bruno",Lancia Delta HF 4WD,FR,A,NA,NA,SS12,transmission
+NA,12,"Droogmans, Robert",Ford Sierra XR4x4,BE,A,NA,NA,SS1,engine
+NA,15,"Oreille, Alain",Renault 11 Turbo,FR,A,NA,NA,SS10,engine
+NA,19,"Hero, Manfred",Lancia Delta HF 4WD,DE,A,NA,NA,SS14,accident
+NA,20,"Darniche, Bernard",Mercedes Benz 190,FR,A,NA,NA,NA,unknown
+NA,21,"Demuth, Harald",Subaru Leone 4WD,DE,A,NA,NA,SS1,gearbox
+NA,22,"Krecek, Ladislav",Skoda 130,CS,A,NA,NA,SS19,suspension
+NA,26,"Snobeck, Dany",Mercedes Benz 190,FR,A,NA,NA,SS5,off road
+NA,27,"Chomat, Maurice",Audi Coupe,FR,A,NA,NA,SS21,engine
+NA,74,"Muller, Horst-Lars",Toyota Corolla,DE,N,NA,NA,NA,alternator
+NA,86,"Rouget, Jean-Pierre",Ford Sierra,FR,N,NA,NA,SS14,accident
+NA,161,"Dorche, Christian",Citroen Visa,FR,B,NA,NA,NA,Gr B drivers not classified
+NA,162,"Bondil, Francis",Citroen Visa,FR,B,NA,NA,SS14,gearbox
+NA,163,"Vergnaud, Carole",Citroen Visa,FR,B,NA,NA,NA,Gr B drivers not classified
+NA,164,"Ballet, Jean-Pierre",Citroen Visa,FR,B,NA,NA,NA,Gr B drivers not classified
+NA,165,"Marteil, Jean-Luc",Citroen Visa,FR,B,NA,NA,NA,Gr B drivers not classified
+NA,171,Perret,Citroen Visa,FR,B,NA,NA,NA,Gr B drivers not classified
+NA,174,"Picot, Gerard",Talbot Samba,FR,B,NA,NA,NA,Gr B drivers not classified
+NA,185,Charrier,Citroen Visa,NA,B,NA,NA,NA,Gr B drivers not classified
+NA,NA,Valla,Peugeot 104,NA,B,NA,NA,NA,Gr B drivers not classified

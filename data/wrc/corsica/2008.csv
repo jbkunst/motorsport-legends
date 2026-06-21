@@ -1,0 +1,72 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Loeb, Sebastien",Citroen C4 WRC,FR,A8,"3h 42m 58,0s",NA,NA,NA
+2,3,"Hirvonen, Mikko",Ford Focus RS WRC 08,FI,A8,"+3m 24,7s",NA,NA,NA
+3,4,"Duval, Francois",Ford Focus RS WRC 08,BE,A8,"+3m 31,6s",2:00,NA,NA
+4,8,"Latvala, Jari-Matti",Ford Focus RS WRC 07,FI,A8,"+3m 37,5s",1:30,NA,NA
+5,5,"Solberg, Petter",Subaru Impreza WRC2008,NO,A8,"+5m 35,4s",NA,NA,NA
+6,6,"Atkinson, Christopher",Subaru Impreza WRC2008,AU,A8,"+6m 10,4s",NA,NA,NA
+7,25,"Aava, Urmo",Citroen C4 WRC,EE,A8,"+7m 25,2s",1:00,NA,NA
+8,7,"Wilson, Matthew",Ford Focus RS WRC 07,GB,A8,"+9m 02,2s",NA,NA,NA
+9,21,"Ostberg, Mads",Subaru Impreza,NO,A8,"+9m 13,3s",NA,NA,NA
+10,15,"Clark, Barry",Ford Focus RS WRC 07,GB,A8,"+13m 38,3s",NA,NA,NA
+11,23,"Mikkelsen, Andreas",Ford Focus WRC,NO,A8,"+13m 46,0s",1:20,NA,NA
+12,17,"al-Qassimi, Khalid",Ford Focus RS WRC 08,AE,A8,"+14m 06,3s",NA,NA,NA
+13,11,"Gardemeister, Toni",Suzuki SX4 WRC,FI,A8,"+14m 31,2s",NA,NA,NA
+14,24,"Rautenbach, Conrad",Citroen C4 WRC,ZW,A8,"+14m 42,2s",NA,NA,NA
+15,16,"Solberg, Henning",Ford Focus RS WRC 07,NO,A8,"+15m 53,4s",NA,NA,NA
+16,22,"Jones, Gareth",Subaru Impreza,GB,A8,"+18m 45,0s",NA,NA,NA
+17,12,"Andersson, Per-Gunnar",Suzuki SX4 WRC,SE,A8,"+18m 57,0s",NA,NA,NA
+18,61,"Vauthier, Alain",Peugeot 206 WRC,FR,A8,"+21m 28,6s",NA,NA,NA
+19,31,"Prokop, Martin",Citroen C2 S1600,CZ,A6,"+21m 45,9s",NA,NA,NA
+20,42,"Ogier, Sebastien",Citroen C2,FR,A6,"+22m 03,6s",NA,NA,NA
+21,59,"Campana, Pierre",Renault Clio Maxi,FR,A7,"+22m 39,2s",NA,NA,NA
+22,64,"Pereira, Armando",Peugeot 307WRC,FR,A8,"+23m 22,7s",NA,NA,NA
+23,83,"Fiori, Guy",Renault Clio S1600,FR,A6,"+23m 29,2s",NA,NA,NA
+24,68,"Hanninen, Juho",Mitsubishi Lancer Evo IX,FI,N4,"+23m 51,4s",NA,NA,NA
+25,60,"Marche, Pierre",Suzuki Swift,FR,A6,"+23m 53,8s",NA,NA,NA
+26,33,"Burkart, Aaron Nicolai",Citroen C2 S1600,DE,A6,"+24m 23,7s",NA,NA,NA
+27,70,"Mattei, Jean-Dominique",Peugeot 207 S2000,FR,N4,"+24m 27,2s",NA,NA,NA
+28,41,"Sandell, Patrik",Renault Clio,SE,A7,"+25m 10,2s",NA,NA,NA
+29,43,"Niegel, Florian",Suzuki Swift S1600,DE,A6,"+26m 05,7s",NA,NA,NA
+30,45,"Abbring, Kevin",Renault Clio,NL,A7,"+27m 03,3s",NA,NA,NA
+31,39,"Albertini, Stefano",Renault Clio,IT,A7,"+28m 55,6s",NA,NA,NA
+32,95,"Gobert, Jean Pascal",Citroen C2,FR,A6,"+35m 18,3s",NA,NA,NA
+33,47,"Schammel, Gilles",Renault Clio,LU,A7,"+35m 30,4s",1:20,NA,NA
+34,78,"Quilici, Pierre",Renault Clio,FR,A7,"+35m 39,7s",NA,NA,NA
+35,71,"Natali, Pierre",Mitsubishi Lancer Evo IX,FR,N4,"+36m 28,2s",0:20,NA,NA
+36,32,"Molder, Jaan",Suzuki Swift S1600,EE,A6,"+37m 10,3s",NA,NA,NA
+37,44,"Weijs jr, Hans",Citroen C2 R2,NL,A6,"+39m 28,3s",NA,NA,NA
+38,81,"Zigliani, Rizziero",Renault Clio,IT,A7,"+45m 27,9s",NA,NA,NA
+39,101,"Boulege, Jeremy",Peugeot 206,FR,A6,"+46m 13,2s",NA,NA,NA
+40,89,"Giovanni, Philippe",Renault Clio,FR,N3,"+50m 29,0s",NA,NA,NA
+41,96,"Lafont, Eric",Citroen C2,FR,A6,"+53m 04,5s",NA,NA,NA
+42,97,"Rovina, Philippe",Peugeot 206,FR,A6,"+53m 34,5s",NA,NA,NA
+43,66,"Micheli, Jose",Citroen Xsara WRC,FR,A8,"+53m 51,4s",0:10,NA,NA
+44,99,"de Castelli, Sabrina",Citroen C2,FR,A6,"+54m 24,8s",NA,NA,NA
+45,85,"Aldeghi, Paolo",Renault Clio S1600,IT,A6,"+57m 04,4s",NA,NA,NA
+46,94,"Poisson, Jean-Marc",Honda Civic Type-R,FR,N3,"+58m 09,4s",NA,NA,NA
+47,100,"Colleie, Patrick",Citroen Saxo,FR,A6,"+1h 02m 49,8s",NA,NA,NA
+48,86,"Tlustak, Antonin",Citroen C2 S1600,CZ,A6,"+1h 07m 44,4s",0:20,NA,NA
+49,104,"Maestracci, Francois",Skoda Fabia,FR,N1,"+1h 09m 27,5s",NA,NA,NA
+50,80,"Fabregat, Jacques",Renault Clio,FR,A7,"+1h 15m 45,1s",NA,NA,NA
+51,90,"Vialle, Lilian",Renault Clio,FR,N3,"+1h 21m 04,5s",NA,NA,NA
+52,103,"Kemp, Pierre",Peugeot 206,FR,A6,"+1h 27m 36,7s",NA,NA,NA
+53,92,"Bensimon, Claude",Peugeot 206,FR,N3,"+1h 30m 02,9s",NA,NA,NA
+54,93,"Antonini, Jean Matteo",Renault Clio,FR,N3,"+1h 31m 43,7s",NA,NA,NA
+NA,2,"Sordo Castillo, Daniel",Citroen C4 WRC,ES,A8,NA,NA,SS3,accident
+NA,14,"Tirabassi, Brice",Subaru Impreza WRC2008,FR,A8,NA,NA,SS14,mechanical
+NA,35,"Kosciuszko, Michal",Suzuki Swift S1600,PL,A6,NA,NA,SS1,off road
+NA,37,"Bertolotti, Simone",Renault Clio,IT,A6,NA,NA,SS10,off road
+NA,40,"Augoyard, Arnaud",Renault Clio,FR,A7,NA,NA,SS7,off road
+NA,48,"Bettega, Alessandro",Renault Clio,IT,A7,NA,NA,SS15,off road
+NA,63,"Padrona, Francois",Subaru Impreza,FR,A8,NA,NA,TC12D,off road
+NA,65,"Guebey, Georges",Peugeot 206 WRC,FR,A8,NA,NA,SS13,mechanical
+NA,72,"Branca, Michel",Mitsubishi Lancer Evo VII,FR,N4,NA,NA,SS3,mechanical
+NA,73,"Tomastik, Jaromir",Subaru Impreza WRX,CZ,N4,NA,NA,SS1,mechanical
+NA,75,"Barral, Thomas",Renault Clio,FR,A7,NA,NA,SS7,mechanical
+NA,76,"Guglielmi, Pierre-Antoine",Renault Clio,FR,A7,NA,NA,SS13,off road
+NA,77,"Biasion, Mathieu",Renault Clio,FR,A7,NA,NA,SS8,off road
+NA,84,"Zuccarelli, Charles",Renault Clio S1600,FR,A6,NA,NA,SS1,off road
+NA,88,"Muselli, Jean-Philippe",Renault Clio,FR,N3,NA,NA,SS3,mechanical
+NA,91,"Muraccioli, Bastien",Renault Clio,FR,N3,NA,NA,SS1,off road
+NA,102,"Cancellieri, Sylvie",Peugeot 206,FR,A6,NA,NA,SS2,mechanical

@@ -1,0 +1,37 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,4,"Alen, Markku",Fiat 131 Abarth,FI,G4,7h 45m 33s,NA,NA,NA
+2,8,"Mikkola, Hannu",Ford Escort RS1800,FI,G4,+4m 28s,NA,NA,NA
+3,5,"Nicolas, Jean-Pierre",Ford Escort RS1800,FR,G4,+15m 28s,3:00,NA,NA
+4,6,"Andersson, Ove",Toyota Celica,SE,G2,+27m 54s,NA,NA,NA
+5,14,"Warmbold, Achim",Opel Kadett GT/E,DE,G2,+43m 09s,NA,NA,NA
+6,10,"Kullang, Anders",Opel Kadett GT/E,SE,G2,+51m 09s,20:00,NA,NA
+7,12,"Makinen, Timo",Peugeot 104,FI,G2,+1h 05m 03s,NA,NA,NA
+8,29,"Torres, Carlos",Ford Escort RS2000,PT,G1,+1h 26m 02s,9:00,NA,NA
+9,41,"Martinho, Andre",Porsche 911,PT,G4,+1h 45m 51s,9:00,NA,NA
+10,48,"Fontainhas, Carlos",Ford Escort RS2000,PT,G2,+2h 01m 03s,22:00,NA,NA
+11,36,"Lapie, Patrick",Citroen CX2400,FR,G1,+2h 17m 47s,16:00,NA,NA
+12,35,"Peres, Carlos",Ford Escort RS2000,PT,G1,+2h 27m 36s,27:00,NA,NA
+13,61,"Paihon, Edmond",Peugeot 504,FR,G2,+2h 34m 57s,12:00,NA,NA
+14,87,"Blian, Giorge",Opel Kadett GT/E,FR,G2,+2h 42m 03s,21:00,NA,NA
+15,75,"Restellini, Dominique",Peugeot 504,FR,G2,+2h 47m 33s,11:00,NA,NA
+16,54,"Mignot, Georges",Mitsubishi Lancer,BE,G2,+2h 49m 39s,7:00,NA,NA
+17,30,"Dorche, Christian",Opel Kadett GT/E,FR,G1,+3h 00m 36s,21:00,NA,NA
+18,59,"Ferreira da Cunha, Antonio",Datsun 1200,PT,G2,+3h 29m 05s,28:00,NA,NA
+19,106,"Tristao, Albino",Toyota Corolla,PT,G1,+3h 48m 40s,29:00,NA,NA
+20,66,"de Frahan, Henry",Peugeot 504,BE,G2,+5h 02m 16s,40:00,NA,NA
+NA,1,"Munari, Sandro",Fiat 131 Abarth,IT,G4,NA,NA,SS20,wheel studs
+NA,2,"Waldegard, Bjorn",Ford Escort RS,SE,G4,NA,NA,SS21,halfshaft
+NA,3,"Darniche, Bernard",Lancia Stratos HF,FR,G4,NA,NA,SS12,OTL
+NA,9,"Rohrl, Walter",Fiat 131 Abarth,DE,G4,NA,NA,SS20,clutch
+NA,11,"Vatanen, Ari",Ford Escort RS,FI,G4,NA,NA,SS21,halfshaft
+NA,15,"Therier, Jean-Luc",Toyota Celica,FR,G2,NA,NA,SS7,engine
+NA,17,"Queiroz Pereira, Manuel",Opel Kadett GT/E,PT,G2,NA,NA,SS15,rear axle
+NA,18,"Fernandez, Benigno",Ford Escort RS,ES,G4,NA,NA,SS19,oil pipe
+NA,19,"Ramaozinho, Fernando",Citroen CX2400,PT,G2,NA,NA,SS11,alternator
+NA,22,"Lefebvre, Jean-Claude",Peugeot 104,FR,G2,NA,NA,SS18,engine
+NA,24,"Toivonen, Henri",Citroen CX2400,FI,G1,NA,NA,SS6,accident
+NA,25,"Salvi, Giovanni",Ford Escort RS,PT,G4,NA,NA,SS16,differential
+NA,26,"Luc, Jean-Paul",Citroen CX2400,FR,G2,NA,NA,SS29,fuel leak
+NA,27,"Moutinho, Joaquim",Opel Kadett GT/E,PT,G1,NA,NA,NA,unknown
+NA,38,"Ortiz, Eugeonio",Simca 1200,ES,G2,NA,NA,SS8,suspension
+NA,49,"de Sousa, Pablo",Ford Fiesta,ES,G2,NA,NA,SS11,accident

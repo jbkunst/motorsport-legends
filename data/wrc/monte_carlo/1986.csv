@@ -1,0 +1,90 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,7,"Toivonen, Henri",Lancia Delta S4,FI,B,10h 11m 24s,NA,NA,NA
+2,1,"Salonen, Timo",Peugeot 205 Turbo 16 E2,FI,B,+4m 04s,NA,NA,NA
+3,6,"Mikkola, Hannu",Audi quattro Sport S1,FI,B,+7m 22s,NA,NA,NA
+4,2,"Rohrl, Walter",Audi quattro Sport S1,DE,B,+9m 35s,NA,NA,NA
+5,4,"Kankkunen, Juha",Peugeot 205 Turbo 16 E2,FI,B,+28m 23s,NA,NA,NA
+6,8,"Saby, Bruno",Peugeot 205 Turbo 16 E2,FR,B,+34m 30s,NA,NA,NA
+7,12,"Servia, Salvador",Lancia Rally 037,ES,B,+47m 08s,NA,NA,NA
+8,25,"Oreille, Alain",Renault 11 Turbo,FR,A,+1h 12m 23s,NA,NA,NA
+9,22,"Eriksson, Kenneth",Volkswagen Golf GTi,SE,A,+1h 15m 32s,NA,NA,NA
+10,20,"Wittman, Franz",Volkswagen Golf GTi,AT,A,+1h 20m 44s,NA,NA,NA
+11,18,"Hero, Manfred",Opel Manta 400,DE,B,+1h 28m 02s,NA,NA,NA
+12,32,"Metiffiot, Franck",Peugeot 205 Turbo 16,FR,B,+1h 37m 01s,NA,NA,NA
+13,66,"Bos, Pierre",Audi 80 quattro,FR,A,+1h 37m 57s,NA,NA,NA
+14,31,"Ayme, Jean-Paul",Renault 5 Turbo,FR,B,+1h 40m 58s,NA,NA,NA
+15,38,"Spiliotis, Christophe",Porsche 911SC,MC,B,+1h 43m 00s,NA,NA,NA
+16,72,"Fritzinger, Klaus",Toyota Corolla GT,DE,A,+1h 45m 45s,NA,NA,NA
+17,81,"Stohl, Rudolf",Audi 80 quattro,AT,A,+1h 52m 26s,NA,NA,NA
+18,30,"Panciatici, Jacques",Alfa Romeo 33 4x4,FR,N,+1h 55m 47s,NA,NA,NA
+19,112,"Sarrazin, Rene",Renault 5 GT Turbo,FR,N,+2h 00m 24s,NA,NA,NA
+20,80,"Hahn, Rudiger",Toyota Corolla GT,DE,A,+2h 16m 56s,NA,NA,NA
+21,82,"Renoux, Gilbert",Volkswagen Golf GTi,FR,A,+2h 17m 23s,NA,NA,NA
+22,164,"Moisson, Pascal",Renault 5 GT Turbo,FR,N,+2h 27m 31s,NA,NA,NA
+23,55,"Auvray, Alain",Citroen Visa,FR,B,+2h 33m 43s,NA,NA,NA
+24,149,"Martin, Jacques",Peugeot 205 GTi,FR,N,+2h 34m 35s,NA,NA,NA
+25,163,"Gastaldi, Jean-Pierre",Renault 5 Alpine Turbo,FR,N,+2h 36m 25s,NA,NA,NA
+26,122,"Pagani, Pierre",Lancia Y10,FR,N,+2h 38m 31s,NA,NA,NA
+27,130,"Jaussaud, Bernard",Renault 5 GT Turbo,FR,N,+2h 39m 20s,NA,NA,NA
+28,114,"Cabaniols, Henri",Peugeot 205 GTI,FR,N,+2h 41m 45s,NA,NA,NA
+29,162,"Maranghi, Marco",Fiat Ritmo,IT,N,+2h 49m 27s,NA,NA,NA
+30,77,"Castruccio, S.",Volkswagen Golf GTi,FR,A,+2h 51m 45s,NA,NA,NA
+31,87,"Andersson, Bengt",Subaru 4WD,SE,A,+2h 57m 30s,NA,NA,NA
+32,127,"de Cecco, Sergio",Renault 11 Turbo,IT,N,+2h 57m 49s,NA,NA,NA
+33,47,"Sintenie, Willem",Opel Manta,NL,B,+3h 00m 15s,NA,NA,NA
+34,135,"Gunther, Klaus",Audi 80 quattro,DE,N,+3h 06m 11s,NA,NA,NA
+35,88,"Fujimaki, J.",Nissan Bluebird Turbo,JP,A,+3h 08m 50s,NA,NA,NA
+36,150,"Bonfils, Michel",Renault 5 GT Turbo,FR,N,+3h 10m 15s,NA,NA,NA
+37,146,"Postillon, Patrick",Volkswagen Golf GTi,FR,N,+3h 12m 08s,NA,NA,NA
+38,161,"Andre-Poyaud, Michel",Talbot Samba,FR,N,+3h 13m 26s,NA,NA,NA
+39,78,"Soureillat, Christian",Peugeot 205 GTI,FR,N,+3h 13m 37s,NA,NA,NA
+40,175,Zonta,Peugeot 205 GTI,NA,N,+3h 21m 56s,NA,NA,NA
+41,170,"Noellner, Dieter",Talbot Samba,DE,N,+3h 22m 20s,NA,NA,NA
+42,165,"Calloud, Christian",Volkswagen Golf GTi,FR,N,+3h 25m 36s,NA,NA,NA
+43,96,"Schweiger, Jochen",BMW 323i,DE,A,+3h 26m 28s,NA,NA,NA
+44,75,Pages,Fiat Uno Turbo,NA,A,+3h 26m 39s,NA,NA,NA
+45,160,Seccatore,Opel Kadett,NA,N,+3h 27m 23s,NA,NA,NA
+46,94,Guichard,BMW 323i,NA,A,+3h 28m 52s,NA,NA,NA
+47,126,Chevassu,Peugeot 205 GTI,NA,N,+3h 30m 51s,NA,NA,NA
+48,172,"Golay, Michel",Volkswagen Golf GTi,CH,N,+3h 34m 25s,NA,NA,NA
+49,69,Landon,Renault 5 Alpine Turbo,NA,A,+3h 34m 57s,NA,NA,NA
+50,104,"Henke, Alfred",Talbot Samba,DE,A,+3h 50m 02s,NA,NA,NA
+51,131,Mare,Renault 5 GT Turbo,NA,N,+3h 51m 16s,NA,NA,NA
+52,115,"Jourdain, J-L",Alfa Romeo GTV6,FR,N,+3h 51m 36s,NA,NA,NA
+53,158,Buzala,Renault 5 GT Turbo,NA,N,+3h 54m 13s,NA,NA,NA
+54,129,Lyard,Peugeot 205 GTI,NA,N,+4h 00m 30s,NA,NA,NA
+55,157,Richaud,Volkswagen Golf GTi,NA,N,+4h 03m 41s,NA,NA,NA
+56,137,Avenel,Volkswagen Golf GTi,NA,N,+4h 04m 43s,NA,NA,NA
+57,141,Martin,Renault 5 GT Turbo,NA,N,+4h 09m 39s,NA,NA,NA
+58,171,"Dautheribes, Jean-Francois",Talbot Samba,FR,N,+4h 17m 59s,NA,NA,NA
+59,153,Martin,Peugeot 205 GTI,NA,N,+4h 22m 34s,NA,NA,NA
+60,147,"Mallen, Eric",Peugeot 205 GTI,FR,N,+4h 37m 37s,NA,NA,NA
+61,74,Pinet,Renault 5 Alpine Turbo,NA,A,+4h 51m 02s,NA,NA,NA
+62,NA,Couzinet,Mercedes Benz 280,NA,NA,+4h 58m 32s,NA,NA,NA
+63,73,Walter,Peugeot 205 GTI,NA,A,+5h 09m 19s,NA,NA,NA
+64,144,Andreucetti,Toyota Corolla,NA,N,+5h 12m 53s,NA,NA,NA
+65,98,Dafit,Mazda,NA,A,+5h 39m 37s,NA,NA,NA
+66,33,"Recordier, Andre",Porsche 911SC,NA,B,NA,NA,NA,NA
+67,27,"Gardere, Paul",Peugeot 205 Turbo 16,FR,B,NA,NA,NA,NA
+68,9,"Biasion, Massimo",Lancia Delta S4,IT,B,NA,NA,NA,NA
+69,103,"de Fresquet, Elizabeth",Opel Corsa,FR,A,NA,NA,NA,NA
+70,37,"Sunsundegui, Ignacio",Lancia Delta S4,ES,B,NA,NA,NA,NA
+71,46,"Nielsen, Jorgen",Renault 5 Turbo,DK,B,NA,NA,NA,NA
+75,36,"Fabre, Jean-Michel",Peugeot 205 Turbo 16,FR,B,NA,NA,NA,NA
+82,95,"Dessi, Marc",Alfa Romeo GTV6,MC,A,NA,NA,NA,NA
+NA,3,"Alen, Markku",Lancia Delta S4,FI,B,NA,NA,SS16,camshaft
+NA,5,"Pond, Tony",MG Metro 6R4,GB,B,NA,NA,after SS6,road accident
+NA,10,"Mouton, Michele",Peugeot 205 Turbo 16,FR,B,NA,NA,SS14,oil pressure
+NA,11,"Wilson, Malcolm",MG Metro 6R4,GB,B,NA,NA,SS12,transmission
+NA,14,"Carlsson, Ingvar",Mazda Familia 4WD,SE,A,NA,NA,SS19,gearbox
+NA,15,"Andruet, Jean-Claude",Citroen BX 4TC,FR,B,NA,NA,SS7,accident
+NA,16,"Warmbold, Achim",Mazda Familia 4WD,DE,A,NA,NA,SS4,engine
+NA,17,"Wambergue, Philippe",Citroen BX 4TC,FR,B,NA,NA,SS2,suspension
+NA,19,"del Zoppo, Giovanni",Fiat Uno Turbo,IT,A,NA,NA,SS8,accident
+NA,21,"Rayneri, Michele",Fiat Uno Turbo,IT,A,NA,NA,SS15,engine
+NA,23,"Balas, Bertrand",Alfa Romeo 33 4x4,FR,A,NA,NA,SS11,engine
+NA,24,"Fiorio, Alessandro",Fiat Uno Turbo,IT,A,NA,NA,SS7,accident
+NA,26,"Turiani, Auguste",Opel Manta 400,MC,B,NA,NA,SS24,off road
+NA,63,"Ballet, Jean-Pierre",Peugeot 205 GTI,FR,A,NA,NA,SS7,off road
+NA,111,Dongues,Renault 5 GT Turbo,FR,N,NA,NA,SS17,mechanical
+NA,132,"Delecour, Francois",Peugeot 205 GTI,FR,N,NA,NA,NA,engine

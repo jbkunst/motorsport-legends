@@ -1,0 +1,30 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,2,"Ogier, Sebastien",Citroen DS3 WRC,FR,A0,"2h 48m 28,2s",NA,NA,NA
+2,4,"Latvala, Jari-Matti",Ford Fiesta RS WRC,FI,A0,"0,2s",NA,NA,NA
+3,1,"Loeb, Sebastien",Citroen DS3 WRC,FR,A0,"+27,7s",NA,NA,NA
+4,3,"Hirvonen, Mikko",Ford Fiesta RS WRC,FI,A0,"+2m 44,7s",NA,NA,NA
+5,15,"Wilson, Matthew",Ford Fiesta RS WRC,GB,A0,"+5m 44,9s",NA,NA,NA
+6,8,"Raikkonen, Kimi",Citroen DS3 WRC,FI,A0,"+6m 14,9s",NA,NA,NA
+7,7,"Villagra, Federico",Ford Fiesta RS WRC,AR,A0,"+9m 18,7s",NA,NA,NA
+8,10,"al-Qassimi, Khalid",Ford Fiesta RS WRC,AE,A0,"+9m 43,7s",NA,NA,NA
+9,9,"Kuipers, Dennis",Ford Fiesta RS WRC,NL,A0,"+14m 27,5s",NA,NA,NA
+10,24,"Sousa, Bernardo",Ford Fiesta S2000,PT,A2,"+15m 05,5s",NA,NA,NA
+11,26,"Kruuda, Karl",Skoda Fabia Super 2000,EE,A2,"+15m 27,2s",NA,NA,NA
+12,27,"Gassner jr, Hermann",Skoda Fabia Super 2000,DE,A2,"+17m 27,6s",NA,NA,NA
+13,6,"Ostberg, Mads",Ford Fiesta RS WRC,NO,A0,"+17m 35,7s",NA,NA,NA
+14,5,"Solberg, Henning",Ford Fiesta RS WRC,NO,A0,"+22m 01,7s",NA,NA,NA
+15,55,"Amiouni, Nicolas",Mitsubishi Lancer Evo IX,LB,A3,"+30m 08,2s",NA,NA,NA
+16,52,"Alketbi, Rashid",Skoda Fabia Super 2000,AE,A2,"+32m 14,7s",1:10,NA,NA
+17,30,"Llovera, Albert",Fiat Grande Punto Abarth S2000,AD,A2,"+32m 39,0s",NA,NA,NA
+18,28,"Brynildsen, Eyvind",Skoda Fabia Super 2000,NO,A2,"+38m 27,0s",NA,NA,NA
+19,12,"Oliveira, Daniel Rolim",Mini John Cooper Works S2000,BR,A1,"+38m 29,1s",NA,NA,NA
+20,53,"Tantash, Mazen",Subaru Impreza,JO,A3,"+50m 29,7s",NA,NA,NA
+21,54,"Saleh, Michel",Subaru Impreza,LB,A3,"+54m 37,9s",0:10,NA,NA
+22,57,"al-Majali, Nancy",Mitsubishi Lancer Evo IX,JO,A3,"+1h 07m 56,1s",0:10,NA,NA
+23,59,"Hatk, Mirza",Fiat Stilo,JO,A5,"+1h 35m 33,2s",NA,NA,NA
+NA,11,"Solberg, Petter",Citroen DS3 WRC,NO,A0,NA,NA,SS17,off road
+NA,14,"van Merksteijn jr, Peter",Citroen DS3 WRC,NL,A0,NA,NA,SS15,mechanical
+NA,23,"al-Attiyah, Nasser",Ford Fiesta S2000,QA,A2,NA,NA,SS13,mechanical
+NA,29,"Turan, Frigyes",Ford Fiesta S2000,HU,A2,NA,NA,SS19,mechanical
+NA,49,"Hijazi, Ammar",Skoda Fabia Super 2000,JO,A2,NA,NA,TC6E,unknown
+NA,51,"Pavlides, Spyros",Ford Fiesta S2000,CY,A2,NA,NA,SS11,mechanical

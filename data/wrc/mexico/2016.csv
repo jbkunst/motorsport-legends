@@ -1,0 +1,29 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,2,"Latvala, Jari-Matti",Volkswagen Polo R WRC,FI,RC1,"4h 25m 57,4s",NA,NA,NA
+2,1,"Ogier, Sebastien",Volkswagen Polo R WRC,FR,RC1,"+1m 05,0s",NA,NA,NA
+3,5,"Ostberg, Mads",Ford Fiesta RS WRC,NO,RC1,"+5m 36,4s",0:10,NA,NA
+4,4,"Sordo Castillo, Daniel",Hyundai New Generation i20 WRC,ES,RC1,"+5m 37,9s",2:00,NA,NA
+5,20,"Paddon, Hayden",Hyundai New Generation i20 WRC,NZ,RC1,"+6m 22,6s",NA,NA,NA
+6,12,"Tanak, Ott",Ford Fiesta RS WRC,EE,RC1,"+9m 59,5s",NA,NA,NA
+7,21,"Prokop, Martin",Ford Fiesta RS WRC,CZ,RC1,"+12m 58,5s",NA,NA,NA
+8,37,"Bertelli, Lorenzo",Ford Fiesta RS WRC,IT,RC1,"+14m 09,6s",NA,NA,NA
+9,32,"Suninen, Teemu",Skoda Fabia,FI,RC2,"+18m 01,8s",NA,NA,NA
+10,81,"Gorban, Valeriy",Mini John Cooper Works,UA,RC1,"+32m 37,3s",0:10,NA,NA
+11,31,"Ptaszek, Hubert",Peugeot 208,PL,RC2,"+38m 13,4s",NA,NA,NA
+12,33,"Rendina, Massimiliano",Ford Fiesta,IT,RC2,"+42m 07,2s",1:00,NA,NA
+13,16,"Guerra Latapi, Benito",Ford Fiesta RS WRC,MX,RC1,"+44m 39,2s",NA,NA,NA
+14,42,"Fuchs Sierlecki, Nicolas",Skoda Fabia,PE,RC2,"+54m 57,4s",1:30,NA,NA
+15,61,"Fabre, Michel",Citroen DS3,FR,RC3,"+1h 08m 33,3s",NA,NA,NA
+16,6,"Camilli, Eric",Ford Fiesta RS WRC,FR,RC1,"+1h 09m 36,4s",NA,NA,NA
+17,44,"Trivino Bujalil, Ricardo",Citroen DS3,MX,RC2,"+1h 22m 08,1s",NA,NA,NA
+18,87,"Jaramillo Salazar, Julian",Ford Fiesta,CO,RC4,"+1h 23m 18,7s",NA,NA,NA
+19,38,"Kremer, Armin",Skoda Fabia,DE,RC2,"+1h 26m 08,6s",NA,NA,NA
+20,86,"Salas Valdez, Carlos",Ford Fiesta,MX,RC4,"+1h 35m 39,9s",NA,NA,NA
+NA,3,"Neuville, Thierry",Hyundai New Generation i20 WRC,BE,RC1,NA,NA,SS12,mechanical (off road)
+NA,9,"Mikkelsen, Andreas",Volkswagen Polo R WRC,NO,RC1,NA,NA,SS15,mechanical (off road)
+NA,34,"Shaymiev, Radik",Ford Fiesta,RU,RC2,NA,NA,SS8,mechanical
+NA,36,"al-Kuwari, Abdulaziz",Skoda Fabia,QA,RC2,NA,NA,TC21,mechanical
+NA,39,"al-Suwaidi, Khalid",Ford Fiesta,QA,RC2,NA,NA,TC19A,unknown
+NA,84,"Gonzalez Hernandez, Jorge",Mitsubishi Lancer Evo IX,MX,RC2,NA,NA,SS12,mechanical
+NA,85,"Medina Sanchez, Miguel",Ford Fiesta,MX,RC4,NA,NA,SS20,mechanical
+NA,89,"Name Guzzy Jr, Francisco",Citroen DS3,MX,RC3,NA,NA,TC19A,unknown

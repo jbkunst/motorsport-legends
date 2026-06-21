@@ -1,0 +1,30 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,6,"Mikkola, Hannu",Peugeot 504,FI,G4,23h 30m 48s,NA,NA,NA
+2,15,"Consten, Bernard",Peugeot 504,FR,G2,+1h 41m 15s,10m,NA,NA
+3,8,"Neyret, Robert",Renault-Alpine A110,FR,G4,+2h 17m 31s,21m,NA,NA
+4,24,"Deschaseaux, Jean",Citroen DS23,MA,G1,+4h 02m 04s,55m,NA,NA
+5,4,"Makinen, Timo",Peugeot 504,FI,G2,+4h 30m 15s,2h 16m,NA,NA
+6,5,"Mehta, Shekhar",Datsun Violet,KE,G2,+4h 38m 35s,31m,NA,NA
+7,16,"Hoepfner, Marianne",Peugeot 504,FR,G2,+7h 20m 15s,2h 08m,NA,NA
+8,23,"Trautmann, Christine",Peugeot 504,FR,G1,+7h 20m 18s,1h 17m,NA,NA
+9,99,"Noujaim, Kal",Peugeot 504,FR,G1,+7h 27m 01s,1h 04m,NA,NA
+10,33,"Osstyn, Jacques",Volvo 142,MA,G2,+8h 12m 05s,2h 06m,NA,NA
+11,82,"Ambrosino, Alain",Datsun 180B,FR,G2,+8h 36m 56s,2h 00m,NA,NA
+12,96,"Bergerot, Alain",Volvo 142,MA,G2,+8h 38m 48s,3h 01m,NA,NA
+13,12,"Laurent, Claude",Citroen GS,FR,G2,+8h 38m 48s,1h 53m,NA,NA
+14,21,"Prive, Jacky",Datsun 240Z,FR,G4,+9h 01m 30s,2h 37m,NA,NA
+NA,1,"Alen, Markku",Fiat 124 Abarth Spider,FI,G4,NA,NA,SS8,sump
+NA,2,"Waldegard, Bjorn",Fiat 124 Abarth Spider,SE,G4,NA,NA,SS8,transmission
+NA,3,"Darniche, Bernard",Fiat 124 Abarth Spider,FR,G4,NA,NA,NA,wet electrics
+NA,7,"Rohrl, Walter",Opel Ascona,DE,G2,NA,NA,SS6,front suspension
+NA,9,"Doppelreiter, Helmut",Volkswagen 1303S,AT,G2,NA,NA,NA,unknown
+NA,10,"Pagani, Pierre",Peugeot 504,FR,G2,NA,NA,SS4,soft sand
+NA,14,"Briavoine, Jean-Claude",Renault 12 Gordini,FR,G2,NA,NA,NA,unknown
+NA,17,"Aaltonen, Rauno",Opel Ascona,FI,G2,NA,NA,SS5,overheating
+NA,18,"Hoepfner, Jean-Pierre",Renault 17 Gordini,FR,G2,NA,NA,SS3,unknown
+NA,20,"Rouget, Jean-Pierre",Porsche 911,FR,G3,NA,NA,SS2,unknown
+NA,22,"Dacremont, Christine",Peugeot 504,FR,G1,NA,NA,NA,accident
+NA,25,"Ponnelle, Raymond",Citroen DS23,MA,G1,NA,NA,SS2,unknown
+NA,26,"Lefebvre, Jean-Claude",Ford Escort RS2000,FR,G1,NA,NA,NA,rear suspension
+NA,34,"Houel, Georges",Renault 12 Gordini,FR,G2,NA,NA,SS4,unknown
+NA,NA,"Choteau, Adolphe",Renault-Alpine A110 1800,CI,G4,NA,NA,NA,OTL

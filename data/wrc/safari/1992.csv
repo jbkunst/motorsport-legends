@@ -1,0 +1,15 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,8,"Sainz, Carlos",Toyota Celica Turbo 4WD (ST185),ES,A8,2h 35m,NA,NA,NA
+2,1,"Kankkunen, Juha",Lancia Delta HF Integrale,FI,A,+52m,NA,NA,NA
+3,5,"Recalde, Jorge",Lancia Delta HF Integrale,AR,A,+59m,NA,NA,NA
+4,2,"Ericsson, Mikael",Toyota Celica Turbo 4WD (ST185),SE,A,+1h 38m,NA,NA,NA
+5,6,"Alen, Markku",Toyota Celica Turbo 4WD (ST185),FI,A,+3h 05m,NA,NA,NA
+6,9,"Duncan, Ian",Toyota Celica GT-4 (ST165),KE,A,+4h 03m,NA,NA,NA
+7,17,"Rai, Sarbi",Toyota Celica GT-4 (ST165),KE,A,+5h 54m,NA,NA,NA
+8,12,"Njiru, Patrick",Subaru Legacy RS,KE,N,+6h 19m,NA,NA,NA
+9,11,"Eklund, Per",Subaru Legacy RS,SE,N,+7h 06m,NA,NA,NA
+10,7,"Shinozuka, Kenjiro",Mitsubishi Galant VR-4,JP,A,+7h 55m,NA,NA,NA
+13,4,"Stohl, Rudolf",Audi 90 quattro,AT,A,+9h 50m,NA,NA,NA
+NA,3,"Waldegard, Bjorn",Lancia Delta HF Integrale,SE,A,NA,NA,TC27,fire
+NA,18,"Toroitich, Jonathan",Toyota Celica GT-4 (ST165),KE,A,NA,NA,TC56,clutch
+NA,NA,"Stohl, Manfred",Audi 90 quattro,AT,A,NA,NA,NA,engine

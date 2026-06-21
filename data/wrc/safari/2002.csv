@@ -1,0 +1,49 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,5,"McRae, Colin",Ford Focus RS WRC 02,GB,A8,"7h 58m 28,0s",NA,NA,NA
+2,3,"Rovanpera, Harri",Peugeot 206WRC (2002),FI,A8,"+2m 50,9s",NA,NA,NA
+3,20,"Radstrom, Thomas",Citroen Xsara WRC,SE,A8,"+18m 38,6s",0:50,NA,NA
+4,6,"Martin, Markko",Ford Focus RS WRC 02,EE,A8,"+21m 28,0s",11:30,NA,NA
+5,21,"Loeb, Sebastien",Citroen Xsara WRC,FR,A8,"+21m 48,1s",1:00,NA,NA
+6,23,"Panizzi, Gilles",Peugeot 206WRC (2002),FR,A8,"+34m 41,0s",NA,NA,NA
+7,16,"Kresta, Roman",Skoda Octavia WRC Evo2,CZ,A8,"+54m 38,1s",1:00,NA,NA
+8,19,"Kankkunen, Juha",Hyundai Accent WRC3,FI,A8,"+1h 11m 31,5s",4:20,NA,NA
+9,8,"McRae, Alister",Mitsubishi Lancer WRC,GB,A8,"+1h 17m 13,2s",1:50,NA,NA
+10,74,"Singh, Karamjit",Proton Pert,MY,N4,"+2h 29m 27,2s",0:50,NA,NA
+11,118,"Stohl, Rudolf",Mitsubishi Lancer Evo VI,AT,N4,"+5h 14m 05,3s",1:00,NA,NA
+NA,1,"Burns, Richard",Peugeot 206WRC (2002),GB,A8,NA,NA,TC8A,OTL (got stuck)
+NA,2,"Gronholm, Marcus",Peugeot 206WRC (2002),FI,A8,NA,NA,CS1,engine
+NA,4,"Sainz, Carlos",Ford Focus RS WRC 02,ES,A8,NA,NA,CS8,oil pump
+NA,7,"Delecour, Francois",Mitsubishi Lancer WRC,FR,A8,NA,NA,CS3,engine
+NA,10,"Makinen, Tommi",Subaru Impreza WRC2002,FI,A8,NA,NA,CS8,suspension
+NA,11,"Solberg, Petter",Subaru Impreza WRC2002,NO,A8,NA,NA,CS4,engine
+NA,14,"Eriksson, Kenneth",Skoda Octavia WRC Evo2,SE,A8,NA,NA,TC7B,OTL (gearbox)
+NA,15,"Gardemeister, Toni",Skoda Octavia WRC Evo2,FI,A8,NA,NA,CS4,lost wheel
+NA,17,"Schwarz, Armin",Hyundai Accent WRC3,DE,A8,NA,NA,CS2,alternator
+NA,18,"Loix, Freddy",Hyundai Accent WRC3,BE,A8,NA,NA,CS1,clutch
+NA,32,"Dor, Frederic",Subaru Impreza WRC2002,FR,A8,NA,NA,CS5,suspension
+NA,52,"Ligato, Marcos",Mitsubishi Lancer Evo VI,AR,N4,NA,NA,CS12,suspension
+NA,53,"Fiorio, Alessandro",Mitsubishi Lancer Evo VI,IT,N4,NA,NA,CS3,mechanical
+NA,57,"Arai, Toshihiro",Subaru Impreza WRX,JP,N4,NA,NA,CS11,clutch
+NA,71,"Marrini, Stefano",Mitsubishi Lancer Evo IV,IT,N4,NA,NA,CS7,mechanical
+NA,100,"Green, Rory",Subaru Impreza,KE,A8,NA,NA,CS4,mechanical
+NA,101,"Murji, Shahnawaz",Subaru Impreza,GB,A8,NA,NA,CS1,rolled
+NA,102,"Lloyd, John",Mitsubishi Lancer Evo IV,GB,A8,NA,NA,CS8,electrical
+NA,103,"Heath, Nigel",Subaru Impreza,GB,A8,NA,NA,CS4,mechanical
+NA,105,"Hellier, Rob",Mitsubishi Lancer Evo III,KE,A8,NA,NA,TC7B,OTL
+NA,107,"Muhanji, Charles",Subaru Impreza,UG,A8,NA,NA,CS7,driveshaft
+NA,108,"Richelmi, Jean-Pierre",Mitsubishi Lancer Evo VII,MC,N4,NA,NA,TC1A,OTL
+NA,109,"Anwar, Azar",Mitsubishi Lancer Evo VI,KE,N4,NA,NA,TC2A,OTL
+NA,110,"Raies, Gabriel",Mitsubishi Lancer Evo VII,AR,N4,NA,NA,CS3,suspension
+NA,111,"Kimathi, Phineas",Subaru Impreza,KE,N4,NA,NA,CS2,mechanical
+NA,112,"Rose, Lee",Subaru Impreza,KE,A8,NA,NA,CS9A,OTL
+NA,113,"Raies, Juan Pablo",Mitsubishi Lancer Evo VI,AR,N4,NA,NA,CS4,mechanical
+NA,114,"van Tongeren, Michelle",Subaru Impreza,KE,A8,NA,NA,CS5A,OTL
+NA,115,"Chauhan, Kailesh",Subaru Forester,KE,N4,NA,NA,CS12,mechanical
+NA,116,"Yamada, Masayuki",Subaru Impreza,JP,N4,NA,NA,CS9A,OTL
+NA,117,"Smith, Don",Subaru Impreza,KE,N4,NA,NA,CS9A,OTL
+NA,119,"Ngunjiri, John",Subaru Impreza,KE,N4,NA,NA,CS9A,OTL
+NA,120,"Tundo, Carl",Subaru Impreza,KE,A8,NA,NA,CS5A,OTL
+NA,121,"Oakeley, Ron",Subaru Impreza,GB,N4,NA,NA,CS4,mechanical
+NA,122,"Shah, Nishit",Subaru Impreza,KE,N4,NA,NA,CS1A,OTL
+NA,123,"Rocca, Stefano",Subaru Impreza,IT,A8,NA,NA,CS1,mechanical
+NA,125,"Anwar, Asad",Rover Mini,KE,N2,NA,NA,CS1,driveshaft

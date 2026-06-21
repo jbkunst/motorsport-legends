@@ -1,0 +1,71 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,11,"Neuville, Thierry",Hyundai i20 N Rally1,BE,Rally1,"3h 38m 04,2s",NA,NA,NA
+2,6,"Sordo Castillo, Daniel",Hyundai i20 N Rally1,ES,Rally1,"+1m 46,8s",0:10,NA,NA
+3,8,"Tanak, Ott",Hyundai i20 N Rally1,EE,Rally1,"+2m 57,3s",NA,NA,NA
+4,20,"Pajari, Sami",Toyota Yaris,FI,Rally2,"+7m 01,1s",NA,NA,NA
+5,28,"Virves, Robert",Skoda Fabia,EE,Rally2,"+7m 01,1s",NA,NA,NA
+6,21,"Rossel, Yohan",Citroen C3,FR,Rally2,"+7m 31,9s",NA,NA,NA
+7,29,"Kajetanowicz, Kajetan",Skoda Fabia,PL,Rally2,"+9m 54,0s",0:10,NA,NA
+8,30,"Zaldivar Zuccolillo, Fabrizio",Skoda Fabia,PY,Rally2,"+11m 27,9s",NA,NA,NA
+9,26,"McErlean, Joshua",Skoda Fabia,IE,Rally2,"+12m 27,2s",NA,NA,NA
+10,32,"Dapra, Roberto",Skoda Fabia,IT,Rally2,"+13m 44,9s",NA,NA,NA
+11,24,"Solans Baldo, Jan",Toyota Yaris,ES,Rally2,"+19m 22,7s",1:40,NA,NA
+12,40,"Roustemis, Panagiotis",Skoda Fabia,GR,Rally2,"+20m 24,0s",NA,NA,NA
+13,35,"Kremer, Armin",Skoda Fabia,DE,Rally2,"+21m 50,5s",0:10,NA,NA
+14,19,"Serderidis, Jourdan",Ford Puma Rally1,GR,Rally1,"+23m 06,2s",NA,NA,NA
+15,75,"Fontana, Matteo",Ford Fiesta,IT,Rally3,"+23m 10,0s",NA,NA,NA
+16,17,"Ogier, Sebastien",Toyota GR Yaris Rally1,FR,Rally1,"+23m 44,5s",NA,NA,NA
+17,63,"Maior, Norbert",Ford Fiesta,RO,Rally3,"+24m 01,5s",NA,NA,NA
+18,33,"Evans, Elfyn",Toyota GR Yaris Rally1,GB,Rally1,"+24m 45,5s",NA,NA,NA
+19,58,"Jurgenson, Romet",Ford Fiesta,EE,Rally3,"+25m 07,6s",NA,NA,NA
+20,45,"Granados Cervera, Miguel-Antonio",Skoda Fabia,MX,Rally2,"+27m 45,2s",NA,NA,NA
+21,16,"Fourmaux, Adrien",Ford Puma Rally1,FR,Rally1,"+29m 56,7s",NA,NA,NA
+22,64,"Rensonnet, Tom",Ford Fiesta,BE,Rally3,"+31m 12,9s",NA,NA,NA
+23,68,"Caparo, Jose",Ford Fiesta,PE,Rally3,"+34m 18,8s",NA,NA,NA
+24,44,"Soylu, Ugur",Skoda Fabia,TU,Rally2,"+34m 25,9s",NA,NA,NA
+25,61,"Turkkan, Ali",Ford Fiesta,TU,Rally3,"+34m 36,9s",NA,NA,NA
+26,22,"Joona, Lauri",Skoda Fabia,FI,Rally2,"+36m 58,9s",0:10,NA,NA
+27,70,"Bruun, Nataniel",Ford Fiesta,US,Rally3,"+37m 17,3s",NA,NA,NA
+28,53,"Chalkias, Efthymios",Renault Clio,GR,Rally3,"+37m 40,6s",0:20,NA,NA
+29,46,"Peralta, Juan Carlos",Skoda Fabia,MX,Rally2,"+40m 49,1s",NA,NA,NA
+30,18,"Katsuta, Takamoto",Toyota GR Yaris Rally1,JP,Rally1,"+41m 22,2s",NA,NA,NA
+31,66,"Smart, Max",Ford Fiesta,ZA,Rally3,"+41m 47,9s",NA,NA,NA
+32,52,"Chatzimarkos, Paschalis",Renault Clio,GR,Rally3,"+41m 51,7s",0:20,NA,NA
+33,48,"Pavlidis, Nikolaos",Skoda Fabia,GR,Rally2,"+45m 50,6s",NA,NA,NA
+34,59,"Gill, Taylor",Ford Fiesta,AU,Rally3,"+46m 29,0s",NA,NA,NA
+35,55,"Stefanis, Emmanuel",Ford Fiesta,GR,Rally3,"+46m 45,0s",0:30,NA,NA
+36,56,"Theocharopoulos, Stefanos",Ford Fiesta,GR,Rally3,"+47m 39,5s",2:00,NA,NA
+37,51,"Karanikolas, Epameinondas",Ford Fiesta,GR,Rally3,"+48m 24,8s",NA,NA,NA
+38,60,"Dominguez Jr., Diego",Ford Fiesta,PY,Rally3,"+49m 01,9s",NA,NA,NA
+39,36,"Vasilakis, Georgios",Ford Fiesta,GR,Rally2,"+49m 18,6s",NA,NA,NA
+40,81,"Lefkaditis, Savvas",Peugeot 208,GR,Rally4,"+1h 00m 28,7s",NA,NA,NA
+41,83,"Kalamaras, Theodoros",Ford Fiesta,GR,Rally4,"+1h 02m 34,9s",NA,NA,NA
+42,50,"Dolofan, Christian",Citroen C3,RO,Rally2,"+1h 03m 37,9s",NA,NA,NA
+43,49,"Cetinkaya Bonnet, Burcu",Skoda Fabia,TU,Rally2,"+1h 10m 20,0s",NA,NA,NA
+44,25,"Linnamae, Georg",Toyota Yaris,EE,Rally2,"+1h 13m 48,6s",0:50,NA,NA
+45,72,"Laskowski, Hubert",Ford Fiesta,PL,Rally3,"+1h 15m 27,8s",NA,NA,NA
+46,47,"Brazzoli, Enrico",Skoda Fabia,IT,Rally2,"+1h 25m 22,9s",NA,NA,NA
+47,71,"Martinez Merizalde Zavala, Andre",Ford Fiesta,PE,Rally3,"+1h 30m 11,8s",NA,NA,NA
+48,23,"Gryazin, Nikolay",Citroen C3,RU,Rally2,"+1h 31m 17,7s",3:50,NA,NA
+49,85,"Parellis, Dimitris",Renault Clio,CY,Rally5,"+1h 32m 23,3s",NA,NA,NA
+50,77,"Caragui, Eugen",Citroen C3,RO,Rally2,"+1h 33m 54,6s",0:10,NA,NA
+51,82,"Plagos, Ioannis",Peugeot 208,GR,Rally4,"+1h 55m 21,5s",NA,NA,NA
+52,84,"Papageorgiou, Loizos",Citroen DS3,CY,RC4,"+2h 17m 23,6s",NA,NA,NA
+NA,13,"Munster, Gregoire",Ford Puma Rally1,LU,Rally1,NA,NA,SS9,mechanical
+NA,27,"Greensmith, Fergus",Skoda Fabia,GB,Rally2,NA,NA,TC6D,mechanical
+NA,34,"Loubet, Pierre-Louis",Skoda Fabia,FR,Rally2,NA,NA,SS1,ac
+NA,37,"al-Wahaibi, Hamed",Skoda Fabia,OM,Rally2,NA,NA,TC11A,mechanical
+NA,38,"Athanassoulas, Lambros",Skoda Fabia,GR,Rally2,NA,NA,SS1,ac
+NA,39,"Kechagias, Georgios",Skoda Fabia,GR,Rally2,NA,NA,SS11,mechanical
+NA,41,"Velanis, Vasileios",Skoda Fabia,GR,Rally2,NA,NA,SS15,mechanical
+NA,43,"Amoutzas, Georgios-Alexandros",Skoda Fabia,GR,Rally2,NA,NA,TC12C,mechanical
+NA,54,"Delaportas, Georgios",Ford Fiesta,GR,Rally3,NA,NA,SS3,accident
+NA,57,"Sekuljica, Slaven",Ford Fiesta,HR,Rally3,NA,NA,TC6D,mechanical
+NA,62,"Borodin, Petr",Ford Fiesta,KZ,Rally3,NA,NA,SS14,accident
+NA,67,"Schwarz, Fabio",Ford Fiesta,DE,Rally3,NA,NA,SS13,mechanical
+NA,73,"Blach Nunez, Roberto",Skoda Fabia,ES,Rally2,NA,NA,SS14,mechanical
+NA,74,"Villanueva, Alexander",Skoda Fabia,ES,Rally2,NA,NA,SS11,mechanical
+NA,76,"Panteli, Petros",Renault Clio,CY,Rally3,NA,NA,TC9,mechanical
+NA,78,"Campagnoli, Gabriele",Renault Clio,IT,Rally3,NA,NA,TC9A,OTL
+NA,79,"Martinez, Jorge",Skoda Fabia,PE,Rally2,NA,NA,SS15,mechanical
+NA,80,"Georgakopoulos, Myron",Citroen DS3,US,Rally2,NA,NA,SS2,accident

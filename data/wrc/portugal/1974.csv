@@ -1,0 +1,30 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,2,"Pinto, Raffaele",Fiat 124 Abarth Spider,IT,G4,6h 26m 15s,NA,NA,NA
+2,8,"Paganelli, Alcide",Fiat 124 Abarth Spider,IT,G4,+3m 57s,NA,NA,NA
+3,6,"Alen, Markku",Fiat 124 Abarth Spider,FI,G4,+11m 02s,NA,NA,NA
+4,3,"Andersson, Ove",Toyota Corolla,SE,G2,+14m 39s,NA,NA,NA
+5,4,"Kallstrom, Harry",Datsun 260Z,SE,G4,+28m 12s,NA,NA,NA
+6,16,"Neyret, Robert",Renault-Alpine A110,FR,G4,+38m 03s,NA,NA,NA
+7,14,"Fischer, Georg",BMW 2002,AT,G2,+38m 47s,NA,NA,NA
+8,15,"Romaozinho, Francisco",Citroen GS,PT,G2,+50m 49s,NA,NA,NA
+9,12,"Sclater, Chris",Ford Escort RS1600,GB,G2,+1h 00m 44s,NA,NA,NA
+10,25,"Borges, Antonio",Fiat 124 Abarth Spider,PT,G4,+1h 01m 40s,NA,NA,NA
+13,28,"Silva, Celso",Datsun 1200,PT,G1,+1h 22m 43s,NA,NA,NA
+14,34,"Wathen, Christopher",Ford Escort RS,GB,G2,+1h 32m 57s,NA,NA,NA
+18,NA,"Sparrow, Will",Chrysler Avenger,GB,G1,NA,NA,NA,NA
+19,NA,"Queiroz Pereira, Pedro",Opel,PT,NA,NA,NA,NA,NA
+NA,1,"Warmbold, Achim",Opel Ascona,DE,G2,NA,NA,SS13,rear suspension
+NA,5,"Rohrl, Walter",Opel Ascona,DE,G2,NA,NA,SS16,engine
+NA,7,"Waldegard, Bjorn",Toyota Celica,SE,G2,NA,NA,SS7,electrics
+NA,9,"Fall, Tony",Opel Ascona,GB,G2,NA,NA,Leg 2,front suspension
+NA,10,"Carlsson, Ingvar",Datsun 260Z,SE,G4,NA,NA,Leg 1,engine
+NA,11,"Barbasio, Sergio",Fiat 124 Abarth Spider,IT,G4,NA,NA,SS7,accident
+NA,17,"Culcheth, Brian",Triumph Dolomite Sprint,GB,G2,NA,NA,SS2,steering
+NA,19,"Figueiredo, Mario",Datsun 240Z,PT,G4,NA,NA,Leg 2,engine
+NA,NA,"Anstiss, Norman",Ford,GB,NA,NA,NA,Leg 2,engine
+NA,NA,"Bean, Bob",Ford Escort Mexico,GB,G1,NA,NA,Leg 2,off road
+NA,NA,"Fowkes, Anthony",? Unknown Make ? ? Unknown Model ?,GB,NA,NA,NA,SS3,no oil
+NA,NA,"Hooper, Barry",Ford,GB,NA,NA,NA,SS1,engine
+NA,NA,Olsen,BMW 2002,DK,NA,NA,NA,SS5-6,gearbox
+NA,NA,Peterson,Saab,DK,NA,NA,NA,SS16,suspension
+NA,NA,Xanato,Datsun,PT,NA,NA,NA,SS2,off road

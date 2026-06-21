@@ -1,0 +1,20 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Rohrl, Walter",Lancia Rally 037,DE,B,12h 10m 13s,NA,NA,NA
+2,3,"Salonen, Timo",Nissan 240 RS,FI,B,+15m 58s,NA,NA,NA
+3,7,"Bettega, Attilio",Lancia Rally 037,IT,B,+31m 29s,NA,NA,NA
+4,6,"Mehta, Shekhar",Nissan 240 RS,KE,B,+1h 00m 22s,NA,NA,NA
+5,16,"Donald, Jim",Nissan Bluebird Turbo,NZ,G2,+1h 10m 37s,NA,NA,NA
+6,12,"Stewart, Malcolm",Ford Escort RS,NZ,G4,+1h 20m 45s,NA,NA,NA
+7,10,"Cook, Reg",Nissan 240 RS,NZ,B,+1h 25m 02s,NA,NA,NA
+8,25,"Adams, Paul",Toyota Starlet,NZ,G2,+1h 42m 42s,NA,NA,NA
+9,14,"Chandler, Morrie",Mitsubishi Lancer,NZ,G4,+1h 55m 32s,NA,NA,NA
+10,37,"Smith, Kevin",Toyota Corolla,NZ,G2,+2h 03m 22s,NA,NA,NA
+14,17,"Bourne, Peter",Subaru 4WD,NZ,A,+2h 30m 18s,NA,NA,NA
+21,18,"Bish, Michael",Mini Clubman GT,NZ,A,+3h 10m 53s,NA,NA,NA
+23,19,"Watt, Peter",Mazda RX7,NZ,A,+3h 17m 02s,NA,NA,NA
+27,21,"Cameron, Mike",Mitsubishi Lancer,NZ,A,+4h 12m 12s,NA,NA,NA
+NA,2,"Mikkola, Hannu",Audi quattro A2,FI,B,NA,NA,SS19,injection
+NA,4,"Blomqvist, Stig",Audi quattro A2,SE,B,NA,NA,TC9A,late entry
+NA,5,"Mouton, Michele",Audi quattro A2,FR,B,NA,NA,SS27,engine
+NA,8,"Teesdale, Tony",Nissan Violet,NZ,G4,NA,NA,SS11,engine
+NA,11,"Allport, Neil",Ford Escort RS,NZ,G4,NA,NA,SS12,accident

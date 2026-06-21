@@ -1,0 +1,19 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"McRae, Colin",Subaru Impreza 555,GB,A8,5h 33m 12s,NA,NA,NA
+2,7,"Makinen, Tommi",Mitsubishi Lancer Evo III,FI,A8,+50s,NA,NA,NA
+3,4,"Sainz, Carlos",Ford Escort RS Cosworth,ES,A8,+3m 21s,NA,NA,NA
+4,3,"Liatti, Piero",Subaru Impreza 555,IT,A8,+4m 50s,NA,NA,NA
+5,2,"Eriksson, Kenneth",Subaru Impreza 555,SE,A8,+7m 05s,NA,NA,NA
+6,5,"Thiry, Bruno",Ford Escort RS Cosworth,BE,A8,+9m 36s,NA,NA,NA
+7,17,"Loix, Freddy",Toyota Celica GT-Four (ST205),BE,A8,+10m 01s,NA,NA,NA
+8,18,"Pianezzola, Gilberto",Toyota Celica GT-Four (ST205),IT,A8,+15m 34s,NA,NA,NA
+9,11,"Bernardini, Patrick",Ford Escort RS Cosworth,FR,A8,+21m 21s,NA,NA,NA
+10,19,"Richelmi, Jean-Pierre",Toyota Celica Turbo 4WD (ST185),MC,A8,+25m 24s,NA,NA,NA
+14,8,"Nittel, Uwe",Mitsubishi Lancer Evo III,DE,N4,+38m 51s,NA,NA,NA
+17,9,"Smets, Pascal",Mitsubishi Lancer Evo III,BE,N4,+43m 14s,NA,NA,NA
+18,55,'Dim',Renault Clio Williams,GR,A7,+55m 08s,NA,NA,NA
+NA,10,"Radstrom, Thomas",Toyota Celica GT-Four (ST205),SE,A8,NA,NA,SS5,accident
+NA,12,"Madeira, Rui",Toyota Celica GT-Four (ST205),PT,A8,NA,NA,SS18,accident
+NA,14,"Recalde, Jorge",Mitsubishi Lancer Evo III,AR,N4,NA,NA,SS20,suspension
+NA,16,"Mokkonen, Ari",Ford Escort RS Cosworth,FI,A8,NA,NA,SS5,accident
+NA,21,"Finlay, Stephen",Ford Escort RS Cosworth,GB,A8,NA,NA,SS11,suspension

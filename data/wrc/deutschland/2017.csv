@@ -1,0 +1,63 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,2,"Tanak, Ott",Ford Fiesta RS WRC 2017,EE,RC1,"2h 57m 31,7s",NA,NA,NA
+2,9,"Mikkelsen, Andreas",Citroen C3 WRC,NO,RC1,"+16,4s",NA,NA,NA
+3,1,"Ogier, Sebastien",Ford Fiesta RS WRC 2017,FR,RC1,"+30,4s",NA,NA,NA
+4,11,"Hanninen, Juho",Toyota Yaris WRC,FI,RC1,"+1m 49,2s",NA,NA,NA
+5,8,"Breen, Craig",Citroen C3 WRC,IE,RC1,"+2m 01,5s",NA,NA,NA
+6,3,"Evans, Elfyn",Ford Fiesta RS WRC 2017,GB,RC1,"+2m 03,4s",NA,NA,NA
+7,10,"Latvala, Jari-Matti",Toyota Yaris WRC,FI,RC1,"+3m 58,2s",NA,NA,NA
+8,4,"Paddon, Hayden",Hyundai i20 Coupe WRC,NZ,RC1,"+4m 32,4s",NA,NA,NA
+9,14,"Kremer, Armin",Ford Fiesta RS WRC 2017,DE,RC1,"+10m 19,4s",0:10,NA,NA
+10,33,"Camilli, Eric",Ford Fiesta,FR,RC2,"+10m 44,3s",NA,NA,NA
+11,34,"Kopecky, Jan",Skoda Fabia,CZ,RC2,"+11m 32,4s",NA,NA,NA
+12,31,"Tidemand, Pontus",Skoda Fabia,SE,RC2,"+12m 35,0s",NA,NA,NA
+13,39,"Gilbert, Quentin",Skoda Fabia,FR,RC2,"+13m 47,7s",NA,NA,NA
+14,42,"Loubet, Pierre-Louis",Ford Fiesta,FR,RC2,"+14m 33,2s",NA,NA,NA
+15,37,"Tempestini, Simone",Citroen DS3,IT,RC2,"+14m 35,1s",NA,NA,NA
+16,32,"Suninen, Teemu",Ford Fiesta,FI,RC2,"+15m 01,5s",NA,NA,NA
+17,41,"Griebel, Marijan",Skoda Fabia,DE,RC2,"+15m 29,8s",NA,NA,NA
+18,36,"Guerra Latapi, Benito",Skoda Fabia,MX,RC2,"+16m 53,8s",NA,NA,NA
+19,44,"Bergkvist, Emil",Citroen DS3,SE,RC2,"+17m 49,2s",NA,NA,NA
+20,47,"Ten Brinke, Bernhard",Skoda Fabia,NL,RC2,"+17m 59,5s",NA,NA,NA
+21,12,"Lappi, Esapekka",Toyota Yaris WRC,FI,RC1,"+18m 05,2s",NA,NA,NA
+22,72,"Lim, Chewon",Hyundai New Generation i20 WRC,KR,RC2,"+21m 36,3s",NA,NA,NA
+23,43,"Pieniazek, Lukasz",Peugeot 208,PL,RC2,"+22m 57,9s",NA,NA,NA
+24,22,"Raoux, Jean-Michel",Citroen DS3 WRC,FR,RC1,"+24m 47,5s",NA,NA,NA
+25,23,"Serderidis, Jourdan",Citroen DS3 WRC,GR,RC1,"+26m 23,5s",NA,NA,NA
+26,76,"Huttunen, Jari",Opel Adam,FI,RC4,"+29m 03,4s",NA,NA,NA
+27,45,"Bonato, Yoann",Citroen DS3,FR,RC2,"+30m 03,9s",0:20,NA,NA
+28,78,"Gassner jr, Hermann",Toyota GT86,DE,RC3,"+31m 38,6s",NA,NA,NA
+29,80,"Boland, Eamonn",Ford Fiesta,IE,RC2,"+31m 41,3s",NA,NA,NA
+30,77,"van der Marel, Jan Timo",Opel Adam,NL,RC4,"+32m 18,5s",NA,NA,NA
+31,66,"Tannert, Julius",Ford Fiesta,DE,RC4,"+33m 22,7s",NA,NA,NA
+32,48,"Armstrong, Jon",Ford Fiesta,GB,RC2,"+33m 52,0s",NA,NA,NA
+33,75,"Gassner, Hermann",Mitsubishi Lancer Evo X,DE,RC2,"+34m 50,4s",NA,NA,NA
+34,6,"Sordo Castillo, Daniel",Hyundai i20 Coupe WRC,ES,RC1,"+35m 19,0s",NA,NA,NA
+35,74,"Rujbr, Patrik",Skoda Fabia,CZ,RC2,"+39m 21,8s",0:10,NA,NA
+36,88,"Gropp, Uwe",Citroen DS3,DE,RC3,"+42m 03,9s",NA,NA,NA
+37,86,"Lario, Taisko",Peugeot 208,FI,RC4,"+42m 16,9s",NA,NA,NA
+38,61,"Astier, Raphael",Peugeot 208,FR,RC4,"+44m 44,0s",2:20,NA,NA
+39,63,"Solans Baldo, Nil",Ford Fiesta,ES,RC4,"+45m 43,3s",NA,NA,NA
+40,62,"Brazzoli, Enrico",Peugeot 208,IT,RC4,"+48m 34,6s",NA,NA,NA
+41,38,"Rossel, Yohan",Citroen DS3,FR,RC2,"+52m 04,7s",5:00,NA,NA
+42,79,"Vossen, Henk",Ford Fiesta,NL,RC2,"+55m 06,3s",NA,NA,NA
+43,95,"Hohlheimer, Jurgen",Renault Twingo,DE,RC4,"+56m 13,9s",NA,NA,NA
+44,5,"Neuville, Thierry",Hyundai i20 Coupe WRC,BE,RC1,"+56m 25,6s",NA,NA,NA
+45,87,"Wendling, Yannick",Peugeot 208,FR,RC4,"+58m 52,1s",NA,NA,NA
+46,91,"Lauer, Frank",Citroen DS3,DE,RC3,"+59m 42,6s",0:10,NA,NA
+47,64,"Ciamin, Nicolas",Ford Fiesta,FR,RC4,"+1h 00m 43,2s",4:20,NA,NA
+48,81,"Molle, Amaury",Peugeot 208,BE,RC4,"+1h 08m 38,4s",0:10,NA,NA
+49,90,"Molinaro, Tamara",Opel Adam,IT,RC4,"+1h 08m 39,0s",1:20,NA,NA
+50,94,"Ehlhardt, Wolfgang",Opel Astra,DE,RC2,"+1h 21m 50,3s",0:20,NA,NA
+51,65,"Folb, Thierry",Ford Fiesta,FR,RC4,"+1h 26m 58,4s",0:10,NA,NA
+52,93,"Wecker, Josef",Renault Clio,DE,RC3,"+1h 28m 59,3s",NA,NA,NA
+53,96,"Bachle, Christian",Citroen DS3,DE,RC5,"+1h 35m 40,3s",0:10,NA,NA
+54,89,"Williams, Tom",Ford Fiesta,GB,RC4,"+2h 01m 43,9s",NA,NA,NA
+NA,7,"Meeke, Kris",Citroen C3 WRC,GB,RC1,NA,NA,TC15,mechanical
+NA,40,"Greensmith, Fergus",Ford Fiesta,GB,RC2,NA,NA,SS18,unknown
+NA,49,"Schilt, Edwin",Skoda Fabia,NL,RC2,NA,NA,SS15,unknown
+NA,71,"Kreim, Fabian",Skoda Fabia,DE,RC2,NA,NA,SS15,unknown
+NA,73,"Fumal, Armand",Citroen DS3,BE,RC2,NA,NA,TC19,unknown
+NA,82,"Schwinn, Sebastian",Mitsubishi Lancer Evo X,DE,RC2,NA,NA,TC8E,unknown
+NA,83,"Klein, Marius",Mitsubishi Lancer Evo X,DE,RC2,NA,NA,SS21,unknown
+NA,84,"Schwedt, Roman",Opel Adam,DE,RC4,NA,NA,TC8E,unknown

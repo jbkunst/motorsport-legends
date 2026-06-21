@@ -1,0 +1,83 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,5,"Sainz, Carlos",Subaru Impreza 555,ES,A8,6h 32m 31s,NA,NA,NA
+2,7,"Delecour, Francois",Ford Escort RS Cosworth,FR,A,+2m 25s,NA,NA,NA
+3,2,"Kankkunen, Juha",Toyota Celica GT-Four (ST205),FI,A,+3m 57s,NA,NA,NA
+4,11,"Makinen, Tommi",Mitsubishi Lancer Evo II,FI,A,+4m 39s,NA,NA,NA
+5,8,"Thiry, Bruno",Ford Escort RS Cosworth,BE,A,+6m 47s,NA,NA,NA
+6,12,"Aghini, Andrea",Mitsubishi Lancer Evo II,IT,A,+10m 46s,NA,NA,NA
+7,14,"Ragnotti, Jean",Renault Clio Maxi,FR,A,+31m 55s,NA,NA,NA
+8,6,"Liatti, Piero",Subaru Impreza 555,IT,A,+37m 23s,NA,NA,NA
+9,24,"Camandona, Philippe",Ford Escort RS Cosworth,CH,N,+40m 30s,NA,NA,NA
+10,17,"Holderied, Isolde",Mitsubishi Lancer Evo II,DE,N,+41m 03s,NA,NA,NA
+11,33,"Jaquillard, Christian",Ford Escort RS Cosworth,CH,A8,+45m 01s,NA,NA,NA
+12,133,"Madeira, Rui",Mitsubishi Lancer Evo,PT,N4,+45m 42s,NA,NA,NA
+13,26,"Samuel, Remi",Ford Escort RS Cosworth,FR,N4,+46m 56s,NA,NA,NA
+14,34,"Postel, Ivan",Subaru Impreza 555,NL,A8,+53m 16s,NA,NA,NA
+15,50,"Gassner, Hermann",Mitsubishi Galant VR-4,DE,N4,+53m 29s,NA,NA,NA
+16,27,"Phillips, Franck",Ford Escort RS Cosworth,MC,N4,+54m 33s,NA,NA,NA
+17,35,"Ayme, Jean-Paul",Mitsubishi Lancer Evo,FR,N4,+54m 41s,NA,NA,NA
+18,136,"Nittel, Uwe",Ford Escort RS Cosworth,DE,N4,+57m 16s,NA,NA,NA
+19,36,"Mercier, Eddie",Renault Clio Williams,FR,N3,+58m 07s,NA,NA,NA
+20,38,"Errani, Riccardo",Lancia Delta Integrale,IT,A8,+1h 00m 06s,NA,NA,NA
+21,49,"Rubiolo, Philippe",Renault Clio Williams,FR,N4,+1h 01m 06s,NA,NA,NA
+22,48,"Fores, Daniel",Renault Clio Williams,FR,N3,+1h 08m 17s,NA,NA,NA
+23,202,"Arzeno, Jacques",Ford Escort RS Cosworth,FR,N4,+1h 08m 37s,NA,NA,NA
+24,212,"Mari, Francesco",Ford Escort RS Cosworth,CH,N4,+1h 11m 06s,NA,NA,NA
+25,40,"Farnaud, Michel",Renault 5 GT Turbo,FR,N4,+1h 13m 02s,NA,NA,NA
+26,129,"Benazzo, Roberto",Ford Escort RS Cosworth,IT,N4,+1h 16m 11s,NA,NA,NA
+27,63,"Quinonero, Julien",Peugeot 106,FR,A5,+1h 16m 39s,NA,NA,NA
+28,55,"Persico, Paolo",Ford Escort RS Cosworth,IT,N4,+1h 16m 48s,NA,NA,NA
+29,30,"Burkart, Nikolai",Nissan Sunny,DE,A7,+1h 17m 06s,NA,NA,NA
+30,60,"Baldi, Maurizio",Ford Escort RS Cosworth,IT,N4,+1h 17m 51s,NA,NA,NA
+31,177,"Tisseyre, Franky",Renault Clio,FR,N3,+1h 19m 04s,NA,NA,NA
+32,72,"Bonfils, Michel",Lancia Delta Integrale,FR,A8,+1h 24m 48s,NA,NA,NA
+33,128,"Arnaud, Christophe",Renault 5 GT Turbo,FR,N4,+1h 26m 50s,NA,NA,NA
+34,179,"Nigri, Christian",Renault Clio Williams,FR,N3,+1h 28m 42s,NA,NA,NA
+35,75,"Nygard, Ole",Opel Astra,NO,A6,+1h 29m 22s,NA,NA,NA
+36,158,"Rotter, Horst",Opel Astra,DE,N3,+1h 31m 13s,NA,NA,NA
+37,102,"Cavigioli, Marco",Fiat Cinquecento,IT,A5,+1h 31m 21s,NA,NA,NA
+38,119,"Sikora, Jacek",Fiat Cinquecento,PL,A5,+1h 33m 14s,NA,NA,NA
+39,44,"Kridel, Guy",Ford Escort RS Cosworth,LU,A8,+1h 33m 37s,NA,NA,NA
+40,93,"Fillet, Jacques",Peugeot 309 GTI,FR,A6,+1h 35m 04s,NA,NA,NA
+41,83,"Mallen, Eric",Mitsubishi Lancer Evo,FR,N4,+1h 35m 42s,NA,NA,NA
+42,90,"Berville, Max",Peugeot 309 GTI,FR,A6,+1h 36m 09s,NA,NA,NA
+43,121,"Terler, Walter",Fiat Cinquecento,AT,A5,+1h 36m 14s,NA,NA,NA
+44,94,"Poizot, Bruno",Peugeot 205 GTI,FR,A6,+1h 36m 49s,NA,NA,NA
+45,61,"Frau, Richard",Renault Clio Williams,FR,N3,+1h 37m 43s,NA,NA,NA
+46,200,"Fabre, Eric",Citroen AX,FR,N1,+1h 39m 34s,NA,NA,NA
+47,77,"Duconget, Gilbert",Renault Clio,FR,A6,+1h 40m 02s,NA,NA,NA
+48,19,"Peljhan, Darko",Volkswagen Golf Rallye G60,SI,A8,+1h 40m 41s,NA,NA,NA
+49,167,"Karlan, Jan Eric",Volkswagen Golf GTi,NO,N3,+1h 41m 05s,NA,NA,NA
+50,189,"Masse, Jean-Marc",Citroen AX,FR,N2,+1h 41m 34s,NA,NA,NA
+51,162,"Veuvle, Bjerte",Volkswagen Golf GTi,NO,N3,+1h 42m 50s,NA,NA,NA
+52,130,"Storti, Giancarlo",Ford Escort RS Cosworth,IT,N4,+1h 42m 57s,NA,NA,NA
+53,71,"Bosse, Peter",Opel Kadett,DE,A6,+1h 43m 07s,NA,NA,NA
+54,160,"Richaud, Jacques",Renault Clio Williams,FR,N3,+1h 44m 22s,NA,NA,NA
+55,171,"Chkondali, Thierry",Renault Clio,FR,N3,+1h 44m 31s,NA,NA,NA
+56,105,"de Belloy, Priscille",Fiat Cinquecento,FR,A5,+1h 44m 35s,NA,NA,NA
+57,123,"Toti, Leonardo",Fiat Cinquecento,IT,A5,+1h 45m 25s,NA,NA,NA
+58,131,"Amorotti, Serge",Ford Escort RS Cosworth,FR,N4,+1h 46m 55s,NA,NA,NA
+59,195,"le Masson, Jean-Yves",Honda Civic,FR,N2,+1h 47m 51s,NA,NA,NA
+68,126,"van der Smeede, Arnold",Fiat Cinquecento,NL,A5,+1h 54m 23s,NA,NA,NA
+NA,1,"Auriol, Didier",Toyota Celica GT-Four (ST205),FR,A,NA,NA,SS15,accident
+NA,3,"Schwarz, Armin",Toyota Celica GT-Four (ST205),DE,A,NA,NA,SS15,engine
+NA,4,"McRae, Colin",Subaru Impreza 555,GB,A,NA,NA,SS11,accident
+NA,15,"Bugalski, Philippe",Renault Clio Maxi,FR,A,NA,NA,after SS16,off road on road section
+NA,20,"Lundgaard, Henrik",Opel Calibra,DK,A7,NA,NA,NA,transmission
+NA,23,"Verini, Maurizio",Lancia Delta Integrale,IT,A8,NA,NA,NA,accident
+NA,25,"Deila, Piergiorgio",Peugeot 306,IT,A7,NA,NA,SS3,engine
+NA,28,"Dorche, Christian",Ford Escort RS Cosworth,FR,N4,NA,NA,SS12,gearbox
+NA,32,"Andruet, Jean-Claude",Rover Mini Cooper,FR,A5,NA,NA,SS9,suspension
+NA,41,"Pellerey, Alain",Citroen ZX 16S,FR,N3,NA,NA,NA,gearbox
+NA,46,"Grimaud, Roger",Honda Civic,FR,N2,NA,NA,NA,accident
+NA,56,"Skiba, Grzegorz",Lancia Delta Integrale,PL,A8,NA,NA,NA,unknown
+NA,57,"Jaussaud, Bernard",Renault Clio Williams,FR,N3,NA,NA,NA,unknown
+NA,64,"Dessi, Marc",Peugeot 205 GTI,MC,N3,NA,NA,NA,unknown
+NA,99,"Barbero, Ana",Fiat Cinquecento,ES,A5,NA,NA,SS6,unknown
+NA,112,"Poutot, Renaud",Fiat Cinquecento,FR,A5,NA,NA,NA,mechanical
+NA,114,"Rossi, Roberta",Fiat Cinquecento,IT,A5,NA,NA,SS14,mechanical
+NA,117,"Kling, Karl-Heinz",Fiat Cinquecento,DE,A5,NA,NA,SS10,accident
+NA,125,"Kahlfuss, Michael",Trabant P601,DE,A5,NA,NA,NA,unknown
+NA,127,"Vidal, Joan",Fiat Cinquecento,ES,A5,NA,NA,SS9,accident
+NA,134,"Marchisio, Raul",Ford Escort RS Cosworth,IT,N4,NA,NA,NA,gearbox
+NA,197,"Plant, Michael",Rover Mini Cooper,GB,N1,NA,NA,NA,unknown

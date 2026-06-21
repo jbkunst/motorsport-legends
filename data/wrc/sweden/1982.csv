@@ -1,0 +1,26 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,4,"Blomqvist, Stig",Audi quattro,SE,G4,3h 40m 15s,NA,NA,NA
+2,2,"Vatanen, Ari",Ford Escort RS,FI,G4,+2m 36s,NA,NA,NA
+3,3,"Rohrl, Walter",Opel Ascona 400,DE,G4,+4m 14s,NA,NA,NA
+4,6,"Eklund, Per",Saab 99 Turbo,SE,A,+5m 05s,NA,NA,NA
+5,5,"Mouton, Michele",Audi quattro,FR,G4,+5m 53s,NA,NA,NA
+6,9,"Lampi, Lasse",Ford Escort RS,FI,G4,+5m 59s,NA,NA,NA
+7,18,"Nilsson, Soren",Nissan Violet,SE,G4,+8m 26s,NA,NA,NA
+8,37,"Grundel, Karl",Volkswagen Golf GTi,SE,G2,+10m 15s,NA,NA,NA
+9,20,"Thorsell, Bengt",Ford Escort RS,SE,G4,+10m 54s,NA,NA,NA
+10,45,"Ericsson, Mikael",Audi Coupe,SE,G2,+12m 33s,NA,NA,NA
+12,27,"Jonsson, Mats",Opel Ascona,SE,G2,NA,NA,NA,NA
+15,52,"Eriksson, Kenneth",Saab 96 V4,SE,G2,NA,NA,NA,NA
+16,1,"Mikkola, Hannu",Audi quattro,FI,G4,+25m 52s,NA,NA,NA
+39,78,"Dorche, Christian",Citroen Visa,FR,B,+41m 14s,NA,NA,NA
+NA,8,"Johansson, Bjorn",Opel Ascona 400,SE,G4,NA,NA,SS20,headgasket
+NA,11,"Sogaard, Jens",Opel Ascona,NO,G4,NA,NA,SS4,engine
+NA,12,"Carlsson, Ingvar",BMW 323,SE,G2,NA,NA,SS4,gearbox
+NA,13,"Stromberg, Ola",Saab 99EMS,SE,A,NA,NA,SS19,gearbox
+NA,17,"Danielsson, Bror",Ford Escort RS,SE,G4,NA,NA,SS3,headgasket
+NA,19,"Asterhag, Leif",Toyota Celica,SE,G2,NA,NA,SS4,headgasket
+NA,21,"Walfridsson, Per-Inge",Renault 5 Turbo,SE,G4,NA,NA,SS19,overheating
+NA,25,"Walfridsson, Lars-Erik",Renault 5 Turbo,SE,G4,NA,NA,SS17,accident
+NA,26,"Jansson, Lasse",Saab 99 Turbo,SE,G2,NA,NA,SS2,accident
+NA,33,"Johansson, Erik",Saab 99 Turbo,SE,A,NA,NA,SS17,accident damage
+NA,38,"Pettersson, Gunnar",Ford Escort RS2000,SE,G2,NA,NA,SS13,accident

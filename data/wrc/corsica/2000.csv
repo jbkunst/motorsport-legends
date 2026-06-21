@@ -1,0 +1,121 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,10,"Panizzi, Gilles",Peugeot 206WRC (2000),FR,A8,"4h 02m 14,2s",NA,NA,NA
+2,9,"Delecour, Francois",Peugeot 206WRC (2000),FR,A8,"+33,5s",NA,NA,NA
+3,6,"Sainz, Carlos",Ford Focus WRC 00,ES,A8,"+1m 12,6s",NA,NA,NA
+4,3,"Burns, Richard",Subaru Impreza WRC2000,GB,A8,"+1m 30,9s",NA,NA,NA
+5,16,"Gronholm, Marcus",Peugeot 206WRC (2000),FI,A8,"+1m 57,1s",NA,NA,NA
+6,17,"Liatti, Piero",Ford Focus WRC 00,IT,A8,"+2m 53,8s",NA,NA,NA
+7,4,"Jean-Joseph, Simon",Subaru Impreza WRC2000,FR,A8,"+3m 09,5s",0:10,NA,NA
+8,7,"Auriol, Didier",Seat Cordoba WRC Evo3,FR,A8,"+3m 30,7s",NA,NA,NA
+9,33,"Loeb, Sebastien",Toyota Corolla WRC,FR,A8,"+6m 53,2s",NA,NA,NA
+10,39,"Morel, Fabrice",Peugeot 206 WRC,FR,A8,"+7m 20,4s",NA,NA,NA
+11,8,"Gardemeister, Toni",Seat Cordoba WRC Evo3,FI,A8,"+7m 20,5s",NA,NA,NA
+12,15,"McRae, Alister",Hyundai Accent WRC,GB,A8,"+9m 00,7s",NA,NA,NA
+13,32,"Rousselot, Benoit",Renault Megane,FR,A7,"+11m 37,1s",NA,NA,NA
+14,20,"al-Wahaibi, Hamed",Subaru Impreza WRC99,OM,A8,"+14m 50,7s",NA,NA,NA
+15,45,"Manzagol, Jean-Pierre",Peugeot 306 Maxi,FR,A7,"+15m 39,1s",NA,NA,NA
+16,28,"Bugalski, Philippe",Citroen Saxo,FR,A6,"+19m 58,9s",NA,NA,NA
+17,37,"Stohl, Manfred",Mitsubishi Lancer Evo VI,AT,N4,"+20m 13,8s",NA,NA,NA
+18,22,"Trelles, Gustavo",Mitsubishi Lancer Evo VI,UY,N4,"+20m 46,4s",NA,NA,NA
+19,44,"Pereira, Armando",Subaru Impreza,FR,A8,"+22m 45,7s",0:10,NA,NA
+20,48,"Santoni, Jean-Marie",Mitsubishi Lancer Evo VI,FR,N4,"+23m 19,1s",1:20,NA,NA
+21,54,"Hideg, Krisztian",Mitsubishi Lancer Evo V,HU,N4,"+23m 46,3s",NA,NA,NA
+22,24,"Ferreyros, Ramon",Mitsubishi Lancer Evo VI,PE,N4,"+23m 47,8s",NA,NA,NA
+23,47,"Rognoni, Philippe",Mitsubishi Lancer Evo VI,FR,N4,"+24m 02,0s",NA,NA,NA
+24,57,"Fazi, Petru",Mitsubishi Lancer Evo,FR,N4,"+25m 16,0s",NA,NA,NA
+25,25,"Mendez, Gabriel",Mitsubishi Lancer Evo,UY,N4,"+25m 36,8s",NA,NA,NA
+26,27,"Menzi, Claudio Marcelo",Mitsubishi Lancer Evo VI,AR,N4,"+26m 57,0s",NA,NA,NA
+27,62,"Mariani, Paul",Mitsubishi Lancer Evo VI,FR,N4,"+28m 49,5s",NA,NA,NA
+28,30,"Puras, Jesus",Citroen Saxo,ES,A6,"+30m 14,8s",NA,NA,NA
+29,26,"Pozzo, Gabriel",Mitsubishi Lancer Evo VI,AR,N4,"+30m 55,6s",NA,NA,NA
+30,53,"Ayme, Jean-Paul",Mitsubishi Lancer Evo VI,FR,N4,"+36m 58,9s",0:50,NA,NA
+31,51,"Colsoul, Bob",Mitsubishi Lancer Evo,BE,N4,"+38m 40,0s",0:30,NA,NA
+32,60,"Sanchez, Jean Marc",Subaru Impreza,FR,N4,"+39m 31,9s",NA,NA,NA
+33,49,"Barratt, Natalie",Mitsubishi Lancer Evo,GB,N4,"+40m 46,0s",NA,NA,NA
+34,78,"Pintarelli, Silvano",Opel Corsa GSi,IT,A6,"+43m 25,8s",NA,NA,NA
+35,91,"Vedrines, Aime",Citroen Xsara,FR,N3,"+43m 30,6s",NA,NA,NA
+36,35,"Amorotti, Serge",Ford Escort RS Cosworth,FR,N4,"+44m 42,4s",NA,NA,NA
+37,77,"Zonta, Bruno",Peugeot 106,FR,A6,"+45m 25,8s",NA,NA,NA
+38,63,"Schmit, Frederic",Mitsubishi Lancer Evo VI,FR,N4,"+45m 30,8s",0:10,NA,NA
+39,99,"Tavares, Tony",Renault Clio,FR,N3,"+46m 20,7s",NA,NA,NA
+40,46,"Micheli, Jose",Ford Escort RS Cosworth,FR,A8,"+46m 29,6s",NA,NA,NA
+41,83,"Giovanni, Philippe",Peugeot 106,FR,A6,"+46m 32,8s",NA,NA,NA
+42,89,"Bastelica, Antoine Paul",Renault Clio,FR,N3,"+48m 11,6s",NA,NA,NA
+43,95,"Faillace, Jean Francois",Peugeot 306,FR,N3,"+48m 17,7s",NA,NA,NA
+44,66,"Couchet, Francois",BMW 325i,FR,N4,"+48m 27,7s",0:10,NA,NA
+45,88,"Triboulet, Regis",Peugeot 306,FR,N3,"+50m 06,3s",NA,NA,NA
+46,102,"Galvez, Jerome",Peugeot 306,FR,N3,"+50m 43,6s",NA,NA,NA
+47,81,"Abbati, Stephane",Peugeot 106,FR,A6,"+50m 53,7s",NA,NA,NA
+48,82,"Leonetti, Dominique",Peugeot 106,FR,A6,"+51m 04,8s",1:40,NA,NA
+49,59,"Frisiero, Fabio",Mitsubishi Lancer Evo V,IT,N4,"+51m 47,8s",NA,NA,NA
+50,117,"Ferrucci, Walter",Peugeot 106,FR,N2,"+53m 06,1s",1:20,NA,NA
+51,113,"Birr, Niklas",Citroen Saxo VTS,DE,N2,"+55m 20,2s",NA,NA,NA
+52,118,"Mouvand, Daniel",Honda Civic,FR,N2,"+55m 57,8s",NA,NA,NA
+53,58,"Kobayashi, Wakujiro",Mitsubishi Lancer Evo,JP,N4,"+57m 01,9s",NA,NA,NA
+54,108,"del Volgo, Jean Louis",Nissan Micra,FR,A5,"+57m 25,7s",NA,NA,NA
+55,90,"Bourgeois, Jean-Michel",Peugeot 306,FR,N3,"+57m 32,5s",0:10,NA,NA
+56,96,"Richaud, Jacques",Honda Integra,FR,N3,"+58m 08,4s",NA,NA,NA
+57,94,"Vellutini, Didier",Renault Clio,FR,N3,"+59m 01,8s",1:00,NA,NA
+58,97,"Saly, Paul",Renault Clio,FR,N3,"+59m 50,1s",NA,NA,NA
+59,112,"Poisson, Jean-Marc",Honda Civic,FR,N2,"+59m 53,3s",NA,NA,NA
+60,69,"Rovegno, Gisella",Renault Clio Williams,IT,A7,"+1h 00m 05,3s",NA,NA,NA
+61,105,"Mondoloni, Jean-Luc",Peugeot 106,FR,A5,"+1h 00m 23,0s",NA,NA,NA
+62,122,"Caridroit, Gilles",Peugeot 106,FR,N1,"+1h 01m 36,6s",NA,NA,NA
+63,116,"Dewerdt, Eric",Peugeot 106,FR,N2,"+1h 01m 40,5s",NA,NA,NA
+64,87,"Leymarie, Francis",Peugeot 306,FR,N3,"+1h 02m 31,9s",NA,NA,NA
+65,68,"Partal, Peirrot",Citroen Xsara,FR,N3,"+1h 03m 22,8s",NA,NA,NA
+66,127,"Boudinet, Jacques",Peugeot 106,FR,N1,"+1h 04m 23,5s",NA,NA,NA
+67,70,"Jaussaud, Bernard",Renault Clio Williams,FR,A7,"+1h 05m 03,7s",NA,NA,NA
+68,120,"Kennedy, Nicholas",Volkswagen Polo,GB,N1,"+1h 05m 57,5s",NA,NA,NA
+69,110,"Cormenier, Patrick",Peugeot 106,FR,N2,"+1h 06m 30,8s",NA,NA,NA
+70,121,"Secchi, Louis",Peugeot 106,FR,N1,"+1h 08m 34,2s",NA,NA,NA
+71,106,"Marco, Roland",Peugeot 106,FR,A5,"+1h 08m 47,5s",1:00,NA,NA
+72,111,"Dard, Thierry",Honda Civic,FR,N2,"+1h 09m 44,6s",0:30,NA,NA
+73,125,"Schmidt, Florian",Peugeot 106,DE,N1,"+1h 11m 25,2s",NA,NA,NA
+74,73,"Barbolosi, Julien",Peugeot 306,FR,A7,"+1h 13m 46,5s",NA,NA,NA
+75,115,"Pietri, Jean Francois",Peugeot 106,FR,N2,"+1h 14m 03,7s",0:10,NA,NA
+76,128,"Vallette, Franck",Peugeot 106,FR,N1,"+1h 14m 59,3s",0:30,NA,NA
+77,80,"Pezzato, Andrea",Opel Corsa GSi,IT,A6,"+1h 15m 16,4s",NA,NA,NA
+78,79,"Fiori, Edmond",Peugeot 106,FR,A6,"+1h 19m 48,0s",NA,NA,NA
+79,119,"Ristori, Paul",Peugeot 106,FR,N1,"+1h 25m 30,9s",0:30,NA,NA
+80,109,"Diperi, Bertrand",Citroen AX GTI,FR,A5,"+1h 58m 37,7s",1:30,NA,NA
+NA,1,"Makinen, Tommi",Mitsubishi Lancer Evo VI,FI,A8,NA,NA,SS13,off road
+NA,2,"Loix, Freddy",Mitsubishi Carisma GT,BE,A8,NA,NA,SS1,off road
+NA,5,"McRae, Colin",Ford Focus WRC 00,GB,A8,NA,NA,SS10,off road
+NA,14,"Eriksson, Kenneth",Hyundai Accent WRC,SE,A8,NA,NA,SS3,mechanical
+NA,18,"Solberg, Petter",Subaru Impreza WRC2000,NO,A8,NA,NA,SS1,mechanical
+NA,19,"Dallavilla, Andrea",Subaru Impreza,IT,A8,NA,NA,SS2,off road
+NA,21,"Yazici, Serkan",Toyota Corolla WRC,TU,A8,NA,NA,SS13,off road
+NA,23,"Galli, Gianluigi",Mitsubishi Lancer Evo VI,IT,N4,NA,NA,SS9,off road
+NA,29,"Maselli, Andrea",Peugeot 106,IT,A6,NA,NA,SS4,mechanical
+NA,31,"Pedersoli, Luca",Fiat Punto,IT,A6,NA,NA,SS15,off road
+NA,34,"Magaud, Patrick",Ford Puma,FR,A6,NA,NA,SS5,mechanical
+NA,36,"Bengue, Alexandre",Peugeot 106,FR,A6,NA,NA,SS6,mechanical
+NA,38,"Torre, Jean-Claude",Subaru Impreza,FR,A8,NA,NA,SS7,off road
+NA,41,"Unia, Malik",Toyota Celica GT-Four (ST205),FR,A8,NA,NA,SS1,mechanical
+NA,42,"Burri, Olivier",Toyota Corolla WRC,CH,A8,NA,NA,SS9,mechanical
+NA,43,"Smith, Geoff",Ford Escort WRC,GB,A8,NA,NA,SS3,off road
+NA,50,"Manzagol, Jean-Marc",Mitsubishi Lancer Evo V,FR,N4,NA,NA,SS6,mechanical
+NA,55,"Jones, Reece",Mitsubishi Lancer Evo V,NZ,N4,NA,NA,SS3,off road
+NA,56,"Griazine, Stanislav",Mitsubishi Lancer Evo VI,RU,N4,NA,NA,SS2,off road
+NA,61,"Sanfilippo, Ignacio",Mitsubishi Lancer Evo VI,ES,N4,NA,NA,SS16,mechanical
+NA,64,"Foulon, Alain",Subaru Impreza WRX,FR,N4,NA,NA,SS1,off road
+NA,65,"Branca, Michel",Ford Escort RS Cosworth,FR,N4,NA,NA,SS3,off road
+NA,67,"Fiori, Guy",Citroen Saxo,FR,A6,NA,NA,SS17,off road
+NA,71,"Rayssac, Jacques",Peugeot 306,FR,A7,NA,NA,SS2,mechanical
+NA,72,"Guedj, Jean-Paul",Renault Megane,FR,A7,NA,NA,SS7,off road
+NA,74,"Spano, Sebastien",Renault Clio Williams,FR,A7,NA,NA,SS2,off road
+NA,75,"Ballaire, Eric",Citroen Saxo,FR,A6,NA,NA,SS12,mechanical
+NA,76,"Rovina, Stephane",Citroen Saxo,FR,A6,NA,NA,SS11,mechanical
+NA,84,"Bourcier, Richard",Renault Clio,FR,N3,NA,NA,SS9,mechanical
+NA,85,"Chkondali, Thierry",Honda Integra,FR,N3,NA,NA,SS16,mechanical
+NA,93,"Bensimon, Claude",Renault Clio,FR,N3,NA,NA,SS6,off road
+NA,98,"Laurence, Yves",Peugeot 306,FR,N3,NA,NA,SS16,mechanical
+NA,100,"Marsily, Eric",Renault Clio,FR,N3,NA,NA,SS5,mechanical
+NA,103,"Petretti, Pascal",Peugeot 205 GTi,FR,N3,NA,NA,SS3,off road
+NA,104,"Deslandes, David",Renault Megane,FR,N3,NA,NA,SS9,mechanical
+NA,107,"Lasserre, Philippe",Fiat Cinquecento,FR,A5,NA,NA,SS4,mechanical
+NA,114,"Blanc, Alexandre",Peugeot 106,FR,N2,NA,NA,SS6,mechanical
+NA,123,"Hein, Robert",Peugeot 106,FR,N1,NA,NA,SS1,mechanical
+NA,124,"Cameron, Brian",Rover Mini Cooper,GB,N1,NA,NA,SS4,mechanical
+NA,126,"Cascio, Eric",Peugeot 106,FR,N1,NA,NA,SS3,mechanical

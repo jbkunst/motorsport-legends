@@ -1,0 +1,52 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,5,"Salonen, Timo",Datsun 160J,FI,G2,12h 06m 57s,NA,NA,NA
+2,2,"Rohrl, Walter",Fiat 131 Abarth,DE,G4,+2m 41s,NA,NA,NA
+3,3,"Mikkola, Hannu",Mercedes Benz 500 SLC,FI,G2,+22m 25s,NA,NA,NA
+4,8,"Fury, George",Datsun 160J,AU,G2,+27m 13s,NA,NA,NA
+5,1,"Waldegard, Bjorn",Mercedes Benz 500 SLC,SE,G2,+35m 41s,NA,NA,NA
+6,9,"Adams, Paul",Vauxhall Chevette 2300,NZ,G4,+42m 23s,NA,NA,NA
+7,20,"Davidson, Paddy",Ford Escort RS1600,NZ,G2,+1h 12m 29s,NA,NA,NA
+8,25,"Parkes, David",Ford Escort 1600,NZ,G2,+1h 12m 56s,NA,NA,NA
+9,27,"McIntyre, Glenn",Ford Escort 1600,NZ,G2,+1h 15m 08s,NA,NA,NA
+10,32,"Chandler, Morrie",Mitsubishi Lancer,NZ,G2,+1h 23m 53s,NA,NA,NA
+11,37,"Hore, Ross",Mazda RX3,NZ,G1,+1h 30m 38s,NA,NA,NA
+12,40,"Wills, Allan",Ford Escort,NZ,G1,+1h 33m 03s,NA,NA,NA
+13,28,"Stewart, Malcolm",Ford Escort Mexico,NZ,G2,+1h 43m 55s,NA,NA,NA
+14,61,"Crawford, Graham",Mazda RX3,NZ,G1,+1h 53m 44s,NA,NA,NA
+15,19,"Gratian, Patrick",Toyota Celica,FR,G2,+1h 56m 24s,NA,NA,NA
+16,47,"Tee, John",Ford Escort,NZ,G2,+1h 57m 01s,NA,NA,NA
+17,33,"Taylor, Colin",Ford Escort RS2000,NZ,G1,+1h 58m 09s,NA,NA,NA
+18,13,"Green, Brian",Ford Escort,NZ,NA,+1h 59m 35s,NA,NA,NA
+19,35,"Cullen, Peter",Ford Escort,NZ,G2,+2h 07m 35s,NA,NA,NA
+20,36,"Kelsey, Richard",Ford Escort,NZ,G2,+2h 10m 51s,NA,NA,NA
+21,44,"Lorimer, Graham",Ford Escort RS2000,NZ,G2,+2h 12m 52s,NA,NA,NA
+22,43,"Johns, Neil",Ford Escort RS2000,NZ,G1,+2h 15m 30s,NA,NA,NA
+23,46,"Robb, Bob",Datsun 160J,NZ,G2,+2h 16m 30s,NA,NA,NA
+24,45,"Stokes, Brian",Ford Escort RS1600,NZ,G2,+2h 25m 30s,NA,NA,NA
+25,58,"MacDonald, Ken",Ford Escort RS1800,NZ,G4,+2h 28m 20s,NA,NA,NA
+26,30,"Hughson, Gray",Vauxhall Chevette 2300,NZ,G4,+2h 30m 21s,NA,NA,NA
+27,65,"Owen, Geoff",Ford Escort RS2000,NZ,G2,+2h 32m 53s,NA,NA,NA
+28,59,"Rawstron, Brent",Mazda,GB,G1,+2h 46m 36s,NA,NA,NA
+29,NA,"Morris, Tony",Ford Escort,NZ,NA,+2h 51m 14s,NA,NA,NA
+30,83,"Greenland, Rangi",Isuzu Gemini,NZ,NA,+2h 58m 58s,NA,NA,NA
+31,76,"Aimers, Tony",Mazda RX3,NZ,G2,+3h 02m 38s,NA,NA,NA
+32,NA,"Thexton, David",Mazda RX3,NZ,NA,+3h 06m 31s,NA,NA,NA
+33,56,"Harlick, Neville",Ford Escort RS1600,NZ,G2,+3h 16m 49s,NA,NA,NA
+34,64,"Jeffery, Ross",Ford Escort,NZ,G2,+3h 19m 37s,NA,NA,NA
+35,NA,"Young, Ross",Mazda RX3,NZ,NA,+3h 20m 46s,NA,NA,NA
+36,70,"Franklin, Sid",Datsun 510,NZ,G2,+3h 31m 04s,NA,NA,NA
+37,50,"Sutherland, Bill",Datsun 160J,NZ,G2,+3h 31m 04s,NA,NA,NA
+38,67,"Mackersy, Ron",Hillman Avenger,NZ,G1,+3h 36m 50s,NA,NA,NA
+39,23,"White, Dan",Ford Escort RS2000,AU,G1,+3h 48m 23s,NA,NA,NA
+40,77,"Gibb, Neville",Toyota Corolla,NZ,G1,+3h 54m 05s,NA,NA,NA
+41,71,"Johnstone, Richard",Datsun 160J,NZ,G2,+4h 14m 09s,NA,NA,NA
+42,54,"Elliot, Ian",Datsun 1200,NZ,G2,+4h 25m 55s,NA,NA,NA
+43,48,"Turner, Allan",Ford Escort,NZ,G1,+4h 41m 33s,NA,NA,NA
+NA,4,"Airikkala, Pentti",Ford Escort RS,FI,G4,NA,NA,SS31,accident
+NA,6,"Cowan, Andrew",Mercedes Benz 500 SLC,GB,G2,NA,NA,SS28,accident
+NA,7,"Donald, Jim",Ford Escort RS,NZ,G4,NA,NA,SS10,accident
+NA,11,"Teesdale, Tony",Ford Escort RS,NZ,G4,NA,NA,SS1,engine
+NA,12,"Murland, Shane",Vauxhall Chevette 2300,NZ,G4,NA,NA,SS28,engine
+NA,14,"Armstrong, Hugh",Ford Escort RS,NZ,G4,NA,NA,SS24,accident
+NA,15,"Mitchell, Alan",Ford Escort RS,NZ,G4,NA,NA,SS3,engine
+NA,16,"Carlsson, Ingvar",Mercedes Benz 280,SE,G2,NA,NA,SS17,accident

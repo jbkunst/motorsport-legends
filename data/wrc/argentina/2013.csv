@@ -1,0 +1,33 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Loeb, Sebastien",Citroen DS3 WRC,FR,A0,"4h 35m 56,7s",NA,NA,NA
+2,8,"Ogier, Sebastien",Volkswagen Polo R WRC,FR,A0,"+55,0s",NA,NA,NA
+3,7,"Latvala, Jari-Matti",Volkswagen Polo R WRC,FI,A0,"+2m 00,8s",NA,NA,NA
+4,5,"Novikov, Evgeny",Ford Fiesta RS WRC,RU,A0,"+2m 36,7s",NA,NA,NA
+5,11,"Neuville, Thierry",Ford Fiesta RS WRC,BE,A0,"+4m 40,5s",NA,NA,NA
+6,2,"Hirvonen, Mikko",Citroen DS3 WRC,FI,A0,"+6m 23,9s",NA,NA,NA
+7,4,"Ostberg, Mads",Ford Fiesta RS WRC,NO,A0,"+11m 02,2s",NA,NA,NA
+8,9,"Mikkelsen, Andreas",Volkswagen Polo R WRC,NO,A0,"+13m 22,1s",0:10,NA,NA
+9,10,"Sordo Castillo, Daniel",Citroen DS3 WRC,ES,A0,"+13m 22,3s",0:50,NA,NA
+10,21,"Prokop, Martin",Ford Fiesta RS WRC,CZ,A0,"+14m 07,6s",NA,NA,NA
+11,23,"Pozzo, Gabriel",Ford Fiesta RS WRC,AR,A0,"+16m 59,6s",NA,NA,NA
+12,22,"Oliveira, Daniel Rolim",Ford Fiesta RS WRC,BR,A0,"+25m 57,9s",NA,NA,NA
+13,48,"al-Kuwari, Abdulaziz",Ford Fiesta,QA,A2,"+32m 30,4s",0:10,NA,NA
+14,82,"Saba Rodriguez, Gustavo",Skoda Fabia Super 2000,PY,A2,"+43m 39,1s",1:00,NA,NA
+15,41,"Fuchs Sierlecki, Nicolas",Mitsubishi Lancer Evo IX,PE,A3,"+45m 37,3s",NA,NA,NA
+16,77,"Ligato, Marcos",Subaru Impreza WRX,AR,A3,"+55m 42,3s",NA,NA,NA
+17,72,"Alonso, Juan Carlos",Mitsubishi Lancer Evo X,AR,A3,"+1h 01m 53,1s",1:00,NA,NA
+18,34,"Protasov, Yuriy",Subaru Impreza,UA,A2,"+1h 04m 29,9s",NA,NA,NA
+19,38,"Trivino Bujalil, Ricardo",Mitsubishi Lancer Evo IX,MX,A3,"+1h 04m 48,0s",NA,NA,NA
+20,88,"Martinez M. R., Jorge Enrique",Subaru Impreza WRX,PE,A2,"+1h 08m 52,5s",1:10,NA,NA
+21,83,"Zaldivar Jr., Miguel",Ford Fiesta S2000,PY,A2,"+1h 10m 04,7s",0:10,NA,NA
+22,86,"Diehl dos Santos, Ilo",Mitsubishi Lancer Evo X,BR,A2,"+1h 20m 50,4s",0:30,NA,NA
+23,89,"Zea Velasco, Paul",Mitsubishi Lancer Evo IX,EC,A3,"+1h 45m 41,7s",NA,NA,NA
+24,93,"Porcaro, Jorge Luis",Peugeot 206,AR,A6,"+3h 07m 17,9s",0:20,NA,NA
+NA,12,"Kosciuszko, Michal",Mini John Cooper Works,PL,A0,NA,NA,SS6,mechanical
+NA,33,"Kremer, Armin",Subaru Impreza WRX,DE,A3,NA,NA,TC13,mechanical
+NA,37,"Bertelli, Lorenzo",Subaru Impreza,IT,A3,NA,NA,TC10D,unknown
+NA,84,"Cuenca, Ruben",Subaru Impreza,EC,A3,NA,NA,SS13,mechanical
+NA,85,"Storani, Mariano",Subaru Impreza,AR,A3,NA,NA,SS2,mechanical
+NA,87,"Sacur, Fernando",Subaru Impreza,AR,A3,NA,NA,SS11,mechanical
+NA,90,"Nicolas, Jose Alberto",Mitsubishi Lancer Evo X,AR,A3,NA,NA,SS3,mechanical
+NA,91,"Pelaez, Pablo",Peugeot 206,AR,A6,NA,NA,SS11,mechanical

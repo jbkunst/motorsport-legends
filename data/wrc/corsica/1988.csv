@@ -1,0 +1,94 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,8,"Auriol, Didier",Ford Sierra RS Cosworth,FR,A8,7h 12m 04s,NA,NA,NA
+2,3,"Loubet, Yves",Lancia Delta Integrale,FR,A,+3m 05s,NA,NA,NA
+3,6,"Saby, Bruno",Lancia Delta Integrale,FR,A,+4m 49s,NA,NA,NA
+4,9,"Chatriot, Francois",BMW M3,FR,A,+11m 24s,NA,NA,NA
+5,12,"Sainz, Carlos",Ford Sierra RS Cosworth,ES,A,+14m 05s,NA,NA,NA
+6,5,"Eriksson, Kenneth",Toyota Celica GT-4 (ST165),SE,A,+17m 20s,NA,NA,NA
+7,1,"Beguin, Bernard",BMW M3,FR,A,+23m 04s,NA,NA,NA
+8,16,"Rouby, Paul",Alfa Romeo 75,FR,A,+32m 55s,NA,NA,NA
+9,19,"Baroni, Pierre-Cesar",Ford Sierra Cosworth,FR,N,+33m 13s,NA,NA,NA
+10,11,"Oreille, Alain",Renault 5 GT Turbo,FR,N,+33m 58s,NA,NA,NA
+11,25,"Poggi, Laurent",Citroen AX,FR,A,+39m 04s,NA,NA,NA
+12,17,"Chomat, Maurice",Citroen AX,FR,A,NA,NA,NA,NA
+13,42,"Fiori, Guy",BMW 325i,FR,N,NA,NA,NA,NA
+14,39,"Maillot, P.",Peugeot 205 GTI,FR,A,+47m 06s,NA,NA,NA
+15,29,"Frau, Richard",Renault 5 GT Turbo,FR,N,NA,NA,NA,NA
+16,48,"Ceccaldi, Jean-Jacques",BMW 325i,FR,N,NA,NA,NA,NA
+17,26,"Kvaizar, Svatopluk",Skoda 130L,CS,A,NA,NA,NA,NA
+18,43,"Bartoli, Camille",Renault 5 GT Turbo,FR,N,NA,NA,NA,NA
+19,69,"Fazi, Pierre F.",Peugeot 205 GTI,FR,N,+1h 07m 17s,NA,NA,NA
+20,68,"de Villecourt, Roger",Peugeot 309 GTI,FR,N,NA,NA,NA,NA
+21,44,"Pinelli, Jean-Laurent",Renault 5 GT Turbo,FR,N,NA,NA,NA,NA
+22,79,"Dall'Agnol, Didier",Peugeot 205 GTI,FR,N,+1h 23m 41s,NA,NA,NA
+23,87,"Haas, Gerard",Peugeot 205 GTI,FR,N,NA,NA,NA,NA
+24,96,"Sanchez, Jean Marc",Talbot Samba,FR,B,+1h 42m 21s,NA,NA,NA
+25,72,"Allegrini, J-L",Volkswagen Golf GTI 16V,FR,N,NA,NA,NA,NA
+26,83,Giovanni,Peugeot 205 GTI,NA,N,NA,NA,NA,NA
+27,63,"Mariani, Paul",Citroen AX,FR,A,NA,NA,NA,NA
+28,75,Jedrasiack,Peugeot 205 GTI,NA,N,NA,NA,NA,NA
+29,94,"Flottes, Gerald",Talbot Samba,FR,N,+1h 53m 45s,NA,NA,NA
+30,89,Diebold,Citroen AX,NA,N,NA,NA,NA,NA
+31,86,"Clergue, B.",Peugeot 205 GTI,FR,N,NA,NA,NA,NA
+32,71,Colonna,Peugeot 205 GTI,NA,N,NA,NA,NA,NA
+33,91,Wheatcroft,Talbot Samba,NA,N,NA,NA,NA,NA
+34,90,le Behot,Citroen AX,NA,N,NA,NA,NA,NA
+35,88,"Noceto, Joseph",Talbot Samba,FR,N,NA,NA,NA,NA
+36,73,Pierazzi,MG Maestro,NA,N,NA,NA,NA,NA
+37,65,Bondrille,Citroen AX,FR,A,NA,NA,NA,NA
+38,85,"Salasca, D.",Peugeot 205 GTI,NA,N,NA,NA,NA,NA
+39,60,"Bassoul, F.",Citroen BX,FR,A,NA,NA,NA,NA
+40,66,"Maurel, Bernard",Citroen AX,FR,A,NA,NA,NA,NA
+41,81,Bouin,Citroen Visa,NA,N,NA,NA,NA,NA
+42,80,"Malegarie, Alain",Peugeot 205 GTI,FR,N,NA,NA,NA,NA
+NA,2,"Kankkunen, Juha",Toyota Celica GT-4 (ST165),FI,A,NA,NA,SS23,engine
+NA,7,"Recalde, Jorge",Lancia Delta Integrale,AR,N,NA,NA,SS11,steering
+NA,10,"Chauche, Francois",Lancia Delta Integrale,FR,N,NA,NA,SS7,accident
+NA,14,"del Zoppo, Giovanni",Lancia Delta Integrale,IT,N,NA,NA,SS3,front differential
+NA,15,"Duez, Marc",BMW M3,BE,A,NA,NA,SS10,accident
+NA,18,"Krecek, Ladislav",Skoda 130L,CS,A,NA,NA,SS10,gearbox
+NA,20,Joyes,Renault 21 Turbo,NA,N,NA,NA,NA,unknown
+NA,21,"Bugalski, Philippe",Renault 21 Turbo,FR,N,NA,NA,SS19,road accident
+NA,23,"Bernardini, Patrick",BMW 325i,FR,A,NA,NA,SS25,engine
+NA,24,"Panciatici, Jacques",Alfa Romeo 75,FR,A,NA,NA,SS3,engine
+NA,27,"Gardavot, Christian",Ford Sierra RS Cosworth,FR,N,NA,NA,NA,unknown
+NA,28,"Montagne, Dany",Citroen AX,FR,A,NA,NA,NA,unknown
+NA,30,"Raymond, Serge",Citroen AX,FR,A,NA,NA,NA,unknown
+NA,31,"Leandri, Francois",Volkswagen Golf GTI 16V,FR,A,NA,NA,NA,unknown
+NA,32,"Jacques, Denise",Citroen AX,FR,A,NA,NA,NA,accident
+NA,33,"Deriu, Jean-Pierre",Renault 5 GT Turbo,FR,N,NA,NA,NA,unknown
+NA,34,"Neri, Michel",Renault 5 GT Turbo,FR,N,NA,NA,NA,unknown
+NA,35,"Casanova, Gilbert",Peugeot 205 GTI,FR,N,NA,NA,NA,unknown
+NA,36,Coudert,Peugeot 205 GTI,NA,A,NA,NA,NA,unknown
+NA,37,"Torre, Jean-Claude",Renault 5 GT Turbo,FR,N,NA,NA,NA,unknown
+NA,38,Andreucci,Opel Manta,NA,A,NA,NA,NA,unknown
+NA,40,"Manzagol, Jean-Pierre",Renault 5 GT Turbo,FR,N,NA,NA,NA,unknown
+NA,41,"Ayme, Jean-Paul",Ford Sierra RS Cosworth,FR,N,NA,NA,NA,unknown
+NA,45,Albertini,Renault 5 GT Turbo,NA,N,NA,NA,NA,unknown
+NA,46,Paul,Renault 5 GT Turbo,NA,N,NA,NA,NA,unknown
+NA,47,Orsini,Renault 5 GT Turbo,NA,N,NA,NA,NA,unknown
+NA,49,Pisano,Renault 5 GT Turbo,NA,N,NA,NA,NA,unknown
+NA,50,Rossi,Renault 5 GT Turbo,NA,N,NA,NA,NA,unknown
+NA,51,Damiani,BMW M3,NA,N,NA,NA,NA,unknown
+NA,52,Sechi,Renault 5 GT Turbo,NA,N,NA,NA,NA,unknown
+NA,53,"Fabre, Jean-Michel",Lancia Delta,FR,N,NA,NA,NA,unknown
+NA,54,Faggianelli,Renault 5 GT Turbo,NA,N,NA,NA,NA,unknown
+NA,55,"Golay, Michel",Mazda 323 4WD,CH,N,NA,NA,NA,unknown
+NA,56,Courilleau,Renault 5 GT Turbo,NA,N,NA,NA,NA,unknown
+NA,57,Jongerlinck,Renault 5 GT Turbo,FR,N,NA,NA,NA,unknown
+NA,58,"de Fresquet, Elizabeth",Peugeot 205 GTI,FR,A,NA,NA,NA,unknown
+NA,59,Delcroix,Peugeot 205 GTI,NA,A,NA,NA,NA,unknown
+NA,61,"Labrot, Claude",Opel Corsa,FR,A,NA,NA,NA,unknown
+NA,62,Bayol,Citroen AX,NA,A,NA,NA,NA,unknown
+NA,64,Boniface,Citroen AX,NA,A,NA,NA,NA,unknown
+NA,67,Muller,Renault 5 GT Turbo,NA,A,NA,NA,NA,unknown
+NA,70,Meffre,Volkswagen Golf GTi,NA,N,NA,NA,NA,unknown
+NA,74,Barbolosi,Peugeot 205 GTI,NA,N,NA,NA,NA,unknown
+NA,76,Pugliese,Lancia Y10,NA,N1,NA,NA,NA,unknown
+NA,77,"Santoni, Jean-Marie",Peugeot 205 GTI,FR,N,NA,NA,NA,unknown
+NA,78,"Deledda, Santo",Peugeot 205 GTI,IT,N,NA,NA,NA,unknown
+NA,82,"Patarozzi, Jean-Francois",Peugeot 205 GTI,FR,N,NA,NA,NA,unknown
+NA,84,Bourcier,Peugeot 205 GTI,NA,N,NA,NA,NA,unknown
+NA,92,Mattei,Citroen AX,NA,N,NA,NA,NA,unknown
+NA,93,Sagnard,Talbot Samba,NA,N,NA,NA,NA,unknown
+NA,95,Papini,Talbot Samba,NA,B,NA,NA,NA,unknown

@@ -1,0 +1,99 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,4,"Biasion, Massimo",Lancia Delta Integrale,IT,A8,7h 13m 27s,NA,NA,NA
+2,6,"Auriol, Didier",Lancia Delta Integrale,FR,A,+6m 27s,NA,NA,NA
+3,1,"Saby, Bruno",Lancia Delta Integrale,FR,A,+7m 41s,NA,NA,NA
+4,7,"Mikkola, Hannu",Mazda 323 4WD,FI,A,+12m 14s,NA,NA,NA
+5,2,"Kankkunen, Juha",Toyota Celica GT-4 (ST165),FI,A,+14m 49s,NA,NA,NA
+6,10,"Snijers, Patrick",Toyota Celica GT-4 (ST165),BE,A,+18m 11s,NA,NA,NA
+7,11,"Cerrato, Dario",Lancia Delta Integrale,IT,A,+30m 54s,NA,NA,NA
+8,18,"Duez, Marc",BMW M3,BE,A,+34m 02s,NA,NA,NA
+9,17,"de Martini, Paola",Audi 90 quattro,IT,A,+45m 06s,NA,NA,NA
+10,19,"Oreille, Alain",Renault 5 GT Turbo,FR,N,+46m 06s,NA,NA,NA
+11,23,"Spiliotis, Christophe",Audi Coupe,MC,A,+47m 47s,NA,NA,NA
+12,22,"de Mevius, Gregoire",Mazda 323 4WD,BE,N,+47m 50s,NA,NA,NA
+13,24,"Balas, Bertrand",Lancia Delta Integrale,FR,N,+48m 25s,NA,NA,NA
+14,27,"Ferreux, Eric",Renault 5 GT Turbo,CH,N,+53m 44s,NA,NA,NA
+15,140,"Duchene, Benoit",Renault 5 GT Turbo,FR,N,+59m 10s,NA,NA,NA
+16,40,"Gardere, Paul",Lancia Delta Integrale,FR,N,+1h 00m 19s,NA,NA,NA
+17,117,"Gerber, Michael",Lancia Delta Integrale,DE,N,+1h 01m 22s,NA,NA,NA
+18,45,"Renoux, Gilbert",Peugeot 205 GTI,FR,N,+1h 03m 02s,NA,NA,NA
+19,43,"Magaud, Patrick",Citroen AX,FR,A,+1h 06m 36s,NA,NA,NA
+20,49,"Ayme, Jean-Paul",Ford Sierra Cosworth,FR,N,+1h 07m 13s,NA,NA,NA
+21,60,"Keller, Erwin",Daihatsu Charade GTI,CH,N,+1h 08m 03s,NA,NA,NA
+22,26,"Neyret, Pascale",Lancia Delta Integrale,FR,N,+1h 09m 46s,NA,NA,NA
+23,33,"Fritzinger, Klaus",Toyota Celica GT-4 (ST165),DE,A,+1h 12m 56s,NA,NA,NA
+24,136,"Cornu, Stephane",Peugeot 205 GTI,FR,N,+1h 13m 59s,NA,NA,NA
+25,58,"Egal, Jean",Opel Kadett GSI,FR,N,+1h 15m 20s,NA,NA,NA
+26,48,"Carron, Philippe",Daihatsu Charade GTI,CH,N,+1h 16m 39s,NA,NA,NA
+27,41,"Orengo, Bernard",Lancia Delta Integrale,FR,N,+1h 16m 46s,NA,NA,NA
+28,89,"Gunther, Klaus",Lancia Delta Integrale,DE,A,+1h 17m 11s,NA,NA,NA
+29,153,"Berard, Michel",Renault 5 GT Turbo,FR,N,+1h 23m 51s,NA,NA,NA
+30,20,"Turiani, Auguste",Lancia Delta Integrale,MC,N,+1h 24m 05s,NA,NA,NA
+31,54,"Thuriot, Xavier",Peugeot 205 GTI,FR,A,+1h 26m 34s,NA,NA,NA
+32,83,Ferrara,Lancia Delta Integrale,NA,A,+1h 26m 47s,NA,NA,NA
+33,59,Greminger,Lancia Delta Integrale,NA,N,+1h 26m 55s,NA,NA,NA
+34,72,"Pellerey, Alain",Citroen AX,FR,N,+1h 27m 08s,NA,NA,NA
+35,51,"Helle, Holger",Ford Sierra Cosworth,DK,A,+1h 29m 57s,NA,NA,NA
+36,88,"Mattei, Thierry",Peugeot 309 GTI,FR,N,+1h 30m 30s,NA,NA,NA
+37,61,'Dgemo',Peugeot 205 GTI,NA,N,+1h 32m 32s,NA,NA,NA
+38,29,Bertapelle,Lancia Delta Integrale,NA,N,+1h 32m 46s,NA,NA,NA
+39,46,"Fabre, E.",Peugeot 205 GTI,NA,A,+1h 33m 53s,NA,NA,NA
+40,168,"Dumas, Maurice",Peugeot 205 Rallye,FR,N,+1h 34m 39s,NA,NA,NA
+41,155,"le Masson, Jean-Yves",Volkswagen Golf GTI 16V,FR,N,+1h 35m 07s,NA,NA,NA
+42,180,"Jaussaud, Bernard",Renault 5 GT Turbo,FR,N,+1h 35m 19s,NA,NA,NA
+43,160,"Bour, Michel",Renault 5 GT Turbo,FR,N,+1h 37m 34s,NA,NA,NA
+44,142,Tranier,Peugeot 205 GTI,FR,N,+1h 39m 12s,NA,NA,NA
+45,128,Persico,Renault 5 GT Turbo,NA,N,+1h 39m 23s,NA,NA,NA
+46,39,"du Castel, Xavier",BMW 325i,FR,A,+1h 39m 26s,NA,NA,NA
+47,50,Vicario,Fiat Uno Turbo,NA,A,+1h 41m 14s,NA,NA,NA
+48,56,Marzari,Fiat Uno Turbo,NA,A,+1h 41m 53s,NA,NA,NA
+49,104,Cheynet,Renault 5 GT Turbo,FR,A,+1h 45m 07s,NA,NA,NA
+50,55,"Peuplier, Bernard",Volkswagen Golf GTi,FR,A,+1h 46m 40s,NA,NA,NA
+51,66,"Bonfils, M.",Renault 21 Turbo,NA,N,+1h 48m 23s,NA,NA,NA
+52,75,"Kuhlewein, Gunther",Lancia Delta HF 4WD,DE,A,+1h 48m 44s,NA,NA,NA
+53,141,"Tosello, Remi",Peugeot 205 GTI,FR,N,+1h 48m 49s,NA,NA,NA
+54,137,"Fillet, J.",Volkswagen Golf GTi,FR,N,+1h 49m 04s,NA,NA,NA
+55,106,"Caminada, Rene",Volkswagen Golf GTI 16V,FR,A,+1h 50m 20s,NA,NA,NA
+56,85,"Ottan, Jean-Francois",Toyota Corolla,FR,N,+1h 54m 18s,NA,NA,NA
+57,130,"Mallen, Eric",Lancia Delta Integrale,FR,N,+1h 54m 49s,NA,NA,NA
+58,109,"Courtial, S.",Renault 11 Turbo,FR,A,+1h 54m 52s,NA,NA,NA
+59,171,Girard,Peugeot 205 GTI,NA,N,+1h 54m 58s,NA,NA,NA
+60,95,Jouve,Citroen AX,FR,A,+1h 55m 01s,NA,NA,NA
+61,129,Dulaire,Renault 5 GT Turbo,NA,N,+1h 56m 52s,NA,NA,NA
+62,162,"Bougault, Andre",Opel Kadett GSi,FR,N,+1h 56m 54s,NA,NA,NA
+63,156,Mazet,Renault 5 GT Turbo,NA,N,+1h 59m 27s,NA,NA,NA
+64,146,Rousseaux,Lancia Delta Integrale,FR,N,+2h 00m 16s,NA,NA,NA
+65,143,"Vold-Johanssen, Leif",Volkswagen Golf GTi,NO,N,+2h 00m 29s,NA,NA,NA
+66,99,"Magri, Stefano",Peugeot 205 GTI,IT,A,+2h 03m 53s,NA,NA,NA
+67,175,"le Cozanet, Robert",Peugeot 205 GTI,FR,N,+2h 04m 28s,NA,NA,NA
+68,132,"Ballestin, Artemio",Lancia Delta Integrale,IT,N,+2h 05m 06s,NA,NA,NA
+69,76,"Nishiyama, Hiroshi",Mazda 323 4WD,JP,N,+2h 05m 10s,NA,NA,NA
+70,108,"Morthier, Jean-Pierre",Volkswagen Golf GTi,CH,A,+2h 05m 40s,NA,NA,NA
+71,164,Courilleau,Renault 5 GT Turbo,NA,N,+2h 06m 05s,NA,NA,NA
+72,125,l'Huillier,Mazda 323 4WD,NA,N,+2h 06m 39s,NA,NA,NA
+73,103,Daniel,Talbot Samba,NA,A,+2h 08m 07s,NA,NA,NA
+74,92,Salvatico,Lancia Delta Integrale,NA,A,+2h 14m 01s,NA,NA,NA
+75,158,"Sauzon, Jean-Louis",Volkswagen Golf GTI 16V,FR,N,+2h 17m 15s,NA,NA,NA
+76,100,"Planche, Francis",Citroen AX,FR,A,+2h 21m 45s,NA,NA,NA
+77,174,"Berisonzi, Maurizio",Peugeot 205 GTI,IT,N,+2h 23m 35s,NA,NA,NA
+78,149,"Pollero, P.L.",Peugeot 205 Rallye,IT,N,+2h 24m 29s,NA,NA,NA
+79,82,"Pugliese, Patrick",Peugeot 205 GTI,FR,A,+2h 28m 23s,NA,NA,NA
+80,102,Bruguiere,Talbot Samba,NA,A,+2h 30m 49s,NA,NA,NA
+81,91,"Masdeu Rioja, Josep",Ford Fiesta,ES,A,+2h 36m 06s,NA,NA,NA
+82,169,Gundersen,Ford Sierra Cosworth 4x4,NO,N,+2h 45m 28s,NA,NA,NA
+83,131,Martin,Lancia Delta Integrale,NA,N,+2h 54m 22s,NA,NA,NA
+84,21,"Deila, Piergiorgio",Lancia Delta Integrale,IT,N,NA,NA,NA,NA
+85,9,"Eklund, Per",Nissan March Turbo,SE,A,+6h 26m 24s,NA,NA,NA
+87,16,"Vatanen, Ari",Mitsubishi Galant VR-4,FI,A,+6h 49m 44s,NA,NA,NA
+NA,3,"Salonen, Timo",Mazda 323 4WD,FI,A,NA,NA,SS5,OTL
+NA,5,"Waldegard, Bjorn",Toyota Celica GT-4 (ST165),SE,A,NA,NA,SS13,engine
+NA,8,"Fiorio, Alessandro",Lancia Delta Integrale,IT,A,NA,NA,SS5,accident
+NA,12,"Gaban, Pascal",Lancia Delta Integrale,BE,N,NA,NA,SS3,electrics
+NA,14,"Ballet, Jean-Pierre",Peugeot 205 GTI,FR,A,NA,NA,SS3,rotor arm
+NA,15,"Sainz, Carlos",Toyota Celica GT-4 (ST165),ES,A,NA,NA,SS9,accident
+NA,25,"Bugalski, Philippe",Renault 21 Turbo,FR,N,NA,NA,SS2,engine
+NA,28,Bos,Lancia Delta Integrale,FR,A,NA,NA,SS4,rear axle
+NA,93,"Ormo Sero, Pompeyo",Ford Fiesta XR2,ES,A,NA,NA,NA,not qualified to start final day
+NA,114,"Skoghag, Fredrik",Lancia Delta Integrale,SE,N,NA,NA,SS6,unknown
+NA,120,"Juve Raventos, Josep",Renault 5 GT Turbo,ES,N,NA,NA,NA,not qualified to start final day
+NA,176,"Martinez, Merce",Citroen AX,ES,N,NA,NA,final day,fire

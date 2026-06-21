@@ -1,0 +1,17 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,6,"Kankkunen, Juha",Lancia Delta HF Integrale 16v,FI,A8,2h 07m 10s,NA,NA,NA
+2,4,"Ericsson, Mikael",Toyota Celica GT-4 (ST165),SE,A,+26m 24s,NA,NA,NA
+3,1,"Recalde, Jorge",Lancia Delta HF Integrale 16v,AR,A,+39m 03s,NA,NA,NA
+4,3,"Waldegard, Bjorn",Toyota Celica GT-4 (ST165),SE,A,+1h 48m 58s,NA,NA,NA
+5,5,"Blomqvist, Stig",Nissan Sunny GTI-R,SE,A,+3h 10m 14s,NA,NA,NA
+6,10,"Duncan, Ian",Subaru Legacy RS,KE,A,+3h 40m 22s,NA,NA,NA
+7,9,"Kirkland, Mike",Nissan Sunny GTI-R,KE,A,+3h 57m 25s,NA,NA,NA
+8,12,"Shinozuka, Kenjiro",Mitsubishi Galant VR-4,JP,A,+5h 35m 25s,NA,NA,NA
+9,43,"Jack, Guy",Daihatsu Charade GTI,KE,A,+7h 50m 24s,NA,NA,NA
+10,24,"Anthony, Steve",Daihatsu Charade 1.3i,KE,A,+8h 15m 10s,NA,NA,NA
+12,19,"Hughes, Lynda",Daihatsu Charade 1.3i,KE,A,+8h 32m 20s,NA,NA,NA
+14,32,"Hughes, Michael",Subaru Legacy RS,KE,N,+9h 02m 41s,NA,NA,NA
+NA,2,"Sainz, Carlos",Toyota Celica GT-4 (ST165),ES,A,NA,NA,TC62,engine
+NA,7,"Biasion, Massimo",Lancia Delta HF Integrale 16v,IT,A,NA,NA,TC22,road accident
+NA,8,"Stohl, Rudolf",Audi 90 quattro,AT,A,NA,NA,TC9,oil pump
+NA,11,"Llewellin, David",Nissan Sunny GTI-R,GB,A,NA,NA,TC10,road accident

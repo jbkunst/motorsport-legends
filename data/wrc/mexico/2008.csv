@@ -1,0 +1,41 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Loeb, Sebastien",Citroen C4 WRC,FR,A8,"3h 33m 29,9s",NA,NA,NA
+2,6,"Atkinson, Christopher",Subaru Impreza WRC2007,AU,A8,"+1m 06,1s",NA,NA,NA
+3,4,"Latvala, Jari-Matti",Ford Focus RS WRC 07,FI,A8,"+1m 39,7s",NA,NA,NA
+4,3,"Hirvonen, Mikko",Ford Focus RS WRC 07,FI,A8,"+3m 38,7s",NA,NA,NA
+5,10,"Solberg, Henning",Ford Focus RS WRC 07,NO,A8,"+4m 57,9s",0:10,NA,NA
+6,8,"Wilson, Matthew",Ford Focus RS WRC 07,GB,A8,"+6m 28,9s",NA,NA,NA
+7,9,"Villagra, Federico",Ford Focus RS WRC 07,AR,A8,"+19m 03,0s",2:00,NA,NA
+8,42,"Ogier, Sebastien",Citroen C2 S1600,FR,A6,"+25m 24,9s",0:30,NA,NA
+9,32,"Molder, Jaan",Suzuki Swift S1600,EE,A6,"+26m 56,8s",NA,NA,NA
+10,35,"Kosciuszko, Michal",Suzuki Swift S1600,PL,A6,"+28m 30,1s",NA,NA,NA
+11,5,"Solberg, Petter",Subaru Impreza WRC2007,NO,A8,"+30m 06,0s",NA,NA,NA
+12,33,"Burkart, Aaron Nicolai",Citroen C2 S1600,DE,A6,"+31m 26,7s",NA,NA,NA
+13,41,"Sandell, Patrik",Renault Clio S1600,SE,A6,"+33m 10,6s",1:20,NA,NA
+14,62,"Guerra Latapi, Benito",Mitsubishi Lancer Evo VIII,MX,N4,"+33m 19,7s",NA,NA,NA
+15,14,"Rautenbach, Conrad",Citroen C4 WRC,ZW,A8,"+34m 04,1s",NA,NA,NA
+16,2,"Sordo Castillo, Daniel",Citroen C4 WRC,ES,A8,"+34m 15,1s",NA,NA,NA
+17,65,"Salgado, Rodrigo",Mitsubishi Lancer Evo IX,MX,N4,"+38m 54,7s",0:10,NA,NA
+18,66,"de Izaurieta, Jose Ignacio",Mitsubishi Lancer Evo IX,MX,N4,"+40m 23,0s",0:20,NA,NA
+19,64,"Izquierdo, Carlos",Mitsubishi Lancer Evo VI,MX,N4,"+56m 18,9s",NA,NA,NA
+20,68,"Cortes, Jose",Mitsubishi Lancer Evo IX,MX,N4,"+1h 04m 19,1s",0:10,NA,NA
+21,46,"Gallagher, Shaun",Citroen C2 S1600,IE,A6,"+1h 10m 46,1s",30:00,NA,NA
+22,31,"Prokop, Martin",Citroen C2 S1600,CZ,A6,"+1h 15m 13,3s",NA,NA,NA
+23,38,"Fanari, Francesco",Citroen C2 S1600,IT,R2,"+1h 17m 58,9s",NA,NA,NA
+24,72,"de Alcazar, Raul",Peugeot 206,MX,A6,"+1h 41m 23,7s",2:40,NA,NA
+25,74,"Espinoza, Remy",Renault Clio,CR,N3,"+1h 45m 10,4s",1:30,NA,NA
+26,79,"Ponce, Jose Manuel",Peugeot 206,MX,A6,"+2h 20m 34,7s",3:30,NA,NA
+27,70,"Sarmiento, Juan Carlos",Peugeot 206,MX,A6,"+2h 27m 22,1s",NA,NA,NA
+28,76,"Orduna, Luis",Peugeot 206,MX,A6,"+2h 31m 47,4s",2:00,NA,NA
+NA,7,"Galli, Gianluigi",Ford Focus RS WRC 07,IT,A8,NA,NA,SS4,mechanical
+NA,11,"Gardemeister, Toni",Suzuki SX4 WRC,FI,A8,NA,NA,SS4,engine
+NA,12,"Andersson, Per-Gunnar",Suzuki SX4 WRC,SE,A8,NA,NA,TC3B,engine
+NA,15,"Trivino Bujalil, Ricardo",Peugeot 206 WRC,MX,A8,NA,NA,post-rally,illegal driving gloves
+NA,40,"Komljenovic, Milos",Renault Clio,RS,A7,NA,NA,SS5,engine
+NA,61,"Kopecky, Jan",Fiat Grande Punto Abarth S2000,CZ,N4,NA,NA,SS2,oil pump
+NA,63,"Pavlides, Spyros",Subaru Impreza,CY,N4,NA,NA,TC0,unknown
+NA,67,"Chavez, Omar",Peugeot 206,MX,A6,NA,NA,TC8D,unknown
+NA,69,"Palacios, Jose Felix",Mitsubishi Lancer Evo V,MX,N4,NA,NA,TC16A,mechanical
+NA,75,"Loranca, Alfredo",Renault Clio,MX,N3,NA,NA,SS11,suspension
+NA,77,"Tejada, Arturo",Peugeot 206,MX,A6,NA,NA,SS15,mechanical
+NA,78,"Ramirez, Carlos Alberto",Peugeot 206,MX,A6,NA,NA,SS11,mechanical

@@ -1,0 +1,26 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,7,"Latvala, Jari-Matti",Toyota Yaris WRC,FI,RC1,"2h 59m 52,0s",NA,NA,NA
+2,6,"Paddon, Hayden",Hyundai i20 Coupe WRC,NZ,RC1,"+32,5s",NA,NA,NA
+3,10,"Ostberg, Mads",Citroen C3 WRC,NO,RC1,"+52,2s",NA,NA,NA
+4,9,"Lappi, Esapekka",Toyota Yaris WRC,FI,RC1,"+1m 02,3s",NA,NA,NA
+5,1,"Ogier, Sebastien",Ford Fiesta RS WRC 2017,FR,RC1,"+2m 30,8s",NA,NA,NA
+6,2,"Evans, Elfyn",Ford Fiesta RS WRC 2017,GB,RC1,"+3m 05,1s",NA,NA,NA
+7,11,"Breen, Craig",Citroen C3 WRC,IE,RC1,"+8m 59,0s",3:50,NA,NA
+8,33,"Heller, Alberto",Ford Fiesta,CL,RC2,"+22m 28,5s",NA,NA,NA
+9,74,"Glenney, Steve",Skoda Fabia,AU,RC2,"+27m 01,8s",NA,NA,NA
+10,21,"Serderidis, Jourdan",Ford Fiesta RS WRC,GR,RC1,"+35m 14,1s",NA,NA,NA
+11,4,"Mikkelsen, Andreas",Hyundai i20 Coupe WRC,NO,RC1,"+43m 21,9s",NA,NA,NA
+12,34,"Linari, Gianluca",Subaru Impreza WRX,IT,RC2,"+49m 48,4s",NA,NA,NA
+13,71,"Evans, Eli",Skoda Fabia,AU,RC2,"+1h 05m 11,5s",NA,NA,NA
+14,80,"Bates, Lewis",Toyota Corolla,AU,ASN,"+1h 13m 46,8s",NA,NA,NA
+15,73,"Gill, Gaurav Singh",Ford Fiesta,IN,RC2,"+1h 14m 28,0s",NA,NA,NA
+NA,3,"Suninen, Teemu",Ford Fiesta RS WRC 2017,FI,RC1,NA,NA,TC23A,mechanical
+NA,5,"Neuville, Thierry",Hyundai i20 Coupe WRC,BE,RC1,NA,NA,SS22,mechanical
+NA,8,"Tanak, Ott",Toyota Yaris WRC,EE,RC1,NA,NA,SS23,accident
+NA,31,"Heller, Pedro",Ford Fiesta,CL,RC2,NA,NA,SS20,mechanical
+NA,32,"Kremer, Armin",Skoda Fabia,DE,RC2,NA,NA,TC21B,mechanical
+NA,61,"Brazzoli, Enrico",Citroen DS3,IT,RC3,NA,NA,SS14,mechanical
+NA,72,"Bates, Harry",Toyota Yaris,AU,ASN,NA,NA,SS14,mechanical
+NA,76,"Horan, Raana",Skoda Fabia,NZ,RC2,NA,NA,TC18C,mechanical
+NA,78,"Morton, Wayne",Toyota Corolla,AU,ASN,NA,NA,SS19,accident
+NA,79,"Masumura, Atsushi",Mitsubishi Lancer Evo X,JP,RC2,NA,NA,TC18C,mechanical

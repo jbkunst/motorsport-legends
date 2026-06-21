@@ -1,0 +1,68 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"Gronholm, Marcus",Ford Focus RS WRC 06,FI,A8,"3h 28m 16,3s",NA,NA,NA
+2,4,"Hirvonen, Mikko",Ford Focus RS WRC 06,FI,A8,"+2m 23,4s",NA,NA,NA
+3,8,"Solberg, Henning",Peugeot 307WRC Evo2,NO,A8,"+3m 06,0s",NA,NA,NA
+4,14,"Pons, Xavier",Citroen Xsara WRC,ES,A8,"+3m 27,4s",NA,NA,NA
+5,10,"Katajamaki, Kosti",Ford Focus RS WRC 04,FI,A8,"+3m 28,5s",NA,NA,NA
+6,6,"Atkinson, Christopher",Subaru Impreza WRC2006,AU,A8,"+3m 36,5s",NA,NA,NA
+7,2,"Sordo Castillo, Daniel",Citroen Xsara WRC,ES,A8,"+4m 24,8s",NA,NA,NA
+8,7,"Stohl, Manfred",Peugeot 307WRC Evo2,AT,A8,"+4m 30,3s",NA,NA,NA
+9,16,"Duval, Francois",Skoda Fabia WRC 05,BE,A8,"+5m 35,6s",NA,NA,NA
+10,12,"Aigner, Andreas",Skoda Fabia WRC 05,AT,A8,"+6m 57,4s",NA,NA,NA
+11,11,"Rovanpera, Harri",Skoda Fabia WRC 05,FI,A8,"+8m 42,9s",NA,NA,NA
+12,9,"Wilson, Matthew",Ford Focus RS WRC 04,GB,A8,"+9m 51,9s",NA,NA,NA
+13,5,"Solberg, Petter",Subaru Impreza WRC2006,NO,A8,"+10m 02,2s",NA,NA,NA
+14,20,"Kazaz, Ercan",Subaru Impreza,TU,A8,"+18m 25,9s",0:20,NA,NA
+15,62,"Yurdakul, Emre",Ford Focus WRC,TU,A8,"+28m 28,4s",1:20,NA,NA
+16,33,"Aava, Urmo",Suzuki Swift S1600,EE,A6,"+33m 50,2s",NA,NA,NA
+17,39,"Rautenbach, Conrad",Renault Clio S1600,ZW,A6,"+34m 20,9s",NA,NA,NA
+18,45,"Beres, Josef",Suzuki Ignis S1600,SK,A6,"+34m 29,7s",1:40,NA,NA
+19,48,"Wilks, Guy",Suzuki Swift S1600,GB,A6,"+36m 00,3s",0:50,NA,NA
+20,32,"Meeke, Kris",Citroen C2 S1600,GB,A6,"+37m 04,6s",NA,NA,NA
+21,49,"Prokop, Martin",Citroen C2 S1600,CZ,A6,"+39m 38,7s",0:40,NA,NA
+22,42,"Pressac, Julien",Citroen C2 S1600,FR,A6,"+44m 06,7s",NA,NA,NA
+23,82,"Shapovalov, Yury",Mitsubishi Lancer Evo VIII,UA,N4,"+45m 14,6s",NA,NA,NA
+24,52,"Casier, Bernd",Renault Clio S1600,BE,A6,"+46m 54,6s",NA,NA,NA
+25,51,"Kara, Fatih",Renault Clio S1600,TU,A6,"+48m 08,1s",NA,NA,NA
+26,73,"Farrah, Amjad",Mitsubishi Lancer Evo IX,JO,N4,"+49m 30,0s",0:20,NA,NA
+27,44,"Kosciuszko, Michal",Suzuki Ignis S1600,PL,A6,"+51m 53,9s",NA,NA,NA
+28,72,"Ozseyhan, Hasan",Subaru Impreza,TU,N4,"+54m 55,1s",1:00,NA,NA
+29,67,"Dinc, Hakan",Subaru Impreza,TU,N4,"+55m 27,8s",NA,NA,NA
+30,41,"Sandell, Patrik",Renault Clio S1600,SE,A6,"+56m 01,0s",NA,NA,NA
+31,54,"Burkart, Aaron Nicolai",Citroen C2 S1600,DE,A6,"+1h 01m 37,6s",NA,NA,NA
+32,37,"Valousek, Pavel",Suzuki Swift S1600,CZ,A6,"+1h 02m 26,3s",NA,NA,NA
+33,75,"Ersonmez, Murat",Subaru Impreza,TU,N4,"+1h 02m 39,1s",NA,NA,NA
+34,69,"Cukurova, Burak",Fiat Palio S1600,TU,A6,"+1h 03m 38,2s",0:10,NA,NA
+35,19,"Besler, Mehmet",Ford Focus WRC,TU,A8,"+1h 03m 54,1s",2:00,NA,NA
+36,64,"Basso, Giandomenico",Fiat Grande Punto Abarth S2000,IT,N4,"+1h 06m 29,2s",NA,NA,NA
+37,77,"Oktem, Tarik",Mitsubishi Lancer Evo VIII,TU,N4,"+1h 06m 30,3s",NA,NA,NA
+38,85,"Celebi, Can",Ford Fiesta,TU,N3,"+1h 08m 48,1s",NA,NA,NA
+39,80,"Razumovskyy, Valeriy",Mitsubishi Lancer Evo VIII,UA,N4,"+1h 09m 38,9s",0:10,NA,NA
+40,83,"Muratoglu, Koray",Ford Fiesta,TU,N3,"+1h 16m 04,0s",2:00,NA,NA
+41,68,"Unal, Hamdi",Fiat Punto S1600,TU,A6,"+1h 17m 01,9s",NA,NA,NA
+42,65,"Isik, Volkan",Fiat Grande Punto Abarth S2000,TU,N4,"+1h 26m 12,3s",NA,NA,NA
+43,46,"Cortinovis, Andrea",Renault Clio,IT,N3,"+1h 34m 16,6s",NA,NA,NA
+44,97,"Ozal, Halim",Fiat Palio,TU,N2,"+1h 37m 21,2s",2:40,NA,NA
+45,84,"Unludogan, Daghan",Ford Fiesta,TU,N3,"+1h 38m 33,0s",NA,NA,NA
+46,79,"Oztemir, Serhat",Mitsubishi Lancer Evo VI,TU,A8,"+1h 41m 11,4s",NA,NA,NA
+47,70,"Rozhukas, Vilius",Suzuki Ignis S1600,LT,A6,"+1h 56m 01,2s",1:00,NA,NA
+48,91,"Orhan, Ogul",Fiat Palio,TU,N2,"+1h 57m 21,0s",4:50,NA,NA
+49,95,"Ozdogan, Osman",Fiat Palio,TU,N2,"+1h 58m 57,7s",3:20,NA,NA
+50,87,"Cetinkaya Bonnet, Burcu",Ford Fiesta,TU,N3,"+2h 05m 56,1s",0:10,NA,NA
+51,101,"Okur, Menderes",Fiat Palio,TU,N2,"+2h 10m 29,7s",3:40,NA,NA
+NA,1,"McRae, Colin",Citroen Xsara WRC,GB,A8,NA,NA,SS19,mechanical
+NA,15,"Kopecky, Jan",Skoda Fabia WRC 05,CZ,A8,NA,NA,SS15,mechanical
+NA,35,"Andersson, Per-Gunnar",Suzuki Swift S1600,SE,A6,NA,NA,TC19D,illegal service
+NA,43,"Molder, Jaan",Suzuki Ignis S1600,EE,A6,NA,NA,TC18,mechanical
+NA,55,"Fiandino, Fabien",Citroen C2 R2,FR,A6,NA,NA,SS18,mechanical
+NA,61,"Sarihan, Adnan",Ford Focus WRC,TU,A8,NA,NA,TC9D,mechanical
+NA,74,"Bostanci, Guven",Mitsubishi Lancer Evo VIII,TU,N4,NA,NA,TC16D,mechanical
+NA,76,"Pulat, Bahri Sinan",Subaru Impreza,TU,N4,NA,NA,SS3,mechanical
+NA,86,"Kucuksari, Adil",Renault Clio,TU,N3,NA,NA,SS12,mechanical
+NA,89,"Erden, Alkan",Peugeot 106,TU,A6,NA,NA,SS1,mechanical
+NA,92,"Ozal, Hasan",Fiat Palio,TU,N2,NA,NA,TC9C,fireproof underwear
+NA,96,"Tuglu, Burak",Fiat Palio,US,N2,NA,NA,TC16D,mechanical
+NA,98,"Diker, Mitat",Fiat Palio,TU,N2,NA,NA,TC9C,fireproof underwear
+NA,99,"Honamli, Serdar",Fiat Palio,TU,N2,NA,NA,TC9C,fireproof underwear
+NA,102,"Coksayar, Didem",Fiat Palio,TU,N2,NA,NA,TC16C,mechanical
+NA,103,"Derici, Suleyman",Fiat Palio,TU,N2,NA,NA,TC9C,fireproof underwear

@@ -1,0 +1,22 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,4,"Warmbold, Achim",Fiat 124 Abarth Spider,DE,G4,8h 28m 14s,NA,NA,NA
+2,91,"Culmbacher, Egon",Wartburg 353,DE,G2,+2h 47m 2s,NA,NA,NA
+3,55,"Stawowiak, Maciej",Polski-Fiat 125p,PL,G1,+3h 40m 17s,NA,NA,NA
+NA,2,"Therier, Jean-Luc",Renault-Alpine A110,FR,G4,NA,NA,NA,missed time control
+NA,3,"Paganelli, Alcide",Fiat 124 Abarth Spider,IT,G4,NA,NA,NA,oil pressure
+NA,7,"Smorawinski, Adam",Porsche Carrera,PL,G3,NA,NA,NA,accident
+NA,12,"Britth, Hans",Ford Capri 2600,SE,G2,NA,NA,post-event,OTL
+NA,21,"Bien, Marian",Polski-Fiat 125p,PL,G2,NA,NA,NA,water pump
+NA,23,"Dobrzanski, Jerzy",Polski-Fiat 125p,PL,G2,NA,NA,post-event,OTL
+NA,24,"Brundza, Stasis",Moskvitsh 412,SU,G2,NA,NA,NA,accident
+NA,26,"Zyszkowski, Ryszard",Polski-Fiat 125p,PL,G2,NA,NA,NA,head gasket
+NA,27,"Rausch, Horst",BMW 1602,DE,G2,NA,NA,NA,unknown
+NA,31,"Girdauskas, Kastitis",Moskvitsh 412,SU,G2,NA,NA,NA,unknown
+NA,34,"Komornicki, Krzysztof",Polski-Fiat 125p,PL,G2,NA,NA,NA,unknown
+NA,35,"Landsberg, Jerzy",Polski-Fiat 125p,PL,G2,NA,NA,NA,unknown
+NA,36,"Morozow, Lew",Moskvitsh 412,SU,G2,NA,NA,post-event,OTL
+NA,49,"Sepp, Hajno",Moskvitsh 412,SU,G1,NA,NA,NA,accident
+NA,57,"Wesstrom, Evert",Toyota Corolla,SE,G1,NA,NA,post-event,OTL
+NA,63,"Varisella, Marek",Polski-Fiat 125p,PL,G2,NA,NA,NA,sump
+NA,70,"Hommel, Peter",Wartburg 353,DD,G2,NA,NA,NA,mechanical
+NA,71,"Fiedor, Stanislaw",Trabant P601,PL,G2,NA,NA,NA,accident

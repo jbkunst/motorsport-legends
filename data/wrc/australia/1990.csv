@@ -1,0 +1,21 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Kankkunen, Juha",Lancia Delta HF Integrale 16v,FI,A8,5h 43m 48s,NA,NA,NA
+2,2,"Sainz, Carlos",Toyota Celica GT-4 (ST165),ES,A,+1m 40s,NA,NA,NA
+3,9,"Fiorio, Alessandro",Lancia Delta HF Integrale 16v,IT,A,+5m 40s,NA,NA,NA
+4,19,"Bourne, Peter",Subaru Legacy RS,NZ,A,+13m 57s,NA,NA,NA
+5,5,"Carlsson, Ingvar",Mazda 323 4WD,SE,A,+17m 01s,NA,NA,NA
+6,8,"de Mevius, Gregoire",Mazda 323 4WD,BE,A,+21m 09s,NA,NA,NA
+7,22,"Makinen, Tommi",Mitsubishi Galant VR-4,FI,N,+25m 56s,NA,NA,NA
+8,13,"Trelles, Gustavo",Lancia Delta HF Integrale 16v,UY,N,+32m 38s,NA,NA,NA
+9,23,"Inoue, Kiyoshi",Mitsubishi Galant VR-4,JP,N,+36m 12s,NA,NA,NA
+10,21,"Ordynski, Ed",Mitsubishi Galant VR-4,AU,N,+36m 43s,NA,NA,NA
+11,12,"Recalde, Jorge",Lancia Delta HF Integrale 16v,AR,N,+38m 12s,NA,NA,NA
+13,15,"Aitken-Walker, Louise",Opel Kadett GSi,GB,A,+52m 31s,NA,NA,NA
+NA,3,"Eriksson, Kenneth",Mitsubishi Galant VR-4,SE,A,NA,NA,SS10,clutch
+NA,6,"Ericsson, Mikael",Toyota Celica GT-4 (ST165),SE,A,NA,NA,SS3,transmission
+NA,7,"Auriol, Didier",Lancia Delta HF Integrale 16v,FR,A,NA,NA,SS3,engine
+NA,10,"Weber, Erwin",Volkswagen Golf Rallye G60,DE,A,NA,NA,SS28,pushed car in control zone
+NA,11,"Millen, Rod",Mazda 323 4WD,NZ,A,NA,NA,End of Leg 1,too far behind
+NA,14,"Oreille, Alain",Renault 5 GT Turbo,FR,N,NA,NA,SS2,accident
+NA,16,"de Martini, Paola",Audi 90 quattro,IT,A,NA,NA,SS16,camshaft
+NA,18,"Dunkerton, Ross",Mitsubishi Galant VR-4,AU,A,NA,NA,SS30,accident

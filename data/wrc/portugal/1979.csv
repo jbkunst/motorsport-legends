@@ -1,0 +1,34 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Mikkola, Hannu",Ford Escort RS1800,FI,G4,9h 13m 52s,NA,NA,NA
+2,3,"Waldegard, Bjorn",Ford Escort RS1800,SE,G4,+2m 44s,NA,NA,NA
+3,4,"Andersson, Ove",Toyota Celica,SE,G2,+21m 08s,NA,NA,NA
+4,11,"Dawson, Andy",Datsun 160J,GB,G2,+47m 45s,NA,NA,NA
+5,10,"Torres, Carlos",Ford Escort RS2000,PT,G1,+51m 57s,NA,NA,NA
+6,16,"Demuth, Harald",Audi 80,DE,G4,+52m 45s,NA,NA,NA
+7,24,"Kottulinsky, Freddy",Audi 80,SE,G4,+1h 38m 46s,NA,NA,NA
+8,21,"Santos, Joaquim",Opel Kadett GT/E,PT,G2,+2h 18m 18s,NA,NA,NA
+9,22,"Ortigao, Jorge",Opel 1904SR,PT,G2,+2h 31m 06s,NA,NA,NA
+10,90,"Baptista, Fernando",Opel 1904SR,PT,G1,+2h 44m 20s,NA,NA,NA
+11,55,"Fernandes, Ramiro",Fiat 124 Abarth,PT,G4,+2h 44m 54s,NA,NA,NA
+12,34,"Dumez, Bernard",Renault 5 Alpine,FR,G2,+2h 58m 55s,NA,NA,NA
+13,74,"Odinet, Michel",Citroen CX2400,FR,G2,+3h 57m 48s,NA,NA,NA
+14,51,"Faas, Jacobus",Opel Kadett GT/E,NL,G1,+4h 01m 20s,NA,NA,NA
+15,82,"Oliveira, Vitor",Opel,PT,G1,+4h 01m 37s,NA,NA,NA
+16,106,"Millon, Natacha",Volkswagen Golf GTi,FR,G1,+6h 22m 41s,NA,NA,NA
+NA,2,"Darniche, Bernard",Lancia Stratos HF,FR,G4,NA,NA,SS7,electrics
+NA,5,"Vatanen, Ari",Ford Escort RS,FI,G4,NA,NA,SS4,driver illness
+NA,6,"Kullang, Anders",Opel Kadett GT/E,SE,G2,NA,NA,SS9,rear axle
+NA,7,"Therier, Jean-Luc",Toyota Celica,FR,G2,NA,NA,SS17,engine
+NA,8,"Queiroz Pereira, Manuel",Vauxhall Chevette 2300,PT,G4,NA,NA,SS10,electrics
+NA,12,"Salvi, Giovanni",Ford Escort RS,PT,G2,NA,NA,SS9,halfshaft
+NA,15,"Luc, Jean-Paul",Citroen CX2400,FR,G2,NA,NA,SS3,head gasket
+NA,17,"Peres, Carlos",Opel Kadett GT/E,PT,G2,NA,NA,SS12,accident
+NA,18,"Nunes, Americo",Porsche 911,PT,G4,NA,NA,SS18,took short-cut
+NA,19,"Vogt, Emil",Porsche 911,DE,G3,NA,NA,NA,suspension
+NA,20,"Moutinho, Joaquim",Ford Escort RS2000,PT,G1,NA,NA,NA,unknown
+NA,23,"Borges, Antonio",Ford Escort RS,PT,G4,NA,NA,NA,engine
+NA,26,"Mendes, Santinho",Datsun Sunny,PT,G2,NA,NA,NA,unknown
+NA,27,"Coppier, Alain",Peugeot 104,FR,G2,NA,NA,NA,engine
+NA,37,"Amaral, Inverno",Ford Escort RS2000,PT,G2,NA,NA,NA,accident
+NA,43,"Goncalves, Jose",Porsche 911,PT,G4,NA,NA,NA,accident
+NA,52,'Jomaro',Datsun 1600SSS,PT,G2,NA,NA,NA,engine

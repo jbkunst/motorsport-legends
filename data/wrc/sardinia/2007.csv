@@ -1,0 +1,83 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"Gronholm, Marcus",Ford Focus RS WRC 06,FI,A8,"3h 48m 42,0s",NA,NA,NA
+2,4,"Hirvonen, Mikko",Ford Focus RS WRC 06,FI,A8,"+29,2s",NA,NA,NA
+3,2,"Sordo Castillo, Daniel",Citroen C4 WRC,ES,A8,"+1m 21,8s",NA,NA,NA
+4,10,"Solberg, Henning",Ford Focus RS WRC 06,NO,A8,"+1m 36,6s",NA,NA,NA
+5,7,"Solberg, Petter",Subaru Impreza WRC2007,NO,A8,"+2m 34,2s",0:10,NA,NA
+6,21,"Gardemeister, Toni",Mitsubishi Lancer WRC05,FI,A8,"+5m 02,1s",NA,NA,NA
+7,5,"Stohl, Manfred",Citroen Xsara WRC,AT,A8,"+5m 28,6s",NA,NA,NA
+8,26,"Hanninen, Juho",Mitsubishi Lancer WRC05,FI,A8,"+9m 31,7s",NA,NA,NA
+9,9,"Latvala, Jari-Matti",Ford Focus RS WRC 06,FI,A8,"+11m 27,7s",NA,NA,NA
+10,8,"Atkinson, Christopher",Subaru Impreza WRC2007,AU,A8,"+16m 19,4s",1:40,NA,NA
+11,12,"Villagra, Federico",Ford Focus RS WRC 06,AR,A8,"+17m 05,1s",NA,NA,NA
+12,16,"Wilson, Matthew",Ford Focus RS WRC 06,GB,A8,"+23m 25,1s",NA,NA,NA
+13,32,"Aava, Urmo",Suzuki Swift S1600,EE,A6,"+26m 21,9s",NA,NA,NA
+14,45,"Andersson, Per-Gunnar",Suzuki Swift S1600,SE,A6,"+27m 31,3s",NA,NA,NA
+15,79,"Manfrinato, Giovanni",Subaru Impreza,IT,N4,"+31m 41,1s",NA,NA,NA
+16,35,"Prokop, Martin",Citroen C2,CZ,A6,"+32m 44,7s",NA,NA,NA
+17,94,"Campedelli, Simone",Mitsubishi Lancer Evo IX,IT,N4,"+32m 45,5s",NA,NA,NA
+18,37,"Burkart, Aaron Nicolai",Citroen C2 S1600,DE,A6,"+35m 31,8s",NA,NA,NA
+19,36,"Molder, Jaan",Suzuki Swift S1600,EE,A6,"+36m 02,2s",NA,NA,NA
+20,71,"Bentivogli, Bruno",Subaru Impreza,IT,N4,"+37m 00,4s",NA,NA,NA
+21,90,"Zanchi, Pierlorenzo",Subaru Impreza,IT,N4,"+37m 28,7s",NA,NA,NA
+22,85,"Ricci, Luigi",Subaru Impreza,IT,N4,"+38m 18,6s",NA,NA,NA
+23,95,"Cenedese, Moreno",Mitsubishi Lancer Evo IX,IT,N4,"+39m 00,8s",0:10,NA,NA
+24,76,"Fanari, Francesco",Subaru Impreza,IT,N4,"+39m 37,5s",NA,NA,NA
+25,34,"Beres, Josef",Renault Clio S1600,SK,A6,"+41m 33,0s",NA,NA,NA
+26,96,"Dettori, Giuseppe",Mitsubishi Lancer Evo IX,IT,N4,"+45m 57,7s",NA,NA,NA
+27,100,"Weijs jr, Hans",Mitsubishi Lancer Evo IX,NL,N4,"+46m 02,2s",0:10,NA,NA
+28,81,"Eugeni, Walter",Subaru Impreza,IT,N4,"+46m 17,8s",NA,NA,NA
+29,44,"Bouffier, Bryan",Citroen C2 R2,FR,A6,"+46m 20,8s",NA,NA,NA
+30,86,"Lunardi, Umberto",Subaru Impreza,IT,N4,"+47m 37,8s",NA,NA,NA
+31,31,"Sandell, Patrik",Renault Clio S1600,SE,A7,"+49m 01,1s",NA,NA,NA
+32,111,"Clark, Barry",Ford Fiesta ST,GB,N4,"+49m 52,3s",NA,NA,NA
+33,75,"Linari, Gianluca",Subaru Impreza,IT,N4,"+49m 59,3s",NA,NA,NA
+34,43,"Rozhukas, Vilius",Suzuki Swift S1600,LT,A6,"+50m 27,3s",1:00,NA,NA
+35,46,"Gallagher, Shaun",Citroen C2 R2,IE,A6,"+51m 00,9s",NA,NA,NA
+36,98,"Marrone, Francesco",Mitsubishi Lancer Evo VI,IT,N4,"+52m 57,7s",4:00,NA,NA
+37,112,"Vertunov, Evgeny",Ford Fiesta ST,RU,N3,"+54m 22,1s",NA,NA,NA
+38,72,"Scandola, Riccardo",Subaru Impreza,IT,N4,"+55m 14,9s",NA,NA,NA
+39,88,"Biolghini, Pablo",Subaru Impreza,IT,N4,"+55m 59,3s",1:30,NA,NA
+40,92,"Kahlfuss, Michael",Mitsubishi Lancer Evo VIII,DE,N4,"+56m 12,8s",NA,NA,NA
+41,101,"Bacco, Giorgio",Subaru Impreza,IT,N4,"+58m 33,1s",NA,NA,NA
+42,97,"Pileri, Tomaso",Mitsubishi Lancer Evo IX,IT,N4,"+1h 00m 01,2s",2:00,NA,NA
+43,50,"Schammel, Gilles",Citroen C2 R2,LU,A6,"+1h 00m 02,0s",2:40,NA,NA
+44,38,"Kosciuszko, Michal",Renault Clio S1600,PL,A6,"+1h 02m 35,7s",0:10,NA,NA
+45,49,"Komljenovic, Milos",Renault Clio,RS,A7,"+1h 05m 18,2s",NA,NA,NA
+46,74,"Mogavero, Gabriele",Subaru Impreza,IT,N4,"+1h 07m 50,2s",0:40,NA,NA
+47,39,"Cortinovis, Andrea",Renault Clio S1600,IT,A6,"+1h 07m 57,5s",NA,NA,NA
+48,105,"Trevisin, Francesco",Subaru Impreza,IT,N4,"+1h 08m 16,1s",NA,NA,NA
+49,73,"Aksakov, Evgeni",Subaru Impreza,RU,N4,"+1h 08m 44,6s",NA,NA,NA
+50,89,"Dionisio, Ermanno",Subaru Impreza,IT,N4,"+1h 08m 52,3s",2:20,NA,NA
+51,77,"Castegnaro, Flavio",Subaru Impreza,IT,N4,"+1h 11m 16,1s",0:50,NA,NA
+52,115,"Hughes, Simon",Ford Fiesta ST,GB,N3,"+1h 12m 28,8s",NA,NA,NA
+53,51,"Auquier, Raphael",Citroen C2 S1600,BE,A6,"+1h 14m 59,6s",2:00,NA,NA
+54,102,"Pitalis, Ezio",Mitsubishi Lancer Evo VI,IT,N4,"+1h 15m 52,4s",2:10,NA,NA
+55,114,"Barbati, Gianni",Ford Fiesta ST,IT,N3,"+1h 16m 22,4s",NA,NA,NA
+56,82,"Petrocco, Lucio",Subaru Impreza,IT,N4,"+1h 20m 28,4s",NA,NA,NA
+57,40,"Benoni, Stefano",Citroen C2 S1600,IT,A6,"+1h 23m 18,9s",1:10,NA,NA
+58,93,"van den Heuvel, Jasper",Mitsubishi Lancer Evo IX,NL,N4,"+1h 23m 37,6s",NA,NA,NA
+59,78,"Montanari, Fabio",Subaru Impreza,IT,N4,"+1h 23m 49,6s",1:40,NA,NA
+60,122,"Weiss, Edith",Renault Clio,DE,A7,"+1h 27m 54,0s",2:10,NA,NA
+61,80,"de Dominicis, Alfredo",Subaru Impreza,IT,N4,"+1h 29m 53,2s",0:30,NA,NA
+62,83,"Valente, Giulio",Subaru Impreza,IT,N4,"+1h 30m 25,0s",1:20,NA,NA
+63,103,"Pistis, Fabio",Subaru Impreza,IT,N4,"+1h 34m 19,6s",NA,NA,NA
+64,113,"Baranauskas, Vytautas",Ford Fiesta ST,LT,N3,"+1h 35m 55,2s",0:20,NA,NA
+65,91,"Errani, Riccardo",Mitsubishi Lancer Evo IX,IT,N4,"+1h 52m 28,3s",4:50,NA,NA
+66,123,"Pranzoni, Gerri",Opel Astra,IT,N3,"+1h 58m 43,0s",2:00,NA,NA
+67,124,"Mela, Giorgio",Citroen Saxo,IT,N2,"+2h 19m 33,7s",1:20,NA,NA
+NA,1,"Loeb, Sebastien",Citroen C4 WRC,FR,A8,NA,NA,SS13,mechanical
+NA,6,"Carlsson, Daniel",Citroen Xsara WRC,SE,A8,NA,NA,TC1,mechanical
+NA,11,"Perez Companc, Luis",Ford Focus RS WRC 06,AR,A8,NA,NA,SS8,mechanical
+NA,22,"Kopecky, Jan",Skoda Fabia WRC 05,CZ,A8,NA,NA,TC12D,mechanical
+NA,23,"Ostberg, Mads",Subaru Impreza,NO,A8,NA,NA,TC12D,mechanical
+NA,24,"MacHale, Gareth",Ford Focus,IE,A8,NA,NA,SS8,mechanical
+NA,33,"Rautenbach, Conrad",Citroen C2,ZW,A6,NA,NA,TC9A,mechanical
+NA,41,"Rueda, Manuel",Renault Clio,ES,A7,NA,NA,TC12D,mechanical
+NA,42,"Pars, Aigar",Suzuki Swift S1600,EE,A6,NA,NA,SS17,mechanical
+NA,47,"Bettega, Alessandro",Ford Fiesta S1600,IT,A6,NA,NA,TC8,mechanical
+NA,48,"Pinomaki, Kalle",Renault Clio,FI,A7,NA,NA,TC9A,mechanical
+NA,84,"d'Innocenzo, Benedetto",Subaru Impreza,IT,N4,NA,NA,TC17,mechanical
+NA,87,"Cellino, Giorgio",Subaru Impreza,IT,N4,NA,NA,TC6D,mechanical
+NA,99,"Catania, Davide",Mitsubishi Lancer Evo IX,IT,N4,NA,NA,TC12D,mechanical
+NA,104,"Caragliu, Bernardo Antonio",Mitsubishi Lancer Evo VI,IT,N4,NA,NA,TC12D,mechanical

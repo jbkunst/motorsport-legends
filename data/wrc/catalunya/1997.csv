@@ -1,0 +1,46 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Makinen, Tommi",Mitsubishi Lancer Evo IV,FI,A8,4h 08m 46s,NA,NA,NA
+2,4,"Liatti, Piero",Subaru Impreza WRC97,IT,A8,+7s,NA,NA,NA
+3,11,"Panizzi, Gilles",Peugeot 306 Maxi,FR,A7,+3m 09s,NA,NA,NA
+4,3,"McRae, Colin",Subaru Impreza WRC97,GB,A8,+3m 34s,NA,NA,NA
+5,14,"Medeghini, Angelo",Subaru Impreza 555,IT,A8,+5m 05s,NA,NA,NA
+6,7,"Madeira, Rui",Subaru Impreza 555,PT,A8,+6m 26s,NA,NA,NA
+7,16,"Azcona, Jaime",Peugeot 306 Maxi,ES,A7,+7m 42s,NA,NA,NA
+8,2,"Nittel, Uwe",Mitsubishi Lancer Evo III,DE,A8,+8m 39s,NA,NA,NA
+9,20,"Sperrer, Raphael",Renault Megane,AT,A7,+9m 46s,NA,NA,NA
+10,5,"Sainz, Carlos",Ford Escort WRC,ES,A8,+9m 57s,NA,NA,NA
+11,19,"Sufan, Raul",Toyota Celica GT-Four (ST205),AR,A8,+16m 32s,NA,NA,NA
+12,21,"Alonso, Daniel",Ford Escort RS2000,ES,A7,+21m 39s,1:00,NA,NA
+13,24,"Trelles, Gustavo",Mitsubishi Lancer Evo III,UY,N4,+22m 29s,NA,NA,NA
+14,29,"Fuster, Miguel",Peugeot 106,ES,A6,+28m 12s,0:10,NA,NA
+15,27,"Fidanza, Antonello",Mitsubishi Lancer Evo III,IT,N4,+31m 51s,NA,NA,NA
+16,67,"Nafria, David",Peugeot 106,ES,N2,+37m 29s,NA,NA,NA
+17,63,"Grino, Jordi",Peugeot 106,ES,N2,+37m 32s,NA,NA,NA
+18,25,"Stohl, Manfred",Mitsubishi Lancer Evo III,AT,N4,+38m 18s,2:10,NA,NA
+19,62,"Vidal, Amador",Peugeot 106,ES,N2,+42m 52s,1:00,NA,NA
+20,33,"Koopal, Francois",Renault Clio Williams,NL,A7,+44m 03s,0:20,NA,NA
+21,60,"Sanfilippo, Ignacio",Peugeot 106,ES,N2,+48m 17s,1:00,NA,NA
+22,64,"Zubillaga, Aitor",Peugeot 106,ES,N2,+50m 13s,1:10,NA,NA
+23,39,"Freire, Paulo",Toyota Celica,PT,N4,+55m 11s,NA,NA,NA
+24,40,"Kahlfuss, Michael",Toyota Celica GT-Four (ST205),DE,N4,+55m 35s,NA,NA,NA
+25,69,"Thiery, Joel",Citroen AX,FR,N2,+1h 00m 24s,NA,NA,NA
+26,56,"Gallen, Benet",Seat Ibiza,ES,A7,+1h 04m 05s,0:10,NA,NA
+27,55,"Nicolas, Josep",Seat Ibiza,ES,A7,+1h 06m 01s,NA,NA,NA
+28,78,"Tapia, Ramon",Peugeot 106,ES,N1,+1h 09m 39s,0:10,NA,NA
+29,53,"Amador, Juan",Renault Clio,VE,N3,+1h 41m 29s,0:10,NA,NA
+30,65,"Poza, Alfonso",Peugeot 106,ES,N2,+1h 49m 27s,0:50,NA,NA
+NA,6,"Schwarz, Armin",Ford Escort WRC,DE,A8,NA,NA,SS9,transmission
+NA,8,"Delecour, Francois",Peugeot 306 Maxi,FR,A7,NA,NA,TC18C,see note (right)
+NA,9,"Thiry, Bruno",Seat Ibiza GTi 16V,BE,A7,NA,NA,SS4,engine
+NA,12,"Gomez Marco, Oriol",Seat Ibiza GTi 16V,ES,A7,NA,NA,SS5,mechanical
+NA,15,"Puras, Jesus",Citroen ZX 16S,ES,A7,NA,NA,TC1A,front suspension
+NA,17,"Rovanpera, Harri",Seat Ibiza GTi 16V,FI,A7,NA,NA,SS9,accident
+NA,18,"Martinez-Conde, Miguel",Renault Megane,ES,A7,NA,NA,SS18,engine
+NA,22,"Sibera, Pavel",Skoda Felicia Kit-Car,CZ,A6,NA,NA,SS6,gearbox
+NA,23,"Triner, Emil",Skoda Felicia Kit-Car,CZ,A6,NA,NA,SS8,lost wheel
+NA,26,"Climent, Luis",Mitsubishi Lancer Evo III,ES,N4,NA,NA,SS18,engine
+NA,28,"Colard, Pierre",Subaru Impreza 555,FR,A8,NA,NA,SS4,mechanical
+NA,32,"Guixeras, David",Peugeot 106,ES,A6,NA,NA,SS4,unknown
+NA,34,"Ballestin, Artemio",Fiat Bravo HGT,IT,A7,NA,NA,SS6,electrical
+NA,70,"Blazquez, Marc",Peugeot 106,ES,N2,NA,NA,SS7,did not restart
+NA,73,"Sola, Daniel",Peugeot 106,ES,N1,NA,NA,SS7,did not restart

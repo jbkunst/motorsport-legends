@@ -1,0 +1,28 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,8,"Tanak, Ott",Toyota Yaris WRC,EE,RC1,"3h 43m 28,9s",NA,NA,NA
+2,5,"Neuville, Thierry",Hyundai i20 Coupe WRC,BE,RC1,"+37,7s",NA,NA,NA
+3,6,"Sordo Castillo, Daniel",Hyundai i20 Coupe WRC,ES,RC1,"+1m 15,7s",NA,NA,NA
+4,1,"Ogier, Sebastien",Ford Fiesta RS WRC 2017,FR,RC1,"+1m 58,6s",NA,NA,NA
+5,4,"Mikkelsen, Andreas",Hyundai i20 Coupe WRC,NO,RC1,"+2m 02,6s",NA,NA,NA
+6,2,"Evans, Elfyn",Ford Fiesta RS WRC 2017,GB,RC1,"+3m 06,3s",NA,NA,NA
+7,10,"Meeke, Kris",Citroen C3 WRC,GB,RC1,"+3m 25,7s",NA,NA,NA
+8,9,"Lappi, Esapekka",Toyota Yaris WRC,FI,RC1,"+4m 32,6s",NA,NA,NA
+9,3,"Suninen, Teemu",Ford Fiesta RS WRC 2017,FI,RC1,"+5m 38,6s",NA,NA,NA
+10,31,"Tidemand, Pontus",Skoda Fabia,SE,RC2,"+12m 15,8s",NA,NA,NA
+11,81,"Veiby, Ole Christian",Skoda Fabia,NO,RC2,"+18m 06,1s",NA,NA,NA
+12,32,"Greensmith, Fergus",Ford Fiesta,GB,RC2,"+19m 54,9s",NA,NA,NA
+13,83,"Cancio, Alejandro",Skoda Fabia,AR,RC2,"+21m 03,3s",NA,NA,NA
+14,12,"al-Qassimi, Khalid",Citroen C3 WRC,AE,RC1,"+21m 18,3s",NA,NA,NA
+15,33,"Heller, Pedro",Ford Fiesta,CL,RC2,"+21m 18,7s",NA,NA,NA
+16,38,"Dominguez Sr., Diego",Hyundai i20,PY,RC2,"+28m 06,4s",0:50,NA,NA
+17,82,"Vidaurre, Cristobal",Skoda Fabia,CL,RC2,"+30m 0,48s",NA,NA,NA
+18,36,"Solans Baldo, Nil",Ford Fiesta,ES,RC2,"+49m 59,7s",NA,NA,NA
+19,88,"Biondi, Sergio Emiliano",Ford Fiesta,AR,ASN,"+1h 57m 38,1s",0:50,NA,NA
+NA,7,"Latvala, Jari-Matti",Toyota Yaris WRC,FI,RC1,NA,NA,SS3,mechanical
+NA,11,"Breen, Craig",Citroen C3 WRC,IE,RC1,NA,NA,TC12C,accident damage
+NA,34,"Bulacia Wilkinson, Marco",Ford Fiesta,BO,RC2,NA,NA,SS9,off road
+NA,35,"Rovanpera, Kalle",Skoda Fabia,FI,RC2,NA,NA,SS17,off road
+NA,37,"Saba Rodriguez, Gustavo",Skoda Fabia,PY,RC2,NA,NA,SS18,mechanical
+NA,39,"Weiler Vargas Pena, Gerardo Tiago",Skoda Fabia,PY,RC2,NA,NA,TC8D,mechanical
+NA,40,"Heller, Alberto",Ford Fiesta,CL,RC2,NA,NA,TC8D,off road
+NA,85,"Padilla, Geronimo Jose",Peugeot 208,AR,ASN,NA,NA,TC8D,mechanical

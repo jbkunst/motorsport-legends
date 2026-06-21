@@ -1,0 +1,41 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"Mikkola, Hannu",Audi quattro A1,FI,B11,7h 17m 24s,NA,NA,NA
+2,1,"Mouton, Michele",Audi quattro A1,FR,B11,+55s,NA,NA,NA
+3,2,"Rohrl, Walter",Lancia Rally 037,DE,B11,+1m 50s,NA,NA,NA
+4,4,"Alen, Markku",Lancia Rally 037,FI,B11,+7m 05s,NA,NA,NA
+5,7,"Vudafieri, Adartico",Lancia Rally 037,IT,B11,+24m 25s,NA,NA,NA
+6,10,"Zanini, Antonio",Talbot Sunbeam,ES,B11,+33m 05s,NA,NA,NA
+7,9,"Wittman, Franz",Audi quattro A1,AT,B11,+36m 32s,NA,NA,NA
+8,12,"Kaby, Terry",Nissan 240 RS,GB,B11,+36m 44s,NA,NA,NA
+9,15,"Santos, Joaquim",Ford Escort RS1800,PT,G4,+59m 14s,0:07,NA,NA
+10,19,"Fischer, Georg",Mitsubishi Lancer 2000 Turbo,AT,G4,+1h 10m 28s,0:02,NA,NA
+11,28,"Bica, Carlos",Ford Escort RS1800,PT,G4,+1h 24m 41s,0:11,NA,NA
+12,42,"Turiani, Auguste",Opel Ascona,MC,G2,+1h 32m 20s,NA,NA,NA
+13,25,"Dorche, Christian",Citroen Visa,FR,B10,+1h 36m 42s,0:02,NA,NA
+14,43,"Ferreira da Cunha, Antonio",Opel Ascona,PT,G2,+1h 44m 21s,NA,NA,NA
+15,38,"Simoes, Oliveira",Ford Escort RS,PT,G2,+1h 53m 20s,0:09,NA,NA
+16,11,"Duez, Marc",Opel Manta GT/E,BE,A7,+1h 56m 52s,NA,NA,NA
+17,65,"Gomes da Costa, Jose",Volkswagen Golf GTi,PT,A6,+2h 07m 58s,0:06,NA,NA
+18,46,"Fernandes, Ramiro",Fiat Ritmo,PT,A7,+2h 09m 39s,NA,NA,NA
+19,26,"Rolo, Manuel",Ford Escort RS,PT,A7,+2h 12m 22s,0:09,NA,NA
+20,50,"Sturken, Nicolas",Ford Escort RS,PT,G2,+2h 19m 48s,NA,NA,NA
+21,53,"Guedes, Joaquim",Toyota Starlet,PT,A5,+2h 26m 31s,0:01,NA,NA
+22,81,"Landeau, Jacques",Opel Kadett GT/E,FR,A7,+2h 35m 01s,0:02,NA,NA
+23,82,"Ahrens Teixeira, Jose",Ford Escort RS2000,PT,A7,+2h 50m 35s,NA,NA,NA
+24,110,"Correia, Eduardo",Toyota Starlet,PT,A5,+3h 00m 40s,0:15,NA,NA
+25,66,"Reynaud, Jean-Michel",Toyota Corolla,FR,A6,+3h 00m 52s,0:01,NA,NA
+26,68,"Torres, Jose",Toyota Trueno,PT,G2,+3h 04m 57s,0:07,NA,NA
+27,79,"Honrath, Horst",Volkswagen Golf GTi,DE,A6,+3h 08m 52s,0:02,NA,NA
+28,73,"Klein, Ewald",Honda Civic,DE,G2,+3h 17m 24s,NA,NA,NA
+29,57,"Amaral, Alfredo",Ford Escort RS2000,PT,A7,+3h 20m 08s,0:33,NA,NA
+30,32,"Breyner, Manuel Mellor",Volkswagen Golf GTi,PT,N2,+4h 07m 57s,0:12,NA,NA
+31,102,"Saraiva, Evaristo",Fiat 127,PT,A5,+4h 31m 10s,0:04,NA,NA
+NA,5,"Therier, Jean-Luc",Renault 5 Turbo,FR,B10,NA,NA,SS20,suspension
+NA,6,"Blomqvist, Stig",Audi quattro A1,SE,B11,NA,NA,SS26,OTL
+NA,8,"Salonen, Timo",Nissan 240 RS,FI,B11,NA,NA,SS27,gearbox
+NA,16,"Rodrigues, Antonio",Opel Ascona 400,PT,G4,NA,NA,SS9,NA
+NA,17,"Borges, Jose Pedro",Ford Escort RS,PT,G4,NA,NA,SS9,alternator
+NA,18,"Torres, Carlos",Ford Escort RS,PT,G4,NA,NA,SS18,OTL
+NA,20,"Mendes, Santinho",Nissan 160J,PT,G2,NA,NA,SS37,accident
+NA,31,"Chomat, Maurice",Citroen Visa,FR,B10,NA,NA,SS26,steering
+NA,41,"Munoz, Ricardo",Citroen Visa,ES,B9,NA,NA,SS9,gearbox

@@ -1,0 +1,62 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"Panizzi, Gilles",Peugeot 206WRC (2001),FR,A8,"3h 54m 40,3s",NA,NA,NA
+2,2,"Gronholm, Marcus",Peugeot 206WRC (2001),FI,A8,"+40,5s",NA,NA,NA
+3,1,"Burns, Richard",Peugeot 206WRC (2001),GB,A8,"+52,4s",NA,NA,NA
+4,25,"Bugalski, Philippe",Citroen Xsara WRC,FR,A8,"+2m 02,2s",NA,NA,NA
+5,11,"Solberg, Petter",Subaru Impreza WRC2002,NO,A8,"+2m 28,2s",NA,NA,NA
+6,4,"Sainz, Carlos",Ford Focus RS WRC 02,ES,A8,"+2m 32,8s",NA,NA,NA
+7,7,"Delecour, Francois",Mitsubishi Lancer WRC,FR,A8,"+5m 07,8s",NA,NA,NA
+8,6,"Martin, Markko",Ford Focus RS WRC 02,EE,A8,"+5m 20,0s",NA,NA,NA
+9,18,"Loix, Freddy",Hyundai Accent WRC3,BE,A8,"+6m 13,8s",NA,NA,NA
+10,8,"McRae, Alister",Mitsubishi Lancer WRC,GB,A8,"+6m 32,5s",NA,NA,NA
+11,24,"Rovanpera, Harri",Peugeot 206 WRC,FI,A8,"+6m 36,9s",NA,NA,NA
+12,15,"Gardemeister, Toni",Skoda Octavia WRC Evo2,FI,A8,"+7m 25,7s",NA,NA,NA
+13,17,"Schwarz, Armin",Hyundai Accent WRC3,DE,A8,"+8m 02,0s",NA,NA,NA
+14,16,"Kresta, Roman",Skoda Octavia WRC Evo2,CZ,A8,"+15m 42,6s",4:00,NA,NA
+15,33,"Rousselot, Benoit",Subaru Impreza,FR,A8,"+15m 43,4s",NA,NA,NA
+16,101,"Torre, Jean-Claude",Subaru Impreza,FR,A8,"+21m 48,5s",NA,NA,NA
+17,54,"Ferreyros, Ramon",Mitsubishi Lancer Evo VII,PE,N4,"+22m 44,6s",NA,NA,NA
+18,102,"Manzagol, Jean-Pierre",Peugeot 306 Maxi,FR,A7,"+24m 45,7s",NA,NA,NA
+19,66,"Iliev, Dimitar",Mitsubishi Lancer Evo VII,BG,N4,"+25m 56,5s",0:20,NA,NA
+20,105,"Santoni, Jean-Marie",Mitsubishi Lancer Evo VII,FR,N4,"+26m 25,9s",0:20,NA,NA
+21,73,"Rowe, Martin",Mitsubishi Lancer Evo VI,GB,N4,"+30m 08,0s",NA,NA,NA
+22,51,"Trelles, Gustavo",Mitsubishi Lancer Evo VII,UY,N4,"+31m 55,3s",NA,NA,NA
+23,65,"Harrach, Beppo",Mitsubishi Lancer Evo VI,AT,N4,"+34m 55,9s",NA,NA,NA
+24,71,"Marrini, Stefano",Mitsubishi Lancer Evo VII,IT,N4,"+37m 00,2s",1:20,NA,NA
+25,109,"Aime, Jean-Paul",Mitsubishi Lancer Evo,FR,N4,"+37m 41,1s",0:10,NA,NA
+26,72,"Roman, Joakim",Mitsubishi Lancer Evo VI,SE,N4,"+39m 48,6s",NA,NA,NA
+27,111,"Bourcier, Richard",Renault Clio,FR,N3,"+40m 00,1s",NA,NA,NA
+28,69,"Kollevold, Bernt",Mitsubishi Lancer Evo VI,NO,N4,"+40m 01,1s",NA,NA,NA
+29,58,"Baldini, Luca",Mitsubishi Lancer Evo VI,IT,N4,"+41m 53,1s",1:40,NA,NA
+30,116,"Chkondali, Thierry",Honda Integra,FR,N3,"+49m 54,8s",0:50,NA,NA
+31,118,"Vellutini, Didier",Renault Clio,FR,N3,"+52m 50,0s",NA,NA,NA
+32,120,"Wilders, Michel",Honda Civic,BE,N2,"+58m 08,8s",NA,NA,NA
+33,117,"Poisson, Jean-Marc",Honda Integra,FR,N3,"+58m 09,1s",NA,NA,NA
+34,121,"Courmenier, Patrick",Peugeot 106,FR,N2,"+1h 03m 32,3s",NA,NA,NA
+35,115,"Ihle, Wolf-Dieter",Peugeot 306,DE,N3,"+1h 04m 44,4s",0:20,NA,NA
+36,122,"Birr, Niklas",Citroen Saxo VTS,DE,N2,"+1h 05m 11,9s",NA,NA,NA
+37,123,"Ristori, Paul",Peugeot 106,FR,N2,"+1h 07m 21,0s",NA,NA,NA
+NA,5,"McRae, Colin",Ford Focus RS WRC 02,GB,A8,NA,NA,SS15,off road
+NA,10,"Makinen, Tommi",Subaru Impreza WRC2002,FI,A8,NA,NA,SS10,suspension damage
+NA,14,"Eriksson, Kenneth",Skoda Octavia WRC Evo2,SE,A8,NA,NA,SS14,transmission
+NA,19,"Kuchar, Tomasz",Hyundai Accent WRC3,PL,A8,NA,NA,TC2A,brakes
+NA,23,"Duval, Francois",Ford Focus RS WRC 01,BE,A8,NA,NA,SS14,off road
+NA,26,"Thiry, Bruno",Peugeot 206 WRC,BE,A8,NA,NA,SS10,mechanical
+NA,27,"Mortl, Achim",Peugeot 206 WRC,AT,A8,NA,NA,SS6,mechanical
+NA,32,"Griazine, Stanislav",Toyota Corolla WRC,RU,A8,NA,NA,SS7,off road
+NA,56,"al-Wahaibi, Hamed",Subaru Impreza,OM,N4,NA,NA,TC10A,accidents
+NA,60,"Briant, Ben",Proton Pert,GB,N4,NA,NA,SS6,mechanical
+NA,62,"Cangani, Norberto",Mitsubishi Lancer Evo VI,IT,N4,NA,NA,SS9,off road
+NA,70,"Manfrinato, Giovanni",Mitsubishi Lancer Evo VII,IT,N4,NA,NA,SS4,off road
+NA,75,"Sohlberg, Kristian",Mitsubishi Carisma GT,FI,N4,NA,NA,SS3,off
+NA,77,"de Dominicis, Alfredo",Mitsubishi Lancer Evo VI,IT,N4,NA,NA,TC4A,mechanical
+NA,103,"Errani, Riccardo",Skoda Octavia WRC,IT,A8,NA,NA,SS5,mechanical
+NA,104,"Micheli, Jose",Peugeot 306,FR,A7,NA,NA,SS14,mechanical
+NA,106,"Sanchez, Jean Marc",Mitsubishi Lancer Evo VII,FR,N4,NA,NA,SS4,off road
+NA,107,"Habani, Christian",Mitsubishi Lancer Evo VII,FR,N4,NA,NA,SS14,off road
+NA,108,"Tsjoen, Pieter",Mitsubishi Lancer Evo,BE,N4,NA,NA,SS12,off road
+NA,110,"Mercier, Eddie",Renault Clio,FR,N3,NA,NA,SS3,mechanical
+NA,112,"Bensimon, Claude",Peugeot 306,FR,N3,NA,NA,SS1,mechanical
+NA,113,"Faggianelli, Francois",Renault Clio,FR,N3,NA,NA,SS4,mechanical
+NA,114,"Filippi, Eric",Peugeot 306,FR,N3,NA,NA,SS2,mechanical
+NA,119,"Barbolosi, Julien",Renault Clio,FR,N3,NA,NA,SS13,mechanical

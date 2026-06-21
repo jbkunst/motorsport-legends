@@ -1,0 +1,52 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"Gronholm, Marcus",Ford Focus RS WRC 06,FI,A8,"4h 11m 43,9s",NA,NA,NA
+2,1,"Loeb, Sebastien",Citroen Xsara WRC,FR,A8,"+1m 01,8s",NA,NA,NA
+3,16,"Gardemeister, Toni",Peugeot 307WRC Evo2,FI,A8,"+1m 23,1s",NA,NA,NA
+4,7,"Stohl, Manfred",Peugeot 307WRC Evo2,AT,A8,"+1m 42,3s",NA,NA,NA
+5,6,"Sarrazin, Stephane",Subaru Impreza WRC2006,FR,A8,"+3m 20,2s",NA,NA,NA
+6,18,"Atkinson, Christopher",Subaru Impreza WRC2005,AU,A8,"+5m 02,4s",NA,NA,NA
+7,4,"Hirvonen, Mikko",Ford Focus RS WRC 06,FI,A8,"+6m 19,5s",NA,NA,NA
+8,26,"Sordo Castillo, Daniel",Citroen Xsara WRC,ES,A8,"+7m 15,2s",NA,NA,NA
+9,2,"Pons, Xavier",Citroen Xsara WRC,ES,A8,"+7m 42,9s",NA,NA,NA
+10,11,"Panizzi, Gilles",Skoda Fabia WRC 05,FR,A8,"+9m 29,8s",0:20,NA,NA
+11,62,"Kopecky, Jan",Skoda Fabia WRC,CZ,A8,"+12m 19,1s",NA,NA,NA
+12,63,"Burri, Olivier",Peugeot 307WRC Evo2,CH,A8,"+14m 12,8s",NA,NA,NA
+13,12,"Aigner, Andreas",Skoda Fabia WRC 05,AT,A8,"+17m 46,1s",NA,NA,NA
+14,10,"Tsjoen, Pieter",Ford Focus RS WRC 04,BE,A8,"+20m 18,0s",NA,NA,NA
+15,9,"Wilson, Matthew",Ford Focus RS WRC 04,GB,A8,"+21m 01,3s",NA,NA,NA
+16,64,"MacHale, Gareth",Ford Focus WRC,IE,A8,"+22m 47,5s",0:10,NA,NA
+17,33,"Nutahara, Fumio",Mitsubishi Lancer Evo IX,JP,N4,"+26m 15,2s",NA,NA,NA
+18,67,"MacHale, Austin",Ford Focus WRC,IE,A8,"+26m 26,5s",NA,NA,NA
+19,65,"Roux, Philippe",Peugeot 206 WRC,CH,A8,"+29m 38,7s",NA,NA,NA
+20,76,"Prokop, Martin",Citroen C2 S1600,CZ,A6,"+30m 03,3s",NA,NA,NA
+21,44,"Higgins, David",Mitsubishi Lancer Evo VII,GB,N4,"+32m 47,0s",NA,NA,NA
+22,84,"Cserhalmi, Tibor",Mitsubishi Lancer Evo,SK,N4,"+33m 16,6s",NA,NA,NA
+23,83,"Heintz, Patrick",Subaru Impreza,CH,N4,"+34m 12,8s",NA,NA,NA
+24,89,"Jereb, Andrej",Subaru Impreza,SI,N4,"+36m 01,6s",NA,NA,NA
+25,68,"Boland, Eamonn",Ford Focus WRC,IE,A8,"+36m 04,4s",9:00,NA,NA
+26,88,"Frau, Richard",Mitsubishi Lancer Evo IX,FR,N4,"+37m 48,7s",NA,NA,NA
+27,91,"Sebalj, Juraj",Subaru Impreza WRX,HR,N4,"+37m 56,0s",NA,NA,NA
+28,69,"Turiani, Auguste",Mitsubishi Lancer Evo,MC,A8,"+42m 09,7s",0:10,NA,NA
+29,39,"al-Attiyah, Nasser",Subaru Impreza,QA,N4,"+43m 29,3s",NA,NA,NA
+30,79,"Boetti, Michel",Citroen Saxo,FR,A6,"+44m 56,0s",0:30,NA,NA
+31,81,"Cornu, Stephane",Citroen Saxo,FR,A6,"+46m 30,8s",NA,NA,NA
+32,85,"Bonfils, Michel",Subaru Impreza WRX,FR,N4,"+47m 11,6s",0:10,NA,NA
+33,90,"Jalonen, Jukka",Mitsubishi Lancer Evo,FI,N4,"+49m 57,7s",NA,NA,NA
+34,71,"Catudal, Philippe",Peugeot 306 Maxi,FR,A7,"+51m 52,0s",NA,NA,NA
+35,80,"Lo Fiego, Fabiano",Citroen Saxo,FR,A6,"+52m 57,5s",2:10,NA,NA
+36,86,"Chvojka, Milan",Mitsubishi Lancer Evo VIII,CZ,N4,"+54m 11,0s",NA,NA,NA
+37,87,"Martinez Saco, Rafael",Subaru Impreza,ES,N4,"+54m 12,2s",NA,NA,NA
+38,66,"Errani, Riccardo",Skoda Octavia WRC,IT,A8,"+55m 10,3s",1:00,NA,NA
+39,40,"Marrini, Stefano",Mitsubishi Lancer Evo VII,IT,N4,"+57m 15,2s",0:10,NA,NA
+40,37,"Latvala, Jari-Matti",Subaru Impreza WRX,FI,N4,"+1h 00m 24,6s",NA,NA,NA
+41,75,"Amourette, Marc",Citroen C2,FR,A6,"+1h 01m 03,6s",2:10,NA,NA
+42,77,"Gioffre, Michel",Renault Clio,IT,A6,"+1h 08m 36,4s",NA,NA,NA
+43,78,"Suhr, Maike",Suzuki Ignis,DE,A6,"+1h 14m 35,3s",0:40,NA,NA
+NA,5,"Solberg, Petter",Subaru Impreza WRC2006,NO,A8,NA,NA,TC6C,mechanical
+NA,8,"Solberg, Henning",Peugeot 307WRC Evo2,NO,A8,NA,NA,TC18A,mechanical
+NA,17,"Duval, Francois",Skoda Fabia WRC 05,BE,A8,NA,NA,SS9,mechanical
+NA,25,"Galli, Gianluigi",Mitsubishi Lancer WRC05,IT,A8,NA,NA,TC9,mechanical
+NA,43,"Popov, Jasen",Mitsubishi Lancer Evo VIII,BG,N4,NA,NA,SS12,off road
+NA,73,"Dessi, Marc",Renault Clio RS,MC,A7,NA,NA,TC18A,mechanical
+NA,74,"Barbero, Philippe",Renault Clio,FR,A7,NA,NA,TC12C,NA
+NA,82,"Burkart, Aaron Nicolai",Citroen Saxo S1600,DE,A6,NA,NA,TC18A,mechanical

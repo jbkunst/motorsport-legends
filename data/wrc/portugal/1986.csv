@@ -1,0 +1,54 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,14,"Moutinho, Joaquim",Renault 5 Turbo,PT,B11,7h 50m 44s,NA,NA,NA
+2,18,"Bica, Carlos",Lancia Rally 037,PT,B12,+13m 27s,NA,NA,NA
+3,22,"del Zoppo, Giovanni",Fiat Uno Turbo,IT,A7,+16m 52s,2:00,NA,NA
+4,30,"Ortigao, Jorge",Toyota Corolla,PT,A6,+19m 42s,NA,NA,NA
+5,20,"Turiani, Auguste",Opel Manta 400,MC,B12,+22m 20s,NA,NA,NA
+6,61,"Couloumies, Jean-Sebastien",Peugeot 205 GTI,FR,N2,+45m 43s,3:00,NA,NA
+7,32,"Fernandes, Ramiro",Fiat Ritmo,PT,A7,+49m 42s,NA,NA,NA
+8,49,"Recordati, Giovanni",Opel Manta 400,IT,B12,+56m 47s,NA,NA,NA
+9,36,"Segurado, Antonio",Renault 11 Turbo,PT,N3,+58m 34s,1:00,NA,NA
+10,34,"Coutinho, Antonio",Toyota Corolla,PT,N2,+1h 00m 00s,NA,NA,NA
+11,40,"Rolo, Manuel",Renault 11 Turbo,PT,N3,+1h 02m 42s,NA,NA,NA
+12,62,"Ricci, Lorenzo",Opel Manta GT/E,IT,A7,+1h 09m 17s,0:30,NA,NA
+13,108,"Alves, Carlos",Toyota Corolla,PT,N2,+1h 12m 45s,NA,NA,NA
+14,48,"Ferreira da Cunha, Antonio",Opel Ascona,PT,A7,+1h 16m 02s,5:00,NA,NA
+15,100,"Viana Ferreira, Jose",Toyota Corolla GT,PT,N2,+1h 30m 50s,11:00,NA,NA
+16,67,"Reusch, Claude",Toyota Corolla GT,BE,A6,+1h 33m 27s,2:00,NA,NA
+17,78,"Tristao, Albino",Opel Ascona,PT,A7,+1h 36m 02s,5:00,NA,NA
+18,35,"Honrath, Horst",Audi 80 quattro,DE,A8,+1h 40m 33s,2:00,NA,NA
+19,50,"Dorkel, Claude",Audi 80 quattro,FR,N4,+1h 46m 45s,NA,NA,NA
+20,55,"Faas, Jacobus",BMW 323i,NL,A8,+1h 54m 24s,4:00,NA,NA
+21,85,"Rodrigues, Jose",Toyota Corolla GT,PT,A,+1h 59m 39s,19:00,NA,NA
+22,98,"Barata, Miguel",Peugeot 205 GTI,PT,A,+2h 07m 12s,1:00,NA,NA
+23,80,"Antoine, Benoit",Peugeot 205 GTI,FR,A,+2h 19m 15s,5:00,NA,NA
+24,74,"Tavares, Rogerio",Opel Manta,PT,A,+2h 22m 21s,39:00,NA,NA
+25,91,"Luengo Lopez, Jose Maria",Citroen Visa,ES,A,+2h 27m 13s,8:00,NA,NA
+26,90,"Almeida, Jose",Alfa Romeo Alfetta GTV6,PT,A,+2h 32m 39s,8:00,NA,NA
+27,109,"Magalhaes, Augusto",Peugeot 205 GTI,PT,N,+2h 40m 47s,12:00,NA,NA
+28,115,"Verlhac, Alexis",Talbot Samba,FR,N1,+2h 42m 59s,10:00,NA,NA
+29,111,"Carvalho, Joao",Citroen Visa,PT,N,+2h 45m 15s,9:00,NA,NA
+30,65,"Boin, Gerard",Citroen Visa,FR,B9,+2h 51m 40s,6:00,NA,NA
+31,96,"Silva, Fernando",Toyota Starlet,PT,A5,+2h 52m 04s,14:00,NA,NA
+32,72,"Janota Vistas, Manuel",Citroen Visa,PT,B,+2h 54m 42s,1:00,NA,NA
+33,105,"Passos, Jose Carlos",Renault 11 Turbo,PT,N,+2h 57m 21s,35:00,NA,NA
+34,97,"Blum, Robert",Ford Escort,DE,N,+3h 56m 39s,28:00,NA,NA
+35,103,"Wrzecian, Claude",Volkswagen Golf GTi,FR,A,+5h 19m 53s,45:00,NA,NA
+NA,1,"Salonen, Timo",Peugeot 205 Turbo 16 E2,FI,B12,NA,NA,after SS3,fatal accident
+NA,2,"Alen, Markku",Lancia Delta S4,FI,B12,NA,NA,after SS3,fatal accident
+NA,3,"Rohrl, Walter",Audi quattro Sport S1,DE,B12,NA,NA,after SS3,fatal accident
+NA,4,"Blomqvist, Stig",Ford RS200,SE,B12,NA,NA,after SS3,fatal accident
+NA,5,"Biasion, Massimo",Lancia Delta S4,IT,B12,NA,NA,after SS3,fatal accident
+NA,6,"Pond, Tony",MG Metro 6R4,GB,B12,NA,NA,after SS3,fatal accident
+NA,7,"Kankkunen, Juha",Peugeot 205 Turbo 16 E2,FI,B12,NA,NA,after SS3,fatal accident
+NA,8,"Toivonen, Henri",Lancia Delta S4,FI,B12,NA,NA,after SS3,fatal accident
+NA,10,"Grundel, Karl",Ford RS200,SE,B12,NA,NA,after SS3,fatal accident
+NA,12,"Wilson, Malcolm",MG Metro 6R4,GB,B12,NA,NA,after SS3,fatal accident
+NA,15,"Santos, Joaquim",Ford RS200,PT,B12,NA,NA,SS1,fatal accident
+NA,16,"Duez, Marc",MG Metro 6R4,BE,B12,NA,NA,after SS3,fatal accident
+NA,21,"Eriksson, Kenneth",Volkswagen Golf GTi,SE,A7,NA,NA,after SS3,fatal accident
+NA,23,"Wittman, Franz",Volkswagen Golf GTi,AT,A7,NA,NA,after SS3,fatal accident
+NA,24,"Rayneri, Michele",Fiat Uno Turbo,IT,A7,NA,NA,SS12,accident
+NA,25,"Stohl, Rudolf",Audi 80 quattro,AT,A8,NA,NA,after SS3,fatal accident
+NA,26,"Fiorio, Alessandro",Fiat Uno Turbo,IT,A7,NA,NA,SS22,drive shaft
+NA,NA,"Fritzinger, Klaus",Toyota Corolla GT,DE,A6,NA,NA,SS44,gearbox

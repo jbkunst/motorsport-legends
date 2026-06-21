@@ -1,0 +1,55 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,5,"Sainz, Carlos",Subaru Impreza 555,ES,A8,5h 32m 37s,NA,NA,NA
+2,2,"Kankkunen, Juha",Toyota Celica GT-Four (ST205),FI,A8,+12s,NA,NA,NA
+3,4,"McRae, Colin",Subaru Impreza 555,GB,A8,+3m 14s,NA,NA,NA
+4,3,"Schwarz, Armin",Toyota Celica GT-Four (ST205),DE,A8,+4m 59s,NA,NA,NA
+5,1,"Auriol, Didier",Toyota Celica GT-Four (ST205),FR,A8,+6m 13s,NA,NA,NA
+6,8,"Thiry, Bruno",Ford Escort RS Cosworth,BE,A8,+8m 46s,NA,NA,NA
+7,6,"Burns, Richard",Subaru Impreza 555,GB,A8,+14m 21s,NA,NA,NA
+8,9,"Fiorio, Alessandro",Ford Escort RS Cosworth,IT,A8,+25m 37s,NA,NA,NA
+9,12,"Madeira, Rui",Mitsubishi Lancer Evo II,PT,N4,+30m 59s,NA,NA,NA
+10,11,"Recalde, Jorge",Mitsubishi Lancer Evo II,AR,N4,+34m 45s,NA,NA,NA
+11,10,"Holderied, Isolde",Mitsubishi Lancer Evo II,DE,N4,+40m 56s,NA,NA,NA
+12,32,"Kamioka, Masao",Subaru Impreza 555,JP,N4,+41m 44s,NA,NA,NA
+13,29,"Meireles, Pedro",Volkswagen Golf Rallye G60,PT,A8,+43m 14s,NA,NA,NA
+14,28,"Leite Faria, Jose Miguel",Ford Escort RS Cosworth,PT,A8,+45m 30s,NA,NA,NA
+15,42,"Miyoshi, Hideaki",Subaru Impreza 555,JP,N4,+49m 51s,NA,NA,NA
+16,57,"Deila, Piergiorgio",Peugeot 306,IT,A7,+55m 18s,NA,NA,NA
+17,40,"Navarra, Andrea",Toyota Celica GT-Four (ST205),IT,N4,+56m 58s,NA,NA,NA
+18,69,"Gassner, Hermann",Mitsubishi Lancer Evo II,DE,N4,+1h 00m 23s,NA,NA,NA
+19,60,"Goudezeune, Gaby",Mazda 323 GT-R,BE,A8,+1h 00m 30s,NA,NA,NA
+20,82,"Nittel, Uwe",Toyota Celica GT-Four (ST205),DE,N4,+1h 02m 13s,NA,NA,NA
+21,34,"Sperrer, Raphael",Opel Astra,AT,A7,+1h 02m 31s,NA,NA,NA
+22,17,"Weber, Erwin",Seat Ibiza GTi 16V,DE,A7,+1h 03m 44s,NA,NA,NA
+23,81,"Kremer, Armin",Ford Escort RS Cosworth,DE,N4,+1h 06m 04s,NA,NA,NA
+24,59,"Felix, Jorge",Lancia Delta HF Integrale,PT,A8,+1h 10m 28s,NA,NA,NA
+25,51,"Toome, Marek",Mitsubishi Lancer Evo II,EE,N4,+1h 11m 16s,NA,NA,NA
+26,38,"Jorge, Antonio",Renault Clio Williams,PT,N3,+1h 13m 54s,NA,NA,NA
+27,36,"Burkart, Nikolai",Nissan Sunny,DE,A7,+1h 23m 56s,NA,NA,NA
+28,35,"Fernandes, Ramiro",Lancia Delta HF Integrale,PT,N4,+1h 41m 07s,NA,NA,NA
+29,43,"Riethmuller, Jurgen",Ford Escort RS Cosworth,DE,N4,+1h 47m 06s,NA,NA,NA
+30,112,"Jonquieres, Jacques",Peugeot 205 GTI,FR,N2,+1h 54m 05s,NA,NA,NA
+31,91,"Devin, Henri",Peugeot 309 GTI,FR,N3,+1h 55m 03s,NA,NA,NA
+32,50,"Santos, Fernando",Peugeot 309 GTI,PT,N3,+1h 59m 03s,NA,NA,NA
+33,105,"Teixeira, Francisco",Citroen AX,PT,A6,+2h 11m 52s,NA,NA,NA
+34,118,"Klein, Ewald",Subaru 4WD,DE,N1,+2h 13m 20s,NA,NA,NA
+35,96,"Torres, Jose",Citroen AX,PT,A6,+2h 40m 41s,NA,NA,NA
+36,100,"Calisto, Vitor",Fiat Cinquecento,PT,A5,+2h 41m 19s,NA,NA,NA
+37,63,"Fernandes, Jose Manuel",BMW 325i,PT,A8,+2h 45m 36s,NA,NA,NA
+38,104,"Medanha, Fernando",Peugeot 205 GTI,PT,A6,+3h 23m 10s,NA,NA,NA
+39,115,"Guimaraes, Paulo",Citroen AX,PT,N1,+3h 53m 24s,NA,NA,NA
+NA,7,"Delecour, Francois",Ford Escort RS Cosworth,FR,A8,NA,NA,SS4,accident
+NA,14,"Peres, Fernando",Ford Escort RS Cosworth,PT,A8,NA,NA,SS10,suspension
+NA,15,"de Mevius, Gregoire",Nissan Sunny,BE,A7,NA,NA,SS26,transmission
+NA,16,"Gronholm, Marcus",Toyota Celica Turbo 4WD (ST185),FI,A8,NA,NA,SS26,accident
+NA,18,"Macedo, Jose Carlos",Renault Clio Maxi,PT,A7,NA,NA,SS10,gearbox
+NA,19,"Sibera, Pavel",Skoda Felicia,CZ,A6,NA,NA,SS16,gearbox
+NA,20,"bin Sulayem, Mohammed",Toyota Celica GT-Four (ST205),AE,N4,NA,NA,SS3,transmission
+NA,21,"Camandona, Philippe",Ford Escort RS Cosworth,CH,N4,NA,NA,SS32,differential
+NA,22,"Triner, Emil",Skoda Felicia,CZ,A6,NA,NA,SS17,gearbox
+NA,23,"Raidam, Ivar",Ford Escort RS Cosworth,EE,N4,NA,NA,SS15,engine mounting
+NA,25,"Bica, Jorge",Lancia Delta HF Integrale,PT,A8,NA,NA,NA,unknown
+NA,27,"Loix, Freddy",Opel Astra,BE,A7,NA,NA,SS26,transmission
+NA,30,"Azeredo, Pedro",Renault Clio Maxi,PT,A7,NA,NA,SS10,gearbox
+NA,39,"Rius, Antonio",Seat Ibiza GTi 16V,ES,N3,NA,NA,SS30,gearbox
+NA,47,"Stohl, Manfred",Audi Coupe S2,AT,A8,NA,NA,NA,differential

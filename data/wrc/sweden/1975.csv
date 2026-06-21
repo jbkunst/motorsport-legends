@@ -1,0 +1,16 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,4,"Waldegard, Bjorn",Lancia Stratos HF,SE,G4,"26,386 pts",NA,NA,NA
+2,1,"Blomqvist, Stig",Saab 96 V4,SE,G2,"26,493 pts",NA,NA,NA
+3,2,"Lampinen, Simo",Lancia Beta,FI,G4,"27,082 pts",NA,NA,NA
+4,8,"Eklund, Per",Saab 96 V4,SE,G2,"27,193 pts",NA,NA,NA
+5,6,"Carlsson, Ingvar",Fiat 124 Abarth Spider,SE,G4,"27,570 pts",NA,NA,NA
+6,5,"Alen, Markku",Fiat 124 Abarth Spider,FI,G4,"28,165 pts",NA,NA,NA
+7,17,"Haugland, John",Skoda 120,NO,G2,"29,643 pts",NA,NA,NA
+8,36,"Svensson, Hakan",Opel Ascona,SE,G2,"30,440 pts",NA,NA,NA
+9,28,"Ahlin, Rune",Volvo 142,SE,G1,"30,934 pts",NA,NA,NA
+10,27,"Andersson, Leif",Ford Escort RS2000,SE,G1,"31,262 pts",NA,NA,NA
+NA,3,"Mikkola, Hannu",Fiat 124 Abarth Spider,FI,G4,NA,NA,NA,accident
+NA,9,"Kallstrom, Harry",Datsun Violet,SE,G2,NA,NA,NA,accident
+NA,10,"Danielsson, Bror",Opel Ascona,SE,G2,NA,NA,NA,valve spring
+NA,11,"Kullang, Anders",Opel Ascona,SE,G2,NA,NA,NA,unknown
+NA,18,"Walfridsson, Per-Inge",DAF 66,SE,G2,NA,NA,NA,engine

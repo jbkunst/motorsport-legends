@@ -1,0 +1,20 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,4,"Nicolas, Jean-Pierre",Peugeot 504 V6 Coupe,FR,G4,8h 18m,NA,NA,NA
+2,14,"Preston Jr, Vic",Porsche 911,KE,G4,+37m,NA,NA,NA
+3,6,"Aaltonen, Rauno",Datsun 160J,FI,G2,+52m,NA,NA,NA
+4,5,"Waldegard, Bjorn",Porsche 911,SE,G4,+1h 30m,NA,NA,NA
+5,3,"Lampinen, Simo",Peugeot 504 V6 Coupe,FI,G4,+5h 19m,NA,NA,NA
+6,18,"Zasada, Sobieslaw",Mercedes Benz 280,PL,G2,+7h 12m,NA,NA,NA
+7,17,"Hellier, John",Datsun 160J,KE,G2,+10h 08m,NA,NA,NA
+8,28,"Tundo, Frank",Ford Escort RS,KE,G4,+10h 36m,NA,NA,NA
+9,26,"Shah, Jayant",Datsun 160J,KE,G2,+12h 26m,NA,NA,NA
+10,20,"Ruedin, Hans-Peter",Mitsubishi Colt Lancer,KE,G2,+12h 32m,NA,NA,NA
+NA,1,"Makinen, Timo",Peugeot 504 V6 Coupe,FI,G4,NA,NA,TC59,rear suspension
+NA,2,"Singh, Joginder",Mercedes Benz 280,KE,G2,NA,NA,TC6,engine
+NA,7,"Kallstrom, Harry",Datsun 160J,SE,G2,NA,NA,TC63,rear suspension
+NA,8,"Collinge, Robert",Peugeot 504,KE,G2,NA,NA,before TC1,accident
+NA,9,"Cowan, Andrew",Mercedes Benz 280,GB,G2,NA,NA,TC19,engine
+NA,10,"Shankland, Bert",Peugeot 504,TZ,G2,NA,NA,TC46,engine
+NA,11,"Mehta, Shekhar",Datsun 160J,KE,G2,NA,NA,TC54,engine
+NA,12,"Fowkes, Anthony",Mercedes Benz 280,GB,G2,NA,NA,TC29,sump
+NA,15,"Remtulla, Zully",Datsun 160J,TZ,G2,NA,NA,TC45,transmission

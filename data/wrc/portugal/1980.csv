@@ -1,0 +1,33 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,5,"Rohrl, Walter",Fiat 131 Abarth,DE,G4,8h 45m 35s,NA,NA,NA
+2,2,"Alen, Markku",Fiat 131 Abarth,FI,G4,+14m 19s,0:03,NA,NA
+3,16,"Frequelin, Guy",Talbot Sunbeam,FR,G2,+30m 29s,NA,NA,NA
+4,4,"Waldegard, Bjorn",Mercedes Benz 450 SLC 5.0,SE,G4,+43m 47s,NA,NA,NA
+5,17,"Carlsson, Ingvar",Mercedes Benz 450 SLC 5.0,SE,G4,+54m 47s,0:01,NA,NA
+6,6,"Andersson, Ove",Toyota Celica,SE,G4,+1h 09m 16s,0:23,NA,NA
+7,21,"Torres, Carlos",Ford Escort RS2000,PT,G1,+1h 22m 38s,NA,NA,NA
+8,25,"Recalde, Jorge",Ford Escort RS1800,AR,G4,+2h 04m 04s,0:29,NA,NA
+9,36,'Ray',Ford Escort RS1800,MC,G4,+2h 23m 47s,0:08,NA,NA
+10,24,"Stawowiak, Maciej",FSO Polonez,PL,G4,+2h 29m 59s,0:18,NA,NA
+11,44,"Queiroz Pereira, Pedro",Opel Kadett GT/E,PT,G2,+3h 16m 37s,0:40,NA,NA
+12,60,"Simoes, Fernando",Opel Kadett GT/E,PT,G2,+3h 35m 47s,0:47,NA,NA
+13,71,"Rolo, Manuel",Ford Escort RS2000,PT,G1,+3h 38m 52s,0:41,NA,NA
+14,66,"Ferreira da Cunha, Antonio",Datsun 1200,PT,G2,+3h 50m 02s,0:29,NA,NA
+15,100,"Barros, Pedro",Opel Ascona,PT,G2,+4h 35m 35s,0:52,NA,NA
+16,55,"Ortigao, Jorge",Datsun 1200,PT,G1,+4h 55m 09s,0:49,NA,NA
+NA,1,"Mikkola, Hannu",Ford Escort RS,FI,G4,NA,NA,SS24,accident
+NA,3,"Darniche, Bernard",Lancia Stratos HF,FR,G4,NA,NA,SS10,head gasket
+NA,7,"Vatanen, Ari",Ford Escort RS,FI,G4,NA,NA,SS24,accident
+NA,9,"Kleint, Jochi",Opel Ascona 400,DE,G4,NA,NA,SS9,accident
+NA,10,"Bettega, Attilio",Fiat 131 Abarth,IT,G4,NA,NA,SS14,road accident
+NA,11,"Salonen, Timo",Datsun 160J,FI,G2,NA,NA,SS14,road accident
+NA,12,"Kullang, Anders",Opel Ascona 400,SE,G4,NA,NA,SS10,accident
+NA,14,"Eklund, Per",Triumph TR7,SE,G4,NA,NA,SS26,fuel pump
+NA,15,"Therier, Jean-Luc",Toyota Celica,FR,G4,NA,NA,SS22,halfshaft
+NA,18,"Pond, Tony",Triumph TR7,GB,G4,NA,NA,SS1,engine
+NA,19,"Dawson, Andy",Datsun 160J,GB,G2,NA,NA,SS27,accident
+NA,20,"Toivonen, Henri",Talbot Sunbeam,FI,G2,NA,NA,SS24,axle
+NA,22,"Queiroz Pereira, Manuel",Opel Kadett GT/E,PT,G1,NA,NA,SS25,suspension
+NA,32,"Ciecierzynski, Tomasz",FSO Polonez,PL,G4,NA,NA,SS25,transmission
+NA,34,"Moutinho, Joaquim",Ford Escort RS2000,PT,G1,NA,NA,NA,unknown
+NA,35,"Groblewski, Wlodzimierz",FSO Polonez,PL,G4,NA,NA,SS14,driver illness

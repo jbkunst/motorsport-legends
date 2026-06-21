@@ -1,0 +1,87 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"McRae, Colin",Subaru Impreza WRC97,GB,A8,4h 05m 31s,NA,NA,NA
+2,1,"Makinen, Tommi",Mitsubishi Lancer Evo IV,FI,A8,+6s,NA,NA,NA
+3,7,"Auriol, Didier",Toyota Corolla WRC,FR,A8,+21s,NA,NA,NA
+4,2,"Burns, Richard",Mitsubishi Carisma GT,GB,A8,+38s,NA,NA,NA
+5,10,"Bourne, Peter",Subaru Impreza 555,NZ,A8,+7m 52s,NA,NA,NA
+6,11,"Ordynski, Ed",Mitsubishi Lancer Evo III,AU,A8,+9m 24s,NA,NA,NA
+7,9,"Loix, Freddy",Toyota Celica GT-Four (ST205),BE,A8,+9m 55s,NA,NA,NA
+8,8,"Bates, Neal",Toyota Corolla WRC,AU,A8,+11m 28s,NA,NA,NA
+9,14,"Sufan, Raul",Toyota Celica GT-Four (ST205),AR,A8,+19m 03s,NA,NA,NA
+10,16,"Rovanpera, Harri",Seat Ibiza GTi 16V,FI,A7,+24m 56s,NA,NA,NA
+11,25,"Konishi, Shigeyuki",Subaru Impreza,JP,N4,+25m 13s,NA,NA,NA
+12,24,"Kataoka, Yoshihiro",Mitsubishi Lancer Evo III,JP,N4,+26m 10s,NA,NA,NA
+13,28,"Miyoshi, Hideaki",Subaru Impreza,JP,N4,+29m 35s,NA,NA,NA
+14,29,"Challis, Tolley",Proton Wira 4WD,AU,A8,+29m 49s,NA,NA,NA
+15,15,"Sibera, Pavel",Skoda Felicia Kit-Car,CZ,A6,+30m 52s,NA,NA,NA
+16,34,"Arai, Toshihiro",Subaru Impreza,JP,N4,+31m 33s,NA,NA,NA
+17,19,"Gomez Marco, Oriol",Seat Ibiza GTi 16V,ES,A7,+32m 19s,NA,NA,NA
+18,23,"Guest, Michael",Subaru Impreza,AU,N4,+34m 50s,NA,NA,NA
+19,37,"Herridge, Robert",Subaru Impreza,AU,N4,+37m 40s,NA,NA,NA
+20,42,"Mackenzie, Ross",Daihatsu Charade GTI,AU,A6,+41m 05s,NA,NA,NA
+21,44,"Thompson, Michael",Subaru Impreza 555,AU,N4,+45m 38s,NA,NA,NA
+22,39,"Koizumi, Hideaki",Mitsubishi Lancer Evo III,JP,N4,+46m 10s,NA,NA,NA
+23,51,"Lingford, Simon",Mitsubishi Lancer Evo I,AU,N4,+46m 29s,NA,NA,NA
+24,50,"Lintott, Martin",Mitsubishi Lancer Evo II,AU,N4,+50m 18s,NA,NA,NA
+25,59,"Dines, Jacquiline",Mitsubishi Lancer Evo III,AU,A8,+50m 26s,NA,NA,NA
+26,52,"Walker, Graham",Subaru Impreza 555,GB,N4,+50m 34s,NA,NA,NA
+27,49,"Tighe, Dean",Subaru Impreza 555,AU,N4,+50m 58s,NA,NA,NA
+28,47,"Flood, Tony",Toyota Celica GT-Four (ST205),AU,A8,+54m 51s,NA,NA,NA
+29,54,"Sosa, Daryl",Mitsubishi Lancer Evo IV,AU,A8,+1h 03m 11s,NA,NA,NA
+30,58,"Bates, Richard",Daihatsu Charade GTI,AU,A6,+1h 06m 13s,NA,NA,NA
+31,66,"Park, Jung-Yong",Kia Sephia,KR,N3,+1h 07m 34s,NA,NA,NA
+32,64,"Harris, Kim",Mitsubishi Lancer Evo II,AU,N4,+1h 09m 56s,NA,NA,NA
+33,75,"Misaki, Yoshifusa",Subaru Impreza 555,JP,N4,+1h 09m 57s,NA,NA,NA
+34,53,"Iwashita, Toshikatsu",Mitsubishi Lancer Evo III,JP,N4,+1h 13m 21s,NA,NA,NA
+35,78,"Morgan, Gavin",Subaru Legacy RS,AU,A8,+1h 14m 03s,NA,NA,NA
+36,70,"Tuckett, Abe",Daihatsu Charade GTI,AU,N2,+1h 15m 27s,NA,NA,NA
+37,69,"Takakuwa, Haruo",Subaru Impreza 555,JP,N4,+1h 16m 11s,NA,NA,NA
+38,82,"Phillips, Bevan",Hyundai Excel,AU,N2,+1h 32m 08s,NA,NA,NA
+39,77,"Rhodes, Cynan",Hyundai Lantra,AU,A7,+1h 33m 12s,NA,NA,NA
+40,73,"Shinohara, Takeshi",Mitsubishi Lancer Evo II,JP,N4,+1h 33m 49s,NA,NA,NA
+41,67,"Watkins, Roman",Toyota Corolla,AU,N3,+1h 35m 52s,NA,NA,NA
+42,79,"Whyatt, Robert",Toyota Corolla,AU,N3,+1h 47m 59s,NA,NA,NA
+43,86,"Hayes, William",Hyundai Lantra,AU,A7,+1h 54m 17s,NA,NA,NA
+44,68,"Neale, Frank",Hyundai Lantra,AU,A7,+2h 00m 32s,NA,NA,NA
+45,89,"Waters, Stuart",Daihatsu Charade GTI,AU,A6,+2h 02m 19s,NA,NA,NA
+46,65,"Narita, Kikuo",Toyota Corolla,JP,N2,+2h 12m 45s,NA,NA,NA
+47,88,"Tilbee, Justin",Daihatsu Charade,AU,N1,+2h 33m 36s,NA,NA,NA
+48,85,"Karvinen, Risto",Daihatsu Charade 1.3i,AU,A5,+2h 57m 11s,NA,NA,NA
+49,76,"Plant, Michael",Rover Mini Cooper,GB,A5,+3h 11m 29s,NA,NA,NA
+NA,4,"Eriksson, Kenneth",Subaru Impreza WRC97,SE,A8,NA,NA,SS15,accident
+NA,5,"Sainz, Carlos",Ford Escort WRC,ES,A8,NA,NA,SS21,cambelt
+NA,6,"Kankkunen, Juha",Ford Escort WRC,FI,A8,NA,NA,TC11C,did not start leg 2
+NA,12,"Fujimoto, Yoshio",Toyota Celica GT-Four (ST205),JP,A8,NA,NA,SS10,engine
+NA,13,"Shinozuka, Kenjiro",Mitsubishi Lancer Evo III,JP,A8,NA,NA,SS12,unknown
+NA,17,"McRae, Alister",Volkswagen Golf GTI 16V,GB,A7,NA,NA,SS21,engine
+NA,18,"Bell, Wayne",Hyundai Coupe Kit Car,AU,A7,NA,NA,SS13,accident
+NA,20,"Triner, Emil",Skoda Felicia Kit-Car,CZ,A6,NA,NA,SS7,engine
+NA,21,"Tajima, Nobuhiro",Suzuki Baleno Kit Car,JP,A7,NA,NA,SS8,engine
+NA,22,"Singh, Karamjit",Proton Wira 4WD,MY,N4,NA,NA,SS15,mechanical
+NA,26,"Graham, Greg",Subaru Impreza,NZ,N4,NA,NA,SS22,suspension
+NA,27,"Climent, Luis",Mitsubishi Lancer Evo III,ES,N4,NA,NA,SS3,engine
+NA,31,"Jones, Reece",Mitsubishi Lancer Evo III,NZ,N4,NA,NA,SS17,suspension
+NA,32,"Taguchi, Katsuhiko",Proton Wira 4WD,JP,N4,NA,NA,SS15,accident
+NA,33,"West, David",Mitsubishi Lancer Evo II,AU,N4,NA,NA,SS12,suspension
+NA,36,"Meekings, Ross",Toyota Celica GT-Four (ST205),NZ,A8,NA,NA,SS20,accident
+NA,38,"Nicoli, Robert",Hyundai Coupe Kit Car,AU,A7,NA,NA,SS21,accident
+NA,40,"Herridge, Dean",Hyundai Coupe Kit Car,AU,A7,NA,NA,SS12,driveshaft
+NA,41,"Akaba, Masayuki",Mitsubishi Lancer Evo III,JP,N4,NA,NA,SS2,engine
+NA,45,"Kobayashi, Wakujiro",Mitsubishi Lancer Evo IV,JP,N4,NA,NA,SS11,unknown
+NA,46,"Toba, Toshinoru",Subaru Impreza 555,JP,N4,NA,NA,SS15,accident
+NA,48,"Tam, Pak Wing",Mitsubishi Lancer Evo IV,CN,N4,NA,NA,SS15,accident
+NA,56,"Evans, Simon",Toyota Corolla,AU,A7,NA,NA,SS23,driveshaft
+NA,57,"Higgins, David",Rover Mini Cooper,GB,A5,NA,NA,SS2,electrics
+NA,60,"Kuraoka, Toshimitsu",Mitsubishi Lancer Evo I,JP,N4,NA,NA,SS15,clutch
+NA,61,"Dullard, Joel",Mitsubishi Lancer Evo III,AU,N4,NA,NA,SS6,turbo
+NA,62,"Sugimoto, Tatsuya",Mitsubishi Lancer Evo IV,JP,N4,NA,NA,SS6,fire
+NA,63,"Singh, Hari",Suzuki Swift GTI,ID,N1,NA,NA,SS2,suspension
+NA,71,"Lockhart, Ross",Nissan Pulsar GTI-R,AU,A8,NA,NA,SS15,accident
+NA,72,"Collins, Denise",Honda Civic,AU,N2,NA,NA,SS3,illness
+NA,74,"Sadek, Jeff",Subaru Legacy RS,AU,N4,NA,NA,SS3,head gasket
+NA,80,"Dunn, Robert",Mazda 323,AU,A7,NA,NA,SS23,driveshaft
+NA,81,"Butcher, Mark",Suzuki Swift GTI,AU,A5,NA,NA,SS3,engine
+NA,83,"Liddle, Barry",Daihatsu Charade,GB,A5,NA,NA,SS18,accident
+NA,84,"Reeves, Scott",Hyundai Lantra,AU,N3,NA,NA,SS8,engine
+NA,87,"Bailey, Danny",Toyota Corolla,AU,A6,NA,NA,SS7,OTL
+NA,92,"Cromb, Colin",Hyundai Lantra,AU,A7,NA,NA,SS10,accident

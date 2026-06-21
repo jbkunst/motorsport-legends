@@ -1,0 +1,40 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,4,"Waldegard, Bjorn",Toyota Celica,SE,G4,10h 28m 08s,NA,NA,NA
+2,7,"Eklund, Per",Toyota Celica,SE,G4,+3m 13s,NA,NA,NA
+3,2,"Rohrl, Walter",Opel Ascona 400,DE,G4,+5m 29s,NA,NA,NA
+4,1,"Salonen, Timo",Nissan Violet GTS,FI,G4,+13m 17s,NA,NA,NA
+5,12,"Millen, Rod",Mazda RX7,NZ,G2,+26m 47s,NA,NA,NA
+6,14,"Teesdale, Tony",Ford Escort RS1800,NZ,G4,+1h 02m 09s,NA,NA,NA
+7,16,"Leyraud, Jean-Louis",Ford Escort RS1800,FR,G4,+1h 09m 14s,NA,NA,NA
+8,24,"Stewart, Malcolm",Ford Escort RS1800,NZ,G2,+1h 23m 18s,NA,NA,NA
+9,18,"Adams, Paul",Toyota Starlet,NZ,G2,+1h 26m 58s,NA,NA,NA
+10,27,"Cook, Reg",Nissan Bluebird Turbo,NZ,G2,+1h 28m 46s,NA,NA,NA
+11,26,"Chandler, Morrie",Mitsubishi Lancer 2000 Turbo,NZ,G4,+2h 00m 33s,NA,NA,NA
+12,75,"Smith, Kevin",Toyota Corolla,NZ,G2,+2h 11m 33s,NA,NA,NA
+13,43,"Quinn, Shane",Ford Escort,NZ,G2,+2h 14m 02s,NA,NA,NA
+14,44,"Montgomery, Michael",Mazda RX3,NZ,G2,+2h 14m 54s,NA,NA,NA
+15,25,"Parkes, David",Ford Escort RS,NZ,G2,+2h 18m 45s,NA,NA,NA
+16,45,"Wilson, Ray",Toyota Starlet,NZ,G2,+2h 19m 03s,NA,NA,NA
+17,40,"Eyre, Stuart",Mazda RX3,NZ,G2,+2h 22m 18s,NA,NA,NA
+18,59,"Townsend, Doug",Ford Escort,NZ,G2,+2h 37m 01s,NA,NA,NA
+19,48,"Nuttall, Tim",Toyota Starlet,NZ,G2,+2h 39m 44s,NA,NA,NA
+20,54,"Aitken, Grant",Datsun Sunny,NZ,G2,+2h 51m 00s,NA,NA,NA
+21,66,"Goldsmith, Hugh",Mazda RX3,NZ,G2,+3h 05m 53s,NA,NA,NA
+22,65,"Anderson, Graham",Honda Civic,NZ,G2,+3h 07m 27s,NA,NA,NA
+23,52,"Wilson, Ross",Ford Escort RS2000,NZ,G2,+3h 14m 04s,NA,NA,NA
+24,67,"Byles, Neill",Mazda RX3,NZ,G2,+3h 16m 10s,NA,NA,NA
+25,46,"Sergel, John",Toyota Starlet,NZ,G2,+3h 41m 00s,NA,NA,NA
+26,69,"England, Lynn",Datsun 120Y,NZ,G2,+3h 47m 33s,NA,NA,NA
+27,73,"Martin, Alan",Ford Escort RS,NZ,A,+3h 48m 47s,NA,NA,NA
+28,57,"Carter, John",Ford Escort,NZ,G2,+3h 58m 44s,NA,NA,NA
+29,49,"Willy, Stephen",Mazda RX3,NZ,G2,+4h 28m 29s,NA,NA,NA
+30,64,"McNair, Richard",Mazda RX3,NZ,G2,+4h 34m 08s,NA,NA,NA
+31,72,"Halsall, Alan",Mazda RX2,NZ,G2,+5h 25m 04s,NA,NA,NA
+NA,3,"Mikkola, Hannu",Audi quattro,FI,G4,NA,NA,SS24,steering
+NA,6,"Mehta, Shekhar",Nissan Violet,KE,G4,NA,NA,SS21,engine
+NA,9,"Mouton, Michele",Audi quattro,FR,G4,NA,NA,SS14,oil pipe
+NA,10,"Pond, Tony",Nissan Violet GTS,GB,G4,NA,NA,SS14,accident
+NA,11,"Donald, Jim",Ford Escort RS,NZ,G4,NA,NA,SS14,accident
+NA,15,"Mitchell, Alan",Ford Escort RS1800,NZ,G4,NA,NA,SS7,engine
+NA,17,"Allport, Neil",Ford Escort RS1800,NZ,G2,NA,NA,SS27,accident
+NA,20,"McIntyre, Glenn",Ford Escort RS1800,NZ,G2,NA,NA,SS3,engine

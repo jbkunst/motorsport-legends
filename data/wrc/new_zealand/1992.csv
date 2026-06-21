@@ -1,0 +1,55 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Sainz, Carlos",Toyota Celica Turbo 4WD (ST185),ES,A8,6h 36m 10s,NA,NA,NA
+2,3,"Liatti, Piero",Lancia Delta HF Integrale,IT,A,+4m 30s,NA,NA,NA
+3,6,"Dunkerton, Ross",Mitsubishi Galant VR-4,AU,A,+10m 12s,NA,NA,NA
+4,11,"Sundstrom, Mikael",Lancia Delta HF Integrale,FI,N,+27m 02s,NA,NA,NA
+5,12,"Ordynski, Ed",Mitsubishi Galant VR-4,AU,N,+29m 54s,NA,NA,NA
+6,35,"Fujimoto, Yoshio",Nissan Sunny GTI-R,JP,N,+32m 26s,NA,NA,NA
+7,24,"Orr, Will",Subaru Legacy RS,NZ,N,+36m 29s,0:30,NA,NA
+8,40,"Taguchi, Seiichiro",Mitsubishi Galant VR-4,JP,N,+37m 21s,0:30,NA,NA
+9,34,"Sexton, Barry",Mazda 323,NZ,N,+38m 02s,0:20,NA,NA
+10,55,"Stallard, Craig",Mitsubishi Galant VR-4,AU,N,+39m 06s,NA,NA,NA
+11,29,"Inoue, Kiyoshi",Mitsubishi Galant VR-4,JP,N4,+41m 13s,NA,NA,NA
+12,48,"Davidson, Paddy",Nissan Pulsar GTI-R,NZ,N4,+41m 39s,NA,NA,NA
+13,19,"Wilson, Ray",Mazda 323 GT-X,NZ,A8,+42m 32s,NA,NA,NA
+14,44,"Scott, Lewis",Mitsubishi Galant VR-4,NZ,N4,+42m 57s,0:40,NA,NA
+15,14,"Meekings, Ross",Toyota Celica GT-4 (ST165),NZ,N4,+44m 24s,0:20,NA,NA
+16,46,"Kaneko, Shigeo",Mitsubishi Galant VR-4,JP,N4,+45m 26s,NA,NA,NA
+17,33,"Joblin, Chris",Mazda 323 GT-X,NZ,N4,+45m 50s,5:00,NA,NA
+18,49,"Soma, Kazuo",Mitsubishi Galant VR-4,JP,N4,+46m 38s,NA,NA,NA
+19,15,"Gottlicher, Kurt",Ford Sierra Cosworth 4x4,AT,N4,+50m 05s,0:20,NA,NA
+20,28,"Indiarto, Arief",Mitsubishi Galant VR-4,ID,N4,+51m 46s,NA,NA,NA
+21,31,"Jones, Reece",Mazda 323 GT-X,NZ,N4,+55m 49s,1:40,NA,NA
+22,63,"Artemenko, Alexander",Lada Samara,RU,A6,+57m 20s,NA,NA,NA
+23,54,"Warren, Stuart",Toyota Corolla GT,NZ,A6,+58m 14s,0:10,NA,NA
+24,32,"Goss, Roger",Mazda 323 4WD,NZ,A8,+59m 01s,1:00,NA,NA
+25,39,"Crowe, Trevor",Subaru Legacy,NZ,N4,+1h 01m 40s,1:30,NA,NA
+26,57,"Black, David",Toyota Corolla GT,NZ,A6,+1h 02m 47s,2:30,NA,NA
+27,20,"Neale, Frank",Toyota Celica GT-4 (ST165),AU,A8,+1h 05m 25s,0:10,NA,NA
+28,75,"Dunlop, Dexter",Honda Sport CRX,NZ,B,+1h 18m 11s,NA,NA,NA
+29,51,"Nakashima, Ritsu",Mitsubishi Galant VR-4,JP,N4,+1h 18m 27s,NA,NA,NA
+30,74,"McConnachie, Richard",Honda Civic,NZ,N2,+1h 22m 07s,1:50,NA,NA
+31,72,"Palmer, Tony",Toyota Corolla GT,NZ,N2,+1h 24m 29s,NA,NA,NA
+32,60,"Dodunski, James",Toyota Celica Turbo 4WD (ST185),NZ,N4,+1h 28m 07s,1:00,NA,NA
+33,67,"Nevatt, Mark",Toyota Corolla GT,NZ,N2,+1h 28m 20s,0:30,NA,NA
+34,59,"Slee, Vanessa",Daihatsu Charade GTI,NZ,N3,+1h 31m 50s,0:20,NA,NA
+35,64,"Yoshino, Masahiro",Nissan Pulsar GTI-R,JP,N4,+1h 41m 27s,0:40,NA,NA
+36,71,"Asano, Yuji",Nissan March Turbo,JP,N2,+1h 46m 47s,2:00,NA,NA
+37,73,"Lesicki, Andrzej",Lada Samara,NZ,A,+1h 49m 56s,3:20,NA,NA
+38,58,"Sano, Tetsuo",Subaru Legacy,JP,N4,+1h 53m 55s,4:40,NA,NA
+39,69,"Simmonds, Michael",Toyota Starlet,NZ,A5,+1h 54m 53s,1:40,NA,NA
+40,77,"Page, Murray",Suzuki Swift,NZ,N2,+2h 19m 25s,0:20,NA,NA
+41,62,"Falkner, Graeme",Daihatsu Charade GTI,NZ,N3,+2h 48m 31s,NA,NA,NA
+NA,2,"Vatanen, Ari",Subaru Legacy RS,FI,A,NA,NA,SS14,engine
+NA,4,"McRae, Colin",Subaru Legacy RS,GB,A,NA,NA,SS5,engine
+NA,5,"Bourne, Peter",Subaru Legacy RS,NZ,A,NA,NA,SS8,engine
+NA,7,"Millen, Rod",Mazda 323 GT-X,NZ,A,NA,NA,SS35,engine
+NA,8,"Allport, Neil",Mazda 323 GT-X,NZ,A,NA,NA,SS20,accident
+NA,9,"Menem Jr., Carlos",Lancia Delta HF Integrale,AR,N,NA,NA,SS2,accident
+NA,10,"bin Sulayem, Mohammed",Ford Sierra Cosworth 4x4,AE,N,NA,NA,End of Leg 2,driver illness
+NA,16,"Stokes, Brian",Ford Sierra Cosworth 4x4,NZ,A,NA,NA,SS12,accident
+NA,17,"McAndrew, Joe",Subaru Legacy RS,NZ,A,NA,NA,SS36,engine
+NA,26,"Panontin, Mario",Toyota Celica Turbo 4WD (ST185),IT,N4,NA,NA,NA,transmission
+NA,NA,"Graham, Greg",? Unknown Make ? ? Unknown Model ?,NZ,NA,NA,NA,NA,accident
+NA,NA,"Minamino, Tamotsu",? Unknown Make ? ? Unknown Model ?,JP,NA,NA,NA,NA,unknown
+NA,NA,"Sato, Masahiro",? Unknown Make ? ? Unknown Model ?,JP,NA,NA,NA,NA,unknown

@@ -1,0 +1,14 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"Mouton, Michele",Audi quattro,FR,G4,8h 16m 24s,NA,NA,NA
+2,2,"Rohrl, Walter",Opel Ascona 400,DE,G4,+35m 25s,NA,NA,NA
+3,5,"de Vitta, Domingo",Ford Escort RS,UY,G2,+1h 59m 06s,NA,NA,NA
+4,9,"Rodrigues, Aparecido",Volkswagen Passat,BR,G2,+3h 24m 44s,NA,NA,NA
+NA,1,"Mikkola, Hannu",Audi quattro,FI,G4,NA,NA,SS4,OTL
+NA,4,"Mehta, Shekhar",Nissan Violet GTS,KE,G4,NA,NA,SS27,engine
+NA,6,"West, Federico",Ford Escort RS,UY,G2,NA,NA,SS6,OTL
+NA,7,"Etchegoyen, Luis",Ford Escort RS,UY,G2,NA,NA,SS6,OTL
+NA,8,"Fleck, Jorge",Volkswagen Passat,BR,G2,NA,NA,SS4,OTL
+NA,12,"Albertengo, Ricardo",Peugeot 504,AR,G2,NA,NA,SS9,gearbox mounting
+NA,15,"Francia, Carlos",Peugeot 504,AR,G2,NA,NA,SS6,head gasket
+NA,18,"Bittar, Roberto",Toyota Celica,PY,G2,NA,NA,SS6,OTL
+NA,19,"Althein, Helmuth",Volkswagen Gol,BR,G2,NA,NA,SS6,OTL

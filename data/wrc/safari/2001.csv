@@ -1,0 +1,42 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,7,"Makinen, Tommi",Mitsubishi Lancer Evo 6.5,FI,A8,8h 58m 37s,0:10,NA,NA
+2,16,"Rovanpera, Harri",Peugeot 206WRC (2001),FI,A8,+12m 37s,NA,NA,NA
+3,11,"Schwarz, Armin",Skoda Octavia WRC Evo2,DE,A8,+18m 15s,NA,NA,NA
+4,17,"Delecour, Francois",Ford Focus RS WRC 01,FR,A8,+20m 36s,1:40,NA,NA
+5,8,"Loix, Freddy",Mitsubishi Carisma GT,BE,A8,+1h 44m 02s,3:10,NA,NA
+6,22,"Pozzo, Gabriel",Mitsubishi Lancer Evo VI,AR,N4,+2h 07m 26s,2:30,NA,NA
+7,24,"Ligato, Marcos",Mitsubishi Lancer Evo VI,AR,N4,+2h 07m 50s,2:30,NA,NA
+8,26,"Green, Rory",Subaru Impreza,KE,A8,+2h 55m 56s,10:30,NA,NA
+9,31,"Anwar, Azar",Mitsubishi Lancer Evo,KE,N4,+3h 13m 03s,0:30,NA,NA
+10,33,"Stohl, Rudolf",Mitsubishi Lancer Evo VI,AT,N4,+4h 41m 23s,1:20,NA,NA
+11,30,"Latvala, Jari",Mitsubishi Lancer Evo,FI,N4,+5h 05m 56s,NA,NA,NA
+12,34,"Rose, Lee",Subaru Impreza,KE,A8,+5h 07m 25s,4:30,NA,NA
+13,42,"Smith, Don",Subaru Impreza,KE,N4,+5h 23m 19s,1:30,NA,NA
+14,44,"Kayser, Fredrik",Subaru Impreza,KE,N4,+6h 48m 47s,1:30,NA,NA
+15,36,"van Tongeren, Michelle",Subaru Impreza,KE,A8,+8h 04m 58s,5:00,NA,NA
+NA,1,"Gronholm, Marcus",Peugeot 206WRC (2001),FI,A8,NA,NA,CS4,suspension
+NA,2,"Auriol, Didier",Peugeot 206WRC (2001),FR,A8,NA,NA,CS4,rolled
+NA,3,"Sainz, Carlos",Ford Focus RS WRC 01,ES,A8,NA,NA,CS5,engine
+NA,4,"McRae, Colin",Ford Focus RS WRC 01,GB,A8,NA,NA,CS3,clutch
+NA,5,"Burns, Richard",Subaru Impreza WRC2001,GB,A8,NA,NA,CS1,suspension
+NA,6,"Solberg, Petter",Subaru Impreza WRC2001,NO,A8,NA,NA,CS10,lost wheel
+NA,12,"Thiry, Bruno",Skoda Octavia WRC Evo2,BE,A8,NA,NA,CS13,off road
+NA,19,"Arai, Toshihiro",Subaru Impreza WRC2001,JP,A8,NA,NA,CS4,suspension
+NA,20,"Dor, Frederic",Subaru Impreza,FR,A8,NA,NA,CS6,suspension
+NA,21,"Kresta, Roman",Skoda Octavia WRC,CZ,A8,NA,NA,CS3,wheel
+NA,23,"Blomqvist, Stig",Mitsubishi Lancer Evo,SE,N4,NA,NA,CS6,radiator
+NA,25,"Cavenagh, Alastair",Subaru Impreza,KE,N4,NA,NA,CS5,mechanical
+NA,27,"Bailey, Paul",Toyota Celica GT-Four (ST205),KE,A8,NA,NA,CS1,clutch
+NA,28,"Hellier, Rob",Mitsubishi Lancer Evo,KE,A8,NA,NA,CS4,engine
+NA,29,"Lloyd, John",Mitsubishi Lancer Evo IV,GB,A8,NA,NA,CS9,radiator
+NA,32,"Kimathi, Phineas",Subaru Impreza,KE,N4,NA,NA,CS8,fuel pump
+NA,35,"Butt, Fazal",Subaru Impreza,KE,A8,NA,NA,CS9,transmission
+NA,37,"Khan, Jamil",Subaru Impreza,KE,N4,NA,NA,CS1,clutch
+NA,38,"Yamada, Masayuki",Subaru Impreza,JP,N4,NA,NA,CS4,engine
+NA,39,"Marrini, Stefano",Mitsubishi Lancer Evo VI,IT,N4,NA,NA,CS1,co-driver ill
+NA,41,"Locho, Musa",Subaru Impreza,KE,N4,NA,NA,CS8,electrical
+NA,43,"Ngunjiri, John",Subaru Impreza,KE,N4,NA,NA,CS2,engine
+NA,45,"Rocca, Stefano",Subaru Impreza,IT,A8,NA,NA,CS7,differential
+NA,46,"Raybould, Pablo",Rover Mini Cooper,GB,A5,NA,NA,CS1,transmission
+NA,48,"Jutley, Raj",Peugeot 205 GTI,KE,A7,NA,NA,CS1,driveshaft
+NA,49,"Lalani, Diamond",Subaru Impreza,KE,N4,NA,NA,CS3,OTL

@@ -1,0 +1,46 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,8,"Tanak, Ott",Toyota Yaris WRC,EE,RC1,"3h 59m 24,5s",NA,NA,NA
+2,7,"Latvala, Jari-Matti",Toyota Yaris WRC,FI,RC1,"+22,3s",NA,NA,NA
+3,6,"Paddon, Hayden",Hyundai i20 Coupe WRC,NZ,RC1,"+1m 46,3s",NA,NA,NA
+4,3,"Suninen, Teemu",Ford Fiesta RS WRC 2017,FI,RC1,"+4m 10,9s",NA,NA,NA
+5,4,"Mikkelsen, Andreas",Hyundai i20 Coupe WRC,NO,RC1,"+7m 11,7s",3:20,NA,NA
+6,81,"Solberg, Henning",Ford Fiesta,NO,RC2,"+13m 40,6s",NA,NA,NA
+7,32,"Kopecky, Jan",Skoda Fabia,CZ,RC2,"+18m 25,2s",NA,NA,NA
+8,37,"Tempestini, Simone",Citroen C3,IT,RC2,"+19m 37,1s",0:20,NA,NA
+9,39,"Ingram, Christopher",Skoda Fabia,GB,RC2,"+20m 21,3s",NA,NA,NA
+10,1,"Ogier, Sebastien",Ford Fiesta RS WRC 2017,FR,RC1,"+20m 51,2s",1:00,NA,NA
+11,36,"Kajetanowicz, Kajetan",Ford Fiesta,PL,RC2,"+21m 13,9s",NA,NA,NA
+12,2,"Evans, Elfyn",Ford Fiesta RS WRC 2017,GB,RC1,"+22m 09,0s",5:10,NA,NA
+13,34,"Heller, Pedro",Ford Fiesta,CL,RC2,"+26m 06,4s",NA,NA,NA
+14,41,"Cukurova, Burak",Skoda Fabia,TU,RC2,"+32m 21,6s",NA,NA,NA
+15,12,"al-Qassimi, Khalid",Citroen C3 WRC,AE,RC1,"+35m 56,1s",NA,NA,NA
+16,5,"Neuville, Thierry",Hyundai i20 Coupe WRC,BE,RC1,"+38m 46,5s",NA,NA,NA
+17,61,"Bergkvist, Emil",Ford Fiesta,SE,RC4,"+40m 38,7s",NA,NA,NA
+18,35,"Salvi, Diogo",Skoda Fabia,PT,RC2,"+43m 42,7s",2:20,NA,NA
+19,62,"Radstrom, Dennis",Ford Fiesta,SE,RC4,"+44m 32,8s",0:10,NA,NA
+20,72,"Fernandez Piraino, Emilio Andres",Ford Fiesta,CL,RC4,"+48m 37,1s",NA,NA,NA
+21,66,"Devine, Callum",Ford Fiesta,IE,RC4,"+50m 22,1s",0:10,NA,NA
+22,43,"Manyera, Bora",Ford Fiesta,TU,RC2,"+53m 23,7s",NA,NA,NA
+23,10,"Ostberg, Mads",Citroen C3 WRC,NO,RC1,"+54m 36,1s",NA,NA,NA
+24,68,"Banaz, Bugra",Ford Fiesta,TU,RC4,"+55m 30,4s",NA,NA,NA
+25,71,"Williams, Tom",Ford Fiesta,GB,RC4,"+58m 34,9s",NA,NA,NA
+26,70,"Holder, David",Ford Fiesta,NZ,RC4,"+59m 01,7s",NA,NA,NA
+27,44,"Gural, Erkan",Skoda Fabia,TU,RC2,"+1h 00m 46,0s",NA,NA,NA
+28,45,"Vassilakis, Georgios",Ford Fiesta,GR,RC2,"+1h 44m 00,0s",2:30,NA,NA
+29,67,"Oldrati, Enrico",Ford Fiesta,IT,RC4,"+1h 46m 01,3s",NA,NA,NA
+30,74,"Cook, Louise",Ford Fiesta,GB,RC4,"+1h 51m 46,0s",NA,NA,NA
+31,82,"Cetinkaya Bonnet, Burcu",Ford Fiesta,TU,RC2,"+1h 53m 39,9s",3:40,NA,NA
+NA,9,"Lappi, Esapekka",Toyota Yaris WRC,FI,RC1,NA,NA,SS10,accident
+NA,11,"Breen, Craig",Citroen C3 WRC,IE,RC1,NA,NA,TC12,fire
+NA,21,"al-Rajhi, Yazeed",Ford Fiesta RS WRC,SA,RC1,NA,NA,TC7D,mechanical
+NA,31,"Tidemand, Pontus",Skoda Fabia,SE,RC2,NA,NA,TC7C,mechanical
+NA,33,"Greensmith, Fergus",Ford Fiesta,GB,RC2,NA,NA,SS16,mechanical
+NA,38,"Bostanci, Murat",Ford Fiesta,TU,RC2,NA,NA,SS14,mechanical
+NA,40,"Avci, Yagiz",Ford Fiesta,TU,RC2,NA,NA,SS8,mechanical
+NA,42,"Fahri, Deniz",Ford Fiesta,TU,RC2,NA,NA,TC7C,mechanical
+NA,63,"Franceschi, Jean-Baptiste",Ford Fiesta,FR,RC4,NA,NA,SS16,mechanical
+NA,64,"Torn, Ken",Ford Fiesta,EE,RC4,NA,NA,TC16A,mechanical
+NA,65,"Tannert, Julius",Ford Fiesta,DE,RC4,NA,NA,SS15,mechanical
+NA,73,"Badiu, Raul",Ford Fiesta,UY,RC4,NA,NA,SS15,mechanical
+NA,84,"Ozdemir, Umit Can",Ford Fiesta,TU,RC4,NA,NA,TC7C,mechanical
+NA,89,"Karamanoglu, Kagan",Ford Fiesta,TU,RC4,NA,NA,TC7C,mechanical

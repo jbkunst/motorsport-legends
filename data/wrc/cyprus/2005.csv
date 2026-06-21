@@ -1,0 +1,53 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Loeb, Sebastien",Citroen Xsara WRC,FR,A8,"5h 02m 29,4s",NA,NA,NA
+2,16,"Stohl, Manfred",Citroen Xsara WRC,AT,A8,"+4m 09,5s",NA,NA,NA
+3,8,"Martin, Markko",Peugeot 307WRC Evo2,EE,A8,"+4m 41,9s",NA,NA,NA
+4,14,"Solberg, Henning",Ford Focus RS WRC 04,NO,A8,"+5m 15,7s",NA,NA,NA
+5,3,"Gardemeister, Toni",Ford Focus RS WRC 04,FI,A8,"+7m 37,3s",NA,NA,NA
+6,4,"Kresta, Roman",Ford Focus RS WRC 04,CZ,A8,"+10m 17,4s",NA,NA,NA
+7,9,"Rovanpera, Harri",Mitsubishi Lancer WRC05,FI,A8,"+12m 18,7s",NA,NA,NA
+8,17,"Carlsson, Daniel",Peugeot 206 WRC,SE,A8,"+16m 03,2s",NA,NA,NA
+9,12,"Tuohino, Janne",Skoda Fabia WRC 05,FI,A8,"+16m 46,3s",NA,NA,NA
+10,6,"Atkinson, Christopher",Subaru Impreza WRC2005,AU,A8,"+27m 01,5s",NA,NA,NA
+11,10,"Panizzi, Gilles",Mitsubishi Lancer WRC05,FR,A8,"+31m 40,4s",0:50,NA,NA
+12,51,"Tirabassi, Brice",Subaru Impreza WRX,FR,N4,"+32m 08,8s",NA,NA,NA
+13,11,"Schwarz, Armin",Skoda Fabia WRC 05,DE,A8,"+34m 33,2s",NA,NA,NA
+14,44,"Beltran, Sebastian",Subaru Impreza,AR,N4,"+36m 34,7s",NA,NA,NA
+15,61,"Tsouloftas, Andreas",Mitsubishi Lancer Evo VI,CY,A8,"+38m 50,3s",NA,NA,NA
+16,36,"Ligato, Marcos",Subaru Impreza WRX,AR,N4,"+39m 21,7s",0:10,NA,NA
+17,40,"Pozzo, Gabriel",Subaru Impreza,AR,N4,"+39m 32,8s",NA,NA,NA
+18,33,"al-Attiyah, Nasser",Subaru Impreza WRX,QA,N4,"+40m 27,1s",0:10,NA,NA
+19,71,"Aigner, Andreas",Mitsubishi Lancer Evo VIII,AT,N4,"+40m 31,3s",0:10,NA,NA
+20,34,"Nutahara, Fumio",Mitsubishi Lancer Evo VIII,JP,N4,"+46m 30,4s",0:30,NA,NA
+21,31,"Arai, Toshihiro",Subaru Impreza WRX,JP,N4,"+46m 37,5s",NA,NA,NA
+22,69,"Papasavvas, Demetris",Mitsubishi Lancer Evo VIII,CY,N4,"+50m 53,7s",NA,NA,NA
+23,72,"Muller, Quirin",Mitsubishi Lancer Evo VIII,DE,N4,"+52m 24,0s",NA,NA,NA
+24,63,"Uspenski, Sergey",Subaru Impreza,RU,N4,"+54m 16,9s",NA,NA,NA
+25,78,"Stylianou, Floros",Mitsubishi Lancer Evo,CY,N4,"+55m 35,2s",NA,NA,NA
+26,65,"Thomas, Chris",Mitsubishi Lancer Evo VII,CY,N4,"+56m 41,7s",NA,NA,NA
+27,42,"Villagra, Federico",Mitsubishi Lancer Evo VIII,AR,N4,"+59m 00,6s",NA,NA,NA
+28,45,"Errani, Riccardo",Mitsubishi Lancer Evo VIII,IT,N4,"+1h 03m 08,3s",2:40,NA,NA
+29,74,"Wilks, Guy",Suzuki Ignis S1600 5d,GB,A6,"+1h 04m 59,2s",NA,NA,NA
+30,66,"Koutsakos, Kikis",Subaru Impreza,CY,N4,"+1h 12m 16,5s",NA,NA,NA
+31,80,"Constantinou, Andreas",Subaru Impreza,CY,N4,"+1h 14m 52,8s",0:10,NA,NA
+32,67,"Chartoupalos, Yiotis",Mitsubishi Lancer Evo VI,CY,N4,"+1h 19m 56,0s",NA,NA,NA
+33,73,"Andersson, Per-Gunnar",Suzuki Ignis S1600 5d,SE,A6,"+1h 23m 35,1s",NA,NA,NA
+34,32,"Pons, Xavier",Mitsubishi Lancer Evo VIII,ES,N4,"+1h 24m 07,5s",1:50,NA,NA
+35,76,"Christodoulou, Christos",Mitsubishi Lancer Evo VI,CY,N4,"+1h 27m 20,5s",NA,NA,NA
+36,64,"Dorossinski, Alexandre",Subaru Impreza,RU,N4,"+1h 28m 39,7s",NA,NA,NA
+37,83,"Nicolaou, Andreas",Suzuki Ignis,CY,N2,"+1h 29m 55,7s",NA,NA,NA
+38,75,"Yiangou, Yiangos",Mitsubishi Lancer Evo,CY,N4,"+1h 35m 08,8s",0:20,NA,NA
+39,84,"Weiss, Edith",Skoda Octavia KitCar,DE,A7,"+1h 40m 10,4s",NA,NA,NA
+NA,2,"Duval, Francois",Citroen Xsara WRC,BE,A8,NA,NA,SS11,accident
+NA,5,"Solberg, Petter",Subaru Impreza WRC2005,NO,A8,NA,NA,TC6D,mechanical
+NA,7,"Gronholm, Marcus",Peugeot 307WRC Evo2,FI,A8,NA,NA,TC6E,mechanical
+NA,15,"Warmbold, Antony",Ford Focus RS WRC 04,DE,A8,NA,NA,TC13,mechanical
+NA,18,"Benik, Balazs",Ford Focus WRC,HU,A8,NA,NA,SS1,mechanical
+NA,19,"Recordati, Giovanni",Toyota Corolla WRC,IT,A8,NA,NA,TC13,mechanical
+NA,35,"Singh, Karamjit",Proton Pert,MY,N4,NA,NA,TC15,mechanical
+NA,37,"Higgins, Mark",Subaru Impreza,GB,N4,NA,NA,SS4,mechanical
+NA,38,"Frisiero, Fabio",Subaru Impreza WRX,IT,N4,NA,NA,SS16,mechanical
+NA,41,"Barratt, Natalie",Mitsubishi Lancer Evo VIII,GB,N4,NA,NA,SS16,off road
+NA,48,"Rosselot, Luis Ignacio",Mitsubishi Lancer Evo VIII,CL,N4,NA,NA,SS1,mechanical
+NA,49,"al-Wahaibi, Hamed",Subaru Impreza,OM,N4,NA,NA,TC16,mechanical
+NA,81,"Dobson, Ken",Mitsubishi Lancer Evo VIII,GB,N4,NA,NA,SS18,mechanical

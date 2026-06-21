@@ -1,0 +1,86 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,4,"Hirvonen, Mikko",Ford Focus RS WRC 07,FI,A8,"3h 23m 57,6s",NA,NA,NA
+2,2,"Sordo Castillo, Daniel",Citroen C4 WRC,ES,A8,"+37,4s",NA,NA,NA
+3,10,"Solberg, Henning",Ford Focus RS WRC 06,NO,A8,"+4m 33,7s",NA,NA,NA
+4,16,"Wilson, Matthew",Ford Focus RS WRC 06,GB,A8,"+6m 37,9s",NA,NA,NA
+5,11,"Perez Companc, Luis",Ford Focus RS WRC 06,AR,A8,"+6m 40,4s",NA,NA,NA
+6,5,"Stohl, Manfred",Citroen Xsara WRC,AT,A8,"+7m 04,3s",0:40,NA,NA
+7,12,"Villagra, Federico",Ford Focus RS WRC 06,AR,A8,"+11m 15,3s",NA,NA,NA
+8,61,"Taguchi, Katsuhiko",Mitsubishi Lancer Evo IX,JP,N4,"+20m 40,1s",NA,NA,NA
+9,54,"Pozzo, Gabriel",Mitsubishi Lancer Evo IX,AR,N4,"+21m 53,0s",0:20,NA,NA
+10,66,"Ishida, Masayuki",Mitsubishi Lancer Evo IX,JP,N4,"+24m 32,4s",NA,NA,NA
+11,41,"Kuzaj, Leszek",Subaru Impreza WRX,PL,A8,"+24m 33,1s",0:10,NA,NA
+12,52,"Kamada, Takuma",Subaru Impreza WRX,JP,N4,"+24m 41,4s",NA,NA,NA
+13,69,"Kitamura, Kazuhiro",Subaru Impreza WRX,JP,N4,"+25m 50,1s",NA,NA,NA
+14,62,"Katsuta, Norihiko",Subaru Impreza WRX,JP,N4,"+26m 07,9s",NA,NA,NA
+15,79,"Aava, Urmo",Suzuki Swift,EE,A6,"+26m 10,3s",NA,NA,NA
+16,7,"Solberg, Petter",Subaru Impreza WRC2007,NO,A8,"+26m 28,2s",NA,NA,NA
+17,53,"Vertunov, Evgeny",Subaru Impreza WRX,RU,N4,"+26m 44,1s",0:10,NA,NA
+18,64,"Mason, Richard",Subaru Impreza WRX,NZ,N4,"+27m 20,3s",NA,NA,NA
+19,34,"Higgins, Mark",Mitsubishi Lancer Evo IX,GB,N4,"+27m 25,7s",0:50,NA,NA
+20,73,"Iwashita, Eichi",Mitsubishi Lancer Evo VIII,JP,N4,"+32m 44,9s",NA,NA,NA
+21,50,"Flodin, Patrik",Subaru Impreza WRX,SE,N4,"+34m 42,0s",0:40,NA,NA
+22,70,"Fukunaga, Osamu",Mitsubishi Lancer Evo IX,JP,N4,"+35m 37,1s",NA,NA,NA
+23,36,"Hanninen, Juho",Mitsubishi Lancer Evo IX,FI,N4,"+39m 14,8s",NA,NA,NA
+24,38,"Ikemachi, Yoshio",Subaru Impreza WRX,JP,N4,"+39m 51,1s",0:20,NA,NA
+25,9,"Latvala, Jari-Matti",Ford Focus RS WRC 07,FI,A8,"+40m 49,6s",NA,NA,NA
+26,48,"Farrah, Amjad",Mitsubishi Lancer Evo IX,JO,N4,"+41m 25,8s",NA,NA,NA
+27,80,"Nakamura, Mitsugu",Mitsubishi Lancer Evo VIII,JP,N4,"+42m 09,1s",NA,NA,NA
+28,75,"Nakajima, Masahiro",Subaru Impreza WRX,JP,N4,"+43m 21,7s",NA,NA,NA
+29,31,"Arai, Toshihiro",Subaru Impreza WRX,JP,N4,"+44m 05,7s",NA,NA,NA
+30,43,"David, Claudiu Stefan",Mitsubishi Lancer Evo IX,RO,N4,"+46m 55,0s",NA,NA,NA
+31,37,"Pavlides, Spyros",Subaru Impreza WRX,CY,N4,"+51m 54,7s",0:30,NA,NA
+32,68,"Taguchi, Yukihiro",Mitsubishi Lancer Evo IX,JP,N4,"+52m 01,5s",NA,NA,NA
+33,67,"Kahlfuss, Michael",Mitsubishi Lancer Evo VIII,DE,N4,"+53m 49,6s",NA,NA,NA
+34,91,"Minamino, Tamotsu",Mitsubishi Lancer Evo VIII,JP,N4,"+54m 00,1s",1:10,NA,NA
+35,17,"Pons, Xavier",Subaru Impreza WRC2007,ES,A8,"+54m 11,6s",NA,NA,NA
+36,95,"Takahashi, Fuyuhiko",Subaru Impreza WRX,JP,N4,"+55m 09,9s",NA,NA,NA
+37,98,"Saito, Tatsuru",Mitsubishi Lancer Evo IX,JP,N4,"+55m 53,7s",1:00,NA,NA
+38,90,"Nishi, Takashi",Subaru Impreza WRX,JP,N4,"+56m 40,5s",NA,NA,NA
+39,92,"Aoki, Mitsuhiro",Mitsubishi Lancer Evo IX,JP,N4,"+56m 46,1s",NA,NA,NA
+40,65,"Linari, Gianluca",Subaru Impreza WRX,IT,N4,"+59m 10,3s",NA,NA,NA
+41,89,"Namba, Hideaki",Subaru Impreza WRX,JP,N4,"+59m 41,2s",NA,NA,NA
+42,97,"Ikeda, Tetsuya",Mitsubishi Lancer Evo IX,JP,N4,"+1h 00m 52,2s",NA,NA,NA
+43,88,"Bamba, Akira",Mitsubishi Lancer Evo VIII,JP,N4,"+1h 01m 40,8s",NA,NA,NA
+44,102,"Oi, Kozue",Ford Fiesta ST,JP,N3,"+1h 05m 17,4s",NA,NA,NA
+45,85,"Terao, Kimihide",Subaru Impreza WRX,JP,N4,"+1h 05m 20,6s",0:10,NA,NA
+46,99,"Onodera, Kiyoyuki",Daihatsu Boon,JP,A5,"+1h 05m 49,1s",0:20,NA,NA
+47,51,"Rauam, Martin",Mitsubishi Lancer Evo IX,EE,N4,"+1h 06m 07,6s",0:10,NA,NA
+48,96,"Yoshioka, Takuro",Subaru Impreza WRX,JP,N4,"+1h 08m 26,1s",NA,NA,NA
+49,74,"Masumura, Atsushi",Mitsubishi Lancer Evo IX,JP,N4,"+1h 09m 11,3s",0:50,NA,NA
+50,84,"Yoshitani, Hisatoshi",Mitsubishi Lancer Evo VIII,JP,N4,"+1h 10m 02,3s",NA,NA,NA
+51,81,"Mitani, Yoshikazu",Mitsubishi Lancer Evo VII,JP,N4,"+1h 10m 59,6s",1:10,NA,NA
+52,112,"Amano, Tomoyuki",Toyota Yaris,JP,A5,"+1h 15m 03,7s",3:20,NA,NA
+53,76,"Hoshino, Hiroshi",Mitsubishi Lancer Evo IX,JP,N4,"+1h 16m 26,7s",0:50,NA,NA
+54,104,"Fukumoto, Masamichi",Mitsubishi Lancer Evo VI,JP,N4,"+1h 16m 43,0s",1:00,NA,NA
+55,87,"Imai, Satoshi",Mitsubishi Lancer Evo VII,JP,N4,"+1h 19m 11,6s",0:10,NA,NA
+56,109,"Tokita, Yukihiro",Honda Integra Type-R,JP,A7,"+1h 20m 26,7s",NA,NA,NA
+57,78,"Akiba, Takayuki",Mitsubishi Lancer Evo IX,JP,N4,"+1h 22m 54,2s",NA,NA,NA
+58,107,"Ito, Masuhiro",Daihatsu Boon,JP,N1,"+1h 22m 58,2s",NA,NA,NA
+59,114,"Hirayama, Risa",Honda Civic,JP,A6,"+1h 23m 50,2s",0:20,NA,NA
+60,40,"Marrini, Stefano",Mitsubishi Lancer Evo IX,IT,N4,"+1h 27m 47,1s",NA,NA,NA
+61,82,"Yoshii, Takahiro",Mitsubishi Lancer Evo VII,JP,N4,"+1h 28m 05,5s",3:00,NA,NA
+62,105,"Irinatsu, Takashi",Honda Civic,JP,A6,"+1h 30m 17,0s",0:30,NA,NA
+63,108,"Hagiwara, Yasunori",Subaru Impreza WRX,JP,N4,"+1h 40m 29,1s",NA,NA,NA
+64,111,"Kato, Hiroshi",Honda Civic,JP,N2,"+1h 46m 59,5s",0:40,NA,NA
+65,93,"Matsui, Yu",Mitsubishi Lancer Evo VIII,JP,N4,"+1h 47m 24,8s",1:40,NA,NA
+66,106,"Nakanishi, Masato",Honda Integra Type-R,JP,N3,"+1h 47m 55,4s",NA,NA,NA
+67,100,"Hiratsuka, Tadahiro",Daihatsu Boon,JP,A5,"+1h 50m 15,0s",NA,NA,NA
+68,110,"Sudoh, Hiroshi",Honda Civic Type-R,JP,A7,"+2h 14m 20,4s",0:10,NA,NA
+69,101,"Sugiyama, Masami",Toyota Run X Rsi,JP,A7,"+2h 15m 01,1s",2:10,NA,NA
+70,113,"Ogura, Masatoshi",Daihatsu Boon,JP,N1,"+2h 15m 47,2s",NA,NA,NA
+71,115,"Fukuzawa, Yuko",Mitsubishi Lancer Evo VIII,JP,N4,"+2h 25m 43,5s",1:20,NA,NA
+72,116,"Ohkura, Kenji",Suzuki Ignis,JP,N2,"+2h 55m 58,5s",5:10,NA,NA
+NA,1,"Loeb, Sebastien",Citroen C4 WRC,FR,A8,NA,NA,TC26A,mechanical
+NA,3,"Gronholm, Marcus",Ford Focus RS WRC 07,FI,A8,NA,NA,TC4C,roll cage damage
+NA,8,"Atkinson, Christopher",Subaru Impreza WRC2007,AU,A8,NA,NA,SS6,accident
+NA,35,"Nutahara, Fumio",Mitsubishi Lancer Evo IX,JP,N4,NA,NA,SS14,mechanical
+NA,46,"Araujo, Armindo",Mitsubishi Lancer Evo IX,PT,N4,NA,NA,post-event,technical irregularity
+NA,63,"Gilmour, Emma",Subaru Impreza WRX,NZ,N4,NA,NA,TC20D,mechanical
+NA,71,"Watanabe, Yozo",Mitsubishi Lancer Evo VIII,JP,N4,NA,NA,SS12,mechanical
+NA,72,"Sumiyama, Yuya",Subaru Impreza WRX,JP,N4,NA,NA,TC20D,mechanical
+NA,77,"Oshima, Haruo",Mitsubishi Lancer Evo IX,JP,N4,NA,NA,TC20C,mechanical
+NA,83,"Ito, Satoru",Mitsubishi Lancer Evo IX,JP,N4,NA,NA,TC10C,mechanical
+NA,86,"Tomizawa, Hiroaki",Subaru Impreza WRX,JP,N4,NA,NA,SS1,mechanical
+NA,94,"Yamada, Masaki",Mitsubishi Lancer Evo VI,JP,N4,NA,NA,TC20D,mechanical
+NA,103,"Hara, Yasushi",Daihatsu Boon,JP,N1,NA,NA,TC7,mechanical

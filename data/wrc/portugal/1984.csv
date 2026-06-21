@@ -1,0 +1,30 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Mikkola, Hannu",Audi quattro A2,FI,B11,7h 35m 32s,NA,NA,NA
+2,2,"Alen, Markku",Lancia Rally 037 evo,FI,B11,+27s,NA,NA,NA
+3,5,"Bettega, Attilio",Lancia Rally 037 evo,IT,B11,+22m 49s,0:06,NA,NA
+4,8,"Biasion, Massimo",Lancia Rally 037 evo,IT,B11,+23m 50s,0:10,NA,NA
+5,9,"Ragnotti, Jean",Renault 5 Turbo,FR,B10,+38m 10s,NA,NA,NA
+6,4,"Rohrl, Walter",Audi quattro A2,DE,B11,+45m 50s,0:10,NA,NA
+7,17,"Grundel, Karl",Volkswagen Golf GTi,SE,A7,+1h 03m 28s,NA,NA,NA
+8,22,"Ortigao, Jorge",Toyota Corolla,PT,A6,+1h 44m 12s,NA,NA,NA
+9,27,"Dorche, Christian",Citroen Visa,FR,B10,+1h 49m 31s,NA,NA,NA
+10,20,"Gooding, Russell",Vauxhall Chevette 2300HSR,GB,B11,+1h 59m 35s,0:03,NA,NA
+11,29,"Meylan, Paul-Marc",Nissan 240 RS,FR,B11,+2h 01m 52s,0:01,NA,NA
+12,33,"Sena, Pedro",Ford Escort RS2000,PT,A7,+2h 04m 42s,0:10,NA,NA
+13,24,"Mello Breyner, Manuel",Audi 80 quattro,PT,N4,+2h 16m 11s,0:09,NA,NA
+14,54,"Santos, Artur",Opel Kadett GT/E,PT,A7,+2h 18m 00s,NA,NA,NA
+15,46,"Reusch, Claude",Opel Manta GT/E,BE,A7,+2h 18m 33s,NA,NA,NA
+16,25,"Rolo, Manuel",Ford Escort RS2000,PT,A7,+2h 30m 33s,0:10,NA,NA
+17,71,"Klein, Ewald",Toyota Corolla,DE,A6,+2h 33m 03s,NA,NA,NA
+18,80,"Moreno, Jose",Opel Corsa,PT,A5,+2h 41m 58s,0:01,NA,NA
+19,38,"Thomas, Patrick",Citroen Visa,FR,B9,+2h 42m 24s,0:05,NA,NA
+20,85,"Blum, Robert",Volkswagen Polo,DE,N1,+4h 10m 25s,0:05,NA,NA
+NA,3,"Waldegard, Bjorn",Toyota Celica Twincam Turbo,SE,B11,NA,NA,SS30,propshaft
+NA,6,"Pitkanen, Erkki",Nissan 240 RS,FI,B11,NA,NA,SS15,differential
+NA,7,"Blomqvist, Stig",Audi quattro A2,SE,B11,NA,NA,SS7,accident
+NA,10,"Toivonen, Henri",Lancia Rally 037 evo,FI,B11,NA,NA,SS5,accident
+NA,11,"Kankkunen, Juha",Toyota Celica Twincam Turbo,FI,B11,NA,NA,SS28,steering
+NA,12,"van der Merwe, Sarel",Audi quattro A2,ZA,B11,NA,NA,SS4,accident
+NA,14,"Santos, Joaquim",Ford Escort RS,PT,B10,NA,NA,SS25,unknown
+NA,18,"Moutinho, Joaquim",Renault 5 Turbo,PT,B10,NA,NA,NA,unknown
+NA,19,"Rodrigues, Antonio",Lancia Rally 037,PT,B11,NA,NA,SS15,unknown

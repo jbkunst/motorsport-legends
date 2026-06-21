@@ -1,0 +1,26 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Blomqvist, Stig",Audi quattro A2,SE,B,10h 33m 38s,NA,NA,NA
+2,2,"Mikkola, Hannu",Audi quattro A2,FI,B,+3m 16s,NA,NA,NA
+3,3,"Recalde, Jorge",Audi quattro A2,AR,B,+5m 10s,NA,NA,NA
+4,19,"Stillo, Mario",Renault 12,AR,A,+1h 38m 42s,NA,NA,NA
+5,4,"Iwase, Yasuhiro",Opel Ascona 400,KE,B,+1h 44m 46s,NA,NA,NA
+6,20,"Torras, Miguel",Renault 12,AR,A,+1h 47m 19s,NA,NA,NA
+7,32,"Bassi, Carlos",Peugeot 504,AR,B,+2h 22m 45s,NA,NA,NA
+8,25,"Hernandez, Hugo",Peugeot 504,AR,B,+2h 35m 34s,NA,NA,NA
+9,38,"Perez, Monnenmacher",Peugeot 504,AR,B,+3h 04m 18s,NA,NA,NA
+10,80,"d'Agostini, Walter",Renault 12,AR,A,+3h 17m 41s,NA,NA,NA
+NA,5,"de Vitta, Domingo",Ford Escort RS2000,UY,B,NA,NA,SS9,steering
+NA,6,"Soto, Ernesto",Renault 18,AR,A,NA,NA,SS8,gearbox
+NA,7,"Celis, Carlos",Renault 12,AR,A,NA,NA,SS9,accident
+NA,8,"Etchegoyen, Luis",Ford Escort RS2000,UY,B,NA,NA,SS4,halfshaft
+NA,9,"West, Federico",Ford Escort RS2000,UY,B,NA,NA,SS6,accident
+NA,10,"Trelles, Gustavo",Ford Escort RS2000,UY,B,NA,NA,SS2,gearbox
+NA,11,"Maggi, Jorge",Peugeot 504,AR,B,NA,NA,SS11,accident
+NA,12,"Garro, Carlos",Peugeot 504,AR,B,NA,NA,SS14,head gasket
+NA,15,"Moroni, Alejandro",Renault 18,AR,A,NA,NA,SS4,engine
+NA,16,"Veronesi, Carlos",Renault 18,AR,A,NA,NA,SS3,road accident
+NA,17,"Chiavarolle, Eduardo",Renault 18,AR,A,NA,NA,SS23,gearbox
+NA,18,"Raies, Gabriel",Renault 12,AR,A,NA,NA,SS8,differential
+NA,21,"Lemos, Paulo",Volkswagen Voyage,BR,A,NA,NA,SS2,driveshaft
+NA,24,"di Palma, Ruben Luis",Audi quattro A2,AR,B,NA,NA,before SS1,engine
+NA,26,"Alcuaz, Francisco",Peugeot 504,AR,B,NA,NA,SS7,engine

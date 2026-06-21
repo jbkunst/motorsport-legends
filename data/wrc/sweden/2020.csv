@@ -1,0 +1,47 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,33,"Evans, Elfyn",Toyota Yaris WRC,GB,RC1,"1h 11m 43,1s",NA,NA,NA
+2,8,"Tanak, Ott",Hyundai i20 Coupe WRC,EE,RC1,"+12,7s",NA,NA,NA
+3,69,"Rovanpera, Kalle",Toyota Yaris WRC,FI,RC1,"+20,2s",NA,NA,NA
+4,17,"Ogier, Sebastien",Toyota Yaris WRC,FR,RC1,"+23,6s",NA,NA,NA
+5,4,"Lappi, Esapekka",Ford Fiesta RS WRC 2017,FI,RC1,"+32,4s",NA,NA,NA
+6,11,"Neuville, Thierry",Hyundai i20 Coupe WRC,BE,RC1,"+33,8s",NA,NA,NA
+7,16,"Breen, Craig",Hyundai i20 Coupe WRC,IE,RC1,"+1m 00,9s",NA,NA,NA
+8,3,"Suninen, Teemu",Ford Fiesta RS WRC 2017,FI,RC1,"+1m 24,5s",NA,NA,NA
+9,18,"Katsuta, Takamoto",Toyota Yaris WRC,JP,RC1,"+1m 59,6s",NA,NA,NA
+10,58,"Huttunen, Jari",Hyundai i20,FI,RC2,"+4m 03,0s",NA,NA,NA
+11,28,"Lindholm, Emil",Skoda Fabia,FI,RC2,"+4m 08,0s",NA,NA,NA
+12,20,"Ostberg, Mads",Citroen C3,NO,RC2,"+4m 10,0s",NA,NA,NA
+13,22,"Veiby, Ole Christian",Hyundai i20,NO,RC2,"+4m 33,4s",NA,NA,NA
+14,26,"Kristoffersson, Johan",Volkswagen Polo,SE,RC2,"+4m 34,3s",NA,NA,NA
+15,25,"Tidemand, Pontus",Skoda Fabia,SE,RC2,"+4m 47,7s",NA,NA,NA
+16,27,"Pietarinen, Eerik",Skoda Fabia,FI,RC2,"+5m 15,2s",NA,NA,NA
+17,29,"Solberg, Oliver",Skoda Fabia,SE,RC2,"+6m 26,2s",NA,NA,NA
+18,23,"Fourmaux, Adrien",Ford Fiesta,FR,RC2,"+7m 16,5s",0:30,NA,NA
+19,24,"Yates, Rhys",Ford Fiesta,GB,RC2,"+7m 24,2s",NA,NA,NA
+20,34,"Mares, Filip",Skoda Fabia,CZ,RC2,"+7m 44,9s",NA,NA,NA
+21,21,"Gryazin, Nikolay",Hyundai i20,RU,RC2,"+8m 20,6s",NA,NA,NA
+22,30,"Jeets, Raul",Skoda Fabia,EE,RC2,"+8m 40,2s",NA,NA,NA
+23,59,"Blomberg, Robert",Skoda Fabia,SE,RC2,"+10m 14,6s",NA,NA,NA
+24,35,"Solowow, Michal",Skoda Fabia,PL,RC2,"+10m 22,9s",NA,NA,NA
+25,61,"Radstrom, Dennis",Ford Fiesta,SE,RC4,"+10m 41,2s",NA,NA,NA
+26,42,"Kristensson, Tom",Ford Fiesta,SE,RC4,"+11m 08,2s",NA,NA,NA
+27,60,"Karlsson, Anders",Mitsubishi Mirage,SE,ASN,"+11m 19,9s",NA,NA,NA
+28,43,"Sesks, Martins",Ford Fiesta,LV,RC4,"+11m 46,0s",NA,NA,NA
+29,44,"Torn, Ken",Ford Fiesta,EE,RC4,"+12m 08,6s",NA,NA,NA
+30,46,"Pajari, Sami",Ford Fiesta,FI,RC4,"+12m 19,8s",NA,NA,NA
+31,47,"Badiu, Raul",Ford Fiesta,UY,RC4,"+14m 32,0s",0:20,NA,NA
+32,51,"Zaldivar Zuccolillo, Fabrizio",Ford Fiesta,PY,RC4,"+15m 02,2s",NA,NA,NA
+33,53,"Bell, Ruairi",Ford Fiesta,GB,RC4,"+15m 09,2s",NA,NA,NA
+34,48,"Lonnstrom, Pontus",Ford Fiesta,SE,RC4,"+15m 22,3s",NA,NA,NA
+35,36,"Roman, Joakim",Skoda Fabia,SE,RC2,"+15m 23,0s",NA,NA,NA
+36,50,"Joona, Lauri",Ford Fiesta,FI,RC4,"+15m 23,7s",NA,NA,NA
+37,56,"Pollara, Marco",Ford Fiesta,IT,RC4,"+17m 18,4s",NA,NA,NA
+38,54,"Oldrati, Enrico",Ford Fiesta,IT,RC4,"+17m 22,6s",NA,NA,NA
+39,62,"Linnamae, Georg",Peugeot 208,EE,RC4,"+20m 42,1s",NA,NA,NA
+40,55,"Ciuffi, Tommaso",Ford Fiesta,IT,RC4,"+21m 19,6s",NA,NA,NA
+41,52,"Solberg, Oscar",Ford Fiesta,NO,RC4,"+22m 13,3s",NA,NA,NA
+42,57,"Munnings, Catie",Ford Fiesta,GB,RC4,"+22m 24,4s",0:10,NA,NA
+NA,10,"Latvala, Jari-Matti",Toyota Yaris WRC,FI,RC1,NA,NA,TC4B,mechanical
+NA,31,"Poom, Roland",Ford Fiesta,EE,RC2,NA,NA,SS3,off road
+NA,45,"Andolfi, Fabio",Ford Fiesta,IT,RC4,NA,NA,TC5B,mechanical
+NA,49,"Armstrong, Jon",Ford Fiesta,GB,RC4,NA,NA,SS4,off road

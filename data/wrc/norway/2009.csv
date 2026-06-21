@@ -1,0 +1,43 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Loeb, Sebastien",Citroen C4 WRC,FR,A8,"3h 28m 15,9s",NA,NA,NA
+2,3,"Hirvonen, Mikko",Ford Focus RS WRC 08,FI,A8,"+9,8s",NA,NA,NA
+3,4,"Latvala, Jari-Matti",Ford Focus RS WRC 08,FI,A8,"+1m 21,8s",NA,NA,NA
+4,6,"Solberg, Henning",Ford Focus RS WRC 08,NO,A8,"+3m 33,5s",NA,NA,NA
+5,2,"Sordo Castillo, Daniel",Citroen C4 WRC,ES,A8,"+3m 52,0s",NA,NA,NA
+6,11,"Solberg, Petter",Citroen Xsara WRC,NO,A8,"+6m 25,4s",NA,NA,NA
+7,16,"Wilson, Matthew",Ford Focus RS WRC 08,GB,A8,"+6m 35,6s",NA,NA,NA
+8,5,"Aava, Urmo",Ford Focus RS WRC 08,EE,A8,"+6m 49,1s",NA,NA,NA
+9,18,"Ostberg, Mads",Subaru Impreza WRC2008,NO,A8,"+10m 00,5s",0:50,NA,NA
+10,12,"Ogier, Sebastien",Citroen C4 WRC,FR,A8,"+12m 49,8s",2:30,NA,NA
+11,7,"Novikov, Evgeny",Citroen C4 WRC,RU,A8,"+15m 21,0s",1:00,NA,NA
+12,46,"Sandell, Patrik",Skoda Fabia Super 2000,SE,N4,"+21m 27,7s",NA,NA,NA
+13,49,"Brynildsen, Eyvind",Mitsubishi Lancer Evo IX,NO,N4,"+22m 11,8s",NA,NA,NA
+14,20,"Grondal, Anders",Subaru Impreza,NO,A8,"+23m 32,1s",0:10,NA,NA
+15,31,"Prokop, Martin",Mitsubishi Lancer Evo IX,CZ,N4,"+24m 24,4s",NA,NA,NA
+16,47,"Araujo, Armindo",Mitsubishi Lancer Evo IX,PT,N4,"+25m 24,7s",NA,NA,NA
+17,40,"Neiksans, Andis",Mitsubishi Lancer Evo IX,LV,N4,"+32m 07,6s",NA,NA,NA
+18,22,"van Merksteijn jr, Peter",Ford Focus RS WRC 06,NL,A8,"+32m 53,8s",NA,NA,NA
+19,44,"Tarabus, Jaromir",Fiat Grande Punto Abarth S2000,CZ,N4,"+34m 17,2s",0:10,NA,NA
+20,23,"van Merksteijn, Peter",Ford Focus RS WRC 07,NL,A8,"+34m 47,3s",NA,NA,NA
+21,64,"Bieltvedt, Sveinung",Subaru Impreza WRX,NO,N4,"+34m 51,2s",1:10,NA,NA
+22,63,"Laivola, Ari",Mitsubishi Lancer Evo IX,FI,N4,"+35m 10,8s",NA,NA,NA
+23,67,"Szabo, Gergely",Mitsubishi Lancer Evo IX,HU,N4,"+35m 17,8s",NA,NA,NA
+24,66,"Muhonen, Reijo",Mitsubishi Lancer Evo IX,FI,N4,"+40m 04,8s",NA,NA,NA
+25,45,"Flodin, Patrik",Subaru Impreza WRX,SE,N4,"+43m 05,2s",1:20,NA,NA
+26,72,"Lyseng, Trond",Subaru Impreza,NO,N4,"+46m 59,7s",0:20,NA,NA
+27,70,"Dettori, Giuseppe",Mitsubishi Lancer Evo IX,IT,N4,"+49m 52,4s",NA,NA,NA
+28,71,"Penzes, Zsolt",Mitsubishi Lancer Evo IX,HU,N4,"+55m 07,3s",3:10,NA,NA
+29,37,"Sauvan, Frederic",Mitsubishi Lancer Evo IX,FR,N4,"+56m 32,1s",0:10,NA,NA
+30,65,"Kjaer, Anders",Subaru Impreza WRX,NO,N4,"+57m 03,4s",0:10,NA,NA
+31,73,"Kongsrud, Bernhard",Mitsubishi Lancer Evo IX,NO,N4,"+58m 17,2s",2:50,NA,NA
+32,60,"Kollevold, Bernt",Mitsubishi Lancer Evo IX,NO,N4,"+1h 05m 40,5s",NA,NA,NA
+33,35,"Semerad, Martin",Mitsubishi Lancer Evo IX,CZ,N4,"+1h 10m 49,9s",NA,NA,NA
+34,34,"Linari, Gianluca",Subaru Impreza WRX,IT,N4,"+1h 16m 23,0s",0:20,NA,NA
+NA,8,"Rautenbach, Conrad",Citroen C4 WRC,ZW,A8,NA,NA,TC23C,engine
+NA,19,"Andersson, Per-Gunnar",Skoda Fabia WRC,SE,A8,NA,NA,SS12,clutch
+NA,21,"Boland, Eamonn",Subaru Impreza,IE,A8,NA,NA,SS21,engine
+NA,32,"Sousa, Bernardo",Fiat Grande Punto Abarth S2000,PT,N4,NA,NA,SS7,engine
+NA,33,"Arai, Toshihiro",Subaru Impreza WRX,JP,N4,NA,NA,SS2,engine
+NA,59,"Mikkelsen, Andreas",Subaru Impreza WRX,NO,N4,NA,NA,SS19,tyre
+NA,61,"Arolainen, Jouni",Ford Focus WRC,FI,A8,NA,NA,SS10,engine
+NA,69,"Sulland, Oyvind",Subaru Impreza WRX,NO,N4,NA,NA,TC17C,driveshaft

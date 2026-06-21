@@ -1,0 +1,52 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"Burns, Richard",Subaru Impreza WRC99,GB,A8,"8h 33m 13,0s",NA,NA,NA
+2,4,"Kankkunen, Juha",Subaru Impreza WRC99,FI,A8,"+4m 37,0s",NA,NA,NA
+3,7,"Auriol, Didier",Seat Cordoba WRC Evo2,FR,A8,"+22m 44,0s",0:30,NA,NA
+4,6,"Sainz, Carlos",Ford Focus WRC 00,ES,A8,"+28m 18,0s",3:30,NA,NA
+5,16,"Solberg, Petter",Ford Focus WRC 00,NO,A8,"+31m 27,0s",1:10,NA,NA
+6,17,"Arai, Toshihiro",Subaru Impreza WRC99,JP,A8,"+46m 03,0s",4:10,NA,NA
+7,11,"Schwarz, Armin",Skoda Octavia WRC,DE,A8,"+58m 58,0s",0:20,NA,NA
+8,12,"Climent, Luis",Skoda Octavia WRC,ES,A8,"+1h 18m 00,0s",11:50,NA,NA
+9,31,"Menzi, Claudio Marcelo",Mitsubishi Lancer Evo VI,AR,N4,"+2h 05m 54,0s",1:00,NA,NA
+10,22,"Sanchez, Roberto",Subaru Impreza WRX,AR,N4,"+2h 23m 52,0s",1:20,NA,NA
+11,19,"Stohl, Manfred",Mitsubishi Lancer Evo VI,AT,N4,"+2h 29m 40,0s",NA,NA,NA
+12,24,"Bailey, Paul",Toyota Celica GT-Four (ST205),KE,A8,"+3h 27m 56,0s",NA,NA,NA
+13,32,"Mazlan, Saladin",Subaru Impreza,MY,N4,"+3h 35m 25,0s",2:00,NA,NA
+14,35,"Kimathi, Phineas",Subaru Impreza,KE,N1,"+3h 43m 16,0s",0:10,NA,NA
+15,36,"Wissanji, Shaheed",Subaru Impreza WRX,KE,N4,"+5h 07m 59,0s",0:10,NA,NA
+16,39,"van Tongeren, Michelle",Subaru Impreza 555,KE,A8,"+5h 34m 25,0s",1:30,NA,NA
+17,55,"Essajee, Shadid",Mitsubishi Lancer Evo II,KE,N4,"+7h 33m 29,0s",2:50,NA,NA
+NA,1,"Makinen, Tommi",Mitsubishi Lancer Evo VI,FI,A8,NA,NA,CS2,rear suspension
+NA,2,"Loix, Freddy",Mitsubishi Carisma GT,BE,A8,NA,NA,CS7,mechanical
+NA,5,"McRae, Colin",Ford Focus WRC 00,GB,A8,NA,NA,CS8,water in engine
+NA,8,"Gardemeister, Toni",Seat Cordoba WRC Evo2,FI,A8,NA,NA,CS2,co-driver ill
+NA,9,"Panizzi, Gilles",Peugeot 206 WRC,FR,A8,NA,NA,TC4B,in service
+NA,10,"Gronholm, Marcus",Peugeot 206 WRC,FI,A8,NA,NA,CS8,clutch
+NA,18,"Dor, Frederic",Subaru Impreza WRC99,FR,A8,NA,NA,CS2,engine
+NA,20,"Konishi, Shigeyuki",Subaru Impreza,JP,N4,NA,NA,CS2,engine
+NA,21,"Cavenagh, Alastair",Subaru Impreza,KE,N4,NA,NA,CS1,engine
+NA,23,"Green, Rory",Subaru Impreza 555,KE,A8,NA,NA,CS8,unknown
+NA,25,"Tuthill, Richard",Subaru Impreza,GB,N4,NA,NA,CS3,mechanical
+NA,27,"Anwar, Azar",Mitsubishi Lancer Evo VI,KE,N4,NA,NA,CS4,mechanical
+NA,28,"Hellier, Rob",Mitsubishi Lancer Evo III,KE,A8,NA,NA,CS1,mechanical
+NA,29,"Lloyd, John",Mitsubishi Lancer Evo IV,GB,A8,NA,NA,CS3,driveshaft
+NA,33,"Stohl, Rudolf",Mitsubishi Lancer Evo VI,AT,N4,NA,NA,CS4,unknown
+NA,34,"Rehsi, Hardeep",Subaru Impreza,KE,N4,NA,NA,CS1,mechanical
+NA,37,"Pozzo, Gabriel",Mitsubishi Lancer Evo VI,AR,N4,NA,NA,CS4,suspension
+NA,38,"Oakeley, Ron",Subaru Impreza,GB,N4,NA,NA,CS4,mechanical
+NA,40,"Khan, Jamil",Subaru Impreza,KE,N4,NA,NA,CS8,unknown
+NA,41,"Ngunjiri, John",Subaru Impreza,KE,N4,NA,NA,CS4,unknown
+NA,42,"Hussein, Shabir",Subaru Legacy RS,KE,N4,NA,NA,CS2,OTL
+NA,43,"Smit, Abe",Volkswagen Golf TDI,ZW,N4,NA,NA,CS3,mechanical
+NA,44,"Paterson, Howard",Volkswagen Golf GTI 16V,GB,A7,NA,NA,CS5,mechanical
+NA,45,"Smith, Don",Ford Escort RS Cosworth,KE,A8,NA,NA,CS5,mechanical
+NA,46,"Kibiti, Gregory",Hyundai Coupe,KE,A7,NA,NA,CS7,mechanical
+NA,48,"Reininger, Stefan",Honda Civic,AT,N2,NA,NA,CS2,engine
+NA,49,"Oi, Kozue",Subaru Forester,JP,N4,NA,NA,CS1,accident
+NA,50,"Jackson, Jonathan",Subaru Impreza,KE,N4,NA,NA,CS5,mechanical
+NA,51,"Plant, Michael",Rover Mini Cooper,GB,A5,NA,NA,CS2,driveshaft
+NA,52,"Raybould, Pablo",Rover Mini Cooper,GB,A5,NA,NA,CS1,suspension
+NA,53,"Locho, Musa",Hyundai Coupe,KE,A7,NA,NA,CS8,OTL
+NA,54,"Fernandes, Brendan",Subaru Impreza,KE,N4,NA,NA,CS3,mechanical
+NA,56,"Jutley, Raj",Peugeot 205 GTI,KE,A7,NA,NA,CS4,unknown
+NA,58,"Vayani, Salim",Hyundai Elantra,KE,A7,NA,NA,CS1,mechanical

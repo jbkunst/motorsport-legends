@@ -1,0 +1,65 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"Gronholm, Marcus",Ford Focus RS WRC 06,FI,A8,3h 49m 22.6s,NA,NA,NA
+2,1,"Loeb, Sebastien",Citroen C4 WRC,FR,A8,"+38,4s",NA,NA,NA
+3,7,"Solberg, Petter",Subaru Impreza WRC2007,NO,A8,"+1m 34,1s",NA,NA,NA
+4,4,"Hirvonen, Mikko",Ford Focus RS WRC 06,FI,A8,"+2m 41,3s",NA,NA,NA
+5,10,"Solberg, Henning",Ford Focus RS WRC 06,NO,A8,"+4m 52,7s",0:10,NA,NA
+6,8,"Atkinson, Christopher",Subaru Impreza WRC2007,AU,A8,"+6m 31,7s",NA,NA,NA
+7,19,"Kopecky, Jan",Skoda Fabia WRC 05,CZ,A8,"+8m 15,8s",NA,NA,NA
+8,5,"Stohl, Manfred",Citroen Xsara WRC,AT,A8,"+8m 56,2s",NA,NA,NA
+9,18,"Wilks, Guy",Ford Focus RS WRC 04,GB,A8,"+9m 53,2s",NA,NA,NA
+10,16,"Wilson, Matthew",Ford Focus RS WRC 06,GB,A8,"+10m 39,6s",NA,NA,NA
+11,11,"Perez Companc, Luis",Ford Focus RS WRC 06,AR,A8,"+14m 55,5s",NA,NA,NA
+12,9,"Latvala, Jari-Matti",Ford Focus RS WRC 06,FI,A8,"+15m 02,7s",NA,NA,NA
+13,15,"Vovos, Armodios",Subaru Impreza,GR,A8,"+15m 13,1s",1:20,NA,NA
+14,21,"Aava, Urmo",Mitsubishi Lancer WRC05,EE,A8,"+20m 20,5s",NA,NA,NA
+15,31,"Arai, Toshihiro",Subaru Impreza,JP,N4,"+20m 46,3s",NA,NA,NA
+16,47,"Aigner, Andreas",Mitsubishi Lancer Evo IX,AT,N4,"+23m 44,7s",NA,NA,NA
+17,45,"Baldacci, Mirco",Subaru Impreza,SM,N4,"+23m 59,2s",NA,NA,NA
+18,34,"Higgins, Mark",Mitsubishi Lancer Evo IX,GB,N4,"+25m 28,2s",0:10,NA,NA
+19,39,"al-Attiyah, Nasser",Subaru Impreza,QA,N4,"+25m 36,6s",NA,NA,NA
+20,63,"Prokop, Martin",Mitsubishi Lancer Evo IX,CZ,N4,"+26m 44,1s",NA,NA,NA
+21,52,"Kamada, Takuma",Subaru Impreza,JP,N4,"+27m 08,9s",NA,NA,NA
+22,61,"Hatzitsopanis, Panagiotis",Subaru Impreza,GR,N4,"+29m 15,9s",NA,NA,NA
+23,54,"Pozzo, Gabriel",Mitsubishi Lancer Evo IX,AR,N4,"+30m 21,6s",NA,NA,NA
+24,2,"Sordo Castillo, Daniel",Citroen C4 WRC,ES,A8,"+31m 18,2s",NA,NA,NA
+25,40,"Campedelli, Simone",Mitsubishi Lancer Evo IX,IT,N4,"+31m 28,7s",NA,NA,NA
+26,42,"Vertunov, Evgeny",Subaru Impreza WRX,RU,N4,"+35m 06,2s",NA,NA,NA
+27,33,"Baldacci, Loris",Subaru Impreza,SM,N4,"+37m 01,7s",NA,NA,NA
+28,43,"Jereb, Andrej",Mitsubishi Lancer Evo IX,SI,N4,"+39m 15,7s",NA,NA,NA
+29,48,"Farrah, Amjad",Mitsubishi Lancer Evo IX,JO,N4,"+41m 29,6s",NA,NA,NA
+30,44,"Frisiero, Fabio",Mitsubishi Lancer Evo,IT,N4,"+41m 37,6s",NA,NA,NA
+31,69,"Nioras, Grigoris",Subaru Impreza,GR,N4,"+43m 02,1s",NA,NA,NA
+32,12,"Villagra, Federico",Ford Focus RS WRC 06,AR,A8,"+46m 39,8s",NA,NA,NA
+33,65,"Athanassoulas, Lambros",Subaru Impreza,GR,N4,"+48m 36,0s",NA,NA,NA
+34,51,"Rauam, Martin",Mitsubishi Lancer Evo IX,EE,N4,"+48m 38,6s",2:10,NA,NA
+35,78,"Sourlis, Makarios",Mitsubishi Lancer Evo VI,GR,N4,"+54m 47,0s",NA,NA,NA
+36,67,"Platis, Christos",Subaru Impreza WRX,GR,A8,"+55m 33,8s",NA,NA,NA
+37,71,"Kantzavelos, George",Mitsubishi Lancer Evo VII,GR,A8,"+1h 04m 32,8s",NA,NA,NA
+38,81,"Kaltsounis, Haris",Opel Corsa S1600,GR,A6,"+1h 09m 32,0s",NA,NA,NA
+39,88,"Makaronis, Akis",Toyota Yaris,GR,A5,"+1h 15m 53,4s",0:10,NA,NA
+40,83,"Gallo, George",Peugeot 206,GR,A6,"+1h 17m 08,5s",NA,NA,NA
+41,76,"Zissis, Panayiotis",Mitsubishi Lancer Evo VIII,GR,N4,"+1h 20m 38,3s",1:00,NA,NA
+42,82,"Maniatopoulos, Alexandros",Renault Clio,GR,A7,"+1h 20m 59,1s",NA,NA,NA
+43,75,"Moshoutis, Pavlos",Mitsubishi Lancer Evo IX,GR,N4,"+1h 28m 39,7s",0:10,NA,NA
+44,72,"Plagos, Ioannis",Mitsubishi Lancer Evo VII,GR,N4,"+1h 38m 28,1s",NA,NA,NA
+45,79,"Vassilis, Dimitris",Subaru Impreza 555,GR,N4,"+1h 39m 42,7s",NA,NA,NA
+46,84,"Ladogiannis, Grigoris",Fiat Seicento,GR,A5,"+1h 47m 30,4s",0:40,NA,NA
+47,87,"Zounis, Ioannis",MG ZR,GR,A5,"+1h 53m 28,2s",NA,NA,NA
+48,89,"Kapnias, Dimitris",Toyota Yaris,GR,A5,"+2h 02m 48,2s",9:50,NA,NA
+49,86,"Stathaki, Christina Myrto",Peugeot 206,GR,A6,"+2h 09m 09,7s",3:00,NA,NA
+NA,17,"Duval, Francois",Skoda Fabia WRC 05,BE,A8,NA,NA,TC5,mechanical
+NA,32,"Jones, Stuart M.",Mitsubishi Lancer Evo IX,GB,N4,NA,NA,TC1C,unknown
+NA,36,"Hanninen, Juho",Mitsubishi Lancer Evo IX,FI,N4,NA,NA,TC19,mechanical
+NA,37,"Pavlides, Spyros",Subaru Impreza WRX,CY,N4,NA,NA,TC16,mechanical
+NA,38,"Sohlberg, Kristian",Subaru Impreza WRX,FI,N4,NA,NA,TC13,mechanical
+NA,41,"Kuzaj, Leszek",Subaru Impreza,PL,N4,NA,NA,TC10A,fire
+NA,46,"Araujo, Armindo",Mitsubishi Lancer Evo IX,PT,N4,NA,NA,TC20C,mechanical
+NA,50,"Flodin, Patrik",Subaru Impreza,SE,N4,NA,NA,SS3,off road
+NA,62,"Stefanis, Manos",Mitsubishi Lancer Evo VIII,GR,A8,NA,NA,TC1C,mechanical
+NA,68,"Nassoulas, Dimitris",Mitsubishi Lancer Evo IX,GR,N4,NA,NA,TC14,mechanical
+NA,73,"Kontellis, Ioannis",Mitsubishi Lancer Evo VIII,GR,N4,NA,NA,SS14,mechanical
+NA,74,"Bertolin, Corrado",Mitsubishi Lancer Evo VII,IT,N4,NA,NA,SS2,mechanical
+NA,77,"Kuhlmann, Thorsten",Mitsubishi Lancer Evo VII,DE,N4,NA,NA,SS3,off road
+NA,80,"Gazetas, Dionissis",Mitsubishi Lancer Evo VII,GR,A8,NA,NA,SS2,mechanical
+NA,85,"Gazetas, Haralambos",Toyota Yaris,GR,A5,NA,NA,TC7,unknown

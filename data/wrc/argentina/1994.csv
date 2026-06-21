@@ -1,0 +1,16 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,4,"Auriol, Didier",Toyota Celica Turbo 4WD (ST185),FR,A8,5h 50m 42s,NA,NA,NA
+2,2,"Sainz, Carlos",Subaru Impreza 555,ES,A,+6s,NA,NA,NA
+3,5,"Vatanen, Ari",Ford Escort RS Cosworth,FI,A,+6m 40s,NA,NA,NA
+4,7,"Thiry, Bruno",Ford Escort RS Cosworth,BE,A,+11m 07s,NA,NA,NA
+5,11,"Recalde, Jorge",Mitsubishi Lancer Evo I,AR,N,+36m 22s,NA,NA,NA
+6,12,"Bescham, Jorge",Ford Escort RS Cosworth,AR,N,+43m 17s,NA,NA,NA
+7,8,"Stohl, Rudolf",Audi Coupe S2,AT,A,+56m 56s,NA,NA,NA
+8,14,"Holderied, Isolde",Mitsubishi Lancer Evo I,DE,N,+1h 00m 49s,NA,NA,NA
+9,16,"Raies, Gabriel",Renault 18 GTX,AR,A,+1h 12m 09s,NA,NA,NA
+10,30,"Ramonda, Gustavo",Mitsubishi Galant VR-4,AR,N,+1h 20m 46s,NA,NA,NA
+NA,1,"Kankkunen, Juha",Toyota Celica Turbo 4WD (ST185),FI,A,NA,NA,SS23,electrics
+NA,3,"Biasion, Massimo",Ford Escort RS Cosworth,IT,A,NA,NA,SS21,engine
+NA,6,"McRae, Colin",Subaru Impreza 555,GB,A,NA,NA,SS15,accident
+NA,9,"Puras, Jesus",Ford Escort RS Cosworth,ES,N,NA,NA,SS5,engine
+NA,10,"Menem Jr., Carlos",Ford Escort RS Cosworth,AR,N,NA,NA,SS1,transmission

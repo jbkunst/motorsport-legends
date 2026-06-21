@@ -1,0 +1,21 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,4,"Kankkunen, Juha",Peugeot 205 Turbo 16 E2,FI,B,5h 09m 19s,NA,NA,NA
+2,3,"Alen, Markku",Lancia Delta S4,FI,B,+1m 54s,NA,NA,NA
+3,8,"Grundel, Karl",Ford RS200,SE,B,+6m 16s,NA,NA,NA
+4,12,"Ericsson, Mikael",Audi 90 quattro,SE,A,+15m 20s,NA,NA,NA
+5,13,"Pettersson, Gunnar",Audi Coupe,SE,A,+15m 38s,NA,NA,NA
+6,10,"Andruet, Jean-Claude",Citroen BX 4TC,FR,B,+23m 46s,NA,NA,NA
+7,15,"Eriksson, Kenneth",Volkswagen Golf GTi,SE,A,+25m 11s,NA,NA,NA
+8,19,"Ericsson, Roger",Subaru RX Turbo,SE,A,+28m 42s,NA,NA,NA
+9,27,"Johansson, Bjorn",Opel Kadett GSi,SE,A,+32m 03s,NA,NA,NA
+10,18,"Nilsson, Soren",Audi 90 quattro,SE,A,+33m 32s,NA,NA,NA
+12,29,"Jonsson, Mats",Opel Kadett GSi,SE,A,NA,NA,NA,NA
+13,39,"Kottulinsky, Susanne",Volvo 240 Turbo,SE,A,+44m 38s,NA,NA,NA
+24,53,"Panciatici, Jacques",Alfa Romeo 33 4x4,FR,N,+1h 14m 41s,NA,NA,NA
+NA,1,"Blomqvist, Stig",Ford RS200,SE,B,NA,NA,SS12,engine
+NA,2,"Salonen, Timo",Peugeot 205 Turbo 16 E2,FI,B,NA,NA,SS7,oil leak
+NA,5,"Toivonen, Henri",Lancia Delta S4,FI,B,NA,NA,SS13,engine
+NA,6,"Carlsson, Ingvar",Mazda Familia 4WD,SE,A,NA,NA,SS15,electronics
+NA,7,"Eklund, Per",MG Metro 6R4,SE,B,NA,NA,SS2,engine
+NA,9,"Wilson, Malcolm",MG Metro 6R4,GB,B,NA,NA,SS14,engine
+NA,11,"Wambergue, Philippe",Citroen BX 4TC,FR,B,NA,NA,SS25,engine

@@ -1,0 +1,21 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Kankkunen, Juha",Toyota Celica GT-4 (ST165),FI,A8,5h 32m 09s,NA,NA,NA
+2,3,"Eriksson, Kenneth",Toyota Celica GT-4 (ST165),SE,A,+1m 07s,NA,NA,NA
+3,2,"Alen, Markku",Lancia Delta Integrale,FI,A,+2m 13s,NA,NA,NA
+4,4,"Fiorio, Alessandro",Lancia Delta Integrale,IT,A,+5m 01s,NA,NA,NA
+5,10,"Millen, Rod",Mazda 323 4WD,NZ,A,+20m 13s,NA,NA,NA
+6,11,"Wilson, Malcolm",Vauxhall Astra GT/E,GB,A,+20m 51s,NA,NA,NA
+7,14,"Shinozuka, Kenjiro",Mitsubishi Galant VR-4,JP,A,+37m 02s,NA,NA,NA
+8,24,"Bell, Wayne",Mazda 323 4WD,AU,A,+38m 52s,NA,NA,NA
+9,27,"Ordynski, Ed",Mitsubishi Galant VR-4,AU,N,+39m 33s,NA,NA,NA
+10,13,"Bourne, Peter",Subaru RX Turbo,NZ,A,+43m 10s,NA,NA,NA
+12,17,"Oreille, Alain",Renault 5 GT Turbo,FR,N,NA,NA,NA,NA
+28,61,"Dines, Jacquiline",Toyota Trueno,AU,A,+2h 26m 40s,NA,NA,NA
+NA,6,"Carlsson, Ingvar",Mazda 323 4WD,SE,A,NA,NA,SS3,engine
+NA,7,"Recalde, Jorge",Lancia Delta Integrale,AR,A,NA,NA,SS3,propshaft
+NA,8,"Haider, Josef",Opel Kadett GSi,AT,A,NA,NA,SS14,OTL
+NA,9,"Wittman, Franz",Lancia Delta Integrale,AT,A,NA,NA,SS11,suspension
+NA,12,"Wilson, Ray",Mazda 323 4WD,NZ,A,NA,NA,SS22,suspension
+NA,20,"Carr, Greg",Lancia Delta Integrale,AU,A,NA,NA,SS19,differential
+NA,21,"Dunkerton, Ross",Mitsubishi Galant VR-4,AU,A,NA,NA,SS5,oil pipe
+NA,22,"al-Hajri, Saeed",Ford Sierra RS Cosworth,QA,A,NA,NA,SS26,differential

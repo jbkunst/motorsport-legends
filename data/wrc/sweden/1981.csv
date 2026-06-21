@@ -1,0 +1,23 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,2,"Mikkola, Hannu",Audi quattro,FI,G4,3h 48m 07s,NA,NA,NA
+2,4,"Vatanen, Ari",Ford Escort RS,FI,G4,+1m 53s,NA,NA,NA
+3,8,"Airikkala, Pentti",Ford Escort RS,FI,G4,+3m 40s,NA,NA,NA
+4,1,"Kullang, Anders",Opel Ascona 400,SE,G4,+5m 05s,NA,NA,NA
+5,3,"Blomqvist, Stig",Saab 99 Turbo,SE,G2,+5m 30s,NA,NA,NA
+6,7,"Johansson, Bjorn",Opel Ascona 400,SE,G4,+6m 31s,NA,NA,NA
+7,9,"Lampi, Lasse",Ford Escort RS,FI,G4,+9m 19s,NA,NA,NA
+8,12,"Stromberg, Ola",Saab 99EMS,SE,G2,+12m 24s,NA,NA,NA
+9,5,"Eklund, Per",Porsche 911,SE,G4,+12m 32s,NA,NA,NA
+10,29,"Nilsson, Soren",Datsun 160J,SE,G2,+15m 57s,NA,NA,NA
+12,32,"Jonsson, Mats",Volvo 142,SE,G2,NA,NA,NA,NA
+15,50,"Aho, Kalevi",Ford Escort RS,FI,G1,+21m 41s,NA,NA,NA
+28,90,"Ericsson, Mikael",Volkswagen Golf GTi,SE,G2,NA,NA,NA,NA
+31,122,"Eriksson, Kenneth",Saab 96 V4,SE,G2,NA,NA,NA,NA
+NA,10,"Carlsson, Ingvar",BMW 323,SE,G2,NA,NA,SS19,rear suspension
+NA,11,"Hamalainen, Kyosti",Ford Escort RS,FI,G2,NA,NA,SS19,accident
+NA,16,"Danielsson, Bror",Ford Escort RS,SE,G4,NA,NA,SS17,rear axle
+NA,18,"Jonsson, Lasse",Porsche 911,SE,G4,NA,NA,SS2,gearbox
+NA,22,"Hagman, Jan",Ford Escort RS,SE,G4,NA,NA,SS14,engine
+NA,25,"Grundel, Karl",Saab 99 Turbo,SE,G2,NA,NA,SS12,turbine
+NA,26,"Fagerlind, Gunnar",Talbot Sunbeam,SE,G2,NA,NA,SS15,wheel studs
+NA,27,"Johansson, Erik",Saab 99 Turbo,SE,G2,NA,NA,SS1,accident

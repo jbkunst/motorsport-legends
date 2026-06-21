@@ -1,0 +1,16 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,2,"Recalde, Jorge",Lancia Delta Integrale,AR,A8,7h 05m 16s,NA,NA,NA
+2,3,"Biasion, Massimo",Lancia Delta Integrale,IT,A,+3m 35s,NA,NA,NA
+3,1,"Wittman, Franz",Lancia Delta Integrale,AT,A,+28m 57s,NA,NA,NA
+4,4,"Stohl, Rudolf",Audi 90 quattro,AT,A,+46m 23s,NA,NA,NA
+5,8,"Celsi, Jose",Subaru RX Turbo,CL,A,+1h 05m 41s,NA,NA,NA
+6,52,"Traverso, Juan-Maria",Renault 18 GTX,AR,A,+1h 22m 17s,NA,NA,NA
+7,50,"Raies, Marcelo",Renault 18 GTX,AR,A,+1h 24m 54s,NA,NA,NA
+8,16,"Israel, Claudio",Toyota Corolla,CL,A,+1h 30m 08s,NA,NA,NA
+9,18,"Grasso, Jose-Luis",Fiat Regata,AR,A,+1h 32m 10s,NA,NA,NA
+10,68,"Urrutia, Fernando",Suzuki Cultus (Swift),CL,A,+1h 46m 53s,NA,NA,NA
+NA,5,"Fischer, Georg",Audi 200 quattro,AT,A,NA,NA,SS4,accident
+NA,6,"Raies, Gabriel",Renault 18 GTX,AR,A,NA,NA,SS3,engine
+NA,7,"Trelles, Gustavo",Volkswagen Gol,UY,A,NA,NA,SS18,differential
+NA,9,"Soto, Ernesto",Renault 18 GTX,AR,A,NA,NA,SS14,gearbox
+NA,15,"Bescham, Jorge",Fiat Regata,AR,A,NA,NA,SS12,gearbox

@@ -1,0 +1,24 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,6,"Waldegard, Bjorn",Ford Escort RS1800,SE,G4,9h 31m 57s,NA,NA,NA
+2,2,"Clark, Roger",Ford Escort RS1800,GB,G4,+5m 47s,NA,NA,NA
+3,1,"Kallstrom, Harry",Datsun Violet,SE,G4,+15m 22s,NA,NA,NA
+4,5,"Lampinen, Simo",Fiat 131 Abarth,FI,G4,+22m 45s,NA,NA,NA
+5,10,"Livieratos, Tassos",Datsun Violet,GR,G4,+38m 30s,NA,NA,NA
+6,46,"Luc, Jean-Paul",Citroen CX2400,FR,G2,+1h 55m 44s,NA,NA,NA
+7,37,"Oger, Alain",Renault 12 Gordini,FR,G4,+1h 56m 35s,NA,NA,NA
+8,155,"Kyprianou, Kypros",Chrysler Avenger,CY,G2,+2h 17m 00s,NA,NA,NA
+9,17,"Pesmazoglou, Ioannis",Opel Ascona,GR,G4,+2h 17m 14s,NA,NA,NA
+10,25,"de Libran, Roland",Renault 17 Gordini,FR,G4,+2h 34m 14s,NA,NA,NA
+13,171,"Myriallis, Panagiotis",Toyota Celica,GR,G1,+3h 04m 26s,NA,NA,NA
+14,35,"Stawowiak, Maciej",Polski-Fiat 125p,PL,G4,+3h 08m 22s,NA,NA,NA
+NA,3,"Rohrl, Walter",Opel Kadett GT/E,DE,G2,NA,NA,NA,head gasket
+NA,4,"Andersson, Ove",Toyota Celica,SE,G4,NA,NA,NA,differential
+NA,7,"Andruet, Jean-Claude",Fiat 131 Abarth,FR,G4,NA,NA,NA,driveshaft
+NA,8,"Mikkola, Hannu",Toyota Celica,FI,G4,NA,NA,NA,differential
+NA,9,"Alen, Markku",Fiat 131 Abarth,FI,G4,NA,NA,NA,driveshaft
+NA,12,"Bacchelli, Fulvio",Fiat 131 Abarth,IT,G4,NA,NA,NA,driveshaft
+NA,15,"Verini, Maurizio",Fiat 131 Abarth,IT,G4,NA,NA,NA,driveshaft
+NA,16,"Vatanen, Ari",Ford Escort RS1800,FI,G4,NA,NA,NA,accident
+NA,38,"Ciecierzynski, Tomasz",Polski-Fiat 125p,PL,G4,NA,NA,NA,unknown
+NA,NA,"Haider, Josef",Opel Kadett GT/E,AT,G2,NA,NA,NA,unknown
+NA,NA,"Wittman, Franz",Opel Kadett GT/E,AT,G2,NA,NA,NA,unknown

@@ -1,0 +1,16 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,4,"Eriksson, Kenneth",Mitsubishi Galant VR-4,SE,A8,4h 56m 16s,NA,NA,NA
+2,15,"Jonsson, Mats",Toyota Celica GT-4 (ST165),SE,A,+20s,NA,NA,NA
+3,5,"Alen, Markku",Subaru Legacy RS,FI,A,+1m 04s,NA,NA,NA
+4,1,"Carlsson, Ingvar",Mazda 323 GT-X,SE,A,+5m 39s,NA,NA,NA
+5,19,"Lampi, Lasse",Mitsubishi Galant VR-4,FI,A,+6m 41s,NA,NA,NA
+6,17,"Johansson, Bjorn",Mazda 323 GT-X,SE,A,+9m 20s,NA,NA,NA
+7,7,"Mikkola, Hannu",Mazda 323 GT-X,FI,A,+9m 54s,NA,NA,NA
+8,14,"Eklund, Per",Lancia Delta HF Integrale 16v,SE,A,+10m 42s,NA,NA,NA
+9,10,"Auriol, Didier",Lancia Delta HF Integrale 16v,FR,A,+12m 43s,NA,NA,NA
+10,20,"Asterhag, Leif",Toyota Celica GT-4 (ST165),SE,A,+14m 09s,NA,NA,NA
+11,27,"Walfridsson, Stig-Olov",Mitsubishi Galant VR-4,SE,N,+20m 30s,NA,NA,NA
+13,12,"Makinen, Tommi",Ford Sierra Cosworth 4x4,FI,N,+22m 23s,NA,NA,NA
+19,11,"Chatriot, Francois",Subaru Legacy RS,FR,A,+24m 48s,NA,NA,NA
+NA,8,"Salonen, Timo",Mitsubishi Galant VR-4,FI,A,NA,NA,SS10,accident
+NA,16,"Evans, Gwyndaf",Ford Sierra Cosworth 4x4,GB,A,NA,NA,SS10,accident

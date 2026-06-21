@@ -1,0 +1,86 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,11,"Solberg, Petter",Subaru Impreza WRC2002,NO,A8,"3h 30m 36,4s",NA,NA,NA
+2,6,"Martin, Markko",Ford Focus RS WRC 02,EE,A8,"+24,4s",NA,NA,NA
+3,4,"Sainz, Carlos",Ford Focus RS WRC 02,ES,A8,"+1m 35,7s",NA,NA,NA
+4,10,"Makinen, Tommi",Subaru Impreza WRC2002,FI,A8,"+2m 37,5s",NA,NA,NA
+5,5,"McRae, Colin",Ford Focus RS WRC 02,GB,A8,"+3m 01,5s",NA,NA,NA
+6,24,"Higgins, Mark",Ford Focus RS WRC 02,GB,A8,"+5m 01,9s",0:10,NA,NA
+7,3,"Rovanpera, Harri",Peugeot 206WRC (2002),FI,A8,"+5m 05,8s",NA,NA,NA
+8,18,"Loix, Freddy",Hyundai Accent WRC3,BE,A8,"+5m 15,9s",NA,NA,NA
+9,19,"Kankkunen, Juha",Hyundai Accent WRC3,FI,A8,"+5m 29,1s",NA,NA,NA
+10,15,"Gardemeister, Toni",Skoda Octavia WRC Evo3,FI,A8,"+6m 02,9s",NA,NA,NA
+11,23,"Panizzi, Gilles",Peugeot 206 WRC,FR,A8,"+8m 36,2s",NA,NA,NA
+12,29,"Stohl, Manfred",Ford Focus WRC,AT,A8,"+9m 05,8s",NA,NA,NA
+13,14,"Eriksson, Kenneth",Skoda Octavia WRC Evo3,SE,A8,"+10m 25,4s",NA,NA,NA
+14,26,"Kremer, Armin",Ford Focus WRC,DE,A8,"+15m 19,0s",NA,NA,NA
+15,16,"Kresta, Roman",Skoda Octavia WRC Evo3,CZ,A8,"+16m 26,0s",NA,NA,NA
+16,101,"Ginley, Alistair",Ford Focus WRC,GB,A8,"+27m 51,2s",NA,NA,NA
+17,35,"Latvala, Jari-Matti",Mitsubishi Lancer Evo,FI,A8,"+28m 13,9s",NA,NA,NA
+18,109,"Svedlund, Oscar",Mitsubishi Lancer Evo,SE,N4,"+31m 21,0s",NA,NA,NA
+19,118,"Thompson, James",Mitsubishi Lancer Evo,GB,N4,"+31m 32,4s",NA,NA,NA
+20,114,"Jean-Joseph, Simon",Renault Clio S1600,FR,A6,"+31m 32,4s",1:10,NA,NA
+21,65,"Sola, Daniel",Citroen Saxo S1600,ES,A6,"+32m 30,2s",NA,NA,NA
+22,113,"Barratt, Natalie",Hyundai Accent WRC,GB,A8,"+33m 48,2s",NA,NA,NA
+23,52,"McShea, Niall",Opel Corsa S1600,GB,A6,"+35m 29,5s",NA,NA,NA
+24,53,"Basso, Giandomenico",Fiat Punto S1600,IT,A6,"+35m 49,8s",NA,NA,NA
+25,62,"Tuohino, Janne",Citroen Saxo S1600,FI,A6,"+36m 37,8s",NA,NA,NA
+26,117,"Easson, Jeremy",Mitsubishi Lancer Evo,GB,N4,"+37m 20,7s",NA,NA,NA
+27,56,"Valimaki, Jussi",Citroen Saxo S1600,FI,A6,"+37m 58,0s",0:20,NA,NA
+28,51,"Dallavilla, Andrea",Citroen Saxo S1600,IT,A6,"+38m 50,4s",NA,NA,NA
+29,123,"Wilks, Guy",Ford Puma,GB,A6,"+39m 02,4s",NA,NA,NA
+30,31,"Jaio, Jesus",Ford Focus WRC 00,ES,A8,"+42m 33,7s",0:10,NA,NA
+31,105,"Elsmore, Nik",Mitsubishi Lancer Evo,GB,N4,"+44m 13,4s",0:20,NA,NA
+32,119,"Colsoul, Bob",Mitsubishi Lancer Evo,BE,N4,"+46m 07,0s",NA,NA,NA
+33,126,"Swann, Robert",Mitsubishi Lancer Evo,GB,N4,"+48m 57,3s",NA,NA,NA
+34,125,"Perez, Steve",Mitsubishi Lancer Evo,GB,N4,"+1h 00m 13,8s",0:10,NA,NA
+35,131,"Jardine, Tony",MG ZR,GB,N3,"+1h 07m 31,9s",1:00,NA,NA
+36,128,"Richard, Patrick",Subaru Impreza,CA,N4,"+1h 12m 14,8s",0:10,NA,NA
+37,133,"Hopkins, Richard",Subaru Impreza,GB,N4,"+1h 14m 40,4s",NA,NA,NA
+38,110,"Ceen, Robert",Subaru Impreza 555,GB,A8,"+1h 20m 21,9s",1:00,NA,NA
+NA,1,"Burns, Richard",Peugeot 206WRC (2002),GB,A8,NA,NA,SS16,off road
+NA,2,"Gronholm, Marcus",Peugeot 206WRC (2002),FI,A8,NA,NA,SS10,off road
+NA,7,"Delecour, Francois",Mitsubishi Lancer WRC Step 2,FR,A8,NA,NA,SS10,off road
+NA,8,"Dale, Justin",Mitsubishi Lancer WRC Step 2,GB,A8,NA,NA,SS3,mechanical
+NA,9,"Paasonen, Jani",Mitsubishi Lancer WRC Step 2,FI,A8,NA,NA,SS10,off road
+NA,17,"Schwarz, Armin",Hyundai Accent WRC3,DE,A8,NA,NA,SS8,medical
+NA,20,"Radstrom, Thomas",Citroen Xsara WRC,SE,A8,NA,NA,SS8,mechanical
+NA,21,"Loeb, Sebastien",Citroen Xsara WRC,FR,A8,NA,NA,SS16,mechanical
+NA,25,"Pykalisto, Juuso",Peugeot 206 WRC,FI,A8,NA,NA,SS8,mechanical
+NA,27,"Papadimitriou, Ioannis",Ford Focus WRC,GR,A8,NA,NA,SS14,mechanical
+NA,28,"Hirvonen, Mikko",Subaru Impreza,FI,A8,NA,NA,SS5,mechanical
+NA,32,"Higgins, David",Subaru Impreza,GB,A8,NA,NA,SS10,mechanical
+NA,33,"Kuchar, Tomasz",Toyota Corolla WRC,PL,A8,NA,NA,SS10,off road
+NA,34,"MacHale, Austin",Toyota Corolla WRC,IE,A8,NA,NA,SS14,mechanical
+NA,46,"Rossi, Valentino",Peugeot 206 WRC,IT,A8,NA,NA,SS2,off road
+NA,55,"Duval, Francois",Ford Puma S1600,BE,A6,NA,NA,SS6,mechanical
+NA,57,"Galanti, Alejandro",Ford Puma S1600,PY,A6,NA,NA,SS13,mechanical
+NA,58,"Chemin, Christian",Fiat Punto S1600,IT,A6,NA,NA,SS17,off road
+NA,59,"Kangas, Juha",Suzuki Ignis S1600,FI,A6,NA,NA,SS3,off road
+NA,61,"Evans, Gwyndaf",MG ZR S1600,GB,A6,NA,NA,SS15,mechanical
+NA,63,"Rowe, Martin",Ford Puma S1600,GB,A6,NA,NA,SS6,mechanical
+NA,66,"Baldacci, Mirco",Citroen Saxo S1600,SM,A6,NA,NA,TC14A,OTL
+NA,67,"Carlsson, Daniel",Ford Puma S1600,SE,A6,NA,NA,SS14,mechanical
+NA,68,"Schelle, Nikolaus",Suzuki Ignis S1600,DE,A6,NA,NA,SS3,off road
+NA,69,"Katajamaki, Kosti",Volkswagen Polo S1600,FI,A6,NA,NA,SS8,mechanical
+NA,70,"Haaf, Sven",Citroen Saxo S1600,DE,A6,NA,NA,SS7,mechanical
+NA,75,"Niwa, Kazuhiko",Suzuki Ignis S1600,JP,A6,NA,NA,SS2,off road
+NA,76,"Foss, Alexander",Ford Puma S1600,NO,A6,NA,NA,TC12C,OTL
+NA,102,"Boland, Eamonn",Subaru Impreza,IE,A8,NA,NA,SS8,mechanical
+NA,103,"Jones, Gareth",Subaru Impreza,GB,A8,NA,NA,SS15,off road
+NA,104,"Blomqvist, Stig",Mitsubishi Lancer Evo,SE,N4,NA,NA,SS15,mechanical
+NA,106,"Bijvelds, Peter",Mitsubishi Lancer Evo,NL,N4,NA,NA,SS8,mechanical
+NA,107,"Jones, Mick",Mitsubishi Lancer Evo,GB,A8,NA,NA,SS8,mechanical
+NA,108,"Harron, Stephen",Subaru Impreza,GB,A8,NA,NA,SS3,mechanical
+NA,111,"Johansson, Tobias",Mitsubishi Lancer Evo,SE,N4,NA,NA,SS8,off road
+NA,112,"Cox, Gavin",Mitsubishi Lancer Evo,GB,N4,NA,NA,SS14,off road
+NA,115,"Jansson, Magnus",Mitsubishi Lancer Evo,SE,N4,NA,NA,SS8,mechanical
+NA,116,"Feldmann, Anders",Mitsubishi Lancer Evo,DE,N4,NA,NA,SS8,mechanical
+NA,120,"Lloyd, John",Mitsubishi Lancer Evo,GB,N4,NA,NA,SS10,mechanical
+NA,122,"Meeke, Kris",Ford Puma,GB,A6,NA,NA,SS17,unknown
+NA,124,"Fleck, Steve",Subaru Impreza 555,GB,A8,NA,NA,SS15,mechanical
+NA,127,"Harper, Daniel",Mitsubishi Lancer Evo,GB,N4,NA,NA,SS6,off road
+NA,130,"Blundell, Mark",MG ZR S1600,GB,A6,NA,NA,SS5,mechanical
+NA,132,"Gill, Rob",MG ZR,GB,N3,NA,NA,SS3,mechanical
+NA,134,"Stephenson, Peter",Subaru Impreza,GB,A8,NA,NA,SS8,mechanical
+NA,135,"Middleton, Graham",Hyundai Coupe,GB,A7,NA,NA,SS16,mechanical
+NA,138,"Bagshaw, David",Mitsubishi Lancer Evo,GB,N4,NA,NA,SS11,mechanical

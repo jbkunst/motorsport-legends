@@ -1,0 +1,29 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,5,"Sainz, Carlos",Ford Escort WRC,ES,A8,4h 37m 30s,NA,NA,NA
+2,6,"Kankkunen, Juha",Ford Escort WRC,FI,A8,+16s,NA,NA,NA
+3,4,"Eriksson, Kenneth",Subaru Impreza WRC97,SE,A8,+1m 19s,NA,NA,NA
+4,2,"Burns, Richard",Mitsubishi Carisma GT,GB,A8,+1m 54s,NA,NA,NA
+5,8,"Fujimoto, Yoshio",Toyota Celica GT-Four (ST205),JP,A8,+21m 04s,NA,NA,NA
+6,19,"Singh, Karamjit",Proton Wira 4WD,MY,N4,+25m 32s,NA,NA,NA
+7,11,"Rovanpera, Harri",Seat Ibiza GTi 16V,FI,A7,+29m 06s,NA,NA,NA
+8,18,"Konishi, Shigeyuki",Subaru Impreza,JP,N4,+31m 51s,NA,NA,NA
+9,13,"Weber, Erwin",Seat Ibiza GTi 16V,DE,A7,+32m 37s,NA,NA,NA
+10,20,"Pribadli, Reza",Subaru Impreza 555,ID,A8,+33m 57s,NA,NA,NA
+11,21,"Hardianto, Tony",Subaru Impreza 555,ID,A8,+34m 02s,NA,NA,NA
+12,17,"Miyoshi, Hideaki",Subaru Impreza,JP,N4,+34m 54s,NA,NA,NA
+13,26,"Tajima, Nobuhiro",Suzuki Baleno Kit Car,JP,A7,+36m 41s,NA,NA,NA
+14,21,"Indiarto, Arief",Mitsubishi Lancer Evo IV,ID,N4,+38m 18s,NA,NA,NA
+15,35,"Akaba, Masayuki",Mitsubishi Lancer Evo III,JP,N4,+43m 34s,NA,NA,NA
+16,16,"M.P., Hutomo",Mitsubishi Lancer Evo IV,ID,N4,+44m 12s,NA,NA,NA
+17,12,"Bell, Wayne",Hyundai Coupe Kit Car,AU,A7,+45m 56s,NA,NA,NA
+23,23,"Font, Ferran",Seat Ibiza GTi 16V,AD,A7,+1h 15m 24s,NA,NA,NA
+24,39,"Yachmoon, Andy",Timor S 515i,ID,N2,+1h 30m 36s,NA,NA,NA
+34,41,"Matsunami, Eiji",Nissan Micra,JP,N1,+2h 18m 25s,NA,NA,NA
+NA,1,"Makinen, Tommi",Mitsubishi Lancer Evo IV,FI,A8,NA,NA,TC14A,radiator
+NA,3,"McRae, Colin",Subaru Impreza WRC97,GB,A8,NA,NA,TC15A,engine
+NA,7,"Auriol, Didier",Toyota Corolla WRC,FR,A8,NA,NA,SS11,electrics
+NA,9,"Bates, Neal",Toyota Corolla WRC,AU,A8,NA,NA,SS8,engine
+NA,10,"Sufan, Raul",Toyota Celica GT-Four (ST205),AR,A8,NA,NA,NA,unknown
+NA,14,"Kataoka, Yoshihiro",Mitsubishi Lancer Evo III,JP,N4,NA,NA,SS22,engine
+NA,15,"Schelle, Nikolaus",Mitsubishi Lancer Evo III,DE,N4,NA,NA,SS7,accident
+NA,29,"Mazlan, Saladin",Proton Wira 4WD,MY,N4,NA,NA,SS4,engine

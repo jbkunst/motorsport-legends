@@ -1,0 +1,69 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Loeb, Sebastien",Citroen Xsara WRC,FR,A8,"4h 06m 51,3s",NA,NA,NA
+2,5,"Solberg, Petter",Subaru Impreza WRC2006,NO,A8,"+44,6s",0:20,NA,NA
+3,25,"Galli, Gianluigi",Peugeot 307WRC,IT,A8,"+3m 24,3s",NA,NA,NA
+4,7,"Stohl, Manfred",Peugeot 307WRC Evo2,AT,A8,"+3m 40,0s",NA,NA,NA
+5,11,"Sordo Castillo, Daniel",Citroen Xsara WRC,ES,A8,"+5m 40,2s",NA,NA,NA
+6,6,"Atkinson, Christopher",Subaru Impreza WRC2006,AU,A8,"+5m 43,8s",1:00,NA,NA
+7,8,"Solberg, Henning",Peugeot 307WRC Evo2,NO,A8,"+9m 28,7s",NA,NA,NA
+8,9,"Wilson, Matthew",Ford Focus WRC,GB,A8,"+10m 34,6s",NA,NA,NA
+9,10,"Perez Companc, Luis",Ford Focus WRC,AR,A8,"+10m 52,3s",NA,NA,NA
+10,3,"Gronholm, Marcus",Ford Focus RS WRC 06,FI,A8,"+14m 08,7s",NA,NA,NA
+11,12,"MacHale, Gareth",Ford Focus WRC,IE,A8,"+16m 20,4s",NA,NA,NA
+12,61,"Villagra, Federico",Mitsubishi Lancer Evo VIII,AR,N4,"+22m 49,8s",1:20,NA,NA
+13,62,"Yoma Omar, Eduardo",Subaru Impreza WRX,AR,N4,"+24m 05,3s",NA,NA,NA
+14,64,"Menzi, Claudio Marcelo",Subaru Impreza,AR,N4,"+25m 28,8s",1:20,NA,NA
+15,39,"al-Attiyah, Nasser",Subaru Impreza,QA,N4,"+25m 52,7s",2:00,NA,NA
+16,38,"Kuzaj, Leszek",Subaru Impreza,PL,N4,"+27m 23,1s",NA,NA,NA
+17,2,"Pons, Xavier",Citroen Xsara WRC,ES,A8,"+27m 31,2s",NA,NA,NA
+18,63,"Madero, Nicolas",Mitsubishi Lancer Evo VIII,AR,N4,"+35m 52,2s",0:50,NA,NA
+19,148,"Wilks, Guy",Suzuki Swift S1600,GB,A6,"+37m 55,6s",2:10,NA,NA
+20,67,"Gomez Marco, Oriol",Subaru Impreza WRX,ES,N4,"+38m 39,5s",0:30,NA,NA
+21,36,"Baldacci, Mirco",Mitsubishi Lancer Evo IX,SM,N4,"+40m 00,9s",NA,NA,NA
+22,141,"Sandell, Patrik",Renault Clio S1600,SE,A6,"+47m 15,1s",NA,NA,NA
+23,46,"Heath, Nigel",Subaru Impreza,GB,N4,"+48m 18,9s",NA,NA,NA
+24,34,"Beltran, Sebastian",Mitsubishi Lancer Evo IX,AR,N4,"+48m 20,9s",NA,NA,NA
+25,72,"Baldacci, Loris",Subaru Impreza,SM,N4,"+49m 09,2s",1:30,NA,NA
+26,71,"Marrocchi, Daniel",Mitsubishi Lancer Evo VI,AR,N4,"+50m 46,5s",1:10,NA,NA
+27,88,"Montalto, Andres",Subaru Impreza WRX,CR,N4,"+51m 05,7s",NA,NA,NA
+28,32,"Ligato, Marcos",Mitsubishi Lancer Evo IX,AR,N4,"+56m 45,4s",1:00,NA,NA
+29,40,"Marrini, Stefano",Mitsubishi Lancer Evo VIII,IT,N4,"+1h 01m 41,1s",NA,NA,NA
+30,31,"Arai, Toshihiro",Subaru Impreza,JP,N4,"+1h 03m 29,7s",0:10,NA,NA
+31,42,"Uspenski, Sergey",Subaru Impreza,RU,N4,"+1h 03m 45,8s",NA,NA,NA
+32,70,"Sas, Matias",Mitsubishi Lancer Evo VIII,AR,N4,"+1h 04m 09,2s",0:20,NA,NA
+33,77,"Kahlfuss, Michael",Mitsubishi Lancer Evo VI,DE,N4,"+1h 06m 10,1s",NA,NA,NA
+34,135,"Andersson, Per-Gunnar",Suzuki Swift S1600,SE,A6,"+1h 06m 56,6s",NA,NA,NA
+35,68,"Arias Quinones, Didier",Subaru Impreza WRX,PY,N4,"+1h 08m 33,1s",NA,NA,NA
+36,74,"Klus, Gerardo",Mitsubishi Lancer Evo VIII,AR,N4,"+1h 09m 55,7s",NA,NA,NA
+37,79,"Alonso, Juan Carlos",Subaru Impreza,AR,N4,"+1h 12m 53,6s",1:40,NA,NA
+38,87,"Gonzalez, Jose Luis",Mitsubishi Lancer Evo VI,AR,N4,"+1h 20m 11,7s",1:30,NA,NA
+39,86,"Alenaz, Rodrigo",Mitsubishi Lancer Evo VIII,AR,N4,"+1h 21m 25,3s",NA,NA,NA
+40,73,"Marchetto, Jorge",Mitsubishi Lancer Evo VIII,AR,N4,"+1h 25m 39,2s",0:20,NA,NA
+41,69,"Stroessner Diego, Dominguez",Mitsubishi Lancer Evo VI,PY,N4,"+1h 26m 24,7s",1:00,NA,NA
+42,82,"Nobre, Paulo",Mitsubishi Lancer Evo VII,BR,N4,"+1h 28m 06,8s",NA,NA,NA
+43,78,"Barbery Paz, Luis",Mitsubishi Lancer Evo VIII,BO,N4,"+1h 28m 33,4s",NA,NA,NA
+44,100,"Raies, Nicolas",Renault Clio,AR,N3,"+1h 28m 59,8s",NA,NA,NA
+45,143,"Molder, Jaan",Ford Fiesta S1600,EE,A6,"+1h 33m 35,2s",NA,NA,NA
+46,75,"Monteiro, Luis",Mitsubishi Lancer Evo VIII,AR,N4,"+1h 36m 33,1s",NA,NA,NA
+47,90,"Maranzana, Pablo Luis",Renault Clio,AR,N3,"+1h 40m 14,7s",2:40,NA,NA
+48,95,"Aguirre, Eduardo C.",Peugeot 206,CL,A7,"+1h 59m 04,3s",1:00,NA,NA
+49,92,"Mecchia, Sergio",Peugeot 206,AR,A6,"+2h 03m 19,8s",3:00,NA,NA
+50,104,"Botazzini, Guillermo",Honda Civic,AR,N2,"+2h 03m 22,0s",NA,NA,NA
+51,85,"Abella Nazar, Arturo",Mitsubishi Lancer Evo VI,AR,N4,"+2h 20m 36,2s",NA,NA,NA
+52,93,"Angeloni, Jorge Ernesto",Seat Ibiza,AR,N3,"+2h 32m 26,2s",3:50,NA,NA
+53,101,"Vega, Luis Maria",Fiat Palio,AR,N2,"+2h 38m 58,1s",0:40,NA,NA
+54,105,"Perez Lobo, Luis Arturo",Renault Clio,AR,N2,"+2h 42m 33,7s",1:30,NA,NA
+55,96,"Nicolas, Jose Alberto",Renault Clio,AR,A6,"+2h 56m 21,4s",3:10,NA,NA
+56,97,"Alvarez, Benjamin",Seat Ibiza,AR,N3,"+3h 05m 16,2s",1:40,NA,NA
+57,103,"Diaz, Jorge Antonio",Fiat Palio,AR,N2,"+3h 07m 07,5s",NA,NA,NA
+NA,4,"Hirvonen, Mikko",Ford Focus RS WRC 06,FI,A8,NA,NA,TC10C,engine
+NA,35,"Pozzo, Gabriel",Mitsubishi Lancer Evo IX,AR,N4,NA,NA,TC6A,mechanical
+NA,41,"Kamada, Takuma",Subaru Impreza,JP,N4,NA,NA,TC1,mechanical
+NA,45,"Teiskonen, Aki",Subaru Impreza,FI,N4,NA,NA,TC10D,damaged rollcage
+NA,66,"Vojtech, Stepan",Mitsubishi Lancer Evo,CZ,N4,NA,NA,TC18D,mechanical
+NA,80,"Ritta, Javier",Mitsubishi Lancer Evo VI,AR,N4,NA,NA,TC18D,mechanical
+NA,84,"Gallusser, Martin",Mitsubishi Lancer Evo VIII,AR,N4,NA,NA,TC10D,mechanical
+NA,91,"Machinea, Manuel Maria",Seat Ibiza,AR,N3,NA,NA,TC18D,mechanical
+NA,98,"Bustos, Emilio",Fiat Palio,AR,A6,NA,NA,TC2B,mechanical
+NA,106,"Jauregui, Roberto Alfredo",Opel Corsa,AR,N2,NA,NA,TC10D,mechanical
+NA,107,"Castro, Carlos Horacio",Opel Corsa,AR,N2,NA,NA,TC18D,mechanical
