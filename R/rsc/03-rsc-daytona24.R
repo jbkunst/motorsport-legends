@@ -3,31 +3,41 @@ source(here::here("R/rsc/00-rsc-helpers.R"))
 source(here::here("R/00-helpers.R"))
 
 # data -------------------------------------------------------------------
-daytona_archive_url <- "https://www.racingsportscars.com/track/archive/daytona.html"
+daytona_archive_urls <- c(
+  "https://www.racingsportscars.com/track/archive/daytona.html",
+  "https://www.racingsportscars.com/track/archive/daytona.html?page=2")
 
-page <- request(daytona_archive_url) |>
-  req_user_agent("Joshua Kunst jbkunst@gmail.com") |>
-  req_perform() |>
-  resp_body_html()
+daytona24_tbl <- map_dfr(daytona_archive_urls, function(daytona_archive_url = "https://www.racingsportscars.com/track/archive/daytona.html?page=2"){
 
-links <- page |>
-  html_elements("a") 
+  cli::cli_inform(daytona_archive_url)
+    
+  page <- request(daytona_archive_url) |>
+    req_user_agent("Joshua Kunst jbkunst@gmail.com") |>
+    req_perform() |>
+    resp_body_html()
 
-links <- tibble(
-    text = html_text2(links),
-    href = html_attr(links, "href")
-  )
+  links <- page |>
+    html_elements("a") 
 
-daytona24_tbl <- links |>
-  filter(text == "Daytona 24 Hours") |>
-  mutate(
-    url = url_absolute(href, daytona_archive_url),
-    date = ymd(str_extract(url, "\\d{4}-\\d{2}-\\d{2}")),
-    photo_url = str_replace(url, "/race/", "/photo/"),
-    url = str_glue("{photo_url}?sort=Results")
-  ) |>
-  distinct(date, .keep_all = TRUE) |>
-  arrange(desc(date))
+  links <- tibble(
+      text = html_text2(links),
+      href = html_attr(links, "href")
+    )
+
+  dout <- links |>
+    filter(text == "Daytona 24 Hours") |>
+    mutate(
+      url = url_absolute(href, daytona_archive_url),
+      date = ymd(str_extract(url, "\\d{4}-\\d{2}-\\d{2}")),
+      photo_url = str_replace(url, "/race/", "/photo/"),
+      url = str_glue("{photo_url}?sort=Results")
+    ) |>
+    distinct(date, .keep_all = TRUE) |>
+    arrange(desc(date))
+    
+    dout
+})
+
 
 daytona24_tbl |> 
   pull(url) |> 

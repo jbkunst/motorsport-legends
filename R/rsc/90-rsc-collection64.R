@@ -15,7 +15,7 @@ data_collection <- data_collection |>
 glimpse(data_collection)
 
 data_collection_join <- fs::dir_ls("data/races/") |>
-  map_df(function(folder = "data/races/spa") {
+  map_df(function(folder = "data/races/daytona") {
     cli::cli_inform(folder)
 
     rr <- load_race_results(str_c(folder, "/results")) |>
@@ -48,6 +48,7 @@ data_collection_join <- arrange(data_collection_join, year, track, result)
 # check ------------------------------------------------------------------
 # anti_join para hacer check de que NO se cruzó o que falta descargar
 checks <- anti_join(data_collection, data_collection_join, by = join_by(track, year, number, make))
+checks
 stopifnot(nrow(checks) == 0)
 # datatable html output --------------------------------------------------
 dt <- prep_rsc_dt_data(data_collection_join)
