@@ -1,5 +1,5 @@
 # setup ------------------------------------------------------------------
-source(here::here("R/rsc/00-rsc-helpers.R"))
+source(here::here("R/endurance/00-rsc-helpers.R"))
 source(here::here("R/00-helpers.R"))
 
 # data -------------------------------------------------------------------
@@ -39,7 +39,7 @@ nurburgring24_tbl |>
   pull(url) |> 
   walk(scrape_race)
 
-datanbr24 <- load_race_results("data/races/nurburgring/results/")
+datanbr24 <- load_race_results("data/endurance/nurburgring/results/")
 
 # Hay results que no son 24h, por eso filtramos por fechas
 datanbr24 |> filter_out(date %in% nurburgring24_tbl$date)

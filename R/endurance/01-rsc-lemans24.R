@@ -1,5 +1,5 @@
 # setup ------------------------------------------------------------------
-source(here::here("R/rsc/00-rsc-helpers.R"))
+source(here::here("R/endurance/00-rsc-helpers.R"))
 source(here::here("R/00-helpers.R"))
 
 # data -------------------------------------------------------------------
@@ -35,7 +35,7 @@ lemans24_tbl |>
   pull(url) |> 
   walk(scrape_race)
 
-datalm <- load_race_results("data/races/le_mans/results/")
+datalm <- load_race_results("data/endurance/le_mans/results/")
 
 datalm
 

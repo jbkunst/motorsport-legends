@@ -1,5 +1,5 @@
 # setup ------------------------------------------------------------------
-source(here::here("R/rsc/00-rsc-helpers.R"))
+source(here::here("R/endurance/00-rsc-helpers.R"))
 source(here::here("R/00-helpers.R"))
 
 # data collection and join with results ----------------------------------
@@ -14,8 +14,8 @@ data_collection <- data_collection |>
 
 glimpse(data_collection)
 
-data_collection_join <- fs::dir_ls("data/races/") |>
-  map_df(function(folder = "data/races/daytona") {
+data_collection_join <- fs::dir_ls("data/endurance/") |>
+  map_df(function(folder = "data/endurance/daytona") {
     cli::cli_inform(folder)
 
     rr <- load_race_results(str_c(folder, "/results")) |>

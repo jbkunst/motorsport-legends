@@ -1,5 +1,5 @@
 # setup ------------------------------------------------------------------
-source(here::here("R/rsc/00-rsc-helpers.R"))
+source(here::here("R/endurance/00-rsc-helpers.R"))
 source(here::here("R/00-helpers.R"))
 
 # data -------------------------------------------------------------------
@@ -43,7 +43,7 @@ daytona24_tbl |>
   pull(url) |> 
   walk(scrape_race)
 
-datadaytona24 <- load_race_results("data/races/daytona/results/")
+datadaytona24 <- load_race_results("data/endurance/daytona/results/")
 
 datadaytona24
 
