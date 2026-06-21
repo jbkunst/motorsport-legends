@@ -18,7 +18,7 @@ data_collection_join <- fs::dir_ls("data/endurance/") |>
   map_df(function(folder = "data/endurance/daytona") {
     cli::cli_inform(folder)
 
-    rr <- load_race_results(str_c(folder, "/results")) |>
+    rr <- load_race_results(str_c(folder, "")) |>
       mutate(track = basename(folder), year = year(date), .after = 1)
 
     rr <- rr |>

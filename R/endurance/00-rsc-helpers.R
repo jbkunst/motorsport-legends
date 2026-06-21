@@ -141,7 +141,7 @@ scrape_race <- function(url = "https://www.racingsportscars.com/photo/Nurburgrin
 
   trck <- str_extract(url, "(?<=/photo/).+?(?=-\\d{4}-\\d{2}-\\d{2})") |> str_to_lower()
   date <- str_extract(url, "\\d{4}-\\d{2}-\\d{2}")
-  fout <- str_glue("data/endurance/{trck}/results/{date}.csv")
+  fout <- str_glue("data/endurance/{trck}/{date}.csv")
   
   fs::dir_create(dirname(fout))
   cli::cli_progress_step("{url} -> {fout}")
@@ -174,7 +174,7 @@ scrape_race <- function(url = "https://www.racingsportscars.com/photo/Nurburgrin
 }
 
 # carga todos los CSVs de una carrera y parsea grid_time
-load_race_results <- function(dir = "data/endurance/nurburgring/results/") {
+load_race_results <- function(dir = "data/endurance/nurburgring/") {
   
   files <- fs::dir_ls(dir, glob = "*.csv") |> rev()
 

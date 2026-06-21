@@ -35,7 +35,7 @@ lemans24_tbl |>
   pull(url) |> 
   walk(scrape_race)
 
-datalm <- load_race_results("data/endurance/le_mans/results/")
+datalm <- load_race_results("data/endurance/le_mans/")
 
 datalm
 

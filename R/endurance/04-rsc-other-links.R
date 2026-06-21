@@ -46,7 +46,7 @@ races_other <- races_other |>
     track = str_match(url, "/photo/([^/-]+)-\\d{4}-\\d{2}-\\d{2}")[, 2] |>
       str_to_lower() |>
       str_replace_all("-", "_"),
-    file = here::here("data/endurance", track, "results", paste0(date, ".csv"))
+    file = here::here("data/endurance", track, paste0(date, ".csv"))
   ) 
 
 dt <- races_other |>
