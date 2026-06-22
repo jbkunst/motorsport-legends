@@ -51,10 +51,10 @@ wrc_rallies
 
 wrc_editions <- wrc_rallies |>
   select(rally_slug, rally_name, rally_url) |>
-  purrr::pmap_dfr(scrape_wrc_editions, pause = 0.2)
+  pmap_dfr(scrape_juwra_editions, pause = 0.2)
 
-wrc_editions |> 
-  pull(wrc_results_url) |> 
-  walk(scrape_wrc_juwra_results)
+wrc_editions |>
+  select(rally_slug, year, wrc_results_url) |>
+  pwalk(scrape_wrc_juwra_results)
 
 

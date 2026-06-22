@@ -50,6 +50,7 @@ data_collection_join <- arrange(data_collection_join, year, track, result)
 checks <- anti_join(data_collection, data_collection_join, by = join_by(track, year, number, make))
 checks
 stopifnot(nrow(checks) == 0)
+
 # datatable html output --------------------------------------------------
 dt <- prep_rsc_dt_data(data_collection_join)
 
