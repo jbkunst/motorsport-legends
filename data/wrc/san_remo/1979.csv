@@ -1,0 +1,34 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,2,"Fassina, Antonio",Lancia Stratos HF,IT,G4,12h 37m 17s,NA,NA,NA
+2,6,"Rohrl, Walter",Fiat 131 Abarth,DE,G4,+4m 14s,NA,NA,NA
+3,12,"Bettega, Attilio",Fiat 131 Abarth,IT,G4,+18m 42s,NA,NA,NA
+4,11,"Pond, Tony",Talbot Sunbeam,GB,G4,+28m 05s,NA,NA,NA
+5,18,"Cerrato, Dario",Opel Ascona,IT,G2,+33m 58s,NA,NA,NA
+6,1,"Alen, Markku",Fiat 131 Abarth,FI,G4,+40m 43s,NA,NA,NA
+7,20,"Presotto, Angelo",Ford Escort RS2000,IT,G1,+48m 57s,NA,NA,NA
+8,21,"Tognana, Antonio",Opel Kadett GT/E,IT,G1,+1h 09m 21s,NA,NA,NA
+9,23,'Nico',Lancia Stratos HF,IT,G4,+1h 29m 39s,NA,NA,NA
+10,26,"Pasutti, Paolo",Porsche 911,IT,G3,+1h 37m 08s,NA,NA,NA
+11,NA,"Cavini, M.",Opel Kadett GT/E,NA,G1,+1h 59m 44s,NA,NA,NA
+12,NA,Fusaro,Fiat Ritmo,NA,G2,+2h 08m 03s,NA,NA,NA
+13,NA,Ontano,Opel Kadett GT/E,NA,G1,+2h 48m 37s,NA,NA,NA
+14,NA,Ferrari,Opel Kadett GT/E,NA,G2,+2h 54m 09s,NA,NA,NA
+15,NA,Brion,Lancia Stratos HF,NA,G4,+3h 05m 21s,NA,NA,NA
+16,NA,"Fragale, Luigi",Fiat 127,IT,G2,+3h 19m 30s,NA,NA,NA
+17,NA,Pisi,Fiat 127,NA,G2,+3h 21m 38s,NA,NA,NA
+18,NA,Garin,Volkswagen Golf GTi,NA,G1,+3h 28m 40s,NA,NA,NA
+19,NA,Incudine,Opel Kadett GT/E,NA,G2,+3h 28m 45s,NA,NA,NA
+20,NA,"Peyrani, J-P",Peugeot 104,IT,G1,+4h 12m 59s,NA,NA,NA
+21,NA,Martino,Fiat Ritmo,NA,G2,+4h 20m 00s,NA,NA,NA
+22,NA,Maselli,Opel Kadett GT/E,NA,G1,+4h 33m 23s,NA,NA,NA
+23,NA,Campanelli,Citroen GS,NA,G1,+4h 56m 22s,NA,NA,NA
+NA,4,"Nicolas, Jean-Pierre",Talbot Sunbeam,FR,G4,NA,NA,TC25B,mechanical
+NA,5,"Lampinen, Simo",Triumph TR7,FI,G4,NA,NA,SS43,rear suspension
+NA,7,"Verini, Maurizio",Opel Ascona,IT,G2,NA,NA,SS43,differential
+NA,9,"Salonen, Timo",Datsun 160J,FI,G2,NA,NA,SS29,valve
+NA,10,"Eklund, Per",Triumph TR7,SE,G4,NA,NA,SS51,engine
+NA,14,"Dumont, Jean-Louis",Vauxhall Chevette 2300,BE,G4,NA,NA,SS63,rear axle
+NA,15,"Vudafieri, Adartico",Fiat 131 Abarth,IT,G4,NA,NA,SS1,accident
+NA,16,"Tabaton, Fabrizio",Lancia Stratos HF,IT,G4,NA,NA,SS2,accident
+NA,NA,"del Zoppo, Giovanni",Peugeot 104,IT,G2,NA,NA,NA,oil
+NA,NA,"Ontano, G.",Porsche,IT,NA,NA,NA,NA,gearbox

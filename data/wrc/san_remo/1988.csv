@@ -1,0 +1,19 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Biasion, Massimo",Lancia Delta Integrale,IT,A8,6h 06m 41s,NA,NA,NA
+2,3,"Fiorio, Alessandro",Lancia Delta Integrale,IT,A,+53s,NA,NA,NA
+3,7,"Cerrato, Dario",Lancia Delta Integrale,IT,A,+1m 54s,NA,NA,NA
+4,5,"Alen, Markku",Lancia Delta Integrale,FI,A,+2m 14s,NA,NA,NA
+5,11,"Sainz, Carlos",Ford Sierra RS Cosworth,ES,A,+6m 18s,NA,NA,NA
+6,8,"Eriksson, Kenneth",Toyota Celica GT-4 (ST165),SE,A,+9m 55s,NA,NA,NA
+7,6,"Blomqvist, Stig",Ford Sierra RS Cosworth,SE,A,+23m 17s,NA,NA,NA
+8,52,"Baumschlager, Raimund",Volkswagen Golf GTi,AT,A,+29m 39s,NA,NA,NA
+9,23,"de Martini, Paola",Audi 90 quattro,IT,A,+30m 26s,NA,NA,NA
+10,15,"Alessandrini, Paolo",Lancia Delta Integrale,IT,A,+31m 04s,NA,NA,NA
+12,32,"Aghini, Andrea",Peugeot 309 GTI,IT,N,+36m 00s,NA,NA,NA
+16,19,"Gaban, Pascal",Mazda 323,BE,N,+45m 50s,NA,NA,NA
+NA,2,"Kankkunen, Juha",Toyota Celica GT-4 (ST165),FI,A,NA,NA,SS6,accident
+NA,4,"Auriol, Didier",Ford Sierra RS Cosworth,FR,A,NA,NA,SS10,accident
+NA,9,"Loubet, Yves",Lancia Delta Integrale,FR,A,NA,NA,SS2,accident
+NA,10,"Recalde, Jorge",Lancia Delta Integrale,AR,N,NA,NA,SS31,suspension
+NA,16,"Cunico, Gianfranco",Ford Sierra RS Cosworth,IT,A,NA,NA,SS1,accident
+NA,20,"del Zoppo, Giovanni",Lancia Delta Integrale,IT,N,NA,NA,SS33,suspension

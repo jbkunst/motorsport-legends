@@ -1,0 +1,22 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,2,"Munari, Sandro",Lancia Stratos HF HF,IT,G4,9h 12m 43s,4:00,NA,NA
+2,12,"Bisulli, Giulio",Fiat 124 Abarth Spider,IT,G4,+7m 43s,NA,NA,NA
+3,32,"Fagnola, Alfredo",Opel Ascona,IT,G1,+43m 26s,NA,NA,NA
+4,14,"Mehta, Shekhar",Lancia Beta,KE,G4,+45m 55s,NA,NA,NA
+5,37,'Iccudrac',Porsche 911,IT,G3,+53m 16s,NA,NA,NA
+6,41,"Morielli, Mido",Lancia Fulvia HF,IT,G4,+1h 00m 29s,NA,NA,NA
+7,71,"Magnani, Renzo",Lancia Fulvia,IT,G3,+1h 02m 27s,NA,NA,NA
+8,51,"Errani, Alain",Opel Ascona,FR,G2,+1h 04m 31s,NA,NA,NA
+9,90,"Isnardi, Paolo",Opel Ascona,IT,G1,+1h 11m 41s,NA,NA,NA
+10,50,"Bramino, Giorgio",Opel Ascona,IT,G2,+1h 14m 32s,NA,NA,NA
+NA,1,"Verini, Maurizio",Fiat 124 Abarth Spider,IT,G4,NA,NA,NA,accident
+NA,3,"Alen, Markku",Fiat 124 Abarth Spider,FI,G4,NA,NA,NA,steering
+NA,4,"Ballestrieri, Amilcare",Lancia Stratos HF HF,IT,G4,NA,NA,NA,accident
+NA,5,"Pinto, Raffaele",Fiat 124 Abarth Spider,IT,G4,NA,NA,NA,accident
+NA,6,"Lampinen, Simo",Lancia Beta,FI,G4,NA,NA,NA,late from start
+NA,7,"Bacchelli, Fulvio",Fiat 124 Abarth Spider,IT,G4,NA,NA,NA,accident
+NA,8,"Paganelli, Alcide",Fiat 124 Abarth Spider,IT,G4,NA,NA,NA,accident
+NA,9,"Trombotto, Luciano",Alfa Romeo Alfetta GT,IT,G2,NA,NA,NA,fuel injection
+NA,10,"Barbasio, Sergio",Fiat 124 Abarth Spider,IT,G4,NA,NA,NA,engine
+NA,25,"Ormezzano, Federico",Alfa Romeo Alfasud,IT,G2,NA,NA,NA,differential
+NA,49,"Rae, Jimmy",Ford Escort RS1600,GB,G2,NA,NA,NA,unknown

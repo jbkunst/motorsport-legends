@@ -1,0 +1,69 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,12,"Therier, Jean-Luc",Renault 17 Gordini,FR,C*,5h 29m 47s,NA,NA,NA
+2,7,"Alen, Markku",Fiat 124 Abarth Spider,FI,C*,+5m 23s,20:00,NA,NA
+3,9,"Nicolas, Jean-Pierre",Renault 17 Gordini,FR,C*,+6m 02s,NA,NA,NA
+4,65,"Lampinen, Simo",Lancia Beta,FI,NA,+20m 01s,10:00,NA,NA
+5,11,"Chasseuil, Guy",Renault-Alpine A110,FR,D*,+26m 58s,NA,NA,NA
+6,4,"Darniche, Bernard",Renault 17 Gordini,FR,C*,+35m 39s,NA,NA,NA
+7,63,"Zasada, Sobieslaw",Porsche 911,PL,NA,+52m 11s,NA,NA,NA
+8,5,"Neyret, Robert",Renault-Alpine A110,FR,D*,+52m 55s,NA,NA,NA
+9,37,"Tolles, Tom",Volvo 142S,US,C*,NA,NA,NA,NA
+10,1,"Hoepfner, Marianne",Renault-Alpine A110,FR,D*,+1h 05m 42s,NA,NA,NA
+11,16,"Hourihan, Bob",Volvo 142,US,C*,+1h 10m 53s,NA,NA,NA
+12,26,"Jones, Eric",Datsun 510,US,C*,+1h 17m 54s,NA,NA,NA
+13,29,"Callon, Jim",Datsun 510,US,C*,+1h 21m 37s,NA,NA,NA
+14,40,"Light, Guy",Saab 96 V4,US,NA,+1h 23m 53s,NA,NA,NA
+15,8,"Smiskol, John",Datsun 260Z,US,D*,+1h 32m 54s,NA,NA,NA
+16,41,"Jankowski, Don",Dodge Colt,US,B*,+1h 34m 43s,NA,NA,NA
+17,47,"Albright, Gene",Mercury Capri,US,B*,+1h 35m 55s,NA,NA,NA
+18,42,"Stavenger, Dave",Saab 96 V4,US,NA,+1h 43m 12s,NA,NA,NA
+19,23,"MacKay, Ross",Toyota Corolla,NZ,B*,+1h 43m 27s,NA,NA,NA
+20,51,"Sabina, John",Opel Kadett,US,A*,+1h 54m 36s,NA,NA,NA
+21,48,"Kaser, Arthur",Datsun 510,US,B*,+1h 56m 42s,NA,NA,NA
+22,45,"Harbron, Garrett",Mazda RX2,US,D*,+2h 02m 16s,NA,NA,NA
+23,50,"Jodar, Loyal W.",Ford Mustang,US,E*,+2h 11m 09s,NA,NA,NA
+24,25,"Dodd, William",Mercury Capri,US,D*,+2h 11m 19s,NA,NA,NA
+25,32,"Wiley, Wayne",Mercury Capri,US,C*,+2h 17m 04s,NA,NA,NA
+26,53,"Bacina, Paul",Ford Mustang,US,E*,+2h 17m 59s,NA,NA,NA
+27,59,"Grimshaw, Thomas",Datsun 510,US,B*,+2h 51m 16s,NA,NA,NA
+28,36,"Urban, Thomas",Saab 96 V4,CA,C*,+2h 54m 33s,NA,NA,NA
+29,43,"Widdis, Pete",Datsun 510,US,B*,+3h 04m 09s,NA,NA,NA
+NA,2,"Boyce, Walter",Toyota Corolla,CA,NA,NA,NA,SS20,stuck in mud
+NA,3,"Paganelli, Alcide",Fiat 124 Abarth Spider,IT,C*,NA,NA,after SS21,clutch
+NA,6,"Walker, Jim",Volvo 142,US,C*,NA,NA,SS20,differential
+NA,10,"Barbasio, Sergio",Fiat 124 Abarth Spider,IT,C*,NA,NA,NA,sheriff
+NA,13,"Harvey, Scott",Dodge Colt,US,B*,NA,NA,NA,axle
+NA,14,"Buffum, John",Ford Escort RS1600,US,C*,NA,NA,NA,unknown
+NA,15,"Culcheth, Brian",Morris Marina,GB,C*,NA,NA,SS23,gearbox
+NA,17,"Perusse, Jean-Paul",Fiat 124 Abarth Spider,CA,C*,NA,NA,after SS21,clutch
+NA,18,"Wirtjes, George",Mazda Familia,CA,C*,NA,NA,NA,unknown
+NA,19,"Billows, Keith",Ford Escort RS1600,GB,C*,NA,NA,NA,gearbox/accident
+NA,20,"Crawford, John",Saab 96 V4,US,B*,NA,NA,SS2,rolled
+NA,21,"Gibbs, George",Datsun 240Z,US,D*,NA,NA,NA,unknown
+NA,22,"Turcot, Francois",Renault-Alpine A110,CI,D*,NA,NA,SS5,accident
+NA,24,"Thomason, George",Datsun 510,US,B*,NA,NA,NA,unknown
+NA,27,"Ambrosino, Alain",Renault-Alpine A110,FR,D*,NA,NA,NA,engine
+NA,28,"Carroll, Rich",Ford Escort RS1600,US,C*,NA,NA,Leg 1,off road
+NA,30,"Natho, William",Datsun 510,US,B*,NA,NA,NA,unknown
+NA,31,"Brooks Jr, Ralph",Datsun 240Z,US,D*,NA,NA,NA,unknown
+NA,33,"Beers, Richard",Datsun 510,US,B*,NA,NA,Leg 2,alternator
+NA,34,"Gordon, Cary",Dodge Colt,US,B*,NA,NA,NA,unknown
+NA,35,"Eaton Jr., Wayne",Volkswagen 1302S,US,B*,NA,NA,NA,unknown
+NA,38,"Pfaffenhausen, Vic",BMW 2002Tii,US,C*,NA,NA,NA,unknown
+NA,39,"Ayers, Terry",Opel Kadett,US,A*,NA,NA,NA,unknown
+NA,44,"Daniels, Robert",Datsun 510,US,B*,NA,NA,SS1,accident
+NA,46,"Kelley, John",Datsun 240Z,US,D*,NA,NA,NA,unknown
+NA,49,"Schmit, Al",Volkswagen,US,B*,NA,NA,NA,unknown
+NA,52,"Fossett, J. Stephen",Toyota Corolla,US,B*,NA,NA,NA,unknown
+NA,54,"Zorn, John",Honda Civic,US,A*,NA,NA,NA,unknown
+NA,55,"Jackson, Thomas",Mazda RX2,US,D*,NA,NA,NA,unknown
+NA,56,"Burnett, Jack",BMW 2002Tii,CA,C*,NA,NA,NA,unknown
+NA,57,"Ericksen, Nils",BMW 2002,US,C*,NA,NA,NA,unknown
+NA,58,"May, Richard",Ford Pinto,US,C*,NA,NA,NA,unknown
+NA,60,"Schneider, Robert",BMW 2002,US,C*,NA,NA,NA,unknown
+NA,61,"Foulkrod III, Raymond",BMW 2002Tii,US,C*,NA,NA,NA,unknown
+NA,62,"Legault, Jean",Renault-Alpine A110,CA,D*,NA,NA,NA,differential
+NA,64,"Munari, Sandro",Lancia Stratos HF HF,IT,NA,NA,NA,NA,distributor/rear suspension
+NA,66,"Pregliasco, Mauro",Lancia Beta,IT,NA,NA,NA,NA,engine mountings
+NA,67,"Smorawinski, Adam",Porsche 911,PL,G4,NA,NA,NA,stuck
+NA,68,"Verini, Maurizio",Fiat 124 Abarth Spider,IT,NA,NA,NA,after SS21,starter

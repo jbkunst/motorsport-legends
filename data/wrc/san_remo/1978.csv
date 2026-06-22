@@ -1,0 +1,31 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,4,"Alen, Markku",Lancia Stratos HF,FI,G4,10h 53m 28s,NA,NA,NA
+2,1,"Verini, Maurizio",Fiat 131 Abarth,IT,G4,+10m 32s,NA,NA,NA
+3,10,"Vincent, Francis",Porsche 911,FR,G4,+17m 03s,NA,NA,NA
+4,24,"Brambilla, Alberto",Porsche 911,IT,G3,+34m 24s,NA,NA,NA
+5,9,"Pregliasco, Mauro",Alfa Romeo Alfetta GT,IT,G2,+37m 20s,NA,NA,NA
+6,21,"Presotto, Angelo",Ford Escort RS2000,IT,G1,+52m 49s,NA,NA,NA
+7,44,"Gardavot, Christian",Porsche 911,FR,G3,+53m 58s,NA,NA,NA
+8,75,"Lunel, Christian",Opel Kadett GT/E,FR,G1,+1h 14m 48s,NA,NA,NA
+9,31,"Pons, Fabrizia",Opel Kadett GT/E,IT,G1,+1h 16m 44s,NA,NA,NA
+10,56,"Alberti, Charles",Opel Kadett GT/E,FR,G2,+1h 37m 28s,NA,NA,NA
+11,NA,"Pallanca, Jean",Porsche 911,MC,NA,+1h 46m 27s,NA,NA,NA
+12,NA,Cavallo,Opel Kadett GT/E,NA,NA,+1h 50m 49s,NA,NA,NA
+13,NA,Tardutu,Opel Kadett GT/E,NA,NA,+1h 54m 10s,NA,NA,NA
+14,NA,Barilla,Opel Kadett GT/E,NA,NA,+1h 56m 32s,NA,NA,NA
+15,NA,Pons,Simca Rallye 2,IT,NA,+1h 57m 01s,NA,NA,NA
+NA,2,"Rohrl, Walter",Fiat 131 Abarth,DE,G4,NA,NA,SS37,accident
+NA,5,"Munari, Sandro",Fiat 131 Abarth,IT,G4,NA,NA,SS17,accident
+NA,11,"Sclater, Chris",Vauxhall Chevette 2300,GB,G4,NA,NA,SS40,engine
+NA,14,"Vudafieri, Adartico",Lancia Stratos HF,IT,G4,NA,NA,SS43,accident
+NA,15,"Bettega, Attilio",Lancia Stratos HF,IT,G4,NA,NA,SS1,accident
+NA,16,"Ormezzano, Federico",Opel Kadett GT/E,IT,G2,NA,NA,SS8,engine
+NA,18,"Pasetti, Aldo",Fiat 131 Abarth,IT,G4,NA,NA,SS44,accident
+NA,20,"Battistoli, Luigi",Opel Kadett GT/E,IT,G2,NA,NA,SS17,accident
+NA,22,"Cerrato, Dario",Opel Kadett GT/E,IT,G1,NA,NA,SS17,accident
+NA,23,"Pinto, Raffaele",Ferrari 308GTB,IT,G4,NA,NA,SS18,distributor
+NA,26,"Cambiaghi, Anna",Lancia Stratos HF,IT,G4,NA,NA,SS17,engine
+NA,41,"Mandelli, Antonella",Fiat 131 Abarth,IT,G4,NA,NA,SS29,driveshaft
+NA,43,"Swaton, Gerard",Porsche 911,FR,G3,NA,NA,SS11,electrics
+NA,NA,Isnardi,Ford Escort RS,NA,NA,NA,NA,NA,accident
+NA,NA,Tognana,Ford Escort RS,NA,NA,NA,NA,SS48,accident

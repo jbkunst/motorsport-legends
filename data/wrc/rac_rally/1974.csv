@@ -1,0 +1,86 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Makinen, Timo",Ford Escort RS1600,FI,G2,8h 02m 39s,NA,NA,NA
+2,2,"Blomqvist, Stig",Saab 96 V4,SE,G2,+1m 40s,NA,NA,NA
+3,3,"Munari, Sandro",Lancia Stratos HF HF,IT,G4,+9m 16s,NA,NA,NA
+4,9,"Waldegard, Bjorn",Toyota Corolla,SE,G2,+11m 15s,NA,NA,NA
+5,4,"Rohrl, Walter",Opel Ascona,DE,G2,+13m 13s,NA,NA,NA
+6,6,"Walfridsson, Per-Inge",Volvo 142,SE,G2,+13m 30s,NA,NA,NA
+7,5,"Clark, Roger",Ford Escort RS1600,GB,G2,+16m 27s,NA,NA,NA
+8,23,"Coleman, Billy",Ford Escort RS1600,IE,G2,+17m 50s,NA,NA,NA
+9,20,"Sclater, Chris",Datsun Violet,GB,G2,+19m 17s,NA,NA,NA
+10,11,"Lampinen, Simo",Lancia Beta,FI,G2,+19m 18s,NA,NA,NA
+11,46,"Rockey, Nigel",Ford Escort RS1600,GB,G2,+19m 41s,NA,NA,NA
+12,8,"Aaltonen, Rauno",Fiat 124 Abarth Spider,FI,G4,+23m 53s,NA,NA,NA
+13,17,"Rainio, Tapio",Saab 96 V4,FI,G2,+25m 19s,NA,NA,NA
+14,16,"Kinnunen, Leo",Fiat 124 Abarth Spider,FI,G4,+27m 32s,NA,NA,NA
+15,13,"Kallstrom, Harry",Datsun Violet,SE,G2,+28m 52s,NA,NA,NA
+16,32,"Sparrow, Will",Vauxhall Magnum Coupe,GB,G1,+30m 35s,NA,NA,NA
+17,85,"Hauck, Wolfgang",Porsche,DE,G4,+36m 12s,NA,NA,NA
+18,44,"Rae, Jimmy",Ford Escort RS1600,GB,G2,+36m 48s,NA,NA,NA
+19,76,"Bloxham, John",Triumph Dolomite Sprint,GB,G2,+36m 51s,NA,NA,NA
+20,34,"Faulkner, Paul",Datsun Violet,GB,G2,+39m 23s,NA,NA,NA
+23,70,"Hill, George",Vauxhall Magnum,GB,G3,NA,NA,NA,NA
+24,21,"Paganelli, Alcide",Fiat 124 Abarth Spider,IT,G4,+46m 25s,NA,NA,NA
+29,55,"Taylor, John",Ford Escort RS,GB,G2,NA,NA,NA,NA
+45,121,"Sveinsvoll, Terje",Honda Civic,NO,G1,NA,NA,NA,NA
+951,37,"Moss-Carlsson, Pat",Toyota Celica,GB,G2,+1h 03m 17s,NA,NA,NA
+952,108,"Robinson, Jill",Ford Escort RS1600,GB,G2,+1h 24m 28s,NA,NA,NA
+953,60,"Oksala, Marketta",Hillman Avenger,FI,G1,+1h 37m 52s,NA,NA,NA
+954,56,"Smith, Rosemary",Opel Ascona,IE,G2,+1h 47m 46s,NA,NA,NA
+955,124,"Jensen, Trine",Ford Escort,NO,G1,+2h 22m 30s,NA,NA,NA
+956,119,"Pegrum, Kathy",Peugeot 504,GB,G1,+3h 05m 33s,NA,NA,NA
+999,57,"Haugland, John",Skoda 120,NO,G2,NA,NA,NA,NA
+999,74,"Ryan, Patrick",Morris Marina,GB,G2,NA,NA,NA,NA
+999,102,"Grierson, Murray",Ford Escort TwinCam,GB,G2,NA,NA,NA,NA
+999,132,"Freeborough, Bob",Morris Mini,GB,G2,NA,NA,NA,NA
+999,43,"Eyre-Maunsell, Robin",Hillman Avenger,GB,G1,NA,NA,NA,NA
+999,106,"Lord, Christopher",Vauxhall Viva Magnum,GB,G3,NA,NA,NA,NA
+999,45,"McCartney, Ronnie",Mazda RX3,GB,G1,NA,NA,NA,NA
+999,107,"Thompson, Peter",Vauxhall Firenza,GB,G3,NA,NA,NA,NA
+999,58,"Grewer, Colin",Opel Ascona,GB,G1,NA,NA,NA,NA
+999,91,"Demuth, Harald",Toyota Celica,DE,G1,NA,NA,NA,NA
+999,97,"Waugh, Gavin",Hillman Avenger,GB,G1,NA,NA,NA,NA
+999,129,"Hilliard, Peter",Alfa Romeo Alfasud TI,GB,G1,NA,NA,NA,NA
+999,140,"Burch, Paul",Hillman Avenger,GB,G1,NA,NA,NA,NA
+999,175,"Brunskill, Tony",Mazda RX3,GB,G1,NA,NA,NA,NA
+NA,7,"Eklund, Per",Saab 96 V4,SE,G2,NA,NA,NA,differential
+NA,10,"Mikkola, Hannu",Ford Escort RS1600,FI,G2,NA,NA,SS16,wheel studs
+NA,12,"Fall, Tony",Opel Ascona,GB,G2,NA,NA,SS3,axle damage
+NA,14,"Andersson, Ove",Toyota Corolla,SE,G2,NA,NA,SS45,stub axle
+NA,15,"Alen, Markku",Ford Escort RS1600,FI,G2,NA,NA,Leg 1,water pump
+NA,18,"Carlsson, Lars",Opel Ascona,SE,G2,NA,NA,Leg 1,gearbox
+NA,19,"Ballestrieri, Amilcare",Lancia Beta,IT,G4,NA,NA,SS10,engine
+NA,22,"Culcheth, Brian",Triumph Dolomite Sprint,GB,G2,NA,NA,SS10,accident
+NA,24,"Airikkala, Pentti",Ford Escort RS1600,FI,G2,NA,NA,SS48,engine
+NA,25,"Curley, Cahal",Datsun 240Z,GB,G4,NA,NA,SS23,accident
+NA,26,"Boyd, Adrian",Ford Escort RS1600,GB,G2,NA,NA,SS45,accident
+NA,27,"Pond, Tony",Opel Ascona,GB,G2,NA,NA,Leg 1,head gasket
+NA,28,"Malkin, Colin",Chrysler Avenger,GB,G2,NA,NA,SS60,accident
+NA,29,"Carlsson, Morgan",Volvo 142S,SE,G2,NA,NA,SS78,water pump
+NA,30,"Cowan, Andrew",Vauxhall Magnum,GB,G3,NA,NA,SS5,engine
+NA,31,"Fowkes, Anthony",Ford Escort RS1600,GB,G2,NA,NA,NA,mechanical
+NA,38,"Brookes, Russell",Ford Escort RS2000,GB,G1,NA,NA,NA,gearbox
+NA,39,"Saaristo, Markku",Skoda 120,FI,G2,NA,NA,after SS61,transmission
+NA,40,"Enomaa, Heikki",BMW 2002,FI,G2,NA,NA,SS33,transmission
+NA,42,"Heggie, Donald",Ford Escort RS,GB,G2,NA,NA,SS34,gearbox
+NA,47,"Carlsson, Ingvar",Fiat 124 Abarth Spider,SE,G4,NA,NA,SS60,accident
+NA,49,"Dawson, Andy",Morris Marina,GB,G2,NA,NA,SS61,accident
+NA,50,"Thompson, David",Ford Escort,GB,G2,NA,NA,Leg 1,engine
+NA,51,"Taylor, Bill",Ford Escort RS,GB,G2,NA,NA,after SS16,electrical
+NA,53,"Videan, Kevin",Datsun 260Z,GB,G4,NA,NA,SS5,ignition
+NA,59,"Simek, Karel",Skoda 120,CS,G2,NA,NA,SS22,transmission
+NA,63,"Gierowski, Marek",Porsche 911,PL,G4,NA,NA,NA,unknown
+NA,64,"Beynon, Christopher",Porsche,GB,G4,NA,NA,NA,lost oil
+NA,68,"Williams, Barrie",Fiat 128,GB,G1,NA,NA,SS9,accident
+NA,73,"Dale, Pip",Vauxhall Firenza,GB,G3,NA,NA,Leg 1,differential
+NA,75,"Schewe, Heinz-Walter",Porsche,DE,G4,NA,NA,NA,road accident
+NA,79,"Vandervell, Colin",Ford Escort RS1600,GB,G2,NA,NA,NA,SS16
+NA,90,"Hardcastle, David",Opel Ascona,GB,G1,NA,NA,NA,OTL
+NA,94,"Wilson, Ian",Opel Ascona,GB,G1,NA,NA,NA,electrics
+NA,101,"Beever, George",Ford Escort,GB,G2,NA,NA,SS24,used pace notes
+NA,110,"Jago, John",Ford Escort TwinCam,GB,G2,NA,NA,Leg 1,OTL
+NA,117,"Cooper, Philip",Morris Marina,GB,G2,NA,NA,NA,gearbox
+NA,122,"Lawson, Sandy",DAF 55,GB,G2,NA,NA,after last SS,suspension
+NA,136,"Bertorelli, Leo",Alfa Romeo Alfasud TI,GB,G1,NA,NA,SS76,engine
+NA,143,"Ford, Benson Jr",Ford Escort RS2000,US,G2,NA,NA,NA,OTL
+NA,166,"Dooley, Jon",Alfa Romeo Alfasud TI,GB,G1,NA,NA,SS61,gearbox

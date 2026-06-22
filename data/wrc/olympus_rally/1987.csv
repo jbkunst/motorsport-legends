@@ -1,0 +1,16 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"Kankkunen, Juha",Lancia Delta HF 4WD,FI,A8,5h 59m 24s,NA,NA,NA
+2,6,"Biasion, Massimo",Lancia Delta HF 4WD,IT,A,+12s,NA,NA,NA
+3,1,"Alen, Markku",Lancia Delta HF 4WD,FI,A,+42s,NA,NA,NA
+4,10,"Millen, Rod",Mazda 323 4WD,NZ,A,+11m 48s,NA,NA,NA
+5,14,"Alessandrini, Paolo",Lancia Delta HF 4WD,IT,A,+14m 41s,NA,NA,NA
+6,4,"Waldegard, Bjorn",Toyota Supra 3.0i,SE,A,+18m 02s,NA,NA,NA
+7,16,"Recalde, Jorge",Lancia Delta HF 4WD,AR,A,+23m 43s,NA,NA,NA
+8,9,"Mehta, Shekhar",Nissan 200SX,KE,A,+25m 22s,NA,NA,NA
+9,11,"Eklund, Per",Nissan 200SX,SE,A,+25m 39s,NA,NA,NA
+10,20,"Smith, Clive",Toyota Corolla,NZ,A,+35m 42s,NA,NA,NA
+11,15,"Fiorio, Alessandro",Lancia Delta HF 4WD,IT,N,+39m 57s,NA,NA,NA
+15,23,"Tajima, Nobuhiro",Suzuki Cultus (Swift),JP,A5,+54m 11s,NA,NA,NA
+NA,2,"Buffum, John",Audi Coupe,US,A,NA,NA,SS30,accident
+NA,7,"Ericsson, Mikael",Nissan 200SX,SE,A,NA,NA,SS8,ignition
+NA,8,"Torph, Lars-Erik",Toyota Supra 3.0i,SE,A,NA,NA,SS24,engine

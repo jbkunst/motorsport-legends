@@ -1,0 +1,65 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,14,"Mouton, Michele",Audi quattro,FR,G4,8h 05m 50s,NA,NA,NA
+2,11,"Toivonen, Henri",Talbot Sunbeam,FI,G2,+3m 25s,NA,NA,NA
+3,6,"Fassina, Antonio",Opel Ascona 400,IT,G4,+6m 18s,NA,NA,NA
+4,5,"Mikkola, Hannu",Audi quattro,FI,G4,+12m 30s,NA,NA,NA
+5,16,"Battistoli, Luigi",Opel Ascona 400,IT,G4,+14m 01s,NA,NA,NA
+6,25,"Biasion, Massimo",Opel Ascona 400,IT,G4,+15m 54s,NA,NA,NA
+7,4,"Vatanen, Ari",Ford Escort RS,FI,G4,+17m 45s,NA,NA,NA
+8,18,"Cerrato, Dario",Fiat 131 Abarth,IT,G4,+19m 43s,NA,NA,NA
+9,2,"Alen, Markku",Fiat 131 Abarth,FI,G4,+20m 55s,NA,NA,NA
+10,19,"Ormezzano, Federico",Talbot Sunbeam,IT,G2,+27m 57s,NA,NA,NA
+11,28,"Presotto, Angelo",Ford Escort RS1800,IT,G4,+29m 44s,NA,NA,NA
+12,7,"Salonen, Timo",Datsun Violet,FI,G4,+37m 43s,NA,NA,NA
+13,34,"Turiani, Auguste",Opel Ascona 400,MC,G4,+1h 03m 25s,NA,NA,NA
+14,32,"Bigo, Alberto",Opel Ascona,IT,G1,+1h 05m 08s,NA,NA,NA
+15,NA,"Recordati, Giovanni",Opel Ascona 400,IT,NA,+1h 32m 18s,NA,NA,NA
+16,NA,Borla,Fiat 131 Abarth,NA,G4,+1h 39m 53s,NA,NA,NA
+17,NA,"Ricci, Lorenzo",Opel Kadett GT/E,IT,NA,+1h 44m 58s,NA,NA,NA
+18,NA,Sipsz,Opel Kadett GT/E,NA,NA,+2h 05m 09s,NA,NA,NA
+19,NA,Angeli,Opel Kadett GT/E,IT,NA,+2h 11m 51s,NA,NA,NA
+20,NA,Elmiger,Ford Escort RS,NA,NA,+2h 23m 26s,NA,NA,NA
+21,NA,Lorenzi,Volkswagen Golf,NA,NA,+2h 31m 20s,NA,NA,NA
+22,NA,Malacarne,Talbot Sunbeam,NA,NA,+2h 36m 29s,NA,NA,NA
+23,NA,Ameglio,Peugeot 104,IT,NA,+2h 40m 33s,NA,NA,NA
+24,NA,Balestra,Fiat 127,NA,NA,+2h 57m 58s,NA,NA,NA
+25,NA,Ballestra,Alfa Romeo Alfasud,NA,NA,+3h 37m 21s,NA,NA,NA
+26,NA,Garibaldi,Fiat 127,NA,NA,+3h 56m 25s,NA,NA,NA
+NA,1,"Rohrl, Walter",Porsche 911,DE,G4,NA,NA,SS41,gearbox
+NA,3,"Frequelin, Guy",Talbot Sunbeam,FR,G2,NA,NA,SS19,engine
+NA,9,"Bettega, Attilio",Fiat 131 Abarth,IT,G4,NA,NA,SS17,accident
+NA,10,"Therier, Jean-Luc",Porsche 911,FR,G4,NA,NA,SS5,rear suspension
+NA,12,"Vudafieri, Adartico",Fiat 131 Abarth,IT,G4,NA,NA,SS26,accident
+NA,15,"Pond, Tony",Datsun Violet,GB,G4,NA,NA,SS59,oil pump
+NA,20,"Bohne, Holger",Mercedes Benz 500SL,DE,G4,NA,NA,SS1,rear suspension
+NA,22,"Capone, Carlo",Fiat Ritmo,IT,G2,NA,NA,SS6,accident
+NA,23,"Verini, Maurizio",Opel Ascona 400,IT,G4,NA,NA,SS41,oil pump
+NA,26,"Laine, Antero",Ford Escort RS,FI,G2,NA,NA,SS3,alternator
+NA,29,"Cinotto, Michele",Audi quattro,IT,G4,NA,NA,SS26,accident
+NA,31,"Cunico, Gianfranco",Ford Fiesta 1600,IT,G2,NA,NA,SS14,head gasket
+NA,35,Biamonti,de Tomaso Pantera,NA,NA,NA,NA,NA,unknown
+NA,NA,"Bernocchi, Giorgio",Opel Ascona 400,IT,G4,NA,NA,NA,unknown
+NA,NA,"Bianchi, Massimiliano",Autobianchi A112,IT,G2,NA,NA,NA,unknown
+NA,NA,Bigoni,Volkswagen Golf,IT,NA,NA,NA,NA,unknown
+NA,NA,Blanchi,Renault 5,NA,NA,NA,NA,NA,unknown
+NA,NA,Bulfoni,Talbot Sunbeam,NA,NA,NA,NA,NA,unknown
+NA,NA,Campanelli,Citroen GS,NA,NA,NA,NA,NA,unknown
+NA,NA,"Cappello, Ugo",Talbot Sunbeam,IT,NA,NA,NA,NA,unknown
+NA,NA,Carrotta,Opel Ascona 400,NA,G4,NA,NA,NA,unknown
+NA,NA,Diana,Opel Ascona,NA,NA,NA,NA,NA,unknown
+NA,NA,Diba,Volkswagen Golf,NA,NA,NA,NA,NA,unknown
+NA,NA,"Francia, Walter",Opel Ascona,IT,NA,NA,NA,NA,unknown
+NA,NA,"Lambardi, Francesco",Alfa Romeo Alfasud,IT,NA,NA,NA,NA,unknown
+NA,NA,"Lepine, Alain",Peugeot 504,FR,NA,NA,NA,NA,unknown
+NA,NA,"Lupidi, Livio",Renault 5 Turbo,IT,G4,NA,NA,NA,unknown
+NA,NA,Matiazzo,Fiat 131 Abarth,NA,G4,NA,NA,NA,unknown
+NA,NA,Oriente,Fiat Ritmo,NA,NA,NA,NA,NA,unknown
+NA,NA,"Pallanca, Jean",Porsche 911,MC,NA,NA,NA,NA,unknown
+NA,NA,Parisi,Volkswagen Golf,NA,NA,NA,NA,NA,unknown
+NA,NA,Reboisson,Autobianchi A112,NA,G2,NA,NA,NA,unknown
+NA,NA,Rey,Renault-Alpine A110,NA,NA,NA,NA,NA,unknown
+NA,NA,"Rizzi, Giancarlo",Alfa Romeo Alfasud,IT,NA,NA,NA,NA,unknown
+NA,NA,Rondinone,Opel Kadett GT/E,NA,NA,NA,NA,NA,unknown
+NA,NA,Saporiti,Opel Kadett GT/E,NA,NA,NA,NA,NA,unknown
+NA,NA,"Tofi, Vinicio",Alfa Romeo GTV6,IT,NA,NA,NA,NA,unknown
+NA,NA,"Vincenzi, Gino",Peugeot 104,IT,NA,NA,NA,NA,unknown

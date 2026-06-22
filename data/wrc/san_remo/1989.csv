@@ -1,0 +1,20 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Biasion, Massimo",Lancia Delta HF Integrale 16v,IT,A8,6h 48m 30s,NA,NA,NA
+2,3,"Fiorio, Alessandro",Lancia Delta Integrale,IT,A,+5s,NA,NA,NA
+3,2,"Sainz, Carlos",Toyota Celica GT-4 (ST165),ES,A,+25s,NA,NA,NA
+4,7,"Cerrato, Dario",Lancia Delta Integrale,IT,A,+6m 01s,NA,NA,NA
+5,4,"Kankkunen, Juha",Toyota Celica GT-4 (ST165),FI,A,+9m 10s,NA,NA,NA
+6,6,"Snijers, Patrick",Toyota Celica GT-4 (ST165),BE,A,+21m 45s,NA,NA,NA
+7,12,"Duez, Marc",BMW M3,BE,A,+25m 37s,NA,NA,NA
+8,22,"Alessandrini, Paolo",Lancia Delta HF Integrale 16v,IT,A,+29m 28s,NA,NA,NA
+9,21,"Oreille, Alain",Renault 5 GT Turbo,FR,N,+45m 02s,NA,NA,NA
+10,19,"de Mevius, Gregoire",Mazda 323,BE,N,+45m 46s,NA,NA,NA
+14,9,"del Zoppo, Giovanni",Lancia Delta Integrale,IT,N,+1h 08m 56s,NA,NA,NA
+NA,5,"Auriol, Didier",Lancia Delta HF Integrale 16v,FR,A,NA,NA,SS4,accident
+NA,8,"Gaban, Pascal",Lancia Delta Integrale,BE,N,NA,NA,SS2,gearbox
+NA,10,"Zanussi, Andrea",Peugeot 405 MI16,IT,A,NA,NA,SS6,clutch
+NA,11,"Schwarz, Armin",Audi 200 quattro,DE,A,NA,NA,SS1,accident
+NA,14,"Aghini, Andrea",Peugeot 405 MI16,IT,A,NA,NA,SS22,driveshaft
+NA,15,"Holzer, Ronald",Lancia Delta Integrale,DE,A,NA,NA,SS1,accident
+NA,16,"de Martini, Paola",Audi 90 quattro,IT,A,NA,NA,SS11,fuel feed
+NA,18,"Trelles, Gustavo",Lancia Delta HF Integrale 16v,UY,N,NA,NA,SS12,electronics

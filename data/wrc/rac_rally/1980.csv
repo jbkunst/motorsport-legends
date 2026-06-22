@@ -1,0 +1,64 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,16,"Toivonen, Henri",Talbot Sunbeam,FI,G2,8h 17m 33s,NA,NA,NA
+2,1,"Mikkola, Hannu",Ford Escort RS,FI,G4,+4m 36s,NA,NA,NA
+3,10,"Frequelin, Guy",Talbot Sunbeam,FR,G2,+13m 51s,NA,NA,NA
+4,13,"Brookes, Russell",Talbot Sunbeam,GB,G2,+14m 43s,NA,NA,NA
+5,7,"Kullang, Anders",Opel Ascona 400,SE,G4,+16m 14s,NA,NA,NA
+6,19,"Makinen, Timo",Ford Escort RS,FI,G4,+26m 08s,NA,NA,NA
+7,15,"Pond, Tony",Triumph TR7,GB,G4,+29m 10s,NA,NA,NA
+8,23,"Dawson, Andy",Datsun 160J,GB,G2,+30m 35s,NA,NA,NA
+9,26,"Danielsson, Bror",Ford Escort RS,SE,G4,+38m 25s,NA,NA,NA
+10,41,"Hill, George",Vauxhall Chevette 2300,GB,G4,+41m 07s,NA,NA,NA
+11,46,"Raymond, Julian",Ford Escort RS,GB,G1,+57m 21s,NA,NA,NA
+12,43,"Lord, Christopher",Ford Escort RS,GB,G4,+1h 01m 55s,NA,NA,NA
+13,51,"Nilsson, Soren",Opel Ascona,SE,G1,+1h 02m 17s,NA,NA,NA
+14,47,"Sundstrom, Mikael",Ford Escort RS2000,FI,G1,+1h 11m 21s,NA,NA,NA
+15,48,"Stuart, Michael",Ford Escort RS2000,GB,G1,+1h 14m 56s,NA,NA,NA
+16,83,"Chauche, Francois",Peugeot 104,FR,G2,+1h 29m 39s,NA,NA,NA
+17,73,"Girdauskas, Kastitis",Lada 1600,SU,G2,+1h 29m 51s,NA,NA,NA
+18,34,"Elsmore, Graham",Vauxhall Chevette 2300,GB,G4,+1h 31m 44s,NA,NA,NA
+19,54,"Cid, Rafael",Ford Escort RS,ES,G4,+1h 31m 53s,NA,NA,NA
+20,67,"Katsuta, Teruo",Toyota Corolla,JP,G2,+1h 34m 13s,NA,NA,NA
+21,134,"Freestone, Martin",Ford Escort RS2000,GB,G1,+1h 35m 46s,NA,NA,NA
+22,117,"Stones, Kevin",Talbot Sunbeam,GB,NA,+1h 39m 09s,NA,NA,NA
+23,140,"Pankhurst, Terry",Ford Escort RS2000,GB,G1,+1h 48m 39s,NA,NA,NA
+24,31,"Vukovich, Sergej",Lada,SU,NA,+1h 52m 02s,NA,NA,NA
+25,39,"Rutherford, Willie",Mazda 626,GB,NA,+1h 58m 42,NA,NA,NA
+26,126,"Porter, Nicky",Mitsubishi Colt Lancer,GB,NA,+1h 59m 20s,NA,NA,NA
+27,84,"Beecroft, Ron",Chrysler Avenger,GB,G1,+2h 01m 00s,NA,NA,NA
+28,NA,"Lockey, Ralph",Datsun 160J,GB,G1,+2h 12m 46s,NA,NA,NA
+31,88,"Hockly, Harry",Mini Clubman GT,GB,NA,+2h 17m 55s,NA,NA,NA
+32,141,"Parsons, John",Chrysler Avenger,GB,G1,+2h 19m 08s,NA,NA,NA
+34,89,"Crabtree, Rodney",Ford Escort,GB,G1,+2h 23m 01s,NA,NA,NA
+36,80,"Pagani, Pierre",Peugeot 104,FR,NA,+2h 35m 23s,NA,NA,NA
+41,90,"Davies, Edward",Ford Escort,GB,G1,+2h 57m 01s,NA,NA,NA
+43,NA,"Haneuse, Christian",Toyota Starlet,MC,G2,+3h 33m 44s,NA,NA,NA
+45,112,"Thomas, Patrick",Renault 17 Gordini,FR,NA,+3h 53m 10s,NA,NA,NA
+999,143,"Simpson, John",Subaru 4WD,GB,NA,NA,NA,NA,NA
+NA,3,"Waldegard, Bjorn",Toyota Celica,SE,G4,NA,NA,SS36,no oil
+NA,4,"Salonen, Timo",Datsun 160J,FI,G2,NA,NA,SS27,crankshaft
+NA,5,"Vatanen, Ari",Ford Escort RS,FI,G4,NA,NA,SS16,accident
+NA,8,"Blomqvist, Stig",Saab 99 Turbo,SE,G2,NA,NA,SS12,engine
+NA,9,"Airikkala, Pentti",Vauxhall Chevette 2300,FI,G4,NA,NA,SS12,halfshaft
+NA,11,"Eklund, Per",Triumph TR7,SE,G4,NA,NA,SS27,oil pipe
+NA,17,"Wilson, Malcolm",Ford Escort RS,GB,G4,NA,NA,SS3,engine
+NA,18,"McRae, Jimmy",Vauxhall Chevette 2300,GB,G4,NA,NA,SS29,accident
+NA,20,"Clark, Roger",Triumph TR7,GB,G4,NA,NA,SS57,oil pump
+NA,21,"Johansson, Bjorn",Opel Ascona 400,SE,G4,NA,NA,SS16,accident
+NA,22,"Buffum, John",Triumph TR7,US,G4,NA,NA,SS66,rear axle
+NA,24,"Lampi, Lasse",Ford Escort RS,FI,G4,NA,NA,SS4,head gasket
+NA,25,"Colsoul, Guy",Opel Ascona 400,BE,G4,NA,NA,SS33,flywheel
+NA,27,"Asterhag, Leif",Toyota Celica,SE,G4,NA,NA,SS36,accident
+NA,28,"van der Merwe, Sarel",Ford Escort RS,ZA,G4,NA,NA,NA,unknown
+NA,29,"Stawowiak, Maciej",FSO Polonez,PL,G4,NA,NA,SS9,engine
+NA,32,"Stromberg, Ola",Saab 99 Turbo,SE,G2,NA,NA,SS29,gearbox
+NA,33,"Brise, Tim",Ford Escort RS,GB,G4,NA,NA,SS18,electrics
+NA,35,"Kaby, Terry",Vauxhall Chevette 2300,GB,G4,NA,NA,SS47,engine
+NA,42,"Jackson, Michael",Ford Escort RS,GB,NA,NA,NA,SS33,off road
+NA,45,"Laine, Antero",Ford Escort RS,FI,G1,NA,NA,post-event,scrutineering
+NA,60,"Grundel, Karl",Saab 99 Turbo,SE,G2,NA,NA,NA,drive shaft
+NA,61,"Lyons, John",FSO Polonez,GB,NA,NA,NA,NA,accident
+NA,63,"Hughes, Ian",Talbot Sunbeam,GB,NA,NA,NA,Leg 1,OTL
+NA,76,"Stewart, Geoffrey",Mazda RX7,GB,NA,NA,NA,SS14,off road
+NA,94,"Aitken, Louise",Ford Fiesta,GB,G2,NA,NA,NA,unknown
+NA,105,"Hagman, Jan",Ford Escort RS,SE,G4,NA,NA,after SS41,suspension

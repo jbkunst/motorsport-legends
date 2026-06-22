@@ -1,0 +1,17 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"Biasion, Massimo",Lancia Delta HF 4WD,IT,A8,6h 09m 19s,NA,NA,NA
+2,6,"Saby, Bruno",Lancia Delta HF 4WD,FR,A,+5m 11s,NA,NA,NA
+3,2,"Ragnotti, Jean",Renault 11 Turbo,FR,A,+7m 36s,NA,NA,NA
+4,8,"Auriol, Didier",Ford Sierra RS Cosworth,FR,A,+8m 54s,NA,NA,NA
+5,4,"Tabaton, Fabrizio",Lancia Delta HF 4WD,IT,A,+10m 46s,NA,NA,NA
+6,10,"Frequelin, Guy",Opel Kadett GSi,FR,A,+11m 18s,NA,NA,NA
+7,11,"Fiorio, Alessandro",Lancia Delta HF 4WD,IT,A,+12m 56s,NA,NA,NA
+8,7,"Ericsson, Mikael",Lancia Delta HF 4WD,SE,A,+14m 41s,NA,NA,NA
+9,9,"Alessandrini, Paolo",Lancia Delta HF 4WD,IT,A,+20m 34s,NA,NA,NA
+10,15,"Haider, Josef",Opel Kadett GSi,AT,A,+24m 17s,NA,NA,NA
+11,5,"Chatriot, Francois",Renault 11 Turbo,FR,A,+26m 23s,NA,NA,NA
+12,29,"Cunico, Gianfranco",Lancia Delta HF 4WD,IT,N,+31m 27s,NA,NA,NA
+24,92,"Riva, Pierangela",Lancia Delta HF 4WD,IT,N,+55m 23s,NA,NA,NA
+NA,1,"Alen, Markku",Lancia Delta HF 4WD,FI,A,NA,NA,SS18,accident
+NA,12,"McRae, Jimmy",Ford Sierra RS Cosworth,GB,A,NA,NA,SS4,engine
+NA,113,"Aghini, Andrea",Peugeot 205 GTI,IT,A,NA,NA,NA,unknown

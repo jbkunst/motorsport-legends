@@ -1,0 +1,28 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,9,"Andruet, Jean-Claude",Fiat 131 Abarth,FR,G4,10h 27m 43s,NA,NA,NA
+2,7,"Verini, Maurizio",Fiat 131 Abarth,IT,G4,+1m 57s,NA,NA,NA
+3,14,"Fassina, Antonio",Fiat 131 Abarth,IT,G4,+8m 47s,NA,NA,NA
+4,10,"Pregliasco, Mauro",Lancia Stratos HF,IT,G4,+10m 47s,NA,NA,NA
+5,1,"Waldegard, Bjorn",Ford Escort RS1800,SE,G4,+13m 36s,NA,NA,NA
+6,20,"Ormezzano, Federico",Opel Kadett GT/E,IT,G2,+29m 18s,NA,NA,NA
+7,23,"Ragnotti, Jean",Renault 5 Alpine,FR,G2,+41m 05s,NA,NA,NA
+8,25,"Presotto, Angelo",Opel Kadett GT/E,IT,G2,+53m 39s,NA,NA,NA
+9,29,"dall'Ava, Orlando",Alfa Romeo Alfetta GT,IT,G2,+1h 02m 07s,NA,NA,NA
+10,38,"Gardavot, Christian",Porsche 911,FR,G3,+1h 05m 00s,NA,NA,NA
+11,18,"Cambiaghi, Roberto",Ford Escort RS2000,IT,G1,+1h 09m 37s,NA,NA,NA
+NA,2,"Munari, Sandro",Lancia Stratos HF,IT,G4,NA,NA,NA,transmission
+NA,3,"Bacchelli, Fulvio",Fiat 131 Abarth,IT,G4,NA,NA,NA,accident
+NA,4,"Pinto, Raffaele",Lancia Stratos HF,IT,G4,NA,NA,NA,accident
+NA,5,"Rohrl, Walter",Fiat 131 Abarth,DE,G4,NA,NA,NA,accident
+NA,6,"Vatanen, Ari",Ford Escort RS1800,FI,G4,NA,NA,NA,accident
+NA,8,"Ballestrieri, Amilcare",Opel Kadett GT/E,IT,G4,NA,NA,NA,accident
+NA,12,"Carello, Tony",Lancia Stratos HF,IT,G4,NA,NA,NA,accident
+NA,15,"Fernandez, Benigno",Ford Escort RS1800,ES,G4,NA,NA,NA,accident
+NA,16,"Frequelin, Guy",Renault 5 Alpine,FR,G2,NA,NA,NA,electrics
+NA,24,"Lezama, Fernando",Ford Escort RS1800,ES,G4,NA,NA,NA,accident
+NA,30,"Cerrato, Dario",Opel Kadett GT/E,IT,NA,NA,NA,NA,accident
+NA,NA,"Battistoli, Luigi",Opel Kadett GT/E,IT,NA,NA,NA,NA,transmission
+NA,NA,"Bertolo, B.",Fiat 131 Abarth,IT,NA,NA,NA,NA,electrical
+NA,NA,Fernandez,Ford Escort RS1800,NA,NA,NA,NA,NA,mechanical
+NA,NA,"Pittoni, Leo",Alfa Romeo Alfetta GT,IT,NA,NA,NA,NA,engine
+NA,NA,"Swaton, Gerard",Porsche,FR,NA,NA,NA,NA,engine

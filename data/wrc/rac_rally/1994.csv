@@ -1,0 +1,179 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,4,"McRae, Colin",Subaru Impreza 555,GB,A8,5h 17m 25s,NA,NA,NA
+2,1,"Kankkunen, Juha",Toyota Celica GT-Four (ST205),FI,A8,+3m 33s,NA,NA,NA
+3,11,"Thiry, Bruno",Ford Escort RS Cosworth,BE,A8,+10m 12s,NA,NA,NA
+4,12,"Blomqvist, Stig",Ford Escort RS Cosworth,SE,A8,+12m 48s,0:03,NA,NA
+5,7,"Vatanen, Ari",Ford Escort RS Cosworth,FI,A8,+17m 00s,NA,NA,NA
+6,6,"Auriol, Didier",Toyota Celica Turbo 4WD (ST185),FR,A8,+30m 32s,NA,NA,NA
+7,27,"Evans, Gwyndaf",Ford Escort RS2000,GB,A7,+34m 59s,0:28,NA,NA
+8,38,"Habig, Jannie",Ford Escort RS Cosworth,ZA,A8,+35m 51s,0:07,NA,NA
+9,18,"Makinen, Tommi",Nissan Sunny,FI,A7,+36m 00s,0:05,NA,NA
+10,17,"de Mevius, Gregoire",Opel Astra,BE,A7,+36m 29s,NA,NA,NA
+11,15,"Llewellin, David",Vauxhall Astra,GB,A7,+37m 06s,NA,NA,NA
+12,32,"Milner, Jonny",Ford Escort RS Cosworth,GB,N4,+40m 12s,0:27,NA,NA
+13,28,"Kamioka, Masao",Subaru Impreza,JP,N4,+43m 13s,NA,NA,NA
+14,40,"Rowe, Martin",Peugeot 306,GB,A7,+47m 26s,0:15,NA,NA
+15,26,"Puras, Jesus",Ford Escort RS Cosworth,ES,N4,+47m 43s,0:13,NA,NA
+16,30,"Holderied, Isolde",Mitsubishi Lancer Evo II,DE,N4,+47m 58s,NA,NA,NA
+17,35,"Easson, Jeremy",Ford Escort RS Cosworth,GB,N4,+48m 41s,0:07,NA,NA
+18,34,"Doctor, Erwin",Mitsubishi Lancer Evo,DE,N4,+51m 25s,NA,NA,NA
+19,23,"Sibera, Pavel",Skoda Favorit 136L,CZ,A5,+53m 03s,NA,NA,NA
+20,36,"Petch, Steve",Ford Escort RS Cosworth,GB,N4,+53m 08s,0:19,NA,NA
+21,46,"Dyas, Paul",Ford Escort RS Cosworth,GB,N4,+54m 36s,NA,NA,NA
+22,22,"Triner, Emil",Skoda Favorit 136L,CZ,A5,+56m 04s,NA,NA,NA
+23,37,"Ellis-Jones, Tim",Ford Escort RS Cosworth,GB,N4,+57m 05s,NA,NA,NA
+24,39,"Singh, Karamjit",Proton Wira 4WD,MY,N4,+1h 03m 00s,0:02,NA,NA
+25,65,"Jaffray, Duncan",Ford Sierra RS Cosworth,GB,A8,+1h 05m 44s,0:03,NA,NA
+26,51,"Holfeld, Richie",Ford Escort RS Cosworth,IE,N4,+1h 06m 15s,0:33,NA,NA
+27,62,"Smith, Gordon",Ford Escort RS Cosworth,GB,N4,+1h 06m 46s,0:21,NA,NA
+28,88,"Davies, Roger",Vauxhall Astra GT/E,GB,N3,+1h 10m 00s,0:13,NA,NA
+29,57,"Somerville, Stewart",Ford Sierra Cosworth 4x4,GB,A8,+1h 11m 23s,NA,NA,NA
+30,56,"Barry, Rob",Mitsubishi Lancer Evo,GB,N4,+1h 11m 48s,0:03,NA,NA
+31,92,"Green, Stephen",Vauxhall Corsa,GB,A6,+1h 14m 10s,0:01,NA,NA
+32,82,"Sisson, Clive",Ford Escort RS Cosworth,GB,N4,+1h 14m 40s,NA,NA,NA
+33,59,"Joel, Ian",Ford Escort RS Cosworth,GB,N4,+1h 17m 26s,0:09,NA,NA
+34,143,"Willoughby, Christopher",Ford Sierra Cosworth 4x4,GB,A8,+1h 20m 09s,0:44,NA,NA
+35,54,"Green, Bob",Ford Sierra Cosworth 4x4,GB,N4,+1h 20m 46s,0:13,NA,NA
+36,94,"Reynolds, Julian",Honda Civic,GB,N2,+1h 22m 48s,NA,NA,NA
+37,93,"Richardson, Paul",Peugeot 205 GTI,GB,A7,+1h 23m 53s,0:01,NA,NA
+38,120,"Barge, Mike",Ford Sierra Cosworth 4x4,GB,N4,+1h 24m 59s,0:25,NA,NA
+39,117,"Dalgarno, Sandy",Ford Escort RS Cosworth,GB,N4,+1h 28m 55s,0:19,NA,NA
+40,63,"Barbara, Jose",Ford Escort RS Cosworth,FR,N4,+1h 29m 19s,3:32,NA,NA
+41,60,"Girardin, Philippe",Ford Sierra Cosworth 4x4,CH,N4,+1h 30m 46s,0:09,NA,NA
+42,108,"Bown, Christopher",Vauxhall Astra,GB,A7,+1h 30m 57s,0:16,NA,NA
+43,79,"Henry, Gary",Ford Escort RS Cosworth,GB,N4,+1h 32m 15s,0:37,NA,NA
+44,98,"Russel, Michael",Ford Sierra Cosworth 4x4,GB,N4,+1h 32m 26s,0:08,NA,NA
+45,66,"Stoodley, Richard",Peugeot 309 GTI,GB,A7,+1h 32m 41s,0:07,NA,NA
+46,95,"French, Stephen",Volkswagen Golf GTI 16V,GB,A7,+1h 33m 08s,0:58,NA,NA
+47,97,"Clarke, Will",Peugeot 205 GTI,GB,A7,+1h 34m 11s,0:49,NA,NA
+48,121,"Johnson, Timothy",Skoda Favorit 136L,GB,A5,+1h 34m 20s,0:09,NA,NA
+49,69,"Cox, Gavin",Vauxhall Calibra Turbo 4x4,GB,N4,+1h 35m 24s,0:29,NA,NA
+50,130,"Bengry, Theo",Peugeot 106,GB,A5,+1h 36m 39s,NA,NA,NA
+51,126,"Simmonite, Stephanie",Peugeot 205 GTI,GB,A7,+1h 37m 02s,0:29,NA,NA
+52,133,"Presswell, Graeme",Vauxhall Astra,GB,A7,+1h 37m 06s,NA,NA,NA
+53,161,"Kent, Adam",Peugeot 106,GB,N1,+1h 38m 45s,0:38,NA,NA
+54,118,"Jaques, Mark",Vauxhall Astra,GB,N3,+1h 39m 21s,0:56,NA,NA
+55,137,"Wedgbury, Stephen",Skoda Favorit 136L,GB,N1,+1h 39m 26s,0:19,NA,NA
+56,72,"Ceen, Robert",Ford Escort RS Cosworth,GB,N4,+1h 41m 03s,0:04,NA,NA
+57,163,"Chadwick, Michael",Opel Corsa,GB,A5,+1h 42m 36s,0:07,NA,NA
+58,74,"Rees, Christopher",Ford Escort RS Cosworth,GB,A8,+1h 45m 45s,0:12,NA,NA
+59,165,"Wilson, Terry",Vauxhall Astra GT/E,GB,A7,+1h 47m 04s,NA,NA,NA
+60,197,"Andrew, Leslie",Peugeot 205 Rallye,GB,N1,+1h 53m 37s,0:27,NA,NA
+61,145,"Kollevold, Bernt",Peugeot 309 GTI,NO,N3,+1h 54m 49s,0:15,NA,NA
+62,132,"Labaune, Jean-Pierre",Peugeot 106,FR,A6,+1h 56m 45s,0:33,NA,NA
+63,180,"Wheatley, Andrew",Skoda Favorit 136L,GB,N1,+1h 57m 00s,0:43,NA,NA
+64,154,"Bowman, Christopher",Ford Sierra Cosworth 4x4,GB,A8,+1h 58m 12s,0:02,NA,NA
+65,156,"Heath, Nigel",Ford Escort RS Cosworth,GB,N4,+1h 58m 41s,0:33,NA,NA
+66,139,"Kedward, David",Ford Escort RS Cosworth,GB,N4,+1h 59m 53s,0:15,NA,NA
+67,172,"Knott, Colin",Peugeot 205 GTI,GB,A7,+2h 00m 28s,0:01,NA,NA
+68,147,"Cunningham, Jane",Peugeot 205 GTI,GB,A7,+2h 01m 03s,0:40,NA,NA
+69,148,"Wills, Kenneth",Rover 220 GTI,GB,N3,+2h 02m 21s,0:49,NA,NA
+70,138,"Jonquieres, Jacques",Peugeot 205 GTI,FR,N2,+2h 03m 40s,0:19,NA,NA
+71,135,"Gaillard, Stephane",Renault Clio,FR,N3,+2h 04m 09s,0:09,NA,NA
+72,24,"Brookes, Russell",Rover Mini Cooper,GB,A5,+2h 05m 20s,0:32,NA,NA
+73,136,"Hopcraft, Rupert",Peugeot 205 GTI,GB,A7,+2h 07m 51s,1:10,NA,NA
+74,160,"Timlin, Damian",Vauxhall Astra,GB,A5,+2h 08m 11s,0:50,NA,NA
+75,185,"Wynne, Emlyn",Suzuki Swift,GB,N1,+2h 08m 48s,0:12,NA,NA
+76,128,"Tyson, Peter",Peugeot 205 GTI,GB,N2,+2h 08m 50s,0:54,NA,NA
+77,174,"Raven, Peter",Peugeot 205 Rallye,GB,N1,+2h 09m 48s,0:05,NA,NA
+78,84,"Evans, Ricky",Peugeot 205 GTI,GB,A7,+2h 15m 45s,3:15,NA,NA
+79,181,"Stevens, Carl",Skoda Favorit 136L,GB,N1,+2h 16m 11s,0:02,NA,NA
+80,190,"Winstanley, David",Nissan Sunny,GB,N3,+2h 19m 07s,0:03,NA,NA
+81,123,"Marlow, Innes",Ford Sierra RS Cosworth,GB,A8,+2h 21m 49s,0:41,NA,NA
+82,170,"Shaw, Martin",Lada Riva,GB,A5,+2h 21m 49s,0:25,NA,NA
+83,168,"Gobert, Philippe",Peugeot 309 GTI,FR,N3,+2h 26m 43s,1:33,NA,NA
+84,195,"Grimes, Sean",Peugeot 205 GTI,GB,A7,+2h 31m 16s,0:06,NA,NA
+85,107,"Archer, Richard",Vauxhall Astra,GB,N3,+2h 38m 50s,0:57,NA,NA
+86,159,"Fletcher, Phyllis",Peugeot 205 Rallye,GB,N1,+2h 38m 59s,0:37,NA,NA
+87,189,"Boden, David",Vauxhall Nova,GB,N1,+2h 47m 07s,0:38,NA,NA
+88,151,"Mallory, Penny",Lada Riva,GB,A5,+2h 49m 57s,0:43,NA,NA
+89,187,"Senior, Andy",Vauxhall Nova,GB,N2,+2h 50m 14s,2:34,NA,NA
+90,177,"Maundrell, Margaret",Peugeot 309 GTI,GB,A7,+2h 51m 00s,0:44,NA,NA
+91,192,"Moore, Kevin",Rover Mini,GB,N1,+2h 58m 38s,1:07,NA,NA
+92,182,"Skelton, Ian",Skoda Favorit 136L,GB,N1,+2h 58m 49s,0:26,NA,NA
+93,193,"Plant, Robert",Rover Mini,GB,N1,+3h 01m 49s,1:08,NA,NA
+94,196,"Warring, John",MG Maestro,GB,A7,+3h 02m 46s,0:31,NA,NA
+95,176,"Smith, Mike",MG Maestro,GB,N3,+3h 04m 23s,1:06,NA,NA
+96,110,"Zamparutti, Mauro",Peugeot 309 GTI,IT,N3,+3h 14m 52s,0:26,NA,NA
+97,184,"Godwin, Trevor",Rover Mini,GB,A5,+3h 26m 00s,0:40,NA,NA
+NA,2,"Sainz, Carlos",Subaru Impreza 555,ES,A8,NA,NA,SS23,accident
+NA,3,"Delecour, Francois",Ford Escort RS Cosworth,FR,A8,NA,NA,SS7,took shortcut by mistake
+NA,5,"Biasion, Massimo",Ford Escort RS Cosworth,IT,A8,NA,NA,SS14,engine
+NA,9,"Burns, Richard",Subaru Impreza 555,GB,A8,NA,NA,SS9,suspension
+NA,10,"Wilson, Malcolm",Ford Escort RS Cosworth,GB,A8,NA,NA,SS25,accident
+NA,14,"Fujimoto, Yoshio",Toyota Celica Turbo 4WD (ST185),JP,A8,NA,NA,SS17,accident
+NA,16,"McRae, Alister",Nissan Sunny,GB,A7,NA,NA,SS9,electrical
+NA,33,"Hill, Steve",Mitsubishi Galant VR-4,GB,A8,NA,NA,SS25,accident
+NA,42,"Maeshima, Mitsuo",Subaru Impreza,JP,N4,NA,NA,SS10,off road
+NA,43,"Jones, Mick",Mitsubishi Galant VR-4,GB,A8,NA,NA,SS10,engine
+NA,44,"Worswick, Nigel",Ford Sierra Cosworth 4x4,GB,A8,NA,NA,SS25,head gasket
+NA,45,"Kirtley, Paul",Ford Sierra Cosworth 4x4,GB,A8,NA,NA,SS11,driveshaft
+NA,47,"Luer, Jochen",Ford Escort RS Cosworth,DE,N4,NA,NA,SS13,driveshaft
+NA,48,"Clark, Matthew",Ford Escort RS Cosworth,GB,N4,NA,NA,SS11,off road
+NA,49,"Stephenson, Peter",Ford Sierra RS Cosworth,GB,A8,NA,NA,SS15,differential
+NA,50,"Curran, Kevin",Ford Escort RS Cosworth,GB,A8,NA,NA,SS27,lost wheel
+NA,52,"Humphreys, David",Ford Escort RS Cosworth,GB,N4,NA,NA,SS11,engine
+NA,53,"Higgins, Mark",Honda Civic,GB,N2,NA,NA,SS21,engine
+NA,55,"Joannides, Jonathan",Ford Escort RS Cosworth,GB,N4,NA,NA,SS10,head gasket
+NA,58,"Richer, Frank",Ford Sierra Cosworth 4x4,GB,A8,NA,NA,SS2,suspension
+NA,61,"Jones, Glyn",Nissan Sunny GTI-R,GB,A8,NA,NA,SS11,electrical
+NA,64,"Crabtree, Geoffrey",Mitsubishi Galant VR-4,GB,N4,NA,NA,SS9,suspension
+NA,67,"Skar, John",Opel Kadett GSI,NO,A7,NA,NA,SS11,accident
+NA,70,"Yamada, Masayuki",Mitsubishi Lancer Evo,JP,N4,NA,NA,SS3,off road
+NA,71,"Menzies, Roderick",Ford Escort RS Cosworth,GB,N4,NA,NA,SS16,off road
+NA,73,"Wetton, Vince",Volkswagen Golf Rallye G60,GB,A8,NA,NA,TC13A,valve
+NA,75,"Hackett, Michael",Ford Escort RS Cosworth,GB,N4,NA,NA,SS8,engine
+NA,76,"Stromberg, Ola",Saab 900,SE,A7,NA,NA,TC6A,piston
+NA,77,"Kanao, Kosho",Subaru Impreza,JP,N4,NA,NA,TC5,engine
+NA,78,"Hoy, Will",Toyota Celica Turbo 4WD (ST185),GB,N4,NA,NA,SS4,accident
+NA,80,"Hill, William",Ford Escort RS Cosworth,GB,N4,NA,NA,TC13A,OTL
+NA,81,"Reininger, Stefan",Renault Clio,AT,N3,NA,NA,SS29,mechanical
+NA,83,"Dewitt, Jeff",Ford Escort RS Cosworth,GB,A8,NA,NA,SS10,driveshaft
+NA,85,"Lancaster, Rudi",Peugeot 306,GB,A7,NA,NA,SS19,oil cooler
+NA,87,"Porter, Julian",Vauxhall Nova,GB,A6,NA,NA,SS24,driveshaft
+NA,91,"Higgins, David",Peugeot 106,GB,A5,NA,NA,SS10,cam belt
+NA,96,"Northall, Paul",Rover 220 GTI,GB,N3,NA,NA,SS3,suspension
+NA,99,"Bailey, Jerry",BMW M3,GB,A8,NA,NA,TC13A,electrical
+NA,100,"Jardine, Tony",Ford Escort RS Cosworth,GB,N4,NA,NA,TC5,gearbox
+NA,101,"Jones, Geoff",Vauxhall Nova,GB,A6,NA,NA,SS13,engine
+NA,102,"Hunt, Steve",Ford Sierra Cosworth 4x4,GB,N4,NA,NA,TC20,gearbox
+NA,103,"Darragh, Stuart",Ford Escort RS Cosworth,GB,N4,NA,NA,TC4,engine
+NA,109,"Williams, Kevin",Vauxhall Nova,GB,N2,NA,NA,SS21,steering
+NA,113,"Youde, Jason",Peugeot 205 GTI,GB,A7,NA,NA,TC13A,fuel tank
+NA,114,"Brown, Andrew",Vauxhall Nova,GB,A6,NA,NA,SS19,differential
+NA,115,"Leckie, John",Ford Sierra Cosworth 4x4,GB,N4,NA,NA,TC24,suspension
+NA,116,"Nicoll, Malloch",Audi 90 quattro,GB,A8,NA,NA,TC3,suspension
+NA,119,"Coughtrie, Tom",Subaru Legacy,GB,N4,NA,NA,TC27,gearbox
+NA,122,"Somerville, Tom",Ford Escort RS Cosworth,GB,N4,NA,NA,TC1,gearbox
+NA,124,"Wood, David",Saab 900 Turbo,GB,A8,NA,NA,SS21,distributor
+NA,125,"Bowers, Steve",Peugeot 205 GTI,GB,A7,NA,NA,SS19,accident
+NA,127,"Brazier, John",Vauxhall Astra GT/E,GB,N3,NA,NA,TC1,gearbox
+NA,129,"Kelly, Noel",Vauxhall Astra GT/E,GB,A7,NA,NA,TC15D,fuel pump
+NA,131,"Menestrier, Denis",Peugeot 106,FR,A6,NA,NA,SS22,accident
+NA,134,"Whitehurst, Don",Toyota Corolla,GB,A6,NA,NA,SS13,electrical
+NA,140,"Blake, Chris",Lancia Delta HF Integrale 16v,GB,N4,NA,NA,TC1,driveshaft
+NA,141,"Healer, Martin",Ford Sierra Cosworth 4x4,GB,N4,NA,NA,TC21,engine
+NA,142,"Jasper, Mark",Ford Sierra Cosworth 4x4,GB,N4,NA,NA,TC4,gearbox
+NA,144,"Comelli, Pierluigi",Peugeot 309 GTI,IT,N3,NA,NA,SS13,ignition
+NA,149,"Worts, Richard",Vauxhall Astra,GB,A7,NA,NA,SS24,accident
+NA,150,"O'Neill, Raymond",Honda Civic,GB,N2,NA,NA,SS16,driveshaft
+NA,152,"Tilly, Chris",Vauxhall Nova,GB,N2,NA,NA,SS21,suspension
+NA,153,"Crowton, Adam",MG Maestro,GB,N3,NA,NA,SS10,accident
+NA,155,"Bennett, Rodney",Lancia Delta HF Integrale 16v,GB,A8,NA,NA,TC27,lost wheel
+NA,157,"Evans, Christopher",Vauxhall Nova,GB,N2,NA,NA,TC25,gearbox
+NA,158,"Lennox, Geoffrey",Peugeot 205 GTI,GB,A7,NA,NA,TC7B,OTL
+NA,162,"Simpson, Roger",Peugeot 205 GTI,GB,N3,NA,NA,TC16,valve
+NA,164,"Bevan, Richard",Vauxhall Astra GT/E,GB,N3,NA,NA,SS8,driveshaft
+NA,166,"Smith, Mick",Suzuki Swift,GB,N1,NA,NA,TC16,driveshaft
+NA,167,"Backwall, Karl Erik",Citroen AX,SE,N1,NA,NA,SS17,accident
+NA,169,"Owen, Kevin",Peugeot 205 GTI,GB,A7,NA,NA,SS3,suspension
+NA,171,"Mason, Colin",Lada Riva,GB,A5,NA,NA,SS7,clutch
+NA,173,"Kitching, Colin",Vauxhall Nova,GB,A6,NA,NA,TC22,OTL
+NA,175,"Johnson, David",Rover Mini,GB,N1,NA,NA,SS17,differential
+NA,178,"Butler, David",Vauxhall Astra GT/E,GB,N3,NA,NA,SS4,accident
+NA,179,"Murrell, Keith",Opel Corsa,GB,A5,NA,NA,SS12,differential
+NA,183,"Collyer, David",Vauxhall Nova,GB,A6,NA,NA,SS4,driveshaft
+NA,186,"Barry, Redmond",Suzuki Swift,GB,N1,NA,NA,SS11,driveshaft
+NA,188,"Glenister, Ian",Lada Riva,GB,A5,NA,NA,SS19,accident
+NA,191,"Eaton, Janie",Vauxhall Nova,GB,A5,NA,NA,TC21,clutch
+NA,194,"Mason, Tim",Vauxhall Nova,GB,N2,NA,NA,SS16,mechanical

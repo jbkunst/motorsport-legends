@@ -1,0 +1,17 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,5,"Aghini, Andrea",Lancia Delta HF Integrale,IT,A8,5h 52m 11s,NA,NA,NA
+2,1,"Kankkunen, Juha",Lancia Delta HF Integrale,FI,A,+40s,NA,NA,NA
+3,4,"Delecour, Francois",Ford Sierra Cosworth 4x4,FR,A,+1m 42s,NA,NA,NA
+4,2,"Biasion, Massimo",Ford Sierra Cosworth 4x4,IT,A,+1m 55s,NA,NA,NA
+5,8,"Fiorio, Alessandro",Lancia Delta HF Integrale,IT,A,+8m 47s,NA,NA,NA
+6,20,"Pianezzola, Gilberto",Lancia Delta HF Integrale,IT,A,+16m 09s,NA,NA,NA
+7,7,"Liatti, Piero",Lancia Delta HF Integrale,IT,A,+21m 17s,NA,NA,NA
+8,18,"Baroni, Pierre-Cesar",Lancia Delta HF Integrale,FR,A,+23m 39s,NA,NA,NA
+9,11,"Thiry, Bruno",Opel Calibra,BE,A,+45m 28s,NA,NA,NA
+10,12,"Manfrinato, Giovanni",Ford Sierra Cosworth 4x4,IT,N,+50m 07s,NA,NA,NA
+NA,3,"Auriol, Didier",Lancia Delta HF Integrale,FR,A,NA,NA,SS1,accident
+NA,6,"Cunico, Gianfranco",Ford Sierra Cosworth 4x4,IT,A,NA,NA,SS21,suspension problems
+NA,10,"Bedini, Piergiorgio",Lancia Delta HF Integrale,IT,N,NA,NA,SS4,engine
+NA,14,"bin Sulayem, Mohammed",Ford Sierra Cosworth 4x4,AE,N,NA,NA,SS3,transmission
+NA,19,"Deila, Piergiorgio",Lancia Delta HF Integrale,IT,A,NA,NA,SS22,accident
+NA,23,"Fassina, Alessandro",Mazda 323,IT,N,NA,NA,SS10,accident

@@ -1,0 +1,150 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Salonen, Timo",Peugeot 205 Turbo 16 E2,FI,B12,5h 21m 11s,NA,NA,NA
+2,3,"Alen, Markku",Lancia Delta S4,FI,B12,+1m 22s,NA,NA,NA
+3,5,"Kankkunen, Juha",Peugeot 205 Turbo 16 E2,FI,B12,+6m 05s,NA,NA,NA
+4,11,"Sundstrom, Mikael",Peugeot 205 Turbo 16 E2,FI,B12,+6m 31s,NA,NA,NA
+5,6,"Grundel, Karl",Ford RS200,SE,B12,+8m 21s,NA,NA,NA
+6,4,"Pond, Tony",MG Metro 6R4,GB,B12,+9m 03s,NA,NA,NA
+7,17,"Eklund, Per",MG Metro 6R4,SE,B12,+12m 01s,NA,NA,NA
+8,15,"McRae, Jimmy",MG Metro 6R4,GB,B12,+13m 57s,NA,NA,NA
+9,14,"Llewellin, David",MG Metro 6R4,GB,B12,+19m 27s,NA,NA,NA
+10,7,"Carlsson, Ingvar",Mazda Familia 4WD,SE,A8,+39m 22s,NA,NA,NA
+11,27,"Eriksson, Kenneth",Volkswagen Golf GTi,SE,A7,+41m 59s,NA,NA,NA
+12,28,"Lampi, Lasse",Audi Coupe,FI,A8,+43m 55s,NA,NA,NA
+13,67,"Jonsson, Mats",Opel Ascona,SE,A7,+49m 47s,NA,NA,NA
+14,46,"Jones, Glyn",Opel Manta 400,GB,B12,+50m 23s,NA,NA,NA
+15,32,"Aitken-Walker, Louise",Nissan 240 RS,GB,B12,+50m 34s,NA,NA,NA
+16,29,"Airikkala, Pentti",Vauxhall Astra GT/E,FI,A7,+51m 09s,NA,NA,NA
+17,10,"Wilson, Malcolm",MG Metro 6R4,GB,B12,+53m 48s,NA,NA,NA
+18,40,"Lord, Christopher",Audi quattro A2,GB,B12,+58m 28s,NA,NA,NA
+19,66,"Davison, Simon",Volkswagen Golf GTi,GB,A7,+59m 24s,NA,NA,NA
+20,25,"Krecek, Ladislav",Skoda 130LR,CS,B9,+59m 36s,NA,NA,NA
+21,24,"Haugland, John",Skoda 130LR,NO,B9,+1h 02m 07s,NA,NA,NA
+22,71,"Kottulinsky, Susanne",Volvo 240 Turbo,SE,A8,+1h 04m 50s,NA,NA,NA
+23,85,"Ohba, Seisuke",Mitsubishi Starion Turbo,JP,A8,+1h 08m 14s,NA,NA,NA
+24,30,"Wood, Andrew",Vauxhall Astra GT/E,GB,A7,+1h 10m 03s,NA,NA,NA
+25,70,"Saddington, Tony",Vauxhall Astra GT/E,GB,A7,+1h 13m 12s,NA,NA,NA
+26,69,"Wiggins, Brian",Vauxhall Astra GT/E,GB,A7,+1h 14m 17s,NA,NA,NA
+27,92,"Fujita, Tetsuya",Mitsubishi Starion Turbo,JP,A8,+1h 14m 28s,NA,NA,NA
+28,78,"Cox, Gavin",Opel Ascona,GB,A7,+1h 15m 31s,NA,NA,NA
+29,114,"Birkbeck, Chris",Vauxhall Nova,GB,A5,+1h 16m 22s,NA,NA,NA
+30,47,"Holt, Ian",Opel Manta 400,GB,B12,+1h 18m 45s,NA,NA,NA
+31,81,"Morton, John",Subaru RX Turbo,GB,A8,+1h 20m 46s,NA,NA,NA
+32,84,"Easson, Jeremy",Ford Capri,GB,A8,+1h 23m 34s,NA,NA,NA
+33,113,"Hockly, Harry",Vauxhall Nova,GB,A5,+1h 24m 13s,NA,NA,NA
+34,51,"Roberton, Ian",Nissan 240 RS,GB,B12,+1h 25m 56s,NA,NA,NA
+35,48,"Elliott, Andy",Opel Manta 400,GB,B12,+1h 26m 34s,NA,NA,NA
+36,89,"Hazu, Kouichi",Isuzu Gemini,JP,A8,+1h 30m 25s,NA,NA,NA
+37,107,"Freestone, Iain",Talbot Sunbeam,GB,A6,+1h 32m 51s,NA,NA,NA
+38,59,"Taylor, Geoff",Opel Manta,GB,B11,+1h 35m 09s,NA,NA,NA
+39,137,"Maslen, David",Mazda Familia 4WD,GB,N4,+1h 35m 46s,NA,NA,NA
+40,86,"Ingleby, James",Ford Sierra XR4x4,GB,A8,+1h 36m 51s,NA,NA,NA
+41,152,"Stoddart, Chris",Peugeot 205 GTI,GB,N2,+1h 39m 08s,NA,NA,NA
+42,105,"Clements, Tony",Talbot Sunbeam,GB,A6,+1h 40m 58s,NA,NA,NA
+43,97,"Hayward, Terry",Talbot Sunbeam,GB,A6,+1h 42m 42s,NA,NA,NA
+44,117,"Young, David",Vauxhall Astra,GB,A5,+1h 44m 36s,NA,NA,NA
+45,100,"Leppard, John",Peugeot 205 GTI,GB,A6,+1h 45m 27s,NA,NA,NA
+46,82,"Appleby, David",Rover Vitesse,GB,A8,+1h 46m 54s,NA,NA,NA
+47,62,"Littler, Peter",Citroen Visa,GB,B10,+1h 51m 27s,NA,NA,NA
+48,139,"Donaldson, Ian",Ford Sierra XR4x4,GB,N,+1h 52m 16s,NA,NA,NA
+49,125,"Cressey, John",Vauxhall Astra,GB,A,+1h 53m 59s,NA,NA,NA
+50,143,"Lockyear, Sean",Volkswagen Golf GTi,GB,N3,+1h 57m 28s,NA,NA,NA
+51,72,"Barry, Rob",Opel Manta GT/E,GB,A7,+2h 00m 25s,NA,NA,NA
+52,99,"Orchard, Andrew",Peugeot 205 GTI,GB,A6,+2h 00m 49s,NA,NA,NA
+53,159,"Nieminen, Vesa",Peugeot 205 GTI,FI,N2,+2h 01m 03s,NA,NA,NA
+54,123,"Easton, Steven",Vauxhall Astra,GB,A,+2h 01m 25s,NA,NA,NA
+55,96,"Skidmore, Ken",Talbot Sunbeam,GB,A6,+2h 01m 38s,NA,NA,NA
+56,153,"Randall, Ian",Toyota Corolla,GB,N2,+2h 03m 12s,NA,NA,NA
+57,76,"Mowles, Philip",Opel Manta GT/E,GB,A7,+2h 04m 34s,NA,NA,NA
+58,74,"Clarke, Robert",Opel Manta GT/E,GB,A7,+2h 05m 09s,NA,NA,NA
+59,55,"White, Clive",Opel Manta 400,GB,B12,+2h 05m 14s,NA,NA,NA
+60,146,"Morley, John",Vauxhall Astra,GB,N,+2h 09m 24s,NA,NA,NA
+61,103,"Colten, Nigel",Talbot Sunbeam,GB,A6,+2h 12m 21s,NA,NA,NA
+62,146,"Arnold, Christopher",Vauxhall Astra GT/E,GB,N,+2h 12m 32s,NA,NA,NA
+63,90,"Yamada, Masayuki",Isuzu Gemini,JP,A8,+2h 13m 08s,NA,NA,NA
+64,127,"Madge, Martin",Lada 2105,GB,A,+2h 16m 01s,NA,NA,NA
+65,75,"Holland, Ray",Opel Manta GT/E,GB,A7,+2h 21m 33s,NA,NA,NA
+66,156,"Buckler, Mike",Alfa Romeo Alfasud,GB,N2,+2h 23m 38s,NA,NA,NA
+67,87,"Phillips, Robert",Mitsubishi Lancer,GB,A8,+2h 23m 57s,NA,NA,NA
+68,158,"Harington, Stuart",Peugeot 205 GTI,GB,N2,+2h 27m 37s,NA,NA,NA
+69,157,"Williams, John",Toyota Corolla,GB,N2,+2h 29m 04s,NA,NA,NA
+70,110,"Williams, Jeffrey",Talbot Sunbeam,GB,A6,+2h 35m 15s,NA,NA,NA
+71,109,"Smith, Geoff",Peugeot 205 GTI,GB,A6,+2h 35m 21s,NA,NA,NA
+72,106,"Huxford, David",Talbot Sunbeam,GB,A6,+2h 36m 22s,NA,NA,NA
+73,98,"Ridley, Ken",Toyota Corolla,GB,A6,+2h 36m 28s,NA,NA,NA
+74,164,"Godwin, Trevor",Opel Kadett,GB,A,+2h 36m 48s,NA,NA,NA
+75,140,"Rees, Christopher",Ford Sierra XR4x4,GB,N,+2h 37m 54s,NA,NA,NA
+76,131,"White, Ray",Lada 2105,GB,A,+2h 42m 09s,NA,NA,NA
+77,151,"Ward, Steve",Peugeot 205 GTI,GB,N,+2h 49m 05s,NA,NA,NA
+78,111,"Mullins, George",Fiat Uno,GB,A,+2h 54m 43s,NA,NA,NA
+79,155,"Banyard, Alex",Toyota Corolla,GB,N1,+2h 58m 05s,NA,NA,NA
+80,108,"Dudman, John",Talbot Sunbeam,GB,A6,+3h 09m 22s,NA,NA,NA
+81,121,"Dautheribes, Jean-Francois",Talbot Samba,FR,A,+3h 14m 05s,NA,NA,NA
+82,129,"Wood, John",Lada 2105,GB,A,+3h 18m 18s,NA,NA,NA
+83,63,"le Behot, Philippe",Citroen Visa,FR,B10,+3h 35m 03s,NA,NA,NA
+NA,2,"Blomqvist, Stig",Ford RS200,SE,B12,NA,NA,SS27,turbo
+NA,9,"Ericsson, Mikael",Lancia Delta S4,SE,B12,NA,NA,SS44,engine
+NA,12,"Lovell, Mark",Ford RS200,GB,B12,NA,NA,SS21,fire
+NA,16,"Brookes, Russell",Opel Manta 400,GB,B12,NA,NA,SS30,engine
+NA,18,"Andervang, Stig",Ford RS200,SE,B12,NA,NA,SS19,accident
+NA,19,"Duez, Marc",MG Metro 6R4,BE,B12,NA,NA,SS9,engine
+NA,20,"Toivonen, Harri",MG Metro 6R4,FI,B12,NA,NA,SS38,engine
+NA,21,"Demuth, Harald",Audi quattro Sport,DE,B12,NA,NA,SS44,engine
+NA,23,"Teesdale, Tony",MG Metro 6R4,NZ,B12,NA,NA,after SS26,unknown
+NA,34,"Sutherland, Alistair",MG Metro 6R4,GB,B12,NA,NA,before SS2,cam belt
+NA,35,"Rutherford, Willie",MG Metro 6R4,GB,B12,NA,NA,SS30,rolled
+NA,36,"Wood, Ken",MG Metro 6R4,GB,B12,NA,NA,SS30,cam belt
+NA,37,"Gillanders, David",MG Metro 6R4,GB,B12,NA,NA,SS27,piston
+NA,38,"Palmqvist, Tomi",Audi quattro,FI,B12,NA,NA,NA,did not restart
+NA,42,"Collins, Phil",Ford Sierra RS Cosworth,GB,B12,NA,NA,SS30,suspension
+NA,43,"Mellors, Chris",Ford Sierra RS Cosworth,GB,B12,NA,NA,SS27,differential
+NA,45,"Stoneman, Rob",Ford Sierra RS Cosworth,GB,B12,NA,NA,SS30,differential
+NA,49,"Recordati, Giovanni",Opel Manta 400,IT,B12,NA,NA,after SS15,unknown
+NA,50,"Williams, David",Nissan 240 RS,GB,B12,NA,NA,SS23,oil pump
+NA,52,"Jackson, Alex",Opel Manta 400,GB,B12,NA,NA,before SS3,illness at family
+NA,53,"Payne, Charles",Opel Manta 400,GB,B12,NA,NA,SS32,gearbox
+NA,54,"Prochowski, James",Nissan 240 RS,GB,B12,NA,NA,SS15,axle
+NA,56,"Rastall, David",Talbot Sunbeam,GB,B12,NA,NA,after SS18,OTL
+NA,57,"Barnes, Ray",Talbot Sunbeam,GB,B12,NA,NA,at finish,OTL
+NA,58,"Fielding, Geoff",MG Metro 6R4,GB,B12,NA,NA,SS6,engine
+NA,60,"Haden, John",Talbot Samba,GB,B9,NA,NA,SS14,suspension
+NA,61,"Chamberlain, Miles",Citroen Visa,GB,B9,NA,NA,SS10,engine
+NA,64,"Bradford, Roy",Honda Civic,GB,B10,NA,NA,PC20,transmission
+NA,68,"Metcalfe, Dave",Vauxhall Astra GT/E,GB,A7,NA,NA,SS6,piston
+NA,73,"Roughead, Ronald",Opel Manta GT/E,GB,A7,NA,NA,after SS2,OTL
+NA,79,"Smith, Gordon",Rover Vitesse,GB,A8,NA,NA,SS10,head gasket
+NA,80,"Yamauchi, Shinya",Mitsubishi Starion Turbo,JP,A8,NA,NA,SS13,engine
+NA,83,"Brewis, Ewan",Subaru RX Turbo,GB,A8,NA,NA,SS11,oil pipe
+NA,88,"Kamata, Yutaka",Isuzu Gemini,JP,A8,NA,NA,SS12,oil pump
+NA,93,"Hugla, Olivier",Mitsubishi Lancer,FR,A8,NA,NA,after SS11,unknown
+NA,94,"Wadman, Basil",Peugeot 205 GTI,GB,A6,NA,NA,SS8,accident
+NA,95,"Lyons, Robin",Peugeot 205 GTI,GB,A6,NA,NA,SS15,steering
+NA,101,"Durrant, Peter",Peugeot 205 GTI,GB,A6,NA,NA,SS14,engine
+NA,102,"Sugondo, Barry",Talbot Sunbeam,GB,A6,NA,NA,SS23,clutch
+NA,104,"Lorenzetti, Jacky",Peugeot 205 GTI,FR,A6,NA,NA,after SS30,unknown
+NA,116,"Hunt, Warren",Vauxhall Nova,GB,A5,NA,NA,SS45,accident
+NA,118,"Shields, Tony",Opel Corsa,GB,A5,NA,NA,PC16,unknown
+NA,119,"Kuosmanen, Tapio",Toyota Starlet,FI,A5,NA,NA,SS43,lost wheel
+NA,120,"Mavropoulos, Dimi",Skoda 130,CY,A,NA,NA,SS26,unknown
+NA,122,"Beesley, David",Vauxhall Astra,GB,A,NA,NA,SS6,engine
+NA,124,"Donnelly, Michael",Vauxhall Nova,GB,A,NA,NA,SS40,unknown
+NA,126,"Waddington, Andy",Vauxhall Nova,GB,A,NA,NA,SS12,no oil
+NA,128,"Corry, John",Lada 2105,GB,A,NA,NA,start of Leg 2,engine
+NA,130,"Waterman, Alan",Lada 2105,GB,A,NA,NA,end of Leg 2,OTL
+NA,132,"Jones, David",Lada 2105,GB,A,NA,NA,SS45,accident
+NA,133,"Mellor, Harry",Lada 2105,GB,A,NA,NA,SS45,unknown
+NA,134,"Harris, Philip",Skoda 130,GB,A,NA,NA,SS16,engine
+NA,135,"Anderson, Mike",Vauxhall Nova,GB,A,NA,NA,SS12,axle
+NA,136,"Ryan, Tom",Toyota Corolla,GB,A,NA,NA,SS12,gearbox
+NA,138,"Morgan, Russell",Mercedes Benz 190,GB,N,NA,NA,SS12,driveshaft
+NA,141,"Muldoon, Rex",Ford Sierra XR4x4,AU,N,NA,NA,SS6,accident
+NA,144,"Gobert, Philippe",Fiat Uno Turbo,FR,N,NA,NA,SS38,OTL
+NA,148,"Clayton, Phil",Toyota Corolla,GB,N,NA,NA,PC17,unknown
+NA,149,"Thuriot, Xavier",Peugeot 205 GTI,FR,N,NA,NA,PC12,unknown
+NA,150,"Dubert, Jacques",Peugeot 205 GTI,FR,N,NA,NA,PC32,unknown
+NA,154,"Jarvis, Gordon",Talbot Sunbeam,GB,N2,NA,NA,SS16,engine
+NA,160,"Anderson, Guy",Talbot Sunbeam,GB,N2,NA,NA,SS45,unknown
+NA,161,"Furber, Kevin",Vauxhall Nova,GB,N1,NA,NA,SS14,piston
+NA,162,"Bassett, Alistair",Talbot Samba,GB,N1,NA,NA,NA,OTL
+NA,163,"Brown, Russell",Talbot Sunbeam,GB,A,NA,NA,SS3,halfshaft
+NA,165,"Hill, Andrew",Vauxhall Astra GT/E,GB,N,NA,NA,SS45,OTL

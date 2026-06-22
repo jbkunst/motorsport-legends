@@ -1,0 +1,19 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"Rohrl, Walter",Fiat 131 Abarth,DE,G4,4h 54m 23s,NA,NA,NA
+2,2,"Alen, Markku",Fiat 131 Abarth,FI,G4,+8m 33s,NA,NA,NA
+3,6,"Kullang, Anders",Opel Kadett GT/E,SE,G2,+18m 23s,NA,NA,NA
+4,10,"Heinonen, Taisto",Toyota Celica,FI,G2,+39m 44s,NA,NA,NA
+5,8,"Perusse, Jean-Paul",Triumph TR7,CA,G4,+42m 33s,NA,NA,NA
+6,54,"Torres, Carlos",Ford Escort RS2000,PT,G1,+1h 03m 57s,NA,NA,NA
+7,42,"Bergsteyn, Man",Opel Kadett GT/E,NL,G2,+1h 21m 14s,NA,NA,NA
+8,11,"Blok, Hendrik",Saab 99EMS,US,G1,+1h 30m 03s,NA,NA,NA
+9,57,"McCallum, Gordon",Volkswagen Rabbit (Golf GTi),CA,G1,+1h 31m 01s,NA,NA,NA
+10,12,"Boyce, Walter",Saab 99EMS,CA,G1,+1h 34m 52s,NA,NA,NA
+NA,1,"Salonen, Timo",Fiat 131 Abarth,FI,G4,NA,NA,SS9,differential
+NA,4,"Danielsson, Bror",Opel Kadett GT/E,SE,G2,NA,NA,SS7,engine
+NA,5,"Blomqvist, Stig",Saab 99EMS,SE,G2,NA,NA,SS6,gearbox
+NA,7,"Buffum, John",Triumph TR7,US,G4,NA,NA,post-event,no helmet in stage
+NA,18,"Cavicchi, Carlo",Fiat 127,IT,G2,NA,NA,SS4,accident
+NA,NA,"Alamy, J-P",Fiat 124 Abarth Spider,NA,NA,NA,NA,NA,distributor
+NA,NA,O'Connor,Saab 96 V4,NA,NA,NA,NA,NA,engine
+NA,NA,"Skowronnek, Burckhard",Peugeot 104,CA,NA,NA,NA,NA,clutch

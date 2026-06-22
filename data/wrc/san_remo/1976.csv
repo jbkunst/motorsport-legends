@@ -1,0 +1,39 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,4,"Waldegard, Bjorn",Lancia Stratos HF,SE,G4,10h 27m 40s,NA,NA,NA
+2,1,"Munari, Sandro",Lancia Stratos HF,IT,G4,+4s,NA,NA,NA
+3,6,"Pinto, Raffaele",Lancia Stratos HF,IT,G4,+9m 33s,NA,NA,NA
+4,11,"Fassina, Antonio",Lancia Stratos HF,IT,G4,+31m 42s,NA,NA,NA
+5,3,"Ballestrieri, Amilcare",Opel Kadett GT/E,IT,G4,+46m 06s,NA,NA,NA
+6,14,"Lorenzelli, Livio",Fiat 124 Abarth Spider,IT,G4,+52m 49s,NA,NA,NA
+7,16,"Ormezzano, Federico",Opel Kadett GT/E,IT,G2,+1h 08m 11s,NA,NA,NA
+8,21,"Battistoli, Luigi",Opel Kadett GT/E,IT,G1,+1h 21m 02s,NA,NA,NA
+9,72,"Gardavot, Christian",Porsche 911,FR,G3,+1h 27m 52s,NA,NA,NA
+10,19,"Presotto, Angelo",Opel Kadett GT/E,IT,G1,+1h 30m 23s,NA,NA,NA
+11,NA,Muscionico,Opel Kadett GT/E,NA,NA,+1h 56m 04s,NA,NA,NA
+12,NA,"Garin, Leo",Lancia Fulvia,IT,NA,+2h 01m 59s,NA,NA,NA
+13,NA,de Vincenti,Fiat 124 Abarth,NA,NA,+2h 06m 30s,NA,NA,NA
+14,NA,"Martini, P.",Opel Kadett GT/E,NA,NA,+2h 13m 14s,NA,NA,NA
+15,NA,Sassone,Opel Kadett,NA,NA,+2h 18m 28s,NA,NA,NA
+16,NA,"Marchesini, M.",Lancia Stratos HF,IT,NA,+2h 21m 26s,NA,NA,NA
+17,NA,Maranzano,Opel Kadett GT/E,NA,NA,+2h 24m 34s,NA,NA,NA
+18,NA,Sciascia,Opel Ascona,NA,NA,+2h 31m 07s,NA,NA,NA
+19,NA,Maggi,Simca Rallye 2,NA,NA,+2h 40m 13s,NA,NA,NA
+20,NA,"Chianea, Raymond",Opel Kadett GT/E,FR,NA,+2h 40m 38s,NA,NA,NA
+21,NA,Rossi,Autobianchi A112,NA,NA,+2h 55m 34s,NA,NA,NA
+23,NA,"Pallanca, Jean",Ford Escort RS,MC,NA,+3h 06m 20s,NA,NA,NA
+41,NA,Baudoin,Datsun,NA,NA,+5h 23m 19s,NA,NA,NA
+43,9,"Verini, Maurizio",Fiat 131 Abarth,IT,G4,+8h 09m 19s,NA,NA,NA
+NA,2,"Alen, Markku",Fiat 131 Abarth,FI,G4,NA,NA,NA,accident
+NA,5,"Nicolas, Jean-Pierre",Opel Kadett GT/E,FR,G4,NA,NA,NA,camshaft
+NA,7,"Bacchelli, Fulvio",Fiat 131 Abarth,IT,G4,NA,NA,NA,accident
+NA,8,"Rohrl, Walter",Opel Kadett GT/E,DE,G4,NA,NA,NA,engine
+NA,10,"Livieratos, Tassos",Renault-Alpine A110 1800,GR,G4,NA,NA,NA,transmission
+NA,12,"Cambiaghi, Roberto",Fiat 131 Abarth,IT,G4,NA,NA,NA,differential
+NA,31,"Mouton, Michele",Renault-Alpine A110,FR,G3,NA,NA,NA,radiator
+NA,NA,"Bianchi, Carlo",Lancia Stratos HF,IT,NA,NA,NA,NA,accident
+NA,NA,Bonamico,Opel Kadett GT/E,NA,NA,NA,NA,NA,accident
+NA,NA,"Brambilla, Alberto",Porsche,IT,NA,NA,NA,NA,transmission
+NA,NA,"dall'Ava, Orlando",Opel Kadett GT/E,IT,NA,NA,NA,NA,broken rim
+NA,NA,"Fagnola, Alfredo",Alfa Romeo Alfetta GT,IT,NA,NA,NA,NA,engine
+NA,NA,Hummel,Renault-Alpine A110 bis,FR,NA,NA,NA,NA,transmission
+NA,NA,"Vincent, Francis",Renault-Alpine A310,FR,NA,NA,NA,NA,gearbox

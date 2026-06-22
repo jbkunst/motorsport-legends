@@ -1,0 +1,54 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,8,"Auriol, Didier",Toyota Celica Turbo 4WD (ST185),FR,A8,5h 56m 40s,NA,NA,NA
+2,10,"Sainz, Carlos",Subaru Impreza 555,ES,A,+21s,NA,NA,NA
+3,5,"Biasion, Massimo",Ford Escort RS Cosworth,IT,A,+47s,NA,NA,NA
+4,9,"Thiry, Bruno",Ford Escort RS Cosworth,BE,A,+1m 17s,NA,NA,NA
+5,4,"McRae, Colin",Subaru Impreza 555,GB,A,+1m 36s,NA,NA,NA
+6,6,"Cunico, Gianfranco",Ford Escort RS Cosworth,IT,A,+1m 51s,NA,NA,NA
+7,3,"Kankkunen, Juha",Toyota Celica GT-Four (ST205),FI,A,+4m 18s,NA,NA,NA
+8,19,"Longhi, Piero",Toyota Celica Turbo 4WD (ST185),IT,A,+9m 09s,NA,NA,NA
+9,15,"Wilson, Malcolm",Ford Escort RS Cosworth,GB,A,+11m 02s,NA,NA,NA
+10,21,"Bica, Jorge",Lancia Delta HF Integrale,PT,A,+30m 26s,NA,NA,NA
+11,30,"Noberasco, Gabriele",Lancia Delta HF Integrale,IT,A,+30m 49s,NA,NA,NA
+12,32,"McRae, Alister",Nissan Sunny,GB,A,+34m 18s,NA,NA,NA
+13,31,"Andreucci, Paolo",Renault Clio Williams,IT,A,+34m 30s,NA,NA,NA
+14,33,"Loix, Freddy",Opel Astra,BE,A,+38m 27s,NA,NA,NA
+15,25,"Holderied, Isolde",Mitsubishi Lancer Evo II,DE,N,+38m 44s,NA,NA,NA
+16,23,"Recalde, Jorge",Mitsubishi Lancer Evo II,AR,N,+43m 29s,NA,NA,NA
+17,26,"Puras, Jesus",Ford Escort RS Cosworth,ES,N,+47m 31s,NA,NA,NA
+18,11,"Triner, Emil",Skoda Favorit 136L,CZ,A,+48m 03s,NA,NA,NA
+19,42,"Zanchi, Pierlorenzo",Mazda 323 GT-R,IT,N,+51m 17s,NA,NA,NA
+20,45,"Postel, Ivan",Subaru Legacy RS,NL,A,+51m 26s,NA,NA,NA
+21,50,"da Sacco, Franco",Lancia Delta HF Integrale,IT,A,+54m 11s,NA,NA,NA
+22,56,"Pelli, Gerolamo",Mazda 323 GT-R,IT,N,+56m 29s,NA,NA,NA
+23,40,"Zumelli, Luisa",Lancia Delta HF Integrale,IT,A,+1h 02m 40s,NA,NA,NA
+24,55,"Ducruet, Daniel",Ford Escort RS Cosworth,FR,N,+1h 02m 59s,NA,NA,NA
+25,37,"Trisconi, Giacomo",Opel Astra,IT,N,+1h 12m 34s,NA,NA,NA
+26,53,"Malbert, Herve",Ford Escort RS Cosworth,FR,N,+1h 14m 36s,NA,NA,NA
+27,38,"Munaretto, Enrica",Ford Escort RS Cosworth,IT,N,+1h 15m 00s,NA,NA,NA
+28,59,"Rosenberger, Kristopher",Ford Escort RS Cosworth,AT,N,+1h 21m 03s,NA,NA,NA
+29,99,"Gaetti, Marcello",Opel Astra,IT,N,+1h 23m 12s,NA,NA,NA
+30,54,"Martini, William",Ford Escort RS Cosworth,IT,N,+1h 27m 03s,NA,NA,NA
+31,106,"Brunello, Demitri",Peugeot 106,IT,N,+1h 35m 31s,NA,NA,NA
+32,81,"Bertinotti, Marco",Peugeot 405 MI16,IT,A,+1h 43m 31s,NA,NA,NA
+33,90,"Rampazzo, Luca",Renault Clio Williams,IT,N,+1h 51m 32s,NA,NA,NA
+34,96,"Schenetti, Massimo",Peugeot 205 Rallye,IT,A,+1h 57m 38s,NA,NA,NA
+35,102,"Gai, Alessandro",Peugeot 106,IT,N,+2h 09m 48s,NA,NA,NA
+36,91,"Scordato, Pino",Peugeot 205 GTI,IT,A,+2h 17m 21s,NA,NA,NA
+37,103,"Bigoni, Vittorio",Peugeot 205 Rallye,IT,N,+2h 35m 33s,NA,NA,NA
+38,95,"Orengo, Giovanni",Opel Corsa GSi,IT,A,+2h 36m 02s,NA,NA,NA
+39,105,"Dieni, Roberto",Peugeot 106,IT,N,+2h 40m 03s,NA,NA,NA
+40,100,"Fiori, Fabrizio",Opel Corsa GSi,IT,N,+3h 06m 58s,NA,NA,NA
+NA,1,"Delecour, Francois",Ford Escort RS Cosworth,FR,A,NA,NA,SS10,engine
+NA,2,"Makinen, Tommi",Mitsubishi Lancer Evo II,FI,A,NA,NA,SS2,suspension
+NA,7,"Schwarz, Armin",Mitsubishi Lancer Evo II,DE,A,NA,NA,SS25,fire
+NA,12,"Sibera, Pavel",Skoda Favorit 136L,CZ,A,NA,NA,SS24,driveshaft
+NA,14,"Pianezzola, Gilberto",Toyota Celica Turbo 4WD (ST185),IT,A,NA,NA,SS24,turbo
+NA,16,"Aghini, Andrea",Toyota Celica Turbo 4WD (ST185),IT,A,NA,NA,SS1,accident
+NA,18,"Liatti, Piero",Subaru Impreza 555,IT,A,NA,NA,SS3,turbo
+NA,27,"Travaglia, Renato",Renault Clio Williams,IT,A,NA,NA,SS3,engine
+NA,28,"de Mevius, Gregoire",Opel Astra,BE,A,NA,NA,SS3,suspension
+NA,29,"Mendez, Gabriel",Renault Clio Williams,UY,A,NA,NA,SS8,electrics
+NA,34,"Oldrati, Diego",Renault Clio Williams,IT,A,NA,NA,SS4,gearbox
+NA,35,"Bentivogli, Bruno",Ford Escort RS Cosworth,IT,N,NA,NA,SS22,driveshaft
+NA,36,"Nittel, Uwe",Ford Escort RS Cosworth,DE,N,NA,NA,NA,lost wheel

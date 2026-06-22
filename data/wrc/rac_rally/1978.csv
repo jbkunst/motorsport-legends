@@ -1,0 +1,64 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,4,"Mikkola, Hannu",Ford Escort RS1800,FI,G4,8h 47m 23s,NA,NA,NA
+2,1,"Waldegard, Bjorn",Ford Escort RS,SE,G4,+5m 18s,NA,NA,NA
+3,12,"Brookes, Russell",Ford Escort RS,GB,G4,+11m 32s,NA,NA,NA
+4,7,"Pond, Tony",Triumph TR7,GB,G4,+15m 46s,NA,NA,NA
+5,17,"Kullang, Anders",Opel Kadett GT/E,SE,G2,+26m 25s,NA,NA,NA
+6,5,"Rohrl, Walter",Fiat 131 Abarth,DE,G4,+30m 24s,NA,NA,NA
+7,23,"Taylor, John",Ford Escort RS,GB,G4,+31m 57s,NA,NA,NA
+8,19,"Dawson, Andy",Datsun 160J,GB,G2,+33m 28s,NA,NA,NA
+9,44,"Toivonen, Henri",Chrysler Sunbeam,FI,G2,+40m 00s,NA,NA,NA
+10,14,"Danielsson, Bror",Opel Kadett GT/E,SE,G2,+44m 29s,NA,NA,NA
+11,16,"Nicolas, Jean-Pierre",Ford Escort RS1800,FR,G4,+45m 21s,NA,NA,NA
+12,24,"Haugland, John",Triumph TR7,NO,G4,+53m 41s,NA,NA,NA
+13,29,"Pitkanen, Erkki",Datsun Violet,FI,G2,+53m 51s,NA,NA,NA
+14,35,"Culcheth, Brian",Opel Kadett GT/E,GB,G1,+54m 34s,NA,NA,NA
+15,41,"Samson, Charles",Ford Escort RS,GB,G4,+1h 06m 39s,NA,NA,NA
+16,56,"Carter, Alan",Ford Escort RS2000,NZ,G1,+1h 23m 51s,10:00,NA,NA
+17,59,"Johansson, Bjorn",Opel Kadett GT/E,SE,G1,+1h 24m 25s,NA,NA,NA
+18,58,"Bohne, Holger",Ford Escort RS2000,DE,G1,+1h 24m 40s,NA,NA,NA
+19,54,"Jonsson, Lasse",Porsche,SE,G4,+1h 25m 53s,NA,NA,NA
+20,49,"Kvaizar, Svatopluk",Skoda 130,CS,G2,+1h 27m 15s,NA,NA,NA
+21,50,"Jackson, Michael",Ford Escort RS1800,GB,G4,NA,NA,NA,NA
+22,53,"Mitchell, Brian",Ford Escort RS1800,GB,G4,NA,NA,NA,NA
+24,43,"Blahna, Vaclav",Skoda 130,CS,G2,+1h 57m 40s,NA,NA,NA
+25,93,"Burch, Paul",Chrysler Avenger,GB,G1,+2h 01m 28s,NA,NA,NA
+26,82,"Field, Chris",Chrysler Avenger,GB,G1,+2h 03m 00s,NA,NA,NA
+29,78,"Sundling, Lars",Honda Civic,NO,G1,+2h 12m 53s,NA,NA,NA
+33,122,"Katsuta, Teruo",Toyota Corolla,JP,G2,+2h 14m 27s,NA,NA,NA
+35,95,"Shipp, Bryan",Fiat 131,GB,G1,+2h 39m 22s,NA,NA,NA
+43,194,"Gandy, Ian",Ford Escort,GB,G1,+3h 03m 57s,NA,NA,NA
+49,107,"Greenwood, Norman",Ford Escort,GB,G1,+3h 30m 12s,NA,NA,NA
+50,155,"Colomb, Francois",Opel Kadett GT/E,FR,G3,+3h 31m 54s,NA,NA,NA
+60,90,"Simpson, Judy",Ford Escort RS2000,GB,G1,+4h 53m 26s,NA,NA,NA
+NA,2,"Blomqvist, Stig",Saab 99 Turbo,SE,G2,NA,NA,SS22,driveshaft
+NA,3,"Alen, Markku",Lancia Stratos HF,FI,G4,NA,NA,SS38,gearbox
+NA,6,"Vatanen, Ari",Ford Escort RS,FI,G4,NA,NA,SS4,missed time control
+NA,8,"Eklund, Per",Saab 99 Turbo,SE,G2,NA,NA,SS19,driveshaft
+NA,9,"Clark, Roger",Ford Escort RS,GB,G4,NA,NA,SS47,accident
+NA,10,"Munari, Sandro",Lancia Stratos HF,IT,G4,NA,NA,SS27,engine
+NA,11,"Airikkala, Pentti",Vauxhall Chevette 2300,FI,G4,NA,NA,SS29,oil pump
+NA,15,"Lampinen, Simo",Triumph TR7,FI,G4,NA,NA,SS47,clutch
+NA,18,"Sclater, Chris",Vauxhall Chevette 2300,GB,G4,NA,NA,SS29,electrics
+NA,20,"Buffum, John",Ford Escort RS,US,G4,NA,NA,SS25,alternator
+NA,22,"Therier, Jean-Luc",Toyota Celica,FR,G2,NA,NA,SS6,half-shaft
+NA,25,"Asterhag, Leif",Toyota Celica,SE,G2,NA,NA,SS72,accident
+NA,26,"McRae, Jimmy",Vauxhall Chevette 2300,GB,G4,NA,NA,SS32,accident
+NA,27,"Elsmore, Graham",Ford Escort RS,GB,G4,NA,NA,SS29,head gasket
+NA,28,"Wilson, Malcolm",Ford Escort RS,GB,G4,NA,NA,SS44,half-shaft
+NA,31,"Kleint, Jochi",Volkswagen Golf GTi,DE,G2,NA,NA,SS4,driveshaft
+NA,32,"Borjesson, Ruben",Triumph TR7,SE,G4,NA,NA,SS59,engine
+NA,37,"Kaby, Terry",Triumph Dolomite Sprint,GB,G1,NA,NA,SS55,engine
+NA,38,"Gallacher, Drew",Ford Escort RS1800,GB,G4,NA,NA,SS2,engine
+NA,39,"Zapadlo, Miloslav",Skoda 130,CS,G2,NA,NA,SS1,driveshaft
+NA,40,"Hill, George",Vauxhall Chevette,GB,G4,NA,NA,SS44,head gasket
+NA,42,"Lord, Christopher",Vauxhall Chevette,GB,G4,NA,NA,NA,engine
+NA,45,"Kottulinsky, Freddy",Audi 80,SE,G2,NA,NA,SS31,accident
+NA,48,"Saby, Bruno",Renault-Alpine A110 1600,FR,G4,NA,NA,NA,unknown
+NA,57,"Lampi, Lasse",Ford Escort RS2000,FI,G1,NA,NA,NA,accident
+NA,74,"Capone, Carlo",Autobianchi A112,IT,G1,NA,NA,NA,engine
+NA,76,"Padwicke, Ron",Chrysler Sunbeam,GB,G2,NA,NA,NA,gearbox
+NA,88,"Hudspeth, Linda",Ford Escort,GB,G4,NA,NA,End of Leg 1,OTL
+NA,89,"Hetzer, Heidi",Opel Kadett,DE,G1,NA,NA,NA,engine
+NA,99,"Daisy, Chris",Opel Kadett,GB,G1,NA,NA,SS76,unknown
+NA,NA,"Warkup, Geoff",Lada 1300,GB,G2,NA,NA,after SS39,OTL

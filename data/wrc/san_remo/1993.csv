@@ -1,0 +1,65 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,7,"Cunico, Gianfranco",Ford Escort RS Cosworth,IT,A8,6h 19m 40s,NA,NA,NA
+2,11,"Snijers, Patrick",Ford Escort RS Cosworth,BE,A,+10m 28s,NA,NA,NA
+3,12,"Pianezzola, Gilberto",Lancia Delta HF Integrale,IT,A,+18m 23s,NA,NA,NA
+4,3,"Liatti, Piero",Subaru Legacy RS,IT,A,+25m 07s,NA,NA,NA
+5,8,"Thiry, Bruno",Opel Astra,BE,A,+26m 47s,NA,NA,NA
+6,27,"Travaglia, Renato",Ford Escort RS Cosworth,IT,N,+38m 41s,NA,NA,NA
+7,72,"Dallavilla, Andrea",Ford Escort RS Cosworth,IT,N,+38m 51s,NA,NA,NA
+8,23,"Medeghini, Angelo",Peugeot 106,IT,A,+38m 58s,NA,NA,NA
+9,33,"Loix, Freddy",Opel Astra,BE,A,+45m 15s,NA,NA,NA
+10,19,"Fassina, Alessandro",Mazda 323,IT,N,+48m 22s,NA,NA,NA
+11,20,"Triner, Emil",Skoda Favorit 136L,CZ,A,+56m 58s,NA,NA,NA
+12,14,"Sibera, Pavel",Skoda Favorit 136L,CZ,A,+57m 25s,NA,NA,NA
+13,32,"Scandola, Graziano",Ford Escort RS Cosworth,IT,A,+1h 02m 52s,NA,NA,NA
+14,79,"Ameglio, Danilo",Peugeot 205 GTI,IT,A,+1h 03m 36s,NA,NA,NA
+15,48,"Coutinho, Antonio",Ford Escort RS Cosworth,PT,N,+1h 08m 13s,NA,NA,NA
+16,28,"Rossi, Pierangelo",Ford Escort RS Cosworth,IT,N,+1h 11m 26s,NA,NA,NA
+17,15,"bin Sulayem, Mohammed",Ford Escort RS Cosworth,AE,N,+1h 13m 52s,NA,NA,NA
+18,95,"Castore, Marco",Opel Astra,IT,N,+1h 14m 02s,NA,NA,NA
+19,59,"Onoscuri, Paolo",Ford Escort RS Cosworth,IT,N,+1h 15m 09s,NA,NA,NA
+20,94,"Gaetti, Marcello",Opel Astra,IT,A,+1h 18m 07s,NA,NA,NA
+21,29,"Munaretto, Enrica",Ford Escort RS Cosworth,IT,N,+1h 22m 10s,NA,NA,NA
+22,96,"Bianchi, Massimiliano",Peugeot 205 GTI,IT,N,+1h 25m 08s,NA,NA,NA
+23,100,"Lozza, Eugenio",Opel Astra,IT,N,+1h 27m 53s,NA,NA,NA
+24,52,"Ontano, Agostino",Mazda 323 GT-R,IT,N,+1h 29m 09s,NA,NA,NA
+25,16,"Driano, Christine",Citroen AX,FR,A,+1h 32m 19s,NA,NA,NA
+26,106,"Gomba, Gianni",Peugeot 309 GTI,IT,N,+1h 32m 29s,NA,NA,NA
+27,70,"Meli, Massimo",Ford Escort RS Cosworth,IT,N,+1h 32m 34s,NA,NA,NA
+28,109,"Cavatorta, Adelmo",Peugeot 309 GTI,IT,N,+1h 34m 35s,NA,NA,NA
+29,99,"Giordano, Luca",Opel Kadett GSi,IT,N,+1h 35m 23s,NA,NA,NA
+30,134,"Duterte, Daniel",Peugeot 205 Rallye,FR,N,+1h 35m 54s,NA,NA,NA
+31,104,"Panozzo, Alberto",Peugeot 309 GTI,IT,N,+1h 37m 15s,NA,NA,NA
+32,51,"Reininger, Stefan",Subaru Legacy RS,AT,A,+1h 46m 41s,NA,NA,NA
+33,71,"Tessarolo, Giancarlo",Ford Escort RS Cosworth,IT,N,+1h 48m 45s,NA,NA,NA
+34,101,"Giordanino, Ugo",Peugeot 309 GTI,IT,N,+1h 53m 45s,NA,NA,NA
+35,135,"Sagnard, Richard",Peugeot 205 Rallye,FR,N,+1h 55m 36s,NA,NA,NA
+36,111,"Robino, Paolo",Peugeot 205 GTI,IT,A,+1h 59m 11s,NA,NA,NA
+37,130,"Molinaris, Alessandro",Opel Corsa GSI,IT,N,+2h 02m 22s,NA,NA,NA
+38,56,"Conte, Pierantonio",Ford Escort RS Cosworth,IT,N,+2h 02m 35s,NA,NA,NA
+39,93,"Polliotto, Guido",Fiat Uno Turbo,IT,N,+2h 05m 12s,NA,NA,NA
+40,133,"Botti, Antonio",Peugeot 205 Rallye,IT,N,+2h 05m 18s,NA,NA,NA
+41,136,"Fragale, Luigi",Peugeot 205 Rallye,IT,N,+2h 07m 15s,NA,NA,NA
+42,129,"Boniscontro, Cristian",Opel Corsa GSi,IT,N,+2h 07m 29s,NA,NA,NA
+43,123,"Alberti, Mauro",Peugeot 205 Rallye,IT,A,+2h 10m 12s,NA,NA,NA
+44,84,"Heinen, Riccardo",Opel Kadett GSi,IT,A,+2h 11m 23s,NA,NA,NA
+45,112,"Zunino, Romeo",Peugeot 205 GTI,IT,A,+2h 17m 03s,NA,NA,NA
+46,127,"Rio, Andrea",Peugeot 205 Rallye,IT,A,+2h 19m 14s,NA,NA,NA
+47,82,"Muzzarelli, Alfonso",Peugeot 309 GTI,IT,A,+2h 19m 34s,NA,NA,NA
+48,87,"Fameli, Angelo",Opel Kadett GSI,IT,A,+2h 20m 40s,NA,NA,NA
+49,124,"Bona, Domenico",Peugeot 205 Rallye,IT,A,+2h 20m 58s,NA,NA,NA
+50,105,"Sottile, Sandro",Opel Astra,IT,N,+2h 22m 29s,NA,NA,NA
+51,119,"Gai, Alessandro",Peugeot 205 Rallye,IT,A,+2h 26m 41s,NA,NA,NA
+52,139,"Ricci, Andrea",Peugeot 106,IT,N,+2h 30m 16s,NA,NA,NA
+53,120,"Orengo, Giovanni",Opel Corsa,IT,A,+2h 33m 44s,NA,NA,NA
+54,126,"Fiorenza, Massimo",Suzuki Swift GTI,IT,A,+2h 56m 24s,NA,NA,NA
+55,92,"Cuenin, Pascal",Renault 5 GT Turbo,FR,N,+3h 15m 34s,NA,NA,NA
+56,132,"Peirano, Aldo",Opel Corsa GSi,IT,N,+3h 21m 26s,NA,NA,NA
+NA,1,"Aghini, Andrea",Lancia Delta HF Integrale,IT,A,NA,NA,SS5,accident
+NA,2,"Delecour, Francois",Ford Escort RS Cosworth,FR,A,NA,NA,SS5,accident
+NA,4,"Sainz, Carlos",Lancia Delta HF Integrale,ES,A,NA,NA,February 1994,illegal fuel
+NA,5,"Biasion, Massimo",Ford Escort RS Cosworth,IT,A,NA,NA,SS7,engine
+NA,6,"Fiorio, Alessandro",Lancia Delta HF Integrale,IT,A,NA,NA,SS16,engine
+NA,9,"Longhi, Piero",Lancia Delta HF Integrale,IT,A,NA,NA,SS2,accident
+NA,10,"Cerrato, Dario",Lancia Delta HF Integrale,IT,A,NA,NA,SS7,electrics
+NA,18,"Krecek, Ladislav",Lancia Delta HF Integrale,CS,A,NA,NA,SS14,engine

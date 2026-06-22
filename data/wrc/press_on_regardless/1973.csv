@@ -1,0 +1,58 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,110,"Boyce, Walter",Toyota Corolla,CA,B*,"6h 58m 28,2s",NA,NA,NA
+2,116,"Walker, Jim",Volvo 142S,US,C*,"+24m 15,0s",NA,NA,NA
+3,105,"Smiskol, John",Datsun 240Z,US,D*,"+35m 07,8s",NA,NA,NA
+4,114,"Buffum, John",Ford Escort RS1600,US,C*,"+40m 33,6s",NA,NA,NA
+5,127,"Rodgers, John",Datsun 1600SSS,US,C*,"+46m 32,4s",NA,NA,NA
+6,108,"Mucha, Robert",Polski-Fiat 125p,PL,B*,"+59m 02,4s",NA,NA,NA
+7,123,"Dodd, William",Ford Capri 2600,US,D*,"+1h 06m 26,4s",NA,NA,NA
+8,130,"Callon, Jim",Datsun 510,US,B*,"+1h 09m 43,8s",NA,NA,NA
+9,136,"Dorr, Steve",Datsun 510,US,B*,"+1h 11m 00,0s",NA,NA,NA
+10,121,"McLaren, Charles",Datsun 510,CA,B*,"+1h 17m 44,4s",NA,NA,NA
+11,122,"Chalmers, John",Datsun 510,US,B*,NA,NA,NA,NA
+12,117,"Jaroszewicz, Andrzej",Polski-Fiat 125p,PL,B*,"+1h 22m 19,2s",NA,NA,NA
+13,113,"Neil, Gary",Datsun 1600SSS,CA,B*,NA,NA,NA,NA
+14,160,"Herrmann, Edgar",Subaru GL,DE,A*,"+1h 37m 30,6s",NA,NA,NA
+15,120,"Varisella, Marek",Polski-Fiat 125p,PL,B*,"+1h 40m 42,6s",NA,NA,NA
+16,125,"Jones, Eric",Datsun 510,US,B*,NA,NA,NA,NA
+17,134,"Brooks Jr, Ralph",Datsun 240Z,US,D*,NA,NA,NA,NA
+18,133,"Forbush, Wayne",Subaru GL,US,A*,NA,NA,NA,NA
+19,146,"Robnett, Dick",Opel,US,C*,NA,NA,NA,NA
+20,132,"Carroll, Rich",Datsun 510,US,B*,NA,NA,NA,NA
+21,151,"Merritt, Richard",Datsun 510,US,B*,NA,NA,NA,NA
+22,157,"Alward, Tim",Fiat 128,US,A*,NA,NA,NA,NA
+23,149,"Ayers, Terry",Opel Kadett,US,A*,NA,NA,NA,NA
+NA,104,"Heinonen, Taisto",Opel Manta,FI,C*,NA,NA,Leg 1,accident
+NA,106,"Dahm, Erhard",Jeep Wagoneer,US,E*,NA,NA,SS5 - SS8,engine
+NA,107,"Henderson, Gene",Jeep Wagoneer,US,E*,NA,NA,SS5 - SS8,engine
+NA,109,"Harvey, Scott",Dodge Colt,US,B*,NA,NA,after SS84,illegal suspension
+NA,111,"Black, Randy",Subaru GL,CA,B*,NA,NA,Leg 1,head gasket
+NA,112,"Hourihan, Bob",Datsun 1800SSS,US,C*,NA,NA,Leg 2,accident
+NA,115,"Samida, Tom",Dodge Colt,US,B*,NA,NA,Leg 3,no oil
+NA,119,"Skowronnek, Burckhard",Datsun,CA,B*,NA,NA,NA,unknown
+NA,124,"Braund, William",Toyota Corona,US,C*,NA,NA,NA,unknown
+NA,126,"Gibbs, George",Datsun 510,US,B*,NA,NA,NA,unknown
+NA,129,"Natho, William",Datsun 510,US,B*,NA,NA,Leg 1,unknown
+NA,131,"Fernald, Steve",Volvo 142,US,C*,NA,NA,NA,unknown
+NA,135,"Wiley, Wayne",Chevrolet Corvair,US,E*,NA,NA,Leg 1,unknown
+NA,137,"Eaton, Gary",Volkswagen 1302S,US,B*,NA,NA,Leg 1,mechanical
+NA,138,"Wagner, Walt",Datsun 240Z,US,D*,NA,NA,NA,unknown
+NA,139,"Bray, Eric",Chevrolet Vega,US,D*,NA,NA,Leg 1,engine
+NA,141,"Urban, Thomas",Saab 96 V4,CA,B*,NA,NA,Leg 1,unknown
+NA,142,"Kaser, Arthur",Datsun 510,US,B*,NA,NA,Leg 1,unknown
+NA,145,"Mcalister, Dale",Subaru,US,B*,NA,NA,Leg 1,unknown
+NA,147,"Graves, Randy",Renault-Alpine A110 1800,US,D*,NA,NA,Leg 1,OTL
+NA,148,"Rizor, LeVerne",Dodge Colt,US,B*,NA,NA,Leg 1,OTL
+NA,150,"Jodar, Loyal W.",Ford Mustang,US,E*,NA,NA,NA,unknown
+NA,152,"Shiloff, Robert",Ford Pinto,US,B*,NA,NA,Leg 1,OTL
+NA,153,"Gardam, Kent",Datsun 510,US,B*,NA,NA,NA,unknown
+NA,154,"Harbron, Garrett",Mazda RX2,US,D*,NA,NA,Leg 1,OTL
+NA,155,"DeMotte, Kim",Datsun 510,US,NA,NA,NA,NA,unknown
+NA,156,"Schneider, Robert",Opel Kadett,US,C*,NA,NA,NA,unknown
+NA,158,"Olds, Frederick",Datsun,US,B*,NA,NA,NA,NA
+NA,159,"Kelley, John",Datsun,US,B*,NA,NA,Leg 1,unknown
+NA,161,"Henry, Roland",Sunbeam Arrow,US,C*,NA,NA,NA,unknown
+NA,162,"Gordon, Cary",Dodge Colt,US,B*,NA,NA,Leg 1,hit deer
+NA,163,"Glenndenning, Larry",Datsun 240Z,US,D*,NA,NA,Leg 1,suspension
+NA,164,"Strecker, Barry",Datsun,US,B*,NA,NA,Leg 1,unknown
+NA,165,"Clark, Robert W.",Lancia Fulvia HF,US,NA,NA,NA,Leg 1,unknown

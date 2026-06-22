@@ -1,0 +1,40 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Therier, Jean-Luc",Renault-Alpine A110 1800,FR,G4,8h 01m 32s,NA,NA,NA
+2,12,"Verini, Maurizio",Fiat 124 Abarth Spider,IT,G4,+6m 02s,NA,NA,NA
+3,8,"Nicolas, Jean-Pierre",Renault-Alpine A110 1800,FR,G4,+10m 05s,NA,NA,NA
+4,17,"Bisulli, Giulio",Fiat 124 Abarth Spider,IT,G4,+11m 23s,NA,NA,NA
+5,7,"Barbasio, Sergio",Fiat 124 Abarth Spider,IT,G4,+12m 06s,NA,NA,NA
+6,9,"Paganelli, Alcide",Fiat 124 Abarth Spider,IT,G4,+12m 59s,NA,NA,NA
+7,14,"Pregliasco, Mauro",Lancia Fulvia HF,IT,G4,+13m 28s,NA,NA,NA
+8,11,"Lampinen, Simo",Lancia Fulvia HF,FI,G4,+14m 01s,NA,NA,NA
+9,43,"Bauce, Roberto",Opel Ascona,IT,G2,+1h 16m 45s,NA,NA,NA
+10,29,"Ferraris, Bruno",Lancia Fulvia,IT,G3,+1h 19m 29s,NA,NA,NA
+11,47,Illicher,Opel Ascona,IT,G2,+1h 20m 58s,NA,NA,NA
+12,84,"Dorche, Christian",Opel Ascona,FR,G1,+1h 23m 48s,NA,NA,NA
+13,82,"Errani, Alain",Opel Ascona,FR,G1,+1h 32m 09s,NA,NA,NA
+14,67,del Prete,Lancia Fulvia HF,IT,G3,+1h 36m 29s,NA,NA,NA
+15,56,"Gamenara, Sergio",Renault 12 Gordini,IT,G2,+1h 41m 26s,NA,NA,NA
+16,44,Benelli,Opel Ascona,IT,G2,+1h 42m 12s,NA,NA,NA
+17,NA,'Stefi',Opel Ascona,IT,G1,+1h 43m 42s,NA,NA,NA
+18,65,Pons,Lancia Fulvia HF,IT,G3,+1h 49m 11s,NA,NA,NA
+19,45,"Chianea, Raymond",Opel Ascona,FR,G2,+1h 49m 16s,NA,NA,NA
+20,50,Tardivo,Fiat 125,IT,G2,+1h 52m 35s,NA,NA,NA
+25,30,"Barailler, Jean-Louis",Opel Ascona,FR,G1,+2h 23m 00s,NA,NA,NA
+38,2,"Ballestrieri, Amilcare",Lancia Fulvia HF,IT,G4,NA,NA,NA,NA
+51,10,"Waldegard, Bjorn",BMW 2002,SE,G2,NA,NA,NA,NA
+997,NA,Ameglio,Renault,IT,G2,NA,NA,NA,NA
+998,NA,Galetto,Fiat 128,IT,G1,NA,NA,NA,NA
+999,NA,Leporacci,Fiat 128,IT,G1,NA,NA,NA,NA
+NA,3,"Warmbold, Achim",BMW 2002,DE,G2,NA,NA,SS5,accident
+NA,4,"Pinto, Raffaele",Fiat 124 Abarth Spider,IT,G4,NA,NA,Leg 1,rear suspension
+NA,5,"Darniche, Bernard",Renault-Alpine A110,FR,G4,NA,NA,SS1,accident
+NA,19,"Bacchelli, Fulvio",Fiat 124 Abarth Spider,IT,G4,NA,NA,NA,transmission
+NA,26,"Cambiaghi, Roberto",Opel Ascona,IT,G2,NA,NA,Last leg,rear suspension
+NA,32,"Clarr, Jean-Louis",Opel Ascona,FR,G2,NA,NA,SS2,alternator
+NA,76,Sorrentino,Fiat 128,IT,NA,NA,NA,SS7,puncture
+NA,NA,"Bosetti, Gianni",Lancia,IT,NA,NA,NA,Last leg,ignition
+NA,NA,"Carello, Tony",Opel Ascona,IT,NA,NA,NA,Last leg,valve
+NA,NA,"Pittoni, Leo",Fiat 124,IT,NA,NA,NA,SS6,gearbox
+NA,NA,"Svizzero, Enrico",Opel Ascona,IT,NA,NA,NA,Last leg,distributor
+NA,NA,"Tacchini, Sergio",Fiat 124,IT,NA,NA,NA,SS14,off road
+NA,NA,"Tacchini, Vanni",Fiat 124,IT,NA,NA,NA,SS15,differential

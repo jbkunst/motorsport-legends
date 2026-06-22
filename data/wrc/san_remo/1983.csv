@@ -1,0 +1,23 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,6,"Alen, Markku",Lancia Rally 037,FI,B,8h 50m 17s,NA,NA,NA
+2,2,"Rohrl, Walter",Lancia Rally 037,DE,B,+2m 09s,NA,NA,NA
+3,9,"Bettega, Attilio",Lancia Rally 037,IT,B,+5m 10s,NA,NA,NA
+4,7,"Toivonen, Henri",Opel Manta 400,FI,B,+9m 32s,NA,NA,NA
+5,18,"Biasion, Massimo",Lancia Rally 037,IT,B,+10m 25s,NA,NA,NA
+6,15,"Cerrato, Dario",Opel Manta 400,IT,B,+17m 47s,NA,NA,NA
+7,8,"Mouton, Michele",Audi quattro A2,FR,B,+24m 03s,NA,NA,NA
+8,19,"Battistoli, Luigi",Opel Manta 400,IT,B,+27m 00s,NA,NA,NA
+9,11,"Darniche, Bernard",Audi quattro A2,FR,B,+38m 18s,NA,NA,NA
+10,22,"Noberasco, Gabriele",Alfa Romeo GTV6,IT,A,+1h 08m 22s,NA,NA,NA
+15,70,"Cattaneo, Franco",Opel Ascona,CH,G2,+2h 01m 40s,NA,NA,NA
+16,29,"Fabbri, Paolo",Fiat Ritmo,IT,N,+2h 07m 41s,NA,NA,NA
+36,83,"Polato, Flaviano",Fiat X 1/9,IT,G4,+5h 53m 55s,NA,NA,NA
+NA,1,"Blomqvist, Stig",Audi quattro A2,SE,B,NA,NA,SS53,accident
+NA,3,"Waldegard, Bjorn",Ferrari 308GTB,SE,B,NA,NA,SS24,engine
+NA,4,"Vatanen, Ari",Opel Manta 400,FI,B,NA,NA,SS50,accident
+NA,5,"Mikkola, Hannu",Audi quattro A2,FI,B,NA,NA,SS27,fire
+NA,10,"Vudafieri, Adartico",Lancia Rally 037,IT,B,NA,NA,SS50,accident
+NA,12,"Zanussi, Andrea",Lancia Rally 037,IT,B,NA,NA,SS33,accident
+NA,14,"Ormezzano, Federico",Ferrari 308GTB,IT,B,NA,NA,SS3,halfshaft
+NA,16,"Tabaton, Fabrizio",Lancia Rally 037,IT,B,NA,NA,SS27,accident
+NA,20,"Tognana, Antonio",Lancia Rally 037,IT,B,NA,NA,SS15,gearbox

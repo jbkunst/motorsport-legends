@@ -1,0 +1,76 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,2,"Rohrl, Walter",Fiat 131 Abarth,DE,G4,10h 22m 42,NA,NA,NA
+2,4,"Vatanen, Ari",Ford Escort RS,FI,G4,+6m 35s,NA,NA,NA
+3,8,"Mikkola, Hannu",Ford Escort RS,FI,G4,+14m 10s,NA,NA,NA
+4,5,"Frequelin, Guy",Talbot Sunbeam,FR,G2,+16m 47s,NA,NA,NA
+5,16,"Toivonen, Henri",Talbot Sunbeam,FI,G2,+17m 45s,NA,NA,NA
+6,11,"Bettega, Attilio",Fiat 131 Abarth,IT,G4,+25m 20s,NA,NA,NA
+7,22,"Presotto, Angelo",Ford Escort RS,IT,G1,+52m 08s,NA,NA,NA
+8,27,"Zordan, Antonillo",Opel Ascona,IT,G1,+1h 32m 01s,NA,NA,NA
+9,39,"Bernocchi, Giorgio",Opel Ascona 400,IT,G4,+2h 06m 03s,NA,NA,NA
+10,56,"Paolieri, Massimo",Ford Escort RS,IT,G1,+2h 18m 10s,NA,NA,NA
+11,41,"Recordati, Giovanni",Opel Ascona,IT,NA,+2h 19m 02s,NA,NA,NA
+12,53,"Marchesini, M.",Ford Escort RS,IT,NA,+2h 22m 58s,NA,NA,NA
+13,50,"Calosso, Piero",Opel Kadett GT/E,IT,NA,+2h 54m 32s,NA,NA,NA
+14,99,"Andre-Poyad, M.",Peugeot 104,FR,NA,+2h 55m 27s,NA,NA,NA
+15,88,Bozzo,Volkswagen Scirocco,NA,NA,+3h 03m 17s,NA,NA,NA
+16,98,Ameglio,Peugeot 104,IT,NA,+3h 13m 58s,NA,NA,NA
+17,100,Peyrani,Peugeot 104,NA,NA,+3h 55m 19s,NA,NA,NA
+18,77,Leporace,Fiat 128,NA,NA,+4h 52m 33s,NA,NA,NA
+19,84,Maglione,Peugeot 104,AR,NA,+5h 28m 42s,NA,NA,NA
+NA,1,"Fassina, Antonio",Opel Ascona 400,IT,G4,NA,NA,SS28,brakes
+NA,3,"Salonen, Timo",Datsun 160J,FI,G2,NA,NA,SS10,accident
+NA,6,"Kullang, Anders",Opel Ascona 400,SE,G4,NA,NA,SS7,gearbox
+NA,7,"Alen, Markku",Fiat 131 Abarth,FI,G4,NA,NA,SS18,engine
+NA,9,"Kleint, Jochi",Opel Ascona 400,DE,G4,NA,NA,SS43,differential
+NA,10,"Pregliasco, Mauro",Alfa Romeo Alfetta Turbo,IT,G4,NA,NA,SS26,fuel pump
+NA,12,"Kallstrom, Harry",Datsun 160J,SE,G2,NA,NA,SS17,distributor
+NA,15,"Cerrato, Dario",Opel Ascona 400,IT,G4,NA,NA,SS42,halfshaft
+NA,18,"Vudafieri, Adartico",Fiat 131 Abarth,IT,G4,NA,NA,SS7,gearbox
+NA,19,"Verini, Maurizio",Alfa Romeo Alfetta Turbo,IT,G4,NA,NA,SS4,fire
+NA,24,"Tabaton, Fabrizio",Lancia Stratos HF,IT,G4,NA,NA,SS11,engine
+NA,25,"Tognana, Antonio",Fiat 131 Abarth,IT,G4,NA,NA,SS30,halfshaft
+NA,26,"Sassone, Giorgio",Porsche 911,IT,NA,NA,NA,NA,unknown
+NA,28,Carotta,Opel Ascona,NA,NA,NA,NA,NA,unknown
+NA,29,Gerbino,Talbot Sunbeam,IT,NA,NA,NA,NA,unknown
+NA,30,'Ray',Ford Escort,MC,NA,NA,NA,NA,unknown
+NA,31,"Biasion, Massimo",Opel Ascona,IT,G4,NA,NA,NA,differential
+NA,33,Cane,Opel Ascona,NA,NA,NA,NA,NA,unknown
+NA,34,Ercolani,Ford Escort,NA,NA,NA,NA,NA,unknown
+NA,35,"Turiani, Auguste",Opel Ascona,MC,NA,NA,NA,NA,unknown
+NA,37,Cavicchi,Fiat 131,NA,Dsl,NA,NA,NA,unknown
+NA,42,"Pallanca, Jean",Porsche 911,MC,G3,NA,NA,post-event,unknown
+NA,47,Gaiotto,Opel Ascona,NA,NA,NA,NA,NA,unknown
+NA,48,Helmiger,Ford Escort,NA,NA,NA,NA,NA,unknown
+NA,49,Oddo,Alfa Romeo,NA,NA,NA,NA,NA,unknown
+NA,52,"Ricci, Lorenzo",Opel Kadett,IT,NA,NA,NA,NA,unknown
+NA,54,"Cavini, M.",Opel Ascona,NA,NA,NA,NA,NA,unknown
+NA,55,Rondinone,Opel Kadett,NA,NA,NA,NA,NA,unknown
+NA,57,Camon,Porsche,NA,NA,NA,NA,NA,unknown
+NA,59,Diba,Volkswagen Golf,NA,NA,NA,NA,NA,unknown
+NA,70,Beviacqua,Fiat Ritmo,NA,NA,NA,NA,NA,unknown
+NA,72,Rostagni,Renault-Alpine,NA,NA,NA,NA,NA,unknown
+NA,73,Ravaioli,Alfa Romeo Alfasud,NA,NA,NA,NA,NA,unknown
+NA,74,Ferraris,Alfa Romeo Alfasud,NA,NA,NA,NA,NA,unknown
+NA,75,Giamberardino,Fiat 128,NA,NA,NA,NA,NA,unknown
+NA,76,"Girola, R.",Ford Escort,NA,NA,NA,NA,NA,unknown
+NA,78,"Lambardi, F.",Alfa Romeo Alfasud,NA,NA,NA,NA,NA,unknown
+NA,79,Casadei,Simca Rallye 2,NA,NA,NA,NA,NA,unknown
+NA,80,Campanelli,Citroen GS,NA,NA,NA,NA,NA,unknown
+NA,81,Waser,Volkswagen Golf,NA,NA,NA,NA,NA,unknown
+NA,82,Calore,Volkswagen Golf,NA,NA,NA,NA,NA,unknown
+NA,83,'Tvchoi',Peugeot 104,NA,NA,NA,NA,NA,unknown
+NA,85,Bruno,Talbot Sunbeam,NA,NA,NA,NA,NA,unknown
+NA,86,Malacarne,Talbot Sunbeam,NA,NA,NA,NA,NA,unknown
+NA,87,Rebuli,Talbot Sunbeam,NA,NA,NA,NA,NA,unknown
+NA,89,Melotto,Fiat 127,NA,NA,NA,NA,NA,unknown
+NA,90,"Ferraro, Pasquale",Autobianchi A112,IT,NA,NA,NA,NA,unknown
+NA,91,Biolzi,Fiat 128,NA,NA,NA,NA,NA,unknown
+NA,92,Benazzo,Fiat 127,NA,NA,NA,NA,NA,unknown
+NA,93,Galetto,Fiat 500 Sport,IT,NA,NA,NA,NA,unknown
+NA,94,de Filippi,Morris Mini,NA,NA,NA,NA,NA,unknown
+NA,95,Elena,Simca Rallye 2,NA,NA,NA,NA,NA,unknown
+NA,96,Rossi,Fiat 128,NA,NA,NA,NA,NA,unknown
+NA,97,Benza,Fiat 127,NA,NA,NA,NA,NA,unknown
+NA,101,Garibaldi,Fiat 127,NA,NA,NA,NA,NA,unknown
+NA,102,Cafissi,Peugeot 104,NA,NA,NA,NA,NA,unknown

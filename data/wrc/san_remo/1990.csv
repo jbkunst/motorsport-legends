@@ -1,0 +1,24 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,11,"Auriol, Didier",Lancia Delta HF Integrale 16v,FR,A8,7h 30m 38s,NA,NA,NA
+2,6,"Kankkunen, Juha",Lancia Delta HF Integrale 16v,FI,A,+45s,NA,NA,NA
+3,2,"Sainz, Carlos",Toyota Celica GT-4 (ST165),ES,A,+1m 45s,NA,NA,NA
+4,4,"Cerrato, Dario",Lancia Delta HF Integrale 16v,IT,A,+2m 47s,NA,NA,NA
+5,21,"Liatti, Piero",Lancia Delta Integrale,IT,A,+6m 14s,NA,NA,NA
+6,7,"Ericsson, Mikael",Toyota Celica GT-4 (ST165),SE,A,+6m 34s,NA,NA,NA
+7,27,"Deila, Piergiorgio",Lancia Delta Integrale,IT,A,+7m 11s,NA,NA,NA
+8,8,"Fiorio, Alessandro",Lancia Delta HF Integrale 16v,IT,A,+7m 45s,NA,NA,NA
+9,22,"Grossi, Giuseppe",Lancia Delta Integrale,IT,A,+26m 19s,NA,NA,NA
+10,30,"Fassina, Alessandro",Ford Sierra Cosworth 4x4,IT,N,+27m 35s,NA,NA,NA
+11,5,"Airikkala, Pentti",Ford Sierra Cosworth 4x4,FI,A,+28m 05s,NA,NA,NA
+13,25,"Makinen, Tommi",Mitsubishi Galant VR-4,FI,N,NA,NA,NA,NA
+15,15,"Trelles, Gustavo",Lancia Delta HF Integrale 16v,UY,N,+36m 02s,NA,NA,NA
+17,16,"Oreille, Alain",Renault 5 GT Turbo,FR,N,+49m 15s,NA,NA,NA
+18,24,"Aitken-Walker, Louise",Opel Kadett GSi,GB,A,+50m 03s,NA,NA,NA
+NA,1,"Biasion, Massimo",Lancia Delta HF Integrale 16v,IT,A,NA,NA,SS27,accident
+NA,3,"Alen, Markku",Subaru Legacy RS,FI,A,NA,NA,SS7,transmission
+NA,9,"Chatriot, Francois",Subaru Legacy RS,FR,A,NA,NA,SS5,clutch
+NA,10,"Wilson, Malcolm",Ford Sierra Cosworth 4x4,GB,A,NA,NA,SS25,accident
+NA,14,"de Mevius, Gregoire",Mazda 323,BE,N,NA,NA,SS6,accident
+NA,19,"Schwarz, Armin",Toyota Celica GT-4 (ST165),DE,A,NA,NA,SS29,accident
+NA,20,"Cunico, Gianfranco",Ford Sierra Cosworth 4x4,IT,A,NA,NA,SS5,throttle cable
+NA,23,"de Martini, Paola",Audi 90 quattro,IT,A,NA,NA,SS3,electrics

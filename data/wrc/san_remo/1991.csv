@@ -1,0 +1,18 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Auriol, Didier",Lancia Delta HF Integrale 16v,FR,A8,6h 34m 26s,NA,NA,NA
+2,9,"Biasion, Massimo",Lancia Delta HF Integrale 16v,IT,A,+2m 50s,NA,NA,NA
+3,7,"Cerrato, Dario",Lancia Delta HF Integrale 16v,IT,A,+6m 41s,NA,NA,NA
+4,6,"Delecour, Francois",Ford Sierra Cosworth 4x4,FR,A,+10m 15s,NA,NA,NA
+5,19,"Aghini, Andrea",Lancia Delta HF Integrale 16v,IT,A,+12m 46s,NA,NA,NA
+6,2,"Sainz, Carlos",Toyota Celica GT-4 (ST165),ES,A,+13m 07s,NA,NA,NA
+7,12,"Liatti, Piero",Lancia Delta HF Integrale 16v,IT,A,+13m 46s,NA,NA,NA
+8,5,"Schwarz, Armin",Toyota Celica GT-4 (ST165),DE,A,+14m 00s,NA,NA,NA
+9,3,"Fiorio, Alessandro",Ford Sierra Cosworth 4x4,IT,A,+15m 46s,NA,NA,NA
+10,11,"Wilson, Malcolm",Ford Sierra Cosworth 4x4,GB,A,+20m 52s,NA,NA,NA
+13,29,"Manfrinato, Giovanni",Ford Sierra Cosworth 4x4,IT,N,+47m 20s,NA,NA,NA
+30,82,"Zumelli, Luisa",Peugeot 205 GTI,IT,N,+1h 44m 24s,NA,NA,NA
+NA,4,"Kankkunen, Juha",Lancia Delta HF Integrale 16v,FI,A,NA,NA,SS2,steering
+NA,8,"Cunico, Gianfranco",Ford Sierra Cosworth 4x4,IT,A,NA,NA,SS11,accident
+NA,10,"Trelles, Gustavo",Lancia Delta HF Integrale 16v,UY,A,NA,NA,SS16,engine
+NA,21,"Deila, Piergiorgio",Lancia Delta HF Integrale 16v,IT,A,NA,NA,SS9,accident
+NA,22,"Bentivogli, Bruno",Ford Sierra Cosworth 4x4,IT,N,NA,NA,SS18,accident

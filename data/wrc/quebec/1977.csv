@@ -1,0 +1,22 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,8,"Salonen, Timo",Fiat 131 Abarth,FI,G4,5h 13m 54s,NA,NA,NA
+2,1,"Lampinen, Simo",Fiat 131 Abarth,FI,G4,+4m 37s,NA,NA,NA
+3,3,"Clark, Roger",Ford Escort RS,GB,G4,+7m 02s,NA,NA,NA
+4,10,"Buffum, John",Triumph TR7,US,G4,+42m 00s,NA,NA,NA
+5,11,"Perusse, Jean-Paul",Saab 99EMS,CA,G4,+57m 05s,NA,NA,NA
+6,38,"Shinozuka, Kenjiro",Mitsubishi Colt Lancer,JP,G2,+58m 33s,NA,NA,NA
+7,14,"Blok, Hendrik",Mitsubishi Colt Lancer,US,G4,+1h 03m 00s,NA,NA,NA
+8,9,"Boyce, Walter",Triumph TR7,CA,G4,+1h 35m 52s,NA,NA,NA
+9,45,"Bourgeoys, Paul",Datsun 510,CA,G1,+1h 44m 08s,NA,NA,NA
+10,15,"Garside, Bob",Toyota Corolla,CA,G2,+1h 56m 34s,NA,NA,NA
+11,NA,O'Connor,Mitsubishi Colt Lancer,NA,NA,+2h 00m 56s,NA,NA,NA
+12,20,"Gagnon, A.",Toyota Celica,NA,G2,+2h 13m 29s,NA,NA,NA
+13,NA,Thomas,Datsun 510,NA,NA,+2h 31m 46s,NA,NA,NA
+14,NA,Mistry,Dodge Colt,NA,NA,+3h 03m 55s,NA,NA,NA
+15,NA,Vernon,Volvo,NA,NA,+3h 17m 14s,NA,NA,NA
+NA,4,"Rohrl, Walter",Fiat 131 Abarth,DE,G4,NA,NA,SS11,engine
+NA,5,"Alen, Markku",Fiat 131 Abarth,FI,G4,NA,NA,SS11,engine
+NA,6,"Vatanen, Ari",Ford Escort RS1800,FI,G4,NA,NA,SS14,ignition
+NA,7,"Makinen, Timo",Fiat 131 Abarth,FI,G4,NA,NA,SS5,engine
+NA,13,"Heinonen, Taisto",Toyota Celica,FI,G2,NA,NA,SS8,front suspension
+NA,NA,"Skowronnek, Burckhard",Datsun 510,CA,NA,NA,NA,SS10,unknown

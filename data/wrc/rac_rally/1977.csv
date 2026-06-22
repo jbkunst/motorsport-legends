@@ -1,0 +1,111 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,5,"Waldegard, Bjorn",Ford Escort RS1800,SE,G4,8h 21m 26s,NA,NA,NA
+2,8,"Mikkola, Hannu",Toyota Celica,FI,G4,+2m 23s,NA,NA,NA
+3,23,"Brookes, Russell",Ford Escort RS1800,GB,G4,+10m 29s,NA,NA,NA
+4,1,"Clark, Roger",Ford Escort RS1800,GB,G4,+14m 55s,NA,NA,NA
+5,26,"Dawson, Andy",Ford Escort RS1800,GB,G4,+18m 20s,NA,NA,NA
+6,20,"Hamalainen, Kyosti",Ford Escort RS1800,FI,G4,+20m 51s,NA,NA,NA
+7,13,"Lampinen, Simo",Fiat 131 Abarth,FI,G4,+22m 58s,NA,NA,NA
+8,24,"Pond, Tony",Triumph TR7,GB,G4,+23m 38s,NA,NA,NA
+9,11,"Eklund, Per",Saab 99EMS,SE,G4,+24m 36s,NA,NA,NA
+10,16,"Danielsson, Bror",Opel Kadett GT/E,SE,G4,+24m 56s,NA,NA,NA
+11,6,"Makinen, Timo",Fiat 131 Abarth,FI,G4,+33m 59s,NA,NA,NA
+12,43,"Wilson, Malcolm",Ford Escort RS2000,GB,G1,+36m 40s,NA,NA,NA
+13,40,"Elsmore, Graham",Ford Escort RS2000,GB,G1,+38m 00s,NA,NA,NA
+14,14,"Walfridsson, Per-Inge",Toyota Celica,SE,G4,+38m 12s,NA,NA,NA
+15,19,"Kullang, Anders",Opel Kadett GT/E,SE,G2,+41m 24s,NA,NA,NA
+16,4,"Airikkala, Pentti",Vauxhall Chevette 2300,FI,G4,+42m 06s,NA,NA,NA
+17,17,"Bacchelli, Fulvio",Fiat 131 Abarth,IT,G4,+52m 56s,NA,NA,NA
+18,25,"Sclater, Chris",Vauxhall Chevette 2300,GB,G4,+53m 27s,NA,NA,NA
+19,70,"Thompson, David",Ford Escort RS1800,GB,G4,+54m 41s,NA,NA,NA
+20,53,"Hainbach, Reinhard",Ford Escort RS1800,DE,G4,+56m 15s,NA,NA,NA
+21,31,"Millen, Rod",Mazda RX3,NZ,G4,+1h 03m 32s,NA,NA,NA
+22,34,"Faulkner, Paul",Ford Escort RS1800,GB,G4,+1h 07m 41s,NA,NA,NA
+23,55,"Haugland, John",Skoda 130,NO,G2,+1h 08m 40s,NA,NA,NA
+24,62,"Zapadlo, Miloslav",Skoda 130,CS,G2,+1h 09m 11s,NA,NA,NA
+25,7,"Munari, Sandro",Lancia Stratos HF,IT,G4,+1h 11m 51s,NA,NA,NA
+26,74,"Colsoul, Guy",Opel Kadett GT/E,BE,G1,+1h 14m 34s,NA,NA,NA
+27,60,"Henderson, Fred",Toyota Corolla,GB,G2,+1h 14m 37s,NA,NA,NA
+28,69,"Johansson, Matti",Ford Escort RS1800,FI,G4,+1h 16m 47s,NA,NA,NA
+29,111,"Carter, Alan",Ford Escort RS2000,NZ,G1,+1h 17m 08s,NA,NA,NA
+30,118,"Jones, David",Ford Escort RS2000,GB,G1,+1h 19m 02s,NA,NA,NA
+31,89,"Lobb, Geoff",Opel Kadett GT/E,GB,G4,+1h 26m 10s,NA,NA,NA
+32,117,"Grundel, Karl",Saab 99EMS,SE,G2,+1h 34m 23s,NA,NA,NA
+33,120,"Cleary, John",Ford Escort RS2000,GB,G1,+1h 40m 10s,NA,NA,NA
+34,170,"Kristiansen, Jens-Ole",Opel Kadett GT/E,DK,NA,+1h 40m 56s,NA,NA,NA
+35,137,"Helle, Holger",Ford Escort,DK,G4,+1h 41m 50s,NA,NA,NA
+36,79,"Kvaizar, Svatopluk",Skoda 130,CS,G2,+1h 42m 38s,NA,NA,NA
+37,57,"Saaristo, Markku",Triumph TR7,FI,G4,+1h 46m 31s,NA,NA,NA
+38,NA,"Wooley, Melwyn",Ford Escort,GB,NA,+1h 56m 36s,NA,NA,NA
+39,115,"Golding, Charles",Triumph Dolomite Sprint,GB,G2,+1h 58m 40s,NA,NA,NA
+40,112,"Sundling, Lars",Honda Civic,NO,G1,+2h 00m 16s,NA,NA,NA
+41,NA,"Giese, Wolf",Opel Kadett,DE,NA,+2h 02m 46s,NA,NA,NA
+42,110,"Childs, David",Ford Escort RS1800,GB,G2,+2h 05m 16s,NA,NA,NA
+43,177,"Bonet, Pedro",Ford Escort RS1600,ES,NA,+2h 06m 12s,NA,NA,NA
+44,83,"Robbins, David",Ford Escort RS2000,GB,G1,+2h 07m 27s,NA,NA,NA
+45,78,"Glad, Jan",Opel Kadett GT/E,DK,G4,+2h 10m 22s,NA,NA,NA
+46,162,"Rhodes, John",Ford Escort,GB,NA,+2h 15m 06s,NA,NA,NA
+47,65,"Robinson, Jill",Ford Escort RS2000,GB,G4,+2h 18m 25s,NA,NA,NA
+48,155,"Parsons, John",Chrysler Avenger,GB,G1,+2h 18m 57s,NA,NA,NA
+49,169,"Pegoix, Jean-Luc",Peugeot 504,FR,NA,+2h 27m 48s,NA,NA,NA
+50,164,"Blomberg, Anders",Opel Kadett GT/E,NO,G1,+2h 32m 17s,NA,NA,NA
+51,160,"Burch, Paul",Chrysler Avenger,GB,G1,+2h 34m 02s,NA,NA,NA
+52,176,"Wunsch, Tilo",Honda Civic,DE,G1,+2h 34m 24s,NA,NA,NA
+53,87,"Beeby, Richard",Ford Escort RS1800,GB,G1,NA,NA,NA,NA
+54,161,"Therond, Roland",Simca Matra Bagheera,FR,NA,+2h 46m 18s,NA,NA,NA
+55,NA,"Warkup, Geoff",Lada 1200,GB,NA,+2h 48m 43s,NA,NA,NA
+56,93,"Ernst, Hubertus",Volkswagen Golf GTi,DE,G2,+2h 53m 50s,NA,NA,NA
+57,127,"Restellini, Dominique",Peugeot 504,FR,G2,+3h 01m 05s,NA,NA,NA
+58,166,"Jarvis, Gordon",Sunbeam Rapier,GB,G2,+3h 01m 24s,NA,NA,NA
+59,158,"Herrmann, Wilfried",Lada 1500,DE,G2,+3h 02m 30s,NA,NA,NA
+60,172,"Heimburger, Dieter",Wartburg 353,DD,NA,+3h 08m 34s,NA,NA,NA
+61,98,"Winther, Jens",BMW 320,DK,G2,+3h 09m 43s,NA,NA,NA
+62,175,"Galle, Benoit",Datsun,BE,G2,+3h 14m 44s,NA,NA,NA
+63,126,"Darbyshire, Philip",Triumph Dolomite Sprint,GB,G1,+3h 24m 05s,NA,NA,NA
+64,171,"Jensen, Falko",Simca 1100,DE,NA,+3h 34m 04s,NA,NA,NA
+65,163,"Hartwich, Erwin",Wartburg 353,DD,NA,+3h 40m 47s,NA,NA,NA
+66,180,"Gobert, Philippe",Fiat 124,FR,G2,+4h 05m 14s,NA,NA,NA
+67,205,"Hancock, Roger",Ford Capri,GB,NA,+4h 50m 55s,NA,NA,NA
+NA,2,"Blomqvist, Stig",Saab 99EMS,SE,G4,NA,NA,SS35,transmission
+NA,3,"Alen, Markku",Fiat 131 Abarth,FI,G4,NA,NA,SS23,engine
+NA,9,"Vatanen, Ari",Ford Escort RS1800,FI,G4,NA,NA,SS29,driver ill
+NA,10,"Salonen, Timo",Fiat 131 Abarth,FI,G4,NA,NA,SS44,accident
+NA,12,"Rohrl, Walter",Opel Kadett GT/E,DE,G2,NA,NA,SS37,engine
+NA,15,"Verini, Maurizio",Fiat 131 Abarth,IT,G4,NA,NA,SS42,accident
+NA,18,"Therier, Jean-Luc",Toyota Celica,FR,G4,NA,NA,SS52,accident
+NA,21,"Cowan, Andrew",Chrysler Avenger,GB,G4,NA,NA,SS34,engine
+NA,27,"Asterhag, Leif",Toyota Celica,SE,G4,NA,NA,SS26,engine
+NA,28,"Taylor, John",Ford Escort RS1800,GB,G4,NA,NA,SS58,distributor
+NA,29,"Culcheth, Brian",Triumph TR7,GB,G4,NA,NA,SS18,wheel studs
+NA,30,"Coleman, Billy",Lancia Stratos HF,IE,G4,NA,NA,SS3,engine
+NA,33,"Rockey, Nigel",Ford Escort RS1800,GB,G4,NA,NA,SS37,steering
+NA,35,"Drummond, Tony",Ford Escort RS1800,GB,G4,NA,NA,SS20,alternator
+NA,36,"Fowkes, Anthony",Ford Escort RS1800,GB,G4,NA,NA,SS12,flywheel
+NA,38,"Ragnotti, Jean",Renault 5 Alpine,FR,G2,NA,NA,SS34,driveshaft
+NA,39,"McRae, Jimmy",Vauxhall Magnum,GB,G1,NA,NA,SS48,clutch
+NA,41,"Hettema, Jan",Ford Escort RS1800,ZA,G4,NA,NA,SS8,differential
+NA,42,"Ryan, Patrick",Triumph TR7,GB,G1,NA,NA,SS57,overheating
+NA,44,"Sparrow, Will",Chrysler Avenger,GB,G1,NA,NA,SS37,differential
+NA,45,"Hill, George",Vauxhall Chevette,GB,G4,NA,NA,SS19,water pump
+NA,46,"Carlsson, Lars",Opel Kadett GT/E,SE,G1,NA,NA,after SS19,road accident
+NA,47,"Eyre-Maunsell, Robin",Chrysler Avenger,GB,G4,NA,NA,SS12,valve
+NA,48,"Kaby, Terry",Triumph Dolomite Sprint,GB,G1,NA,NA,final TC,OTL
+NA,49,"Borjesson, Ruben",BMW 320,SE,G1,NA,NA,SS4,gearbox
+NA,51,"Inurrieta, Enrique",Ford Escort RS2000,ES,G1,NA,NA,SS55,fire
+NA,52,"Waugh, Gavin",Chrysler Avenger,GB,G1,NA,NA,SS1,engine
+NA,56,"Simpson, Geoff",Ford Escort RS1800,GB,G4,NA,NA,Leg 3,head gasket
+NA,59,"Nicolas, Jean-Pierre",Renault 5 Alpine,FR,G2,NA,NA,SS65,driveshaft
+NA,67,"Wood, Charles",Chrysler Avenger,GB,G1,NA,NA,Leg 1,engine
+NA,73,"Lord, Christopher",Vauxhall Magnum,GB,G2,NA,NA,SS5,electrics
+NA,75,"Jackson, Michael",Ford Escort,GB,G2,NA,NA,SS48,halfshaft
+NA,77,"Field, Chris",Chrysler Avenger,GB,G1,NA,NA,SS44,oil pump
+NA,85,"Ward, Steve",Ford Escort RS1800,GB,G4,NA,NA,NA,head gasket
+NA,88,"Melin, Kjell",Volkswagen Golf GTi,SE,G1,NA,NA,ca. SS20,brakes
+NA,92,"Garvik, Arne",Honda Civic,NO,G2,NA,NA,NA,unknown
+NA,94,"Holgersen, Sigmund",Honda Civic,NO,G1,NA,NA,NA,electrics
+NA,95,"Smith, Steve",Ford Escort RS2000,GB,G1,NA,NA,SS7 or SS8,engine
+NA,106,"van der Marel, Jan",Opel Kadett GT/E,NL,G4,NA,NA,NA,engine
+NA,109,"Blomqvist, Gert",DAF 66,SE,G2,NA,NA,NA,water pump
+NA,130,"Takehira, Motonobu",Toyota Corolla,JP,G2,NA,NA,NA,road accident
+NA,149,"Haslegrave, James",Chrysler Avenger,GB,G1,NA,NA,NA,off road
+NA,NA,"Didlick, Tony",Skoda,GB,G1,NA,NA,NA,gearbox

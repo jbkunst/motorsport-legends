@@ -1,0 +1,22 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,2,"Waldegard, Bjorn",Ford Escort RS1800,SE,G4,3h 35m 32s,NA,NA,NA
+2,3,"Salonen, Timo",Datsun 160J,FI,G2,+38s,NA,NA,NA
+3,1,"Vatanen, Ari",Ford Escort RS,FI,G4,+6m 18s,NA,NA,NA
+4,20,"Dawson, Andy",Datsun 160J,GB,G2,+15m 23s,NA,NA,NA
+5,4,"Heinonen, Taisto",Toyota Celica,FI,G2,+20m 49s,NA,NA,NA
+6,5,"Blok, Hendrik",Mitsubishi Mirage,US,G1,+1h 06m 24s,NA,NA,NA
+7,39,"Swayze, Jack",Datsun 160J,CA,G1,+1h 14m 55s,NA,NA,NA
+8,30,"Laurent, Claude",Peugeot 104,FR,G2,+1h 17m 03s,NA,NA,NA
+9,11,"Ouimet, Nicole",Datsun 510,CA,G2,+1h 18m 33s,NA,NA,NA
+10,35,"Bourgeoys, Paul",Mitsubishi Colt,CA,G1,+1h 30m 29s,NA,NA,NA
+11,NA,Pesek,Datsun,NA,NA,+1h 31m 28s,NA,NA,NA
+12,NA,St Laurent,Toyota Celica,NA,NA,+1h 34m 53s,NA,NA,NA
+13,NA,Lessard,Toyota Celica,NA,NA,+1h 46m 15s,NA,NA,NA
+NA,6,"Perusse, Jean-Paul",Renault 5,CA,G2,NA,NA,SS3,accident
+NA,9,"Luc, Jean-Paul",Citroen CX2400,FR,G2,NA,NA,SS4,accident
+NA,15,"Skowronnek, Burckhard",Datsun 510,CA,NA,NA,NA,NA,off road
+NA,24,"Millen, Rod",Datsun 160J,NZ,G2,NA,NA,SS26,propeller shaft
+NA,33,"Nixon, John",Toyota Celica,CA,G1,NA,NA,SS12,differential
+NA,NA,Mignot,Mitsubishi Colt,NA,NA,NA,NA,NA,NA
+NA,NA,Taylor,Datsun,NA,NA,NA,NA,Leg 3,unknown
+NA,NA,"Woodner, Jon",Triumph TR7,US,G4,NA,NA,NA,engine

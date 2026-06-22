@@ -1,0 +1,29 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,9,"Blomqvist, Stig",Audi quattro,SE,G4,8h 37m 47s,NA,NA,NA
+2,4,"Mikkola, Hannu",Audi quattro,FI,G4,+2m 16s,NA,NA,NA
+3,3,"Rohrl, Walter",Opel Ascona 400,DE,G4,+2m 27s,NA,NA,NA
+4,1,"Mouton, Michele",Audi quattro,FR,G4,+3m 12s,NA,NA,NA
+5,6,"Toivonen, Henri",Opel Ascona 400,FI,G4,+3m 56s,NA,NA,NA
+6,12,"Cinotto, Michele",Audi quattro,IT,G4,+18m 04s,NA,NA,NA
+7,8,"Kullang, Anders",Mitsubishi Lancer 2000 Turbo,SE,G4,+24m 22s,NA,NA,NA
+8,18,"Biasion, Massimo",Opel Ascona 400,IT,G4,+48m 03s,NA,NA,NA
+9,35,"Lupidi, Livio",Renault 5 Turbo,IT,G4,+1h 02m 16s,NA,NA,NA
+10,75,"Caneva, Vittorio",Citroen Visa,IT,B,+1h 26m 01s,NA,NA,NA
+11,24,"Carrotta, Alberto",Ford Escort XR3,IT,N,+1h 29m 23s,NA,NA,NA
+12,15,"Cunico, Gianfranco",Fiat Ritmo,IT,G2,NA,NA,NA,NA
+14,40,"del Zoppo, Giovanni",Peugeot 505 Diesel Turbo,IT,A,+2h 00m 06s,NA,NA,NA
+18,102,"Malacarne, Sergio",Fiat 127,IT,G2,+3h 03m 05s,NA,NA,NA
+NA,2,"Alen, Markku",Lancia Rally 037,FI,B,NA,NA,SS39,engine
+NA,5,"Eklund, Per",Volkswagen Golf,SE,G4,NA,NA,SS40,clutch
+NA,7,"Wittman, Franz",Audi quattro,AT,G4,NA,NA,SS1,accident
+NA,10,"Tabaton, Fabrizio",Lancia Rally 037,IT,B,NA,NA,SS1,accident
+NA,11,"Ormezzano, Federico",Talbot Sunbeam,IT,G2,NA,NA,SS34,halfshaft
+NA,14,"Pregliasco, Mauro",Ford Escort XR3,IT,N,NA,NA,SS3,brakes
+NA,16,"Demuth, Harald",Audi quattro,DE,G4,NA,NA,SS49,engine
+NA,19,"Tognana, Antonio",Ferrari 308GTB,IT,G4,NA,NA,SS27,engine
+NA,20,"Bacchelli, Fulvio",Lancia Rally 037,IT,B,NA,NA,SS5,accident
+NA,21,"Cerrato, Dario",Opel Ascona 400,IT,G4,NA,NA,SS21,fire
+NA,22,"Capone, Carlo",Fiat Ritmo,IT,A,NA,NA,SS22,accident
+NA,23,"Verini, Maurizio",Citroen Visa,IT,B,NA,NA,SS20,engine
+NA,28,"Cambiaghi, Roberto",Porsche 911,IT,G4,NA,NA,SS2,gearbox
+NA,36,"Noberasco, Gabriele",Fiat 131 Abarth,IT,G4,NA,NA,SS45,accident

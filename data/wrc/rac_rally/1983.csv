@@ -1,0 +1,128 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"Blomqvist, Stig",Audi quattro A2,SE,B12,8h 50m 28s,NA,NA,NA
+2,1,"Mikkola, Hannu",Audi quattro A2,FI,B12,+9m 53s,NA,NA,NA
+3,8,"McRae, Jimmy",Opel Manta 400,GB,B12,+21m 51s,NA,NA,NA
+4,10,"Lampi, Lasse",Audi quattro A2,FI,B12,+26m 29s,NA,NA,NA
+5,14,"Brookes, Russell",Vauxhall Chevette 2300HSR,GB,B12,+28m 33s,NA,NA,NA
+6,15,"Buffum, John",Audi quattro A2,US,B12,+30m 48s,NA,NA,NA
+7,16,"Kankkunen, Juha",Toyota Celica Twincam Turbo,FI,B12,+41m 21s,NA,NA,NA
+8,19,"Grundel, Karl",Volkswagen Golf GTi,SE,A7,+47m 52s,NA,NA,NA
+9,37,"Sundstrom, Mikael",Opel Ascona,FI,A7,+51m 50s,NA,NA,NA
+10,31,"Jonsson, Mats",Opel Ascona,SE,G2,+54m 39s,NA,NA,NA
+11,70,"Holmbom, Mats",Opel Kadett GT/E,SE,A7,+55m 53s,NA,NA,NA
+12,41,"Geitel, Peter",Nissan 240 RS,FI,B10,+58m 37s,NA,NA,NA
+13,20,"Wilson, Malcolm",Ford Escort RS1600,GB,A6,+1h 03m 38s,NA,NA,NA
+14,38,"Chomat, Maurice",Citroen Visa,FR,B9,+1h 05m 04s,NA,NA,NA
+15,57,"Keating, David",Talbot Sunbeam,GB,B10,+1h 07m 42s,NA,NA,NA
+16,49,"Andervang, Stig",Ford Escort RS,SE,B11,+1h 12m 14s,NA,NA,NA
+17,52,"Johnston, Alan",Toyota Corolla,GB,A5,+1h 14m 28s,NA,NA,NA
+18,36,"Rio, Christian",Citroen Visa,FR,B9,+1h 15m 29s,NA,NA,NA
+19,54,"Smith, Clinton",Opel Ascona 400,GB,B10,+1h 24m 15s,NA,NA,NA
+20,50,"Sutherland, James",Toyota Corolla,GB,A5,+1h 27m 59s,NA,NA,NA
+21,39,"Niemi, Jari",Opel Ascona,FI,A6,+1h 30m 27s,NA,NA,NA
+22,48,"Short, Colin",Ford Escort RS2000,GB,B9,+1h 31m 26s,NA,NA,NA
+23,71,"Lovell, Mark",Ford Escort RS1600,GB,A6,+1h 31m 52s,NA,NA,NA
+24,64,"Gooding, Russell",Vauxhall Chevette 2300,GB,G4,+1h 35m 46s,NA,NA,NA
+25,27,"Krecek, Ladislav",Skoda 120,CS,A5,+1h 38m 43s,NA,NA,NA
+26,26,"Haugland, John",Skoda 120,NO,A5,+1h 39m 58s,NA,NA,NA
+27,74,"Wiggins, Brian",Vauxhall Astra GT/E,GB,A6,+1h 41m 38s,NA,NA,NA
+28,146,"Ohu, Heiki",Lada 1600,SU,B9,+1h 41m 58s,NA,NA,NA
+29,58,"Jackson, Alex",Opel Manta 400,GB,B10,+1h 46m 04s,NA,NA,NA
+30,29,"Kvaizar, Svatopluk",Skoda 120,CS,A5,+1h 49m 44s,NA,NA,NA
+31,100,"Hunt, Steve",Ford Escort RS,GB,B9,+1h 49m 55s,NA,NA,NA
+32,75,"Cox, Gavin",Opel Manta GT/E,GB,A6,+1h 51m 46s,NA,NA,NA
+33,72,"Kottulinsky, Susanne",Opel Ascona,SE,A7,+1h 54m 22s,NA,NA,NA
+34,127,"Katsuda, Teruo",Toyota Corolla,JP,G2,+1h 59m 45s,NA,NA,NA
+35,110,"Jeffs, Robert",Talbot Sunbeam,GB,A5,+2h 01m 18s,NA,NA,NA
+36,147,"Moskovski, Viktor",Lada 1600,SU,G2,+2h 01m 21s,NA,NA,NA
+37,47,"Lareppe, Jose",Opel Kadett GT/E,BE,G2,+2h 04m 43s,NA,NA,NA
+38,102,"de la Tour, Roland",Citroen Visa,FR,B9,+2h 05m 01s,NA,NA,NA
+39,120,"Sugiyama, Masami",Isuzu Aska Turbo,JP,A7,+2h 08m 00s,NA,NA,NA
+40,145,"Nakamoto, Michio",Nissan Sunny,JP,B10,+2h 13m 19s,NA,NA,NA
+41,108,"Hendrickx, Guy",Opel Manta,BE,A7,+2h 13m 46s,NA,NA,NA
+42,134,"Hooper, Richard",Ford Escort RS2000,GB,G2,+2h 16m 18s,NA,NA,NA
+43,135,"Roderick, Julian",Ford Escort RS2000,GB,G2,+2h 21m 56s,NA,NA,NA
+44,131,"Davidson, Geoff",Ford Escort RS2000,GB,G2,+2h 26m 48s,NA,NA,NA
+45,95,"Hill, Terry",Vauxhall Astra,GB,A4,+2h 28m 46s,NA,NA,NA
+46,53,"Hauser, Bernard",Peugeot 104,FR,A,+2h 34m 41s,NA,NA,NA
+47,83,"Wadman, Basil",Peugeot 505,GB,A6,+2h 34m 58s,NA,NA,NA
+48,112,"Smalley, Andrew",Rover 3500,GB,A7,+2h 35m 40s,NA,NA,NA
+49,98,"Warkup, Geoff",Lada 2105,GB,B9,+2h 38m 12s,NA,NA,NA
+50,86,"Menzies, Roderick",Ford Escort RS2000,GB,A6,+2h 42m 51s,NA,NA,NA
+51,60,"Barrell, Colin",Talbot Sunbeam,GB,B10,+2h 44m 47s,NA,NA,NA
+52,137,"Cooper, Alec",Fiat Ritmo,GB,N2,+2h 53m 40s,NA,NA,NA
+53,92,"Easton, Steven",Vauxhall Astra,GB,A4,+2h 55m 56s,NA,NA,NA
+54,139,"Scriven, Keith",Ford Fiesta,GB,G2,+3h 13m 52s,NA,NA,NA
+55,107,"Featherman, Philip",Vauxhall Chevette 2300HSR,GB,G4,+3h 25m 52s,NA,NA,NA
+56,122,"Mowles, Philip",Talbot Sunbeam,GB,A5,+3h 29m 27s,NA,NA,NA
+57,141,"Douglas, William",Triumph Dolomite Sprint,GB,G2,+3h 31m 34s,NA,NA,NA
+58,93,"Douce, Terry",Lada,GB,A4,+3h 43m 44s,NA,NA,NA
+59,96,"Rawcliffe, Bruce",Opel Kadett,GB,A4,+4h 12m 20s,NA,NA,NA
+60,123,"Stevens, John",Mazda RX7,GB,A7,+4h 16m 35s,NA,NA,NA
+61,136,"Andersson, Patrick",Ford Escort XR3,GB,N2,+4h 22m 37s,NA,NA,NA
+NA,2,"Toivonen, Henri",Opel Manta 400,FI,B12,NA,NA,SS32,engine
+NA,4,"Eklund, Per",Toyota Celica Twincam Turbo,SE,B12,NA,NA,SS23,engine
+NA,5,"Mouton, Michele",Audi quattro A2,FR,B12,NA,NA,SS19,accident
+NA,6,"Vatanen, Ari",Opel Manta 400,FI,B12,NA,NA,SS20,head gasket
+NA,7,"Waldegard, Bjorn",Toyota Celica Twincam Turbo,SE,B12,NA,NA,SS32,accident
+NA,9,"Salonen, Timo",Nissan 240 RS,FI,B12,NA,NA,SS9,accident
+NA,13,"Duez, Marc",Opel Manta GT/E,BE,A7,NA,NA,SS5,engine
+NA,17,"Kaby, Terry",Vauxhall Chevette 2300HSR,GB,B12,NA,NA,SS41,accident
+NA,18,"Weidner, Darryl",Audi quattro A2,GB,B12,NA,NA,SS52,fire
+NA,22,"Aitken, Louise",Ford Escort RS,GB,A6,NA,NA,SS36,distributor
+NA,23,"Laine, Antero",Audi quattro A2,FI,B12,NA,NA,SS40,fire
+NA,24,"Lord, Christopher",Mazda RX7,GB,A8,NA,NA,SS35,engine
+NA,25,"Woodner, Jon",Talbot Sunbeam,US,B12,NA,NA,SS14,accident
+NA,28,"Kojimoto, Juichi",Nissan,JP,B10,NA,NA,SS14,off road
+NA,30,"Ohba, Seisuke",Mitsubishi Lancer,JP,A7,NA,NA,SS16,unknown
+NA,32,"Toivonen, Harri",Mitsubishi Lancer 2000 Turbo,FI,G4,NA,NA,SS16,engine
+NA,34,"Weatherley, John",Citroen Visa,GB,B9,NA,NA,SS1,engine
+NA,35,"Stuart, Michael",FSO Polonez,GB,G2,NA,NA,SS16,flywheel
+NA,40,"Wambergue, Philippe",Citroen Visa,FR,B9,NA,NA,SS36,oil pressure
+NA,42,"Marshall, George",Vauxhall Chevette 2300HSR,GB,G4,NA,NA,SS38,rolled
+NA,43,"Torph, Lars-Erik",Opel Ascona,SE,G2,NA,NA,SS50,driveshaft
+NA,44,"Collins, Phil",Opel Manta 400,GB,B10,NA,NA,SS17,differential
+NA,46,"Hill, George",Vauxhall Chevette 2300HSR,GB,B10,NA,NA,SS49,unknown
+NA,55,"Sutherland, Alistair",Opel Ascona 400,GB,B10,NA,NA,SS22,sump
+NA,56,"Saarinen, Jouko",Audi quattro,FI,B10,NA,NA,SS21,unknown
+NA,59,"Truchet, Alain",Talbot Sunbeam,FR,B10,NA,NA,after SS12,unknown
+NA,61,"Sewell, Robert",Talbot Sunbeam,GB,B10,NA,NA,SS16,unknown
+NA,63,"Dorche, Christian",Citroen Visa,FR,B9,NA,NA,SS21,steering
+NA,65,"Fielding, Geoff",Ford Escort RS,GB,G4,NA,NA,SS43,head gasket
+NA,66,"Kawahari, Masaaki",Nissan,JP,G4,NA,NA,after SS9,OTL
+NA,67,"Eveson, Charles",Ford Escort RS,GB,G4,NA,NA,SS4,engine
+NA,68,"Golding, Charles",Triumph TR7,GB,G4,NA,NA,SS11,engine
+NA,69,"Dunham, Ian",Triumph TR7,GB,G4,NA,NA,after SS13,head gasket
+NA,76,"Jordache, Michael",Ford Escort RS2000,GB,A6,NA,NA,SS21,clutch
+NA,77,"Williams, David",Ford Escort RS2000,GB,A6,NA,NA,SS47,OTL
+NA,78,"Hameenniemi, Raimo",Opel Ascona,FI,A6,NA,NA,SS10,propshaft
+NA,79,"James, Andrew",Ford Escort RS2000,GB,A6,NA,NA,SS55,OTL
+NA,81,"Peacock, Alan",Ford Escort RS2000,GB,A6,NA,NA,SS38,off road
+NA,84,"Gill, John",Opel Kadett GT/E,GB,A6,NA,NA,SS57,halfshaft
+NA,88,"Hockly, Harry",Vauxhall Astra,GB,A4,NA,NA,SS26,engine
+NA,89,"Harrison, Ian",Vauxhall Astra,GB,A4,NA,NA,SS27,engine
+NA,90,"Morton, John",Vauxhall Astra,GB,A4,NA,NA,SS56,halfshaft
+NA,97,"Lapsley, Howard",Zastava 101,GB,A4,NA,NA,SS20,differential
+NA,99,"Coppier, Alain",Citroen Visa,FR,B,NA,NA,SS57,engine
+NA,101,"Thomas, Patrick",Citroen Visa,FR,B9,NA,NA,SS16,unknown
+NA,103,"Holland, Ray",Renault 5 Turbo,GB,B9,NA,NA,SS4,unknown
+NA,104,"Perrier, Dominique",Citroen Visa,FR,B9,NA,NA,SS44,unknown
+NA,105,"Kanao, Kosho",Toyota Celica,JP,B10,NA,NA,SS51,OTL
+NA,106,"Raspaud, Jacques",Renault 5 Turbo,FR,B9,NA,NA,SS5,head gasket
+NA,109,"Stewart, Geoffrey",Mazda 323,GB,A5,NA,NA,SS16,clutch
+NA,111,"Yunpuu, Vello",Lada 1600,SU,B9,NA,NA,SS24,unknown
+NA,113,"Valentine, Colin",Talbot Sunbeam,GB,A5,NA,NA,SS16,engine
+NA,114,"Palmby, David",Talbot Sunbeam,GB,A5,NA,NA,SS16,unknown
+NA,115,"Vukovich, Sergej",Lada 1600,SU,B9,NA,NA,after SS51,unknown
+NA,116,"Spencer, Clifford",Nissan Bluebird Turbo,GB,A7,NA,NA,SS10,OTL
+NA,117,"Ringenbach, Pierre",Opel Kadett GT/E,FR,A6,NA,NA,SS20,gearbox
+NA,118,"Barry, Redmond",Talbot Sunbeam,GB,A5,NA,NA,SS54,halfshaft
+NA,121,"Webster, Myra",Mitsubishi Colt Lancer,GB,A7,NA,NA,SS25,OTL
+NA,124,"Senior, Dean",Toyota,GB,G2,NA,NA,SS19,unknown
+NA,125,"Knudtzen, Wenche",Lada 1600,NO,G2,NA,NA,SS51,unknown
+NA,126,"Harrach, Ernst",Volkswagen 1302S,AT,G2,NA,NA,SS1,cooling
+NA,128,"Roper, Chris",Opel Manta GT/E,GB,G2,NA,NA,after SS19,OTL
+NA,130,"Chiaravita, Christian",Renault 5 Alpine,FR,G2,NA,NA,after SS24,steering
+NA,133,"Hancock, Roger",Toyota Starlet,GB,G2,NA,NA,SS38,OTL
+NA,142,"Gobert, Philippe",Fiat 131,FR,G2,NA,NA,SS23,differential
+NA,144,"Thuriot, Xavier",Alfa Romeo Alfasud,FR,N,NA,NA,SS19,unknown

@@ -1,0 +1,30 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"Biasion, Massimo",Lancia Delta Integrale,IT,A8,5h 28m 44s,NA,NA,NA
+2,2,"Fiorio, Alessandro",Lancia Delta Integrale,IT,A,+5m 23s,NA,NA,NA
+3,4,"Buffum, John",Audi Coupe,US,A,+16m 15s,NA,NA,NA
+4,8,"Fischer, Georg",Audi 200 quattro,AT,A,+18m 24s,NA,NA,NA
+5,9,"del Zoppo, Giovanni",Lancia Delta Integrale,IT,N,+20m 12s,NA,NA,NA
+6,3,"Recalde, Jorge",Lancia Delta Integrale,AR,N,+22m 54s,NA,NA,NA
+7,20,"Tajima, Nobuhiro",Suzuki Cultus (Swift),JP,A,+38m 40s,NA,NA,NA
+8,5,"Millen, Rod",Mazda 323 4WD,NZ,A,+46m 27s,12:00,NA,NA
+9,16,"Carter, Alan",Suzuki Cultus (Swift),NZ,A,+48m 21s,5:00,NA,NA
+10,25,"Lieu, Michael",Mitsubishi Galant VR-4,HK,N,+53m 15s,NA,NA,NA
+11,21,"Awazuhara, Yutaka",Suzuki Cultus (Swift),JP,A5,+55m 00s,NA,NA,NA
+12,15,"Holt, Dan",Toyota Corolla,US,A6,+1h 01m 35s,NA,NA,NA
+13,13,"Liversidge, Alexander",Saab 99 Turbo,US,A,+1h 09m 03s,NA,NA,NA
+14,10,"Kronseder, Gunther",Audi quattro,DE,A,+1h 09m 21s,NA,NA,NA
+15,29,"Yein, David",Mazda 323 GT-X,TW,N4,+1h 13m 10s,NA,NA,NA
+16,31,"Lund, Steve",Mazda 323 GT-X,US,N4,+1h 22m 16s,1:00,NA,NA
+17,27,"Moore, Nick",Toyota Corolla,US,N2,+1h 22m 23s,NA,NA,NA
+18,14,"Nukada, Nobuaki",Toyota Corolla,JP,A6,+1h 35m 40s,8:00,NA,NA
+19,19,"Moore, Graham",Opel Manta,GB,A6,+1h 36m 24s,4:00,NA,NA
+20,22,"Ayabe, Shingo",Toyota Starlet,JP,A5,+1h 46m 35s,NA,NA,NA
+21,30,"Sullivan, Ron",Toyota Corolla,US,N2,+2h 22m 00s,1:00,NA,NA
+NA,6,"Alessandrini, Paolo",Lancia Delta HF 4WD,IT,A,NA,NA,SS4,accident
+NA,11,"DiMarco, Chad",Subaru Coupe 4WD Turbo,US,A,NA,NA,SS8,engine
+NA,12,"Shinishiro, Okudeire",Subaru Leone 4WD,JP,A,NA,NA,NA,unknown
+NA,17,"Whiting, Grant",Toyota Starlet,US,A5,NA,NA,NA,unknown
+NA,18,"Skoghag, Fredrik",Suzuki Swift,SE,A5,NA,NA,NA,unknown
+NA,23,"Forespring, John",Toyota Starlet,US,A5,NA,NA,NA,unknown
+NA,28,"Sherard, Nelson",Volkswagen,US,N2,NA,NA,NA,unknown
+NA,33,"Hartman, Scott",Volkswagen,US,N2,NA,NA,NA,unknown

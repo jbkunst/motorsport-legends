@@ -1,0 +1,179 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,2,"Alen, Markku",Lancia Delta Integrale,FI,A8,7h 15m 37s,NA,NA,NA
+2,4,"Salonen, Timo",Mazda 323 4WD,FI,A8,+4m 06s,NA,NA,NA
+3,11,"Waldegard, Bjorn",Toyota Celica GT-4 (ST165),SE,A8,+6m 39s,NA,NA,NA
+4,20,"Airikkala, Pentti",Lancia Delta Integrale,FI,A8,+9m 29s,NA,NA,NA
+5,36,"Schwarz, Armin",Audi 200 quattro,DE,A8,+11m 06s,NA,NA,NA
+6,3,"Blomqvist, Stig",Ford Sierra RS Cosworth,SE,A8,+18m 45s,NA,NA,NA
+7,21,"Sainz, Carlos",Ford Sierra RS Cosworth,ES,A8,+21m 16s,NA,NA,NA
+8,44,"Walfridsson, Stig-Olov",Audi Coupe,SE,A8,+25m 29s,NA,NA,NA
+9,23,"Jonsson, Mats",Opel Kadett GSi,SE,A7,+29m 19s,NA,NA,NA
+10,29,"Grundel, Karl",Peugeot 309 GTI,SE,A7,+34m 01s,NA,NA,NA
+11,86,"de Mevius, Gregoire",Mazda 323,BE,N4,+36m 03s,NA,NA,NA
+12,82,"Vierimaa, Sakari",Mazda 323 4WD,FI,N4,+38m 52s,NA,NA,NA
+13,37,"Van de Wauwer, Jean-Pierre",Ford Sierra RS Cosworth,BE,A8,+42m 33s,NA,NA,NA
+14,27,"Ericsson, Martin",Audi Coupe,SE,A8,+43m 50s,NA,NA,NA
+15,47,"Palmqvist, Tomi",Audi Coupe,FI,A8,+43m 50s,NA,NA,NA
+16,40,"Haugland, John",Skoda 130L,NO,A5,+45m 05s,NA,NA,NA
+17,17,"Lovell, Mark",Ford Sierra RS Cosworth,GB,A8,+45m 30s,NA,NA,NA
+18,14,"Recalde, Jorge",Lancia Delta Integrale,AR,N4,+45m 50s,NA,NA,NA
+19,32,"Ercolani, Massimo",Lancia Delta Integrale,SM,N4,+50m 09s,NA,NA,NA
+20,50,"Wetton, Vince",Audi Coupe,GB,A8,+53m 29s,NA,NA,NA
+21,16,"Eklund, Per",Nissan March Turbo,SE,A6,+54m 26s,NA,NA,NA
+22,87,"Stubbings, Simon",Mazda 323 4WD,GB,N4,+58m 42s,NA,NA,NA
+23,49,"Ohba, Seisuke",Mitsubishi Galant VR-4,JP,A8,+1h 02m 39s,NA,NA,NA
+24,35,"MacHale, Austin",Ford Sierra RS Cosworth,IE,N4,+1h 03m 29s,NA,NA,NA
+25,125,"Hockly, Harry",Vauxhall Nova,GB,A5,+1h 03m 38s,NA,NA,NA
+26,45,"Shinozuka, Kenjiro",Mitsubishi Galant VR-4,JP,A8,+1h 04m 18s,NA,NA,NA
+27,12,"Gaban, Pascal",Mazda 323 4WD,BE,N4,+1h 07m 16s,NA,NA,NA
+28,101,"Payne, Charles",Ford Sierra RS Cosworth,GB,N4,+1h 10m 24s,NA,NA,NA
+29,15,"Bell, Derek",Vauxhall Astra GT/E,GB,A7,+1h 13m 17s,NA,NA,NA
+30,46,"Smith, Trevor",Ford Sierra RS Cosworth,GB,A8,+1h 15m 14s,NA,NA,NA
+31,39,"Krecek, Ladislav",Skoda 130L,CS,A5,+1h 17m 10s,NA,NA,NA
+32,129,"Kaby, Terry",Citroen AX,GB,A5,+1h 19m 53s,NA,NA,NA
+33,153,"Wiggins, Brian",Vauxhall Astra GT/E,GB,N3,+1h 23m 15s,NA,NA,NA
+34,89,"Kase, Yuji",Mitsubishi Galant VR-4,JP,N4,+1h 26m 04s,NA,NA,NA
+35,58,"Dyas, Paul",Ford Sierra RS Cosworth,GB,A8,+1h 36m 00s,NA,NA,NA
+36,117,"Aliasov, Sergei",Lada Samara,RU,A6,+1h 36m 25s,NA,NA,NA
+37,114,"Warkup, Geoff",Lada Samara,GB,A6,+1h 37m 34s,NA,NA,NA
+38,59,"Menzies, Roderick",Ford Sierra XR4x4,GB,A8,+1h 39m 40s,NA,NA,NA
+39,154,"Furber, Kevin",Peugeot 309 GTI,GB,N3,+1h 42m 37s,NA,NA,NA
+40,165,"Gundersen, Birger",Toyota Corolla,NO,N2,+1h 43m 17s,NA,NA,NA
+41,126,"Vergnaud, Carole",Citroen AX,FR,A5,+1h 44m 25s,NA,NA,NA
+42,55,"Holt, Ian",Ford Sierra RS Cosworth,GB,A8,+1h 47m 36s,NA,NA,NA
+43,75,"Leppard, John",Peugeot 309 GTI,GB,A7,+1h 50m 10s,NA,NA,NA
+44,156,"Cree, Terry",Volkswagen Golf GTi,GB,N3,+1h 50m 41s,NA,NA,NA
+45,131,"Cleary, John",Toyota Corolla,GB,A5,+1h 56m 16s,NA,NA,NA
+46,151,"Huisman, Pentti",Toyota Starlet,FI,A5,+1h 59m 13s,NA,NA,NA
+47,106,"Honegger, Pierre",Mazda 323 4WD,US,N4,+2h 03m 40s,NA,NA,NA
+48,164,"Saint, John",Toyota Corolla,GB,N2,+2h 04m 03s,NA,NA,NA
+49,51,"Lord, Christopher",Ford Sierra RS Cosworth,GB,A8,+2h 04m 29s,NA,NA,NA
+50,113,"Thuriot, Xavier",Peugeot 205 GTI,FR,A7,+2h 06m 44s,NA,NA,NA
+51,116,"Freestone, Iain",Toyota Corolla,GB,A6,+2h 07m 05s,NA,NA,NA
+52,133,"Montagne, Dany",Citroen AX,FR,A5,+2h 11m 37s,NA,NA,NA
+53,91,"Moore, Richard",Lancia Delta Integrale,GB,N4,+2h 12m 44s,NA,NA,NA
+54,172,"Wheeler, Clive",Peugeot 205 GTI,GB,N2,+2h 14m 06s,NA,NA,NA
+55,118,"Staniforth, Darrell",Toyota Corolla,GB,A6,+2h 15m 48s,NA,NA,NA
+56,73,"Waddington, Andy",Vauxhall Astra GT/E,GB,A7,+2h 20m 16s,NA,NA,NA
+57,135,"Ryytel, Raido",Lada Samara,SU,A5,+2h 20m 47s,NA,NA,NA
+58,132,"Johnson, David",Lada Samara,GB,A5,+2h 22m 52s,NA,NA,NA
+59,144,"Pemberton, David",Vauxhall Nova,GB,A5,+2h 22m 56s,NA,NA,NA
+60,152,"White, Ray",Lada Riva,GB,A5,+2h 23m 39s,NA,NA,NA
+61,175,"Waterman, Alan",Toyota Corolla,GB,N2,+2h 25m 53s,NA,NA,NA
+62,173,"Reusch, Claude",Toyota Corolla,BE,N2,+2h 28m 42s,NA,NA,NA
+63,168,"Messer, Pat",Peugeot 205 GTI,GB,N2,+2h 28m 46s,NA,NA,NA
+64,181,"Mowles, Philip",Toyota Corolla,GB,N1,+2h 30m 57s,NA,NA,NA
+65,197,"Howes, David",Ford Sierra XR4x4,GB,N4,+2h 31m 50s,NA,NA,NA
+66,148,"Richmond, Bryan",Vauxhall Astra,GB,A5,+2h 32m 16s,NA,NA,NA
+67,192,"Mallen, Eric",Audi Coupe,FR,A8,+2h 33m 30s,NA,NA,NA
+68,198,"Evett, Robert",Vauxhall Astra GT/E,GB,A7,+2h 33m 30s,NA,NA,NA
+69,108,"Ridley, Ken",Ford Sierra XR4x4,GB,N4,+2h 36m 02s,NA,NA,NA
+70,120,"Beresnjavichus, Romas",Lada Samara,SU,A6,+2h 36m 35s,NA,NA,NA
+71,121,"Orchard, Andrew",Peugeot 205 GTI,GB,A6,+2h 39m 01s,NA,NA,NA
+72,119,"Hemingway, Glynn",Toyota Corolla GT,GB,A6,+2h 45m 15s,NA,NA,NA
+73,167,"Samuel, Graham",Toyota Corolla,GB,N2,+2h 50m 47s,NA,NA,NA
+74,138,"Priestner, Arthur",Skoda 130L,GB,A5,+2h 52m 27s,NA,NA,NA
+75,158,"Cutler, David",MG Maestro,GB,N3,+2h 55m 49s,NA,NA,NA
+76,139,"Christopher, Alan",Skoda 130L,GB,A5,+2h 56m 42s,NA,NA,NA
+77,123,"Smith, Geoff",Peugeot 205 GTI,GB,A6,+2h 56m 53s,NA,NA,NA
+78,178,"Wadman, Basil",Peugeot 205 GTI,GB,N2,+2h 59m 33s,NA,NA,NA
+79,136,"Jacques, Denise",Citroen AX,FR,A5,+3h 06m 24s,NA,NA,NA
+80,177,"Croxton, Paul",Toyota Corolla,GB,N2,+3h 29m 21s,NA,NA,NA
+81,163,"Richens, Rob",MG Maestro,GB,N3,+3h 33m 08s,NA,NA,NA
+82,184,"Mouret, Stephen",Citroen AX,FR,N1,+3h 51m 35s,NA,NA,NA
+83,185,"Huxford, David",Vauxhall Nova,GB,N1,+4h 02m 47s,NA,NA,NA
+84,183,"Baty, Clive",Vauxhall Nova,GB,N1,+4h 03m 11s,NA,NA,NA
+85,145,"Howells, Mike",MG Metro,GB,A5,+4h 09m 37s,NA,NA,NA
+86,146,"Beaumont, Nigel",Skoda 130L,GB,A5,+4h 23m 37s,NA,NA,NA
+87,149,"Smith, Rob",Vauxhall Astra,GB,A5,+5h 03m 26s,NA,NA,NA
+NA,1,"Kankkunen, Juha",Toyota Celica GT-4 (ST165),FI,A8,NA,NA,SS45,accident
+NA,5,"Vatanen, Ari",Mitsubishi Galant VR-4,FI,A8,NA,NA,SS35,engine
+NA,6,"Eriksson, Kenneth",Toyota Celica GT-4 (ST165),SE,A8,NA,NA,SS1,engine
+NA,7,"Ericsson, Mikael",Lancia Delta Integrale,SE,A8,NA,NA,SS13,accident
+NA,8,"McRae, Jimmy",Toyota Celica GT-4 (ST165),GB,A8,NA,NA,SS5,engine
+NA,9,"Llewellin, David",Ford Sierra RS Cosworth,GB,A8,NA,NA,SS29,accident
+NA,10,"Mikkola, Hannu",Mazda 323 4WD,FI,A8,NA,NA,SS47,accident
+NA,18,"Wilson, Malcolm",Vauxhall Astra GT/E,GB,A7,NA,NA,SS32,suspension
+NA,19,"Sundstrom, Mikael",Mazda 323 4WD,FI,A8,NA,NA,SS45,accident
+NA,22,"Aitken-Walker, Louise",Peugeot 205 GTI,GB,A7,NA,NA,SS27,accident
+NA,25,"Lindholm, Sebastian",Audi Coupe,FI,A8,NA,NA,SS10,accident
+NA,26,"Droogmans, Robert",Ford Sierra RS Cosworth,BE,A8,NA,NA,SS15,accident
+NA,28,"Brookes, Russell",Ford Sierra RS Cosworth,GB,A8,NA,NA,SS12,off road
+NA,31,"Trelles, Gustavo",Mazda 323 4WD,UY,N4,NA,NA,SS30,accident
+NA,41,"Comelli, Pierluigi",Mazda 323 4WD,IT,N4,NA,NA,after SS23,unknown
+NA,42,"Dunkerton, Ross",Ford Sierra RS Cosworth,AU,A8,NA,NA,SS29,accident
+NA,43,"Collins, Phil",Ford Sierra RS Cosworth,GB,A8,NA,NA,SS23,accident
+NA,48,"Roberton, Ian",Ford Sierra RS Cosworth,GB,A8,NA,NA,SS14,off road
+NA,53,"Fujita, Tetsuya",Mitsubishi Galant VR-4,JP,A8,NA,NA,SS8,off road
+NA,54,"Morton, John",Subaru RX Turbo,GB,A8,NA,NA,SS31,head gasket
+NA,56,"Morgan, Russell",Mercedes Benz 190,GB,A8,NA,NA,SS10,head gasket
+NA,57,"Barry, Rob",Ford Sierra RS Cosworth,GB,A8,NA,NA,SS1,engine
+NA,61,"Cox, Gavin",Opel Monza,GB,A8,NA,NA,SS27,OTL
+NA,62,"Fielding, Geoff",Ford Sierra RS Cosworth,GB,A8,NA,NA,after SS36,OTL
+NA,63,"Hayward, Terry",Ford Capri,GB,A8,NA,NA,SS1,engine
+NA,64,"Biesheuvel, Nico",Ford Sierra,NL,A8,NA,NA,SS22,wheel
+NA,66,"Hamalainen, Juha",Ford Sierra RS Cosworth,FI,A8,NA,NA,SS14,driveshaft
+NA,67,"Stromberg, Ola",Saab 900 Turbo,SE,A8,NA,NA,SS6,differential
+NA,68,"Fadini, Frederico",Mazda 323 4WD,IT,A8,NA,NA,SS39,accident
+NA,69,"Metcalfe, Dave",Vauxhall Astra GT/E,GB,A7,NA,NA,SS12,engine
+NA,70,"Birkbeck, Chris",Vauxhall Astra GT/E,GB,A7,NA,NA,SS15,engine
+NA,71,"Apostolou, Konstantinos",Volkswagen Golf GTi,GR,A7,NA,NA,after SS27,unknown
+NA,72,"Lundqvist, Lotta",Opel Kadett GSi,SE,A7,NA,NA,SS6,OTL
+NA,74,"Cagnet, Michel",Peugeot 309 GTI,FR,A7,NA,NA,SS2,differential
+NA,76,"Shephard, Harry",Opel Manta,GB,A7,NA,NA,after SS5,OTL
+NA,77,"Greenhalgh, John",Peugeot 205 GTI,GB,A7,NA,NA,SS37,lost wheel
+NA,78,"Kivenne, Kari",Audi 90 quattro,FI,A8,NA,NA,SS17,mechanical
+NA,79,"Laine, Antero",Lancia Delta HF 4WD,FI,N4,NA,NA,SS2,stopped
+NA,80,"Evans, Gwyndaf",Ford Sierra RS Cosworth,GB,N4,NA,NA,SS15,off road
+NA,83,"Middleton, Graham",Toyota Celica GT-4 (ST165),GB,N4,NA,NA,SS51,off road
+NA,85,"Makinen, Tommi",Lancia Delta Integrale,FI,N4,NA,NA,SS14,out of fuel
+NA,88,"Hughes, Ian",Mazda 323 4WD,GB,N4,NA,NA,SS22,differential
+NA,90,"Milne, Donald",Lancia Delta Integrale,GB,N4,NA,NA,SS46,steering
+NA,92,"Goto, Masakazu",Mazda 323 4WD,JP,N4,NA,NA,Leg 2,traffic offence
+NA,93,"Hill, Steve",Ford Sierra RS Cosworth,GB,N4,NA,NA,SS3,clutch
+NA,94,"Easson, Jeremy",Ford Sierra RS Cosworth,GB,N4,NA,NA,SS27,OTL
+NA,95,"Karlan, Jan Eric",Lancia Delta Integrale,NO,N4,NA,NA,SS37,fuel pump
+NA,96,"Donaldson, Ian",BMW 325i,GB,N4,NA,NA,SS27,off road
+NA,97,"Coupe, Stuart",Lancia Delta Integrale,GB,N4,NA,NA,SS27,stuck
+NA,98,"Peacock, Alan",Ford Sierra RS Cosworth,GB,N4,NA,NA,SS51,gearbox
+NA,99,"Pearce, Martin",Ford Sierra RS Cosworth,GB,N4,NA,NA,SS2,differential
+NA,100,"Smith, Steven",Lancia Delta Integrale,GB,N4,NA,NA,SS20,suspension
+NA,102,"Inoue, Kiyoshi",Mitsubishi Galant VR-4,JP,N4,NA,NA,Leg 2,traffic offence
+NA,103,"Shaw, Philip",Mazda 323 4WD,GB,N4,NA,NA,SS51,suspension
+NA,104,"Nishiyama, Hiroshi",Mazda 323 4WD,JP,N4,NA,NA,SS10,suspension
+NA,105,"Jackson, Alex",Mazda 323 4WD,GB,N4,NA,NA,SS6,differential
+NA,109,"Skoghag, Fredrik",Lancia Delta Integrale,SE,N4,NA,NA,SS10,stopped
+NA,110,"Tumalyavichius, Evgenius",Lada Samara,SU,A6,NA,NA,after SS3,speeding
+NA,111,"McRae, Colin",Peugeot 205 GTI,GB,A6,NA,NA,SS17,engine
+NA,112,"Vukovich, Sergej",Lada Samara,SU,A6,NA,NA,after SS6,suspension
+NA,115,"Green, Bob",Ford Escort,GB,A6,NA,NA,after SS23,OTL
+NA,122,"Smyth, Richard",Toyota Corolla,GB,A6,NA,NA,SS27,off road
+NA,124,"Humphreys, David",Mazda 323,GB,A5,NA,NA,end of Leg 3,gearbox
+NA,127,"Frankland, Paul",Vauxhall Nova,GB,A5,NA,NA,after SS31,out of tyres
+NA,128,"Hunt, Warren",Skoda 130L,GB,A5,NA,NA,SS6,driveshaft
+NA,134,"Littler, Peter",Citroen AX,GB,A5,NA,NA,after SS15,OTL
+NA,140,"Cressey, John",Vauxhall Astra,GB,A5,NA,NA,SS22,cambelt
+NA,141,"Easton, Steven",Vauxhall Nova,GB,A5,NA,NA,SS20,OTL
+NA,143,"Caune, Ivars",Lada Samara,LV,A5,NA,NA,SS4,engine
+NA,147,"Anderson, Guy",Lada Samara,GB,A5,NA,NA,SS11,suspension
+NA,150,"Smith, James",Vauxhall Nova,GB,A5,NA,NA,SS40,off road
+NA,155,"Kobayashi, Yasuaki",Isuzu Gemini,JP,A8,NA,NA,SS5,transmission
+NA,157,"Dron, Tony",MG Maestro,GB,N3,NA,NA,SS37,off road
+NA,159,"Harris, Trevor",Volkswagen Golf GTi,GB,N3,NA,NA,before SS37,clutch
+NA,160,"Clements, Tony",Peugeot 309 GTI,GB,N3,NA,NA,SS27,steering
+NA,161,"Gobert, Philippe",Fiat Uno Turbo,FR,N3,NA,NA,start of SS7,unknown
+NA,162,"Degan, Alessandro",Volkswagen Golf GTi,IT,N3,NA,NA,end of Leg 2,mechanical
+NA,166,"Waite, Graham",Toyota Corolla,GB,N2,NA,NA,SS16,off road
+NA,169,"Shields, Tony",Ford Fiesta XR2,GB,N2,NA,NA,SS51,driveshaft
+NA,170,"Lord, Simon",Ford Fiesta XR2,GB,N2,NA,NA,after SS10,OTL
+NA,171,"Harington, Stuart",Peugeot 205 GTI,GB,N2,NA,NA,SS6,differential
+NA,176,"Robinson, David",Toyota Corolla,GB,N2,NA,NA,after SS31,OTL
+NA,180,"Chamberlain, Miles",Citroen AX,GB,N1,NA,NA,start of SS5,out of driveshafts
+NA,182,"Andersson, Patrick",Suzuki Swift GTI,GB,N1,NA,NA,SS12,accident
+NA,189,"Price, Eynon",Mazda 323 4WD,GB,N4,NA,NA,SS28,electrics
+NA,190,"Golay, Michel",Mazda 323 4WD,CH,N4,NA,NA,SS30,off road
+NA,191,"Brian, David",Toyota Corolla GT,GB,N2,NA,NA,SS29,stuck
+NA,193,"Rimmer, Michael",Mazda 323 4WD,GB,N4,NA,NA,after SS12,OTL
+NA,194,"Davies, Roger",Ford Sierra RS Cosworth,GB,N4,NA,NA,SS45,differential
+NA,195,"Patenne, Christian",Fiat Uno Turbo,FR,A8,NA,NA,SS10,unknown
+NA,196,"Williams, Jeffrey",Mazda 323 4WD,GB,N4,NA,NA,SS29,off road

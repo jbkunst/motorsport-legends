@@ -1,0 +1,17 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,5,"Rohrl, Walter",Audi quattro Sport S1,DE,B,7h 10m 10s,NA,NA,NA
+2,3,"Salonen, Timo",Peugeot 205 Turbo 16 E2,FI,B,+6m 29s,NA,NA,NA
+3,1,"Toivonen, Henri",Lancia Rally 037 evo,FI,B,+7m 52s,NA,NA,NA
+4,6,"Alen, Markku",Lancia Rally 037 evo,FI,B,+8m 33s,NA,NA,NA
+5,8,"Cerrato, Dario",Lancia Rally 037,IT,B,+15m 25s,NA,NA,NA
+6,4,"Biasion, Massimo",Lancia Rally 037,IT,B,+23m 23s,NA,NA,NA
+7,9,"del Zoppo, Giovanni",Peugeot 205 Turbo 16,IT,B,+47m 52s,NA,NA,NA
+8,26,"Grissmann, Werner",Audi quattro A2,AT,B,+1h 05m 06s,NA,NA,NA
+9,14,"Wittman, Franz",Volkswagen Golf GTi,AT,A,+1h 05m 37s,NA,NA,NA
+10,18,"Turiani, Auguste",Opel Manta 400,MC,B,+1h 18m 46s,NA,NA,NA
+18,94,"Bozzo, Matteo",Fiat Ritmo,IT,N,+2h 17m 43s,NA,NA,NA
+NA,7,"Saby, Bruno",Peugeot 205 Turbo 16 E2,FR,B,NA,NA,SS37,engine
+NA,10,"Kleint, Jochi",Volkswagen Golf GTi,DE,A,NA,NA,SS6,accident
+NA,11,"Ercolani, Massimo",Ferrari 308GTB,SM,B,NA,NA,SS4,driver injury
+NA,12,"Noberasco, Gabriele",Citroen Visa,IT,B,NA,NA,SS23,driveshaft
+NA,15,"Llewellin, David",Audi 80 quattro,GB,A,NA,NA,SS4,distributor

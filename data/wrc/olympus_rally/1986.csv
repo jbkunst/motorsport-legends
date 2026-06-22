@@ -1,0 +1,18 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,2,"Alen, Markku",Lancia Delta S4,FI,B,5h 26m 10s,NA,NA,NA
+2,1,"Kankkunen, Juha",Peugeot 205 Turbo 16 E2,FI,B,+3m 26s,NA,NA,NA
+3,5,"Buffum, John",Audi quattro Sport,US,B,+24m 14s,NA,NA,NA
+4,4,"Torph, Lars-Erik",Toyota Celica Twincam Turbo,SE,B,+30m 19s,NA,NA,NA
+5,3,"Waldegard, Bjorn",Toyota Celica Twincam Turbo,SE,B,+32m 22s,NA,NA,NA
+6,11,"Alessandrini, Paolo",Lancia Delta S4,IT,B,+35m 45s,NA,NA,NA
+7,8,"Millen, Rod",Mazda Familia 4WD,NZ,A,+46m 46s,NA,NA,NA
+8,10,"Bourne, Peter",Subaru RX Turbo,NZ,A,+54m 17s,NA,NA,NA
+9,16,"Smith, Clive",Toyota Corolla,NZ,A,+1h 06m 03s,NA,NA,NA
+10,47,"Choiniere, Paul",Audi 80 quattro,US,N,+1h 19m 18s,NA,NA,NA
+NA,7,"Woodner, Jon",Peugeot 205 Turbo 16,US,B,NA,NA,SS2,accident
+NA,12,"Millen, Steve",Toyota Celica Twincam Turbo,NZ,B,NA,NA,SS18,accident
+NA,14,"Shepherd, Doug",Toyota Celica,US,A,NA,NA,SS9,driveshaft
+NA,15,"DiMarco, Chad",Subaru RX Turbo,US,A,NA,NA,SS10,gearbox
+NA,19,"Tajima, Nobuhiro",Suzuki Cultus (Swift),JP,A,NA,NA,SS17,accident
+NA,20,"Boyce, Walter",Volkswagen Golf GTi,CA,A,NA,NA,NA,retired
+NA,30,"Kostrzak, Mariusz",Toyota Corolla GT,PL,A,NA,NA,NA,unknown

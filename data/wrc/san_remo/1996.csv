@@ -1,0 +1,23 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,1,"McRae, Colin",Subaru Impreza 555,GB,A8,4h 26m 57s,NA,NA,NA
+2,4,"Sainz, Carlos",Ford Escort RS Cosworth,ES,A8,+22s,NA,NA,NA
+3,5,"Thiry, Bruno",Ford Escort RS Cosworth,BE,A8,+2m 09s,NA,NA,NA
+4,20,"Loix, Freddy",Toyota Celica GT-Four (ST205),BE,A8,+2m 51s,NA,NA,NA
+5,2,"Eriksson, Kenneth",Subaru Impreza 555,SE,A8,+2m 54s,NA,NA,NA
+6,14,"Cunico, Gianfranco",Ford Escort RS Cosworth,IT,A8,+3m 44s,NA,NA,NA
+7,21,"Pianezzola, Gilberto",Toyota Celica GT-Four (ST205),IT,A8,+4m 01s,NA,NA,NA
+8,8,"Auriol, Didier",Mitsubishi Lancer Evo III,FR,A8,+4m 53s,NA,NA,NA
+9,11,"Medeghini, Angelo",Subaru Impreza 555,IT,A8,+8m 02s,NA,NA,NA
+10,15,"Bernardini, Patrick",Ford Escort RS Cosworth,FR,A8,+8m 02s,NA,NA,NA
+12,35,"Andreucci, Paolo",Renault Megane,IT,A7,+18m 13s,NA,NA,NA
+14,23,"Trelles, Gustavo",Mitsubishi Lancer Evo III,UY,N4,+21m 35s,NA,NA,NA
+41,90,"Sciascia, Patrizia",Opel Corsa GSi,IT,A6,+1h 25m 26s,NA,NA,NA
+NA,3,"Liatti, Piero",Subaru Impreza 555,IT,A8,NA,NA,SS11,electrics
+NA,7,"Makinen, Tommi",Mitsubishi Lancer Evo III,FI,A8,NA,NA,SS1,accident
+NA,9,"Nittel, Uwe",Mitsubishi Lancer Evo III,DE,N4,NA,NA,SS4,accident
+NA,10,"Kytolehto, Jarmo",Ford Escort RS Cosworth,FI,A8,NA,NA,SS1,accident
+NA,12,"Madeira, Rui",Toyota Celica GT-Four (ST205),PT,A8,NA,NA,SS10,accident
+NA,16,"Navarra, Andrea",Subaru Impreza 555,IT,A8,NA,NA,SS3,electrics
+NA,18,"Dallavilla, Andrea",Toyota Celica GT-Four (ST205),IT,A8,NA,NA,SS9,damaged car
+NA,19,"Recalde, Jorge",Mitsubishi Lancer Evo III,AR,N,NA,NA,NA,electrics
+NA,NA,"Stohl, Manfred",Mitsubishi Lancer Evo,AT,N,NA,NA,NA,turbo

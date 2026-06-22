@@ -1,0 +1,60 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,6,"Clark, Roger",Ford Escort RS1800,GB,G4,6h 02m 26s,NA,NA,NA
+2,4,"Blomqvist, Stig",Saab 99EMS,SE,G4,+4m 37s,NA,NA,NA
+3,32,"Waldegard, Bjorn",Ford Escort RS1800,SE,G4,+5m 29s,NA,NA,NA
+4,7,"Munari, Sandro",Lancia Stratos HF,IT,G4,+6m 23s,NA,NA,NA
+5,8,"Andersson, Ove",Toyota Corolla,SE,G4,+9m 17s,NA,NA,NA
+6,20,"Coleman, Billy",Ford Escort RS1800,IE,G4,+9m 22s,NA,NA,NA
+7,19,"Kullang, Anders",Opel Kadett GT/E,SE,G4,+12m 47s,NA,NA,NA
+8,26,"Dawson, Andy",Datsun Violet,GB,G4,+19m 41s,NA,NA,NA
+9,24,"Culcheth, Brian",Triumph TR7,GB,G4,+20m 28s,NA,NA,NA
+10,41,"Danielsson, Bror",Opel Kadett GT/E,SE,G1,+22m 02s,NA,NA,NA
+11,14,"Bacchelli, Fulvio",Fiat 131 Abarth,IT,G4,+22m 12s,NA,NA,NA
+12,42,"McRae, Jimmy",Vauxhall Magnum,GB,G1,+26m 37s,NA,NA,NA
+13,40,"Eyre-Maunsell, Robin",Chrysler Avenger,GB,G1,+32m 45s,NA,NA,NA
+14,53,"Lee, Barry",Datsun Violet,GB,G4,+34m 57s,NA,NA,NA
+15,52,"Lundgren, Jan-Erik",Opel Kadett GT/E,SE,G1,+35m 47s,NA,NA,NA
+16,31,"Haugland, John",Skoda 130,NO,G2,+41m 35s,NA,NA,NA
+17,84,"Borjesson, Ruben",BMW 320,SE,G1,+45m 25s,NA,NA,NA
+18,115,"Jackson, Michael",Ford Escort RS1600,GB,G2,+51m 14s,NA,NA,NA
+19,70,"Lundstrom, Bengt",Toyota Celica,SE,G1,+52m 52s,NA,NA,NA
+20,93,"Grainger, David",Ford Escort RS1600,GB,G2,+56m 15s,NA,NA,NA
+23,87,"Kaby, Terry",Triumph Dolomite Sprint,GB,G1,+57m 25s,NA,NA,NA
+27,37,"Saaristo, Markku",Ford Escort RS2000,FI,G1,+1h 01m 47s,NA,NA,NA
+28,85,"Robinson, Jill",Ford Escort RS1800,GB,G2,+1h 08m 15s,NA,NA,NA
+29,118,"Sveinsvoll, Terje",Honda Civic,NO,G1,+1h 18m 07s,NA,NA,NA
+31,83,"Blasi, Gerd",Opel Ascona,AT,G2,+1h 22m 55s,NA,NA,NA
+32,72,"Karn, Wilhelm",BMW 2002Tii,DE,NA,+1h 27m 49s,NA,NA,NA
+33,107,"Niebergall, Horst",Wartburg 353,DD,G2,+1h 29m 58s,NA,NA,NA
+35,146,"Williamson, Jeff",Hillman Avenger,GB,G1,+1h 35m 23s,NA,NA,NA
+57,45,"Perusse, Jean-Paul",Saab 99EMS,CA,G4,+2h 06m 19s,NA,NA,NA
+NA,1,"Makinen, Timo",Ford Escort RS1800,FI,G4,NA,NA,SS5,accident damage
+NA,3,"Alen, Markku",Fiat 131 Abarth,FI,G4,NA,NA,SS52,differential
+NA,5,"Mikkola, Hannu",Toyota Celica,FI,G4,NA,NA,SS76,differential
+NA,9,"Lampinen, Simo",Ford Escort RS1800,FI,G4,NA,NA,NA,accident
+NA,10,"Verini, Maurizio",Fiat 131 Abarth,IT,G4,NA,NA,Leg 2,gearbox
+NA,11,"Rohrl, Walter",Opel Kadett GT/E,DE,G4,NA,NA,Leg 1,rear axle
+NA,12,"Therier, Jean-Luc",Toyota Celica,FR,G4,NA,NA,SS16,oil cooler
+NA,13,"Kallstrom, Harry",Datsun 160J,SE,G4,NA,NA,SS22,gearbox
+NA,15,"Vatanen, Ari",Ford Escort RS1800,FI,G4,NA,NA,SS13,valve spring
+NA,16,"Brookes, Russell",Ford Escort RS1800,GB,G4,NA,NA,SS23,head gasket
+NA,17,"Eklund, Per",Saab 99EMS,SE,G4,NA,NA,Leg 2,gearbox
+NA,21,"Pond, Tony",Triumph TR7,GB,G4,NA,NA,SS52,rear suspension
+NA,22,"Airikkala, Pentti",Ford Escort RS1800,FI,G4,NA,NA,SS73,OTL
+NA,23,"Walfridsson, Per-Inge",Lancia Stratos HF,SE,G4,NA,NA,SS21,electrical
+NA,25,"Sclater, Chris",Chrysler Avenger,GB,G4,NA,NA,after SS51,engine
+NA,27,"Aaltonen, Rauno",Opel Kadett GT/E,FI,G4,NA,NA,Leg 1,engine
+NA,28,"Sparrow, Will",Vauxhall Chevette 2300,GB,G4,NA,NA,NA,rear suspension
+NA,30,"Ragnotti, Jean",Renault-Alpine A310,FR,G4,NA,NA,NA,differential
+NA,33,"Drummond, Tony",Ford Escort RS1800,GB,G4,NA,NA,Leg 1,OTL
+NA,34,"Faulkner, Paul",Vauxhall Magnum Coupe,GB,G4,NA,NA,SS25,clutch
+NA,36,"Fall, Tony",Opel Kadett,GB,G1,NA,NA,Leg 2,OTL
+NA,38,"Ryan, Patrick",Triumph Dolomite Sprint,GB,G1,NA,NA,after SS31,mechanical
+NA,39,"Hamalainen, Kyosti",Ford Escort RS2000,FI,G1,NA,NA,after SS34,valve
+NA,47,"Smolej, Walter",Opel Kadett GT/E,DE,G4,NA,NA,NA,gearbox
+NA,50,"Rockey, Nigel",Chrysler Avenger,GB,G4,NA,NA,SS41,engine
+NA,54,"Wittman, Franz",Opel Kadett GT/E,AT,G2,NA,NA,NA,unknown
+NA,55,"Buffum, John",Ford Escort RS1800,US,G4,NA,NA,NA,clutch
+NA,58,"Jaroszewicz, Andrzej",Polski-Fiat 125p,PL,G4,NA,NA,NA,accident
+NA,60,"Inurrieta, Enrique",Ford Escort RS2000,ES,G1,NA,NA,SS36,accident
+NA,211,"Stewart, Geoffrey",Lada 1200,GB,G1,NA,NA,Dunster Forest,front left stub axle

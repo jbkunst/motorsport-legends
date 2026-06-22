@@ -1,0 +1,29 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,3,"Vatanen, Ari",Peugeot 205 Turbo 16,FI,B,8h 44m 34s,NA,NA,NA
+2,4,"Bettega, Attilio",Lancia Rally 037 evo,IT,B,+5m 27s,NA,NA,NA
+3,6,"Biasion, Massimo",Lancia Rally 037,IT,B,+9m 24s,NA,NA,NA
+4,11,"Tabaton, Fabrizio",Lancia Rally 037,IT,B,+23m 19s,NA,NA,NA
+5,8,"Nicolas, Jean-Pierre",Peugeot 205 Turbo 16,FR,B,+28m 42s,NA,NA,NA
+6,16,"Grundel, Karl",Volkswagen Golf GTi,SE,A,+58m 56s,NA,NA,NA
+7,22,"Ercolani, Massimo",Opel Ascona 400,SM,B,+1h 05m 28s,NA,NA,NA
+8,31,"Kalnay, Gerhard",Opel Ascona 400,AT,B,+1h 13m 13s,NA,NA,NA
+9,24,"Rayneri, Michele",Fiat Ritmo,IT,A,+1h 20m 31s,NA,NA,NA
+10,42,"Grissmann, Werner",Audi 80 quattro,AT,A,+1h 28m 49s,NA,NA,NA
+11,18,"Turiani, Auguste",Opel Manta GT/E,MC,A,+1h 36m 45s,NA,NA,NA
+12,86,"Fabbri, Stefano",Fiat Ritmo,IT,N,+1h 37m 14s,NA,NA,NA
+19,40,"Alberi, Paola",Citroen Visa,IT,B,+2h 09m 44s,NA,NA,NA
+35,107,"de Sanctis, Fabrizio",Autobianchi A112,IT,A,NA,NA,NA,NA
+NA,1,"Alen, Markku",Lancia Rally 037 evo,FI,B,NA,NA,SS27,engine
+NA,2,"Blomqvist, Stig",Audi quattro Sport,SE,B,NA,NA,SS41,engine
+NA,5,"Rohrl, Walter",Audi quattro Sport,DE,B,NA,NA,SS49,accident
+NA,7,"Vudafieri, Adartico",Lancia Rally 037,IT,B,NA,NA,SS18,accident
+NA,9,"Cunico, Gianfranco",Lancia Rally 037,IT,B,NA,NA,SS45,accident
+NA,10,"Cerrato, Dario",Opel Manta 400,IT,B,NA,NA,SS48,accident
+NA,12,"Chomat, Maurice",Citroen Visa,FR,B,NA,NA,SS37,engine
+NA,14,"Rio, Christian",Citroen Visa,FR,B,NA,NA,SS9,accident
+NA,15,"Wambergue, Philippe",Citroen Visa,FR,B,NA,NA,SS44,transmission
+NA,19,"Bentivogli, Bruno",Alfa Romeo Alfetta GTV6,IT,A,NA,NA,SS19,engine
+NA,20,"del Zoppo, Giovanni",Talbot Samba,IT,B,NA,NA,SS14,driveshaft
+NA,26,"Loubet, Yves",Alfa Romeo Alfetta GTV6,FR,A,NA,NA,NA,accident
+NA,53,'Anders',Opel Kadett GT/E,FR,A,NA,NA,NA,unknown
+NA,NA,"Milanesi, Stefano",Opel Kadett,IT,N,NA,NA,NA,mechanical

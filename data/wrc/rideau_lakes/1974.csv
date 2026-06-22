@@ -1,0 +1,52 @@
+position,entry_number,driver_name,car_model,nationality,homologation_group,elapsed_time,penalty_time,retirement_control,retirement_reason
+1,103,"Munari, Sandro",Lancia Stratos HF HF,IT,D*,"4h 54m 31,8s",NA,NA,NA
+2,107,"Lampinen, Simo",Lancia Beta,FI,C*,"+2m 18,6s",NA,NA,NA
+3,101,"Boyce, Walter",Toyota Celica,CA,B*,"+13m 14,4s",NA,NA,NA
+4,116,"Billows, Keith",Ford Escort RS1600,GB,C*,"+22m 18,6s",NA,NA,NA
+5,141,"Jones, Eric",Datsun 510,US,C*,"+26m 38,4s",NA,NA,NA
+6,117,"Skowronnek, Burckhard",Datsun 240Z,CA,D*,"+28m 51,6s",NA,NA,NA
+7,118,"Racine, Jacques",Datsun 510,CA,B*,"+33m 30,0s",NA,NA,NA
+8,108,"Smiskol, John",Datsun 260Z,US,D*,"+37m 59,4s",NA,NA,NA
+9,122,"Thomas, Glen",Datsun 510,CA,B*,"+45m 12,6s",NA,NA,NA
+10,121,"Whan, Howard",Datsun 510,CA,B*,"+58m 41,4s",NA,NA,NA
+11,135,"MacKay, Ross",Toyota Corolla,NZ,B*,"+1h 02m 07,8s",NA,NA,NA
+12,164,"Belohlavek, Vladimir",Toyota Corolla,CA,B*,"+1h 02m 39,0s",NA,NA,NA
+13,159,"Olds, Frederick",Datsun 510,US,B*,"+1h 02m 52,2s",NA,NA,NA
+14,158,"Kelley, John",Datsun 240Z,US,D*,"+1h 05m 13,8s",NA,NA,NA
+15,148,"Partington, Lawrence",Volkswagen,CA,B*,"+1h 13m 08,4s",NA,NA,NA
+16,136,"Werner, Colin",Honda Civic,CA,A*,"+1h 21m 47,4s",NA,NA,NA
+17,140,"Wilson, Jock",Mercedes Benz 300,CA,E*,"+1h 22m 23,4s",NA,NA,NA
+18,152,"Urban, Thomas",Saab 96 V4,CA,C*,"+1h 32m 42,0s",NA,NA,NA
+19,134,"Pahl, Bent",Plymouth Cricket,CA,B*,"+1h 39m 37,2s",NA,NA,NA
+NA,102,"Alen, Markku",Fiat 124 Abarth Spider,FI,C*,NA,NA,SS3,accident
+NA,104,"Paganelli, Alcide",Fiat 124 Abarth Spider,IT,C*,NA,NA,SS19,front suspension
+NA,105,"Zasada, Sobieslaw",Porsche 911,PL,D*,NA,NA,NA,co-driver illness
+NA,106,"Walker, Jim",Volvo 142,US,C*,NA,NA,Leg 2,differential
+NA,109,"Culcheth, Brian",Morris Marina,GB,C*,NA,NA,Leg 2,differential
+NA,110,"Perusse, Jean-Paul",Fiat 124 Abarth Spider,CA,C*,NA,NA,Leg 2,gearbox
+NA,112,"Pregliasco, Mauro",Lancia Beta,IT,C*,NA,NA,SS3,engine
+NA,114,"Black, Randy",Datsun 1600SSS,CA,C*,NA,NA,SS1,head gasket
+NA,119,"Neil, Gary",Datsun 510,CA,B*,NA,NA,NA,NA
+NA,120,"Wirtjes, George",Mazda,CA,C*,NA,NA,NA,NA
+NA,123,"Wejer, VIctor",Toyota Corolla,CA,B*,NA,NA,NA,NA
+NA,124,"McLaren, Charles",Datsun 510,CA,B*,NA,NA,NA,NA
+NA,125,"Pedersen, Ole",Datsun 510,CA,B*,NA,NA,Leg 1,accident
+NA,129,"Lansdell, Gord",Honda Civic,CA,A*,NA,NA,NA,NA
+NA,130,"Natho, William",Datsun 510,US,B*,NA,NA,NA,NA
+NA,132,"Leverton, Doug",Datsun 510,CA,B*,NA,NA,NA,NA
+NA,133,"Ladouceur, Michel",Toyota,CA,B*,NA,NA,NA,NA
+NA,137,"Stiles, Pat",Datsun 240Z,CA,D*,NA,NA,NA,NA
+NA,142,"Graves, Randy",Renault-Alpine A110,US,A*,NA,NA,NA,NA
+NA,143,"Crawford, John",Saab 96 V4,US,B*,NA,NA,NA,NA
+NA,144,"Bolton, Albert",Datsun 510,CA,B*,NA,NA,NA,NA
+NA,145,"Kammer, Walt",Datsun 510,US,B*,NA,NA,NA,NA
+NA,146,"Eaton Jr., Wayne",Volkswagen 1302S,US,B*,NA,NA,NA,NA
+NA,147,"Deglaris, George",Datsun 510,CA,C*,NA,NA,NA,NA
+NA,149,"Pichardo, William",Fiat 124,US,C*,NA,NA,NA,NA
+NA,150,"Robertson, Jim",Datsun 510,CA,B*,NA,NA,NA,NA
+NA,153,"Spencer, Keith",Honda Civic,CA,A*,NA,NA,NA,NA
+NA,155,"Burnett, Jack",BMW 2002Tii,CA,C*,NA,NA,NA,NA
+NA,157,"Gardam, Kent",Datsun 510,US,B*,NA,NA,NA,NA
+NA,161,"Jodar, Loyal W.",Ford Mustang,US,E*,NA,NA,NA,NA
+NA,162,"O'Connor, Thom",BMW 1602,US,B*,NA,NA,NA,NA
+NA,165,"Chasseuil, Guy",Renault-Alpine A110,FR,B*,NA,NA,SS31,accident
