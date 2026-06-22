@@ -29,7 +29,7 @@ data_collection_join <- fs::dir_ls("data/endurance/") |>
 
     dc <- filter(data_collection, track == basename(folder))
 
-    # right para que queden registros de la colleccion, pero primero columnas de results descargados
+    # inner: conserva solo cruces válidos; el anti_join posterior falla si falta algo de la colección.
     dout <- inner_join(rr, dc, by = join_by(track, year, number, make))
     dout <- arrange(dout, year, result, number)
 
