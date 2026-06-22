@@ -143,10 +143,6 @@ clean_wrc_juwra_table <- function(data) {
 }
 
 scrape_wrc_juwra_results  <- function(wrc_results_url = "https://www.juwra.com/monte_carlo_1981_results.html", pause = 0.01) {
-  
-  if (pause > 0) {
-    Sys.sleep(pause)
-  }
 
   year       <- stringr::str_extract(wrc_results_url, "\\d{4}") |> as.integer()
   rally_slug <- wrc_results_url |> basename() |> stringr::str_remove("_\\d{4}_results\\.html$")
@@ -157,6 +153,10 @@ scrape_wrc_juwra_results  <- function(wrc_results_url = "https://www.juwra.com/m
   cli::cli_progress_step("{wrc_results_url} -> {fout}")
 
   if (file.exists(fout)) { return(invisible(TRUE))}
+
+  if (pause > 0) {
+    Sys.sleep(pause)
+  }
 
   page <- httr2::request(wrc_results_url) |>
     httr2::req_user_agent("Joshua Kunst jbkunst@gmail.com") |>

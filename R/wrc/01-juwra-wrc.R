@@ -3,7 +3,7 @@ library(tidyverse)
 library(rvest)
 
 source("R/00-helpers.R")
-source("R/wrc/00-juwra-ewrc-helpers.R")
+source("R/wrc/00-juwra-helpers.R")
 
 # parameters -------------------------------------------------------------
 wrc_rallies_url <- "https://www.juwra.com/rallies.html"
@@ -56,3 +56,5 @@ wrc_editions <- wrc_rallies |>
 wrc_editions |> 
   pull(wrc_results_url) |> 
   walk(scrape_wrc_juwra_results)
+
+
