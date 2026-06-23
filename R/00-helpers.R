@@ -30,6 +30,21 @@ get_col <- function(data, col) {
   if (col %in% names(data)) data[[col]] else NA_character_
 }
 
+google_sheet_url <- function(gid) {
+  stringr::str_glue(
+    "https://docs.google.com/spreadsheets/d/e/",
+    "2PACX-1vQxCLyOJ3I5tnjgwTlxiMVZagQ19DiZpoc_3xBOTdmnoo8gbai5MepFqCY2vAE27guGTAxjKlWti0SD/",
+    "pub?gid={gid}&single=true&output=csv"
+  )
+}
+
+google_sheet_collection_data <- function(gid = 132013729, col_types = readr::cols()) {
+  readr::read_csv(
+    google_sheet_url(gid),
+    col_types = col_types
+  )
+}
+
 image_url_to_data_uri <- function(url) {
   if (is.na(url) || url == "") return(NA_character_)
 

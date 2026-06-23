@@ -11,8 +11,6 @@ wrc_csv       <- here::here("outputs/csv/wrc_collection64.csv")
 out_csv  <- here::here("outputs/csv/collection64.csv")
 out_html <- here::here("outputs/html/collection64.html")
 
-collection_sheet_url <- "https://docs.google.com/spreadsheets/d/e/2PACX-1vQxCLyOJ3I5tnjgwTlxiMVZagQ19DiZpoc_3xBOTdmnoo8gbai5MepFqCY2vAE27guGTAxjKlWti0SD/pub?gid=132013729&single=true&output=csv"
-
 fs::dir_create(fs::path_dir(out_csv))
 fs::dir_create(fs::path_dir(out_html))
 
@@ -71,7 +69,7 @@ collection64_wrc <- wrc_raw |>
     make,
     model = car_model,
     result = as.integer(position),
-    result_group =as.integer(positiont_group),
+    result_group = as.integer(position_group),
     result_status = case_when(
       result == 1 ~ "winner",
       !is.na(result) ~ "finished",
@@ -143,8 +141,7 @@ collection64_checks |>
   print(n = Inf)
 
 # sheet validation --------------------------------------------------------
-data_collection_sheet <- read_csv(
-  collection_sheet_url,
+data_collection_sheet <- google_sheet_collection_data(
   col_types = cols(.default = col_character())
 ) |>
   mutate(
@@ -235,8 +232,6 @@ collection64_dt_data <- collection64 |>
     homologation_group,
     entrant,
     driver,
-    make,
-    model,
     scale64_maker,
     scale64_status
   )

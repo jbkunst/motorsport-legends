@@ -3,11 +3,10 @@ library(tidyverse)
 
 source(here::here("R/00-helpers.R"))
 source(here::here("R/endurance/00-rsc-helpers.R"))
+source(here::here("R/wrc/00-juwra-helpers.R"))
 
 # data collection and join with results ----------------------------------
-url <- "https://docs.google.com/spreadsheets/d/e/2PACX-1vQxCLyOJ3I5tnjgwTlxiMVZagQ19DiZpoc_3xBOTdmnoo8gbai5MepFqCY2vAE27guGTAxjKlWti0SD/pub?gid=132013729&single=true&output=csv"
-
-data_collection <- read_csv(url)
+data_collection <- google_sheet_collection_data()
 
 data_collection <- data_collection |>
   select(everything())
@@ -38,7 +37,7 @@ data_collection_join <- fs::dir_ls("data/wrc/") |>
     rr <- rr |>
       arrange(year, homologation_group, position) |>
       group_by(year, homologation_group) |>
-      mutate(positiont_group = if_else(is.na(position), NA_integer_, cumsum(!is.na(position)))) |>
+      mutate(position_group = if_else(is.na(position), NA_integer_, cumsum(!is.na(position)))) |>
       ungroup() |> 
       arrange(year, position)
 
@@ -65,168 +64,6 @@ fs::dir_create("outputs/csv/wrc")
 
 serper_cache_file <- "outputs/csv/wrc/serper_wrc_images.csv"
 
-search_serper_real_image <- function(
-  query,
-  api_key = Sys.getenv("SERPER_API_KEY"),
-  n = 10,
-  cache_file = "outputs/csv/wrc/serper_wrc_images.csv"
-) {
-  if (api_key == "") {
-    stop("Falta SERPER_API_KEY.")
-  }
-
-  fs::dir_create(dirname(cache_file))
-
-  cache <- if (file.exists(cache_file)) {
-    read_csv(
-      cache_file,
-      show_col_types = FALSE,
-      col_types = cols(
-        .default = col_character(),
-        image_score = col_double()
-      )
-    )
-  } else {
-    tibble(
-      query = character(),
-      image_url = character(),
-      page_url = character(),
-      title = character(),
-      source = character(),
-      image_score = double()
-    )
-  }
-
-  cached <- cache |>
-    filter(!str_detect(str_to_lower(str_c(image_url, " ", page_url)), "lookaside|modelsshop|ixomodels|1999\\.co|1999\\.co\\.jp")) |>
-    filter(query == !!query) |>
-    arrange(desc(image_score)) |>
-    slice_head(n = n)
-
-  if (nrow(cached) > 0) {
-    cli::cli_inform("Using cached image: {query}")
-    return(cached)
-  }
-
-  query_real <- str_glue("{query} rally photo")
-
-  cli::cli_inform("Searching real image: {query_real}")
-
-  res <- httr2::request("https://google.serper.dev/images") |>
-    httr2::req_method("POST") |>
-    httr2::req_headers(
-      `X-API-KEY` = api_key,
-      `Content-Type` = "application/json"
-    ) |>
-    httr2::req_body_json(
-      list(q = query_real, num = 20),
-      auto_unbox = TRUE
-    ) |>
-    httr2::req_timeout(30) |>
-    httr2::req_perform()
-
-  out <- httr2::resp_body_json(res, simplifyVector = TRUE)
-
-  if (is.null(out$images) || nrow(out$images) == 0) {
-    result <- tibble(
-      query = query,
-      image_url = NA_character_,
-      page_url = NA_character_,
-      title = NA_character_,
-      source = NA_character_,
-      image_score = NA_real_
-    )
-
-    bind_rows(cache, result) |>
-      distinct(query, image_url, .keep_all = TRUE) |>
-      write_csv(cache_file)
-
-    return(result)
-  }
-
-  image_ext_pattern <- "\\.(jpg|jpeg|png|webp)(\\?|$)"
-
-  direct_image_source_pattern <- paste(
-    c(
-      "preview.redd.it",
-      "i.redd.it",
-      "pbs.twimg.com",
-      "live.staticflickr.com",
-      "c8.alamy.com",
-      "snaplap.net/wp-content/uploads",
-      "wp-content/uploads"
-    ),
-    collapse = "|"
-  )
-
-  blocked_pattern <- paste(
-    c(
-      "lookaside.fbsbx", "facebook", "instagram", "lookaside",
-      "youtube", "ytimg", "pinterest",
-      "hiroboy", "ixomodels", "1999.co.jp", "ebay", "etsy", "amazon",
-      "1999.co", "models118", "modelsshop", "diecast", "modelcars",
-      "miniatures", "model-car", "car-model"
-    ),
-    collapse = "|"
-  )
-
-  sales_pattern <- paste(
-    c(
-      "racemarket", "auction", "for-sale", "forsale", "sale",
-      "dealer", "showroom", "stock", "classified", "secret-classics"
-    ),
-    collapse = "|"
-  )
-
-  model_word_pattern <- paste(
-    c(
-      "diecast", "model", "miniature", "ixo", "spark", "trofeu",
-      "kyosho", "hpi", "altaya", "1:43", "1:18", "kit", "decals",
-      "models118", "modelsshop", "ixo_"
-    ),
-    collapse = "|"
-  )
-
-  result <- out$images |>
-    as_tibble() |>
-    transmute(
-      query = query,
-      image_url = imageUrl,
-      page_url = link,
-      title = coalesce(title, ""),
-      source = coalesce(source, ""),
-      text = str_to_lower(str_c(title, " ", source, " ", link, " ", imageUrl)),
-      image_url_lwr = str_to_lower(image_url)
-    ) |>
-    mutate(
-      is_direct_image =
-        str_detect(image_url_lwr, image_ext_pattern) |
-        str_detect(image_url_lwr, direct_image_source_pattern),
-
-      blocked = str_detect(text, blocked_pattern),
-      looks_sale = str_detect(text, sales_pattern),
-      looks_model = str_detect(text, model_word_pattern),
-      looks_real = str_detect(text, "rally|wrc|photo|sainz|auriol|toyota|celica|corolla"),
-
-      image_score =
-        if_else(is_direct_image, 80, 0) +
-        if_else(looks_real, 50, 0) -
-        if_else(blocked, 120, 0) -
-        if_else(looks_model, 80, 0) -
-        if_else(looks_sale, 40, 0)
-    ) |>
-    filter(!blocked) |>
-    arrange(desc(image_score)) |>
-    slice_head(n = n) |>
-    select(query, image_url, page_url, title, source, image_score)
-
-  bind_rows(cache, result) |>
-    distinct(query, image_url, .keep_all = TRUE) |>
-    write_csv(cache_file)
-
-  result
-}
-
 serper_wrc_images <- data_collection_join |>
   mutate(
     image_query = str_glue(
@@ -234,7 +71,7 @@ serper_wrc_images <- data_collection_join |>
     )
   ) |>
   distinct(event_slug, year, entry_number, image_query) |>
-  mutate(image_result = map(image_query, search_serper_real_image)) |>
+  mutate(image_result = map(image_query, \(query) search_serper_real_image(query, cache_file = serper_cache_file))) |>
   unnest(image_result)
 
 serper_wrc_images |> select(image_url, image_query) |> print(n = Inf)
@@ -270,7 +107,7 @@ dt_wrc_data <- data_collection_join |>
       car_title
     ),
     result = position,
-    result_group = positiont_group,
+    result_group = position_group,
     result_status = case_when(
       position == 1 ~ "winner",
       !is.na(position) ~ "finished",

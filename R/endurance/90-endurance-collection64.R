@@ -3,9 +3,7 @@ source(here::here("R/endurance/00-rsc-helpers.R"))
 source(here::here("R/00-helpers.R"))
 
 # data collection and join with results ----------------------------------
-url <- "https://docs.google.com/spreadsheets/d/e/2PACX-1vQxCLyOJ3I5tnjgwTlxiMVZagQ19DiZpoc_3xBOTdmnoo8gbai5MepFqCY2vAE27guGTAxjKlWti0SD/pub?gid=132013729&single=true&output=csv"
-
-data_collection <- read_csv(url)
+data_collection <- google_sheet_collection_data()
 
 data_collection <- data_collection |> 
   # avoid extra colun due incorrect pasting
