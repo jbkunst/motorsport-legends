@@ -21,7 +21,8 @@ races_other <- tribble(
   "zolder",        1977, "DRM Zolder Bergischer Löwe",       "Minichamps Porsche 935 Vaillant",            "https://www.racingsportscars.com/photo/Zolder-1977-03-13.html?sort=Results", # Tambien participa el porshce 935 de Jägermeister
   "nurburgring",   1977, "Nürburgring 300 Kilometres",       "BMW 320i Gr.5 #15 Jägermeister Kyosho",      "https://www.racingsportscars.com/photo/Nurburgring-1977-03-27.html?sort=Results",
   "nurburgring",   1976, "Nürburgring 1000 Kilometres",      "Porsche 934 #24 Jägermeister Kyosho",        "https://www.racingsportscars.com/photo/Nurburgring-1976-05-30.html?sort=Results",
-  "nurburgring",   1976, "Nürburgring 300 Kilometres",       "Porsche 934 #53 Jägermeister Kyosho",        "https://www.racingsportscars.com/photo/Nurburgring-1976-04-04.html?sort=Results"
+  "nurburgring",   1976, "Nürburgring 300 Kilometres",       "Porsche 934 #53 Jägermeister Kyosho",        "https://www.racingsportscars.com/photo/Nurburgring-1976-04-04.html?sort=Results",
+  "bathurst",      2019, "Bathurst 12 Hour",                 "Porsche 911 GT3 R #912 EBM winner",        "https://www.racingsportscars.com/photo/Bathurst-2019-02-03.html?sort=Results"
 )
 
 races_other_extra <- tribble(
