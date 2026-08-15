@@ -18,7 +18,15 @@ library(here)
 
 # params -----------------------------------------------------------------
 in_csv                 <- here::here("data/cars/ferrari_past_models.csv")
-production_periods_csv <- here::here("data/cars/ferrari_production_periods.csv")
+production_periods_csv <- here::here(
+  "data/cars/ferrari_manual/ferrari_production_periods.csv"
+)
+genealogy_evidence_csv <- here::here(
+  "data/cars/ferrari_manual/ferrari_genealogy_evidence.csv"
+)
+history_correspondence_csv <- here::here(
+  "data/cars/ferrari_manual/ferrari_history_correspondence.csv"
+)
 out_csv                <- here::here("data/cars/ferrari_past_models_enriched.csv")
 keep_image_data_uri <- FALSE
 
@@ -29,7 +37,14 @@ required_cols <- c(
   "model", "year", "category", "engine", "engine_position", "description", "url"
 )
 
-ferrari_source <- readr::read_csv(in_csv, show_col_types = FALSE)
+ferrari_source <- readr::read_csv(in_csv, show_col_types = FALSE) |>
+  dplyr::mutate(
+    model = dplyr::recode(
+      model,
+      "Ferrari 250 Testa Rossa Competizione / 335" =
+        "250 Testa Rossa Competizione"
+    )
+  )
 
 missing_cols <- setdiff(required_cols, names(ferrari_source))
 if (length(missing_cols) > 0) {
@@ -72,6 +87,15 @@ ferrari_manual <- tibble::tibble(
 
 ferrari_manual_additions <- tibble::tribble(
   ~model, ~year, ~category, ~engine, ~engine_position, ~url, ~description,
+  "330 America", 1963, "Gran Turismo", "V12", "front",
+  paste0(
+    "https://www.ferrari.com/en-EN/magazine/articles/",
+    "love-stories-from-switzerland-astonishing-ferrari-owner-collections"
+  ),
+  paste(
+    "Transitional 2+2 built in late 1963 using the outgoing 250 GT 2+2",
+    "body and chassis with the new four-litre 330-series V12."
+  ),
   "Monza SP1", 2018, "Gran Turismo", "V12", "front",
   "https://www.ferrari.com/en-EN/auto/monza-sp1",
   "Single-seat front-engined V12 model that inaugurated Ferrari's Icona series.",
@@ -131,7 +155,10 @@ ferrari_manual_additions <- tibble::tribble(
   "Front-mid-engined V8 2+ grand tourer succeeding the Roma.",
   "849 Testarossa", 2025, "Gran Turismo", "V8", "rear",
   "https://www.ferrari.com/en-EN/auto/849-testarossa",
-  "Plug-in hybrid V8 supercar succeeding the SF90 Stradale."
+  "Plug-in hybrid V8 supercar succeeding the SF90 Stradale.",
+  "849 Testarossa Spider", 2025, "Gran Turismo", "V8", "rear",
+  "https://www.ferrari.com/en-EN/auto/849-testarossa-spider",
+  "Open plug-in hybrid V8 derivative succeeding the SF90 Spider."
 ) |>
   dplyr::mutate(source_origin = "manual_ferrari.com")
 
@@ -162,6 +189,76 @@ production_periods <- readr::read_csv(
   comment = "#",
   show_col_types = FALSE
 )
+
+genealogy_required_cols <- c(
+  "model", "source_year", "engine_architecture_override",
+  "engine_location_override", "seating_configuration_override",
+  "base_model_override", "base_model_year_override", "lineage_override",
+  "generation_override", "predecessor_override", "predecessor_year_override",
+  "predecessor_relationship_override", "successor_override",
+  "successor_year_override", "successor_relationship_override",
+  "taxonomy_notes_override", "taxonomy_source_name", "taxonomy_source_url",
+  "taxonomy_source_type", "taxonomy_confidence_override",
+  "taxonomy_review_status", "taxonomy_reviewed_at", "human_decision_required"
+)
+
+genealogy_evidence <- readr::read_csv(
+  genealogy_evidence_csv,
+  comment = "#",
+  col_types = readr::cols(
+    .default = readr::col_guess(),
+    seating_configuration_override = readr::col_character()
+  ),
+  show_col_types = FALSE
+)
+
+history_correspondence <- readr::read_csv(
+  history_correspondence_csv,
+  comment = "#",
+  show_col_types = FALSE
+)
+
+history_required_cols <- c(
+  "model", "source_year", "history_year", "history_year_type",
+  "history_url", "history_image_url", "history_source_name",
+  "history_review_status", "history_reviewed_at", "history_notes"
+)
+
+missing_history_cols <- setdiff(history_required_cols, names(history_correspondence))
+if (length(missing_history_cols) > 0) {
+  cli::cli_abort(
+    "History correspondence is missing columns: {paste(missing_history_cols, collapse = ', ')}"
+  )
+}
+
+history_year_types <- c(
+  "presentation", "launch", "production_start",
+  "competition_season", "editorial_year"
+)
+unexpected_history_types <- setdiff(
+  unique(stats::na.omit(history_correspondence$history_year_type)),
+  history_year_types
+)
+if (length(unexpected_history_types) > 0) {
+  cli::cli_abort(
+    "Unexpected history_year_type: {paste(unexpected_history_types, collapse = ', ')}"
+  )
+}
+
+if (anyDuplicated(history_correspondence[c("model", "source_year")])) {
+  cli::cli_abort("History correspondence must be unique by model and source_year.")
+}
+
+missing_genealogy_cols <- setdiff(genealogy_required_cols, names(genealogy_evidence))
+if (length(missing_genealogy_cols) > 0) {
+  cli::cli_abort(
+    "Missing genealogy evidence columns: {paste(missing_genealogy_cols, collapse = ', ')}"
+  )
+}
+
+if (anyDuplicated(genealogy_evidence[c("model", "source_year")])) {
+  cli::cli_abort("Genealogy evidence keys must be unique by model and source_year.")
+}
 
 missing_period_cols <- setdiff(period_required_cols, names(production_periods))
 if (length(missing_period_cols) > 0) {
@@ -208,7 +305,7 @@ relationship_types <- c(
 
 # Model groups ------------------------------------------------------------
 v12_2plus2 <- c(
-  "250 GT 2+2", "330 GT 2+2", "365 GT 2+2", "365 GTC4",
+  "250 GT 2+2", "330 America", "330 GT 2+2", "365 GT 2+2", "365 GTC4",
   "365 GT4 2+2", "400 GT", "400 Automatic", "400 GTi",
   "400 Automatic i", "412", "456 GT", "456 GTA", "456M GT",
   "456M GTA", "612 Scaglietti", "FF", "GTC4Lusso", "GTC4Lusso T",
@@ -232,7 +329,7 @@ halo_models <- c(
 
 hybrid_supercars <- c(
   "SF90 Stradale", "SF90 Spider", "SF90 XX Stradale", "SF90 XX Spider",
-  "849 Testarossa"
+  "849 Testarossa", "849 Testarossa Spider"
 )
 
 icona_models <- c("Monza SP1", "Monza SP2", "Daytona SP3")
@@ -317,6 +414,15 @@ ferrari_classified <- ferrari_models |>
     engine_location = dplyr::case_when(
       engine_position == "front" ~ "front",
       engine_position == "rear" ~ "mid",
+      model %in% c(
+        "125 S", "275 GTB Competizione", "365 GTB4 Competizione",
+        "575 GTC", "599XX"
+      ) ~ "front",
+      model %in% c(
+        "F430 Challenge", "F430 GTC", "458 Challenge",
+        "458 Challenge EVO", "FXX K", "488 GT3", "488 GTE",
+        "488 Challenge"
+      ) ~ "mid",
       model %in% c(front_v8_gt, v12_2plus2, "Purosangue") ~ "front",
       model %in% c(
         mid_engine_sports, flat12_supercars, halo_models,
@@ -348,6 +454,7 @@ ferrari_classified <- ferrari_models |>
       model %in% icona_models ~ "Icona limited series",
       model %in% flat12_supercars ~ "Mid-engined 12-cylinder supercar",
       model %in% central_2plus2 ~ "Mid-engined 2+2 GT",
+      model == "GTC4Lusso T" ~ "Front-engined V8 GT",
       model %in% front_v8_gt ~ "Front-engined V8 GT",
       model %in% mid_engine_sports ~ "Mid-engined sports car",
       model %in% c(v12_2plus2, "Purosangue") ~ "Front-engined V12 2+2 GT",
@@ -479,18 +586,20 @@ lineage_nodes <- tibble::tribble(
   "12Cilindri", 2024L, "Front-engined V12 two-seat GT", 7L, "812 Superfast", 2017L, "direct",
 
   "250 GT 2+2", 1960L, "V12 GT 2+2", 1L, NA, NA, NA,
-  "330 GT 2+2", 1964L, "V12 GT 2+2", 2L, "250 GT 2+2", 1960L, "direct",
-  "365 GT 2+2", 1967L, "V12 GT 2+2", 3L, "330 GT 2+2", 1964L, "direct",
-  "365 GT4 2+2", 1972L, "V12 GT 2+2", 4L, "365 GT 2+2", 1967L, "direct",
-  "400 GT", 1976L, "V12 GT 2+2", 5L, "365 GT4 2+2", 1972L, "evolution",
-  "400 GTi", 1979L, "V12 GT 2+2", 6L, "400 GT", 1976L, "evolution",
-  "412", 1985L, "V12 GT 2+2", 7L, "400 GTi", 1979L, "evolution",
-  "456 GT", 1992L, "V12 GT 2+2", 8L, "412", 1985L, "direct",
-  "456M GT", 1998L, "V12 GT 2+2", 9L, "456 GT", 1992L, "evolution",
-  "612 Scaglietti", 2004L, "V12 GT 2+2", 10L, "456M GT", 1998L, "direct",
-  "FF", 2011L, "V12 GT 2+2", 11L, "612 Scaglietti", 2004L, "direct",
-  "GTC4Lusso", 2016L, "V12 GT 2+2", 12L, "FF", 2011L, "evolution",
-  "Purosangue", 2022L, "Front-engined V12 four-seat", 13L, "GTC4Lusso", 2016L, "spiritual_successor",
+  "330 America", 1963L, "V12 GT 2+2", 2L, "250 GT 2+2", 1960L, "evolution",
+  "330 GT 2+2", 1964L, "V12 GT 2+2", 3L, "330 America", 1963L, "direct",
+  "365 GT 2+2", 1967L, "V12 GT 2+2", 4L, "330 GT 2+2", 1964L, "direct",
+  "365 GTC4", 1971L, "V12 GT 2+2", 5L, "365 GT 2+2", 1967L, "direct",
+  "365 GT4 2+2", 1972L, "V12 GT 2+2", 6L, "365 GTC4", 1971L, "direct",
+  "400 GT", 1976L, "V12 GT 2+2", 7L, "365 GT4 2+2", 1972L, "evolution",
+  "400 GTi", 1979L, "V12 GT 2+2", 8L, "400 GT", 1976L, "evolution",
+  "412", 1985L, "V12 GT 2+2", 9L, "400 GTi", 1979L, "evolution",
+  "456 GT", 1992L, "V12 GT 2+2", 10L, "412", 1985L, "direct",
+  "456M GT", 1998L, "V12 GT 2+2", 11L, "456 GT", 1992L, "evolution",
+  "612 Scaglietti", 2004L, "V12 GT 2+2", 12L, "456M GT", 1998L, "direct",
+  "FF", 2011L, "V12 GT 2+2", 13L, "612 Scaglietti", 2004L, "direct",
+  "GTC4Lusso", 2016L, "V12 GT 2+2", 14L, "FF", 2011L, "evolution",
+  "Purosangue", 2022L, "Front-engined V12 four-seat", 1L, "GTC4Lusso", 2016L, "spiritual_successor",
 
   "Dino 308 GT4", 1973L, "Mid-engined V8 2+2", 1L, NA, NA, NA,
   "Mondial 8", 1980L, "Mid-engined V8 2+2", 2L, "Dino 308 GT4", 1973L, "direct",
@@ -537,7 +646,7 @@ lineage_nodes <- tibble::tribble(
 
   "Monza SP1", 2018L, "Icona", 1L, NA, NA, NA,
   "Monza SP2", 2018L, "Icona", 1L, NA, NA, NA,
-  "Daytona SP3", 2021L, "Icona", 2L, "Monza SP2", 2018L, "spiritual_successor",
+  "Daytona SP3", 2021L, "Icona", 2L, NA, NA, NA,
 
   "FXX", 2005L, "XX Programme", 1L, NA, NA, NA,
   "599XX", 2010L, "XX Programme", 2L, "FXX", 2005L, "spiritual_successor",
@@ -547,6 +656,12 @@ lineage_nodes <- tibble::tribble(
 # Derivatives and parallel body styles -----------------------------------
 derivatives <- tibble::tribble(
   ~model, ~year, ~base_model, ~base_model_year, ~lineage,
+  "208 GTB", 1980L, "308 GTB", 1975L, "Italian-market mid-engined V8",
+  "208 GTS", 1980L, "308 GTS", 1977L, "Italian-market mid-engined V8",
+  "208 GTB Turbo", 1982L, "208 GTB", 1980L, "Italian-market mid-engined V8",
+  "208 GTS Turbo", 1983L, "208 GTS", 1980L, "Italian-market mid-engined V8",
+  "GTB Turbo", 1986L, "328 GTB", 1985L, "Italian-market mid-engined V8",
+  "GTS Turbo", 1986L, "328 GTS", 1985L, "Italian-market mid-engined V8",
   "Dino 246 GTS", 1972L, "Dino 246 GT", 1969L, "Mid-engined Dino V6",
   "308 GTS", 1977L, "308 GTB", 1975L, "Mid-engined V8 sports cars",
   "308 GTBi", 1980L, "308 GTB", 1975L, "Mid-engined V8 sports cars",
@@ -555,10 +670,14 @@ derivatives <- tibble::tribble(
   "308 GTS Quattrovalvole", 1982L, "308 GTS", 1977L, "Mid-engined V8 sports cars",
   "328 GTS", 1985L, "328 GTB", 1985L, "Mid-engined V8 sports cars",
   "348 TS", 1989L, "348 TB", 1989L, "Mid-engined V8 sports cars",
+  "348 GTB", 1993L, "348 TB", 1989L, "Mid-engined V8 sports cars",
+  "348 GTS", 1993L, "348 TS", 1989L, "Mid-engined V8 sports cars",
   "348 Spider", 1993L, "348 TB", 1989L, "Mid-engined V8 sports cars",
   "F355 GTS", 1994L, "F355 Berlinetta", 1994L, "Mid-engined V8 sports cars",
   "F355 Spider", 1995L, "F355 Berlinetta", 1994L, "Mid-engined V8 sports cars",
   "355 F1 Berlinetta", 1997L, "F355 Berlinetta", 1994L, "Mid-engined V8 sports cars",
+  "355 F1 GTS", 1997L, "F355 GTS", 1994L, "Mid-engined V8 sports cars",
+  "355 F1 Spider", 1997L, "F355 Spider", 1995L, "Mid-engined V8 sports cars",
   "360 spider", 2000L, "360 Modena", 1999L, "Mid-engined V8 sports cars",
   "Challenge Stradale", 2003L, "360 Modena", 1999L, "Mid-engined V8 sports cars",
   "F430 Spider", 2005L, "F430", 2004L, "Mid-engined V8 sports cars",
@@ -595,6 +714,7 @@ derivatives <- tibble::tribble(
   "SF90 Spider", 2020L, "SF90 Stradale", 2019L, "SF90",
   "SF90 XX Stradale", 2023L, "SF90 Stradale", 2019L, "Hybrid production supercars",
   "SF90 XX Spider", 2023L, "SF90 XX Stradale", 2023L, "Hybrid production supercars",
+  "849 Testarossa Spider", 2025L, "849 Testarossa", 2025L, "Hybrid production supercars",
   "Ferrari Roma Spider", 2023L, "Ferrari Roma", 2019L, "Roma",
   "512 M", 1970L, "512 S", 1970L, "512-series sports prototypes",
   "458 Challenge EVO", 2014L, "458 Challenge", 2010L, "Ferrari Challenge",
@@ -609,7 +729,12 @@ derivatives <- tibble::tribble(
   "F50 GT", 1996L, "F50", 1995L, "Competition GT",
   "575 GTC", 2003L, "575M Maranello", 2002L, "Competition GT",
   "512 BB LM", 1978L, "512 BB", 1976L, "Competition GT",
-  "365 GTB4 Competizione", 1971L, "365 GTB4", 1968L, "Competition GT"
+  "365 GTB4 Competizione", 1971L, "365 GTB4", 1968L, "Competition GT",
+  "275 GTB Competizione", 1965L, "275 GTB", 1964L, "Competition GT",
+  "348 GT Competizione", 1993L, "348 GTB", 1993L, "Competition GT",
+  "FXX", 2005L, "Enzo Ferrari", 2002L, "XX Programme",
+  "599XX", 2010L, "599 GTB Fiorano", 2006L, "XX Programme",
+  "FXX K", 2014L, "LaFerrari", 2013L, "XX Programme"
 )
 
 # Add successor to each core node by reversing the predecessor relation.
@@ -648,15 +773,17 @@ ferrari_enriched <- ferrari_classified |>
       "derivative",
       predecessor_relationship
     ),
-    alternative_predecessor = dplyr::if_else(
-      model == "550 Maranello",
-      "F512 M",
-      alternative_predecessor
+    alternative_predecessor = dplyr::case_when(
+      model == "550 Maranello" ~ "F512 M",
+      model == "849 Testarossa Spider" ~ "SF90 Spider",
+      model == "599XX" ~ "FXX",
+      model == "FXX K" ~ "599XX",
+      TRUE ~ alternative_predecessor
     ),
-    alternative_relationship = dplyr::if_else(
-      model == "550 Maranello",
-      "direct",
-      alternative_relationship
+    alternative_relationship = dplyr::case_when(
+      model %in% c("550 Maranello", "849 Testarossa Spider") ~ "direct",
+      model %in% c("599XX", "FXX K") ~ "spiritual_successor",
+      TRUE ~ alternative_relationship
     ),
     taxonomy_notes = dplyr::case_when(
       model == "550 Maranello" ~ paste(
@@ -679,6 +806,14 @@ ferrari_enriched <- ferrari_classified |>
         "The 296 GTB continues the mid-engined sports-car spirit, but changes",
         "from a V8 to a hybrid V6; it is not treated as a technical evolution."
       ),
+      model == "849 Testarossa Spider" ~ paste(
+        "Open derivative of the 849 Testarossa and, independently, Ferrari's",
+        "direct commercial replacement for the SF90 Spider."
+      ),
+      model %in% c("599XX", "FXX K") ~ paste(
+        "The road-car base is recorded as a derivative relation; the prior XX",
+        "Programme car is retained separately as a spiritual predecessor."
+      ),
       TRUE ~ taxonomy_notes
     ),
     base_model = base_model,
@@ -693,12 +828,57 @@ external_successors <- tibble::tribble(
   "F8 Tributo", 2019L, "296 GTB", 2021L, "spiritual_successor",
   "GTC4Lusso", 2016L, "Purosangue", 2022L, "spiritual_successor",
   "LaFerrari", 2013L, "F80", 2024L, "spiritual_successor",
-  "488 Challenge", 2016L, "296 Challenge", 2023L, "direct"
+  "488 Challenge", 2016L, "296 Challenge", 2023L, "direct",
+  "SF90 Spider", 2020L, "849 Testarossa Spider", 2025L, "direct"
 )
 
 ferrari_enriched <- ferrari_enriched |>
   dplyr::left_join(external_successors, by = c("model", "year")) |>
+  dplyr::left_join(genealogy_evidence, by = c("model", "year" = "source_year")) |>
+  dplyr::left_join(history_correspondence, by = c("model", "year" = "source_year")) |>
   dplyr::mutate(
+    engine_architecture = dplyr::coalesce(
+      engine_architecture_override, engine_architecture
+    ),
+    engine_location = dplyr::coalesce(engine_location_override, engine_location),
+    seating_configuration = dplyr::coalesce(
+      seating_configuration_override, seating_configuration
+    ),
+    base_model = dplyr::coalesce(base_model_override, base_model),
+    base_model_year = dplyr::coalesce(base_model_year_override, base_model_year),
+    lineage = dplyr::coalesce(lineage_override, lineage),
+    generation = dplyr::coalesce(generation_override, generation),
+    predecessor = dplyr::coalesce(predecessor_override, predecessor),
+    predecessor_year = dplyr::coalesce(predecessor_year_override, predecessor_year),
+    predecessor_relationship = dplyr::coalesce(
+      predecessor_relationship_override, predecessor_relationship
+    ),
+    successor = dplyr::coalesce(successor_override, successor),
+    successor_year = dplyr::coalesce(successor_year_override, successor_year),
+    successor_relationship = dplyr::coalesce(
+      successor_relationship_override, successor_relationship
+    ),
+    taxonomy_notes = dplyr::coalesce(taxonomy_notes_override, taxonomy_notes),
+    taxonomy_confidence = dplyr::coalesce(
+      taxonomy_confidence_override, taxonomy_confidence
+    ),
+    taxonomy_source_url = dplyr::coalesce(taxonomy_source_url, url),
+    taxonomy_source_type = dplyr::coalesce(
+      taxonomy_source_type,
+      "manufacturer_model_page"
+    ),
+    taxonomy_review_status = dplyr::coalesce(
+      taxonomy_review_status,
+      "official_model_page_reviewed"
+    ),
+    taxonomy_reviewed_at = dplyr::coalesce(
+      taxonomy_reviewed_at,
+      as.Date("2026-08-15")
+    ),
+    human_decision_required = dplyr::coalesce(
+      human_decision_required,
+      FALSE
+    ),
     successor = dplyr::coalesce(successor, external_successor),
     successor_year = dplyr::coalesce(successor_year, external_successor_year),
     successor_relationship = dplyr::coalesce(
@@ -717,12 +897,23 @@ ferrari_enriched <- ferrari_enriched |>
     start_year_source = dplyr::if_else(
       period_review_status == "not_in_manual_file",
       "ferrari_past_models.csv",
-      "ferrari_production_periods.csv"
+      "data/cars/ferrari_manual/ferrari_production_periods.csv"
     ),
-    taxonomy_source = dplyr::case_when(
+    taxonomy_source = dplyr::coalesce(taxonomy_source_name, dplyr::case_when(
       !is.na(lineage) | !is.na(base_model) ~
         "curated Ferrari.com evidence + repository description",
       TRUE ~ "rules based on repository data"
+    )),
+    ai_enriched = TRUE,
+    ai_enrichment_method = paste(
+      "AI-assisted historical curation; deterministic R rules;",
+      "manual review of cited sources"
+    ),
+    ai_enrichment_basis = paste(
+      "data/cars/ferrari_past_models.csv;",
+      "data/cars/ferrari_manual/ferrari_production_periods.csv;",
+      "data/cars/ferrari_manual/ferrari_genealogy_evidence.csv;",
+      "data/cars/ferrari_manual/ferrari_history_correspondence.csv"
     ),
     source_category = dplyr::recode(
       category,
@@ -739,6 +930,10 @@ ferrari_enriched <- ferrari_enriched |>
     production_status, period_source_name, period_source_url,
     period_source_type, period_confidence, period_review_status,
     period_notes, period_reviewed_at,
+    history_year, history_year_type, history_url, history_image_url,
+    history_source_name, history_review_status, history_reviewed_at,
+    history_notes,
+    ai_enriched, ai_enrichment_method, ai_enrichment_basis,
     main_family, subfamily, lineage, generation,
     engine_architecture, engine_type, engine_location,
     seating_configuration, orientation,
@@ -749,6 +944,7 @@ ferrari_enriched <- ferrari_enriched |>
     taxonomy_confidence, external_enrichment_required,
     taxonomy_notes, start_year_source, taxonomy_source
   ) |>
+  dplyr::select(-dplyr::ends_with("_override")) |>
   dplyr::rename(source_year = year) |>
   dplyr::select(-category) |>
   dplyr::relocate(source_year, source_category, .after = end_year) |>

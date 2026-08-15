@@ -1,0 +1,18 @@
+# Verified Ferrari History Garage correspondences. Garage years never imply production periods by themselves.
+model,source_year,history_year,history_year_type,history_url,history_image_url,history_source_name,history_review_status,history_reviewed_at,history_notes
+342 America,1951,,,,,Ferrari History Garage,pending_identity_confirmation,2026-08-15,The prior 1950 mapping was rejected: Ferrari Garage lists 340 America in 1950 and no model-specific 1951 Garage URL for 342 America has been verified. Effective production or deliveries remain separately recorded from 1952.
+250 Testa Rossa,1957,1957,competition_season,https://www.ferrari.com/en-EN/history/garage/1957/250-testa-rossa,,Ferrari History Garage,reviewed,2026-08-15,Garage placement corresponds to the model's first competition season and is not used as an inferred production interval.
+335 S,1957,1957,competition_season,https://www.ferrari.com/en-EN/history/garage/1957/335-s,,Ferrari History Garage,reviewed,2026-08-15,Distinct atomic model from the later engine modification of chassis 0744.
+365 GT4 BB,1971,1971,presentation,https://www.ferrari.com/en-EN/history/garage/1971/365-gt4-bb,,Ferrari History Garage,reviewed,2026-08-15,Presented at the 1971 Turin Motor Show; production began later in 1973.
+365 GT4 2+2,1972,1972,presentation,https://www.ferrari.com/en-EN/history/garage/1972/365-gt4-22,,Ferrari History Garage,reviewed,2026-08-15,Garage year identifies the presentation chronology.
+Dino 308 GT4,1973,1973,presentation,https://www.ferrari.com/en-EN/history/garage/1973/dino-308-gt4,,Ferrari History Garage,reviewed,2026-08-15,Presented in 1973; effective production remains separately recorded from 1974.
+512 BB,1976,1976,launch,https://www.ferrari.com/en-EN/history/garage/1976/512-bb,,Ferrari History Garage,reviewed,2026-08-15,Garage launch chronology agrees with the separately sourced production start.
+512 BB LM,1978,1978,competition_season,https://www.ferrari.com/en-EN/history/garage/1978/512-bb-lm,,Ferrari History Garage,reviewed,2026-08-15,Competition chronology only.
+Testarossa,1984,1984,launch,https://www.ferrari.com/en-EN/history/garage/1984/testarossa,,Ferrari History Garage,reviewed,2026-08-15,Garage launch chronology.
+F40,1987,1987,launch,https://www.ferrari.com/en-EN/history/garage/1987/f40,,Ferrari History Garage,reviewed,2026-08-15,Garage launch chronology.
+F50,1995,1995,launch,https://www.ferrari.com/en-EN/history/garage/1995/f50,,Ferrari History Garage,reviewed,2026-08-15,Garage launch chronology.
+Enzo Ferrari,2002,2002,launch,https://www.ferrari.com/en-EN/history/garage/2002/enzo-ferrari,,Ferrari History Garage,reviewed,2026-08-15,Garage launch chronology.
+Ferrari California,2008,2008,launch,https://www.ferrari.com/en-EN/history/garage/2008/ferrari-california,,Ferrari History Garage,reviewed,2026-08-15,Garage launch chronology.
+LaFerrari,2013,2013,launch,https://www.ferrari.com/en-EN/history/garage/2013/laferrari,,Ferrari History Garage,reviewed,2026-08-15,Garage launch chronology.
+GTC4Lusso,2016,2016,launch,https://www.ferrari.com/en-EN/history/garage/2016/gtc4lusso,,Ferrari History Garage,reviewed,2026-08-15,Garage launch chronology.
+Daytona SP3,2021,2021,presentation,https://www.ferrari.com/en-EN/history/garage/2021/daytona-sp3,,Ferrari History Garage,reviewed,2026-08-15,Unveiled at the 2021 Finali Mondiali; no relationship to Monza is inferred from shared Icona placement.
